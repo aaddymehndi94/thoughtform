@@ -11781,7 +11781,7 @@
     "sources": [
       "gs-125"
     ],
-    "metaphor": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+    "metaphor": "An inherited organizing star disappears, leaving the traveller and the route without their previous guarantee.",
     "scene": {
       "kind": "notebook",
       "caption": "death god",
@@ -11866,6 +11866,176 @@
             "text": "direction",
             "x": 168.4772918701172,
             "y": 239
+          }
+        ]
+      },
+      "lesson": {
+        "description": "An inherited organizing star disappears, leaving the traveller and the route without their previous guarantee.",
+        "beats": [
+          {
+            "caption": "A culture uses an inherited highest value to orient life.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "traveller",
+                "type": "figure",
+                "x": 108,
+                "y": 141
+              },
+              {
+                "id": "guide",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "guide-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 289,
+                "y": 59
+              },
+              {
+                "id": "route",
+                "type": "path",
+                "d": "M140 189 Q203 144 290 100"
+              },
+              {
+                "id": "old",
+                "type": "text",
+                "text": "an inherited orientation",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "That value loses credibility.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "traveller",
+                "type": "figure",
+                "x": 108,
+                "y": 141
+              },
+              {
+                "id": "guide",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "guide-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 289,
+                "y": 59
+              },
+              {
+                "id": "lost",
+                "type": "path",
+                "d": "M266 36 L312 82 M312 36 L266 82"
+              },
+              {
+                "id": "route",
+                "type": "path",
+                "d": "M140 189 Q203 144 290 100"
+              }
+            ]
+          },
+          {
+            "caption": "The old directions may remain, but their authority is now in question.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "traveller",
+                "type": "figure",
+                "x": 108,
+                "y": 141
+              },
+              {
+                "id": "route",
+                "type": "path",
+                "d": "M140 189 Q203 144 290 100",
+                "tone": "faint",
+                "dashed": true
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-57.5 -38.0 L57.5 -37.0 L56.5 38.0 L-56.5 37.0 Z"
+                  },
+                  {
+                    "id": "question-word0-line0",
+                    "type": "text",
+                    "text": "where now?",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 71
+              }
+            ]
+          },
+          {
+            "caption": "The death of God names a cultural problem whose consequences outlast declared disbelief.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "traveller",
+                "type": "figure",
+                "x": 108,
+                "y": 141
+              },
+              {
+                "id": "route",
+                "type": "path",
+                "d": "M140 189 Q203 144 290 100",
+                "tone": "faint",
+                "dashed": true
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-57.5 -38.0 L57.5 -37.0 L56.5 38.0 L-56.5 37.0 Z"
+                  },
+                  {
+                    "id": "question-word0-line0",
+                    "type": "text",
+                    "text": "where now?",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 71
+              },
+              {
+                "id": "consequence",
+                "type": "text",
+                "text": "the consequences are still unfolding",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -11969,7 +12139,7 @@
     "sources": [
       "gs-108-109"
     ],
-    "metaphor": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+    "metaphor": "A vanished belief leaves an inherited stencil that continues shaping expectations after its explicit rejection.",
     "scene": {
       "kind": "notebook",
       "caption": "shadows god",
@@ -12054,6 +12224,123 @@
             "text": "expectations",
             "x": 154.2796844482422,
             "y": 239
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A vanished belief leaves an inherited stencil that continues shaping expectations after its explicit rejection.",
+        "beats": [
+          {
+            "caption": "A doctrine once supplied the picture of what existence should be.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "belief",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "belief-outline",
+                    "type": "path",
+                    "d": "M-96.5 -62.0 L96.5 -61.0 L95.5 62.0 L-95.5 61.0 Z"
+                  },
+                  {
+                    "id": "belief-word0-line0",
+                    "type": "text",
+                    "text": "a guaranteed order",
+                    "x": 0,
+                    "y": -38.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 105
+              }
+            ]
+          },
+          {
+            "caption": "The explicit belief is rejected.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "belief",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "belief-outline",
+                    "type": "path",
+                    "d": "M-96.5 -62.0 L96.5 -61.0 L95.5 62.0 L-95.5 61.0 Z"
+                  },
+                  {
+                    "id": "belief-word0-line0",
+                    "type": "text",
+                    "text": "belief rejected",
+                    "x": 0,
+                    "y": -38.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 105
+              },
+              {
+                "id": "rejected",
+                "type": "path",
+                "d": "M165 76 L235 146 M235 76 L165 146"
+              }
+            ]
+          },
+          {
+            "caption": "Its expectations can continue to frame judgments about the world.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "stencil",
+                "type": "path",
+                "d": "M87 45 L313 45 L313 188 L87 188 Z M126 76 L273 76 L273 157 L126 157 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "expectation",
+                "type": "text",
+                "text": "order expected",
+                "x": 200,
+                "y": 114,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche asks which inherited habits of valuation survive disbelief.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "stencil",
+                "type": "path",
+                "d": "M87 45 L313 45 L313 188 L87 188 Z M126 76 L273 76 L273 157 L126 157 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "expectation",
+                "type": "text",
+                "text": "certainty expected",
+                "x": 200,
+                "y": 114,
+                "anchor": "middle",
+                "fontSize": 14
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "what survives the rejection?",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -12165,11 +12452,11 @@
     "title": "When the measure fails",
     "statement": "Life can seem worthless when it fails a standard we have stopped believing.",
     "explanation": "Nietzsche describes a danger after the collapse of transcendent ideals: the world may still be judged by their demands. What remains then appears deficient, purposeless, or empty.",
-    "nuance": "This card names a central interpretation of Nietzsche's problem of nihilism, not a definition he presents uniformly in every work. Losing belief in an ideal and ceasing to evaluate by it are different events. One can deny a divine plan yet still regard a life without such a plan as a failed life. The resulting emptiness is not simply too little entertainment. It concerns the authority of value itself. Nietzsche's task is to find ways of evaluating and affirming existence that do not depend on condemning it for failing to match a supposed world beyond it.\n\nConsider a scale designed to recognize only guaranteed, eternal purposes. Once the guarantee is lost, every finite aim receives a low score. The world has not necessarily become emptier; the measure continues to demand something the world is no longer believed to contain. This is one way Nietzsche's critique of a supposed true world connects with the danger of nihilism. A discarded belief can remain active as a standard of disappointment.\n\nCreating values is therefore not merely selecting a pleasant substitute slogan. It requires examining why the former standard commanded assent and what kind of existence a new evaluation makes possible. Nietzsche does not offer a universally agreed system that resolves this question once and for all. His affirmative images, genealogies, and experiments stage a struggle over worth after an old source of authority has become questionable. The difficulty belongs to the measure itself.",
+    "nuance": "This card names a central interpretation of Nietzsche's problem of nihilism, not a definition he presents uniformly in every work. Losing belief in an ideal and ceasing to evaluate by it are different events. One can deny a divine plan yet still regard a life without such a plan as a failed life. The resulting emptiness reaches beyond a loss of pleasure. It concerns the authority of value itself. Nietzsche's task is to find ways of evaluating and affirming existence that do not depend on condemning it for failing to match a supposed world beyond it.\n\nConsider a scale designed to recognize only guaranteed, eternal purposes. Once the guarantee is lost, every finite aim receives a low score. The world has not necessarily become emptier; the measure continues to demand something the world is no longer believed to contain. This is one way Nietzsche's critique of a supposed true world connects with the danger of nihilism. A discarded belief can remain active as a standard of disappointment.\n\nCreating values requires a change in what gives an evaluation authority. It requires examining why the former standard commanded assent and what kind of existence a new evaluation makes possible. Nietzsche does not offer a universally agreed system that resolves this question once and for all. His affirmative images, genealogies, and experiments stage a struggle over worth after an old source of authority has become questionable. The difficulty belongs to the measure itself.",
     "sources": [
       "gs-343"
     ],
-    "metaphor": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+    "metaphor": "Finite aims are repeatedly found inadequate because a discarded ideal still supplies an impossible measuring frame.",
     "scene": {
       "kind": "notebook",
       "caption": "nihilism",
@@ -12247,6 +12534,254 @@
             "text": "a surviving measure",
             "x": 130.1695068359375,
             "y": 227
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Finite aims are repeatedly found inadequate because a discarded ideal still supplies an impossible measuring frame.",
+        "beats": [
+          {
+            "caption": "A highest ideal loses credibility.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "ideal",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ideal-outline",
+                    "type": "path",
+                    "d": "M-104.5 -30.5 L104.5 -29.5 L103.5 30.5 L-103.5 29.5 Z"
+                  },
+                  {
+                    "id": "ideal-word0-line0",
+                    "type": "text",
+                    "text": "a final guarantee",
+                    "x": 0,
+                    "y": -6.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 60
+              },
+              {
+                "id": "measure",
+                "type": "path",
+                "d": "M79 101 L321 101 M91 94 L91 110 M308 94 L308 110"
+              }
+            ]
+          },
+          {
+            "caption": "Ordinary aims are still measured against the standard it supplied.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "ideal",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ideal-outline",
+                    "type": "path",
+                    "d": "M-104.5 -30.5 L104.5 -29.5 L103.5 30.5 L-103.5 29.5 Z"
+                  },
+                  {
+                    "id": "ideal-word0-line0",
+                    "type": "text",
+                    "text": "rejected",
+                    "x": 0,
+                    "y": -6.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 60
+              },
+              {
+                "id": "no",
+                "type": "path",
+                "d": "M178 38 L222 82 M222 38 L178 82"
+              },
+              {
+                "id": "measure",
+                "type": "path",
+                "d": "M79 101 L321 101 M91 94 L91 110 M308 94 L308 110"
+              }
+            ]
+          },
+          {
+            "caption": "Work, affection, and creation appear worthless beside that demand.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "measure",
+                "type": "path",
+                "d": "M79 66 L321 66 M91 59 L91 75 M308 59 L308 75"
+              },
+              {
+                "id": "aim-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aim-a-outline",
+                    "type": "path",
+                    "d": "M-43.5 -30.0 L43.5 -29.0 L42.5 30.0 L-42.5 29.0 Z"
+                  },
+                  {
+                    "id": "aim-a-word0-line0",
+                    "type": "text",
+                    "text": "work",
+                    "x": 0,
+                    "y": -6.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 104,
+                "y": 154
+              },
+              {
+                "id": "aim-b",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aim-b-outline",
+                    "type": "path",
+                    "d": "M-43.5 -30.0 L43.5 -29.0 L42.5 30.0 L-42.5 29.0 Z"
+                  },
+                  {
+                    "id": "aim-b-word0-line0",
+                    "type": "text",
+                    "text": "love",
+                    "x": 0,
+                    "y": -6.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 202,
+                "y": 154
+              },
+              {
+                "id": "aim-c",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aim-c-outline",
+                    "type": "path",
+                    "d": "M-43.5 -30.0 L43.5 -29.0 L42.5 30.0 L-42.5 29.0 Z"
+                  },
+                  {
+                    "id": "aim-c-word0-line0",
+                    "type": "text",
+                    "text": "making",
+                    "x": 0,
+                    "y": -6.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 299,
+                "y": 154
+              },
+              {
+                "id": "failure",
+                "type": "text",
+                "text": "all judged insufficient",
+                "x": 200,
+                "y": 225,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Nihilism can preserve the rejected ideal as its hidden measure of value.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "measure",
+                "type": "path",
+                "d": "M79 66 L321 66 M91 59 L91 75 M308 59 L308 75"
+              },
+              {
+                "id": "aim-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aim-a-outline",
+                    "type": "path",
+                    "d": "M-43.5 -30.0 L43.5 -29.0 L42.5 30.0 L-42.5 29.0 Z"
+                  },
+                  {
+                    "id": "aim-a-word0-line0",
+                    "type": "text",
+                    "text": "work",
+                    "x": 0,
+                    "y": -6.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 104,
+                "y": 154
+              },
+              {
+                "id": "aim-b",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aim-b-outline",
+                    "type": "path",
+                    "d": "M-43.5 -30.0 L43.5 -29.0 L42.5 30.0 L-42.5 29.0 Z"
+                  },
+                  {
+                    "id": "aim-b-word0-line0",
+                    "type": "text",
+                    "text": "love",
+                    "x": 0,
+                    "y": -6.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 202,
+                "y": 154
+              },
+              {
+                "id": "aim-c",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aim-c-outline",
+                    "type": "path",
+                    "d": "M-43.5 -30.0 L43.5 -29.0 L42.5 30.0 L-42.5 29.0 Z"
+                  },
+                  {
+                    "id": "aim-c-word0-line0",
+                    "type": "text",
+                    "text": "making",
+                    "x": 0,
+                    "y": -6.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 299,
+                "y": 154
+              },
+              {
+                "id": "hidden",
+                "type": "text",
+                "text": "the old measure is still in use",
+                "x": 200,
+                "y": 225,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -12354,7 +12889,7 @@
     "sources": [
       "gs-343"
     ],
-    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "metaphor": "A boat leaves a secure shore when an inherited horizon falls away, gaining possibilities together with exposure.",
     "scene": {
       "kind": "notebook",
       "caption": "open sea",
@@ -12408,6 +12943,125 @@
             "text": "unfixed destination",
             "x": 126.62954406738281,
             "y": 226
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A boat leaves a secure shore when an inherited horizon falls away, gaining possibilities together with exposure.",
+        "beats": [
+          {
+            "caption": "A familiar shore supplied a destination and a limit.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "boat",
+                "type": "path",
+                "d": "M125 139 Q197 166 273 139 L251 175 L148 175 Z M199 136 L199 72 L252 133 Z"
+              },
+              {
+                "id": "shore",
+                "type": "path",
+                "d": "M58 52 Q99 123 55 190"
+              },
+              {
+                "id": "water",
+                "type": "path",
+                "d": "M94 186 Q198 177 329 186"
+              },
+              {
+                "id": "old",
+                "type": "text",
+                "text": "a familiar shore",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The inherited horizon opens after a former certainty falls away.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "boat",
+                "type": "path",
+                "d": "M125 139 Q197 166 273 139 L251 175 L148 175 Z M199 136 L199 72 L252 133 Z"
+              },
+              {
+                "id": "shore",
+                "type": "path",
+                "d": "M30 52 Q57 123 26 190",
+                "tone": "faint"
+              },
+              {
+                "id": "water",
+                "type": "path",
+                "d": "M60 186 Q198 177 342 186"
+              }
+            ]
+          },
+          {
+            "caption": "More directions become available.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "boat",
+                "type": "path",
+                "d": "M125 139 Q197 166 273 139 L251 175 L148 175 Z M199 136 L199 72 L252 133 Z"
+              },
+              {
+                "id": "water",
+                "type": "path",
+                "d": "M60 186 Q198 177 342 186"
+              },
+              {
+                "id": "horizon",
+                "type": "path",
+                "d": "M46 47 Q200 44 354 47",
+                "tone": "faint"
+              },
+              {
+                "id": "possible",
+                "type": "text",
+                "text": "many directions",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The open sea brings exposure as well as possibility; no new guarantee is supplied.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "boat",
+                "type": "path",
+                "d": "M125 139 Q197 166 273 139 L251 175 L148 175 Z M199 136 L199 72 L252 133 Z"
+              },
+              {
+                "id": "water",
+                "type": "path",
+                "d": "M60 186 Q198 177 342 186"
+              },
+              {
+                "id": "horizon",
+                "type": "path",
+                "d": "M46 47 Q200 44 354 47",
+                "tone": "faint"
+              },
+              {
+                "id": "exposure",
+                "type": "text",
+                "text": "possibility without a supplied shore",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -12516,7 +13170,7 @@
     "sources": [
       "z-Prologue-5"
     ],
-    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "metaphor": "A comfortable enclosure gradually removes every demanding possibility, then is presented as the audience’s desired future.",
     "scene": {
       "kind": "notebook",
       "caption": "last man",
@@ -12572,6 +13226,163 @@
             "y": 223
           }
         ]
+      },
+      "lesson": {
+        "description": "A comfortable enclosure gradually removes every demanding possibility, then is presented as the audience’s desired future.",
+        "beats": [
+          {
+            "caption": "Zarathustra describes people who prize comfort and safety above demanding possibilities.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 201,
+                "y": 142
+              },
+              {
+                "id": "shelter",
+                "type": "path",
+                "d": "M125 185 L125 67 Q197 27 271 67 L271 185"
+              },
+              {
+                "id": "aspiration",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aspiration-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 306,
+                "y": 54
+              }
+            ]
+          },
+          {
+            "caption": "Larger aspirations are removed from the available horizon.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 201,
+                "y": 142
+              },
+              {
+                "id": "shelter",
+                "type": "path",
+                "d": "M125 185 L125 67 Q197 27 271 67 L271 185"
+              },
+              {
+                "id": "aspiration",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "aspiration-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 306,
+                "y": 54
+              },
+              {
+                "id": "removed",
+                "type": "path",
+                "d": "M286 34 L326 74 M326 34 L286 74"
+              }
+            ]
+          },
+          {
+            "caption": "The enclosure becomes comfortable and undisturbing.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 201,
+                "y": 142
+              },
+              {
+                "id": "shelter",
+                "type": "path",
+                "d": "M125 185 L125 67 Q197 27 271 67 L271 185"
+              },
+              {
+                "id": "comfort",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "comfort-outline",
+                    "type": "path",
+                    "d": "M-67.0 -22.0 L67.0 -21.0 L66.0 22.0 L-66.0 21.0 Z"
+                  },
+                  {
+                    "id": "comfort-word0-line0",
+                    "type": "text",
+                    "text": "only comfort",
+                    "x": 0,
+                    "y": 2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 202,
+                "y": 31
+              }
+            ]
+          },
+          {
+            "caption": "The audience wants this future. Zarathustra presents it as a fictional warning.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 201,
+                "y": 142
+              },
+              {
+                "id": "shelter",
+                "type": "path",
+                "d": "M125 185 L125 67 Q197 27 271 67 L271 185"
+              },
+              {
+                "id": "audience",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "audience-outline",
+                    "type": "path",
+                    "d": "M-90.0 -27 L90.0 -27 L90.0 20 L12 20 L0 33 L-1 20 L-90.0 20 Z"
+                  },
+                  {
+                    "id": "audience-words-line0",
+                    "type": "text",
+                    "text": "we want this",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 35
+              },
+              {
+                "id": "warning",
+                "type": "text",
+                "text": "the audience embraces the warning",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -12623,31 +13434,69 @@
         ]
       },
       {
-        "description": "teacher's warning; audience's wish.",
+        "description": "The fictional teacher gives a warning that the audience welcomes as a desirable future.",
         "actors": [
           {
-            "id": "hook",
-            "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "id": "teacher",
+            "type": "figure",
+            "x": 95,
+            "y": 144
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "audience",
+            "type": "figure",
+            "x": 298,
+            "y": 144,
+            "facing": true
           },
           {
-            "id": "a",
+            "id": "future",
+            "type": "group",
+            "x": 200,
+            "y": 114,
+            "children": [
+              {
+                "id": "future-edge",
+                "type": "path",
+                "d": "M-52.0 -57.5 L52.0 -57.5 L52.0 57.5 L-52.0 57.5 Z"
+              }
+            ]
+          },
+          {
+            "id": "comfort",
             "type": "text",
-            "text": "teacher's warning",
-            "x": 31.187452697753912,
-            "y": 218
+            "text": "comfort",
+            "x": 200,
+            "y": 116,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "warning",
             "type": "text",
-            "text": "audience's wish",
-            "x": 226.1803970336914,
-            "y": 218
+            "text": "a warning",
+            "x": 95,
+            "y": 44,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "wish",
+            "type": "text",
+            "text": "a wish",
+            "x": 298,
+            "y": 44,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "fiction",
+            "type": "text",
+            "text": "different readings of one future",
+            "x": 200,
+            "y": 223,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -12661,11 +13510,11 @@
     "title": "A bridge, not a finish",
     "statement": "The human being can be a possibility still being worked out.",
     "explanation": "Zarathustra introduces the Übermensch as a figure of overcoming existing humanity. It points toward new valuation, rather than a biologically defined race or a person with superpowers.",
-    "nuance": "The dramatic text does not give a neat checklist for identifying the Übermensch. Translations such as overhuman, overman, and superman carry different associations. Its relation to Nietzsche's wider ideals remains debated, and it should not be turned into a category for declaring oneself superior. Zarathustra's bridge image emphasizes transition. It asks whether humanity must treat its current arrangements as its final purpose. Nietzsche's elitism still needs critical attention, but racist or eugenic readings cannot simply be substituted for what this speech says.\n\nThe bridge image makes present humanity transitional. It does not picture a perfected version of the same social ambitions: more fame, money, strength, or influence. Zarathustra asks whether inherited human valuations should determine the possibilities of life forever. The figure of the Übermensch belongs to that question of surpassing a received measure, rather than offering a recognizable superhero at the end of a personal development sequence.\n\nOne should retain the difficulty of the ideal instead of making it immediately comforting. Nietzsche criticizes equality and advances hierarchical valuations; those commitments cannot be removed by replacing the term with authenticity. At the same time, the speech does not define a racial program. A careful reading keeps the published dramatic text in view, notices its tensions, and refuses to let later appropriations dictate every meaning of the figure.",
+    "nuance": "The dramatic text does not give a neat checklist for identifying the Übermensch. Translations such as overhuman, overman, and superman carry different associations. Its relation to Nietzsche's wider ideals remains debated, and it should not be turned into a category for declaring oneself superior. Zarathustra's bridge image emphasizes transition. It asks whether humanity must treat its current arrangements as its final purpose. Nietzsche's elitism still needs critical attention, but racist or eugenic readings cannot simply be substituted for what this speech says.\n\nThe bridge image makes present humanity transitional. It does not picture a perfected version of the same social ambitions: more fame, money, strength, or influence. Zarathustra asks whether inherited human valuations should determine the possibilities of life forever. The figure of the Übermensch belongs to that question of surpassing a received measure of humanity.\n\nOne should retain the difficulty of the ideal instead of making it immediately comforting. Nietzsche criticizes equality and advances hierarchical valuations; those commitments cannot be removed by replacing the term with authenticity. At the same time, the speech does not define a racial program. A careful reading keeps the published dramatic text in view, notices its tensions, and refuses to let later appropriations dictate every meaning of the figure.",
     "sources": [
       "z-Prologue-3-4"
     ],
-    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "metaphor": "A current model of humanity is treated as a bridge toward a possibility whose final figure is deliberately left unfinished.",
     "scene": {
       "kind": "notebook",
       "caption": "overhuman",
@@ -12726,6 +13575,116 @@
             "text": "possibility",
             "x": 157.8997604370117,
             "y": 238
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A current model of humanity is treated as a bridge toward a possibility whose final figure is deliberately left unfinished.",
+        "beats": [
+          {
+            "caption": "Zarathustra presents humanity as something that can be overcome.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 103,
+                "y": 142
+              },
+              {
+                "id": "portrait",
+                "type": "path",
+                "d": "M229 58 L321 58 L321 187 L229 187 Z"
+              },
+              {
+                "id": "ideal",
+                "type": "figure",
+                "x": 276,
+                "y": 141,
+                "pose": {
+                  "scale": 0.7
+                },
+                "facing": true
+              }
+            ]
+          },
+          {
+            "caption": "Existing ideals do not provide the finished measure of the next possibility.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 103,
+                "y": 142
+              },
+              {
+                "id": "portrait",
+                "type": "path",
+                "d": "M229 58 L321 58 L321 187 L229 187 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "limited",
+                "type": "path",
+                "d": "M248 90 L304 146 M304 90 L248 146"
+              }
+            ]
+          },
+          {
+            "caption": "The movement crosses beyond a settled image of the human.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 157,
+                "y": 142
+              },
+              {
+                "id": "bridge",
+                "type": "path",
+                "d": "M55 194 Q201 149 347 194 M69 207 Q201 165 333 207"
+              },
+              {
+                "id": "unformed",
+                "type": "path",
+                "d": "M292 77 Q317 60 331 81 M331 81 L330 164",
+                "dashed": true
+              }
+            ]
+          },
+          {
+            "caption": "The overhuman is a disputed figure of transformation, not a biological racial ranking.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 157,
+                "y": 142
+              },
+              {
+                "id": "bridge",
+                "type": "path",
+                "d": "M55 194 Q201 149 347 194 M69 207 Q201 165 333 207"
+              },
+              {
+                "id": "unformed",
+                "type": "path",
+                "d": "M292 77 Q317 60 331 81 M331 81 L330 164",
+                "dashed": true
+              },
+              {
+                "id": "open",
+                "type": "text",
+                "text": "an uncompleted possibility",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -12835,7 +13794,7 @@
     "sources": [
       "z-Prologue-3"
     ],
-    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "metaphor": "A person’s hopes are first placed in a distant perfect world and then redirected toward the finite world where they live.",
     "scene": {
       "kind": "notebook",
       "caption": "faithful earth",
@@ -12887,6 +13846,192 @@
             "y": 239
           }
         ]
+      },
+      "lesson": {
+        "description": "A person’s hopes are first placed in a distant perfect world and then redirected toward the finite world where they live.",
+        "beats": [
+          {
+            "caption": "A perfect elsewhere makes this changing life seem deficient.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 108,
+                "y": 144
+              },
+              {
+                "id": "elsewhere",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "elsewhere-outline",
+                    "type": "path",
+                    "d": "M-63.5 -31.5 L63.5 -30.5 L62.5 31.5 L-62.5 30.5 Z"
+                  },
+                  {
+                    "id": "elsewhere-word0-line0",
+                    "type": "text",
+                    "text": "perfection",
+                    "x": 0,
+                    "y": -7.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 286,
+                "y": 65
+              },
+              {
+                "id": "earth",
+                "type": "path",
+                "d": "M44 194 Q203 187 356 194"
+              },
+              {
+                "id": "defect",
+                "type": "text",
+                "text": "here seems insufficient",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Zarathustra asks the reader to remain faithful to the earth.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 108,
+                "y": 144
+              },
+              {
+                "id": "elsewhere",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "elsewhere-outline",
+                    "type": "path",
+                    "d": "M-63.5 -31.5 L63.5 -30.5 L62.5 31.5 L-62.5 30.5 Z"
+                  },
+                  {
+                    "id": "elsewhere-word0-line0",
+                    "type": "text",
+                    "text": "perfection",
+                    "x": 0,
+                    "y": -7.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 286,
+                "y": 65
+              },
+              {
+                "id": "earth",
+                "type": "path",
+                "d": "M44 194 Q203 187 356 194"
+              },
+              {
+                "id": "guarantee",
+                "type": "path",
+                "d": "M260 39 L312 91 M312 39 L260 91"
+              }
+            ]
+          },
+          {
+            "caption": "Attention returns to the finite conditions of lived existence.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "home",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "home-roof",
+                    "type": "path",
+                    "d": "M-21.5 0 L0 -30 L21.5 0"
+                  },
+                  {
+                    "id": "home-walls",
+                    "type": "path",
+                    "d": "M-17.5 0 L-17.5 48 L17.5 48 L17.5 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 302,
+                "y": 139
+              },
+              {
+                "id": "earth",
+                "type": "path",
+                "d": "M44 194 Q203 187 356 194"
+              },
+              {
+                "id": "plant",
+                "type": "path",
+                "d": "M77 192 L76 155 M76 172 L62 159 M77 173 L90 155"
+              }
+            ]
+          },
+          {
+            "caption": "The earthly task is not guaranteed by an imagined world beyond it.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "home",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "home-roof",
+                    "type": "path",
+                    "d": "M-21.5 0 L0 -30 L21.5 0"
+                  },
+                  {
+                    "id": "home-walls",
+                    "type": "path",
+                    "d": "M-17.5 0 L-17.5 48 L17.5 48 L17.5 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 302,
+                "y": 139
+              },
+              {
+                "id": "earth",
+                "type": "path",
+                "d": "M44 194 Q203 187 356 194"
+              },
+              {
+                "id": "plant",
+                "type": "path",
+                "d": "M77 192 L76 155 M76 172 L62 159 M77 173 L90 155"
+              },
+              {
+                "id": "here",
+                "type": "text",
+                "text": "this finite life is the task",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -12904,38 +14049,51 @@
     ],
     "readingArt": [
       {
-        "description": "changing life; no other-world guarantee.",
+        "description": "Earthly life can receive attention through its own finite conditions: growth, dwelling, and embodied action.",
         "actors": [
           {
-            "id": "field",
+            "id": "life",
+            "type": "group",
+            "children": [
+              {
+                "id": "growth",
+                "type": "path",
+                "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+              }
+            ],
+            "x": 106,
+            "y": 136,
+            "pose": {
+              "scale": 0.9
+            }
+          },
+          {
+            "id": "dwelling",
             "type": "path",
-            "d": "M61 122 Q99 67 145 123 Q190 187 235 120 Q283 59 336 124"
+            "d": "M226 125L270 77L314 124 M235 115L235 178L305 178L305 115 M259 178L259 147L280 147L280 178"
           },
           {
-            "id": "outline",
+            "id": "earth",
             "type": "path",
-            "d": "M147 73 Q191 58 236 78 L232 174 Q188 194 148 172 Z"
+            "d": "M53 181Q193 176 340 184"
           },
           {
-            "id": "a",
+            "id": "top",
             "type": "text",
-            "text": "changing life",
-            "x": 147.04232940673828,
-            "y": 42
+            "text": "this finite life",
+            "x": 200,
+            "y": 37,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b-top",
+            "id": "grounded",
             "type": "text",
-            "text": "no other-world",
-            "x": 136.21938781738282,
-            "y": 216
-          },
-          {
-            "id": "b-bottom",
-            "type": "text",
-            "text": "guarantee",
-            "x": 157.45725708007814,
-            "y": 237
+            "text": "the task has conditions",
+            "x": 200,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -12987,7 +14145,7 @@
     "sources": [
       "gs-341"
     ],
-    "metaphor": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route.",
+    "metaphor": "A sequence of lived moments is returned intact, including the painful episode that a selective affirmation would remove.",
     "scene": {
       "kind": "notebook",
       "caption": "eternal recurrence",
@@ -13024,6 +14182,332 @@
             "id": "return-direction",
             "type": "path",
             "d": "M287 105 L302 119 L310 98"
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A sequence of lived moments is returned intact, including the painful episode that a selective affirmation would remove.",
+        "beats": [
+          {
+            "caption": "Imagine every episode of this life returning.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "one",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "one-outline",
+                    "type": "path",
+                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
+                  },
+                  {
+                    "id": "one-word0-line0",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 90,
+                "y": 105
+              },
+              {
+                "id": "two",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "two-outline",
+                    "type": "path",
+                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
+                  },
+                  {
+                    "id": "two-word0-line0",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 105
+              },
+              {
+                "id": "three",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "three-outline",
+                    "type": "path",
+                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
+                  },
+                  {
+                    "id": "three-word0-line0",
+                    "type": "text",
+                    "text": "daily",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 105
+              }
+            ]
+          },
+          {
+            "caption": "Pleasure, boredom, loss, and small unnoticed moments all return together.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "one",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "one-outline",
+                    "type": "path",
+                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
+                  },
+                  {
+                    "id": "one-word0-line0",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 90,
+                "y": 105
+              },
+              {
+                "id": "two",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "two-outline",
+                    "type": "path",
+                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
+                  },
+                  {
+                    "id": "two-word0-line0",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 105
+              },
+              {
+                "id": "three",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "three-outline",
+                    "type": "path",
+                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
+                  },
+                  {
+                    "id": "three-word0-line0",
+                    "type": "text",
+                    "text": "daily",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 105
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M51 145 Q202 219 350 145 Q369 65 323 51 Q200 19 62 50 Q32 82 51 145"
+              }
+            ]
+          },
+          {
+            "caption": "The painful episode cannot be removed from the sequence.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "one",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "one-outline",
+                    "type": "path",
+                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
+                  },
+                  {
+                    "id": "one-word0-line0",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 90,
+                "y": 105
+              },
+              {
+                "id": "two",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "two-outline",
+                    "type": "path",
+                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
+                  },
+                  {
+                    "id": "two-word0-line0",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 105
+              },
+              {
+                "id": "three",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "three-outline",
+                    "type": "path",
+                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
+                  },
+                  {
+                    "id": "three-word0-line0",
+                    "type": "text",
+                    "text": "daily",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 105
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M51 145 Q202 219 350 145 Q369 65 323 51 Q200 19 62 50 Q32 82 51 145"
+              },
+              {
+                "id": "no-omission",
+                "type": "text",
+                "text": "no omission",
+                "x": 200,
+                "y": 228,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The thought tests affirmation of the whole life, including its painful moments.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "one",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "one-outline",
+                    "type": "path",
+                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
+                  },
+                  {
+                    "id": "one-word0-line0",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 90,
+                "y": 105
+              },
+              {
+                "id": "two",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "two-outline",
+                    "type": "path",
+                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
+                  },
+                  {
+                    "id": "two-word0-line0",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 105
+              },
+              {
+                "id": "three",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "three-outline",
+                    "type": "path",
+                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
+                  },
+                  {
+                    "id": "three-word0-line0",
+                    "type": "text",
+                    "text": "daily",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 105
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M51 145 Q202 219 350 145 Q369 65 323 51 Q200 19 62 50 Q32 82 51 145"
+              },
+              {
+                "id": "whole",
+                "type": "text",
+                "text": "the whole sequence, again",
+                "x": 200,
+                "y": 232,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -13122,7 +14606,7 @@
     "sources": [
       "gs-276"
     ],
-    "metaphor": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route.",
+    "metaphor": "A fixed event remains unchanged while the person’s relation to its place within their life is reconsidered.",
     "scene": {
       "kind": "notebook",
       "caption": "amor fati",
@@ -13166,6 +14650,216 @@
             "id": "return-direction",
             "type": "path",
             "d": "M287 105 L302 119 L310 98"
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A fixed event remains unchanged while the person’s relation to its place within their life is reconsidered.",
+        "beats": [
+          {
+            "caption": "Something has happened and cannot be made unhappened.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-88.5 -53.0 L88.5 -52.0 L87.5 53.0 L-87.5 52.0 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "what happened",
+                    "x": 0,
+                    "y": -29.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 103
+              },
+              {
+                "id": "fixed",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "fixed-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "fixed-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 200,
+                "y": 166
+              }
+            ]
+          },
+          {
+            "caption": "The person can resent its place in the life that followed.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-88.5 -53.0 L88.5 -52.0 L87.5 53.0 L-87.5 52.0 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "what happened",
+                    "x": 0,
+                    "y": -29.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 103
+              },
+              {
+                "id": "fixed",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "fixed-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "fixed-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 200,
+                "y": 166
+              },
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 77,
+                "y": 144
+              },
+              {
+                "id": "resent",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "resent-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "resent-words-line0",
+                    "type": "text",
+                    "text": "if only…",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 71,
+                "y": 43
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche asks about a more demanding relation: wanting the whole necessity.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-88.5 -53.0 L88.5 -52.0 L87.5 53.0 L-87.5 52.0 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "what happened",
+                    "x": 0,
+                    "y": -29.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 103
+              },
+              {
+                "id": "life",
+                "type": "path",
+                "d": "M70 193 Q112 158 145 180 Q181 217 236 177 Q282 141 333 184"
+              },
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 78,
+                "y": 145
+              }
+            ]
+          },
+          {
+            "caption": "Amor fati is an ideal of affirmation, not a demand that someone praise an injury.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-88.5 -53.0 L88.5 -52.0 L87.5 53.0 L-87.5 52.0 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "what happened",
+                    "x": 0,
+                    "y": -29.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 103
+              },
+              {
+                "id": "life",
+                "type": "path",
+                "d": "M70 193 Q112 158 145 180 Q181 217 236 177 Q282 141 333 184"
+              },
+              {
+                "id": "ideal",
+                "type": "text",
+                "text": "the relation changes; the event stays",
+                "x": 200,
+                "y": 233,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -13272,7 +14966,7 @@
     "sources": [
       "z-II-Redemption"
     ],
-    "metaphor": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+    "metaphor": "A will that cannot alter a past act turns toward condemning the existence in which the act remains.",
     "scene": {
       "kind": "notebook",
       "caption": "revenge time",
@@ -13339,6 +15033,256 @@
             "text": "the past",
             "x": 262.77729949951174,
             "y": 223
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A will that cannot alter a past act turns toward condemning the existence in which the act remains.",
+        "beats": [
+          {
+            "caption": "The will wants to alter a past event.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "will",
+                "type": "figure",
+                "x": 286,
+                "y": 143,
+                "facing": true
+              },
+              {
+                "id": "past",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "past-outline",
+                    "type": "path",
+                    "d": "M-70.5 -51.5 L70.5 -50.5 L69.5 51.5 L-69.5 50.5 Z"
+                  },
+                  {
+                    "id": "past-word0-line0",
+                    "type": "text",
+                    "text": "the past",
+                    "x": 0,
+                    "y": -27.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 108
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M265 120 Q210 95 171 120"
+              }
+            ]
+          },
+          {
+            "caption": "The past remains beyond its power to reverse.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "will",
+                "type": "figure",
+                "x": 286,
+                "y": 143,
+                "facing": true
+              },
+              {
+                "id": "past",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "past-outline",
+                    "type": "path",
+                    "d": "M-70.5 -51.5 L70.5 -50.5 L69.5 51.5 L-69.5 50.5 Z"
+                  },
+                  {
+                    "id": "past-word0-line0",
+                    "type": "text",
+                    "text": "the past",
+                    "x": 0,
+                    "y": -27.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 108
+              },
+              {
+                "id": "fixed",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "fixed-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "fixed-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 190,
+                "y": 113
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "text": "cannot make it unhappen",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Resentment can expand from that event into a condemnation of existence.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "will",
+                "type": "figure",
+                "x": 286,
+                "y": 143,
+                "facing": true
+              },
+              {
+                "id": "past",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "past-outline",
+                    "type": "path",
+                    "d": "M-70.5 -51.5 L70.5 -50.5 L69.5 51.5 L-69.5 50.5 Z"
+                  },
+                  {
+                    "id": "past-word0-line0",
+                    "type": "text",
+                    "text": "the past",
+                    "x": 0,
+                    "y": -27.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 108
+              },
+              {
+                "id": "world",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "world-outline",
+                    "type": "path",
+                    "d": "M-142.5 -26.5 L142.5 -25.5 L141.5 26.5 L-141.5 25.5 Z"
+                  },
+                  {
+                    "id": "world-word0-line0",
+                    "type": "text",
+                    "text": "existence is condemned",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 199,
+                "y": 41
+              },
+              {
+                "id": "fixed",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "fixed-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "fixed-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 190,
+                "y": 113
+              }
+            ]
+          },
+          {
+            "caption": "Zarathustra’s problem is how willing might relate to the irreversible.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "will",
+                "type": "figure",
+                "x": 286,
+                "y": 143,
+                "facing": true
+              },
+              {
+                "id": "past",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "past-outline",
+                    "type": "path",
+                    "d": "M-70.5 -51.5 L70.5 -50.5 L69.5 51.5 L-69.5 50.5 Z"
+                  },
+                  {
+                    "id": "past-word0-line0",
+                    "type": "text",
+                    "text": "the past",
+                    "x": 0,
+                    "y": -27.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 108
+              },
+              {
+                "id": "fixed",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "fixed-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "fixed-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 190,
+                "y": 113
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "how can the will face what remains?",
+                "x": 200,
+                "y": 230,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
