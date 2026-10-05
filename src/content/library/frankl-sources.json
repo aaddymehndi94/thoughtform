@@ -40,5 +40,59 @@
     "author": "Viktor E. Frankl",
     "reference": "Postscript, “The Case for a Tragic Optimism”; edition-dependent pagination intentionally omitted; official bibliography link",
     "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-search": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy in a Nutshell”: existential frustration, noogenic neuroses, noö-dynamics, existential vacuum; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-love": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “The Meaning of Love”; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-past": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Life’s Transitoriness”; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-unique": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part I, discussion of responsibility toward an unfinished task or a loved person; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-conscience": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of conscience as an organ of meaning and the fallibility of conscience; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-dialogue": {
+    "title": "Logotherapy and Existential Analysis",
+    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
+    "reference": "“Socratic dialogue / Modification of attitudes”: prohibition on imposing the therapist’s values",
+    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  },
+  "frankl-techniques": {
+    "title": "Logotherapy and Existential Analysis",
+    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
+    "reference": "“Paradoxical Intention” and “Dereflexion”; compare Frankl, Man’s Search for Meaning, Part II, “Logotherapy as a Technique”",
+    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  },
+  "frankl-paradox": {
+    "title": "Paradoxical Intention: A Logotherapeutic Technique",
+    "author": "Viktor E. Frankl",
+    "reference": "American Journal of Psychotherapy 14(3), 1960, pp. 520–535; DOI 10.1176/appi.psychotherapy.1960.14.3.520",
+    "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.psychotherapy.1960.14.3.520"
+  },
+  "frankl-optimism": {
+    "title": "About Logotherapy",
+    "author": "Viktor Frankl Center Vienna",
+    "reference": "“Tragic Optimism”; compare Man’s Search for Meaning, postscript “The Case for a Tragic Optimism”",
+    "url": "https://www.franklzentrum.org/english/about-logotherapy.html"
   }
 }
