@@ -7318,7 +7318,7 @@
     "title": "The search for relief",
     "statement": "The mind often tries to lower an unpleasant tension.",
     "explanation": "Freud's pleasure principle describes a tendency to avoid unpleasure and seek satisfaction. It is an explanatory principle about mental processes, not the advice that a person should pursue pleasure without restraint.",
-    "nuance": "Hunger creates a pressure that eating can relieve. Freud extends the idea of tension and discharge into a model of mental life, while acknowledging that the relation between excitation and feeling is not mechanically simple.\n\nThe principle does not imply that people only choose enjoyable experiences. Some processes postpone satisfaction, and others repeat distress. Those difficulties become central to the book in which Freud examines what may operate beyond the principle.",
+    "nuance": "Hunger creates a pressure that eating can relieve. Freud extends the idea of tension and discharge into a model of mental life, while acknowledging that the relation between excitation and feeling is not mechanically simple. The principle concerns a tendency in mental regulation, not necessarily a person's explicitly chosen aim. Relief can also be obtained in ways that bring later difficulty. Freud's distinction between immediate discharge and the route required by reality is therefore central to understanding what the principle does and does not say.\n\nThe principle does not imply that people only choose enjoyable experiences. Some processes postpone satisfaction, and others repeat distress. Those difficulties become central to the book in which Freud examines what may operate beyond the principle.\n\nThe relaxing line depicts a change in tension rather than a cheerful endpoint. Suppose an impulse can be relieved immediately, but its discharge would interfere with a longer task. The mind's response then involves the principle's relation to other processes, including delay and conflict. Freud's economic language proposes quantities of excitation, while he acknowledges that feeling does not follow a simple numerical proportion. The drawing gives the relation an intelligible form without converting the hypothesis into a physical measurement. What becomes important in the sequence is not merely that relief is sought, but that some repeated processes seem to occur even when relief does not explain their return.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7376,6 +7376,102 @@
     "related": [
       "freud-working-through",
       "freud-reality-principle"
+    ],
+    "readingArt": [
+      {
+        "description": "unpleasant tension / possible discharge / relief",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "unpleasant tension",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "possible discharge",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "relief",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "a recurring process / seeks satisfaction / repeats distress",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a recurring process",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "seeks satisfaction",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "repeats distress",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -7386,7 +7482,7 @@
     "title": "The necessary delay",
     "statement": "A wish can be kept while its satisfaction is postponed.",
     "explanation": "Freud's reality principle modifies immediate pleasure-seeking in response to the external world. It tolerates temporary discomfort or delay when these make a more secure satisfaction possible.",
-    "nuance": "Wanting to eat does not mean food can be obtained instantly. Waiting, planning and working can serve the original wish while abandoning its immediate discharge. Reality is not simply the enemy of pleasure in Freud's account.\n\nThe distinction concerns the route to satisfaction. A detour can preserve an aim rather than renounce it altogether. Freud also notes that the change is incomplete: some mental activities remain more closely tied to the earlier search for immediate satisfaction.",
+    "nuance": "Wanting to eat does not mean food can be obtained instantly. Waiting, planning and working can serve the original wish while abandoning its immediate discharge. Reality is not simply the enemy of pleasure in Freud's account. Freud describes the later principle as securing rather than overthrowing the aim of satisfaction. It may give up an immediate route while preserving the desired result. This makes patience, planning and temporary discomfort part of desire's organization, rather than evidence that desire has vanished.\n\nThe distinction concerns the route to satisfaction. A detour can preserve an aim rather than renounce it altogether. Freud also notes that the change is incomplete: some mental activities remain more closely tied to the earlier search for immediate satisfaction.\n\nThe longer line still reaches toward the same destination. A hungry person waiting until food is safely available has not necessarily ceased to want it; the relation to circumstances changes the route. Freud connects this development with the demands of the external world and the ego's functions. The contrast should not become a moral story in which childish pleasure is bad and all delay is wise. A delay can be practical, excessive or imposed by deprivation. The principle names a form of adjustment to reality in Freud's model. It does not independently tell us whether a specific obstacle is unavoidable or whether an arrangement demanding sacrifice is just.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7460,6 +7556,110 @@
     "related": [
       "freud-pleasure-principle",
       "freud-traumatic-dreams"
+    ],
+    "readingArt": [
+      {
+        "description": "a desire / later satisfaction / a route shaped by reality",
+        "actors": [
+          {
+            "id": "direct",
+            "type": "path",
+            "d": "M77 84 L322 84",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M79 149 Q125 130 156 155 Q208 188 249 140 Q286 116 323 135",
+            "tone": "normal"
+          },
+          {
+            "id": "start",
+            "type": "circle",
+            "x": 80,
+            "y": 151,
+            "r": 7,
+            "tone": "normal"
+          },
+          {
+            "id": "end",
+            "type": "circle",
+            "x": 324,
+            "y": 135,
+            "r": 11,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a desire",
+            "x": 100,
+            "y": 211
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "later satisfaction",
+            "x": 285,
+            "y": 211
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a route shaped by reality",
+            "x": 203,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "description": "postponement / renunciation / the aim may remain",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "postponement",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "renunciation",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the aim may remain",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -7470,7 +7670,7 @@
     "title": "Returning to the fright",
     "statement": "Some dreams return a person to what they do not wish to repeat.",
     "explanation": "Freud observed that dreams following traumatic experiences could repeatedly return the dreamer to the fright. This challenged a simple version of his earlier account of dreams as wish-fulfilment.",
-    "nuance": "A recurrent scene of an accident does not look like ordinary imagined satisfaction. Freud asks whether the mind may first need to bind overwhelming excitation, before processes governed by pleasure can operate in the usual way.\n\nThis is part of a historical theoretical revision. His model of binding is not the same as a modern account of trauma or a universal explanation of nightmares. The important conceptual move is that distressing repetition becomes a problem the theory must confront.",
+    "nuance": "A recurrent scene of an accident does not look like ordinary imagined satisfaction. Freud asks whether the mind may first need to bind overwhelming excitation, before processes governed by pleasure can operate in the usual way. These dreams place repetition at the center of the theoretical problem. Freud asks why the mind would return to an overwhelming scene instead of producing a straightforward satisfaction. The observations therefore challenge a simple application of the pleasure principle before they motivate his further speculation.\n\nThis is part of a historical theoretical revision. His model of binding is not the same as a modern account of trauma or a universal explanation of nightmares. The important conceptual move is that distressing repetition becomes a problem the theory must confront.\n\nThe breached boundary shows what exceeds a capacity to receive and organize experience. Freud proposes that repeated dreaming may participate in an attempt to bind excitation, a task that is prior to the usual workings of pleasure. That interpretation is not identical with saying that the dreamer wishes for the event. It also does not establish the mechanism by itself. Different questions need to remain separate: the repeated nightmare, its relation to an overwhelming event, and the theory offered to explain why repetition occurs. This separation protects the historical argument from a damaging simplification in which distress is treated as proof of a secret wish to experience harm.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7537,6 +7737,93 @@
     "related": [
       "freud-reality-principle",
       "freud-fort-da"
+    ],
+    "readingArt": [
+      {
+        "description": "an overwhelming scene / its return in a dream / repetition creates a problem",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M128 72 Q223 31 281 95 Q322 163 246 192 Q154 220 113 147 Q84 100 128 72",
+            "tone": "normal"
+          },
+          {
+            "id": "arrow",
+            "type": "path",
+            "d": "M119 74 L130 71 L127 86",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an overwhelming scene",
+            "x": 200,
+            "y": 109
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "its return in a dream",
+            "x": 199,
+            "y": 137
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "repetition creates a problem",
+            "x": 209,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "description": "observed recurrence / proposed binding / the mechanism is inferred",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "observed recurrence",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "proposed binding",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the mechanism is inferred",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -7547,7 +7834,7 @@
     "title": "Making absence move",
     "statement": "A child can turn a departure into an action they perform.",
     "explanation": "Freud described a child's game of sending away and retrieving a small object. He considered how repeating disappearance might give an active form to an experience, the mother's absence, originally undergone passively.",
-    "nuance": "The game does not simply erase the loss. Sending the object away may repeat an unpleasant part of it, while the child now controls the movement. Freud considers mastery and other possible meanings rather than presenting one experimentally established conclusion.\n\nThe example illustrates a shift from being subject to an event to arranging a representation of it. It is not a rule that all children's play reveals a hidden traumatic story.",
+    "nuance": "The game does not simply erase the loss. Sending the object away may repeat an unpleasant part of it, while the child now controls the movement. Freud considers mastery and other possible meanings rather than presenting one experimentally established conclusion. Freud reports several features of the game and considers more than one way to account for it. The disappearance is repeated even when the pleasant return is not the whole performance. That detail makes the example less simple than a game invented only to obtain the enjoyment of reunion.\n\nThe example illustrates a shift from being subject to an event to arranging a representation of it. It is not a rule that all children's play reveals a hidden traumatic story.\n\nThe outgoing and returning lines give the child an active relation to separation. Sending something away can stage an experience that originally happened without the child's control. Freud considers this shift in agency alongside other meanings, including satisfaction and possible hostility. The example does not provide a laboratory test that selects one account conclusively. Its strength is as a vivid question about repetition: why recreate an unpleasant part, and what changes when the person now performs it? The illustration should preserve that question rather than label the child a master of loss. A representation can alter a relation to an event without abolishing the event's difficulty.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7636,6 +7923,108 @@
     "related": [
       "freud-traumatic-dreams",
       "freud-repetition-compulsion"
+    ],
+    "readingArt": [
+      {
+        "description": "the child / the object / sending away and retrieving",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 104,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "object",
+            "type": "circle",
+            "x": 279,
+            "y": 123,
+            "r": 15,
+            "tone": "normal"
+          },
+          {
+            "id": "out",
+            "type": "path",
+            "d": "M131 93 Q197 56 258 94",
+            "tone": "normal"
+          },
+          {
+            "id": "back",
+            "type": "path",
+            "d": "M260 159 Q203 196 131 158",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the child",
+            "x": 103,
+            "y": 217
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the object",
+            "x": 281,
+            "y": 217
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "sending away and retrieving",
+            "x": 196,
+            "y": 45
+          }
+        ]
+      },
+      {
+        "description": "absence undergone / absence performed / the relation to agency changes",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "absence undergone",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "absence performed",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the relation to agency changes",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -7646,7 +8035,7 @@
     "title": "The costly return",
     "statement": "A pattern can recur even when its result is unpleasant.",
     "explanation": "Freud used repetition compulsion for returns that seemed not fully explained by the pursuit of pleasure. He linked repetitions in treatment and recurrent life patterns to a broader theoretical problem.",
-    "nuance": "Someone may encounter a familiar disappointment in different relationships, without consciously wanting that result. Freud asks why the pattern returns, rather than equating its recurrence with an explicit preference.\n\nRepetition can have many explanations; the pattern itself does not verify Freud's later death-drive theory. Nor does recognizing a pattern show that the person caused every external event. His question concerns the persistence of a form of relating, especially when it reproduces distress.",
+    "nuance": "Someone may encounter a familiar disappointment in different relationships, without consciously wanting that result. Freud asks why the pattern returns, rather than equating its recurrence with an explicit preference. The later theoretical question exceeds the observation that people have habits. Freud is concerned with recurrence that seems to bring back earlier disappointment or distress, including in the analytic relation. What repeats may be a structure of expectation and response rather than a scene copied in every detail.\n\nRepetition can have many explanations; the pattern itself does not verify Freud's later death-drive theory. Nor does recognizing a pattern show that the person caused every external event. His question concerns the persistence of a form of relating, especially when it reproduces distress.\n\nImagine repeatedly expecting rejection, responding with distrust and then finding the relation strained. A pattern of participation might contribute to the outcome without explaining everything the other person does. Freud's account asks how recurrence is organized and how it becomes available for examination. The loop retains its shape while particular circumstances may differ on each circuit. This is why a pattern should be described carefully: a repeated theme is not necessarily a repeated event, and resemblance is not yet a demonstrated cause. His further proposal of a drive beyond pleasure is one possible theoretical response to the problem, not something directly visible in the fact of recurrence.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7729,6 +8118,93 @@
     "related": [
       "freud-fort-da",
       "freud-binding"
+    ],
+    "readingArt": [
+      {
+        "description": "a familiar relation / another occasion / a form recurs",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M128 72 Q223 31 281 95 Q322 163 246 192 Q154 220 113 147 Q84 100 128 72",
+            "tone": "normal"
+          },
+          {
+            "id": "arrow",
+            "type": "path",
+            "d": "M119 74 L130 71 L127 86",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a familiar relation",
+            "x": 200,
+            "y": 109
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "another occasion",
+            "x": 199,
+            "y": 137
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a form recurs",
+            "x": 209,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "description": "the pattern observed / a drive hypothesized / repetition alone does not prove it",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the pattern observed",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a drive hypothesized",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "repetition alone does not prove it",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -7739,7 +8215,7 @@
     "title": "Before relief",
     "statement": "An overwhelming force may first need a form that can hold it.",
     "explanation": "Freud proposed binding as the linking and containment of otherwise freely moving excitation. In Beyond the Pleasure Principle, he places this task before ordinary regulation by pleasure in certain situations.",
-    "nuance": "Think of scattered pressure gradually becoming a pattern with relations among its parts. Freud uses an economic model of mental energy to describe this change; the illustration makes that model visible without treating the energy as a measurable fluid.\n\nBinding is not a promise that distress disappears once it is narrated. It names a proposed preparatory process through which the mind can deal with what would otherwise overwhelm it. The theory's historical status matters alongside its conceptual suggestiveness.",
+    "nuance": "Think of scattered pressure gradually becoming a pattern with relations among its parts. Freud uses an economic model of mental energy to describe this change; the illustration makes that model visible without treating the energy as a measurable fluid. The proposed change is from unbound movement toward an organization in which excitation can enter more stable relations. Freud's language is economic, treating investment and discharge as aspects of mental processes. The theory concerns a mode of handling pressure, not simply remembering an event accurately.\n\nBinding is not a promise that distress disappears once it is narrated. It names a proposed preparatory process through which the mind can deal with what would otherwise overwhelm it. The theory's historical status matters alongside its conceptual suggestiveness.\n\nThe mesh is a visual account of relation: separate movements become linked and constrained without disappearing. In Freud's argument, overwhelming stimulation may require this work before the apparatus can regulate it through ordinary avoidance of unpleasure. The sequence is therefore binding before relief, rather than relief being guaranteed by any act of binding. The distinction matters because later popular language can make processing sound like a single action with a predictable result. Freud is proposing a mechanism inside a speculative model. Its conceptual contribution is the possibility that organizing something is a different task from getting satisfaction from it, and that one task can condition the other.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7811,6 +8287,96 @@
     "related": [
       "freud-repetition-compulsion",
       "freud-stimulus-shield"
+    ],
+    "readingArt": [
+      {
+        "description": "unbound movement / linked pattern / organization precedes regulation",
+        "actors": [
+          {
+            "id": "loose",
+            "type": "path",
+            "d": "M72 130 Q101 78 122 137 Q146 180 165 126",
+            "tone": "normal"
+          },
+          {
+            "id": "web",
+            "type": "path",
+            "d": "M198 70 L290 180 M220 59 L314 174 M192 118 L255 190 M201 167 L288 72 M209 190 L311 90 M193 143 L268 62",
+            "tone": "faint"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "unbound movement",
+            "x": 105,
+            "y": 56
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "linked pattern",
+            "x": 259,
+            "y": 42
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "organization precedes regulation",
+            "x": 207,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "description": "overwhelming input / binding proposed / ordinary regulation",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "overwhelming input",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "binding proposed",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "ordinary regulation",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      }
     ]
   },
   {
@@ -7821,7 +8387,7 @@
     "title": "A boundary for exposure",
     "statement": "Living systems must limit what reaches them.",
     "explanation": "Freud imagined a protective shield against stimulation in his speculative model of the mental apparatus. Trauma, in that account, involves excitation breaking through protection in quantities the apparatus cannot readily manage.",
-    "nuance": "The shield helps him distinguish ordinary contact with the world from overwhelming exposure. It is a conceptual model, not a literal membrane around the mind. Freud also differentiates external stimuli from internal pressures, which cannot be escaped in the same way.\n\nThis distinction explains why a boundary is not total isolation. Contact is necessary; the problem concerns what can be received and worked upon. The diagram shows the relation between exposure and capacity rather than a complete theory of trauma.",
+    "nuance": "The shield helps him distinguish ordinary contact with the world from overwhelming exposure. It is a conceptual model, not a literal membrane around the mind. Freud also differentiates external stimuli from internal pressures, which cannot be escaped in the same way. Freud's model uses a boundary to explain selective exposure, while bodily needs generate pressures from within. The apparatus can turn away from some external stimulation but cannot escape internal demand in the same way. This difference helps organize his account of what can overwhelm the system.\n\nThis distinction explains why a boundary is not total isolation. Contact is necessary; the problem concerns what can be received and worked upon. The diagram shows the relation between exposure and capacity rather than a complete theory of trauma.\n\nThe surrounding line does not imply that psychological health means preventing all contact. A living relation with the world requires reception, while a capacity to manage stimulation is limited. In Freud's speculative picture, a large breach places urgent demands on binding and can interfere with usual regulation. The model borrows a biological image and extends it into an account of mental processes, so its status should be kept clear. It is neither a literal protective film around consciousness nor a complete clinical explanation. The valuable structural question is what happens when the quantity or timing of an arrival exceeds the available means of receiving and organizing it.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7888,6 +8454,100 @@
     "related": [
       "freud-binding",
       "freud-death-drive"
+    ],
+    "readingArt": [
+      {
+        "description": "a protected field / limited reception / contact and capacity",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
+            "tone": "normal"
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M122 112 Q194 125 277 111",
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a protected field",
+            "x": 202,
+            "y": 45
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "limited reception",
+            "x": 210,
+            "y": 97
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "contact and capacity",
+            "x": 203,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "description": "external stimulation / internal pressure / not equally escapable",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "external stimulation",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "internal pressure",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "not equally escapable",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -7898,7 +8558,7 @@
     "title": "A difficult speculation",
     "statement": "Freud asked whether some tendencies work against the making of new bonds.",
     "explanation": "Freud's death-drive hypothesis proposes a tendency toward an earlier, ultimately inorganic state. He connects it with repetition and later with destruction, but it is one of his most speculative and disputed ideas.",
-    "nuance": "The term does not mean that every person consciously wants to die, nor that a repeated mistake proves a wish for self-destruction. It belongs to a proposed account of drives operating beneath conscious intention.\n\nFreud moves from clinical observations to far-reaching biological speculation, and the inference is not forced by those observations. A reader can understand the hypothesis without accepting it. The card presents the theoretical question, not a diagnosis of anyone's motives.",
+    "nuance": "The term does not mean that every person consciously wants to die, nor that a repeated mistake proves a wish for self-destruction. It belongs to a proposed account of drives operating beneath conscious intention. Freud himself presents parts of the argument as speculative, considering how repetition might connect with a conservative tendency of drives. The step from a clinical pattern to a universal tendency toward an earlier state is large. A careful reading should keep the observation and the biological hypothesis apart.\n\nFreud moves from clinical observations to far-reaching biological speculation, and the inference is not forced by those observations. A reader can understand the hypothesis without accepting it. The card presents the theoretical question, not a diagnosis of anyone's motives.\n\nAn undoing of connections makes one feature of the theory visible without proving it. Freud contrasts that tendency with processes that preserve and combine life, but the two are not simply observable moral forces. Destructive behavior can be described without accepting his proposed drive, and repetition can receive other explanations. The concept is important historically because it reorganizes his later account of conflict and aggression. It is also easy to misuse as a grand explanation for any distressing outcome. The diagram should therefore serve a specific task: showing a proposed direction toward dissolution, while the text states how far the hypothesis goes beyond what the picture can establish.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -7970,6 +8630,93 @@
     "related": [
       "freud-stimulus-shield",
       "freud-eros"
+    ],
+    "readingArt": [
+      {
+        "description": "connections present / undoing proposed / a speculative direction",
+        "actors": [
+          {
+            "id": "loose",
+            "type": "path",
+            "d": "M72 130 Q101 78 122 137 Q146 180 165 126",
+            "tone": "normal"
+          },
+          {
+            "id": "web",
+            "type": "path",
+            "d": "M198 70 L290 180 M220 59 L314 174 M192 118 L255 190 M201 167 L288 72 M209 190 L311 90 M193 143 L268 62",
+            "tone": "faint"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "connections present",
+            "x": 105,
+            "y": 56
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "undoing proposed",
+            "x": 259,
+            "y": 42
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a speculative direction",
+            "x": 207,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "description": "repetition observed / death drive inferred / a substantial theoretical step",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "repetition observed",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "death drive inferred",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a substantial theoretical step",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -7980,7 +8727,7 @@
     "title": "The work of connection",
     "statement": "Freud's later theory contrasts undoing bonds with making them.",
     "explanation": "Freud describes the life drives as tending to preserve life and bring units into larger combinations. Eros becomes a broader principle of binding in his later theory, rather than a synonym for romantic attraction.",
-    "nuance": "Attachment, bodily life and the formation of larger relations are placed on one side of Freud's dual-drive model. Its opposing tendency concerns dissolution. Neither side should be reduced to a moral character who always wins or loses.\n\nThis is a speculative framework, not a directly observed pair of biological forces. The conceptual contrast is useful to notice: mental life is described through processes of connection and unbinding, not simply a contest between pleasant and unpleasant feelings.",
+    "nuance": "Attachment, bodily life and the formation of larger relations are placed on one side of Freud's dual-drive model. Its opposing tendency concerns dissolution. Neither side should be reduced to a moral character who always wins or loses. The account concerns processes joining and preserving units, not simply any warm or pleasant feeling. Freud's later dualism describes tendencies that can be entangled within the same activity. A relationship may create bonds while also involving hostility, so the categories should not become labels for good and bad people.\n\nThis is a speculative framework, not a directly observed pair of biological forces. The conceptual contrast is useful to notice: mental life is described through processes of connection and unbinding, not simply a contest between pleasant and unpleasant feelings.\n\nThe streams establish a larger connected form without ceasing to be distinguishable. That gives a simple picture of combination, one of the functions Freud assigns to life drives. His argument extends far beyond affection between individuals and draws on speculative biological questions. Understanding the term therefore requires resisting its reduction to romantic enthusiasm or a universal instruction to be loving. The contrast with dissolution is part of his later theoretical architecture, not an independently measured pair of substances. A reader can ask what this model illuminates about connections while keeping open the question of whether the proposed drive dualism is a convincing explanation.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -8071,6 +8818,105 @@
     "related": [
       "freud-death-drive",
       "freud-theory-in-revision"
+    ],
+    "readingArt": [
+      {
+        "description": "separate units / a larger relation / combination",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "separate units",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a larger relation",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "combination",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "description": "life-preserving bonds / romantic feeling / the theory uses a broader term",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "life-preserving bonds",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "romantic feeling",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the theory uses a broader term",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -8081,7 +8927,7 @@
     "title": "When the model meets its limit",
     "statement": "A theory changes when its easiest explanation no longer suffices.",
     "explanation": "Beyond the Pleasure Principle begins with a governing tendency, then confronts phenomena that complicate it. Freud moves through observations of trauma, play and repetition toward increasingly speculative conclusions.",
-    "nuance": "The child's game does not prove the death drive. Neither do traumatic dreams yield one inevitable theory of mental energy. Freud's argument passes through several different levels: an observation, a proposed mechanism, then a broad hypothesis.\n\nKeeping those levels separate makes the book more intelligible. A striking explanation is not automatically a demonstrated one. Reading Freud seriously means following how a claim is built and where uncertainty enters, rather than treating every famous concept as settled fact.",
+    "nuance": "The child's game does not prove the death drive. Neither do traumatic dreams yield one inevitable theory of mental energy. Freud's argument passes through several different levels: an observation, a proposed mechanism, then a broad hypothesis. The book's movement matters as much as its famous concluding hypothesis. Freud raises questions about the limits of pleasure-based explanations, then explores responses of varying confidence. Following the transitions helps prevent a suggestive example from carrying a stronger conclusion than it can support.\n\nKeeping those levels separate makes the book more intelligible. A striking explanation is not automatically a demonstrated one. Reading Freud seriously means following how a claim is built and where uncertainty enters, rather than treating every famous concept as settled fact.\n\nThe branching route gives observations and speculation different degrees of definition. A reported game, a proposed process of binding and a universal drive toward an earlier state are not all the same kind of statement. Each asks for a different kind of support. Freud's text often signals uncertainty, even where later summaries present a settled doctrine. The reading therefore benefits from asking at each stage what has actually been observed, what has been inferred and what remains a conjecture. That approach neither dismisses the entire book nor accepts its broadest theory because an earlier example is recognizable. It preserves the intellectual work of distinguishing a problem from the solution proposed for it.",
     "sources": [
       "freud-beyond-9"
     ],
@@ -8150,6 +8996,102 @@
     "related": [
       "freud-eros",
       "freud-unconscious"
+    ],
+    "readingArt": [
+      {
+        "description": "observation / mechanism inferred / broad hypothesis",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "observation",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "mechanism inferred",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "broad hypothesis",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "a difficult finding / one possible account / other explanations remain",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a difficult finding",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one possible account",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "other explanations remain",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   }
 ]
