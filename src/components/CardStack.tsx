@@ -5,8 +5,8 @@ import { getThinker } from '../content/library';
 import { Illustration } from '../visuals/Illustration';
 import { Icon } from './Icons';
 import { ReadingDetails } from './ReadingDetails';
-interface Props { card: Thought; next: Thought; index: number; total: number; saved: boolean; paused: boolean; onSave: () => void; onMove: (direction: number) => void; }
-export function CardStack({ card, next, index, total, saved, paused, onSave, onMove }: Props) {
+interface Props { card: Thought; next: Thought; index: number; total: number; saved: boolean; paused: boolean; inactive: boolean; onSave: () => void; onMove: (direction: number) => void; }
+export function CardStack({ card, next, index, total, saved, paused, inactive, onSave, onMove }: Props) {
  const x = useMotionValue(0);
  const rotate = useTransform(x, [-350, 0, 350], [-7, 0, 7]);
  const underScale = useTransform(x, [-240, 0, 240], [1, .975, 1]);
@@ -25,6 +25,7 @@ export function CardStack({ card, next, index, total, saved, paused, onSave, onM
   cancelReading.current = undefined;
   desiredExpanded.current = expanded;
  }
+ useEffect(() => { if (inactive) interruptReading(); }, [inactive, expanded]);
  useEffect(() => {
   const interrupt = () => interruptReading();
   const key = (event: KeyboardEvent) => {
@@ -118,7 +119,7 @@ export function CardStack({ card, next, index, total, saved, paused, onSave, onM
   <motion.div className="under-card" style={{ scale: underScale, y: underY }} aria-hidden="true"><span>{next.title}</span></motion.div>
   <motion.article className="teaching-card" style={{ x, rotate: reduced ? 0 : rotate, touchAction: 'pan-y pinch-zoom' }}
    onPointerDown={e => {
-    if (moving.current || !e.isPrimary || e.button !== 0 || (e.target as HTMLElement).closest('button,a,input')) return;
+    if (inactive || moving.current || !e.isPrimary || e.button !== 0 || (e.target as HTMLElement).closest('button,a,input')) return;
     gesture.current = { active: true, x: e.clientX, y: e.clientY, lastX: e.clientX, lastTime: performance.now(), velocity: 0, axis: '' };
    }}
    onPointerMove={e => {
