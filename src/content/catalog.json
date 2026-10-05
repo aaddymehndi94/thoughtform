@@ -28,7 +28,7 @@
     "thinker": "frankl",
     "collection": "The limits",
     "concept": "Attitudinal values",
-    "title": "When the wall stays",
+    "title": "When loss stays",
     "tags": [
       "attitudinal values",
       "the limits"
@@ -352,7 +352,7 @@
     "thinker": "frankl",
     "collection": "The person",
     "concept": "Self-distancing",
-    "title": "A space beside the state",
+    "title": "Room before the next act",
     "tags": [
       "self-distancing",
       "the person"
@@ -484,7 +484,7 @@
     "thinker": "frankl",
     "collection": "The limits",
     "concept": "Attitude and emotion",
-    "title": "Not the same movement",
+    "title": "A stance within a feeling",
     "tags": [
       "attitude and emotion",
       "the limits"
@@ -1316,6 +1316,127 @@
     "tags": [
       "reading images",
       "numinosity"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-anima-animus",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Anima and animus",
+    "title": "The inner counterpart",
+    "tags": [
+      "reading images",
+      "anima and animus"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-psychic-reality",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Psychic reality",
+    "title": "Real in its effects",
+    "tags": [
+      "reading images",
+      "psychic reality"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-alchemy-projection",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Alchemy and projection",
+    "title": "The vessel and the observer",
+    "tags": [
+      "reading images",
+      "alchemy and projection"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-inner-dialogue",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Conscious–unconscious dialogue",
+    "title": "A response is needed",
+    "tags": [
+      "holding the tension",
+      "conscious–unconscious dialogue"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-mandala-ordering",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Mandala and ordering",
+    "title": "Finding a centre",
+    "tags": [
+      "becoming a person",
+      "mandala and ordering"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-wholeness",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Wholeness and perfection",
+    "title": "Room for what remains",
+    "tags": [
+      "becoming a person",
+      "wholeness and perfection"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-synchronicity",
+    "thinker": "jung",
+    "collection": "Meaning and reality",
+    "concept": "Synchronicity",
+    "title": "A meaningful coincidence",
+    "tags": [
+      "meaning and reality",
+      "synchronicity"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-meaning-belief",
+    "thinker": "jung",
+    "collection": "Meaning and reality",
+    "concept": "Experience and creed",
+    "title": "The experience and its form",
+    "tags": [
+      "meaning and reality",
+      "experience and creed"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-concretism",
+    "thinker": "jung",
+    "collection": "Meaning and reality",
+    "concept": "Concretism",
+    "title": "When image becomes fact",
+    "tags": [
+      "meaning and reality",
+      "concretism"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-amplification",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Amplification",
+    "title": "A wider circle of meaning",
+    "tags": [
+      "reading images",
+      "amplification",
+      "dream interpretation"
     ],
     "depth": 3
   },

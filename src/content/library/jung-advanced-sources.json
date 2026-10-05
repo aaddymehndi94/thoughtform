@@ -113,10 +113,22 @@
     "reference": "1921 German edition, Chapter XI, definition 11, “Concretismus”; fusion of thought/feeling with sensory object. Colonial classifications criticized in the card.",
     "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "jung-advanced-types-levels": {
-    "title": "Psychologische Typen",
+  "jung-advanced-amplification-primary": {
+    "title": "Psychology and Alchemy; The Symbolic Life",
     "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definitions “Objektstufe” and “Subjektstufe”; objective and subjective interpretation.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+    "reference": "CW 12, §403, amplification through association and analogy; CW 18, The Tavistock Lectures (1935), §§173–174, comparative interpretation. These passages and exact paragraph references are reproduced/discussed by the IAAP institutional article; this link is not the full primary edition.",
+    "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/amplification-2/"
+  },
+  "jung-advanced-amplification-institutional": {
+    "title": "Dreams",
+    "author": "Yasuhiro Tanaka, International Association for Analytical Psychology",
+    "reference": "Section “The dream is a spontaneous and natural occurrence”: amplification as seeking parallels, citing Jung CW 18, §§172–174; contextual and interpretive limits. Institutional scholarly explanation.",
+    "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/dreams/"
+  },
+  "jung-advanced-amplification-example": {
+    "title": "Genesis",
+    "author": "Hebrew Bible; World English Bible translation",
+    "reference": "Genesis 28:10–17, Jacob’s dream of a ladder joining earth and heaven. The promotion example and psychological comparison are original illustrations of amplification, not Jung’s case material.",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis+28&version=WEB"
   }
 }

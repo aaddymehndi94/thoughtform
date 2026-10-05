@@ -16,69 +16,6 @@
       "kind": "notebook",
       "caption": "genealogy",
       "variant": "genealogy",
-      "composition": {
-        "description": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it. The two guides distinguish a familiar verdict from earlier struggles.",
-        "actors": [
-          {
-            "id": "surface",
-            "type": "path",
-            "d": "M65 78 Q183 72 335 79",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "layer1",
-            "type": "path",
-            "d": "M72 118 Q198 105 328 119",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "layer2",
-            "type": "path",
-            "d": "M80 157 Q197 147 319 159",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "cut",
-            "type": "path",
-            "d": "M201 77 L198 190 M191 178 L198 190 L208 179",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a familiar verdict",
-            "x": 141.45460662841796,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "earlier struggles",
-            "x": 143.85211791992188,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "A moral verdict is lifted to reveal the successive uses and struggles that made it authoritative.",
         "beats": [
@@ -456,71 +393,6 @@
       "kind": "notebook",
       "caption": "ressentiment",
       "variant": "ressentiment",
-      "composition": {
-        "description": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender. The two guides distinguish the enemy from my measure.",
-        "actors": [
-          {
-            "id": "speaker",
-            "type": "figure",
-            "x": 119,
-            "y": 150,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "absent",
-            "type": "figure",
-            "x": 290,
-            "y": 150,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "reply",
-            "type": "path",
-            "d": "M144 95 Q252 52 289 94",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M288 100 Q301 201 121 196 Q54 157 82 87 Q106 62 138 92",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "the enemy",
-            "x": 67.47723846435547,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "my measure",
-            "x": 248.78719329833984,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "An insult disappears from the world but remains the hidden organizer of a person’s later values.",
         "beats": [
@@ -890,95 +762,6 @@
       "kind": "notebook",
       "caption": "good bad",
       "variant": "good-bad",
-      "composition": {
-        "description": "Two rows reverse the direction of valuation. The first begins by affirming its own good; the second begins with the enemy as evil and derives its good reactively.",
-        "actors": [
-          {
-            "id": "row-one",
-            "type": "text",
-            "text": "self-affirmation first",
-            "x": 129.284521484375,
-            "y": 34
-          },
-          {
-            "id": "self-one",
-            "type": "circle",
-            "x": 95,
-            "y": 95,
-            "r": 20
-          },
-          {
-            "id": "other-one",
-            "type": "circle",
-            "x": 306,
-            "y": 95,
-            "r": 20,
-            "tone": "faint"
-          },
-          {
-            "id": "good-one",
-            "type": "text",
-            "text": "good",
-            "x": 77.16737823486328,
-            "y": 138
-          },
-          {
-            "id": "bad-one",
-            "type": "text",
-            "text": "lesser",
-            "x": 285.2023498535156,
-            "y": 138
-          },
-          {
-            "id": "first-direction",
-            "type": "path",
-            "d": "M123 95 Q201 65 279 95 M269 87 L279 95 L267 99",
-            "motion": {
-              "kind": "draw",
-              "duration": 16
-            }
-          },
-          {
-            "id": "self-two",
-            "type": "circle",
-            "x": 95,
-            "y": 184,
-            "r": 20,
-            "tone": "faint"
-          },
-          {
-            "id": "enemy-two",
-            "type": "circle",
-            "x": 306,
-            "y": 184,
-            "r": 20
-          },
-          {
-            "id": "second-direction",
-            "type": "path",
-            "d": "M278 185 Q199 161 121 185 M132 177 L121 185 L133 190",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "good-two",
-            "type": "text",
-            "text": "good by contrast",
-            "x": 34.6345932006836,
-            "y": 228
-          },
-          {
-            "id": "evil-two",
-            "type": "text",
-            "text": "evil",
-            "x": 294.2649200439453,
-            "y": 228
-          }
-        ]
-      },
       "lesson": {
         "description": "Two valuations are composed in different orders: self-affirmation first, or an accusation that supplies a contrasting good.",
         "beats": [
@@ -1334,70 +1117,6 @@
       "kind": "notebook",
       "caption": "bad conscience",
       "variant": "bad-conscience",
-      "composition": {
-        "description": "Outward lines encounter a wall and bend back into the body, becoming an internal knot. The two guides distinguish blocked outside from acting inside.",
-        "actors": [
-          {
-            "id": "body",
-            "type": "figure",
-            "x": 192,
-            "y": 143,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M287 46 Q282 122 288 198",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "outward",
-            "type": "path",
-            "d": "M212 104 Q257 81 282 100 Q253 125 210 126",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "knot",
-            "type": "path",
-            "d": "M183 113 Q213 92 224 119 Q231 144 191 149 Q169 119 209 113 Q230 144 185 134",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "blocked outside",
-            "x": 242.46460723876953,
-            "y": 38
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "acting inside",
-            "x": 149.227197265625,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "An outward impulse meets a social barrier and reappears as a force directed against the person who carries it.",
         "beats": [
@@ -1689,79 +1408,6 @@
       "kind": "notebook",
       "caption": "promise",
       "variant": "promise",
-      "composition": {
-        "description": "A loose moving thread is anchored to two distant dates; the figure keeps one line intact across time. The two guides distinguish present willing from future answerability.",
-        "actors": [
-          {
-            "id": "body",
-            "type": "figure",
-            "x": 193,
-            "y": 139,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "today",
-            "type": "circle",
-            "x": 89,
-            "y": 187,
-            "r": 4,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "later",
-            "type": "circle",
-            "x": 309,
-            "y": 187,
-            "r": 4,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "thread",
-            "type": "path",
-            "d": "M89 187 Q145 176 194 188 Q252 180 309 187",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "present willing",
-            "x": 54.239662170410156,
-            "y": 223
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "future",
-            "x": 270.72235412597655,
-            "y": 214
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "answerability",
-            "x": 245.5696807861328,
-            "y": 235
-          }
-        ]
-      },
       "lesson": {
         "description": "A promise is preserved across changes in the desires and circumstances of the person who made it.",
         "beats": [
@@ -2159,93 +1805,6 @@
       "kind": "notebook",
       "caption": "active forgetting",
       "variant": "active-forgetting",
-      "composition": {
-        "description": "Marks accumulate in a chamber; a gate opens and the marks travel out, freeing space for a new mark. The two guides distinguish still remembered from no longer foreground.",
-        "actors": [
-          {
-            "id": "container",
-            "type": "path",
-            "d": "M86 65 L86 187 L220 187 M221 65 L87 65",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "gate",
-            "type": "path",
-            "d": "M219 66 L221 123",
-            "tone": "normal",
-            "motion": {
-              "kind": "turn",
-              "duration": 16,
-              "angle": -32
-            }
-          },
-          {
-            "id": "marks",
-            "type": "path",
-            "d": "M107 97 L124 116 M135 94 L150 112 M115 144 L144 153",
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "x": 129,
-              "y": 28
-            }
-          },
-          {
-            "id": "released",
-            "type": "group",
-            "children": [
-              {
-                "id": "remaining-a",
-                "type": "circle",
-                "x": 160,
-                "y": 147,
-                "r": 4
-              },
-              {
-                "id": "remaining-b",
-                "type": "circle",
-                "x": 181,
-                "y": 153,
-                "r": 4
-              }
-            ],
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "x": 135,
-              "y": 0,
-              "delay": 1
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "still remembered",
-            "x": 87.4520980834961,
-            "y": 37
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "no longer",
-            "x": 265.3072784423828,
-            "y": 217
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "foreground",
-            "x": 259.2122344970703,
-            "y": 238
-          }
-        ]
-      },
       "lesson": {
         "description": "A remembered grievance is filed away so the present can become available for another task.",
         "beats": [
@@ -2597,65 +2156,6 @@
       "kind": "notebook",
       "caption": "guilt debt",
       "variant": "guilt-debt",
-      "composition": {
-        "description": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle. The two guides distinguish a payable debt from guilt without an end.",
-        "actors": [
-          {
-            "id": "ledger",
-            "type": "path",
-            "d": "M100 55 L291 58 L287 185 L103 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "entries",
-            "type": "path",
-            "d": "M124 85 L262 85 M124 113 L266 114 M124 143 L263 145",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "overflow",
-            "type": "path",
-            "d": "M188 178 L190 216 M179 203 L190 216 L200 202",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a payable debt",
-            "x": 147.47464447021486,
-            "y": 36
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "guilt without",
-            "x": 155.9997116088867,
-            "y": 218
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "an end",
-            "x": 176.05233306884764,
-            "y": 239
-          }
-        ]
-      },
       "lesson": {
         "description": "A finite debt that can be repaid is replaced by an account whose imagined obligation has no possible endpoint.",
         "beats": [
@@ -3054,68 +2554,6 @@
       "kind": "notebook",
       "caption": "punishment",
       "variant": "punishment",
-      "composition": {
-        "description": "One hook is carried through three contexts; its unchanged outline receives three distinct functions. The two guides distinguish one procedure from many purposes.",
-        "actors": [
-          {
-            "id": "hook",
-            "type": "path",
-            "d": "M197 78 Q233 79 231 104 Q229 124 199 121 L198 171",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "contexts",
-            "type": "path",
-            "d": "M147 163 Q120 146 98 161 M242 161 Q266 148 292 161",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "function-repay",
-            "type": "text",
-            "text": "repay",
-            "x": 72.02486419677734,
-            "y": 195
-          },
-          {
-            "id": "function-deter",
-            "type": "text",
-            "text": "deter",
-            "x": 180.0448760986328,
-            "y": 195
-          },
-          {
-            "id": "function-power",
-            "type": "text",
-            "text": "display power",
-            "x": 258.96717224121096,
-            "y": 195
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "one procedure",
-            "x": 148.12464294433593,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "many purposes",
-            "x": 145.5296188354492,
-            "y": 236
-          }
-        ]
-      },
       "lesson": {
         "description": "The same confinement is retained as different historical purposes are placed above it.",
         "beats": [
@@ -3410,71 +2848,6 @@
       "kind": "notebook",
       "caption": "ascetic meaning",
       "variant": "ascetic-meaning",
-      "composition": {
-        "description": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it. The two guides distinguish the same pain from a new reason.",
-        "actors": [
-          {
-            "id": "weight",
-            "type": "path",
-            "d": "M164 102 L181 77 L215 84 L238 109 L221 145 L178 147 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "bearer",
-            "type": "figure",
-            "x": 95,
-            "y": 151,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "connection",
-            "type": "path",
-            "d": "M114 123 Q145 174 207 166 Q260 170 296 105",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "purpose",
-            "type": "circle",
-            "x": 304,
-            "y": 95,
-            "r": 9,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "the same pain",
-            "x": 55.17965087890625,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a new reason",
-            "x": 245.7021697998047,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "Pain receives an explanation in self-blame, making it intelligible while adding an accusation to the suffering.",
         "beats": [
@@ -3820,70 +3193,6 @@
       "kind": "notebook",
       "caption": "will truth",
       "variant": "will-truth",
-      "composition": {
-        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam. The two guides distinguish the object from the search itself.",
-        "actors": [
-          {
-            "id": "object",
-            "type": "path",
-            "d": "M286 75 L313 79 L310 115 L287 110 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "lamp",
-            "type": "circle",
-            "x": 101,
-            "y": 105,
-            "r": 13,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "beam",
-            "type": "path",
-            "d": "M116 98 L287 76 M114 112 L286 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "the object",
-            "x": 265.6422576904297,
-            "y": 226
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "the search itself",
-            "x": 38.31960906982422,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "An investigator checks a claim, then turns the inquiry toward the value that directs the investigation itself.",
         "beats": [
@@ -4287,82 +3596,6 @@
       "kind": "notebook",
       "caption": "perspectivism",
       "variant": "perspectivism",
-      "composition": {
-        "description": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object. The two guides distinguish a situated view from another aspect.",
-        "actors": [
-          {
-            "id": "solid",
-            "type": "path",
-            "d": "M181 76 L226 82 L245 122 L217 159 L167 141 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "eye1",
-            "type": "circle",
-            "x": 92,
-            "y": 115,
-            "r": 8,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "eye2",
-            "type": "circle",
-            "x": 298,
-            "y": 178,
-            "r": 8,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "sight1",
-            "type": "path",
-            "d": "M101 111 L177 80 M100 120 L167 141",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "sight2",
-            "type": "path",
-            "d": "M289 173 L225 88 M289 182 L213 159",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a situated view",
-            "x": 52.01963806152344,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "another aspect",
-            "x": 238.40962677001954,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "Two viewing positions expose different faces of the same object, making situated interpretation visible.",
         "beats": [
@@ -4632,89 +3865,6 @@
       "kind": "notebook",
       "caption": "many eyes",
       "variant": "many-eyes",
-      "composition": {
-        "description": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object. The two guides distinguish one affect from another interpretation.",
-        "actors": [
-          {
-            "id": "solid",
-            "type": "path",
-            "d": "M181 76 L226 82 L245 122 L217 159 L167 141 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "eye1",
-            "type": "circle",
-            "x": 92,
-            "y": 115,
-            "r": 8,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "eye2",
-            "type": "circle",
-            "x": 298,
-            "y": 178,
-            "r": 8,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "sight1",
-            "type": "path",
-            "d": "M101 111 L177 80 M100 120 L167 141",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "sight2",
-            "type": "path",
-            "d": "M289 173 L225 88 M289 182 L213 159",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "one affect",
-            "x": 69.0772476196289,
-            "y": 223
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "another",
-            "x": 264.67980804443357,
-            "y": 214
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "interpretation",
-            "x": 243.45718078613282,
-            "y": 235
-          }
-        ]
-      },
       "lesson": {
         "description": "Distinct affective readings are placed around one event and brought into a directed comparison.",
         "beats": [
@@ -5166,70 +4316,6 @@
       "kind": "notebook",
       "caption": "philosophy confession",
       "variant": "philosophy-confession",
-      "composition": {
-        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam. The two guides distinguish abstract system from ordering of needs.",
-        "actors": [
-          {
-            "id": "object",
-            "type": "path",
-            "d": "M286 75 L313 79 L310 115 L287 110 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "lamp",
-            "type": "circle",
-            "x": 101,
-            "y": 105,
-            "r": 13,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "beam",
-            "type": "path",
-            "d": "M116 98 L287 76 M114 112 L286 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "abstract system",
-            "x": 245.02210235595703,
-            "y": 226
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "ordering of needs",
-            "x": 32.76207580566406,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "A philosophy is opened to reveal the author’s ordering of needs beneath its apparently impersonal conclusions.",
         "beats": [
@@ -5559,58 +4645,6 @@
       "kind": "notebook",
       "caption": "grammar self",
       "variant": "grammar-self",
-      "composition": {
-        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark. The two guides distinguish a process from a named subject.",
-        "actors": [
-          {
-            "id": "flow",
-            "type": "path",
-            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M174 63 L222 62 L220 181 L175 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "output",
-            "type": "path",
-            "d": "M224 124 L331 124",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a process",
-            "x": 70.61975555419922,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a named subject",
-            "x": 233.1845932006836,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "An action is turned into a sentence, then grammar inserts a separate owner whose existence remains to be examined.",
         "beats": [
@@ -5850,70 +4884,6 @@
       "kind": "notebook",
       "caption": "plural will",
       "variant": "plural-will",
-      "composition": {
-        "description": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist. The two guides distinguish many processes from one name.",
-        "actors": [
-          {
-            "id": "strand1",
-            "type": "path",
-            "d": "M78 77 Q126 97 194 133 L313 132",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "strand2",
-            "type": "path",
-            "d": "M79 155 Q138 156 194 133",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "strand3",
-            "type": "path",
-            "d": "M115 201 Q138 146 194 133",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "knot",
-            "type": "circle",
-            "x": 194,
-            "y": 133,
-            "r": 10,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "many processes",
-            "x": 47.29958801269531,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "one name",
-            "x": 257.26474914550784,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "A pianist’s single feeling of willing is unpacked into hearing, trained movement, and command.",
         "beats": [
@@ -6352,58 +5322,6 @@
       "kind": "notebook",
       "caption": "free will blame",
       "variant": "free-will-blame",
-      "composition": {
-        "description": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle. The two guides distinguish an act from absolute guilt.",
-        "actors": [
-          {
-            "id": "ledger",
-            "type": "path",
-            "d": "M100 55 L291 58 L287 185 L103 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "entries",
-            "type": "path",
-            "d": "M124 85 L262 85 M124 113 L266 114 M124 143 L263 145",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "overflow",
-            "type": "path",
-            "d": "M188 178 L190 216 M179 203 L190 216 L200 202",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "an act",
-            "x": 178.1148483276367,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "absolute guilt",
-            "x": 152.35718231201173,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "An act’s conditions are removed from a judgment until the person appears as its absolute origin.",
         "beats": [
@@ -6719,65 +5637,6 @@
       "kind": "notebook",
       "caption": "convictions",
       "variant": "convictions",
-      "composition": {
-        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark. The two guides distinguish an encounter from an excluded challenge.",
-        "actors": [
-          {
-            "id": "flow",
-            "type": "path",
-            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M174 63 L222 62 L220 181 L175 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "output",
-            "type": "path",
-            "d": "M224 124 L331 124",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "an encounter",
-            "x": 58.24467315673828,
-            "y": 223
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "an excluded",
-            "x": 249.4947082519531,
-            "y": 214
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "challenge",
-            "x": 258.66226654052736,
-            "y": 235
-          }
-        ]
-      },
       "lesson": {
         "description": "A belief appears secure because its entrance admits only evidence already shaped to fit it.",
         "beats": [
@@ -7054,77 +5913,6 @@
       "kind": "notebook",
       "caption": "science faith",
       "variant": "science-faith",
-      "composition": {
-        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam. The two guides distinguish test a hypothesis from question the highest value.",
-        "actors": [
-          {
-            "id": "object",
-            "type": "path",
-            "d": "M286 75 L313 79 L310 115 L287 110 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "lamp",
-            "type": "circle",
-            "x": 101,
-            "y": 105,
-            "r": 13,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "beam",
-            "type": "path",
-            "d": "M116 98 L287 76 M114 112 L286 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "test a hypothesis",
-            "x": 241.23958435058594,
-            "y": 226
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "question the",
-            "x": 50.539694213867186,
-            "y": 217
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "highest value",
-            "x": 48.869676208496095,
-            "y": 238
-          }
-        ]
-      },
       "lesson": {
         "description": "A tested hypothesis changes while the value attached to truth remains untouched until it becomes a question.",
         "beats": [
@@ -7524,58 +6312,6 @@
       "kind": "notebook",
       "caption": "consciousness communication",
       "variant": "consciousness-communication",
-      "composition": {
-        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark. The two guides distinguish singular experience from a common sign.",
-        "actors": [
-          {
-            "id": "flow",
-            "type": "path",
-            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M174 63 L222 62 L220 181 L175 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "output",
-            "type": "path",
-            "d": "M224 124 L331 124",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "singular experience",
-            "x": 36.72202758789062,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a common sign",
-            "x": 238.36962280273437,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "A singular experience is translated into a shareable word that lets a group communicate while reducing detail.",
         "beats": [
@@ -7967,47 +6703,6 @@
       "kind": "notebook",
       "caption": "useful error",
       "variant": "useful-error",
-      "composition": {
-        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour. The two guides distinguish changing reality from usable units.",
-        "actors": [
-          {
-            "id": "field",
-            "type": "path",
-            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "contour",
-            "type": "path",
-            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "changing reality",
-            "x": 144.18712158203124,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "usable units",
-            "x": 157.52720489501954,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "Distinct changing leaves are treated as equal units for a practical classification, revealing what the simplification omits.",
         "beats": [
@@ -8294,69 +6989,6 @@
       "kind": "notebook",
       "caption": "give style",
       "variant": "give-style",
-      "composition": {
-        "description": "Loose irregular fragments retain their differences while a larger deliberate contour gives them a shared style. The two guides distinguish different materials from a coherent form.",
-        "actors": [
-          {
-            "id": "part1",
-            "type": "path",
-            "d": "M107 93 L131 76 L159 103",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "part2",
-            "type": "path",
-            "d": "M179 145 Q201 112 222 151",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "part3",
-            "type": "path",
-            "d": "M253 101 L281 81 L294 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "outline",
-            "type": "path",
-            "d": "M89 151 Q91 48 186 55 Q300 42 314 145 Q299 197 192 190 Q115 207 89 151 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "different materials",
-            "x": 135.35956268310548,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a coherent form",
-            "x": 143.42710876464844,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "An artist arranges resistant and pliable materials into one form while preserving their different properties.",
         "beats": [
@@ -8595,58 +7227,6 @@
       "kind": "notebook",
       "caption": "self overcoming",
       "variant": "self-overcoming",
-      "composition": {
-        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically. The two guides distinguish an achieved form from a new possibility.",
-        "actors": [
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M183 42 L184 101 M184 143 L185 205",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "old",
-            "type": "path",
-            "d": "M61 122 L175 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "new",
-            "type": "path",
-            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "an achieved form",
-            "x": 238.19957275390624,
-            "y": 38
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a new possibility",
-            "x": 135.39210357666016,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "A framework first supports growth and later constrains the same growing form, making its usefulness historically limited.",
         "beats": [
@@ -8881,65 +7461,6 @@
       "kind": "notebook",
       "caption": "camel",
       "variant": "camel",
-      "composition": {
-        "description": "A human silhouette carries an irregular inherited weight. Two supporting lines acquire a firmer footing; bearing trains a capacity without yet choosing the burden.",
-        "actors": [
-          {
-            "id": "bearer",
-            "type": "figure",
-            "x": 199,
-            "y": 150,
-            "motion": {
-              "kind": "turn",
-              "duration": 16,
-              "angle": -5
-            }
-          },
-          {
-            "id": "burden",
-            "type": "path",
-            "d": "M143 48 L166 36 L180 49 L208 40 L250 56 L241 83 L151 78 Z",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": 7
-            }
-          },
-          {
-            "id": "weight-tie",
-            "type": "path",
-            "d": "M159 78 Q180 109 184 113 M235 83 Q220 112 215 114",
-            "motion": {
-              "kind": "draw",
-              "duration": 16
-            }
-          },
-          {
-            "id": "footing",
-            "type": "path",
-            "d": "M150 202 Q199 198 245 203",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "demand",
-            "type": "text",
-            "text": "inherited demands",
-            "x": 133.60704650878907,
-            "y": 23
-          },
-          {
-            "id": "capacity",
-            "type": "text",
-            "text": "the capacity to bear",
-            "x": 128.06451416015625,
-            "y": 235
-          }
-        ]
-      },
       "lesson": {
         "description": "Zarathustra’s burden-bearing spirit accepts inherited demands and gains strength, while authority over their value remains unresolved.",
         "beats": [
@@ -9235,58 +7756,6 @@
       "kind": "notebook",
       "caption": "lion",
       "variant": "lion",
-      "composition": {
-        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically. The two guides distinguish an old command from room for willing.",
-        "actors": [
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M183 42 L184 101 M184 143 L185 205",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "old",
-            "type": "path",
-            "d": "M61 122 L175 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "new",
-            "type": "path",
-            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "an old command",
-            "x": 239.91209106445314,
-            "y": 38
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "room for willing",
-            "x": 140.21964569091796,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "An inherited command is confronted and broken, opening space in which a new value has yet to be made.",
         "beats": [
@@ -9617,58 +8086,6 @@
       "kind": "notebook",
       "caption": "child",
       "variant": "child",
-      "composition": {
-        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift. The two guides distinguish beyond refusal from a first creation.",
-        "actors": [
-          {
-            "id": "trial1",
-            "type": "path",
-            "d": "M78 175 Q160 73 246 124",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "trial2",
-            "type": "path",
-            "d": "M79 175 Q155 128 271 92",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "worked",
-            "type": "path",
-            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "beyond refusal",
-            "x": 147.96963958740236,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a first creation",
-            "x": 148.94215698242186,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "After the old command is refused, play composes a new arrangement and gives it an affirmative beginning.",
         "beats": [
@@ -9941,70 +8358,6 @@
       "kind": "notebook",
       "caption": "will power",
       "variant": "will-power",
-      "composition": {
-        "description": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist. The two guides distinguish resisting forces from an organization.",
-        "actors": [
-          {
-            "id": "strand1",
-            "type": "path",
-            "d": "M78 77 Q126 97 194 133 L313 132",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "strand2",
-            "type": "path",
-            "d": "M79 155 Q138 156 194 133",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "strand3",
-            "type": "path",
-            "d": "M115 201 Q138 146 194 133",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "knot",
-            "type": "circle",
-            "x": 194,
-            "y": 133,
-            "r": 10,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "resisting forces",
-            "x": 51.122126770019534,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "an organization",
-            "x": 238.46463012695312,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "Different forces are brought into an organization that produces a capacity greater than any one force alone.",
         "beats": [
@@ -10255,58 +8608,6 @@
       "kind": "notebook",
       "caption": "discipline form",
       "variant": "discipline-form",
-      "composition": {
-        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift. The two guides distinguish repeated constraint from expressive capacity.",
-        "actors": [
-          {
-            "id": "trial1",
-            "type": "path",
-            "d": "M78 175 Q160 73 246 124",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "trial2",
-            "type": "path",
-            "d": "M79 175 Q155 128 271 92",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "worked",
-            "type": "path",
-            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "repeated constraint",
-            "x": 129.9520233154297,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "expressive capacity",
-            "x": 129.95950775146486,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "Repeated practice on a musical instrument makes possible a freedom of expression unavailable at the beginning.",
         "beats": [
@@ -10575,58 +8876,6 @@
       "kind": "notebook",
       "caption": "becoming not knowing",
       "variant": "becoming-not-knowing",
-      "composition": {
-        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift. The two guides distinguish no final blueprint from experiment.",
-        "actors": [
-          {
-            "id": "trial1",
-            "type": "path",
-            "d": "M78 175 Q160 73 246 124",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "trial2",
-            "type": "path",
-            "d": "M79 175 Q155 128 271 92",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "worked",
-            "type": "path",
-            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "no final blueprint",
-            "x": 140.637109375,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "experiment",
-            "x": 159.97472381591797,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "A series of lived attempts reveals a direction that was not available as a finished blueprint beforehand.",
         "beats": [
@@ -10905,89 +9154,6 @@
       "kind": "notebook",
       "caption": "friend resistance",
       "variant": "friend-resistance",
-      "composition": {
-        "description": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object. The two guides distinguish my judgment from a friend's resistance.",
-        "actors": [
-          {
-            "id": "solid",
-            "type": "path",
-            "d": "M181 76 L226 82 L245 122 L217 159 L167 141 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "eye1",
-            "type": "circle",
-            "x": 92,
-            "y": 115,
-            "r": 8,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "eye2",
-            "type": "circle",
-            "x": 298,
-            "y": 178,
-            "r": 8,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "sight1",
-            "type": "path",
-            "d": "M101 111 L177 80 M100 120 L167 141",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "sight2",
-            "type": "path",
-            "d": "M289 173 L225 88 M289 182 L213 159",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "my judgment",
-            "x": 58.51968688964844,
-            "y": 223
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "a friend's",
-            "x": 260.0747833251953,
-            "y": 214
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "resistance",
-            "x": 255.5672378540039,
-            "y": 235
-          }
-        ]
-      },
       "lesson": {
         "description": "A friend’s independent judgment interrupts a flattering mirror and offers a resistant second view.",
         "beats": [
@@ -11383,65 +9549,6 @@
       "kind": "notebook",
       "caption": "teacher leaving",
       "variant": "teacher-leaving",
-      "composition": {
-        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically. The two guides distinguish teacher from independent judgment.",
-        "actors": [
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M183 42 L184 101 M184 143 L185 205",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "old",
-            "type": "path",
-            "d": "M61 122 L175 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "new",
-            "type": "path",
-            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "teacher",
-            "x": 271.8373092651367,
-            "y": 38
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "independent",
-            "x": 148.91469116210936,
-            "y": 217
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "judgment",
-            "x": 160.40477142333984,
-            "y": 238
-          }
-        ]
-      },
       "lesson": {
         "description": "A received teaching is carried away from its author and revised through the student’s own judgment.",
         "beats": [
@@ -11786,89 +9893,6 @@
       "kind": "notebook",
       "caption": "death god",
       "variant": "death-god",
-      "composition": {
-        "description": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction. The two guides distinguish old orientation from no supplied direction.",
-        "actors": [
-          {
-            "id": "figure",
-            "type": "figure",
-            "x": 199,
-            "y": 148,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "floor",
-            "type": "path",
-            "d": "M63 200 Q194 196 337 202",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "horizon",
-            "type": "group",
-            "children": [
-              {
-                "id": "line",
-                "type": "path",
-                "d": "M65 73 Q201 65 335 76",
-                "tone": "normal",
-                "motion": {
-                  "kind": "draw",
-                  "duration": 16,
-                  "delay": 0
-                }
-              },
-              {
-                "id": "axis",
-                "type": "path",
-                "d": "M200 74 L200 47",
-                "tone": "normal",
-                "motion": {
-                  "kind": "draw",
-                  "duration": 16,
-                  "delay": 0
-                }
-              }
-            ],
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": -45,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "old orientation",
-            "x": 148.4371566772461,
-            "y": 36
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "no supplied",
-            "x": 158.8147232055664,
-            "y": 218
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "direction",
-            "x": 168.4772918701172,
-            "y": 239
-          }
-        ]
-      },
       "lesson": {
         "description": "An inherited organizing star disappears, leaving the traveller and the route without their previous guarantee.",
         "beats": [
@@ -12144,89 +10168,6 @@
       "kind": "notebook",
       "caption": "shadows god",
       "variant": "shadows-god",
-      "composition": {
-        "description": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction. The two guides distinguish a vanished doctrine from remaining expectations.",
-        "actors": [
-          {
-            "id": "figure",
-            "type": "figure",
-            "x": 199,
-            "y": 148,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "floor",
-            "type": "path",
-            "d": "M63 200 Q194 196 337 202",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "horizon",
-            "type": "group",
-            "children": [
-              {
-                "id": "line",
-                "type": "path",
-                "d": "M65 73 Q201 65 335 76",
-                "tone": "normal",
-                "motion": {
-                  "kind": "draw",
-                  "duration": 16,
-                  "delay": 0
-                }
-              },
-              {
-                "id": "axis",
-                "type": "path",
-                "d": "M200 74 L200 47",
-                "tone": "normal",
-                "motion": {
-                  "kind": "draw",
-                  "duration": 16,
-                  "delay": 0
-                }
-              }
-            ],
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": -45,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a vanished doctrine",
-            "x": 130.57452087402345,
-            "y": 36
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "remaining",
-            "x": 165.49976043701173,
-            "y": 218
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "expectations",
-            "x": 154.2796844482422,
-            "y": 239
-          }
-        ]
-      },
       "lesson": {
         "description": "A vanished belief leaves an inherited stencil that continues shaping expectations after its explicit rejection.",
         "beats": [
@@ -12461,82 +10402,6 @@
       "kind": "notebook",
       "caption": "nihilism",
       "variant": "nihilism",
-      "composition": {
-        "description": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction. The two guides distinguish a discarded ideal from a surviving measure.",
-        "actors": [
-          {
-            "id": "figure",
-            "type": "figure",
-            "x": 199,
-            "y": 148,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "floor",
-            "type": "path",
-            "d": "M63 200 Q194 196 337 202",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "horizon",
-            "type": "group",
-            "children": [
-              {
-                "id": "line",
-                "type": "path",
-                "d": "M65 73 Q201 65 335 76",
-                "tone": "normal",
-                "motion": {
-                  "kind": "draw",
-                  "duration": 16,
-                  "delay": 0
-                }
-              },
-              {
-                "id": "axis",
-                "type": "path",
-                "d": "M200 74 L200 47",
-                "tone": "normal",
-                "motion": {
-                  "kind": "draw",
-                  "duration": 16,
-                  "delay": 0
-                }
-              }
-            ],
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": -45,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a discarded ideal",
-            "x": 139.6295913696289,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a surviving measure",
-            "x": 130.1695068359375,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "Finite aims are repeatedly found inadequate because a discarded ideal still supplies an impossible measuring frame.",
         "beats": [
@@ -12894,58 +10759,6 @@
       "kind": "notebook",
       "caption": "open sea",
       "variant": "open-sea",
-      "composition": {
-        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically. The two guides distinguish old shore from unfixed destination.",
-        "actors": [
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M183 42 L184 101 M184 143 L185 205",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "old",
-            "type": "path",
-            "d": "M61 122 L175 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "new",
-            "type": "path",
-            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "old shore",
-            "x": 266.31477813720704,
-            "y": 38
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "unfixed destination",
-            "x": 126.62954406738281,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "A boat leaves a secure shore when an inherited horizon falls away, gaining possibilities together with exposure.",
         "beats": [
@@ -13175,58 +10988,6 @@
       "kind": "notebook",
       "caption": "last man",
       "variant": "last-man",
-      "composition": {
-        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark. The two guides distinguish larger longing from only comfort.",
-        "actors": [
-          {
-            "id": "flow",
-            "type": "path",
-            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M174 63 L222 62 L220 181 L175 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "output",
-            "type": "path",
-            "d": "M224 124 L331 124",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "larger longing",
-            "x": 57.89718322753906,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "only comfort",
-            "x": 246.8271926879883,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "A comfortable enclosure gradually removes every demanding possibility, then is presented as the audience’s desired future.",
         "beats": [
@@ -13519,65 +11280,6 @@
       "kind": "notebook",
       "caption": "overhuman",
       "variant": "overhuman",
-      "composition": {
-        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically. The two guides distinguish present humanity from an uncompleted possibility.",
-        "actors": [
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M183 42 L184 101 M184 143 L185 205",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "old",
-            "type": "path",
-            "d": "M61 122 L175 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "new",
-            "type": "path",
-            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "present humanity",
-            "x": 236.7595703125,
-            "y": 38
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "an uncompleted",
-            "x": 136.5996063232422,
-            "y": 217
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "possibility",
-            "x": 157.8997604370117,
-            "y": 238
-          }
-        ]
-      },
       "lesson": {
         "description": "A current model of humanity is treated as a bridge toward a possibility whose final figure is deliberately left unfinished.",
         "beats": [
@@ -13799,54 +11501,6 @@
       "kind": "notebook",
       "caption": "faithful earth",
       "variant": "faithful-earth",
-      "composition": {
-        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour. The two guides distinguish changing life from no other-world guarantee.",
-        "actors": [
-          {
-            "id": "field",
-            "type": "path",
-            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "contour",
-            "type": "path",
-            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "changing life",
-            "x": 155.75969848632812,
-            "y": 36
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "no other-world",
-            "x": 146.73214416503907,
-            "y": 218
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "guarantee",
-            "x": 164.47224884033204,
-            "y": 239
-          }
-        ]
-      },
       "lesson": {
         "description": "A person’s hopes are first placed in a distant perfect world and then redirected toward the finite world where they live.",
         "beats": [
@@ -14150,41 +11804,6 @@
       "kind": "notebook",
       "caption": "eternal recurrence",
       "variant": "eternal-recurrence",
-      "composition": {
-        "description": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route. The two guides distinguish the whole sequence from again.",
-        "actors": [
-          {
-            "id": "route",
-            "type": "path",
-            "d": "M103 102 Q141 49 195 79 L216 57 L234 94 Q300 81 299 136 Q305 186 227 184 L207 164 L191 185 Q92 192 103 102 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "the whole sequence",
-            "x": 129.04200134277343,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "again",
-            "x": 181.29986572265625,
-            "y": 227
-          },
-          {
-            "id": "return-direction",
-            "type": "path",
-            "d": "M287 105 L302 119 L310 98"
-          }
-        ]
-      },
       "lesson": {
         "description": "A sequence of lived moments is returned intact, including the painful episode that a selective affirmation would remove.",
         "beats": [
@@ -14611,48 +12230,6 @@
       "kind": "notebook",
       "caption": "amor fati",
       "variant": "amor-fati",
-      "composition": {
-        "description": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route. The two guides distinguish what cannot change from what could be affirmed.",
-        "actors": [
-          {
-            "id": "route",
-            "type": "path",
-            "d": "M103 102 Q141 49 195 79 L216 57 L234 94 Q300 81 299 136 Q305 186 227 184 L207 164 L191 185 Q92 192 103 102 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "what cannot change",
-            "x": 128.6595016479492,
-            "y": 36
-          },
-          {
-            "id": "guide-b-top",
-            "type": "text",
-            "text": "what could",
-            "x": 161.14473724365234,
-            "y": 218
-          },
-          {
-            "id": "guide-b-bottom",
-            "type": "text",
-            "text": "be affirmed",
-            "x": 159.2272216796875,
-            "y": 239
-          },
-          {
-            "id": "return-direction",
-            "type": "path",
-            "d": "M287 105 L302 119 L310 98"
-          }
-        ]
-      },
       "lesson": {
         "description": "A fixed event remains unchanged while the person’s relation to its place within their life is reconsidered.",
         "beats": [
@@ -14971,71 +12548,6 @@
       "kind": "notebook",
       "caption": "revenge time",
       "variant": "revenge-time",
-      "composition": {
-        "description": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender. The two guides distinguish the will from the past.",
-        "actors": [
-          {
-            "id": "speaker",
-            "type": "figure",
-            "x": 119,
-            "y": 150,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "absent",
-            "type": "figure",
-            "x": 290,
-            "y": 150,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "delay": 0
-            }
-          },
-          {
-            "id": "reply",
-            "type": "path",
-            "d": "M144 95 Q252 52 289 94",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M288 100 Q301 201 121 196 Q54 157 82 87 Q106 62 138 92",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "the will",
-            "x": 80.22483978271484,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "the past",
-            "x": 262.77729949951174,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "A will that cannot alter a past act turns toward condemning the existence in which the act remains.",
         "beats": [
@@ -15397,47 +12909,6 @@
       "kind": "notebook",
       "caption": "apollonian",
       "variant": "apollonian",
-      "composition": {
-        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour. The two guides distinguish distinct form from a turbulent ground.",
-        "actors": [
-          {
-            "id": "field",
-            "type": "path",
-            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "contour",
-            "type": "path",
-            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "distinct form",
-            "x": 154.7772003173828,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a turbulent ground",
-            "x": 134.27706298828124,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "An artist’s boundary gives a turbulent background a distinct dreamlike figure that can be contemplated.",
         "beats": [
@@ -15649,47 +13120,6 @@
       "kind": "notebook",
       "caption": "dionysian",
       "variant": "dionysian",
-      "composition": {
-        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour. The two guides distinguish individual outlines from shared intensity.",
-        "actors": [
-          {
-            "id": "field",
-            "type": "path",
-            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "contour",
-            "type": "path",
-            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "individual outlines",
-            "x": 136.45457153320314,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "shared intensity",
-            "x": 143.27211303710936,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "Several individual outlines become involved in a common rhythm while their usual separateness loses emphasis.",
         "beats": [
@@ -15949,47 +13379,6 @@
       "kind": "notebook",
       "caption": "tragedy",
       "variant": "tragedy",
-      "composition": {
-        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour. The two guides distinguish destruction shown from life encountered.",
-        "actors": [
-          {
-            "id": "field",
-            "type": "path",
-            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "contour",
-            "type": "path",
-            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "destruction shown",
-            "x": 134.49204864501954,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "life encountered",
-            "x": 142.47710723876952,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "A bounded theatrical scene carries an unsettling rhythm within it, showing tragedy as a relation between artistic forces.",
         "beats": [
@@ -16223,70 +13612,6 @@
       "kind": "notebook",
       "caption": "theoretical optimism",
       "variant": "theoretical-optimism",
-      "composition": {
-        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam. The two guides distinguish explain from repair?.",
-        "actors": [
-          {
-            "id": "object",
-            "type": "path",
-            "d": "M286 75 L313 79 L310 115 L287 110 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "lamp",
-            "type": "circle",
-            "x": 101,
-            "y": 105,
-            "r": 13,
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "beam",
-            "type": "path",
-            "d": "M116 98 L287 76 M114 112 L286 109",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "explain",
-            "x": 277.2898315429687,
-            "y": 226
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "repair?",
-            "x": 70.47733154296876,
-            "y": 226
-          }
-        ]
-      },
       "lesson": {
         "description": "An expanding explanatory chart is mistaken for a complete answer to suffering, leaving an actual sufferer outside its bounds.",
         "beats": [
@@ -16576,65 +13901,6 @@
       "kind": "notebook",
       "caption": "artistic distance",
       "variant": "artistic-distance",
-      "composition": {
-        "description": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it. The two guides distinguish the consuming detail from room around it.",
-        "actors": [
-          {
-            "id": "difficulty",
-            "type": "path",
-            "d": "M169 111 L182 84 L195 119 L211 96 L228 144 L207 158 L190 143 L172 158 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "close",
-            "type": "path",
-            "d": "M155 70 L241 70 L242 170 L154 171 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "wide",
-            "type": "path",
-            "d": "M87 42 L310 43 L312 204 L86 203 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a-top",
-            "type": "text",
-            "text": "the consuming",
-            "x": 147.76463470458984,
-            "y": 21
-          },
-          {
-            "id": "guide-a-bottom",
-            "type": "text",
-            "text": "detail",
-            "x": 180.37237091064452,
-            "y": 42
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "room around it",
-            "x": 147.8946502685547,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "An overwhelming event is framed as an artwork, creating enough distance for a viewer to examine it.",
         "beats": [
@@ -16891,58 +14157,6 @@
       "kind": "notebook",
       "caption": "pain knowledge",
       "variant": "pain-knowledge",
-      "composition": {
-        "description": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it. The two guides distinguish a painful condition from a changed angle.",
-        "actors": [
-          {
-            "id": "difficulty",
-            "type": "path",
-            "d": "M169 111 L182 84 L195 119 L211 96 L228 144 L207 158 L190 143 L172 158 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "close",
-            "type": "path",
-            "d": "M155 70 L241 70 L242 170 L154 171 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "wide",
-            "type": "path",
-            "d": "M87 42 L310 43 L312 204 L86 203 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a painful condition",
-            "x": 134.54205780029298,
-            "y": 30
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a changed angle",
-            "x": 142.69210052490234,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "An interrupted habitual route makes previously unnoticed features visible without turning the injury into a required lesson.",
         "beats": [
@@ -17285,58 +14499,6 @@
       "kind": "notebook",
       "caption": "great health",
       "variant": "great-health",
-      "composition": {
-        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift. The two guides distinguish a capacity risked from a capacity renewed.",
-        "actors": [
-          {
-            "id": "trial1",
-            "type": "path",
-            "d": "M78 175 Q160 73 246 124",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "trial2",
-            "type": "path",
-            "d": "M79 175 Q155 128 271 92",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "worked",
-            "type": "path",
-            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "a capacity risked",
-            "x": 139.92207946777344,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "a capacity renewed",
-            "x": 130.8345199584961,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "A traveller loses a familiar support, forms another way to move, and encounters a further need for renewal.",
         "beats": [
@@ -17556,58 +14718,6 @@
       "kind": "notebook",
       "caption": "genius work",
       "variant": "genius-work",
-      "composition": {
-        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift. The two guides distinguish discarded attempts from selected result.",
-        "actors": [
-          {
-            "id": "trial1",
-            "type": "path",
-            "d": "M78 175 Q160 73 246 124",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "trial2",
-            "type": "path",
-            "d": "M79 175 Q155 128 271 92",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "worked",
-            "type": "path",
-            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "discarded attempts",
-            "x": 130.2270294189453,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "selected result",
-            "x": 147.7471466064453,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "A finished drawing is lifted to show repeated drafts, failures, and revisions hidden by the impression of effortless genius.",
         "beats": [
@@ -18283,69 +15393,6 @@
       "kind": "notebook",
       "caption": "slow reading",
       "variant": "slow-reading",
-      "composition": {
-        "description": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it. The two guides distinguish first recognition from further relations.",
-        "actors": [
-          {
-            "id": "surface",
-            "type": "path",
-            "d": "M65 78 Q183 72 335 79",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "layer1",
-            "type": "path",
-            "d": "M72 118 Q198 105 328 119",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "layer2",
-            "type": "path",
-            "d": "M80 157 Q197 147 319 159",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "cut",
-            "type": "path",
-            "d": "M201 77 L198 190 M191 178 L198 190 L208 179",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "first recognition",
-            "x": 144.36212768554688,
-            "y": 36
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "further relations",
-            "x": 143.447119140625,
-            "y": 227
-          }
-        ]
-      },
       "lesson": {
         "description": "A compact sentence is reopened into its premises and tensions before a reader accepts the apparent conclusion.",
         "beats": [
@@ -18699,58 +15746,6 @@
       "kind": "notebook",
       "caption": "mask depth",
       "variant": "mask-depth",
-      "composition": {
-        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark. The two guides distinguish protective surface from forming depth.",
-        "actors": [
-          {
-            "id": "flow",
-            "type": "path",
-            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M174 63 L222 62 L220 181 L175 183 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "output",
-            "type": "path",
-            "d": "M224 124 L331 124",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "guide-a",
-            "type": "text",
-            "text": "protective surface",
-            "x": 40.56705627441406,
-            "y": 223
-          },
-          {
-            "id": "guide-b",
-            "type": "text",
-            "text": "forming depth",
-            "x": 241.99966583251953,
-            "y": 223
-          }
-        ]
-      },
       "lesson": {
         "description": "An inner thought meets a hostile or shallow public frame, making a mask a possible protection for depth as well as concealment.",
         "beats": [
