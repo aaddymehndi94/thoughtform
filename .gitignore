@@ -4,3 +4,4 @@ dist/
 .openai/.runtime/
 .openai/deploy.json
 artifacts/
+.openai/hosting-state.json
