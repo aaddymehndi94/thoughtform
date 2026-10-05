@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.openai/.runtime/
+.openai/deploy.json
+artifacts/
