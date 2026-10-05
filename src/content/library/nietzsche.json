@@ -7,11 +7,11 @@
     "title": "Under the verdict",
     "statement": "A value has a history. Calling it obvious can hide that history.",
     "explanation": "Nietzsche asks how moral judgments arose and what forms of life they serve. A genealogy examines the making of a value before accepting its claim to timeless authority.",
-    "nuance": "Finding a troubling origin does not automatically disprove a value. Nietzsche also asks what a value does now: whether it enlarges or diminishes life. His genealogies are provocative interpretations of history, not neutral archaeological reports. A rule can outlive the interests that first produced it. The object of inquiry is not only a rule but the authority with which it speaks. A familiar judgment can conceal a sequence of struggles, reinterpretations, and changes in whom the judgment benefits.\n\nA moral rule can look self-evident when its earlier conflicts have been forgotten. Imagine a community that praises silence because speaking threatens its established order. A later generation may inherit silence as a virtue while no longer knowing whose security it once protected. Genealogy restores the missing question: what happened between a practical arrangement and its appearance as an unconditional demand?\n\nThe inquiry has two parts that should remain distinct. One asks how a value came into existence; the other asks whether that value deserves authority. An ugly origin is not by itself a refutation, just as an impressive origin cannot establish present worth. Nietzsche wants the investigation to reach the effects of valuation: what it enables people to notice, desire, become, or condemn. Those effects can change as the value travels.",
+    "nuance": "Finding a troubling origin does not automatically disprove a value. Nietzsche also asks what a value does now: whether it enlarges or diminishes life. His genealogies are provocative interpretations of history, not neutral archaeological reports. A rule can outlive the interests that first produced it. The inquiry examines a rule and the authority with which it speaks. A familiar judgment can conceal a sequence of struggles, reinterpretations, and changes in whom the judgment benefits.\n\nA moral rule can look self-evident when its earlier conflicts have been forgotten. Imagine a community that praises silence because speaking threatens its established order. A later generation may inherit silence as a virtue while no longer knowing whose security it once protected. Genealogy restores the missing question: what happened between a practical arrangement and its appearance as an unconditional demand?\n\nThe inquiry has two parts that should remain distinct. One asks how a value came into existence; the other asks whether that value deserves authority. An ugly origin is not by itself a refutation, just as an impressive origin cannot establish present worth. Nietzsche wants the investigation to reach the effects of valuation: what it enables people to notice, desire, become, or condemn. Those effects can change as the value travels.",
     "sources": [
       "gm-Preface-6"
     ],
-    "metaphor": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+    "metaphor": "A moral verdict is lifted to reveal the successive uses and struggles that made it authoritative.",
     "scene": {
       "kind": "notebook",
       "caption": "genealogy",
@@ -78,6 +78,257 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "A moral verdict is lifted to reveal the successive uses and struggles that made it authoritative.",
+        "beats": [
+          {
+            "caption": "A familiar verdict arrives as though it has always been obvious.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "verdict",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "verdict-outline",
+                    "type": "path",
+                    "d": "M-76.5 -45.0 L76.5 -44.0 L75.5 45.0 L-75.5 44.0 Z"
+                  },
+                  {
+                    "id": "verdict-word0-line0",
+                    "type": "text",
+                    "text": "SELFISH",
+                    "x": 0,
+                    "y": -21.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 116
+              },
+              {
+                "id": "obvious",
+                "type": "text",
+                "text": "“Everyone knows.”",
+                "x": 200,
+                "y": 201,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Look beneath it: earlier struggles gave the judgment a particular use.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "verdict",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "verdict-outline",
+                    "type": "path",
+                    "d": "M-76.5 -33.0 L76.5 -32.0 L75.5 33.0 L-75.5 32.0 Z"
+                  },
+                  {
+                    "id": "verdict-word0-line0",
+                    "type": "text",
+                    "text": "SELFISH",
+                    "x": 0,
+                    "y": -9.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 69
+              },
+              {
+                "id": "earlier",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "earlier-outline",
+                    "type": "path",
+                    "d": "M-94.0 -30.5 L94.0 -29.5 L93.0 30.5 L-93.0 29.5 Z"
+                  },
+                  {
+                    "id": "earlier-word0-line0",
+                    "type": "text",
+                    "text": "an earlier struggle",
+                    "x": 0,
+                    "y": -6.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 161
+              },
+              {
+                "id": "layer",
+                "type": "path",
+                "d": "M67 132 Q203 122 339 134",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "caption": "Later people inherited the words and changed what they served.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "verdict",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "verdict-outline",
+                    "type": "path",
+                    "d": "M-76.5 -25.5 L76.5 -24.5 L75.5 25.5 L-75.5 24.5 Z"
+                  },
+                  {
+                    "id": "verdict-word0-line0",
+                    "type": "text",
+                    "text": "SELFISH",
+                    "x": 0,
+                    "y": -1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 52
+              },
+              {
+                "id": "earlier",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "earlier-outline",
+                    "type": "path",
+                    "d": "M-94.0 -24.0 L94.0 -23.0 L93.0 24.0 L-93.0 23.0 Z"
+                  },
+                  {
+                    "id": "earlier-word0-line0",
+                    "type": "text",
+                    "text": "an earlier struggle",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 184
+              },
+              {
+                "id": "later",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "later-outline",
+                    "type": "path",
+                    "d": "M-105.5 -26.5 L105.5 -25.5 L104.5 26.5 L-104.5 25.5 Z"
+                  },
+                  {
+                    "id": "later-word0-line0",
+                    "type": "text",
+                    "text": "a later purpose",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              }
+            ]
+          },
+          {
+            "caption": "A genealogy asks how the authority was made before accepting it.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "verdict",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "verdict-outline",
+                    "type": "path",
+                    "d": "M-76.5 -25.5 L76.5 -24.5 L75.5 25.5 L-75.5 24.5 Z"
+                  },
+                  {
+                    "id": "verdict-word0-line0",
+                    "type": "text",
+                    "text": "SELFISH",
+                    "x": 0,
+                    "y": -1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 52
+              },
+              {
+                "id": "earlier",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "earlier-outline",
+                    "type": "path",
+                    "d": "M-94.0 -24.0 L94.0 -23.0 L93.0 24.0 L-93.0 23.0 Z"
+                  },
+                  {
+                    "id": "earlier-word0-line0",
+                    "type": "text",
+                    "text": "an earlier struggle",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 184
+              },
+              {
+                "id": "later",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "later-outline",
+                    "type": "path",
+                    "d": "M-105.5 -26.5 L105.5 -25.5 L104.5 26.5 L-104.5 25.5 Z"
+                  },
+                  {
+                    "id": "later-word0-line0",
+                    "type": "text",
+                    "text": "a later purpose",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "whose authority?",
+                "x": 200,
+                "y": 236,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -124,38 +375,65 @@
         ]
       },
       {
-        "description": "same rule; different interests.",
+        "description": "The inherited praise of silence can persist while the people whose security it protects change.",
         "actors": [
           {
-            "id": "hook",
+            "id": "earlier",
+            "type": "figure",
+            "x": 103,
+            "y": 142
+          },
+          {
+            "id": "later",
+            "type": "figure",
+            "x": 298,
+            "y": 142,
+            "facing": true
+          },
+          {
+            "id": "rule",
+            "type": "group",
+            "x": 200,
+            "y": 66,
+            "children": [
+              {
+                "id": "rule-edge",
+                "type": "path",
+                "d": "M-77.5 -23.0 L77.5 -23.0 L77.5 23.0 L-77.5 23.0 Z"
+              }
+            ]
+          },
+          {
+            "id": "rule-word",
+            "type": "text",
+            "text": "silence is virtuous",
+            "x": 200,
+            "y": 71,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "period",
             "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "d": "M200 98 L200 189"
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
-          },
-          {
-            "id": "a",
+            "id": "earlier-word",
             "type": "text",
-            "text": "same rule",
-            "x": 64.00524597167968,
-            "y": 218
+            "text": "earlier interest",
+            "x": 100,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b-top",
+            "id": "later-word",
             "type": "text",
-            "text": "different",
-            "x": 255.73021392822267,
-            "y": 209
-          },
-          {
-            "id": "b-bottom",
-            "type": "text",
-            "text": "interests",
-            "x": 255.0732162475586,
-            "y": 230
+            "text": "later interest",
+            "x": 298,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -169,11 +447,11 @@
     "title": "The delayed reply",
     "statement": "An enemy can keep organizing your life long after the encounter ends.",
     "explanation": "Nietzsche calls ressentiment a lasting, reactive hostility that creates values against an opponent. Unable to discharge itself in action, it returns as an interpretation of the world.",
-    "nuance": "This means more than ordinary anger or remembering an injustice. The crucial turn occurs when opposition becomes the source of evaluation: their qualities must be evil so that mine can be good. Nietzsche diagnoses this structure sharply, but the diagnosis should not be used to dismiss every protest against oppression. The remembered opponent is not merely a subject of thought. They become a hidden organizer of what the person praises, rejects, and takes pride in. The dependence survives inside the apparently independent verdict.\n\nConsider someone who begins by envying another person's confidence. Unable to challenge them directly, they come to describe confidence itself as a moral defect. Their own hesitation then appears virtuous by contrast. The shift is not merely from anger to criticism. The other person continues to supply the entire scale on which the speaker judges themselves; even victory would still be imagined in the opponent's terms.\n\nNietzsche contrasts this reactive structure with a more affirmative beginning: valuing something before needing an enemy to make its value intelligible. That contrast does not settle the justice of a particular conflict. Someone can resist a real wrong without organizing their whole identity around the wrongdoer. The useful question concerns dependence: how much of the present evaluation is still an answer to someone else?",
+    "nuance": "This means more than ordinary anger or remembering an injustice. The crucial turn occurs when opposition becomes the source of evaluation: their qualities must be evil so that mine can be good. Nietzsche diagnoses this structure sharply, but the diagnosis should not be used to dismiss every protest against oppression. The remembered opponent becomes an organizer of thought. They become a hidden organizer of what the person praises, rejects, and takes pride in. The dependence survives inside the apparently independent verdict.\n\nConsider someone who begins by envying another person's confidence. Unable to challenge them directly, they come to describe confidence itself as a moral defect. Their own hesitation then appears virtuous by contrast. The shift changes the source of the person’s values. The other person continues to supply the entire scale on which the speaker judges themselves; even victory would still be imagined in the opponent's terms.\n\nNietzsche contrasts this reactive structure with a more affirmative beginning: valuing something before needing an enemy to make its value intelligible. That contrast does not settle the justice of a particular conflict. Someone can resist a real wrong without organizing their whole identity around the wrongdoer. The useful question concerns dependence: how much of the present evaluation is still an answer to someone else?",
     "sources": [
       "gm-I-10"
     ],
-    "metaphor": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+    "metaphor": "An insult disappears from the world but remains the hidden organizer of a person’s later values.",
     "scene": {
       "kind": "notebook",
       "caption": "ressentiment",
@@ -240,6 +518,263 @@
             "text": "my measure",
             "x": 248.78719329833984,
             "y": 223
+          }
+        ]
+      },
+      "lesson": {
+        "description": "An insult disappears from the world but remains the hidden organizer of a person’s later values.",
+        "beats": [
+          {
+            "caption": "An injury cannot be answered directly. The opponent remains in memory.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 286,
+                "y": 139,
+                "facing": true
+              },
+              {
+                "id": "insult",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "insult-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "insult-words-line0",
+                    "type": "text",
+                    "text": "lesser",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 42
+              },
+              {
+                "id": "hurt",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hurt-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 132,
+                "y": 111
+              },
+              {
+                "id": "floor",
+                "type": "path",
+                "d": "M54 190 Q200 187 347 190",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "caption": "The person begins to praise whatever seems opposite to the enemy.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "memory-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "memory-words-line0",
+                    "type": "text",
+                    "text": "them",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 212,
+                "y": 51
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-50.0 -32.5 L50.0 -31.5 L49.0 32.5 L-49.0 31.5 Z"
+                  },
+                  {
+                    "id": "value-word0-line0",
+                    "type": "text",
+                    "text": "their pride",
+                    "x": 0,
+                    "y": -8.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 151
+              },
+              {
+                "id": "reject",
+                "type": "path",
+                "d": "M277 135 L311 169 M311 135 L277 169"
+              }
+            ]
+          },
+          {
+            "caption": "Their judgments still take their direction from the remembered opponent.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-58.0 -34.0 L58.0 -33.0 L57.0 34.0 L-57.0 33.0 Z"
+                  },
+                  {
+                    "id": "value-word0-line0",
+                    "type": "text",
+                    "text": "my humility",
+                    "x": 0,
+                    "y": -10.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 151
+              },
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "memory-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "memory-words-line0",
+                    "type": "text",
+                    "text": "their pride",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 213,
+                "y": 47
+              },
+              {
+                "id": "dependency",
+                "type": "path",
+                "d": "M134 145 Q204 206 312 198 Q368 166 354 77 Q271 1 150 33"
+              }
+            ]
+          },
+          {
+            "caption": "A condemnation can preserve dependence on the person it rejects.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-63.5 -34.0 L63.5 -33.0 L62.5 34.0 L-62.5 33.0 Z"
+                  },
+                  {
+                    "id": "value-word0-line0",
+                    "type": "text",
+                    "text": "my virtue",
+                    "x": 0,
+                    "y": -10.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 151
+              },
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "memory-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "memory-words-line0",
+                    "type": "text",
+                    "text": "the enemy",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 213,
+                "y": 47
+              },
+              {
+                "id": "dependency",
+                "type": "path",
+                "d": "M134 145 Q204 206 312 198 Q368 166 354 77 Q271 1 150 33"
+              },
+              {
+                "id": "relationship",
+                "type": "text",
+                "text": "still the measure",
+                "x": 235,
+                "y": 221,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -350,7 +885,7 @@
     "sources": [
       "gm-I-10-11"
     ],
-    "metaphor": "Two verdicts cross the same unchanged shapes; the evaluation changes while the shapes remain.",
+    "metaphor": "Two valuations are composed in different orders: self-affirmation first, or an accusation that supplies a contrasting good.",
     "scene": {
       "kind": "notebook",
       "caption": "good bad",
@@ -441,6 +976,250 @@
             "text": "evil",
             "x": 294.2649200439453,
             "y": 228
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Two valuations are composed in different orders: self-affirmation first, or an accusation that supplies a contrasting good.",
+        "beats": [
+          {
+            "caption": "One valuation begins by naming its own way of living good.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "affirming",
+                "type": "figure",
+                "x": 110,
+                "y": 137
+              },
+              {
+                "id": "good-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "good-a-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "good-a-words-line0",
+                    "type": "text",
+                    "text": "good",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 110,
+                "y": 41
+              },
+              {
+                "id": "first",
+                "type": "text",
+                "text": "self-affirmation",
+                "x": 200,
+                "y": 224,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "It calls another way lesser by comparison with that first affirmation.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "affirming",
+                "type": "figure",
+                "x": 110,
+                "y": 137
+              },
+              {
+                "id": "other-a",
+                "type": "figure",
+                "x": 291,
+                "y": 137,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "good-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "good-a-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "good-a-words-line0",
+                    "type": "text",
+                    "text": "good",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 110,
+                "y": 41
+              },
+              {
+                "id": "lesser",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "lesser-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "lesser-words-line0",
+                    "type": "text",
+                    "text": "lesser",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 291,
+                "y": 41
+              }
+            ]
+          },
+          {
+            "caption": "Another valuation begins with an enemy judged evil.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "affirming",
+                "type": "figure",
+                "x": 110,
+                "y": 137,
+                "tone": "faint"
+              },
+              {
+                "id": "other-a",
+                "type": "figure",
+                "x": 291,
+                "y": 137,
+                "facing": true
+              },
+              {
+                "id": "evil",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evil-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "evil-words-line0",
+                    "type": "text",
+                    "text": "evil",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 291,
+                "y": 41
+              },
+              {
+                "id": "first",
+                "type": "text",
+                "text": "the accusation comes first",
+                "x": 200,
+                "y": 224,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Here good is formed through contrast with the enemy; the starting point differs.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "affirming",
+                "type": "figure",
+                "x": 110,
+                "y": 137
+              },
+              {
+                "id": "other-a",
+                "type": "figure",
+                "x": 291,
+                "y": 137,
+                "facing": true
+              },
+              {
+                "id": "good-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "good-a-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "good-a-words-line0",
+                    "type": "text",
+                    "text": "good",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 110,
+                "y": 41
+              },
+              {
+                "id": "evil",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evil-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "evil-words-line0",
+                    "type": "text",
+                    "text": "evil",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 291,
+                "y": 41
+              },
+              {
+                "id": "formed",
+                "type": "text",
+                "text": "good by contrast",
+                "x": 110,
+                "y": 220,
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "first-enemy",
+                "type": "text",
+                "text": "first: the enemy",
+                "x": 291,
+                "y": 220,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -550,7 +1329,7 @@
     "sources": [
       "gm-II-16"
     ],
-    "metaphor": "Outward lines encounter a wall and bend back into the body, becoming an internal knot.",
+    "metaphor": "An outward impulse meets a social barrier and reappears as a force directed against the person who carries it.",
     "scene": {
       "kind": "notebook",
       "caption": "bad conscience",
@@ -618,6 +1397,188 @@
             "y": 226
           }
         ]
+      },
+      "lesson": {
+        "description": "An outward impulse meets a social barrier and reappears as a force directed against the person who carries it.",
+        "beats": [
+          {
+            "caption": "An impulse once had an outward outlet.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 138,
+                "y": 141
+              },
+              {
+                "id": "force",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "force-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 224,
+                "y": 127
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M154 116 Q187 112 205 126"
+              },
+              {
+                "id": "floor",
+                "type": "path",
+                "d": "M54 190 Q200 187 347 190",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "caption": "Social constraints block that outlet. The force has not simply vanished.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 138,
+                "y": 141
+              },
+              {
+                "id": "force",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "force-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 224,
+                "y": 127
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M154 116 Q187 112 205 126"
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M253 58 L255 191 M244 69 L264 69 M244 89 L264 89 M244 111 L264 111 M244 134 L264 134 M244 156 L264 156 M244 179 L264 179"
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche describes a turn inward: the person becomes the target.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 138,
+                "y": 141
+              },
+              {
+                "id": "force",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "force-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 138,
+                "y": 120
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M253 58 L255 191"
+              },
+              {
+                "id": "inward",
+                "type": "path",
+                "d": "M166 106 Q204 75 202 134 Q197 163 168 151"
+              },
+              {
+                "id": "target",
+                "type": "text",
+                "text": "the target is oneself",
+                "x": 200,
+                "y": 224,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Bad conscience is his account of this internalization, not a timeless origin story.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 138,
+                "y": 141
+              },
+              {
+                "id": "force",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "force-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 138,
+                "y": 120
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M253 58 L255 191",
+                "tone": "faint"
+              },
+              {
+                "id": "blame",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blame-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "blame-words-line0",
+                    "type": "text",
+                    "text": "guilty",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 291,
+                "y": 56
+              },
+              {
+                "id": "interpretation",
+                "type": "text",
+                "text": "a historical explanation",
+                "x": 200,
+                "y": 223,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -664,31 +1625,48 @@
         ]
       },
       {
-        "description": "repair an act; punish a self.",
+        "description": "Repairing a particular act and treating the whole self as blameworthy direct attention to different objects.",
         "actors": [
           {
-            "id": "hook",
-            "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "id": "repairer",
+            "type": "figure",
+            "x": 92,
+            "y": 141
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "accused",
+            "type": "figure",
+            "x": 301,
+            "y": 141,
+            "facing": true
           },
           {
-            "id": "a",
+            "id": "broken-vessel",
+            "type": "path",
+            "d": "M137 112 L170 112 L170 160 L137 160 Z M151 112 L145 129 L154 145 L148 160"
+          },
+          {
+            "id": "self-blame",
+            "type": "path",
+            "d": "M282 116 L316 150 M316 116 L282 150"
+          },
+          {
+            "id": "act",
             "type": "text",
             "text": "repair an act",
-            "x": 51.76332244873047,
-            "y": 218
+            "x": 112,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "self",
             "type": "text",
             "text": "punish a self",
-            "x": 239.15931854248046,
-            "y": 218
+            "x": 300,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -706,7 +1684,7 @@
     "sources": [
       "gm-II-1-2"
     ],
-    "metaphor": "A loose moving thread is anchored to two distant dates; the figure keeps one line intact across time.",
+    "metaphor": "A promise is preserved across changes in the desires and circumstances of the person who made it.",
     "scene": {
       "kind": "notebook",
       "caption": "promise",
@@ -783,6 +1761,283 @@
             "y": 235
           }
         ]
+      },
+      "lesson": {
+        "description": "A promise is preserved across changes in the desires and circumstances of the person who made it.",
+        "beats": [
+          {
+            "caption": "Today I undertake to return a borrowed object next month.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "today",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "object",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "object-outline",
+                    "type": "path",
+                    "d": "M-23.5 -33.5 L23.5 -32.5 L22.5 33.5 L-22.5 32.5 Z"
+                  },
+                  {
+                    "id": "object-lines",
+                    "type": "path",
+                    "d": "M-10.5 -24 L8.5 -24 M-10.5 -5 L10.5 -5 M-10.5 15 L1.5 15",
+                    "tone": "faint"
+                  }
+                ],
+                "x": 214,
+                "y": 128
+              },
+              {
+                "id": "date",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "date-outline",
+                    "type": "path",
+                    "d": "M-49.5 -39.0 L49.5 -38.0 L48.5 39.0 L-48.5 38.0 Z"
+                  },
+                  {
+                    "id": "date-word0-line0",
+                    "type": "text",
+                    "text": "next",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "date-word0-line1",
+                    "type": "text",
+                    "text": "month",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 300,
+                "y": 77
+              },
+              {
+                "id": "will",
+                "type": "text",
+                "text": "I will return it.",
+                "x": 116,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The future brings new desires and changed circumstances.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "today",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "date",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "date-outline",
+                    "type": "path",
+                    "d": "M-49.5 -39.0 L49.5 -38.0 L48.5 39.0 L-48.5 38.0 Z"
+                  },
+                  {
+                    "id": "date-word0-line0",
+                    "type": "text",
+                    "text": "next",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "date-word0-line1",
+                    "type": "text",
+                    "text": "month",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 300,
+                "y": 77
+              },
+              {
+                "id": "desire",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "desire-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "desire-words-line0",
+                    "type": "text",
+                    "text": "I want it.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 215,
+                "y": 151
+              },
+              {
+                "id": "weather",
+                "type": "path",
+                "d": "M242 40 Q258 15 274 36 Q294 17 307 41"
+              }
+            ]
+          },
+          {
+            "caption": "The commitment is kept available across those interruptions.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "today",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "date",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "date-outline",
+                    "type": "path",
+                    "d": "M-49.5 -39.0 L49.5 -38.0 L48.5 39.0 L-48.5 38.0 Z"
+                  },
+                  {
+                    "id": "date-word0-line0",
+                    "type": "text",
+                    "text": "next",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "date-word0-line1",
+                    "type": "text",
+                    "text": "month",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 300,
+                "y": 77
+              },
+              {
+                "id": "promise",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "promise-outline",
+                    "type": "path",
+                    "d": "M-64.0 -29.0 L64.0 -28.0 L63.0 29.0 L-63.0 28.0 Z"
+                  },
+                  {
+                    "id": "promise-word0-line0",
+                    "type": "text",
+                    "text": "a",
+                    "x": 0,
+                    "y": -5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "promise-word0-line1",
+                    "type": "text",
+                    "text": "commitment",
+                    "x": 0,
+                    "y": 15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 233,
+                "y": 159
+              },
+              {
+                "id": "thread",
+                "type": "path",
+                "d": "M129 192 Q215 209 300 196 L300 135"
+              }
+            ]
+          },
+          {
+            "caption": "Promising means being answerable for a willing held across time.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "today",
+                "type": "figure",
+                "x": 116,
+                "y": 139
+              },
+              {
+                "id": "future",
+                "type": "figure",
+                "x": 301,
+                "y": 139,
+                "facing": true
+              },
+              {
+                "id": "object",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "object-outline",
+                    "type": "path",
+                    "d": "M-23.5 -33.5 L23.5 -32.5 L22.5 33.5 L-22.5 32.5 Z"
+                  },
+                  {
+                    "id": "object-lines",
+                    "type": "path",
+                    "d": "M-10.5 -24 L8.5 -24 M-10.5 -5 L10.5 -5 M-10.5 15 L1.5 15",
+                    "tone": "faint"
+                  }
+                ],
+                "x": 230,
+                "y": 128
+              },
+              {
+                "id": "thread",
+                "type": "path",
+                "d": "M129 192 Q223 184 300 190"
+              },
+              {
+                "id": "kept",
+                "type": "text",
+                "text": "answerability",
+                "x": 210,
+                "y": 230,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -848,12 +2103,12 @@
         "description": "changed desires; kept commitment.",
         "actors": [
           {
-            "id": "a",
+            "id": "a-path-0",
             "type": "path",
             "d": "M71 79 Q149 66 202 125 L320 122"
           },
           {
-            "id": "b",
+            "id": "b-path-1",
             "type": "path",
             "d": "M78 166 Q143 180 202 125"
           },
@@ -870,14 +2125,14 @@
             "r": 12
           },
           {
-            "id": "a",
+            "id": "a-text-4",
             "type": "text",
             "text": "changed desires",
             "x": 35.65242004394531,
             "y": 218
           },
           {
-            "id": "b",
+            "id": "b-text-5",
             "type": "text",
             "text": "kept commitment",
             "x": 216.51446533203125,
@@ -895,11 +2150,11 @@
     "title": "Making room",
     "statement": "Forgetting can be a capacity, rather than a failure.",
     "explanation": "Nietzsche describes active forgetting as a protective function that keeps experience from overwhelming the present. Life needs selective closure as well as the ability to remember.",
-    "nuance": "This is not permission to erase responsibility or deny a painful event. His image is closer to digestion: not everything must remain constantly conscious for a person to function. The same thinker who values forgetting also examines the disciplined memory required for promises; neither capacity can simply replace the other. His forgetting is an active organization of consciousness, not a guarantee that memories have been erased. It permits a present without demanding that the past be absent from every form of responsibility.\n\nImagine trying to act while every earlier humiliation, unfinished task, and passing sensation insists on equal attention. Memory would become congestion rather than guidance. Nietzsche's active forgetting interrupts that demand. It lets an experience cease occupying the foreground without claiming that the event never occurred. The illustration opens a gate because the relation is one of regulating access, not simply destroying a record.\n\nThat selectivity must coexist with memory of commitments and acknowledgment of consequences. Forgetting a debt one owes someone is different from ceasing to rehearse a grievance all afternoon. Nietzsche places both forgetting and promising in the same inquiry because living requires different kinds of continuity. The difficult judgment concerns what needs to remain available, what requires action, and what need not command the present moment.",
+    "nuance": "This is not permission to erase responsibility or deny a painful event. His image is closer to digestion: not everything must remain constantly conscious for a person to function. The same thinker who values forgetting also examines the disciplined memory required for promises; neither capacity can simply replace the other. His forgetting is an active organization of consciousness, not a guarantee that memories have been erased. It permits a present without demanding that the past be absent from every form of responsibility.\n\nImagine trying to act while every earlier humiliation, unfinished task, and passing sensation insists on equal attention. Memory would become congestion rather than guidance. Nietzsche's active forgetting interrupts that demand. It lets an experience cease occupying the foreground without claiming that the event never occurred. Setting a memory aside regulates its access to the present while keeping its history available.\n\nThat selectivity must coexist with memory of commitments and acknowledgment of consequences. Forgetting a debt one owes someone is different from ceasing to rehearse a grievance all afternoon. Nietzsche places both forgetting and promising in the same inquiry because living requires different kinds of continuity. The difficult judgment concerns what needs to remain available, what requires action, and what need not command the present moment.",
     "sources": [
       "gm-II-1"
     ],
-    "metaphor": "Marks accumulate in a chamber; a gate opens and the marks travel out, freeing space for a new mark.",
+    "metaphor": "A remembered grievance is filed away so the present can become available for another task.",
     "scene": {
       "kind": "notebook",
       "caption": "active forgetting",
@@ -990,6 +2245,208 @@
             "y": 238
           }
         ]
+      },
+      "lesson": {
+        "description": "A remembered grievance is filed away so the present can become available for another task.",
+        "beats": [
+          {
+            "caption": "An old grievance occupies the whole work surface.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "grievance",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "grievance-outline",
+                    "type": "path",
+                    "d": "M-98.5 -68.5 L98.5 -67.5 L97.5 68.5 L-97.5 67.5 Z"
+                  },
+                  {
+                    "id": "grievance-word0-line0",
+                    "type": "text",
+                    "text": "the old injury",
+                    "x": 0,
+                    "y": -44.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 112
+              },
+              {
+                "id": "desk",
+                "type": "path",
+                "d": "M47 195 L353 195"
+              }
+            ]
+          },
+          {
+            "caption": "Active forgetting can set it aside without deleting its history.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "grievance",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "grievance-outline",
+                    "type": "path",
+                    "d": "M-52.0 -41.0 L52.0 -40.0 L51.0 41.0 L-51.0 40.0 Z"
+                  },
+                  {
+                    "id": "grievance-word0-line0",
+                    "type": "text",
+                    "text": "old injury",
+                    "x": 0,
+                    "y": -17.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 92,
+                "y": 104
+              },
+              {
+                "id": "cabinet",
+                "type": "path",
+                "d": "M40 48 L145 48 L145 169 L40 169 Z M40 113 L145 113"
+              },
+              {
+                "id": "desk",
+                "type": "path",
+                "d": "M47 195 L353 195"
+              }
+            ]
+          },
+          {
+            "caption": "The present becomes available for a different task.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "grievance",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "grievance-outline",
+                    "type": "path",
+                    "d": "M-52.0 -41.0 L52.0 -40.0 L51.0 41.0 L-51.0 40.0 Z"
+                  },
+                  {
+                    "id": "grievance-word0-line0",
+                    "type": "text",
+                    "text": "old injury",
+                    "x": 0,
+                    "y": -17.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 92,
+                "y": 104
+              },
+              {
+                "id": "cabinet",
+                "type": "path",
+                "d": "M40 48 L145 48 L145 169 L40 169 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "new-work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "new-work-outline",
+                    "type": "path",
+                    "d": "M-70.5 -58.0 L70.5 -57.0 L69.5 58.0 L-69.5 57.0 Z"
+                  },
+                  {
+                    "id": "new-work-word0-line0",
+                    "type": "text",
+                    "text": "today’s task",
+                    "x": 0,
+                    "y": -34.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 262,
+                "y": 119
+              },
+              {
+                "id": "desk",
+                "type": "path",
+                "d": "M47 195 L353 195"
+              }
+            ]
+          },
+          {
+            "caption": "Memory and responsibility remain possible while the grievance leaves the foreground.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "grievance",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "grievance-outline",
+                    "type": "path",
+                    "d": "M-52.0 -41.0 L52.0 -40.0 L51.0 41.0 L-51.0 40.0 Z"
+                  },
+                  {
+                    "id": "grievance-word0-line0",
+                    "type": "text",
+                    "text": "old injury",
+                    "x": 0,
+                    "y": -17.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 92,
+                "y": 104
+              },
+              {
+                "id": "cabinet",
+                "type": "path",
+                "d": "M40 48 L145 48 L145 169 L40 169 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "new-work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "new-work-outline",
+                    "type": "path",
+                    "d": "M-70.5 -58.0 L70.5 -57.0 L69.5 58.0 L-69.5 57.0 Z"
+                  },
+                  {
+                    "id": "new-work-word0-line0",
+                    "type": "text",
+                    "text": "today’s task",
+                    "x": 0,
+                    "y": -34.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 262,
+                "y": 119
+              },
+              {
+                "id": "available",
+                "type": "text",
+                "text": "filed, still retrievable",
+                "x": 200,
+                "y": 228,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -1053,40 +2510,71 @@
         ]
       },
       {
-        "description": "old grievance; present action.",
+        "description": "The old injury remains in an archive while a different task becomes available in the present.",
         "actors": [
           {
-            "id": "now",
-            "type": "circle",
-            "x": 94,
-            "y": 121,
-            "r": 7
+            "id": "archive",
+            "type": "group",
+            "children": [
+              {
+                "id": "archive-edge",
+                "type": "path",
+                "d": "M-55.0 -45.0 L55.0 -44.0 L54.0 45.0 L-54.0 44.0 Z"
+              },
+              {
+                "id": "archive-text0",
+                "type": "text",
+                "text": "old injury",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 105,
+            "y": 115,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "then",
-            "type": "circle",
-            "x": 307,
-            "y": 123,
-            "r": 7
-          },
-          {
-            "id": "thread",
+            "id": "shelf",
             "type": "path",
-            "d": "M102 123 Q150 112 200 128 Q262 142 300 124"
+            "d": "M47 81L161 81 M46 144L163 144"
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "old grievance",
-            "x": 48.685342407226564,
-            "y": 218
+            "id": "now",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 287,
+            "y": 115,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "b",
+            "id": "old",
             "type": "text",
-            "text": "present action",
-            "x": 230.56837158203126,
-            "y": 218
+            "text": "retrievable",
+            "x": 105,
+            "y": 202,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "present",
+            "type": "text",
+            "text": "present work",
+            "x": 287,
+            "y": 202,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -1104,7 +2592,7 @@
     "sources": [
       "gm-II-4-21"
     ],
-    "metaphor": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+    "metaphor": "A finite debt that can be repaid is replaced by an account whose imagined obligation has no possible endpoint.",
     "scene": {
       "kind": "notebook",
       "caption": "guilt debt",
@@ -1167,6 +2655,262 @@
             "y": 239
           }
         ]
+      },
+      "lesson": {
+        "description": "A finite debt that can be repaid is replaced by an account whose imagined obligation has no possible endpoint.",
+        "beats": [
+          {
+            "caption": "A debt between people can have an amount and an endpoint.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "account",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "account-outline",
+                    "type": "path",
+                    "d": "M-74.5 -57.5 L74.5 -56.5 L73.5 57.5 L-73.5 56.5 Z"
+                  },
+                  {
+                    "id": "account-word0-line0",
+                    "type": "text",
+                    "text": "debt: 3",
+                    "x": 0,
+                    "y": -33.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 111
+              },
+              {
+                "id": "coin1",
+                "type": "circle",
+                "x": 166,
+                "y": 184,
+                "r": 7
+              },
+              {
+                "id": "coin2",
+                "type": "circle",
+                "x": 200,
+                "y": 184,
+                "r": 7
+              },
+              {
+                "id": "coin3",
+                "type": "circle",
+                "x": 234,
+                "y": 184,
+                "r": 7
+              }
+            ]
+          },
+          {
+            "caption": "Repayment can close that account.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "account",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "account-outline",
+                    "type": "path",
+                    "d": "M-74.5 -57.5 L74.5 -56.5 L73.5 57.5 L-73.5 56.5 Z"
+                  },
+                  {
+                    "id": "account-word0-line0",
+                    "type": "text",
+                    "text": "settled",
+                    "x": 0,
+                    "y": -33.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 111
+              },
+              {
+                "id": "closed",
+                "type": "path",
+                "d": "M145 147 L177 170 L251 86"
+              },
+              {
+                "id": "end",
+                "type": "text",
+                "text": "an endpoint",
+                "x": 200,
+                "y": 217,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche traces guilt toward an obligation imagined as immeasurable.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "account",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "account-outline",
+                    "type": "path",
+                    "d": "M-74.5 -57.5 L74.5 -56.5 L73.5 57.5 L-73.5 56.5 Z"
+                  },
+                  {
+                    "id": "account-word0-line0",
+                    "type": "text",
+                    "text": "debt: endless",
+                    "x": 0,
+                    "y": -33.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 111
+              },
+              {
+                "id": "more",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "more-outline",
+                    "type": "path",
+                    "d": "M-40.0 -44.0 L40.0 -43.0 L39.0 44.0 L-39.0 43.0 Z"
+                  },
+                  {
+                    "id": "more-word0-line0",
+                    "type": "text",
+                    "text": "more",
+                    "x": 0,
+                    "y": -20.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 151
+              },
+              {
+                "id": "change",
+                "type": "text",
+                "text": "a different kind of account",
+                "x": 200,
+                "y": 225,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The account stays open: punishment can express a debt that cannot be settled.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "account",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "account-outline",
+                    "type": "path",
+                    "d": "M-74.5 -57.5 L74.5 -56.5 L73.5 57.5 L-73.5 56.5 Z"
+                  },
+                  {
+                    "id": "account-word0-line0",
+                    "type": "text",
+                    "text": "debt: endless",
+                    "x": 0,
+                    "y": -33.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 111
+              },
+              {
+                "id": "more",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "more-outline",
+                    "type": "path",
+                    "d": "M-40.0 -44.0 L40.0 -43.0 L39.0 44.0 L-39.0 43.0 Z"
+                  },
+                  {
+                    "id": "more-word0-line0",
+                    "type": "text",
+                    "text": "more",
+                    "x": 0,
+                    "y": -20.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 151
+              },
+              {
+                "id": "more2",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "more2-outline",
+                    "type": "path",
+                    "d": "M-35.0 -44.0 L35.0 -43.0 L34.0 44.0 L-34.0 43.0 Z"
+                  },
+                  {
+                    "id": "more2-word0-line0",
+                    "type": "text",
+                    "text": "more",
+                    "x": 0,
+                    "y": -20.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 151
+              },
+              {
+                "id": "bound",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "bound-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "bound-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 200,
+                "y": 175
+              },
+              {
+                "id": "end",
+                "type": "text",
+                "text": "no final repayment",
+                "x": 200,
+                "y": 238,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -1225,31 +2969,69 @@
         ]
       },
       {
-        "description": "close the account; keep it open.",
+        "description": "A finite account can be closed by payment; an endless account keeps generating further entries.",
         "actors": [
           {
-            "id": "hook",
+            "id": "closed",
+            "type": "group",
+            "x": 105,
+            "y": 113,
+            "children": [
+              {
+                "id": "closed-edge",
+                "type": "path",
+                "d": "M-56.0 -48.5 L56.0 -48.5 L56.0 48.5 L-56.0 48.5 Z"
+              }
+            ]
+          },
+          {
+            "id": "check",
             "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "d": "M75 117 L96 137 L133 92"
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "open",
+            "type": "group",
+            "x": 286,
+            "y": 108,
+            "children": [
+              {
+                "id": "open-edge",
+                "type": "path",
+                "d": "M-56.0 -48.5 L56.0 -48.5 L56.0 48.5 L-56.0 48.5 Z"
+              }
+            ]
           },
           {
-            "id": "a",
+            "id": "continuation",
+            "type": "group",
+            "x": 299,
+            "y": 166,
+            "children": [
+              {
+                "id": "continuation-edge",
+                "type": "path",
+                "d": "M-56.0 -18.5 L56.0 -18.5 L56.0 18.5 L-56.0 18.5 Z"
+              }
+            ]
+          },
+          {
+            "id": "close",
             "type": "text",
-            "text": "close the account",
-            "x": 29.04547729492188,
-            "y": 218
+            "text": "account closed",
+            "x": 107,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "continue",
             "type": "text",
-            "text": "keep it open",
-            "x": 239.605322265625,
-            "y": 218
+            "text": "further entries",
+            "x": 287,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -1267,7 +3049,7 @@
     "sources": [
       "gm-II-12-14"
     ],
-    "metaphor": "One hook is carried through three contexts; its unchanged outline receives three distinct functions.",
+    "metaphor": "The same confinement is retained as different historical purposes are placed above it.",
     "scene": {
       "kind": "notebook",
       "caption": "punishment",
@@ -1333,6 +3115,173 @@
             "y": 236
           }
         ]
+      },
+      "lesson": {
+        "description": "The same confinement is retained as different historical purposes are placed above it.",
+        "beats": [
+          {
+            "caption": "The procedure: a person is confined.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "confined",
+                "type": "figure",
+                "x": 200,
+                "y": 136
+              },
+              {
+                "id": "cell",
+                "type": "path",
+                "d": "M130 40 L271 40 L271 191 L130 191 Z M158 42 L158 191 M243 42 L243 191"
+              },
+              {
+                "id": "procedure",
+                "type": "text",
+                "text": "confinement",
+                "x": 200,
+                "y": 226,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "One explanation presents the procedure as repayment.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "confined",
+                "type": "figure",
+                "x": 200,
+                "y": 136
+              },
+              {
+                "id": "cell",
+                "type": "path",
+                "d": "M130 40 L271 40 L271 191 L130 191 Z M158 42 L158 191 M243 42 L243 191"
+              },
+              {
+                "id": "purpose",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "purpose-outline",
+                    "type": "path",
+                    "d": "M-112 -21 L112 -20 L111 12 L-111 11 Z"
+                  },
+                  {
+                    "id": "purpose-word0-line0",
+                    "type": "text",
+                    "text": "repay a debt",
+                    "x": 0,
+                    "y": 3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 26
+              }
+            ]
+          },
+          {
+            "caption": "Another uses it to deter others; another to display authority.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "confined",
+                "type": "figure",
+                "x": 200,
+                "y": 136
+              },
+              {
+                "id": "cell",
+                "type": "path",
+                "d": "M130 40 L271 40 L271 191 L130 191 Z M158 42 L158 191 M243 42 L243 191"
+              },
+              {
+                "id": "purpose",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "purpose-outline",
+                    "type": "path",
+                    "d": "M-112 -21 L112 -20 L111 12 L-111 11 Z"
+                  },
+                  {
+                    "id": "purpose-word0-line0",
+                    "type": "text",
+                    "text": "deter others",
+                    "x": 0,
+                    "y": 3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 26
+              },
+              {
+                "id": "audience",
+                "type": "figure",
+                "x": 329,
+                "y": 144,
+                "pose": {
+                  "scale": 0.55
+                },
+                "facing": true
+              }
+            ]
+          },
+          {
+            "caption": "The procedure’s survival does not prove that its purpose stayed the same.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "confined",
+                "type": "figure",
+                "x": 200,
+                "y": 136
+              },
+              {
+                "id": "cell",
+                "type": "path",
+                "d": "M130 40 L271 40 L271 191 L130 191 Z M158 42 L158 191 M243 42 L243 191"
+              },
+              {
+                "id": "purpose",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "purpose-outline",
+                    "type": "path",
+                    "d": "M-112 -21 L112 -20 L111 12 L-111 11 Z"
+                  },
+                  {
+                    "id": "purpose-word0-line0",
+                    "type": "text",
+                    "text": "display authority",
+                    "x": 0,
+                    "y": 3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 26
+              },
+              {
+                "id": "distinction",
+                "type": "text",
+                "text": "one procedure, many purposes",
+                "x": 200,
+                "y": 226,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -1350,31 +3299,61 @@
     ],
     "readingArt": [
       {
-        "description": "one procedure; many purposes.",
+        "description": "The present justification for an old practice is insufficient evidence about its origin.",
         "actors": [
           {
-            "id": "hook",
+            "id": "old",
+            "type": "group",
+            "x": 105,
+            "y": 117,
+            "children": [
+              {
+                "id": "old-edge",
+                "type": "path",
+                "d": "M-52.5 -55.0 L52.5 -55.0 L52.5 55.0 L-52.5 55.0 Z"
+              }
+            ]
+          },
+          {
+            "id": "bars-old",
             "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "d": "M77 81 L77 164 M98 81 L98 164 M119 81 L119 164 M141 81 L141 164"
           },
           {
-            "id": "support",
+            "id": "now",
+            "type": "group",
+            "x": 292,
+            "y": 117,
+            "children": [
+              {
+                "id": "now-edge",
+                "type": "path",
+                "d": "M-52.5 -55.0 L52.5 -55.0 L52.5 55.0 L-52.5 55.0 Z"
+              }
+            ]
+          },
+          {
+            "id": "bars-now",
             "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "d": "M263 81 L263 164 M284 81 L284 164 M305 81 L305 164 M327 81 L327 164"
           },
           {
-            "id": "a",
+            "id": "before",
             "type": "text",
-            "text": "one procedure",
-            "x": 42.88038024902344,
-            "y": 218
+            "text": "origin?",
+            "x": 106,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "after",
             "type": "text",
-            "text": "many purposes",
-            "x": 226.76639709472656,
-            "y": 218
+            "text": "present justification",
+            "x": 291,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -1426,7 +3405,7 @@
     "sources": [
       "gm-III-28"
     ],
-    "metaphor": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+    "metaphor": "Pain receives an explanation in self-blame, making it intelligible while adding an accusation to the suffering.",
     "scene": {
       "kind": "notebook",
       "caption": "ascetic meaning",
@@ -1493,6 +3472,252 @@
             "text": "a new reason",
             "x": 245.7021697998047,
             "y": 223
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Pain receives an explanation in self-blame, making it intelligible while adding an accusation to the suffering.",
+        "beats": [
+          {
+            "caption": "The person suffers and asks what the suffering means.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "sufferer",
+                "type": "figure",
+                "x": 135,
+                "y": 141
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 133,
+                "y": 114
+              },
+              {
+                "id": "why",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "why-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "why-words-line0",
+                    "type": "text",
+                    "text": "why?",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 270,
+                "y": 84
+              }
+            ]
+          },
+          {
+            "caption": "An ideal offers an answer: the pain is punishment for their own fault.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "sufferer",
+                "type": "figure",
+                "x": 135,
+                "y": 141
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 133,
+                "y": 114
+              },
+              {
+                "id": "answer",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "answer-outline",
+                    "type": "path",
+                    "d": "M-71.5 -55.5 L71.5 -54.5 L70.5 55.5 L-70.5 54.5 Z"
+                  },
+                  {
+                    "id": "answer-word0-line0",
+                    "type": "text",
+                    "text": "your fault",
+                    "x": 0,
+                    "y": -31.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 273,
+                "y": 114
+              }
+            ]
+          },
+          {
+            "caption": "The explanation gives suffering a direction, while adding blame.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "sufferer",
+                "type": "figure",
+                "x": 135,
+                "y": 141
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 133,
+                "y": 114
+              },
+              {
+                "id": "answer",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "answer-outline",
+                    "type": "path",
+                    "d": "M-71.5 -55.5 L71.5 -54.5 L70.5 55.5 L-70.5 54.5 Z"
+                  },
+                  {
+                    "id": "answer-word0-line0",
+                    "type": "text",
+                    "text": "your fault",
+                    "x": 0,
+                    "y": -31.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 273,
+                "y": 114
+              },
+              {
+                "id": "self-blame",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "self-blame-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "self-blame-words-line0",
+                    "type": "text",
+                    "text": "I am guilty.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 140,
+                "y": 41
+              }
+            ]
+          },
+          {
+            "caption": "An answer can organize pain and make the sufferer’s condition harsher.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "sufferer",
+                "type": "figure",
+                "x": 135,
+                "y": 141
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 133,
+                "y": 114
+              },
+              {
+                "id": "answer",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "answer-outline",
+                    "type": "path",
+                    "d": "M-71.5 -55.5 L71.5 -54.5 L70.5 55.5 L-70.5 54.5 Z"
+                  },
+                  {
+                    "id": "answer-word0-line0",
+                    "type": "text",
+                    "text": "your fault",
+                    "x": 0,
+                    "y": -31.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 273,
+                "y": 114
+              },
+              {
+                "id": "self-blame",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "self-blame-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "self-blame-words-line0",
+                    "type": "text",
+                    "text": "I am guilty.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 140,
+                "y": 41
+              },
+              {
+                "id": "two",
+                "type": "text",
+                "text": "pain + an accusation",
+                "x": 200,
+                "y": 226,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -1590,7 +3815,7 @@
     "sources": [
       "bg-1"
     ],
-    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "metaphor": "An investigator checks a claim, then turns the inquiry toward the value that directs the investigation itself.",
     "scene": {
       "kind": "notebook",
       "caption": "will truth",
@@ -1658,6 +3883,276 @@
             "y": 226
           }
         ]
+      },
+      "lesson": {
+        "description": "An investigator checks a claim, then turns the inquiry toward the value that directs the investigation itself.",
+        "beats": [
+          {
+            "caption": "An investigator asks whether a claim is true.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "inquirer",
+                "type": "figure",
+                "x": 99,
+                "y": 139
+              },
+              {
+                "id": "claim",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "claim-outline",
+                    "type": "path",
+                    "d": "M-59.5 -47.0 L59.5 -46.0 L58.5 47.0 L-58.5 46.0 Z"
+                  },
+                  {
+                    "id": "claim-word0-line0",
+                    "type": "text",
+                    "text": "a claim",
+                    "x": 0,
+                    "y": -23.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 283,
+                "y": 101
+              },
+              {
+                "id": "lens",
+                "type": "path",
+                "d": "M133 116 L204 86 L215 132 L141 134"
+              }
+            ]
+          },
+          {
+            "caption": "The claim is tested against evidence.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "inquirer",
+                "type": "figure",
+                "x": 99,
+                "y": 139
+              },
+              {
+                "id": "claim",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "claim-outline",
+                    "type": "path",
+                    "d": "M-59.5 -38.0 L59.5 -37.0 L58.5 38.0 L-58.5 37.0 Z"
+                  },
+                  {
+                    "id": "claim-word0-line0",
+                    "type": "text",
+                    "text": "a claim",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 283,
+                "y": 73
+              },
+              {
+                "id": "evidence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evidence-outline",
+                    "type": "path",
+                    "d": "M-76.0 -32.5 L76.0 -31.5 L75.0 32.5 L-75.0 31.5 Z"
+                  },
+                  {
+                    "id": "evidence-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -8.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 276,
+                "y": 163
+              },
+              {
+                "id": "lens",
+                "type": "path",
+                "d": "M133 116 L204 86 L215 132 L141 134"
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche adds a question about the investigator’s highest value.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "inquirer",
+                "type": "figure",
+                "x": 99,
+                "y": 139
+              },
+              {
+                "id": "claim",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "claim-outline",
+                    "type": "path",
+                    "d": "M-59.5 -38.0 L59.5 -37.0 L58.5 38.0 L-58.5 37.0 Z"
+                  },
+                  {
+                    "id": "claim-word0-line0",
+                    "type": "text",
+                    "text": "a claim",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 283,
+                "y": 73
+              },
+              {
+                "id": "evidence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evidence-outline",
+                    "type": "path",
+                    "d": "M-76.0 -32.5 L76.0 -31.5 L75.0 32.5 L-75.0 31.5 Z"
+                  },
+                  {
+                    "id": "evidence-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -8.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 276,
+                "y": 163
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "value-words-line0",
+                    "type": "text",
+                    "text": "truth first",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 130,
+                "y": 39
+              }
+            ]
+          },
+          {
+            "caption": "Why is truth worth pursuing? The value directing inquiry also deserves inquiry.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "inquirer",
+                "type": "figure",
+                "x": 99,
+                "y": 139
+              },
+              {
+                "id": "claim",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "claim-outline",
+                    "type": "path",
+                    "d": "M-59.5 -38.0 L59.5 -37.0 L58.5 38.0 L-58.5 37.0 Z"
+                  },
+                  {
+                    "id": "claim-word0-line0",
+                    "type": "text",
+                    "text": "a claim",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 283,
+                "y": 73
+              },
+              {
+                "id": "evidence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evidence-outline",
+                    "type": "path",
+                    "d": "M-76.0 -32.5 L76.0 -31.5 L75.0 32.5 L-75.0 31.5 Z"
+                  },
+                  {
+                    "id": "evidence-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -8.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 276,
+                "y": 163
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "value-words-line0",
+                    "type": "text",
+                    "text": "why truth?",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 130,
+                "y": 39
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "what directs the search?",
+                "x": 200,
+                "y": 233,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -1716,31 +4211,60 @@
         ]
       },
       {
-        "description": "same inquiry; different needs.",
+        "description": "The same inquiry can answer different psychological needs; motive is another question beside the result.",
         "actors": [
           {
-            "id": "hook",
-            "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "id": "inquirer-a",
+            "type": "figure",
+            "x": 106,
+            "y": 148
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "inquirer-b",
+            "type": "figure",
+            "x": 293,
+            "y": 148,
+            "facing": true
           },
           {
-            "id": "a",
+            "id": "common",
+            "type": "group",
+            "x": 200,
+            "y": 123,
+            "children": [
+              {
+                "id": "common-edge",
+                "type": "path",
+                "d": "M-45.0 -37.5 L45.0 -37.5 L45.0 37.5 L-45.0 37.5 Z"
+              }
+            ]
+          },
+          {
+            "id": "need-a",
             "type": "text",
-            "text": "same inquiry",
-            "x": 50.841322326660155,
-            "y": 218
+            "text": "understanding",
+            "x": 101,
+            "y": 47,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "need-b",
             "type": "text",
-            "text": "different needs",
-            "x": 227.48538208007812,
-            "y": 218
+            "text": "security",
+            "x": 298,
+            "y": 47,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "inquiry",
+            "type": "text",
+            "text": "one inquiry, different needs",
+            "x": 200,
+            "y": 228,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
