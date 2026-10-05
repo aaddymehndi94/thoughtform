@@ -1344,6 +1344,78 @@
     "depth": 2
   },
   {
+    "id": "jung-four-functions",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Psychological types",
+    "title": "Four questions of experience",
+    "tags": [
+      "psychological types",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-introversion",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Introversion",
+    "title": "Where the weight falls",
+    "tags": [
+      "introversion",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-extraversion",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Extraversion",
+    "title": "The situation sets the terms",
+    "tags": [
+      "extraversion",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-inferior-function",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Inferior function",
+    "title": "The unpracticed instrument",
+    "tags": [
+      "inferior function",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-dream-levels",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dream interpretation",
+    "title": "Who is in the dream?",
+    "tags": [
+      "dream interpretation",
+      "the work of dreaming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-ego-strength",
+    "thinker": "jung",
+    "collection": "Becoming a whole",
+    "concept": "Ego and Self",
+    "title": "A center that can hold a conversation",
+    "tags": [
+      "ego and self",
+      "becoming a whole"
+    ],
+    "depth": 2
+  },
+  {
     "id": "nietzsche-genealogy",
     "thinker": "nietzsche",
     "collection": "Inherited values",

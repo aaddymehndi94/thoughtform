@@ -1420,7 +1420,8 @@
       "order": 1
     },
     "related": [
-      "jung-dream-series"
+      "jung-dream-series",
+      "jung-dream-levels"
     ]
   },
   {
@@ -1561,7 +1562,8 @@
       "order": 2
     },
     "related": [
-      "jung-dream-context"
+      "jung-dream-context",
+      "jung-dream-levels"
     ]
   },
   {
@@ -1829,5 +1831,895 @@
     "related": [
       "jung-archetype-pattern"
     ]
+  },
+  {
+    "id": "jung-four-functions",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Psychological types",
+    "title": "Four questions of experience",
+    "statement": "Not every way of knowing asks the same question.",
+    "explanation": "Jung distinguished sensation, thinking, feeling, and intuition. His functions describe modes of orientation rather than four kinds of intelligence.",
+    "nuance": "Jung’s four functions describe different ways of orienting oneself to experience. Sensation attends to what is concretely present. Thinking seeks conceptual relations. Feeling evaluates worth, acceptance, or rejection. Intuition perceives possibilities and connections that are not given directly in the immediate facts. The model distinguishes questions a mind can ask; it does not divide people into those who possess a function and those who lack it entirely.\n\nConsider entering an unfamiliar room. You can notice its light and sounds, infer how the space is organized, register whether its atmosphere matters to you, or imagine what could happen there. These are overlapping activities, not a laboratory test of your type. In particular, Jungian feeling is not simply emotional intensity, and intuition is not a certificate of special insight. A person can be emotional while avoiding a considered judgment of value, or imaginative while getting a possibility wrong.\n\nJung believed one function often becomes more differentiated and dependable than others. That emphasis can make a life effective while also narrowing it. The model becomes useful when it reveals a habitual omission: facts without possibilities, analysis without valuation, or attractive possibilities without contact with the actual situation. It becomes less useful when a label excuses that omission. These are historically influential distinctions, not a complete or uncontested scientific map of personality.",
+    "reflection": "Which kind of question do you answer easily, and which do you tend to skip?",
+    "sources": [
+      "types"
+    ],
+    "metaphor": "An encounter branches into four different questions rather than four ranked abilities.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "what is / what it means / what matters / what may be",
+      "composition": {
+        "description": "An encounter branches into four different questions rather than four ranked abilities.",
+        "actors": [
+          {
+            "id": "encounter",
+            "type": "circle",
+            "x": 200,
+            "y": 120,
+            "r": 18
+          },
+          {
+            "id": "branches",
+            "type": "path",
+            "d": "M184 111 L88 66 M217 111 L310 66 M184 132 L88 183 M217 132 L310 183",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "s",
+            "type": "text",
+            "x": 36,
+            "y": 44,
+            "text": "what is here?"
+          },
+          {
+            "id": "t",
+            "type": "text",
+            "x": 267,
+            "y": 44,
+            "text": "what is it?"
+          },
+          {
+            "id": "f",
+            "type": "text",
+            "x": 35,
+            "y": 220,
+            "text": "what matters?"
+          },
+          {
+            "id": "i",
+            "type": "text",
+            "x": 254,
+            "y": 220,
+            "text": "what could be?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 1
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Perception can attend to actuality or possibility.",
+        "actors": [
+          {
+            "id": "actual",
+            "type": "path",
+            "d": "M59 82 H144 V165 H59 Z"
+          },
+          {
+            "id": "possible",
+            "type": "path",
+            "d": "M259 82 H344 V165 H259 Z M269 72 H354 V155"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 65,
+            "y": 211,
+            "text": "actuality"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 255,
+            "y": 211,
+            "text": "possibility"
+          }
+        ]
+      },
+      {
+        "description": "Judgment can ask about conceptual relations or value.",
+        "actors": [
+          {
+            "id": "logic",
+            "type": "path",
+            "d": "M63 129 L97 91 L133 129 L97 167 Z"
+          },
+          {
+            "id": "value",
+            "type": "path",
+            "d": "M266 126 H338 M302 92 V167 M269 92 V103 M335 151 V167"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 51,
+            "y": 214,
+            "text": "how it relates"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 258,
+            "y": 214,
+            "text": "what it is worth"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "psychological types",
+      "ways of attending"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "ways-of-attending",
+      "order": 1
+    },
+    "related": [
+      "jung-introversion",
+      "jung-extraversion"
+    ]
+  },
+  {
+    "id": "jung-introversion",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Introversion",
+    "title": "Where the weight falls",
+    "statement": "Introversion describes an orientation, not a volume setting.",
+    "explanation": "For Jung, an introverted attitude gives greater weight to the subjective factor in an encounter. It is not equivalent to shyness or dislike of other people.",
+    "nuance": "Introversion, in Jung’s account, names a direction of psychological orientation. An introverted attitude gives decisive weight to the subjective factor: how an object or event is experienced within the person. That can concern reflection, sensation, valuation, or intuition. It need not look quiet. A reserved manner may accompany it, but being shy, speaking softly, or needing solitude does not by itself establish the orientation Jung was trying to describe.\n\nTwo people can attend the same crowded gathering. One may organize the evening around what is happening and what others appear to expect. Another may remain in lively conversation while referring the experience back to an inward image or conviction. Their visible sociability can be similar while the weight of their orientation differs. Likewise, a person who avoids a party because of anxiety is not thereby displaying the whole structure of a Jungian introverted attitude.\n\nThe strength of this orientation can be independence from immediate social pressure. Its limitation can be a tendency to let an inward account override the actual person or situation. Jung did not intend the attitude as a badge of depth. Both inward and outward orientation can become one-sided. The useful question is where you habitually place authority when inner experience and external circumstances disagree, and whether you can still register the side you do not prefer.",
+    "reflection": "When an event occurs, do you first trust its outward demands or the meaning it takes on within you?",
+    "sources": [
+      "types"
+    ],
+    "metaphor": "An external event reaches a person and acquires weight in an inner chamber.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "an event / its inner resonance",
+      "composition": {
+        "description": "An external event reaches a person and acquires weight in an inner chamber.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M143 53 H284 V185 H143 Z"
+          },
+          {
+            "id": "event",
+            "type": "circle",
+            "x": 65,
+            "y": 117,
+            "r": 13
+          },
+          {
+            "id": "entry",
+            "type": "path",
+            "d": "M80 117 H207",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "inner",
+            "type": "circle",
+            "x": 225,
+            "y": 117,
+            "r": 29,
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "scale": 1.18,
+              "delay": 2
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 32,
+            "y": 219,
+            "text": "the event"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 181,
+            "y": 219,
+            "text": "inner meaning",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The subjective factor mediates an encounter.",
+        "actors": [
+          {
+            "id": "event",
+            "type": "circle",
+            "x": 84,
+            "y": 125,
+            "r": 20
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M178 62 H305 V181 H178 Z"
+          },
+          {
+            "id": "inner",
+            "type": "circle",
+            "x": 241,
+            "y": 125,
+            "r": 29
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M108 125 H210"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 48,
+            "y": 216,
+            "text": "an object"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 181,
+            "y": 216,
+            "text": "experienced within"
+          }
+        ]
+      },
+      {
+        "description": "Outward sociability and inward orientation can coexist.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 115,
+            "y": 103
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 292,
+            "y": 103
+          },
+          {
+            "id": "speech",
+            "type": "path",
+            "d": "M143 92 Q199 47 264 92"
+          },
+          {
+            "id": "inner",
+            "type": "circle",
+            "x": 115,
+            "y": 104,
+            "r": 27
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 76,
+            "y": 224,
+            "text": "orientation is not social volume"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "introversion",
+      "ways of attending"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "ways-of-attending",
+      "order": 2
+    },
+    "related": [
+      "jung-four-functions",
+      "jung-extraversion"
+    ]
+  },
+  {
+    "id": "jung-extraversion",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Extraversion",
+    "title": "The situation sets the terms",
+    "statement": "An outward orientation gives the object a stronger vote.",
+    "explanation": "Jung’s extraverted attitude takes its bearings chiefly from external conditions. It is broader than being talkative, popular, or energized by a room.",
+    "nuance": "An extraverted attitude, for Jung, places greater determining weight on the object and the external situation. What is occurring, what is available, and what the circumstances require strongly organize the person’s response. This orientation can belong to a careful scientist, an attentive craftsperson, or a socially outgoing person. The label describes where a psychological activity takes its bearings, not how much noise its owner makes.\n\nImagine a musician changing an interpretation in response to the room’s acoustics and the ensemble’s playing. The illustration is not a personality diagnosis. It shows how external conditions can become the primary reference for a decision. Another musician might give more determining weight to an inward conception, even while hearing the same acoustics. Both musicians can listen well; the distinction concerns the relative authority of the situation and the subjective factor.\n\nExtraversion can bring responsiveness and contact with actuality. When it becomes one-sided, adaptation to circumstances can crowd out an inward need or judgment that has not disappeared merely because it is inconvenient. Jung’s account treats such neglected material as capable of returning indirectly. The remedy is not to reverse your personality overnight. It is to notice when answering the world has become so automatic that you no longer recognize what happens within you while answering it.",
+    "reflection": "Which external conditions do you treat as decisive before noticing your own response?",
+    "sources": [
+      "types"
+    ],
+    "metaphor": "External conditions align a person’s direction while an inward signal remains.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "conditions outside / a direction within",
+      "composition": {
+        "description": "External conditions align a person’s direction while an inward signal remains.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 173,
+            "y": 108,
+            "motion": {
+              "kind": "turn",
+              "duration": 14,
+              "angle": 7
+            }
+          },
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M245 60 H340 V176 H245 Z"
+          },
+          {
+            "id": "guides",
+            "type": "path",
+            "d": "M245 89 L205 106 M245 131 L205 122 M245 164 L204 139",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "inside",
+            "type": "circle",
+            "x": 143,
+            "y": 116,
+            "r": 6,
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 60,
+            "y": 219,
+            "text": "inner response"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 246,
+            "y": 219,
+            "text": "conditions"
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The object gives an orientation its principal reference.",
+        "actors": [
+          {
+            "id": "p",
+            "type": "figure",
+            "x": 121,
+            "y": 111
+          },
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M256 73 H328 V170 H256 Z"
+          },
+          {
+            "id": "arrow",
+            "type": "path",
+            "d": "M149 124 H238 M228 114 L239 124 L228 134"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 84,
+            "y": 218,
+            "text": "taking bearings from the object"
+          }
+        ]
+      },
+      {
+        "description": "An outwardly quiet activity can still be extraverted.",
+        "actors": [
+          {
+            "id": "table",
+            "type": "path",
+            "d": "M76 150 H321 M105 150 V185 M292 150 V185"
+          },
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 160,
+            "y": 90
+          },
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M245 109 L269 84 L292 108 L269 132 Z"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 94,
+            "y": 226,
+            "text": "orientation is not loudness"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "extraversion",
+      "ways of attending"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "ways-of-attending",
+      "order": 3
+    },
+    "related": [
+      "jung-four-functions",
+      "jung-introversion"
+    ]
+  },
+  {
+    "id": "jung-inferior-function",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Inferior function",
+    "title": "The unpracticed instrument",
+    "statement": "What you neglect does not necessarily remain quiet.",
+    "explanation": "Jung called the least differentiated function inferior. The word concerns its relation to conscious development, not the person’s intelligence or moral worth.",
+    "nuance": "In Jung’s theory of types, the inferior function is the function least available for differentiated conscious use. It is not an inferior human being hiding inside you. The term describes an uneven development of ways of orienting yourself. A person who relies on precise analysis, for example, may find considered valuation difficult or emotionally entangled. This is a possibility within the theory, not a rule that every analytical person lacks feeling.\n\nAn unpracticed instrument offers a useful metaphor. You can hear that it belongs in the ensemble, yet when you try to play it, the sound is uncertain and difficult to regulate. The neglected function may appear in exaggerated or awkward forms, especially under strain. A normally measured person can suddenly make sweeping judgments about what matters. Those judgments need attention without being treated as either pure truth or meaningless interference.\n\nDeveloping the inferior function is not simply applying the same technique that made the dominant one successful. If valuation is the neglected activity, another clever argument may keep avoiding it. If concrete perception is neglected, imagining a richer possibility may still miss the actual details. Jung’s point is to meet a different kind of demand with patience. Greater balance need not mean that every function becomes equally skilled, or that a typological system can prescribe the right life.",
+    "reflection": "Where do you feel unusually clumsy even though you are competent elsewhere?",
+    "sources": [
+      "types"
+    ],
+    "metaphor": "Three well-tuned strings move evenly while a neglected fourth vibrates erratically.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "practiced / less differentiated",
+      "composition": {
+        "description": "Three well-tuned strings move evenly while a neglected fourth vibrates erratically.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M54 67 H343 M54 185 H343"
+          },
+          {
+            "id": "one",
+            "type": "path",
+            "d": "M93 68 V184"
+          },
+          {
+            "id": "two",
+            "type": "path",
+            "d": "M163 68 V184"
+          },
+          {
+            "id": "three",
+            "type": "path",
+            "d": "M233 68 V184"
+          },
+          {
+            "id": "four",
+            "type": "path",
+            "d": "M303 68 Q283 103 307 128 Q327 150 303 184",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "x": 4
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 83,
+            "y": 224,
+            "text": "practiced"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 252,
+            "y": 224,
+            "text": "unpracticed",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Differentiation can be uneven across several capacities.",
+        "actors": [
+          {
+            "id": "base",
+            "type": "path",
+            "d": "M61 181 H346"
+          },
+          {
+            "id": "bars",
+            "type": "path",
+            "d": "M86 181 V74 H119 V181 M166 181 V88 H199 V181 M246 181 V148 H279 V181"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 86,
+            "y": 223,
+            "text": "uneven development, not worth"
+          }
+        ]
+      },
+      {
+        "description": "A neglected activity cannot always be mastered with the preferred tool.",
+        "actors": [
+          {
+            "id": "square",
+            "type": "path",
+            "d": "M80 81 H146 V157 H80 Z"
+          },
+          {
+            "id": "round",
+            "type": "path",
+            "d": "M260 119 C259 80 322 74 330 116 C340 161 267 167 260 119"
+          },
+          {
+            "id": "fit",
+            "type": "path",
+            "d": "M150 120 H237"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 72,
+            "y": 220,
+            "text": "a different demand needs attention"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "inferior function",
+      "ways of attending"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "ways-of-attending",
+      "order": 4
+    },
+    "related": [
+      "jung-four-functions",
+      "jung-introversion"
+    ]
+  },
+  {
+    "id": "jung-dream-levels",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dream interpretation",
+    "title": "Who is in the dream?",
+    "statement": "A dream figure can concern another person, an aspect of the dreamer, or both.",
+    "explanation": "Jung distinguished objective and subjective levels of interpretation. The distinction opens different questions; it does not settle the meaning automatically.",
+    "nuance": "Jung described an objective level of dream interpretation and a subjective one. At the objective level, a dream figure is considered in relation to an actual person or outward situation. At the subjective level, figures can be explored as aspects of the dreamer’s own psychic life. These are interpretive approaches, not two kinds of dreams separated by a reliable test. The dream’s details and the person’s circumstances matter in deciding whether either approach illuminates it.\n\nSuppose you dream of a demanding teacher. An objective inquiry might consider the actual teacher, your history with them, or a current relationship that resembles it. A subjective inquiry might ask whether the figure embodies your own insistence on a flawless performance. Both possibilities can coexist. The dream may borrow a familiar face to stage a present inner conflict while also registering something real about an external relationship. No label removes the need to investigate.\n\nThe subjective approach becomes careless when it makes other people and actual harm disappear into the dreamer’s psychology. The objective approach becomes narrow when it treats every figure as a report about someone outside. Keeping the levels available can protect against both mistakes. An interpretation should increase the dreamer’s understanding of the particular situation, not compel them to accept a hidden meaning merely because a theory offers a place to put it.",
+    "reflection": "Could the conflict in this dream concern both an actual relationship and a position you take within yourself?",
+    "sources": [
+      "dreams"
+    ],
+    "metaphor": "One dream figure is connected both to an outward relationship and to an inward position.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a relationship / an inner position",
+      "composition": {
+        "description": "One dream figure is connected both to an outward relationship and to an inward position.",
+        "actors": [
+          {
+            "id": "dream",
+            "type": "figure",
+            "x": 201,
+            "y": 75
+          },
+          {
+            "id": "split",
+            "type": "path",
+            "d": "M201 157 L99 185 M201 157 L303 185",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M63 186 H137 V205 H63 Z"
+          },
+          {
+            "id": "inner",
+            "type": "circle",
+            "x": 304,
+            "y": 194,
+            "r": 20,
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 45,
+            "y": 237,
+            "text": "a relationship"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 257,
+            "y": 237,
+            "text": "a part of me",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The objective level asks about an actual relationship.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 103,
+            "y": 95
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 291,
+            "y": 95
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M133 127 H260"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 111,
+            "y": 222,
+            "text": "who is this person to me?"
+          }
+        ]
+      },
+      {
+        "description": "The subjective level asks about an inner relation.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M64 49 H340 V190 H64 Z"
+          },
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 139,
+            "y": 101
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 270,
+            "y": 101
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M168 131 H241"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 83,
+            "y": 228,
+            "text": "what position might this figure hold?"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "dream interpretation",
+      "the work of dreaming"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-work-of-dreaming",
+      "order": 3
+    },
+    "related": [
+      "jung-dream-context",
+      "jung-dream-series"
+    ]
+  },
+  {
+    "id": "jung-ego-strength",
+    "thinker": "jung",
+    "collection": "Becoming a whole",
+    "concept": "Ego and Self",
+    "title": "A center that can hold a conversation",
+    "statement": "A wider psyche does not make the ego disposable.",
+    "explanation": "The ego organizes conscious identity. Jung’s work asks it to recognize its limits while remaining able to meet what lies beyond them.",
+    "nuance": "The ego, for Jung, is the center of conscious experience: the organization through which you recognize thoughts, memories, and actions as yours. Calling it a part of the psyche does not make it an error to eliminate. A person needs sufficient continuity and discrimination to engage difficult unconscious material without being overwhelmed by it. The question is how consciousness relates to the wider psyche, not how quickly it can dissolve its own structure.\n\nImagine a harbor opening toward a larger sea. Its boundaries are useful because they allow arrivals to be noticed, approached, and handled. A harbor that claims to contain the entire ocean is mistaken; removing every boundary would not improve its ability to receive a ship. The metaphor captures a tension in Jung’s thought. Conscious identity should become less absolute while remaining capable of judgment, responsibility, and a sustained encounter with unfamiliar experience.\n\nThis matters when language about wholeness is turned into a demand for ego death. Jung’s distinction between ego and Self does not supply a universal prescription for dramatic experiences or loss of control. Individuation involves a changing relation among psychic factors, including the conscious center. Being less identified with a single account of yourself can make room for complexity. It still matters to know where you stand, what you are choosing, and which claims you can responsibly make.",
+    "reflection": "Can you question your usual story without losing every point from which to question it?",
+    "sources": [
+      "psyche"
+    ],
+    "metaphor": "A small harbor keeps its structure while opening a relation with a wider sea.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a stable center / a wider field",
+      "composition": {
+        "description": "A small harbor keeps its structure while opening a relation with a wider sea.",
+        "actors": [
+          {
+            "id": "sea",
+            "type": "path",
+            "d": "M40 68 Q106 43 181 63 T360 60 M41 181 Q113 202 184 181 T360 185"
+          },
+          {
+            "id": "harbor",
+            "type": "path",
+            "d": "M139 84 V164 H250 V140 M139 84 H250 V108"
+          },
+          {
+            "id": "boat",
+            "type": "circle",
+            "x": 204,
+            "y": 125,
+            "r": 10,
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": 75
+            }
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M249 124 H325",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 144,
+            "y": 220,
+            "text": "a center"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 273,
+            "y": 220,
+            "text": "a wider field"
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The conscious center belongs within a larger field.",
+        "actors": [
+          {
+            "id": "whole",
+            "type": "circle",
+            "x": 202,
+            "y": 124,
+            "r": 77
+          },
+          {
+            "id": "ego",
+            "type": "circle",
+            "x": 176,
+            "y": 124,
+            "r": 23
+          },
+          {
+            "id": "ego-label",
+            "type": "text",
+            "x": 165,
+            "y": 129,
+            "text": "I"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 116,
+            "y": 226,
+            "text": "a part, and a necessary part"
+          }
+        ]
+      },
+      {
+        "description": "A boundary can admit a relation without disappearing.",
+        "actors": [
+          {
+            "id": "boundary",
+            "type": "path",
+            "d": "M95 71 V182 H251 V150 M95 71 H251 V104"
+          },
+          {
+            "id": "entry",
+            "type": "path",
+            "d": "M316 126 H195 M206 116 L195 126 L206 136"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 81,
+            "y": 226,
+            "text": "an opening with a structure"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "ego and self",
+      "becoming a whole"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "becoming-a-whole",
+      "order": 1
+    },
+    "related": []
   }
 ]
