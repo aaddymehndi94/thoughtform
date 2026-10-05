@@ -100,7 +100,7 @@
       "order": 1
     },
     "related": [
-      "nietzsche-will-truth",
+      "nietzsche-teacher-leaving",
       "nietzsche-ressentiment"
     ]
   },
@@ -984,6 +984,1778 @@
     },
     "related": [
       "nietzsche-ascetic-meaning",
+      "nietzsche-perspectivism"
+    ]
+  },
+  {
+    "id": "nietzsche-perspectivism",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "perspectivism",
+    "title": "FROM SOMEWHERE",
+    "statement": "Seeing from a position is not the same as seeing nothing.",
+    "explanation": "Nietzsche rejects the fantasy of knowledge without a perspective. Every act of seeing selects, interprets, and values; the task is to understand the conditions of that view.",
+    "nuance": "Perspectivism is often flattened into the claim that every opinion is equally good. Nietzsche does not infer equality from situatedness. A view can conceal more, explain less, or fail to withstand competing interpretations. Acknowledging where one stands can improve inquiry rather than end the distinction between better and worse accounts.",
+    "sources": [
+      "gm-III-12"
+    ],
+    "metaphor": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "perspective",
+      "variant": "perspective",
+      "composition": {
+        "description": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+        "actors": [
+          {
+            "id": "solid",
+            "type": "path",
+            "d": "M181 76 L226 82 L245 122 L217 159 L167 141 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "eye1",
+            "type": "circle",
+            "x": 92,
+            "y": 115,
+            "r": 8,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "eye2",
+            "type": "circle",
+            "x": 298,
+            "y": 178,
+            "r": 8,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "sight1",
+            "type": "path",
+            "d": "M101 111 L177 80 M100 120 L167 141",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "sight2",
+            "type": "path",
+            "d": "M289 173 L225 88 M289 182 L213 159",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "one object · two aspects",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "perspectivism"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 2
+    },
+    "related": [
+      "nietzsche-will-truth",
+      "nietzsche-many-eyes"
+    ]
+  },
+  {
+    "id": "nietzsche-many-eyes",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "many eyes",
+    "title": "MORE THAN ONE EYE",
+    "statement": "Objectivity may require more perspectives, rather than no perspective.",
+    "explanation": "Nietzsche suggests that knowledge becomes richer when we can enlist different affects and interpretations. A disciplined plurality can reveal aspects a single settled viewpoint misses.",
+    "nuance": "This is not simply counting opinions or accepting every interpretation. The capacity at issue includes directing and suspending perspectives instead of being involuntarily trapped in one. A historian who considers fear, ambition, loyalty, and material interest can see more than one who insists that only a single motive is real.",
+    "sources": [
+      "gm-III-12"
+    ],
+    "metaphor": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "perspective",
+      "variant": "perspective",
+      "composition": {
+        "description": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+        "actors": [
+          {
+            "id": "solid",
+            "type": "path",
+            "d": "M181 76 L226 82 L245 122 L217 159 L167 141 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "eye1",
+            "type": "circle",
+            "x": 92,
+            "y": 115,
+            "r": 8,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "eye2",
+            "type": "circle",
+            "x": 298,
+            "y": 178,
+            "r": 8,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "sight1",
+            "type": "path",
+            "d": "M101 111 L177 80 M100 120 L167 141",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "sight2",
+            "type": "path",
+            "d": "M289 173 L225 88 M289 182 L213 159",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "one object · two aspects",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "many-eyes"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 3
+    },
+    "related": [
+      "nietzsche-perspectivism",
+      "nietzsche-philosophy-confession"
+    ]
+  },
+  {
+    "id": "nietzsche-philosophy-confession",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "philosophy confession",
+    "title": "THE AUTHOR IN THE ARGUMENT",
+    "statement": "A philosophy can disclose the needs of its philosopher.",
+    "explanation": "Nietzsche reads great philosophical systems as involuntary autobiographies. Their abstract claims can reveal which drives are ruling and which kind of life their author wants defended.",
+    "nuance": "Explaining a thinker's motives does not settle whether an argument is sound. Nietzsche adds a psychological question rather than supplying a substitute for logic: why does this particular conclusion feel necessary to this person? A demand for a perfectly ordered universe may also reveal a desire to be protected from contingency.",
+    "sources": [
+      "bg-6"
+    ],
+    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "truth",
+      "variant": "truth",
+      "composition": {
+        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M286 75 L313 79 L310 115 L287 110 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "lamp",
+            "type": "circle",
+            "x": 101,
+            "y": 105,
+            "r": 13,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "beam",
+            "type": "path",
+            "d": "M116 98 L287 76 M114 112 L286 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "text": "why this search?",
+            "x": 195,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "philosophy-confession"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 4
+    },
+    "related": [
+      "nietzsche-many-eyes",
+      "nietzsche-grammar-self"
+    ]
+  },
+  {
+    "id": "nietzsche-grammar-self",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "grammar self",
+    "title": "THE EXTRA DOER",
+    "statement": "Grammar can make a process look as though it requires a hidden owner.",
+    "explanation": "Because a sentence names a subject, we easily imagine a stable agent behind every act. Nietzsche questions whether saying that I think proves the existence of the I assumed.",
+    "nuance": "The point is not that ordinary pronouns must be forbidden. It is that a convenient linguistic form should not silently become a metaphysical conclusion. Lightning does not need a separate thing that performs lightning. Similarly, the grammar of thought may promise more knowledge of its cause than the event actually supplies.",
+    "sources": [
+      "bg-16-17"
+    ],
+    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "frame",
+      "variant": "frame",
+      "composition": {
+        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+        "actors": [
+          {
+            "id": "flow",
+            "type": "path",
+            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M174 63 L222 62 L220 181 L175 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "output",
+            "type": "path",
+            "d": "M224 124 L331 124",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "something is lost",
+            "x": 273,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "grammar-self"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 5
+    },
+    "related": [
+      "nietzsche-philosophy-confession",
+      "nietzsche-plural-will"
+    ]
+  },
+  {
+    "id": "nietzsche-plural-will",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "plural will",
+    "title": "THE COMMAND WITHIN",
+    "statement": "What you call a single decision may be a relation among many forces.",
+    "explanation": "Nietzsche analyzes willing into sensations, a directing thought, and an affect of command. The feeling of a unified will can conceal the plurality involved in carrying an action out.",
+    "nuance": "When a command succeeds, the commanding part identifies itself with the whole result. Nietzsche compares this with a governing class taking credit for the work of its subjects. This is an analysis of the experience of willing, not a settled neuroscientific theory or proof that deliberate action cannot occur.",
+    "sources": [
+      "bg-19"
+    ],
+    "metaphor": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "plurality",
+      "variant": "plurality",
+      "composition": {
+        "description": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist.",
+        "actors": [
+          {
+            "id": "strand1",
+            "type": "path",
+            "d": "M78 77 Q126 97 194 133 L313 132",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "strand2",
+            "type": "path",
+            "d": "M79 155 Q138 156 194 133",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "strand3",
+            "type": "path",
+            "d": "M115 201 Q138 146 194 133",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "knot",
+            "type": "circle",
+            "x": 194,
+            "y": 133,
+            "r": 10,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "a unity in name",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "plural-will"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 6
+    },
+    "related": [
+      "nietzsche-grammar-self",
+      "nietzsche-free-will-blame"
+    ]
+  },
+  {
+    "id": "nietzsche-free-will-blame",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "free will blame",
+    "title": "THE INVENTED COURT",
+    "statement": "An account of freedom may also be an instrument of blame.",
+    "explanation": "Nietzsche attacks a model of free will that makes a person an ultimate, self-caused source of action. He asks how that model serves the desire to hold people absolutely guilty.",
+    "nuance": "He also rejects a simple opposite picture in which a mysterious unfree will mechanically replaces a free one. His critique targets inflated causal and moral claims. Asking how habits, circumstances, and drives shape an action does not by itself decide what practical responsibilities or protections a community should maintain.",
+    "sources": [
+      "bg-21"
+    ],
+    "metaphor": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "debt",
+      "variant": "debt",
+      "composition": {
+        "description": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+        "actors": [
+          {
+            "id": "ledger",
+            "type": "path",
+            "d": "M100 55 L291 58 L287 185 L103 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "entries",
+            "type": "path",
+            "d": "M124 85 L262 85 M124 113 L266 114 M124 143 L263 145",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "overflow",
+            "type": "path",
+            "d": "M188 178 L190 216 M179 203 L190 216 L200 202",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "never paid",
+            "x": 278,
+            "y": 216,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "free-will-blame"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 7
+    },
+    "related": [
+      "nietzsche-plural-will",
+      "nietzsche-convictions"
+    ]
+  },
+  {
+    "id": "nietzsche-convictions",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "convictions",
+    "title": "A CLOSED INTERPRETATION",
+    "statement": "Certainty can protect an idea from the encounter that would change it.",
+    "explanation": "Nietzsche calls attention to the danger of convictions: a settled belief can stop testing itself while continuing to feel intellectually secure. Sincerity does not guarantee openness.",
+    "nuance": "His criticism is not a demand to have no commitments. It concerns the refusal to let a commitment become questionable. A person may defend a belief with honest feeling while excluding every condition under which it could be revised. Inquiry requires more than intensity: it needs a way for resistance from the world to register.",
+    "sources": [
+      "hh-483"
+    ],
+    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "frame",
+      "variant": "frame",
+      "composition": {
+        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+        "actors": [
+          {
+            "id": "flow",
+            "type": "path",
+            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M174 63 L222 62 L220 181 L175 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "output",
+            "type": "path",
+            "d": "M224 124 L331 124",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "something is lost",
+            "x": 273,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "convictions"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 8
+    },
+    "related": [
+      "nietzsche-free-will-blame",
+      "nietzsche-science-faith"
+    ]
+  },
+  {
+    "id": "nietzsche-science-faith",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "science faith",
+    "title": "THE UNEXAMINED VALUE",
+    "statement": "A method can question every claim except the value that makes it run.",
+    "explanation": "Nietzsche asks whether the unconditional pursuit of truth still rests on a moral faith. Even rigorous science needs an answer to why truth should be pursued whatever its consequences.",
+    "nuance": "This is a philosophical question about the value of inquiry, not a rejection of scientific evidence. Reliable methods can establish findings without proving that every possible finding must be sought at every cost. Nietzsche sees the demand for absolute truth as historically entangled with moral and religious commitments it may think it has left behind.",
+    "sources": [
+      "gs-344"
+    ],
+    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "truth",
+      "variant": "truth",
+      "composition": {
+        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M286 75 L313 79 L310 115 L287 110 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "lamp",
+            "type": "circle",
+            "x": 101,
+            "y": 105,
+            "r": 13,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "beam",
+            "type": "path",
+            "d": "M116 98 L287 76 M114 112 L286 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "text": "why this search?",
+            "x": 195,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "science-faith"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 9
+    },
+    "related": [
+      "nietzsche-convictions",
+      "nietzsche-consciousness-communication"
+    ]
+  },
+  {
+    "id": "nietzsche-consciousness-communication",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "consciousness communication",
+    "title": "THE SHAREABLE SELF",
+    "statement": "The part of experience you can report may be its most general part.",
+    "explanation": "Nietzsche speculates that consciousness developed under pressure to communicate needs. What becomes articulate tends to be what others can recognize, leaving much individual life unspoken.",
+    "nuance": "This is a speculative account, not an established evolutionary result. The important distinction is between living an experience and rendering it socially intelligible. Saying that one feels anxious compresses a singular mixture of sensations, memories, and expectations into a common word; useful communication also leaves something out.",
+    "sources": [
+      "gs-354"
+    ],
+    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "frame",
+      "variant": "frame",
+      "composition": {
+        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+        "actors": [
+          {
+            "id": "flow",
+            "type": "path",
+            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M174 63 L222 62 L220 181 L175 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "output",
+            "type": "path",
+            "d": "M224 124 L331 124",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "something is lost",
+            "x": 273,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "consciousness-communication"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 10
+    },
+    "related": [
+      "nietzsche-science-faith",
+      "nietzsche-useful-error"
+    ]
+  },
+  {
+    "id": "nietzsche-useful-error",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "useful error",
+    "title": "THE SUPPORTING FICTION",
+    "statement": "A belief can sustain life without being an exact picture of it.",
+    "explanation": "Nietzsche asks whether some simplifying judgments are indispensable to living. Counting, identifying stable things, and acting decisively may require treating a changing world as more fixed than it is.",
+    "nuance": "Usefulness does not make a claim true. Nietzsche challenges the assumption that truth and value always coincide, without offering a general permission to deceive. A map can be valuable precisely because it leaves things out. The difficult question is when simplification enables action and when it prevents us from noticing what matters.",
+    "sources": [
+      "bg-4"
+    ],
+    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "apollonian",
+      "variant": "apollonian",
+      "composition": {
+        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "contour",
+            "type": "path",
+            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "form within becoming",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "useful-error"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 11
+    },
+    "related": [
+      "nietzsche-consciousness-communication",
+      "nietzsche-give-style"
+    ]
+  },
+  {
+    "id": "nietzsche-give-style",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "give style",
+    "title": "A FORM FOR YOUR FORCES",
+    "statement": "Giving character a style is different from removing every contradiction.",
+    "explanation": "Nietzsche describes shaping one's strengths and weaknesses into an intelligible form. What cannot be removed may be reinterpreted or arranged within a deliberately composed life.",
+    "nuance": "This is not discovering a pure self untouched by discipline. Nietzsche's image involves practice, constraint, and the artist's power to give form. Someone might make an impatient temperament serve exacting work while setting limits on its harm. The aim is a coherent arrangement, not the flattering claim that every trait is secretly admirable.",
+    "sources": [
+      "gs-290"
+    ],
+    "metaphor": "Loose irregular fragments retain their differences while a larger deliberate contour gives them a shared style.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "shape",
+      "variant": "shape",
+      "composition": {
+        "description": "Loose irregular fragments retain their differences while a larger deliberate contour gives them a shared style.",
+        "actors": [
+          {
+            "id": "part1",
+            "type": "path",
+            "d": "M107 93 L131 76 L159 103",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "part2",
+            "type": "path",
+            "d": "M179 145 Q201 112 222 151",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "part3",
+            "type": "path",
+            "d": "M253 101 L281 81 L294 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "outline",
+            "type": "path",
+            "d": "M89 151 Q91 48 186 55 Q300 42 314 145 Q299 197 192 190 Q115 207 89 151 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "form, not erasure",
+            "x": 200,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "give-style"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 1
+    },
+    "related": [
+      "nietzsche-useful-error",
+      "nietzsche-self-overcoming"
+    ]
+  },
+  {
+    "id": "nietzsche-self-overcoming",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "self overcoming",
+    "title": "BEYOND YOUR OWN FORM",
+    "statement": "What you create can become the thing you next have to overcome.",
+    "explanation": "In Zarathustra's speech on self-overcoming, life is described as creating and surpassing its own arrangements. An achieved identity or value is not necessarily the final measure.",
+    "nuance": "Zarathustra is a dramatic speaker, not a transcript of Nietzsche giving clinical advice. Overcoming here is not endless productivity or contempt for the vulnerable self. It names a conflict within living creation: the form that made one development possible can obstruct another. The question concerns transformation, not merely winning.",
+    "sources": [
+      "z-II-Self-overcoming"
+    ],
+    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "threshold",
+      "variant": "threshold",
+      "composition": {
+        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M183 42 L184 101 M184 143 L185 205",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M61 122 L175 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "freedom for what?",
+            "x": 260,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "self-overcoming"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 2
+    },
+    "related": [
+      "nietzsche-give-style",
+      "nietzsche-camel"
+    ]
+  },
+  {
+    "id": "nietzsche-camel",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "camel",
+    "title": "LEARNING TO BEAR",
+    "statement": "Freedom does not begin without the capacity to carry difficulty.",
+    "explanation": "Zarathustra's camel takes on demanding tasks and inherited obligations. This first metamorphosis represents a spirit that acquires strength through seriousness, endurance, and reverence.",
+    "nuance": "The camel is not simply a foolish conformist. It can bear demanding truth and deprivation. But bearing is not yet creating: a life organized entirely by what it must shoulder remains governed by received tasks. Nietzsche's dramatic sequence gives the load-bearing spirit a role without treating its obedience as the final state.",
+    "sources": [
+      "z-I-Three-Metamorphoses"
+    ],
+    "metaphor": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "meaning",
+      "variant": "meaning",
+      "composition": {
+        "description": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+        "actors": [
+          {
+            "id": "weight",
+            "type": "path",
+            "d": "M164 102 L181 77 L215 84 L238 109 L221 145 L178 147 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "bearer",
+            "type": "figure",
+            "x": 95,
+            "y": 151,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "connection",
+            "type": "path",
+            "d": "M114 123 Q145 174 207 166 Q260 170 296 105",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "purpose",
+            "type": "circle",
+            "x": 304,
+            "y": 95,
+            "r": 9,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "a reason to endure",
+            "x": 200,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "camel"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 3
+    },
+    "related": [
+      "nietzsche-self-overcoming",
+      "nietzsche-lion"
+    ]
+  },
+  {
+    "id": "nietzsche-lion",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "lion",
+    "title": "THE NECESSARY NO",
+    "statement": "Breaking an old command does not yet tell you what to create.",
+    "explanation": "Zarathustra's lion confronts the inherited demand that all values are already settled. It wins room for willing, but the speech says that the lion cannot itself create new values.",
+    "nuance": "The lion's refusal is necessary within the allegory, but rebellion is not its endpoint. A person can remain attached to an old authority by opposing it continually. Nietzsche distinguishes the space won by negation from the affirmative task that follows. The enemy can be defeated while still supplying the structure of one's thought.",
+    "sources": [
+      "z-I-Three-Metamorphoses"
+    ],
+    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "threshold",
+      "variant": "threshold",
+      "composition": {
+        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M183 42 L184 101 M184 143 L185 205",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M61 122 L175 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "freedom for what?",
+            "x": 260,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "lion"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 4
+    },
+    "related": [
+      "nietzsche-camel",
+      "nietzsche-child"
+    ]
+  },
+  {
+    "id": "nietzsche-child",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "child",
+    "title": "THE FIRST AFFIRMATION",
+    "statement": "Creation needs more than a refusal of what came before.",
+    "explanation": "The child in Zarathustra's metamorphoses represents a new beginning, play, and an affirmative capacity. It can initiate a game rather than only obeying or resisting an old command.",
+    "nuance": "The image does not praise immaturity or freedom from consequences. It follows the camel's discipline and the lion's struggle. Its innocence is an ability to begin without having every movement dictated by inherited guilt or opposition. In this dramatic allegory, creation requires an affirmative relation to possibilities, not merely escape.",
+    "sources": [
+      "z-I-Three-Metamorphoses"
+    ],
+    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "path making",
+      "variant": "path-making",
+      "composition": {
+        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+        "actors": [
+          {
+            "id": "trial1",
+            "type": "path",
+            "d": "M78 175 Q160 73 246 124",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "trial2",
+            "type": "path",
+            "d": "M79 175 Q155 128 271 92",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "worked",
+            "type": "path",
+            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "made through attempts",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "child"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 5
+    },
+    "related": [
+      "nietzsche-lion",
+      "nietzsche-will-power"
+    ]
+  },
+  {
+    "id": "nietzsche-will-power",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "will power",
+    "title": "FORMING AND RESISTING",
+    "statement": "Power can appear in how a force organizes what resists it.",
+    "explanation": "Nietzsche uses will to power to interpret striving, command, and the imposition of form. The concept includes struggles within a person, not only attempts to rule other people.",
+    "nuance": "Interpretations range from a psychology of drives to a broader account of life or reality. His published arguments do not reduce neatly to the slogan that everyone wants political domination. A musician's discipline offers one illustration of organizing resistance, though Nietzsche also makes troubling claims about hierarchy and exploitation that cannot be edited away.",
+    "sources": [
+      "bg-13-36"
+    ],
+    "metaphor": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "plurality",
+      "variant": "plurality",
+      "composition": {
+        "description": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist.",
+        "actors": [
+          {
+            "id": "strand1",
+            "type": "path",
+            "d": "M78 77 Q126 97 194 133 L313 132",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "strand2",
+            "type": "path",
+            "d": "M79 155 Q138 156 194 133",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "strand3",
+            "type": "path",
+            "d": "M115 201 Q138 146 194 133",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "knot",
+            "type": "circle",
+            "x": 194,
+            "y": 133,
+            "r": 10,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "a unity in name",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "will-power"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 6
+    },
+    "related": [
+      "nietzsche-child",
+      "nietzsche-discipline-form"
+    ]
+  },
+  {
+    "id": "nietzsche-discipline-form",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "discipline form",
+    "title": "THE LONG OBEDIENCE",
+    "statement": "A constraint can make an expressive capacity possible.",
+    "explanation": "Nietzsche argues that sustained constraint has helped produce art, language, and intellectual strength. Freedom of expression may depend on abilities acquired through repeated discipline.",
+    "nuance": "This does not prove that every authority or harsh training method is justified. The distinction is between a constraint that develops a capacity and one that merely crushes it. A poet's command of meter can open possibilities unavailable to an untrained impulse. Nietzsche's claim concerns the history of cultivated powers, not obedience as an absolute virtue.",
+    "sources": [
+      "bg-188"
+    ],
+    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "path making",
+      "variant": "path-making",
+      "composition": {
+        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+        "actors": [
+          {
+            "id": "trial1",
+            "type": "path",
+            "d": "M78 175 Q160 73 246 124",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "trial2",
+            "type": "path",
+            "d": "M79 175 Q155 128 271 92",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "worked",
+            "type": "path",
+            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "made through attempts",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "discipline-form"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 7
+    },
+    "related": [
+      "nietzsche-will-power",
+      "nietzsche-becoming-not-knowing"
+    ]
+  },
+  {
+    "id": "nietzsche-becoming-not-knowing",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "becoming not knowing",
+    "title": "NO FINISHED BLUEPRINT",
+    "statement": "You may have to live experiments before you can name their direction.",
+    "explanation": "Nietzsche's invitation to become who one is includes the labor of inquiry and creation. It does not assume that a finished identity is already available for effortless self-discovery.",
+    "nuance": "The phrase is often turned into a reassuring message about a hidden authentic core. In The Gay Science it appears beside demands for criticism, independence, and attention to necessity. One cannot simply read a label inwardly and obey it. What a person can become is learned through attempts, consequences, and the reworking of inherited evaluations.",
+    "sources": [
+      "gs-335"
+    ],
+    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "path making",
+      "variant": "path-making",
+      "composition": {
+        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+        "actors": [
+          {
+            "id": "trial1",
+            "type": "path",
+            "d": "M78 175 Q160 73 246 124",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "trial2",
+            "type": "path",
+            "d": "M79 175 Q155 128 271 92",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "worked",
+            "type": "path",
+            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "made through attempts",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "becoming-not-knowing"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 8
+    },
+    "related": [
+      "nietzsche-discipline-form",
+      "nietzsche-friend-resistance"
+    ]
+  },
+  {
+    "id": "nietzsche-friend-resistance",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "friend resistance",
+    "title": "THE FRIEND WHO RESISTS",
+    "statement": "Friendship can contain opposition without becoming hostility.",
+    "explanation": "Zarathustra imagines a friend who challenges rather than simply confirms. Distance and resistance can matter because a relationship need not be built on dissolving every difference.",
+    "nuance": "This dramatic speech is not a rule that cruelty proves love. It opposes a friendship reduced to reassurance or possession. A friend may question an ambition precisely because they take it seriously. Nietzsche's language of enmity is deliberately provocative; useful resistance still requires judgment about its effect and the person receiving it.",
+    "sources": [
+      "z-I-The-Friend"
+    ],
+    "metaphor": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "perspective",
+      "variant": "perspective",
+      "composition": {
+        "description": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+        "actors": [
+          {
+            "id": "solid",
+            "type": "path",
+            "d": "M181 76 L226 82 L245 122 L217 159 L167 141 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "eye1",
+            "type": "circle",
+            "x": 92,
+            "y": 115,
+            "r": 8,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "eye2",
+            "type": "circle",
+            "x": 298,
+            "y": 178,
+            "r": 8,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "sight1",
+            "type": "path",
+            "d": "M101 111 L177 80 M100 120 L167 141",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "sight2",
+            "type": "path",
+            "d": "M289 173 L225 88 M289 182 L213 159",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "one object · two aspects",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "friend-resistance"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 9
+    },
+    "related": [
+      "nietzsche-becoming-not-knowing",
+      "nietzsche-teacher-leaving"
+    ]
+  },
+  {
+    "id": "nietzsche-teacher-leaving",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "teacher leaving",
+    "title": "OUTGROWING THE TEACHER",
+    "statement": "A teaching can fail when it becomes a permanent dependency.",
+    "explanation": "At the end of Zarathustra's first part, the teacher asks his companions to leave him and find themselves. Receiving a thought is different from remaining its obedient disciple.",
+    "nuance": "This is a scene in a philosophical fiction. It complicates the temptation to treat Zarathustra as a source of final commandments, and Nietzsche himself as an unquestionable authority. A learner who can only reproduce the teacher's conclusions has not necessarily learned how to evaluate. Independence must include the possibility of refusing the teacher.",
+    "sources": [
+      "z-I-Bestowing-Virtue-3"
+    ],
+    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "threshold",
+      "variant": "threshold",
+      "composition": {
+        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M183 42 L184 101 M184 143 L185 205",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M61 122 L175 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "freedom for what?",
+            "x": 260,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "making a life",
+      "teacher-leaving"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-making-a-life",
+      "order": 10
+    },
+    "related": [
+      "nietzsche-friend-resistance",
       "nietzsche-genealogy"
     ]
   }
