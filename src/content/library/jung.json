@@ -7,7 +7,7 @@
     "title": "A border called “not me”",
     "statement": "An identity takes shape partly by deciding what cannot belong.",
     "explanation": "The shadow develops in relation to a conscious identity. Qualities that disturb that identity can be excluded from recognition while continuing to influence the person.",
-    "nuance": "The shadow is not a fixed inventory shared by everyone. The person who must be agreeable and the person who must be formidable may exclude different qualities. Anger threatens the first identity; dependency may threaten the second. Jung’s model asks about the relationship between what consciousness claims and what it cannot comfortably admit. The excluded quality becomes shadow partly because it does not fit the account the person has learned to give of themselves, even when that account contains real strengths.\n\nExclusion can be reinforced by a family, a profession, or a social setting. A child may learn that distress is permitted only when it does not inconvenience anyone. Later, they may be skilled at helping but unable to recognize their own wish for support. This does not mean their generosity was secretly fake. A genuine capacity has become attached to a restrictive identity. The difficulty lies in what must remain unrecognized for that identity to feel coherent, rather than in discovering a hidden bad motive behind every good act.\n\nImagine someone who proudly says they never compete, yet feels a sharp bitterness whenever a friend succeeds. A useful inquiry would not declare the person a fraud. It would ask whether ambition has been excluded from their conscious picture. Recognition could let them choose a form of ambition they can answer for. In the drawing, a shape is moved outside an established frame but remains nearby. The border organizes what can be acknowledged; it does not erase everything placed beyond it.",
+    "nuance": "The qualities that become shadow vary with the identity a person has learned to maintain. The person who must be agreeable and the person who must be formidable may exclude different qualities. Anger threatens the first identity; dependency may threaten the second. Jung’s model asks about the relationship between what consciousness claims and what it cannot comfortably admit. The excluded quality becomes shadow partly because it does not fit the account the person has learned to give of themselves, even when that account contains real strengths.\n\nExclusion can be reinforced by a family, a profession, or a social setting. A child may learn that distress is permitted only when it does not inconvenience anyone. Later, they may be skilled at helping but unable to recognize their own wish for support. Generosity can remain a genuine capacity while the identity around it grows restrictive. The inquiry concerns what has become difficult to admit: a wish for care, an ordinary limit, or disappointment when help goes unnoticed. Recognizing the relationship helps distinguish a strength from the rule that has come to govern it.\n\nImagine someone who proudly says they never compete, yet feels a sharp bitterness whenever a friend succeeds. An inquiry could ask whether ambition has been excluded from their conscious picture. Recognition could let them choose a form of ambition they can answer for. The familiar identity can then gain another possibility: valuing the friend’s success while giving their own work some attention. The change begins with a particular feeling and the history that made it difficult to acknowledge.",
     "reflection": "What does your identity require you not to notice?",
     "sources": [
       "shadow"
@@ -15,64 +15,7 @@
     "metaphor": "Illustrative childhood praise establishes a helpful identity; the child’s own needs lose a place, then return as adult resentment.",
     "scene": {
       "kind": "notebook",
-      "caption": "The border makes an outside",
-      "composition": {
-        "description": "A frame accepts one shape, then pushes a second shape outside while a connecting thread persists.",
-        "actors": [
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M79 54H229V190H79Z"
-          },
-          {
-            "id": "accepted",
-            "type": "circle",
-            "x": 154,
-            "y": 124,
-            "r": 29
-          },
-          {
-            "id": "excluded",
-            "type": "path",
-            "d": "M157 107l23 10-9 26-27-7Z",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "x": 127
-            }
-          },
-          {
-            "id": "thread",
-            "type": "path",
-            "d": "M179 125h116",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 4
-            },
-            "tone": "faint"
-          },
-          {
-            "id": "identity",
-            "type": "text",
-            "x": 91,
-            "y": 220,
-            "text": "the accepted picture"
-          },
-          {
-            "id": "out",
-            "type": "text",
-            "x": 259,
-            "y": 89,
-            "text": "not me",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
-          }
-        ]
-      },
+      "caption": "Meeting the shadow begins by giving the excluded need a conscious place.",
       "lesson": {
         "description": "Illustrative childhood praise establishes a helpful identity; the child’s own needs lose a place, then return as adult resentment.",
         "beats": [
@@ -93,7 +36,8 @@
                 "id": "parent",
                 "type": "figure",
                 "x": 286,
-                "y": 155
+                "y": 155,
+                "facing": true
               },
               {
                 "id": "praise",
@@ -396,7 +340,7 @@
     "title": "A capacity left outside",
     "statement": "What is disowned is not always what is destructive.",
     "explanation": "The shadow can contain capacities that a conscious identity rejects: appropriate anger, creativity, vulnerability, or independence. Integration may involve recovering something useful as well as limiting something harmful.",
-    "nuance": "Jung’s shadow is often presented as a storehouse of wickedness. That reading misses a central difficulty: the conscious identity can refuse qualities that a fuller life needs. A person who must always be sensible may dismiss imagination; someone who must be self-sufficient may deny tenderness. These qualities do not become beneficial merely because they are hidden. Their actual use has to be considered. But the task of recognition includes unrealized capacities, rather than only a confession of aggression or selfishness.\n\nWhat counts as unacceptable can change with a person’s environment. In one family, disagreement may be treated as disloyalty. A child who adapts successfully may later experience an ordinary difference of opinion as a moral failure. The excluded capacity is the ability to take a position, not a desire to injure other people. Recovering it would require differentiation: when is disagreement thoughtful, when is it defensive, and how can it be expressed without denying the reality of the relationship?\n\nImagine an adult who envies people able to draw or write, while insisting that artistic work is frivolous. The envy may point toward a neglected interest, although it does not prove a hidden artistic destiny. They can try making something and discover what the interest actually contains. In the first drawing, a growing form waits outside a sealed practical identity. In the second, it gains a place without taking over the whole field. A recovered capacity can enlarge a life without becoming its new compulsory definition.",
+    "nuance": "Qualities that become shadow can include capacities a fuller life needs. A person who must always be sensible may dismiss imagination; someone who must be self-sufficient may deny tenderness. Their value becomes clearer through use and judgment. Recognition opens an inquiry into an unrealized capacity: what might it allow, how could it develop, and how would it affect the life already being lived?\n\nWhat counts as unacceptable can change with a person’s environment. In one family, disagreement may be treated as disloyalty. A child who adapts successfully may later experience an ordinary difference of opinion as a moral failure. The excluded capacity may be the ability to take a thoughtful position. Recovering it would require differentiation: when is disagreement thoughtful, when is it defensive, and how can it be expressed without denying the reality of the relationship?\n\nImagine an adult who envies people able to draw or write, while insisting that artistic work is frivolous. The envy may point toward an interest worth exploring. They can try making something and discover what the interest actually contains. Practice makes the question more specific. They can learn whether the interest offers pleasure, difficulty, a new way of attending, or a wish to be admired. An ordinary place for making things can coexist with work and relationships, allowing the capacity to develop on its own terms.",
     "reflection": "What ability have you mistaken for a flaw?",
     "sources": [
       "shadow"
@@ -404,50 +348,7 @@
     "metaphor": "A person values practicality, shuts away an interest in music, then allows both responsibility and the neglected capacity into one life.",
     "scene": {
       "kind": "notebook",
-      "caption": "Not everything excluded is a threat",
-      "composition": {
-        "description": "A neglected sprout develops behind a closed partition; the partition shifts and reveals the growth.",
-        "actors": [
-          {
-            "id": "room",
-            "type": "path",
-            "d": "M96 44H305V191H96Z",
-            "tone": "faint"
-          },
-          {
-            "id": "partition",
-            "type": "path",
-            "d": "M186 45v145",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "x": -62
-            }
-          },
-          {
-            "id": "sprout",
-            "type": "path",
-            "d": "M237 188v-72q-34-32-43-13q12 27 43 26m0-3q28-41 47-24q-6 27-47 37",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 1
-            }
-          },
-          {
-            "id": "label",
-            "type": "text",
-            "x": 214,
-            "y": 72,
-            "text": "a capacity",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 5
-            }
-          }
-        ]
-      },
+      "caption": "Giving it room can enlarge an ordinary life while its responsibilities remain.",
       "lesson": {
         "description": "A person values practicality, shuts away an interest in music, then allows both responsibility and the neglected capacity into one life.",
         "beats": [
@@ -559,8 +460,8 @@
               {
                 "id": "curiosity",
                 "type": "text",
-                "x": 245,
-                "y": 63,
+                "x": 279,
+                "y": 32,
                 "text": "a persistent interest",
                 "anchor": "middle",
                 "fontSize": 17
@@ -697,7 +598,7 @@
     "title": "Recognition is not permission",
     "statement": "An impulse can be yours without becoming your instruction.",
     "explanation": "To acknowledge a shadow quality is to stop treating it as wholly foreign. It still requires judgment. Jung treated recognition as an ethical problem, not a license to act out everything previously denied.",
-    "nuance": "There is a difference between admitting that you feel an impulse and endorsing what the impulse proposes. A wish to humiliate someone can be recognized as your own without being acted upon. Denial may leave the impulse free to organize indirect behavior: contempt, selective criticism, or a supposedly principled attack. Recognition creates an opportunity to examine its source and consequences. Jung’s confrontation with the shadow therefore includes responsibility, rather than a celebration of being unfiltered or unconstrained.\n\nIt also matters how a disowned quality is differentiated. Anger can include an accurate perception of a boundary being crossed, an old fear of being small, or a desire to dominate. These are not equivalent claims, and the feeling itself does not tell you which is present. Acknowledgment permits inquiry. It does not eliminate the need to consider other people, external evidence, and the limits of your account. The capacity to hold an impulse consciously can be more important than finding a dramatic way to express it.\n\nImagine recognizing envy when a friend wins an award. You might use that recognition to belittle the friend, or you might notice an ambition you have not allowed yourself to pursue. You can congratulate them while deciding whether to give your own work more attention. The envy has been admitted, but it has not been made the author of the response. The drawing lets a charged shape enter a space of consideration, then shows several paths outward. Acknowledgment enlarges the range of possible actions; it does not select the action for you.",
+    "nuance": "There is a difference between admitting that you feel an impulse and endorsing what the impulse proposes. A wish to humiliate someone can be recognized as your own without being acted upon. Denial may leave the impulse free to organize indirect behavior: contempt, selective criticism, or a supposedly principled attack. Recognition creates an opportunity to examine its source and consequences. Responsibility belongs to the encounter: acknowledging the feeling and considering how its expression would affect a real situation.\n\nIt also matters how a disowned quality is differentiated. Anger can include an accurate perception of a boundary being crossed, an old fear of being small, or a desire to dominate. Each calls for a different response. Acknowledgment makes the inquiry possible: what happened, what did it mean to you, and what might another person have experienced? Evidence and the limits of your account still matter. The capacity to hold an impulse consciously can be more important than finding a dramatic way to express it.\n\nImagine recognizing envy when a friend wins an award. You might use that recognition to belittle the friend, or you might notice an ambition you have not allowed yourself to pursue. You can congratulate them while deciding whether to give your own work more attention. The envy becomes available for consideration alongside care for the friend and concern for your own work. Recognition widens the range of responses. Choosing among them involves the relationship, the circumstances, and the consequences you are willing to take responsibility for.",
     "reflection": "What changes if you acknowledge the impulse before choosing an action?",
     "sources": [
       "shadow"
@@ -705,56 +606,7 @@
     "metaphor": "An angry feeling becomes conscious, a hurtful response is considered, and a responsible boundary is chosen while the feeling remains acknowledged.",
     "scene": {
       "kind": "notebook",
-      "caption": "A feeling becomes a choice",
-      "composition": {
-        "description": "A charged shape enters a holding space; three different response paths open beyond it.",
-        "actors": [
-          {
-            "id": "space",
-            "type": "path",
-            "d": "M137 64h97v126h-97Z"
-          },
-          {
-            "id": "impulse",
-            "type": "path",
-            "d": "M58 109l21-15 7 21 22-3-14 17 9 20-23-4-14 16-3-24Z",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "x": 98
-            }
-          },
-          {
-            "id": "paths",
-            "type": "path",
-            "d": "M234 126q31-39 75-55m-75 55h75m-75 0q34 41 75 55",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 4
-            }
-          },
-          {
-            "id": "recognize",
-            "type": "text",
-            "x": 144,
-            "y": 218,
-            "text": "recognize"
-          },
-          {
-            "id": "choose",
-            "type": "text",
-            "x": 270,
-            "y": 219,
-            "text": "choose",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
-          }
-        ]
-      },
+      "caption": "A considered limit gives the feeling a responsible form.",
       "lesson": {
         "description": "An angry feeling becomes conscious, a hurtful response is considered, and a responsible boundary is chosen while the feeling remains acknowledged.",
         "beats": [
@@ -779,7 +631,8 @@
                 "id": "person",
                 "type": "figure",
                 "x": 264,
-                "y": 150
+                "y": 150,
+                "facing": true
               },
               {
                 "id": "feeling",
@@ -816,7 +669,8 @@
                 "id": "person",
                 "type": "figure",
                 "x": 264,
-                "y": 150
+                "y": 150,
+                "facing": true
               },
               {
                 "id": "pause",
@@ -1057,7 +911,7 @@
     "title": "When the badge fills the room",
     "statement": "A role becomes fragile when it has to contain the whole person.",
     "explanation": "Identification with the persona narrows a life to its public definition. A change of role can then feel less like losing an activity and more like losing the right to exist as oneself.",
-    "nuance": "A professional title gives a useful account of acquired responsibilities and skills. It becomes a persona problem when it must also answer questions it cannot contain: what a person values privately, what they fear, how they relate outside the role, or what might develop later. Jung described identification with the collective role as a restriction of individuality. The difficulty is not having a recognizable occupation. It is the inability to experience a feeling or possibility that the occupation’s approved picture leaves out.\n\nOther people can reinforce the identification because a stable role makes expectations easier. The admired expert is expected to know; the dependable helper is expected to give; the successful leader is expected to remain composed. These expectations may fit part of the person very well. Their usefulness can conceal their cost. The narrower the identity becomes, the more threatening an ordinary limitation can feel. An unanswered question or a request for help may seem to endanger far more than the immediate situation.\n\nImagine someone retiring from work who can describe a career in detail but cannot say what interests them when nobody needs their expertise. Retirement has not removed all their capacities, yet the recognized name for their life has disappeared. Development might involve trying activities without having to become accomplished or useful immediately. This is an example of a persona becoming more flexible, not a verdict that careers are traps. The badge in the animation grows until it covers its wearer. The person was larger than the job before the label made them appear smaller.",
+    "nuance": "A professional title gives a useful account of acquired responsibilities and skills. It becomes a persona problem when it must also answer questions it cannot contain: what a person values privately, what they fear, how they relate outside the role, or what might develop later. Jung described identification with the collective role as a restriction of individuality. The difficulty grows when a feeling or possibility excluded by the approved picture becomes hard to recognize even in private.\n\nOther people can reinforce the identification because a stable role makes expectations easier. The admired expert is expected to know; the dependable helper is expected to give; the successful leader is expected to remain composed. These expectations may fit part of the person very well. Their usefulness can conceal their cost. The narrower the identity becomes, the more threatening an ordinary limitation can feel. An unanswered question or a request for help may seem to endanger far more than the immediate situation.\n\nImagine someone retiring from work who can describe a career in detail but cannot say what interests them when nobody needs their expertise. The capacities remain, while the familiar name for their life has disappeared. Development might involve trying activities without having to become accomplished or useful immediately. An unhurried activity, a friendship, or an interest pursued without expertise can introduce other points of continuity. The professional identity acquires a different place in a wider life. Its history still matters, alongside capacities and relationships that may now have room to become known.",
     "reflection": "Which part of your life disappears when your title is removed?",
     "sources": [
       "psyche"
@@ -1065,63 +919,7 @@
     "metaphor": "A doctor’s professional role becomes the whole identity; retirement exposes that dependence; several enduring relationships support a wider sense of self.",
     "scene": {
       "kind": "notebook",
-      "caption": "The label exceeds its task",
-      "composition": {
-        "description": "A small professional badge expands around its wearer until a gap opens between label and life.",
-        "actors": [
-          {
-            "id": "person",
-            "type": "figure",
-            "x": 198,
-            "y": 150
-          },
-          {
-            "id": "badge",
-            "type": "path",
-            "d": "M153 111h90v35h-90Z",
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "scale": 1.8
-            }
-          },
-          {
-            "id": "role",
-            "type": "text",
-            "x": 171,
-            "y": 133,
-            "text": "expert",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 1
-            }
-          },
-          {
-            "id": "beyond",
-            "type": "path",
-            "d": "M89 71q17-17 39-17m143 141q27-8 42-29",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 5
-            },
-            "tone": "faint"
-          },
-          {
-            "id": "notall",
-            "type": "text",
-            "x": 264,
-            "y": 55,
-            "text": "not all",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 6
-            }
-          }
-        ]
-      },
+      "caption": "A wider identity can carry the transition through other capacities and relationships.",
       "lesson": {
         "description": "A doctor’s professional role becomes the whole identity; retirement exposes that dependence; several enduring relationships support a wider sense of self.",
         "beats": [
@@ -1399,7 +1197,7 @@
     "title": "A borrowed greatness",
     "statement": "Admiration can carry an image that no real person can sustain.",
     "explanation": "Projection is not confined to disliked qualities. An idealized person may seem to embody wisdom, possibility, or goodness that exceeds what is actually known about them.",
-    "nuance": "An admired teacher or partner can become the bearer of an inner image. Their real qualities provide a place for that image to settle, but the emotional certainty of the picture can outrun the available knowledge. Jung treated these positive projections as consequential alongside hostile ones. The issue is not that admiration is a mistake. It is whether a person has become the exclusive location of something that belongs partly to the admirer’s own unrealized possibilities, expectations, or need for an unquestionable guide.\n\nIdealization can make ordinary limits feel like betrayal. A wise teacher may misunderstand a question, be impatient, or have expertise in only a small area. If they have been experienced as the source of all insight, a limitation threatens the entire relationship. The admirer may defend the ideal at any cost, or reverse the picture and decide the teacher is wholly worthless. Neither response yet distinguishes the real person from the larger image. Disappointment can be part of learning that distinction, rather than evidence that admiration must always be abandoned.\n\nImagine beginning a creative practice because an artist’s work opens a possibility you had never considered. That influence can be valuable. But if only the artist seems capable of seeing or making anything worthwhile, your own judgment remains suspended. Withdrawing part of the projection could allow you to practice, evaluate, and discover capacities of your own while still respecting their work. The drawing keeps a real figure inside an oversized outline. The outline is not a portrait of their greatness; it shows how much the relationship has been asked to hold.",
+    "nuance": "An admired teacher or partner can become the bearer of an inner image. Their real qualities provide a place for that image to settle, but the emotional certainty of the picture can outrun the available knowledge. Jung treated these positive projections as consequential alongside hostile ones. Admiration becomes a question when one person seems to hold the whole of a possibility: wisdom, creative freedom, or permission to judge. Some of that emotional investment may belong to the admirer’s own developing life.\n\nIdealization can make ordinary limits feel like betrayal. A wise teacher may misunderstand a question, be impatient, or have expertise in only a small area. If they have been experienced as the source of all insight, a limitation threatens the entire relationship. The admirer may defend the ideal at any cost, or reverse the picture and decide the teacher is wholly worthless. Neither response yet distinguishes the real person from the larger image. Disappointment can be part of learning that distinction, rather than evidence that admiration must always be abandoned.\n\nImagine beginning a creative practice because an artist’s work opens a possibility you had never considered. That influence can be valuable. But if only the artist seems capable of seeing or making anything worthwhile, your own judgment remains suspended. Withdrawing part of the projection could allow you to practice, evaluate, and discover capacities of your own while still respecting their work. The relationship can then carry a more specific kind of appreciation. You learn from what the artist actually makes, while ordinary practice and reflection help establish a voice and standards of your own.",
     "reflection": "What does your admiration ask this person never to reveal?",
     "sources": [
       "psyche"
@@ -1407,57 +1205,7 @@
     "metaphor": "A teacher’s genuine knowledge is enlarged into the belief that they have every answer; recognizing their limits returns some judgment to the learner.",
     "scene": {
       "kind": "notebook",
-      "caption": "The person and the larger image",
-      "composition": {
-        "description": "A real figure receives an oversized ideal outline. A small part of that outline returns toward the observer.",
-        "actors": [
-          {
-            "id": "observer",
-            "type": "figure",
-            "x": 94,
-            "y": 152
-          },
-          {
-            "id": "other",
-            "type": "figure",
-            "x": 291,
-            "y": 152
-          },
-          {
-            "id": "ideal",
-            "type": "path",
-            "d": "M290 26q-58 0-72 62t18 111q58 38 111-6t10-99q-17-72-67-68Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 1
-            }
-          },
-          {
-            "id": "return",
-            "type": "path",
-            "d": "M253 46q-85-28-130 22m11-1-11 1 3-11",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 6
-            },
-            "tone": "faint"
-          },
-          {
-            "id": "more",
-            "type": "text",
-            "x": 213,
-            "y": 232,
-            "text": "more than a person",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
-          }
-        ]
-      },
+      "caption": "The learner can keep valuing the teacher while developing their own judgment.",
       "lesson": {
         "description": "A teacher’s genuine knowledge is enlarged into the belief that they have every answer; recognizing their limits returns some judgment to the learner.",
         "beats": [
@@ -1475,7 +1223,8 @@
                 "id": "teacher",
                 "type": "figure",
                 "x": 295,
-                "y": 155
+                "y": 155,
+                "facing": true
               },
               {
                 "id": "board",
@@ -1507,7 +1256,8 @@
                 "id": "teacher",
                 "type": "figure",
                 "x": 295,
-                "y": 155
+                "y": 155,
+                "facing": true
               },
               {
                 "id": "board",
@@ -1523,7 +1273,7 @@
                 "id": "all",
                 "type": "text",
                 "x": 294,
-                "y": 63,
+                "y": 33,
                 "text": "knows everything",
                 "anchor": "middle",
                 "fontSize": 16
@@ -1553,7 +1303,8 @@
                 "id": "teacher",
                 "type": "figure",
                 "x": 295,
-                "y": 155
+                "y": 155,
+                "facing": true
               },
               {
                 "id": "board",
@@ -1570,7 +1321,7 @@
                 "id": "limit",
                 "type": "text",
                 "x": 294,
-                "y": 63,
+                "y": 33,
                 "text": "I don’t know.",
                 "anchor": "middle",
                 "fontSize": 18
@@ -1600,7 +1351,8 @@
                 "id": "teacher",
                 "type": "figure",
                 "x": 295,
-                "y": 155
+                "y": 155,
+                "facing": true
               },
               {
                 "id": "board",
@@ -1740,7 +1492,7 @@
     "title": "A person comes into focus",
     "statement": "Giving back your image can make the other person more visible.",
     "explanation": "Withdrawing a projection means recognizing a contribution to your perception as your own. It need not cancel the relationship. It can change what becomes possible within it.",
-    "nuance": "Projection makes a perception feel as if it belongs entirely to the object. The difficult step is to recognize that the picture has been partly organized by unconscious material in the observer. This is not achieved by mechanically turning every judgment inward. Another person may really be kind, unreliable, talented, or cruel. The question is which features have become enlarged into a total image, and what that image prevents you from noticing. Jung’s account asks for a discrimination between the other person and what the relation has constellated in you.\n\nWithdrawal can initially feel like a loss. A perfect rescuer becomes an ordinary person with limited capacities; a total enemy becomes someone whose actions still require criticism but no longer explain every frustration. The emotional world may become less dramatically organized. That does not make the real relationship less significant. It may allow another kind of encounter: a person can be met with specific expectations and limits rather than being required to embody an unconscious promise or threat. Recognition of one projection is also not proof that all projections have ended.\n\nImagine learning that a friend’s short reply came during a difficult day, rather than as a calculated rejection. Their reply remains short, and the friendship might still need a conversation. But the conviction that they are punishing you can soften into a question about what happened. This is an ordinary example, not a rule that rejection is always imagined. The translucent screen in the drawing lifts between two figures. A real person remains on the other side. The change lies in the picture through which the observer was approaching them.",
+    "nuance": "Projection makes a perception feel as if it belongs entirely to the object. The difficult step is to recognize that the picture has been partly organized by unconscious material in the observer. The inquiry keeps both people in view. Another person may really be kind, unreliable, talented, or cruel. The question is which features have become enlarged into a total image, and what that image prevents you from noticing. Jung’s account asks for a discrimination between the other person and what the relation has constellated in you.\n\nWithdrawal can initially feel like a loss. A perfect rescuer becomes an ordinary person with limited capacities; a total enemy becomes someone whose actions still require criticism but no longer explain every frustration. The emotional world may become less dramatically organized. A quieter picture can make room for another kind of encounter: a person can be met with specific expectations and limits rather than being required to embody an unconscious promise or threat. Further encounters may disclose other contributions that need attention.\n\nImagine learning that a friend’s short reply came during a difficult day, rather than as a calculated rejection. Their reply remains short, and the friendship might still need a conversation. But the conviction that they are punishing you can soften into a question about what happened. The changed account can make a conversation possible: you can ask about their day and say how the reply affected you. Their actual behavior remains available for discussion. What has loosened is the certainty of the larger story through which you first approached them.",
     "reflection": "What detail does your picture of this person fail to include?",
     "sources": [
       "shadow"
@@ -1748,69 +1500,7 @@
     "metaphor": "Observed behavior and an added inner story are separated, allowing a real relationship to remain while the observer questions their contribution.",
     "scene": {
       "kind": "notebook",
-      "caption": "Less certainty, more person",
-      "composition": {
-        "description": "A distorted screen between two people lifts, leaving a simpler visible relationship.",
-        "actors": [
-          {
-            "id": "a",
-            "type": "figure",
-            "x": 94,
-            "y": 150
-          },
-          {
-            "id": "b",
-            "type": "figure",
-            "x": 304,
-            "y": 150
-          },
-          {
-            "id": "screen",
-            "type": "path",
-            "d": "M192 43q56 14 25 82t13 70h-55q32-56 6-92t11-60Z",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "y": -32
-            },
-            "tone": "faint"
-          },
-          {
-            "id": "view",
-            "type": "path",
-            "d": "M121 129h155",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 4
-            }
-          },
-          {
-            "id": "screenlabel",
-            "type": "text",
-            "x": 158,
-            "y": 220,
-            "text": "my picture",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 1
-            }
-          },
-          {
-            "id": "personlabel",
-            "type": "text",
-            "x": 268,
-            "y": 54,
-            "text": "a person",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 5
-            }
-          }
-        ]
-      },
+      "caption": "Separate the observed person from the added picture, then meet them again.",
       "lesson": {
         "description": "Observed behavior and an added inner story are separated, allowing a real relationship to remain while the observer questions their contribution.",
         "beats": [
@@ -1828,7 +1518,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 312,
-                "y": 156
+                "y": 156,
+                "facing": true
               },
               {
                 "id": "fact",
@@ -1860,7 +1551,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 312,
-                "y": 156
+                "y": 156,
+                "facing": true
               },
               {
                 "id": "fact",
@@ -1879,13 +1571,13 @@
               {
                 "id": "story",
                 "type": "path",
-                "d": "M164 105 h209 v57 h-209 Z"
+                "d": "M 43 191 L 357 191 L 357 235 L 43 235 Z"
               },
               {
                 "id": "story-text",
                 "type": "text",
-                "x": 269,
-                "y": 139,
+                "x": 200,
+                "y": 218,
                 "text": "must know everything",
                 "anchor": "middle",
                 "fontSize": 17
@@ -1906,7 +1598,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 312,
-                "y": 156
+                "y": 156,
+                "facing": true
               },
               {
                 "id": "story",
@@ -1954,7 +1647,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 290,
-                "y": 156
+                "y": 156,
+                "facing": true
               },
               {
                 "id": "a",
@@ -2065,69 +1759,224 @@
     "title": "A room that answers for you",
     "statement": "A small event can awaken a much larger situation.",
     "explanation": "A complex gathers memories around an emotional center. When activated, that network can temporarily shape attention and behavior before you recognize its influence.",
-    "nuance": "A complex is more than a strong feeling. In Jung’s account it is a cluster of images, expectations, and memories held together by an emotional charge. A remark made today can touch that cluster. Suddenly the current room feels like an earlier room, and the people in it acquire roles they did not choose. The shift can happen before you have words for it. That is part of what he meant by the relative autonomy of a complex.\n\nImagine a colleague asking whether a draft is finished. You hear an accusation, begin defending your intelligence, and later wonder why the exchange felt so large. The question may have been clumsy or unfair. Yet your reaction can also belong to a history of being inspected. A complex does not make the external situation imaginary; it brings additional material into the encounter, often without announcing where that material came from.\n\nThe useful distinction is between having an emotional pattern and being temporarily organized by it. Recognition creates room to ask what actually happened, what you expected to happen, and how those two became entangled. It does not guarantee immediate control. Jung treated complexes as ordinary features of psychic life, not proof of a defective personality. The work is to establish a relationship with the pattern rather than merely rename it.",
+    "nuance": "A complex is more than a strong feeling. In Jung’s account it is a cluster of images, expectations, and memories held together by an emotional charge. A remark made today can touch that cluster. Suddenly the current room feels like an earlier room, and the people in it acquire roles they did not choose. The shift can happen before you have words for it. That is part of what he meant by the relative autonomy of a complex.\n\nImagine a colleague asking whether a draft is finished. You hear an accusation, begin defending your intelligence, and later wonder why the exchange felt so large. The question may have been clumsy or unfair. Yet your reaction can also belong to a history of being inspected. A complex does not make the external situation imaginary; it brings additional material into the encounter, often without announcing where that material came from.\n\nThe useful distinction is between having an emotional pattern and being temporarily organized by it. Recognition creates room to ask what actually happened, what you expected to happen, and how those two became entangled. It does not guarantee immediate control. Jung treated complexes as ordinary features of psychic life. Further encounters can help reveal its particular triggers, expectations, and effects, allowing a more sustained relationship with the pattern.",
     "reflection": "What present event seems to bring an older atmosphere into the room?",
     "sources": [
       "complex"
     ],
-    "metaphor": "One small signal activates a larger room of connected memories.",
+    "metaphor": "A small cue activates a charged pattern that reorganizes an entire perceptual field; distinguishing the cue and the pattern makes their relation available.",
     "scene": {
       "kind": "notebook",
-      "caption": "one remark / an entire room",
-      "composition": {
-        "description": "One small signal activates a larger room of connected memories.",
-        "actors": [
+      "caption": "Recognition helps distinguish the current event from the situation it awakened.",
+      "lesson": {
+        "description": "A small cue activates a charged pattern that reorganizes an entire perceptual field; distinguishing the cue and the pattern makes their relation available.",
+        "beats": [
           {
-            "id": "observer",
-            "type": "figure",
-            "x": 210,
-            "y": 105
+            "caption": "A small event enters an otherwise ordinary situation.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 284,
+                "y": 157,
+                "facing": true
+              },
+              {
+                "id": "cue",
+                "type": "path",
+                "d": "M49 102 h121 v55 h-121 Z"
+              },
+              {
+                "id": "cue-word",
+                "type": "text",
+                "x": 109,
+                "y": 137,
+                "text": "a correction",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "room",
+                "type": "text",
+                "x": 282,
+                "y": 40,
+                "text": "the present room",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "room",
-            "type": "path",
-            "d": "M130 187 V24 H286 V187 Z"
+            "caption": "An emotionally charged pattern becomes active.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 284,
+                "y": 157,
+                "facing": true
+              },
+              {
+                "id": "cue",
+                "type": "path",
+                "d": "M49 102 h121 v55 h-121 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "pattern",
+                "type": "group",
+                "x": 190,
+                "y": 112,
+                "children": [
+                  {
+                    "id": "pattern-line",
+                    "type": "path",
+                    "d": "M-12 -18 C-40 -37 -43 14 -10 24 C21 33 38 -29 3 -20 C-30 -16 -16 33 10 13 C26 -10 -19 -19 -13 8 C-10 22 18 8 4 -4"
+                  }
+                ]
+              },
+              {
+                "id": "history",
+                "type": "text",
+                "x": 186,
+                "y": 42,
+                "text": "being inspected",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "ties",
+                "type": "path",
+                "d": "M181 92 L125 66 M208 103 L265 72 M181 131 L137 181"
+              }
+            ]
           },
           {
-            "id": "signal",
-            "type": "circle",
-            "x": 72,
-            "y": 125,
-            "r": 7,
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "x": 89
-            }
+            "caption": "Attention, expectation, and behavior can all become organized by that pattern.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 284,
+                "y": 157,
+                "pose": {
+                  "rotate": -7
+                },
+                "facing": true
+              },
+              {
+                "id": "pattern",
+                "type": "group",
+                "x": 190,
+                "y": 112,
+                "children": [
+                  {
+                    "id": "pattern-line",
+                    "type": "path",
+                    "d": "M-12 -18 C-40 -37 -43 14 -10 24 C21 33 38 -29 3 -20 C-30 -16 -16 33 10 13 C26 -10 -19 -19 -13 8 C-10 22 18 8 4 -4"
+                  }
+                ],
+                "pose": {
+                  "scale": 1.5
+                }
+              },
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M39 24 h325 v195 h-325 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 92,
+                "y": 63,
+                "text": "danger",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 304,
+                "y": 60,
+                "text": "defend",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "x": 183,
+                "y": 236,
+                "text": "a whole atmosphere",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "web",
-            "type": "path",
-            "d": "M150 73 L265 90 L246 159 L155 166 Z M150 73 L246 159 M265 90 L155 166",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
-          },
-          {
-            "id": "now",
-            "type": "text",
-            "x": 46,
-            "y": 213,
-            "text": "one remark"
-          },
-          {
-            "id": "past",
-            "type": "text",
-            "x": 182,
-            "y": 213,
-            "text": "a whole history",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "Recognition helps distinguish the current event from the situation it awakened.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "present",
+                "type": "path",
+                "d": "M37 53 h147 v154 h-147 Z"
+              },
+              {
+                "id": "past",
+                "type": "path",
+                "d": "M217 53 h147 v154 h-147 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 109,
+                "y": 90,
+                "text": "what happened",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 291,
+                "y": 90,
+                "text": "what awakened",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "present-word",
+                "type": "text",
+                "x": 109,
+                "y": 148,
+                "text": "a correction",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "past-word",
+                "type": "text",
+                "x": 291,
+                "y": 137,
+                "text": "a history of",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "past-word-2",
+                "type": "text",
+                "x": 291,
+                "y": 162,
+                "text": "being inspected",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -2248,60 +2097,206 @@
     "title": "The pause becomes evidence",
     "statement": "Sometimes an interruption says more than an answer.",
     "explanation": "Jung’s association experiments recorded delays, slips, and forgotten responses. A disturbance could suggest an emotionally charged connection worth investigating.",
-    "nuance": "In the early association experiments, a person heard a series of words and answered with the first association that came to mind. The investigator also observed timing and other disturbances. An unusually long pause, a repeated word, or difficulty recalling an earlier response could matter. Jung was interested in these interruptions because an emotionally charged network might disturb an otherwise simple task without a deliberate decision to do so.\n\nSuppose most words receive an answer almost immediately, but one produces a silence. The silence does not identify its meaning. “Home” might touch affection, conflict, loss, embarrassment, or something quite mundane. The experiment supplies a question rather than a finished story. What matters is the relation between the disturbance and the person’s associations, not an investigator’s confidence that a particular word must conceal a particular secret.\n\nThis history also clarifies why a complex is not just an idea that someone holds. It can interfere with the organization of attention and recall. Still, a delay is not a diagnostic verdict: fatigue, language, distraction, and countless other factors affect performance. The enduring conceptual point is modest. Conscious intention does not account for every interruption in conscious activity. A small hesitation can open an inquiry into a larger emotional context.",
+    "nuance": "In the early association experiments, a person heard a series of words and answered with the first association that came to mind. The investigator also observed timing and other disturbances. An unusually long pause, a repeated word, or difficulty recalling an earlier response could matter. Jung was interested in these interruptions because an emotionally charged network might disturb an otherwise simple task without a deliberate decision to do so.\n\nSuppose most words receive an answer almost immediately, but one produces a silence. The silence does not identify its meaning. “Home” might touch affection, conflict, loss, embarrassment, or something quite mundane. The experiment supplies a question for further inquiry. What matters is the relation between the disturbance and the person’s associations, not an investigator’s confidence that a particular word must conceal a particular secret.\n\nThis history also clarifies why a complex is not just an idea that someone holds. It can interfere with the organization of attention and recall. Fatigue, language, distraction, and other conditions also affect performance, so the particular cause needs investigation. The enduring conceptual point is modest. Conscious intention does not account for every interruption in conscious activity. A small hesitation can open an inquiry into a larger emotional context.",
     "reflection": "Which ordinary word carries an unusually complicated history for you?",
     "sources": [
       "jung-association-reading"
     ],
-    "metaphor": "An even sequence of response marks is interrupted by one long pause.",
+    "metaphor": "An even series of word responses develops one marked delay; personal associations are explored while other causes of a delay remain possible.",
     "scene": {
       "kind": "notebook",
-      "caption": "word / pause / association",
-      "composition": {
-        "description": "An even sequence of response marks is interrupted by one long pause.",
-        "actors": [
+      "caption": "A disturbance opens a question. Context is needed to understand the cause.",
+      "lesson": {
+        "description": "An even series of word responses develops one marked delay; personal associations are explored while other causes of a delay remain possible.",
+        "beats": [
           {
-            "id": "baseline",
-            "type": "path",
-            "d": "M40 140 H361"
+            "caption": "In an association task, a person answers each word with another word.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 307,
+                "y": 150,
+                "facing": true
+              },
+              {
+                "id": "word",
+                "type": "path",
+                "d": "M47 48 h139 v66 h-139 Z"
+              },
+              {
+                "id": "stimulus",
+                "type": "text",
+                "x": 116,
+                "y": 88,
+                "text": "chair",
+                "anchor": "middle",
+                "fontSize": 22
+              },
+              {
+                "id": "answer",
+                "type": "text",
+                "x": 115,
+                "y": 183,
+                "text": "table",
+                "anchor": "middle",
+                "fontSize": 22
+              },
+              {
+                "id": "timing",
+                "type": "path",
+                "d": "M45 217 H179 M57 210 V217 M83 210 V217 M109 210 V217 M136 210 V217"
+              }
+            ]
           },
           {
-            "id": "marks",
-            "type": "path",
-            "d": "M67 135 V106 M98 135 V109 M130 135 V105 M302 135 V110 M334 135 V108"
+            "caption": "One word interrupts the usual rhythm of answering.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 307,
+                "y": 150,
+                "facing": true
+              },
+              {
+                "id": "word",
+                "type": "path",
+                "d": "M47 48 h139 v66 h-139 Z"
+              },
+              {
+                "id": "stimulus",
+                "type": "text",
+                "x": 116,
+                "y": 88,
+                "text": "home",
+                "anchor": "middle",
+                "fontSize": 22
+              },
+              {
+                "id": "answer",
+                "type": "text",
+                "x": 115,
+                "y": 183,
+                "text": "…",
+                "anchor": "middle",
+                "fontSize": 25
+              },
+              {
+                "id": "timing",
+                "type": "path",
+                "d": "M45 217 H285 M57 210 V217 M83 210 V217 M109 210 V217 M250 210 V217 M274 210 V217"
+              },
+              {
+                "id": "gap",
+                "type": "path",
+                "d": "M130 219 V230 H235 V219"
+              }
+            ]
           },
           {
-            "id": "gap",
-            "type": "path",
-            "d": "M165 154 V166 H273 V154",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 1
-            }
+            "caption": "The pause may lead toward an emotionally significant association.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 307,
+                "y": 150,
+                "facing": true
+              },
+              {
+                "id": "stimulus",
+                "type": "text",
+                "x": 116,
+                "y": 53,
+                "text": "home",
+                "anchor": "middle",
+                "fontSize": 22
+              },
+              {
+                "id": "house",
+                "type": "path",
+                "d": "M50 126 L116 77 L180 127 M63 119 V194 H168 V119 M104 194 V153 H134 V194"
+              },
+              {
+                "id": "association",
+                "type": "text",
+                "x": 111,
+                "y": 225,
+                "text": "a difficult memory",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "word",
-            "type": "text",
-            "x": 167,
-            "y": 93,
-            "text": "home",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14
-            }
-          },
-          {
-            "id": "pause",
-            "type": "text",
-            "x": 176,
-            "y": 207,
-            "text": "a pause",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "A disturbance opens a question. Context is needed to understand the cause.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "pause",
+                "type": "text",
+                "x": 199,
+                "y": 46,
+                "text": "a pause",
+                "anchor": "middle",
+                "fontSize": 22
+              },
+              {
+                "id": "memory",
+                "type": "path",
+                "d": "M26 98 h100 v105 h-100 Z"
+              },
+              {
+                "id": "fatigue",
+                "type": "path",
+                "d": "M151 98 h100 v105 h-100 Z"
+              },
+              {
+                "id": "context",
+                "type": "path",
+                "d": "M276 98 h100 v105 h-100 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 76,
+                "y": 136,
+                "text": "memory",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 201,
+                "y": 136,
+                "text": "fatigue",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "x": 326,
+                "y": 136,
+                "text": "context",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 201,
+                "y": 230,
+                "text": "investigate the association",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -2405,62 +2400,176 @@
     "title": "The same door, different lives",
     "statement": "A dream image belongs to the life of its dreamer.",
     "explanation": "Jung opposed treating dreams as a fixed code. Personal associations and the current conscious situation help establish what an image might mean.",
-    "nuance": "A door in a dream does not carry one reliable meaning for everyone. It may recall a childhood room, a hospital corridor, an anticipated move, or a door that actually would not open yesterday. Jung approached a dream through the dreamer’s associations and present situation. An image becomes psychologically useful when its relations become visible. A symbol dictionary can give a feeling of certainty while bypassing the person whose experience needs to be understood.\n\nConsider two people dreaming of a locked door. One is struggling to leave an unsafe arrangement; the other has been insisting that every invitation must be accepted. The image might participate in very different problems. Even that contrast is only an illustration, not an interpretation of either dream. Questions about feeling, detail, and circumstance come first: which door, whose room, what kind of lock, and what happened when the dreamer encountered it?\n\nJung also looked beyond private associations when a dream seemed to draw on wider symbolic patterns. That broader inquiry should enrich attention to the particular dream, not replace it with a grand story. Interpretation remains a proposal to be tested against the dreamer’s experience and subsequent material. The aim is not to win an argument about what an image means. It is to understand how this image enters this life, at this particular moment.",
+    "nuance": "A door in a dream does not carry one reliable meaning for everyone. It may recall a childhood room, a hospital corridor, an anticipated move, or a door that actually would not open yesterday. Jung approached a dream through the dreamer’s associations and present situation. An image becomes psychologically useful when its relations become visible. A symbol dictionary can give a feeling of certainty while bypassing the person whose experience needs to be understood.\n\nConsider two people dreaming of a locked door. One is struggling to leave an unsafe arrangement; the other has been insisting that every invitation must be accepted. The image might participate in very different problems. Even that contrast is only an illustration, not an interpretation of either dream. Questions about feeling, detail, and circumstance come first: which door, whose room, what kind of lock, and what happened when the dreamer encountered it?\n\nJung also looked beyond private associations when a dream seemed to draw on wider symbolic patterns. That broader inquiry should enrich attention to the particular dream, not replace it with a grand story. Interpretation remains a proposal to be tested against the dreamer’s experience and subsequent material. The aim is to understand how this image enters this life, at this particular moment, and how that understanding develops through the dreamer’s own experience.",
     "reflection": "What would this dream image mean in your life that it would not mean in someone else’s?",
     "sources": [
       "jung-dream-context-reading"
     ],
-    "metaphor": "An identical doorway opens onto two distinct personal contexts.",
+    "metaphor": "An identical locked-door image is set beside two different life situations, exclusion and overload, illustrating why individual context matters.",
     "scene": {
       "kind": "notebook",
-      "caption": "one image / two contexts",
-      "composition": {
-        "description": "An identical doorway opens onto two distinct personal contexts.",
-        "actors": [
+      "caption": "Associations and waking circumstances help establish what this image is doing.",
+      "lesson": {
+        "description": "An identical locked-door image is set beside two different life situations, exclusion and overload, illustrating why individual context matters.",
+        "beats": [
           {
-            "id": "door",
-            "type": "path",
-            "d": "M174 174 V59 H232 V174 M177 62 L218 78 V173"
+            "caption": "A dream presents a locked door.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M169 183 V53 H235 V183 M173 57 H231 V179 M220 117 h3"
+              },
+              {
+                "id": "image",
+                "type": "text",
+                "x": 201,
+                "y": 220,
+                "text": "one image",
+                "anchor": "middle",
+                "fontSize": 19
+              }
+            ]
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M170 135 C134 100 103 76 62 79",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "For someone excluded from a relationship, the door may carry one set of feelings.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M169 183 V53 H235 V183 M173 57 H231 V179 M220 117 h3"
+              },
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 90,
+                "y": 160
+              },
+              {
+                "id": "context",
+                "type": "text",
+                "x": 90,
+                "y": 37,
+                "text": "left outside",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 299,
+                "y": 160,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "other-room",
+                "type": "path",
+                "d": "M257 59 h95 v143 h-95 Z"
+              }
+            ]
           },
           {
-            "id": "right",
-            "type": "path",
-            "d": "M236 135 C271 174 302 159 344 170",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "For someone overwhelmed by invitations, it may carry another.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M169 183 V53 H235 V183 M173 57 H231 V179 M220 117 h3"
+              },
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 201,
+                "y": 145
+              },
+              {
+                "id": "request-a",
+                "type": "path",
+                "d": "M35 60 h94 v51 h-94 Z"
+              },
+              {
+                "id": "request-b",
+                "type": "path",
+                "d": "M274 83 h94 v51 h-94 Z"
+              },
+              {
+                "id": "request-c",
+                "type": "path",
+                "d": "M32 147 h94 v51 h-94 Z"
+              },
+              {
+                "id": "context",
+                "type": "text",
+                "x": 198,
+                "y": 31,
+                "text": "too many demands",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "quiet",
+                "type": "text",
+                "x": 201,
+                "y": 226,
+                "text": "a need for quiet",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "l",
-            "type": "text",
-            "x": 39,
-            "y": 207,
-            "text": "one life"
-          },
-          {
-            "id": "r",
-            "type": "text",
-            "x": 288,
-            "y": 207,
-            "text": "another"
-          },
-          {
-            "id": "top",
-            "type": "text",
-            "x": 160,
-            "y": 36,
-            "text": "same image"
+            "caption": "Associations and waking circumstances help establish what this image is doing.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M169 183 V53 H235 V183 M173 57 H231 V179 M220 117 h3"
+              },
+              {
+                "id": "image",
+                "type": "text",
+                "x": 201,
+                "y": 224,
+                "text": "this dream, this life",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 82,
+                "y": 72,
+                "text": "a place",
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 320,
+                "y": 98,
+                "text": "a feeling",
+                "anchor": "middle"
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "x": 92,
+                "y": 170,
+                "text": "an event",
+                "anchor": "middle"
+              },
+              {
+                "id": "links",
+                "type": "path",
+                "d": "M122 78 L162 92 M239 109 L275 102 M125 165 L163 143",
+                "tone": "faint"
+              }
+            ]
           }
         ]
       }
@@ -2552,63 +2661,155 @@
     "title": "Watch what changes",
     "statement": "One dream can be obscure. A sequence can disclose a movement.",
     "explanation": "Jung read dreams across time as well as individually. Returning images may change, making a development visible that a single interpretation would miss.",
-    "nuance": "A single dream can be difficult to understand because the context is incomplete. Jung therefore paid attention to sequences of dreams. An image may return with a difference: the house has another room, the threatening figure begins speaking, or the dreamer can now cross a threshold. The difference can matter as much as the recurring object. It may help test an interpretation that initially seemed convincing, rather than letting one explanation govern all later material.\n\nImagine several dreams involving water. In the first, it is seen from a sealed window. In another, the dreamer stands on a shore. Later, someone offers a boat. This does not automatically establish a story of progress. A change in distance or participation simply gives the reader more to investigate. The relevant question is how that movement relates to waking circumstances and emotional experience, including possibilities the dreamer has not yet acknowledged.\n\nA series can also resist the story we want to tell about ourselves. Apparent mastery in one dream may be followed by vulnerability in the next. Jung’s interest in compensation makes such reversals significant: the dream might challenge a conscious claim that the matter is finished. Keeping the sequence open prevents every image from becoming an isolated omen. Dreams become a conversation with changing conditions rather than a collection of messages to decode once and discard.",
+    "nuance": "A single dream can be difficult to understand because the context is incomplete. Jung therefore paid attention to sequences of dreams. An image may return with a difference: the house has another room, the threatening figure begins speaking, or the dreamer can now cross a threshold. The difference can matter as much as the recurring object. It may help test an interpretation that initially seemed convincing, rather than letting one explanation govern all later material.\n\nImagine several dreams involving water. In the first, it is seen from a sealed window. In another, the dreamer stands on a shore. Later, someone offers a boat. A change in distance or participation gives the reader more to investigate. The relevant question is how that movement relates to waking circumstances and emotional experience, including possibilities the dreamer has not yet acknowledged.\n\nA series can also resist the story we want to tell about ourselves. Apparent mastery in one dream may be followed by vulnerability in the next. Jung’s interest in compensation makes such reversals significant: the dream might challenge a conscious claim that the matter is finished. Keeping the sequence open prevents every image from becoming an isolated omen. The sequence becomes a conversation with changing conditions. Returning to earlier images can reveal a relation that was difficult to see when the first dream stood alone.",
     "reflection": "Does a recurring image stay identical, or is something about your position within it changing?",
     "sources": [
       "jung-dream-series-reading"
     ],
-    "metaphor": "Three related thresholds gradually become open enough to enter.",
+    "metaphor": "A recurring door changes in successive dreams; the dreamer’s changing participation is compared with waking circumstances rather than assigned a predetermined progress story.",
     "scene": {
       "kind": "notebook",
-      "caption": "returning / changing",
-      "composition": {
-        "description": "Three related thresholds gradually become open enough to enter.",
-        "actors": [
+      "caption": "A series gives more context for asking what is changing in the person’s life.",
+      "lesson": {
+        "description": "A recurring door changes in successive dreams; the dreamer’s changing participation is compared with waking circumstances rather than assigned a predetermined progress story.",
+        "beats": [
           {
-            "id": "one",
-            "type": "path",
-            "d": "M44 171 V77 H105 V171 M49 82 L101 166 M101 82 L49 166"
+            "caption": "First dream: a closed threshold is watched from a distance.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 82,
+                "y": 160
+              },
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M251 193 V47 H335 V193 M255 51 L329 189 M329 51 L255 189"
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 199,
+                "y": 228,
+                "text": "first dream",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "two",
-            "type": "path",
-            "d": "M174 171 V77 H235 V171 M177 81 L219 94 V169"
+            "caption": "Later: the same place becomes approachable.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 194,
+                "y": 160
+              },
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M251 193 V47 H335 V193 M254 52 L305 74 V190"
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 199,
+                "y": 228,
+                "text": "another dream",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "three",
-            "type": "path",
-            "d": "M304 171 V77 H365 V171"
+            "caption": "Later still: an opening appears, and the dreamer stands at it.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 289,
+                "y": 160,
+                "facing": true
+              },
+              {
+                "id": "door",
+                "type": "path",
+                "d": "M251 193 V47 H335 V193"
+              },
+              {
+                "id": "path",
+                "type": "path",
+                "d": "M246 204 Q292 197 348 214"
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 199,
+                "y": 228,
+                "text": "a changed relation",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "path",
-            "type": "path",
-            "d": "M63 198 C124 194 238 194 337 198",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "x": 55,
-            "y": 224,
-            "text": "first"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 181,
-            "y": 224,
-            "text": "later"
-          },
-          {
-            "id": "c",
-            "type": "text",
-            "x": 305,
-            "y": 224,
-            "text": "later still"
+            "caption": "A series gives more context for asking what is changing in the person’s life.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "doors",
+                "type": "path",
+                "d": "M39 165 V67 H94 V165 M171 165 V67 H226 V165 M303 165 V67 H358 V165"
+              },
+              {
+                "id": "one",
+                "type": "path",
+                "d": "M43 72 L90 160 M90 72 L43 160"
+              },
+              {
+                "id": "two",
+                "type": "path",
+                "d": "M175 72 L209 90 V160"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 66,
+                "y": 204,
+                "text": "watch",
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 198,
+                "y": 204,
+                "text": "approach",
+                "anchor": "middle"
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "x": 331,
+                "y": 204,
+                "text": "enter",
+                "anchor": "middle"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 200,
+                "y": 238,
+                "text": "what changed outside the dream?",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -2694,58 +2895,139 @@
     "title": "A shape without a single picture",
     "statement": "A recurring pattern is not a universal costume.",
     "explanation": "Jung distinguished an archetypal disposition from its particular images. Cultural and personal experience help give the pattern a recognizable form.",
-    "nuance": "An archetype, in Jung’s technical sense, is not a picture inherited intact. It is a proposed disposition toward forming certain kinds of images and experiences. The archetypal image is what actually appears: a particular mother, guide, threat, journey, or place of renewal. The distinction matters because an image carries the marks of a culture and an individual life. A recurring structural relation does not make every expression of that relation interchangeable.\n\nThink of an arch rather than a photograph of an arch. Many buildings can realize an arch, using different materials and serving different purposes. The resemblance lies in a relation among the parts. This is only a metaphor for Jung’s claim, not evidence that his account of psychic inheritance is correct. It helps explain why he could speak of common patterns while still investigating the specific emotional and historical form in which an image appeared.\n\nThe risk is turning this vocabulary into a list of timeless characters and assigning everyone a role. That flattens both the individual and the culture. Jung’s comparisons across myths can be suggestive, but their breadth does not remove the need for historical care. An archetypal reading should make a particular image more intelligible. If it merely replaces a person’s difficult experience with “the hero” or “the mother,” the category has done too much of the thinking.",
+    "nuance": "Jung used archetype for a proposed disposition toward forming certain kinds of images and experiences. The archetypal image is what actually appears: a particular mother, guide, threat, journey, or place of renewal. The distinction matters because an image carries the marks of a culture and an individual life. A recurring structural relation does not make every expression of that relation interchangeable.\n\nThink of an arch rather than a photograph of an arch. Many buildings can realize an arch, using different materials and serving different purposes. The resemblance lies in a relation among the parts. The architectural comparison illustrates the distinction in Jung’s claim; evidence for psychic inheritance is a separate question. It helps explain why he could speak of common patterns while still investigating the specific emotional and historical form in which an image appeared.\n\nThe risk is turning this vocabulary into a list of timeless characters and assigning everyone a role. That flattens both the individual and the culture. Jung’s comparisons across myths can be suggestive, but their breadth does not remove the need for historical care. An archetypal reading should make a particular image more intelligible. If it merely replaces a person’s difficult experience with “the hero” or “the mother,” the category has done too much of the thinking.",
     "reflection": "Where might you be mistaking a familiar image for the whole underlying pattern?",
     "sources": [
       "jung-archetype-pattern-reading"
     ],
-    "metaphor": "One structural arch is realized in three distinct forms.",
+    "metaphor": "An architectural analogy distinguishes an organizing form from its particular realization, then relates that difference to archetype and archetypal image.",
     "scene": {
       "kind": "notebook",
-      "caption": "a pattern / different images",
-      "composition": {
-        "description": "One structural arch is realized in three distinct forms.",
-        "actors": [
+      "caption": "Jung distinguished the proposed archetypal disposition from the image that appears.",
+      "lesson": {
+        "description": "An architectural analogy distinguishes an organizing form from its particular realization, then relates that difference to archetype and archetypal image.",
+        "beats": [
           {
-            "id": "pattern",
-            "type": "path",
-            "d": "M162 113 V83 Q200 24 238 83 V113",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "Consider an arch: two supports and a span in a particular relation.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "arch",
+                "type": "path",
+                "d": "M130 181 V109 Q200 7 269 109 V181"
+              },
+              {
+                "id": "supports",
+                "type": "path",
+                "d": "M106 182 H156 M244 182 H294"
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "x": 201,
+                "y": 228,
+                "text": "an organizing form",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "branches",
-            "type": "path",
-            "d": "M200 124 L81 157 M200 124 V157 M200 124 L319 157"
+            "caption": "Stone can give that relation one visible form.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "arch",
+                "type": "path",
+                "d": "M130 181 V109 Q200 7 269 109 V181"
+              },
+              {
+                "id": "stones",
+                "type": "path",
+                "d": "M130 139 H158 M139 103 L165 120 M165 68 L181 95 M193 48 V86 M222 65 L206 94 M253 97 L229 116 M242 140 H268"
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "x": 201,
+                "y": 228,
+                "text": "a particular realization",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M56 198 V178 Q81 135 106 178 V198"
+            "caption": "Other materials can realize it differently.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "arch",
+                "type": "path",
+                "d": "M130 181 V109 Q200 7 269 109 V181"
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M130 181 L154 180 V119 Q201 55 245 119 V180 H269 M153 137 H130 M245 137 H269"
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "x": 201,
+                "y": 228,
+                "text": "the form allows variation",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "mid",
-            "type": "path",
-            "d": "M175 198 V164 H226 V198"
-          },
-          {
-            "id": "right",
-            "type": "path",
-            "d": "M292 198 Q315 143 342 198"
-          },
-          {
-            "id": "caption",
-            "type": "text",
-            "x": 129,
-            "y": 234,
-            "text": "form is not a fixed image",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "Jung distinguished the proposed archetypal disposition from the image that appears.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "patterns",
+                "type": "path",
+                "d": "M40 155 V103 Q79 41 119 103 V155 M160 155 V87 H239 V155 M280 155 Q320 50 359 155"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 80,
+                "y": 194,
+                "text": "one image",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 200,
+                "y": 194,
+                "text": "another",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "x": 320,
+                "y": 194,
+                "text": "another",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "x": 200,
+                "y": 232,
+                "text": "a pattern takes particular forms",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -2822,55 +3104,243 @@
     "title": "Before your own story",
     "statement": "Jung proposed that personal history is not the psyche’s only organizing source.",
     "explanation": "The collective unconscious names his hypothesis of inherited psychic dispositions. It does not mean a storehouse of ancestors’ remembered experiences.",
-    "nuance": "Jung distinguished the personal unconscious from the collective unconscious. The first concerns material related to an individual life, including what has been forgotten or excluded from awareness. The second names his proposed inherited basis for recurrent psychic patterns. He used the distinction to explain why images in dreams and myths could seem to resemble one another across different settings. This was a theoretical claim about organization, not a claim that a person remembers an ancestor’s private adventures.\n\nImagine a landscape with paths made during your own lifetime, laid over a terrain you did not choose. The paths stand for personal experience; the terrain stands for the proposed dispositions that help shape how experience is formed. The metaphor has limits. Cultural transmission can also explain resemblances, and similarities can be selected too eagerly while differences are overlooked. A compelling comparison does not by itself establish a biological inheritance of psychological form.\n\nThe concept is useful to understand historically because so much of Jung’s work depends on it. It also needs to remain a hypothesis rather than a permission to declare every image universal. Careful reading asks what belongs to this dreamer, what belongs to a particular culture, and what broader pattern Jung believes is present. Those questions may interact, but keeping them distinguishable protects the person from disappearing into an enormous theory about humanity.",
+    "nuance": "Jung distinguished the personal unconscious from the collective unconscious. The first concerns material related to an individual life, including what has been forgotten or excluded from awareness. The second names his proposed inherited basis for recurrent psychic patterns. He used the distinction to explain why images in dreams and myths could seem to resemble one another across different settings. The proposal concerns the organization of experience. Personal recollections and particular stories still belong to individual and cultural histories.\n\nImagine a landscape with paths made during your own lifetime, laid over a terrain you did not choose. The paths stand for personal experience; the terrain stands for the proposed dispositions that help shape how experience is formed. The metaphor has limits. Cultural transmission can also explain resemblances, and similarities can be selected too eagerly while differences are overlooked. A compelling comparison does not by itself establish a biological inheritance of psychological form.\n\nThe concept is useful to understand historically because so much of Jung’s work depends on it. It also needs to remain a hypothesis rather than a permission to declare every image universal. Careful reading asks what belongs to this dreamer, what belongs to a particular culture, and what broader pattern Jung believes is present. Those questions may interact, but keeping them distinguishable protects the person from disappearing into an enormous theory about humanity.",
     "reflection": "Which patterns feel larger than your biography, and what would count as evidence for that impression?",
     "sources": [
       "jung-collective-unconscious-reading"
     ],
-    "metaphor": "Personal paths sit above a deeper terrain that shapes their possible course.",
+    "metaphor": "An individual life leaves personal paths across a terrain; Jung’s proposed inherited dispositions are distinguished from memories and from cultural transmission.",
     "scene": {
       "kind": "notebook",
-      "caption": "personal layers / proposed dispositions",
-      "composition": {
-        "description": "Personal paths sit above a deeper terrain that shapes their possible course.",
-        "actors": [
+      "caption": "Similar images also invite questions about personal history and cultural transmission.",
+      "lesson": {
+        "description": "An individual life leaves personal paths across a terrain; Jung’s proposed inherited dispositions are distinguished from memories and from cultural transmission.",
+        "beats": [
           {
-            "id": "terrain",
-            "type": "path",
-            "d": "M43 178 Q93 150 136 171 T237 166 T355 174"
+            "caption": "Personal experience leaves its own paths and associations.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "path",
+                "type": "path",
+                "d": "M41 182 C96 90 129 192 185 115 S282 136 356 61"
+              },
+              {
+                "id": "childhood",
+                "type": "text",
+                "x": 89,
+                "y": 58,
+                "text": "childhood",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "meeting",
+                "type": "text",
+                "x": 183,
+                "y": 218,
+                "text": "an encounter",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "loss",
+                "type": "text",
+                "x": 313,
+                "y": 184,
+                "text": "a loss",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "event-a",
+                "type": "circle",
+                "x": 81,
+                "y": 137,
+                "r": 6
+              },
+              {
+                "id": "event-b",
+                "type": "circle",
+                "x": 193,
+                "y": 107,
+                "r": 6
+              },
+              {
+                "id": "event-c",
+                "type": "circle",
+                "x": 303,
+                "y": 96,
+                "r": 6
+              }
+            ]
           },
           {
-            "id": "paths",
-            "type": "path",
-            "d": "M56 79 C117 132 119 89 177 134 S270 88 339 120",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "Jung proposed a deeper basis: inherited ways of organizing psychic experience.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "path",
+                "type": "path",
+                "d": "M41 182 C96 90 129 192 185 115 S282 136 356 61",
+                "tone": "faint"
+              },
+              {
+                "id": "terrain",
+                "type": "path",
+                "d": "M32 71 Q133 33 221 79 T370 71 M30 139 Q143 91 235 139 T371 131 M31 201 Q136 149 221 191 T372 195"
+              },
+              {
+                "id": "terrain-label",
+                "type": "text",
+                "x": 200,
+                "y": 235,
+                "text": "proposed inherited dispositions",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "depth",
-            "type": "path",
-            "d": "M45 191 Q111 176 168 191 T351 191"
+            "caption": "The proposal concerns dispositions, rather than remembered ancestral events.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "memory",
+                "type": "path",
+                "d": "M33 62 h148 v144 h-148 Z"
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M218 62 h148 v144 h-148 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 107,
+                "y": 95,
+                "text": "a personal",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "a-2",
+                "type": "text",
+                "x": 107,
+                "y": 123,
+                "text": "recollection",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 292,
+                "y": 95,
+                "text": "a way of",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "b-2",
+                "type": "text",
+                "x": 292,
+                "y": 123,
+                "text": "forming",
+                "anchor": "middle",
+                "fontSize": 15
+              },
+              {
+                "id": "pattern",
+                "type": "path",
+                "d": "M257 168 Q292 141 327 168"
+              },
+              {
+                "id": "b-3",
+                "type": "text",
+                "text": "experience",
+                "x": 292,
+                "y": 150,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "upper",
-            "type": "text",
-            "x": 61,
-            "y": 50,
-            "text": "personal history"
-          },
-          {
-            "id": "lower",
-            "type": "text",
-            "x": 83,
-            "y": 230,
-            "text": "proposed inherited dispositions",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "Similar images also invite questions about personal history and cultural transmission.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "resemblance",
+                "type": "text",
+                "x": 200,
+                "y": 38,
+                "text": "a resemblance",
+                "anchor": "middle",
+                "fontSize": 20
+              },
+              {
+                "id": "personal",
+                "type": "path",
+                "d": "M23 81 h108 v112 h-108 Z"
+              },
+              {
+                "id": "culture",
+                "type": "path",
+                "d": "M146 81 h108 v112 h-108 Z"
+              },
+              {
+                "id": "inheritance",
+                "type": "path",
+                "d": "M270 81 h108 v112 h-108 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 77,
+                "y": 119,
+                "text": "personal",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "a-2",
+                "type": "text",
+                "x": 77,
+                "y": 147,
+                "text": "history",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 200,
+                "y": 128,
+                "text": "culture",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "d",
+                "type": "text",
+                "x": 324,
+                "y": 119,
+                "text": "inherited",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "d-2",
+                "type": "text",
+                "x": 324,
+                "y": 147,
+                "text": "dispositions",
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ]
           }
         ]
       }
@@ -2960,66 +3430,207 @@
     "title": "Four questions of experience",
     "statement": "Not every way of knowing asks the same question.",
     "explanation": "Jung distinguished sensation, thinking, feeling, and intuition. His functions describe modes of orientation rather than four kinds of intelligence.",
-    "nuance": "Jung’s four functions describe different ways of orienting oneself to experience. Sensation attends to what is concretely present. Thinking seeks conceptual relations. Feeling evaluates worth, acceptance, or rejection. Intuition perceives possibilities and connections that are not given directly in the immediate facts. The model distinguishes questions a mind can ask; it does not divide people into those who possess a function and those who lack it entirely.\n\nConsider entering an unfamiliar room. You can notice its light and sounds, infer how the space is organized, register whether its atmosphere matters to you, or imagine what could happen there. These are overlapping activities, not a laboratory test of your type. In particular, Jungian feeling is not simply emotional intensity, and intuition is not a certificate of special insight. A person can be emotional while avoiding a considered judgment of value, or imaginative while getting a possibility wrong.\n\nJung believed one function often becomes more differentiated and dependable than others. That emphasis can make a life effective while also narrowing it. The model becomes useful when it reveals a habitual omission: facts without possibilities, analysis without valuation, or attractive possibilities without contact with the actual situation. It becomes less useful when a label excuses that omission. These are historically influential distinctions, not a complete or uncontested scientific map of personality.",
+    "nuance": "Jung’s four functions describe different ways of orienting oneself to experience. Sensation attends to what is concretely present. Thinking seeks conceptual relations. Feeling evaluates worth, acceptance, or rejection. Intuition perceives possibilities and connections that are not given directly in the immediate facts. The model distinguishes questions a mind can ask, with differences in how consciously and fluently a person uses each mode.\n\nConsider entering an unfamiliar room. You can notice its light and sounds, infer how the space is organized, register whether its atmosphere matters to you, or imagine what could happen there. These activities overlap in an ordinary encounter. In particular, Jungian feeling is not simply emotional intensity, and intuition is not a certificate of special insight. A person can be emotional while avoiding a considered judgment of value, or imaginative while getting a possibility wrong.\n\nJung believed one function often becomes more differentiated and dependable than others. That emphasis can make a life effective while also narrowing it. The model becomes useful when it reveals a habitual omission: facts without possibilities, analysis without valuation, or attractive possibilities without contact with the actual situation. It becomes less useful when a label excuses that omission. The distinctions are historically influential and remain useful to approach as a particular theory of orientation, with questions about their scope and evidence.",
     "reflection": "Which kind of question do you answer easily, and which do you tend to skip?",
     "sources": [
       "jung-four-functions-reading"
     ],
-    "metaphor": "An encounter branches into four different questions rather than four ranked abilities.",
+    "metaphor": "One room is encountered through concrete perception, conceptual understanding, valuation, and imagined possibilities, illustrating Jung’s four modes of orientation.",
     "scene": {
       "kind": "notebook",
-      "caption": "what is / what it means / what matters / what may be",
-      "composition": {
-        "description": "An encounter branches into four different questions rather than four ranked abilities.",
-        "actors": [
+      "caption": "Intuition attends to a possibility: this room could become a studio.",
+      "lesson": {
+        "description": "One room is encountered through concrete perception, conceptual understanding, valuation, and imagined possibilities, illustrating Jung’s four modes of orientation.",
+        "beats": [
           {
-            "id": "encounter",
-            "type": "circle",
-            "x": 200,
-            "y": 120,
-            "r": 18
+            "caption": "Sensation attends to what is present: light, warmth, the wooden table.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M49 202 V56 H350 V202 H49 M49 202 L97 166 H303 L350 202"
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M77 72 h70 v62 h-70 Z"
+              },
+              {
+                "id": "table",
+                "type": "path",
+                "d": "M170 148 H285 V168 H170 Z M180 168 V195 M275 168 V195"
+              },
+              {
+                "id": "lamp",
+                "type": "path",
+                "d": "M232 141 V91 M214 90 L251 90 L240 69 H225 Z"
+              },
+              {
+                "id": "mode",
+                "type": "text",
+                "x": 200,
+                "y": 31,
+                "text": "SENSATION",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "light",
+                "type": "path",
+                "d": "M92 136 L153 172 M135 135 L199 181",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "branches",
-            "type": "path",
-            "d": "M184 111 L88 66 M217 111 L310 66 M184 132 L88 183 M217 132 L310 183",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "Thinking asks how things relate: the lamp lights the work surface.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M49 202 V56 H350 V202 H49 M49 202 L97 166 H303 L350 202"
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M77 72 h70 v62 h-70 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "table",
+                "type": "path",
+                "d": "M170 148 H285 V168 H170 Z M180 168 V195 M275 168 V195"
+              },
+              {
+                "id": "lamp",
+                "type": "path",
+                "d": "M232 141 V91 M214 90 L251 90 L240 69 H225 Z"
+              },
+              {
+                "id": "mode",
+                "type": "text",
+                "x": 200,
+                "y": 31,
+                "text": "THINKING",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "illumination",
+                "type": "path",
+                "d": "M215 91 L192 144 M250 91 L272 144",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "s",
-            "type": "text",
-            "x": 36,
-            "y": 44,
-            "text": "what is here?"
+            "caption": "Feeling makes a judgment of value: this place matters to me.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M49 202 V56 H350 V202 H49 M49 202 L97 166 H303 L350 202"
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M77 72 h70 v62 h-70 Z"
+              },
+              {
+                "id": "table",
+                "type": "path",
+                "d": "M170 148 H285 V168 H170 Z M180 168 V195 M275 168 V195"
+              },
+              {
+                "id": "lamp",
+                "type": "path",
+                "d": "M232 141 V91 M214 90 L251 90 L240 69 H225 Z"
+              },
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 118,
+                "y": 155,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "mode",
+                "type": "text",
+                "x": 200,
+                "y": 31,
+                "text": "FEELING",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "worth",
+                "type": "text",
+                "x": 242,
+                "y": 229,
+                "text": "a place worth keeping",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "t",
-            "type": "text",
-            "x": 267,
-            "y": 44,
-            "text": "what is it?"
-          },
-          {
-            "id": "f",
-            "type": "text",
-            "x": 35,
-            "y": 220,
-            "text": "what matters?"
-          },
-          {
-            "id": "i",
-            "type": "text",
-            "x": 254,
-            "y": 220,
-            "text": "what could be?",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 1
-            }
+            "caption": "Intuition attends to a possibility: this room could become a studio.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M49 202 V56 H350 V202 H49 M49 202 L97 166 H303 L350 202"
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M77 72 h70 v62 h-70 Z"
+              },
+              {
+                "id": "table",
+                "type": "path",
+                "d": "M170 148 H285 V168 H170 Z M180 168 V195 M275 168 V195"
+              },
+              {
+                "id": "lamp",
+                "type": "path",
+                "d": "M232 141 V91 M214 90 L251 90 L240 69 H225 Z"
+              },
+              {
+                "id": "easel",
+                "type": "path",
+                "d": "M87 168 L112 108 L139 168 M91 145 H135 M94 88 H132 V143 H94 Z"
+              },
+              {
+                "id": "paper",
+                "type": "path",
+                "d": "M192 150 h61 v14 h-61 Z"
+              },
+              {
+                "id": "mode",
+                "type": "text",
+                "x": 200,
+                "y": 31,
+                "text": "INTUITION",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "possibility",
+                "type": "text",
+                "x": 232,
+                "y": 229,
+                "text": "what it could become",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -3111,65 +3722,237 @@
     "sources": [
       "jung-introversion-reading"
     ],
-    "metaphor": "An external event reaches a person and acquires weight in an inner chamber.",
+    "metaphor": "A socially active person refers an encounter back to an inner image and conviction, illustrating the subjective reference of an introverted attitude.",
     "scene": {
       "kind": "notebook",
-      "caption": "an event / its inner resonance",
-      "composition": {
-        "description": "An external event reaches a person and acquires weight in an inner chamber.",
-        "actors": [
+      "caption": "Introversion describes that weighting of experience, across many kinds of activity.",
+      "lesson": {
+        "description": "A socially active person refers an encounter back to an inner image and conviction, illustrating the subjective reference of an introverted attitude.",
+        "beats": [
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M143 53 H284 V185 H143 Z"
+            "caption": "A person can take part in a lively encounter.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 211,
+                "y": 155
+              },
+              {
+                "id": "p1",
+                "type": "figure",
+                "x": 69,
+                "y": 159,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "p2",
+                "type": "figure",
+                "x": 126,
+                "y": 157,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "p3",
+                "type": "figure",
+                "x": 306,
+                "y": 156,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "p4",
+                "type": "figure",
+                "x": 351,
+                "y": 156,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "encounter",
+                "type": "text",
+                "x": 204,
+                "y": 34,
+                "text": "a shared situation",
+                "anchor": "middle",
+                "fontSize": 19
+              }
+            ]
           },
           {
-            "id": "event",
-            "type": "circle",
-            "x": 65,
-            "y": 117,
-            "r": 13
+            "caption": "The decisive reference may be how the encounter is experienced within.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 211,
+                "y": 155
+              },
+              {
+                "id": "p1",
+                "type": "figure",
+                "x": 69,
+                "y": 159,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint"
+              },
+              {
+                "id": "p2",
+                "type": "figure",
+                "x": 126,
+                "y": 157,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint"
+              },
+              {
+                "id": "p3",
+                "type": "figure",
+                "x": 306,
+                "y": 156,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "p4",
+                "type": "figure",
+                "x": 351,
+                "y": 156,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "inner",
+                "type": "path",
+                "d": "M164 65 h92 v151 h-92 Z"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 199,
+                "y": 33,
+                "text": "What does this mean to me?",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "entry",
-            "type": "path",
-            "d": "M80 117 H207",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "An inner image or conviction gives the response its principal bearings.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 211,
+                "y": 155
+              },
+              {
+                "id": "image",
+                "type": "path",
+                "d": "M41 62 h112 v132 h-112 Z"
+              },
+              {
+                "id": "inner-landscape",
+                "type": "path",
+                "d": "M48 148 Q86 71 146 110 M48 151 Q108 170 143 142"
+              },
+              {
+                "id": "inner-word",
+                "type": "text",
+                "x": 98,
+                "y": 226,
+                "text": "inner reference",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "outer-word",
+                "type": "text",
+                "x": 305,
+                "y": 226,
+                "text": "outer situation",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "p3",
+                "type": "figure",
+                "x": 306,
+                "y": 156,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint",
+                "facing": true
+              }
+            ]
           },
           {
-            "id": "inner",
-            "type": "circle",
-            "x": 225,
-            "y": 117,
-            "r": 29,
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "scale": 1.18,
-              "delay": 2
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "x": 32,
-            "y": 219,
-            "text": "the event"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 181,
-            "y": 219,
-            "text": "inner meaning",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "Introversion describes that weighting of experience, across many kinds of activity.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 211,
+                "y": 155
+              },
+              {
+                "id": "inner",
+                "type": "path",
+                "d": "M146 56 h121 v155 h-121 Z"
+              },
+              {
+                "id": "p1",
+                "type": "figure",
+                "x": 69,
+                "y": 159,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint"
+              },
+              {
+                "id": "p4",
+                "type": "figure",
+                "x": 351,
+                "y": 156,
+                "pose": {
+                  "scale": 0.65
+                },
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "inner-word",
+                "type": "text",
+                "x": 210,
+                "y": 236,
+                "text": "the subjective factor",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -3282,63 +4065,147 @@
     "sources": [
       "jung-extraversion-reading"
     ],
-    "metaphor": "External conditions align a person’s direction while an inward signal remains.",
+    "metaphor": "A craftsperson adjusts their work to the material’s grain and condition, illustrating how an outward orientation can be quiet and attentive.",
     "scene": {
       "kind": "notebook",
-      "caption": "conditions outside / a direction within",
-      "composition": {
-        "description": "External conditions align a person’s direction while an inward signal remains.",
-        "actors": [
+      "caption": "This orientation can belong to quiet observation as well as social activity.",
+      "lesson": {
+        "description": "A craftsperson adjusts their work to the material’s grain and condition, illustrating how an outward orientation can be quiet and attentive.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 173,
-            "y": 108,
-            "motion": {
-              "kind": "turn",
-              "duration": 14,
-              "angle": 7
-            }
+            "caption": "A craftsperson examines the material in front of them.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 101,
+                "y": 155
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M184 100 L341 75 L355 139 L200 166 Z M194 113 Q248 106 347 93 M198 137 Q281 110 351 116"
+              },
+              {
+                "id": "material",
+                "type": "text",
+                "x": 273,
+                "y": 221,
+                "text": "the actual material",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "room",
-            "type": "path",
-            "d": "M245 60 H340 V176 H245 Z"
+            "caption": "The grain and condition of the wood determine how the work proceeds.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 101,
+                "y": 155
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M184 100 L341 75 L355 139 L200 166 Z M194 113 Q248 106 347 93 M198 137 Q281 110 351 116"
+              },
+              {
+                "id": "grain",
+                "type": "path",
+                "d": "M192 120 Q263 86 344 103 M197 148 Q263 114 350 131"
+              },
+              {
+                "id": "reference",
+                "type": "text",
+                "x": 199,
+                "y": 34,
+                "text": "conditions outside",
+                "anchor": "middle",
+                "fontSize": 19
+              }
+            ]
           },
           {
-            "id": "guides",
-            "type": "path",
-            "d": "M245 89 L205 106 M245 131 L205 122 M245 164 L204 139",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "An extraverted attitude gives the object the stronger determining weight.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 101,
+                "y": 155
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M184 100 L341 75 L355 139 L200 166 Z M194 113 Q248 106 347 93 M198 137 Q281 110 351 116"
+              },
+              {
+                "id": "cut",
+                "type": "path",
+                "d": "M282 85 L297 151",
+                "dashed": true
+              },
+              {
+                "id": "plan",
+                "type": "path",
+                "d": "M 30 217 L 131 217 L 131 249 L 30 249 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "plan-word",
+                "type": "text",
+                "x": 81,
+                "y": 241,
+                "text": "a first plan",
+                "anchor": "middle",
+                "fontSize": 13
+              },
+              {
+                "id": "adjusted",
+                "type": "text",
+                "x": 283,
+                "y": 220,
+                "text": "adjust to the grain",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "inside",
-            "type": "circle",
-            "x": 143,
-            "y": 116,
-            "r": 6,
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "delay": 2
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "x": 60,
-            "y": 219,
-            "text": "inner response"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 246,
-            "y": 219,
-            "text": "conditions"
+            "caption": "This orientation can belong to quiet observation as well as social activity.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 109,
+                "y": 156
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M184 100 L341 75 L355 139 L200 166 Z M194 113 Q248 106 347 93 M198 137 Q281 110 351 116"
+              },
+              {
+                "id": "table",
+                "type": "path",
+                "d": "M169 173 H365 M185 173 V208 M345 173 V208"
+              },
+              {
+                "id": "caption",
+                "type": "text",
+                "x": 203,
+                "y": 36,
+                "text": "taking bearings from the object",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -3428,61 +4295,183 @@
     "sources": [
       "jung-inferior-function-reading"
     ],
-    "metaphor": "Three well-tuned strings move evenly while a neglected fourth vibrates erratically.",
+    "metaphor": "A confident analyst encounters a difficult judgment of value; their less differentiated response is shown as sweeping, then given a distinct kind of attention.",
     "scene": {
       "kind": "notebook",
-      "caption": "practiced / less differentiated",
-      "composition": {
-        "description": "Three well-tuned strings move evenly while a neglected fourth vibrates erratically.",
-        "actors": [
+      "caption": "Development begins with attention to the different demand it makes.",
+      "lesson": {
+        "description": "A confident analyst encounters a difficult judgment of value; their less differentiated response is shown as sweeping, then given a distinct kind of attention.",
+        "beats": [
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M54 67 H343 M54 185 H343"
+            "caption": "A practiced function can make a person highly competent in one kind of task.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 94,
+                "y": 156
+              },
+              {
+                "id": "analysis",
+                "type": "path",
+                "d": "M187 45 h164 v150 h-164 Z"
+              },
+              {
+                "id": "grid",
+                "type": "path",
+                "d": "M202 81 H337 M202 111 H337 M202 141 H337 M241 63 V181 M287 63 V181"
+              },
+              {
+                "id": "skill",
+                "type": "text",
+                "x": 269,
+                "y": 227,
+                "text": "clear analysis",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "one",
-            "type": "path",
-            "d": "M93 68 V184"
+            "caption": "A different task may be much less differentiated.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 94,
+                "y": 156
+              },
+              {
+                "id": "analysis",
+                "type": "path",
+                "d": "M187 45 h164 v150 h-164 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "question-a",
+                "type": "text",
+                "x": 272,
+                "y": 94,
+                "text": "What matters",
+                "anchor": "middle",
+                "fontSize": 21
+              },
+              {
+                "id": "question-b",
+                "type": "text",
+                "x": 272,
+                "y": 124,
+                "text": "to you?",
+                "anchor": "middle",
+                "fontSize": 21
+              },
+              {
+                "id": "task",
+                "type": "text",
+                "x": 267,
+                "y": 227,
+                "text": "a judgment of value",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "two",
-            "type": "path",
-            "d": "M163 68 V184"
+            "caption": "The neglected activity can arrive in a sweeping or hard-to-regulate form.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 94,
+                "y": 156,
+                "pose": {
+                  "rotate": -5
+                }
+              },
+              {
+                "id": "tangle",
+                "type": "group",
+                "x": 271,
+                "y": 128,
+                "children": [
+                  {
+                    "id": "tangle-line",
+                    "type": "path",
+                    "d": "M-12 -18 C-40 -37 -43 14 -10 24 C21 33 38 -29 3 -20 C-30 -16 -16 33 10 13 C26 -10 -19 -19 -13 8 C-10 22 18 8 4 -4"
+                  }
+                ]
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 261,
+                "y": 58,
+                "text": "everything!",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 261,
+                "y": 211,
+                "text": "nothing!",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "three",
-            "type": "path",
-            "d": "M233 68 V184"
-          },
-          {
-            "id": "four",
-            "type": "path",
-            "d": "M303 68 Q283 103 307 128 Q327 150 303 184",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "x": 4
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "x": 83,
-            "y": 224,
-            "text": "practiced"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 252,
-            "y": 224,
-            "text": "unpracticed",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "Development begins with attention to the different demand it makes.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 98,
+                "y": 156
+              },
+              {
+                "id": "analysis",
+                "type": "path",
+                "d": "M190 45 h161 v65 h-161 Z"
+              },
+              {
+                "id": "value",
+                "type": "path",
+                "d": "M190 139 h161 v65 h-161 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 270,
+                "y": 83,
+                "text": "understand",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 270,
+                "y": 177,
+                "text": "consider value",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "two-tasks",
+                "type": "text",
+                "x": 267,
+                "y": 236,
+                "text": "two different activities",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -3565,63 +4554,173 @@
     "sources": [
       "jung-dream-levels-reading"
     ],
-    "metaphor": "One dream figure is connected both to an outward relationship and to an inward position.",
+    "metaphor": "A demanding dream teacher is read first in relation to an actual person, then as an inner demand, preserving both possible levels of interpretation.",
     "scene": {
       "kind": "notebook",
-      "caption": "a relationship / an inner position",
-      "composition": {
-        "description": "One dream figure is connected both to an outward relationship and to an inward position.",
-        "actors": [
+      "caption": "The same dream can carry questions about both the relationship and the dreamer.",
+      "lesson": {
+        "description": "A demanding dream teacher is read first in relation to an actual person, then as an inner demand, preserving both possible levels of interpretation.",
+        "beats": [
           {
-            "id": "dream",
-            "type": "figure",
-            "x": 201,
-            "y": 75
+            "caption": "A dream contains a demanding teacher.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 100,
+                "y": 155
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 291,
+                "y": 151,
+                "facing": true
+              },
+              {
+                "id": "demand",
+                "type": "path",
+                "d": "M188 19 h177 v58 h-177 Z"
+              },
+              {
+                "id": "demand-a",
+                "type": "text",
+                "x": 277,
+                "y": 43,
+                "text": "It must be",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "demand-b",
+                "type": "text",
+                "x": 277,
+                "y": 66,
+                "text": "perfect.",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "split",
-            "type": "path",
-            "d": "M201 157 L99 185 M201 157 L303 185",
-            "motion": {
-              "kind": "draw",
-              "duration": 14
-            }
+            "caption": "The objective level asks about an actual person or relationship.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 100,
+                "y": 155
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 291,
+                "y": 151,
+                "facing": true
+              },
+              {
+                "id": "classroom",
+                "type": "path",
+                "d": "M211 43 h153 v167 h-153 Z"
+              },
+              {
+                "id": "objective",
+                "type": "text",
+                "x": 202,
+                "y": 237,
+                "text": "who is this person to me?",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M63 186 H137 V205 H63 Z"
+            "caption": "The subjective level asks whether the figure expresses an inner position.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 100,
+                "y": 155
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 291,
+                "y": 151,
+                "facing": true
+              },
+              {
+                "id": "whole",
+                "type": "path",
+                "d": "M48 83 Q92 16 210 34 Q364 28 368 135 Q375 228 218 230 Q53 231 48 83"
+              },
+              {
+                "id": "inner-demand",
+                "type": "text",
+                "x": 214,
+                "y": 51,
+                "text": "my demand for perfection",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "inner",
-            "type": "circle",
-            "x": 304,
-            "y": 194,
-            "r": 20,
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "delay": 2
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "x": 45,
-            "y": 237,
-            "text": "a relationship"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 257,
-            "y": 237,
-            "text": "a part of me",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "The same dream can carry questions about both the relationship and the dreamer.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "relationship",
+                "type": "path",
+                "d": "M34 51 h146 v143 h-146 Z"
+              },
+              {
+                "id": "inner",
+                "type": "path",
+                "d": "M217 51 h146 v143 h-146 Z"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 107,
+                "y": 84,
+                "text": "a relationship",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 291,
+                "y": 84,
+                "text": "an inner demand",
+                "anchor": "middle",
+                "fontSize": 15
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 107,
+                "y": 152,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 291,
+                "y": 152,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              }
+            ]
           }
         ]
       }
@@ -3713,63 +4812,212 @@
     "title": "A center that can hold a conversation",
     "statement": "A wider psyche does not make the ego disposable.",
     "explanation": "The ego organizes conscious identity. Jung’s work asks it to recognize its limits while remaining able to meet what lies beyond them.",
-    "nuance": "The ego, for Jung, is the center of conscious experience: the organization through which you recognize thoughts, memories, and actions as yours. Calling it a part of the psyche does not make it an error to eliminate. A person needs sufficient continuity and discrimination to engage difficult unconscious material without being overwhelmed by it. The question is how consciousness relates to the wider psyche, not how quickly it can dissolve its own structure.\n\nImagine a harbor opening toward a larger sea. Its boundaries are useful because they allow arrivals to be noticed, approached, and handled. A harbor that claims to contain the entire ocean is mistaken; removing every boundary would not improve its ability to receive a ship. The metaphor captures a tension in Jung’s thought. Conscious identity should become less absolute while remaining capable of judgment, responsibility, and a sustained encounter with unfamiliar experience.\n\nThis matters when language about wholeness is turned into a demand for ego death. Jung’s distinction between ego and Self does not supply a universal prescription for dramatic experiences or loss of control. Individuation involves a changing relation among psychic factors, including the conscious center. Being less identified with a single account of yourself can make room for complexity. It still matters to know where you stand, what you are choosing, and which claims you can responsibly make.",
+    "nuance": "The ego, for Jung, is the center of conscious experience: the organization through which you recognize thoughts, memories, and actions as yours. Its place within the psyche remains important. A person needs sufficient continuity and discrimination to engage difficult unconscious material without being overwhelmed by it. The question is how consciousness relates to the wider psyche, not how quickly it can dissolve its own structure.\n\nImagine a harbor opening toward a larger sea. Its boundaries are useful because they allow arrivals to be noticed, approached, and handled. A harbor that claims to contain the entire ocean is mistaken; removing every boundary would not improve its ability to receive a ship. The metaphor captures a tension in Jung’s thought. Conscious identity should become less absolute while remaining capable of judgment, responsibility, and a sustained encounter with unfamiliar experience.\n\nThis matters when considering Jung’s distinction between ego and Self. A changing relation to the wider psyche involves judgment and responsibility as well as receptivity. Individuation involves a changing relation among psychic factors, including the conscious center. Being less identified with a single account of yourself can make room for complexity. It still matters to know where you stand, what you are choosing, and which claims you can responsibly make.",
     "reflection": "Can you question your usual story without losing every point from which to question it?",
     "sources": [
       "psyche"
     ],
-    "metaphor": "A small harbor keeps its structure while opening a relation with a wider sea.",
+    "metaphor": "A harbor receives a boat through an opening while retaining structure, illustrating a conscious center that can meet unfamiliar material and still discriminate.",
     "scene": {
       "kind": "notebook",
-      "caption": "a stable center / a wider field",
-      "composition": {
-        "description": "A small harbor keeps its structure while opening a relation with a wider sea.",
-        "actors": [
+      "caption": "A wider understanding can preserve judgment, responsibility, and the ability to choose.",
+      "lesson": {
+        "description": "A harbor receives a boat through an opening while retaining structure, illustrating a conscious center that can meet unfamiliar material and still discriminate.",
+        "beats": [
           {
-            "id": "sea",
-            "type": "path",
-            "d": "M40 68 Q106 43 181 63 T360 60 M41 181 Q113 202 184 181 T360 185"
+            "caption": "A conscious center supplies continuity and a place from which to respond.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "harbor",
+                "type": "path",
+                "d": "M108 67 H268 V112 M108 67 V183 H268 V146"
+              },
+              {
+                "id": "boat",
+                "type": "group",
+                "x": 174,
+                "y": 129,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-23 4 H24 L13 20 H-11 Z M0 2 V-30 L19 -1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "center",
+                "type": "text",
+                "x": 186,
+                "y": 212,
+                "text": "a stable center",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "harbor",
-            "type": "path",
-            "d": "M139 84 V164 H250 V140 M139 84 H250 V108"
+            "caption": "Unfamiliar material belongs to a wider field of psychic life.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "harbor",
+                "type": "path",
+                "d": "M108 67 H268 V112 M108 67 V183 H268 V146"
+              },
+              {
+                "id": "boat",
+                "type": "group",
+                "x": 174,
+                "y": 129,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-23 4 H24 L13 20 H-11 Z M0 2 V-30 L19 -1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "waves",
+                "type": "path",
+                "d": "M25 35 Q94 19 153 35 T284 34 T375 34 M23 221 Q107 207 177 221 T375 218"
+              },
+              {
+                "id": "new-boat",
+                "type": "group",
+                "x": 330,
+                "y": 130,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-21 5 H21 L11 20 H-12 Z M-2 3 V-28 L16 1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "wider",
+                "type": "text",
+                "x": 218,
+                "y": 25,
+                "text": "a wider field",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "boat",
-            "type": "circle",
-            "x": 204,
-            "y": 125,
-            "r": 10,
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "x": 75
-            }
+            "caption": "An opening makes an encounter possible while the center retains its structure.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "harbor",
+                "type": "path",
+                "d": "M108 67 H268 V112 M108 67 V183 H268 V146"
+              },
+              {
+                "id": "boat",
+                "type": "group",
+                "x": 174,
+                "y": 129,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-23 4 H24 L13 20 H-11 Z M0 2 V-30 L19 -1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "waves",
+                "type": "path",
+                "d": "M25 35 Q94 19 153 35 T284 34 T375 34 M23 221 Q107 207 177 221 T375 218"
+              },
+              {
+                "id": "new-boat",
+                "type": "group",
+                "x": 266,
+                "y": 130,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-21 5 H21 L11 20 H-12 Z M-2 3 V-28 L16 1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "relationship",
+                "type": "text",
+                "x": 190,
+                "y": 212,
+                "text": "receive and discriminate",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "relation",
-            "type": "path",
-            "d": "M249 124 H325",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "x": 144,
-            "y": 220,
-            "text": "a center"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 273,
-            "y": 220,
-            "text": "a wider field"
+            "caption": "A wider understanding can preserve judgment, responsibility, and the ability to choose.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "harbor",
+                "type": "path",
+                "d": "M108 67 H268 V112 M108 67 V183 H268 V146"
+              },
+              {
+                "id": "boat",
+                "type": "group",
+                "x": 146,
+                "y": 127,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-23 4 H24 L13 20 H-11 Z M0 2 V-30 L19 -1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "waves",
+                "type": "path",
+                "d": "M25 35 Q94 19 153 35 T284 34 T375 34 M23 221 Q107 207 177 221 T375 218"
+              },
+              {
+                "id": "new-boat",
+                "type": "group",
+                "x": 222,
+                "y": 135,
+                "children": [
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-21 5 H21 L11 20 H-12 Z M-2 3 V-28 L16 1 Z"
+                  }
+                ]
+              },
+              {
+                "id": "responsibility",
+                "type": "text",
+                "x": 206,
+                "y": 25,
+                "text": "a relationship with what arrives",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "center",
+                "type": "text",
+                "x": 186,
+                "y": 212,
+                "text": "a center that can answer",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }

@@ -15,7 +15,7 @@
     "metaphor": "A person excludes anger from their self-image, speaks through it, then recognizes the feeling and gains a choice.",
     "scene": {
       "kind": "shadow",
-      "caption": "What follows us",
+      "caption": "“I am angry.” Recognizing a feeling makes room to choose an action.",
       "lesson": {
         "description": "A person excludes anger from their self-image, speaks through it, then recognizes the feeling and gains a choice.",
         "beats": [
@@ -350,7 +350,7 @@
     "metaphor": "A useful social role is worn for an encounter, then mistaken for an entire identity, then returned to its limited place.",
     "scene": {
       "kind": "persona",
-      "caption": "The useful distance",
+      "caption": "The public role takes its place among the other parts of a life.",
       "lesson": {
         "description": "A useful social role is worn for an encounter, then mistaken for an entire identity, then returned to its limited place.",
         "beats": [
@@ -635,7 +635,7 @@
     "metaphor": "An observer excludes their own need, sees another person setting a boundary, and places the rejected quality onto them.",
     "scene": {
       "kind": "projection",
-      "caption": "A misplaced origin",
+      "caption": "The judgment contains something of me. The other person still has their own reality.",
       "lesson": {
         "description": "An observer excludes their own need, sees another person setting a boundary, and places the rejected quality onto them.",
         "beats": [
@@ -704,7 +704,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 310,
-                "y": 159
+                "y": 159,
+                "facing": true
               },
               {
                 "id": "need",
@@ -761,7 +762,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 310,
-                "y": 159
+                "y": 159,
+                "facing": true
               },
               {
                 "id": "need",
@@ -811,7 +813,8 @@
                 "id": "other",
                 "type": "figure",
                 "x": 310,
-                "y": 159
+                "y": 159,
+                "facing": true
               },
               {
                 "id": "need",
@@ -961,7 +964,7 @@
     "metaphor": "A routine question activates emotionally linked memories, making the current situation feel like an earlier judgment.",
     "scene": {
       "kind": "complex",
-      "caption": "The present touches the past",
+      "caption": "An emotional pattern can briefly organize a person’s whole response.",
       "lesson": {
         "description": "A routine question activates emotionally linked memories, making the current situation feel like an earlier judgment.",
         "beats": [
@@ -973,7 +976,8 @@
                 "id": "person",
                 "type": "figure",
                 "x": 293,
-                "y": 153
+                "y": 153,
+                "facing": true
               },
               {
                 "id": "question",
@@ -1008,7 +1012,8 @@
                 "id": "person",
                 "type": "figure",
                 "x": 293,
-                "y": 153
+                "y": 153,
+                "facing": true
               },
               {
                 "id": "question",
@@ -1074,7 +1079,8 @@
                 "y": 153,
                 "pose": {
                   "rotate": -8
-                }
+                },
+                "facing": true
               },
               {
                 "id": "question",
@@ -1303,7 +1309,7 @@
     "metaphor": "Duty, anger, play, and the conscious position begin separately, then become related without losing their distinct forms.",
     "scene": {
       "kind": "individuation",
-      "caption": "Related, not identical",
+      "caption": "The whole becomes more coherent. Its parts remain different.",
       "lesson": {
         "description": "Duty, anger, play, and the conscious position begin separately, then become related without losing their distinct forms.",
         "beats": [
@@ -1615,29 +1621,82 @@
         ]
       },
       {
-        "description": "A larger organization preserves its different inner contours.",
+        "description": "Different psychic demands need different responses: an impulse may require a limit, while a neglected capacity needs time to develop.",
         "actors": [
           {
-            "id": "whole",
-            "type": "path",
-            "d": "M202 32q116 0 122 95t-122 93Q80 216 77 127t125-95Z",
-            "tone": "faint"
+            "id": "impulse",
+            "type": "group",
+            "x": 110,
+            "y": 112,
+            "children": [
+              {
+                "id": "impulse-shape",
+                "type": "path",
+                "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.8
+            }
           },
           {
-            "id": "a",
+            "id": "limit",
             "type": "path",
-            "d": "M120 88h58v57h-58Z"
+            "d": "M63 63 h94 v100 h-94 Z"
           },
           {
-            "id": "b",
-            "type": "path",
-            "d": "M240 84q-31-3-33 30t32 32 30-31-29-31Z"
+            "id": "impulse-word",
+            "type": "text",
+            "x": 110,
+            "y": 43,
+            "text": "an impulse",
+            "anchor": "middle",
+            "fontSize": 17
           },
           {
-            "id": "join",
+            "id": "limit-word",
+            "type": "text",
+            "x": 110,
+            "y": 212,
+            "text": "consider a limit",
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "capacity",
+            "type": "group",
+            "x": 288,
+            "y": 159,
+            "children": [
+              {
+                "id": "capacity-shape",
+                "type": "path",
+                "d": "M0 25 V-9 C-10 -28 -34 -31 -32 -18 Q-23 -4 0 -9 C8 -25 31 -34 31 -19 Q23 -2 0 -9"
+              }
+            ]
+          },
+          {
+            "id": "water",
             "type": "path",
-            "d": "M178 117h30",
-            "tone": "faint"
+            "d": "M312 81 H340 V106 H312 Z M340 85 Q363 80 356 99 H341 M312 88 L296 79 L291 84 L312 99 M288 103 L285 109 M297 108 L294 115 M302 115 L299 122"
+          },
+          {
+            "id": "capacity-word",
+            "type": "text",
+            "x": 289,
+            "y": 43,
+            "text": "a capacity",
+            "anchor": "middle",
+            "fontSize": 17
+          },
+          {
+            "id": "time-word",
+            "type": "text",
+            "x": 289,
+            "y": 211,
+            "text": "give time to develop",
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -1659,7 +1718,7 @@
     "metaphor": "The conscious I first knows a limited region; dreams and unrecognized patterns reveal a larger field; ego and unconscious belong to the whole.",
     "scene": {
       "kind": "self",
-      "caption": "The center and the whole",
+      "caption": "Jung called the whole—conscious and unconscious together—the Self.",
       "lesson": {
         "description": "The conscious I first knows a limited region; dreams and unrecognized patterns reveal a larger field; ego and unconscious belong to the whole.",
         "beats": [
@@ -2014,7 +2073,7 @@
     "metaphor": "A waking claim of complete independence is contrasted with a dream of distance, then reconsidered as a possible need for connection.",
     "scene": {
       "kind": "dream",
-      "caption": "The night adds a counterweight",
+      "caption": "Compensation invites a fuller view of the waking situation.",
       "lesson": {
         "description": "A waking claim of complete independence is contrasted with a dream of distance, then reconsidered as a possible need for connection.",
         "beats": [
@@ -2068,14 +2127,16 @@
                 "type": "figure",
                 "x": 302,
                 "y": 147,
-                "tone": "faint"
+                "tone": "faint",
+                "facing": true
               },
               {
                 "id": "other-b",
                 "type": "figure",
                 "x": 346,
                 "y": 155,
-                "tone": "faint"
+                "tone": "faint",
+                "facing": true
               },
               {
                 "id": "island",
@@ -2112,7 +2173,8 @@
                 "id": "other-a",
                 "type": "figure",
                 "x": 302,
-                "y": 147
+                "y": 147,
+                "facing": true
               },
               {
                 "id": "shore",
@@ -2150,7 +2212,8 @@
                 "id": "other-a",
                 "type": "figure",
                 "x": 258,
-                "y": 150
+                "y": 150,
+                "facing": true
               },
               {
                 "id": "boundary",
@@ -2195,41 +2258,54 @@
     ],
     "readingArt": [
       {
-        "description": "A conscious account and a dream can give different pictures of one situation.",
+        "description": "A confident waking account of control is accompanied by a dream of missing a train, making vulnerability available for inquiry.",
         "actors": [
           {
-            "id": "day",
+            "id": "calendar",
             "type": "path",
-            "d": "M65 50h108v149H65Z"
+            "d": "M39 53 h127 v143 h-127 Z"
           },
           {
-            "id": "night",
+            "id": "calendar-lines",
             "type": "path",
-            "d": "M226 50h108v149H226Z"
-          },
-          {
-            "id": "warm",
-            "type": "path",
-            "d": "M89 94h61m-62 49h62"
-          },
-          {
-            "id": "wall",
-            "type": "path",
-            "d": "M280 76v96"
+            "d": "M39 87 H166 M52 105 H150 M52 134 H150 M52 163 H150 M52 73 V45 M149 73 V45"
           },
           {
             "id": "a",
             "type": "text",
-            "x": 72,
-            "y": 225,
-            "text": "all is well"
+            "x": 103,
+            "y": 230,
+            "text": "in control",
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "train",
+            "type": "path",
+            "d": "M238 82 H346 Q370 85 373 102 V157 H238 Z M238 139 H373 M255 101 H281 V128 H255 Z M298 101 H326 V128 H298 Z M342 100 H365 V128 H342 Z M258 161 H266 M344 161 H352"
+          },
+          {
+            "id": "dreamer",
+            "type": "figure",
+            "x": 243,
+            "y": 187,
+            "pose": {
+              "scale": 0.5
+            }
+          },
+          {
+            "id": "platform",
+            "type": "path",
+            "d": "M222 213 H375"
           },
           {
             "id": "b",
             "type": "text",
-            "x": 228,
-            "y": 225,
-            "text": "a distance"
+            "x": 296,
+            "y": 234,
+            "text": "a missed train",
+            "anchor": "middle",
+            "fontSize": 17
           }
         ]
       },
@@ -2295,7 +2371,7 @@
     "metaphor": "Closeness and freedom pull a person toward incompatible arrangements; holding both needs allows a relationship with room for each.",
     "scene": {
       "kind": "opposites",
-      "caption": "Neither side disappears",
+      "caption": "Holding both demands can make a different arrangement possible.",
       "lesson": {
         "description": "Closeness and freedom pull a person toward incompatible arrangements; holding both needs allows a relationship with room for each.",
         "beats": [
@@ -2339,7 +2415,8 @@
                 "id": "person",
                 "type": "figure",
                 "x": 254,
-                "y": 148
+                "y": 148,
+                "facing": true
               },
               {
                 "id": "door",
@@ -2393,7 +2470,8 @@
                 "id": "alone",
                 "type": "figure",
                 "x": 297,
-                "y": 148
+                "y": 148,
+                "facing": true
               },
               {
                 "id": "left",
@@ -2439,7 +2517,8 @@
                 "id": "partner",
                 "type": "figure",
                 "x": 281,
-                "y": 149
+                "y": 149,
+                "facing": true
               },
               {
                 "id": "a",
@@ -2561,7 +2640,7 @@
     "metaphor": "A key first works as a sign for a known room; the same image then connects permission, secrecy, and possibility, keeping meaning open.",
     "scene": {
       "kind": "symbol",
-      "caption": "A meaning still opening",
+      "caption": "Its value lies in keeping an unresolved meaning available for thought.",
       "lesson": {
         "description": "A key first works as a sign for a known room; the same image then connects permission, secrecy, and possibility, keeping meaning open.",
         "beats": [
@@ -2844,7 +2923,7 @@
     "metaphor": "Visible choices are supported by a wider psychic life, like a plant whose visible growth depends on roots below the surface.",
     "scene": {
       "kind": "unconscious",
-      "caption": "A visible part of a larger life",
+      "caption": "Attention to patterns can reveal some of that wider life.",
       "lesson": {
         "description": "Visible choices are supported by a wider psychic life, like a plant whose visible growth depends on roots below the surface.",
         "beats": [
@@ -3156,7 +3235,7 @@
     "metaphor": "A conscious viewpoint sees through a limited window; moving the window reveals another part of the field while the viewpoint remains useful.",
     "scene": {
       "kind": "ego",
-      "caption": "One window onto a larger room",
+      "caption": "A conscious center remains useful while its account of the world grows.",
       "lesson": {
         "description": "A conscious viewpoint sees through a limited window; moving the window reveals another part of the field while the viewpoint remains useful.",
         "beats": [
@@ -3398,7 +3477,7 @@
     "metaphor": "A person lets an image develop, questions it, responds consciously, and considers an ordinary action rather than treating the image as an instruction.",
     "scene": {
       "kind": "dialogue",
-      "caption": "Two sides of a conversation",
+      "caption": "The encounter becomes useful when its meaning is considered in lived reality.",
       "lesson": {
         "description": "A person lets an image develop, questions it, responds consciously, and considers an ordinary action rather than treating the image as an instruction.",
         "beats": [

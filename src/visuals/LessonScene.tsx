@@ -11,18 +11,19 @@ function LessonActor({ actor, still }: { actor: Actor; still: boolean }) {
  const pose = actor.pose || {};
  const ink = actor.tone === 'faint' ? .3 : actor.tone === 'shade' ? .6 : 1;
  let shape;
- if (actor.type === 'path') shape = <motion.path initial={still ? false : { pathLength: 0 }} animate={{ d: actor.d, pathLength: 1 }} transition={{ duration: still ? 0 : 1.05, ease: 'easeInOut' }} className={actor.fill ? 'actor-filled' : ''}/>;
- else if (actor.type === 'circle') shape = <motion.circle cx={0} cy={0} animate={{ r: actor.r || 15 }} transition={{ duration }} className={actor.fill ? 'actor-filled' : ''}/>;
- else if (actor.type === 'figure') shape = <Human x={0} y={0} shade={actor.tone === 'shade'}/>;
+ if (actor.type === 'path') shape = <motion.path d={actor.d} initial={still ? false : { pathLength: 0 }} animate={{ d: actor.d, pathLength: 1 }} transition={{ duration: still ? 0 : 1.05, ease: 'easeInOut' }} className={actor.fill ? 'actor-filled' : ''}/>;
+ else if (actor.type === 'circle') shape = <motion.circle cx={0} cy={0} r={actor.r || 15} animate={{ r: actor.r || 15 }} transition={{ duration }} className={actor.fill ? 'actor-filled' : ''}/>;
+ else if (actor.type === 'figure') shape = <Human x={0} y={0} shade={actor.tone === 'shade'} facing={actor.facing}/>;
  else if (actor.type === 'text') shape = <AnimatePresence mode="wait" initial={false}><motion.text key={actor.text} x={0} y={0} textAnchor={actor.anchor || 'start'} className="lesson-label" style={{ fontSize: actor.fontSize || 18 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: still ? 0 : .2 }}>{actor.text}</motion.text></AnimatePresence>;
  else shape = <AnimatePresence initial={false}>{actor.children?.map(child => <LessonActor key={child.id} actor={child} still={still}/>)}</AnimatePresence>;
- return <motion.g initial={still ? false : { x: actor.x || 0, y: actor.y || 0, opacity: 0 }} animate={{ x: actor.x || 0, y: actor.y || 0, rotate: pose.rotate || 0, scale: pose.scale || 1, opacity: ink * (pose.opacity ?? 1) }} exit={{ opacity: 0 }} transition={{ duration, ease: [.22, 1, .36, 1] }} className={`lesson-actor ${actor.dashed ? 'actor-dashed' : ''}`}>{shape}</motion.g>;
+ return <motion.g initial={still ? false : { x: actor.x || 0, y: actor.y || 0, originX: 0, originY: 0, opacity: 0 }} animate={{ x: actor.x || 0, y: actor.y || 0, rotate: pose.rotate || 0, scale: pose.scale || 1, originX: 0, originY: 0, opacity: ink * (pose.opacity ?? 1) }} exit={{ opacity: 0 }} transition={{ duration, ease: [.22, 1, .36, 1] }} style={{ transformBox: 'view-box' }} className={`lesson-actor ${actor.dashed ? 'actor-dashed' : ''}`}>{shape}</motion.g>;
 }
 
 export function LessonScene({ lesson, paused = false }: { lesson: VisualLesson; paused?: boolean }) {
  const reduced = !!useReducedMotion();
  const [beat, setBeat] = useState(0);
  const elapsed = useRef(0);
+ const beatIndex = useRef(0);
  const durations = lesson.beats.map(frame => (frame.duration || 3.2) * 1000);
  const total = durations.reduce((sum, duration) => sum + duration, 0);
  useEffect(() => {
@@ -33,7 +34,7 @@ export function LessonScene({ lesson, paused = false }: { lesson: VisualLesson; 
    if (delta < 1000) elapsed.current = (elapsed.current + delta) % total;
    let remaining = elapsed.current, index = 0;
    while (index < durations.length - 1 && remaining >= durations[index]) { remaining -= durations[index]; index++; }
-   setBeat(current => current === index ? current : index);
+   if (beatIndex.current !== index) { beatIndex.current = index; setBeat(index); }
    raf = requestAnimationFrame(tick);
   }
   raf = requestAnimationFrame(tick);

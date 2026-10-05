@@ -6,7 +6,7 @@ export interface Actor {
  id: string;
  type: 'path' | 'circle' | 'figure' | 'text' | 'group';
  d?: string; x?: number; y?: number; r?: number; text?: string;
- tone?: 'normal' | 'faint' | 'shade'; fill?: boolean; dashed?: boolean;
+ tone?: 'normal' | 'faint' | 'shade'; fill?: boolean; dashed?: boolean; facing?: boolean;
  motion?: ActorMotion; children?: Actor[];
  anchor?: 'start' | 'middle' | 'end'; fontSize?: number;
  pose?: { rotate?: number; scale?: number; opacity?: number };
