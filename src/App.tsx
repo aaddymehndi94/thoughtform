@@ -27,7 +27,7 @@ export default function App(){
    setFlow(selected);setActiveId(selected.some(c=>c.id===id)?id:selected[0].id);setThread(collection);if(close)setPanel(false);window.scrollTo({top:0,behavior:'instant'});
   }catch{setError('The collection could not open. Please try again.');}finally{if(ticket===request.current){setBusy(false);ready.current=true;}}
  }
- useEffect(()=>{void choose(initialId,initial.collection,false);},[]);
+ useEffect(()=>{void choose(initialId,initial.collection,false);function hashChange(){const id=decodeURIComponent(location.hash.slice(1));if(id)void choose(id);}window.addEventListener('hashchange',hashChange);return()=>window.removeEventListener('hashchange',hashChange);},[]);
  function move(direction:number){const next=flow[Math.max(0,Math.min(flow.length-1,index+direction))];if(next.id===card.id)return;setActiveId(next.id);window.scrollTo({top:0,behavior:'instant'});}
  useEffect(()=>{setViewed(v=>v.includes(card.id)?v:[...v,card.id]);},[card.id]);
  useEffect(()=>{if(!ready.current)return;try{localStorage.setItem(KEY,JSON.stringify({current:card.id,bookmarks,viewed,paused,collection:thread}));history.replaceState(null,'',`#${encodeURIComponent(card.id)}`);}catch{}},[card.id,bookmarks,viewed,paused,thread,busy]);

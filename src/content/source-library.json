@@ -95,6 +95,60 @@
     "reference": "“Tragic Optimism”; compare Man’s Search for Meaning, postscript “The Case for a Tragic Optimism”",
     "url": "https://www.franklzentrum.org/english/about-logotherapy.html"
   },
+  "frankl-theory": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy in a Nutshell”: will to meaning, existential frustration, and noogenic neuroses; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-technique-book": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy as a Technique”: hyper-intention, hyper-reflection, and dereflection; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-postscript": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Postscript, “The Case for a Tragic Optimism”: happiness requires a reason; optimism cannot be commanded; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-doctor": {
+    "title": "The Doctor and the Soul",
+    "author": "Viktor E. Frankl",
+    "reference": "Existential analysis of work and the distinction between meaning and outward success; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-dimensions": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of dimensional ontology and criticism of reductionism; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-values-book": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of unique situational meaning, universal values, and value conflicts; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-ultimate": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “The Super-Meaning”; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-attitude": {
+    "title": "The Doctor and the Soul",
+    "author": "Viktor E. Frankl",
+    "reference": "Existential analysis of suffering; attitudinal values where circumstances cannot be changed; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-religion": {
+    "title": "Ten Theses about the Person",
+    "author": "Viktor E. Frankl",
+    "reference": "Thesis 10: religion as an object of logotherapy rather than its standpoint; compare The Unconscious God / Man’s Search for Ultimate Meaning",
+    "url": "https://www.viktorfrankl.org/texts.html"
+  },
   "freud-lectures-1": {
     "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
     "author": "Sigmund Freud",
@@ -152,277 +206,277 @@
   "gm-Preface-6": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "Preface-6",
+    "reference": "Preface, §6; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-I-10": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "I-10",
+    "reference": "First essay, §10; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-I-10-11": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "I-10-11",
+    "reference": "First essay, §§10–11; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-II-16": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "II-16",
+    "reference": "Second essay, §16; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-II-1-2": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "II-1-2",
+    "reference": "Second essay, §§1–2; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-II-1": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "II-1",
+    "reference": "Second essay, §1; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-II-4-21": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "II-4-21",
+    "reference": "Second essay, §§4–21; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-II-12-14": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "II-12-14",
+    "reference": "Second essay, §§12–14; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "gm-III-28": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "III-28",
+    "reference": "Third essay, §28; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "bg-1": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "1",
+    "reference": "§1; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "gm-III-12": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "III-12",
+    "reference": "Third essay, §12; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "bg-6": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "6",
+    "reference": "§6; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "bg-16-17": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "16-17",
+    "reference": "§§16–17; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "bg-19": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "19",
+    "reference": "§19; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "bg-21": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "21",
+    "reference": "§21; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "hh-483": {
     "title": "Human, All Too Human",
     "author": "Friedrich Nietzsche",
-    "reference": "483",
-    "url": "https://www.gutenberg.org/files/38145/38145-h/38145-h.htm"
+    "reference": "Part I, §§483 and 629–637 (convictions and free inquiry); Helen Zimmern translation, 1909.",
+    "url": "https://www.gutenberg.org/files/51935/51935-h/51935-h.htm"
   },
   "gs-344": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "344",
+    "reference": "§344; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "gs-354": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "354",
+    "reference": "§354; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "bg-4": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "4",
+    "reference": "§4; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "gs-290": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "290",
+    "reference": "§290; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "z-II-Self-overcoming": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "II-Self-overcoming",
+    "reference": "Part II, Self-Surpassing / Self-Overcoming; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "z-I-Three-Metamorphoses": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "I-Three-Metamorphoses",
+    "reference": "Part I, The Three Metamorphoses; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "bg-13-36": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "13-36",
+    "reference": "§§13–36; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "bg-188": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "188",
+    "reference": "§188; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "gs-335": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "335",
+    "reference": "§335; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "z-I-The-Friend": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "I-The-Friend",
+    "reference": "Part I, The Friend; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "z-I-Bestowing-Virtue-3": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "I-Bestowing-Virtue-3",
+    "reference": "Part I, The Bestowing Virtue, §3; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "gs-125": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "125",
+    "reference": "§125; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "gs-108-109": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "108-109",
+    "reference": "§§108–109; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "gs-343": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "343",
+    "reference": "§343; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "z-Prologue-5": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "Prologue-5",
+    "reference": "Prologue, §5; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "z-Prologue-3-4": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "Prologue-3-4",
+    "reference": "Prologue, §§3–4; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "z-Prologue-3": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "Prologue-3",
+    "reference": "Prologue, §3; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "gs-341": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "341",
+    "reference": "§341; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "gs-276": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "276",
+    "reference": "§276; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "z-II-Redemption": {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
-    "reference": "II-Redemption",
+    "reference": "Part II, Redemption; Thomas Common translation. Spoken by the fictional Zarathustra.",
     "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
   },
   "bt-1": {
     "title": "The Birth of Tragedy",
     "author": "Friedrich Nietzsche",
-    "reference": "1",
+    "reference": "§1; W. A. Haussmann translation, 1910.",
     "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
   },
   "bt-1-2": {
     "title": "The Birth of Tragedy",
     "author": "Friedrich Nietzsche",
-    "reference": "1-2",
+    "reference": "§§1–2; W. A. Haussmann translation, 1910.",
     "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
   },
   "bt-21-22": {
     "title": "The Birth of Tragedy",
     "author": "Friedrich Nietzsche",
-    "reference": "21-22",
+    "reference": "§§21–22; W. A. Haussmann translation, 1910.",
     "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
   },
   "bt-15": {
     "title": "The Birth of Tragedy",
     "author": "Friedrich Nietzsche",
-    "reference": "15",
+    "reference": "§15; W. A. Haussmann translation, 1910.",
     "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
   },
   "gs-107": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "107",
+    "reference": "§107; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "gs-Preface-3": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "Preface-3",
+    "reference": "Preface, §3; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "gs-382": {
     "title": "The Gay Science",
     "author": "Friedrich Nietzsche",
-    "reference": "382",
+    "reference": "§382; Thomas Common translation, 1910.",
     "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
   },
   "hh-155-162": {
     "title": "Human, All Too Human",
     "author": "Friedrich Nietzsche",
-    "reference": "155-162",
-    "url": "https://www.gutenberg.org/files/38145/38145-h/38145-h.htm"
+    "reference": "Part I, §§155–162; Helen Zimmern translation, 1909.",
+    "url": "https://www.gutenberg.org/files/51935/51935-h/51935-h.htm"
   },
   "gm-Preface-8": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
-    "reference": "Preface-8",
+    "reference": "Preface, §8; Horace B. Samuel translation, 1913.",
     "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
   "bg-40": {
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
-    "reference": "40",
+    "reference": "§40; Helen Zimmern translation.",
     "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   }
 }

@@ -53,7 +53,7 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
     x.set(edge ? dx / (1 + Math.abs(dx) / 32) : dx * .9);
    }}
    onPointerUp={release} onPointerCancel={() => { gesture.current.active = false; settle(); }}
-   aria-label={`${card.title}, thought ${index + 1} of ${total}`} tabIndex={0} aria-describedby="card-interaction-hint" onKeyDown={e => { if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); setExpanded(value => !value); } }}>
+   data-thought-id={card.id} aria-label={`${card.title}, thought ${index + 1} of ${total}`} tabIndex={0} aria-describedby="card-interaction-hint" onKeyDown={e => { if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); setExpanded(value => !value); } }}>
    <div className="card-heading"><span className="eyebrow">{getThinker(card.thinker).name} <span className="middot">/</span> {card.concept}</span><button className={`icon-button bookmark ${saved ? 'saved' : ''}`} aria-label={saved ? 'Remove bookmark' : 'Bookmark this thought'} aria-pressed={saved} onClick={onSave}><Icon name="bookmark" size={18}/></button></div>
    <Illustration kind={card.scene.kind} caption={card.scene.caption} composition={card.scene.composition}/>
    <div className="card-copy"><span className="concept-number">{String(index + 1).padStart(3, '0')} <span>—</span> {card.collection}</span><h1>{card.title}</h1><p className="statement">{card.statement}</p><p className="explanation">{card.explanation}</p>

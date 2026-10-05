@@ -300,6 +300,306 @@
     "depth": 3
   },
   {
+    "id": "frankl-will-to-meaning",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Will to meaning",
+    "title": "More than relief",
+    "tags": [
+      "will to meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-pleasure",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Pleasure as consequence",
+    "title": "The uncommanded result",
+    "tags": [
+      "pleasure as consequence",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-happiness",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "A reason for happiness",
+    "title": "The reason comes first",
+    "tags": [
+      "a reason for happiness",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-success",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Meaning and success",
+    "title": "The two measures",
+    "tags": [
+      "meaning and success",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-self-distance",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Self-distancing",
+    "title": "A space beside the state",
+    "tags": [
+      "self-distancing",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-humour",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Humour and distance",
+    "title": "A changed scale",
+    "tags": [
+      "humour and distance",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-noetic",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "The noetic dimension",
+    "title": "Another kind of question",
+    "tags": [
+      "the noetic dimension",
+      "the person"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-religion",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Spiritual and religious",
+    "title": "Before the paths divide",
+    "tags": [
+      "spiritual and religious",
+      "the person"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-reduction",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Dimensional ontology",
+    "title": "The outline is not the object",
+    "tags": [
+      "dimensional ontology",
+      "the person"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-value-conflict",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conflicting values",
+    "title": "Both claims remain",
+    "tags": [
+      "conflicting values",
+      "responsibility"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-conformity",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conscience and conformity",
+    "title": "The borrowed direction",
+    "tags": [
+      "conscience and conformity",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-discovery",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Meaning as discovery",
+    "title": "The resistant answer",
+    "tags": [
+      "meaning as discovery",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-values",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Values and unique meaning",
+    "title": "Pattern and occasion",
+    "tags": [
+      "values and unique meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-ultimate",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Ultimate meaning",
+    "title": "The larger question",
+    "tags": [
+      "ultimate meaning",
+      "meaning"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-optimism-demand",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "The limits of optimism",
+    "title": "A feeling cannot be ordered",
+    "tags": [
+      "the limits of optimism",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-attitude-emotion",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Attitude and emotion",
+    "title": "Not the same movement",
+    "tags": [
+      "attitude and emotion",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-avoidable",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Preventable suffering",
+    "title": "Change what can change",
+    "tags": [
+      "preventable suffering",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-noogenic",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Noogenic and psychogenic",
+    "title": "Different kinds of difficulty",
+    "tags": [
+      "noogenic and psychogenic",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-dialogue",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Socratic dialogue",
+    "title": "The question that opens",
+    "tags": [
+      "socratic dialogue",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-sunday",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Sunday neurosis",
+    "title": "When the noise stops",
+    "tags": [
+      "sunday neurosis",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-mass-direction",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conformism and totalitarianism",
+    "title": "An answer supplied from outside",
+    "tags": [
+      "conformism and totalitarianism",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-work-role",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Work and vocation",
+    "title": "Beyond the role title",
+    "tags": [
+      "work and vocation",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-unfinished",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "A task in the future",
+    "title": "The unfinished thread",
+    "tags": [
+      "a task in the future",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-past-ledger",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Past and moral judgement",
+    "title": "The archive is not a score",
+    "tags": [
+      "past and moral judgement",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-love-possibility",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Potential and possession",
+    "title": "A possibility is not a plan",
+    "tags": [
+      "potential and possession",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
     "id": "freud-unconscious",
     "thinker": "freud",
     "collection": "Hidden life",
@@ -904,7 +1204,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "genealogy",
-    "title": "UNDER THE VERDICT",
+    "title": "Under the verdict",
     "tags": [
       "inherited values",
       "genealogy"
@@ -916,7 +1216,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "ressentiment",
-    "title": "THE DELAYED REPLY",
+    "title": "The delayed reply",
     "tags": [
       "inherited values",
       "ressentiment"
@@ -928,7 +1228,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "good bad",
-    "title": "TWO KINDS OF GOOD",
+    "title": "Two kinds of good",
     "tags": [
       "inherited values",
       "good-bad"
@@ -940,7 +1240,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "bad conscience",
-    "title": "THE INWARD TURN",
+    "title": "The inward turn",
     "tags": [
       "inherited values",
       "bad-conscience"
@@ -952,7 +1252,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "promise",
-    "title": "ACROSS TIME",
+    "title": "Across time",
     "tags": [
       "inherited values",
       "promise"
@@ -964,7 +1264,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "active forgetting",
-    "title": "MAKING ROOM",
+    "title": "Making room",
     "tags": [
       "inherited values",
       "active-forgetting"
@@ -976,7 +1276,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "guilt debt",
-    "title": "THE UNPAYABLE ACCOUNT",
+    "title": "The unpayable account",
     "tags": [
       "inherited values",
       "guilt-debt"
@@ -988,7 +1288,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "punishment",
-    "title": "THE SAME INSTRUMENT",
+    "title": "The same instrument",
     "tags": [
       "inherited values",
       "punishment"
@@ -1000,7 +1300,7 @@
     "thinker": "nietzsche",
     "collection": "Inherited values",
     "concept": "ascetic meaning",
-    "title": "A REASON FOR PAIN",
+    "title": "A reason for pain",
     "tags": [
       "inherited values",
       "ascetic-meaning"
@@ -1012,7 +1312,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "will truth",
-    "title": "THE QUESTION BEHIND TRUTH",
+    "title": "The question behind truth",
     "tags": [
       "looking again",
       "will-truth"
@@ -1024,7 +1324,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "perspectivism",
-    "title": "FROM SOMEWHERE",
+    "title": "From somewhere",
     "tags": [
       "looking again",
       "perspectivism"
@@ -1036,7 +1336,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "many eyes",
-    "title": "MORE THAN ONE EYE",
+    "title": "More than one eye",
     "tags": [
       "looking again",
       "many-eyes"
@@ -1048,7 +1348,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "philosophy confession",
-    "title": "THE AUTHOR IN THE ARGUMENT",
+    "title": "The author in the argument",
     "tags": [
       "looking again",
       "philosophy-confession"
@@ -1060,7 +1360,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "grammar self",
-    "title": "THE EXTRA DOER",
+    "title": "The extra doer",
     "tags": [
       "looking again",
       "grammar-self"
@@ -1072,7 +1372,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "plural will",
-    "title": "THE COMMAND WITHIN",
+    "title": "The command within",
     "tags": [
       "looking again",
       "plural-will"
@@ -1084,7 +1384,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "free will blame",
-    "title": "THE INVENTED COURT",
+    "title": "The invented court",
     "tags": [
       "looking again",
       "free-will-blame"
@@ -1096,7 +1396,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "convictions",
-    "title": "A CLOSED INTERPRETATION",
+    "title": "A closed interpretation",
     "tags": [
       "looking again",
       "convictions"
@@ -1108,7 +1408,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "science faith",
-    "title": "THE UNEXAMINED VALUE",
+    "title": "The unexamined value",
     "tags": [
       "looking again",
       "science-faith"
@@ -1120,7 +1420,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "consciousness communication",
-    "title": "THE SHAREABLE SELF",
+    "title": "The shareable self",
     "tags": [
       "looking again",
       "consciousness-communication"
@@ -1132,7 +1432,7 @@
     "thinker": "nietzsche",
     "collection": "Looking again",
     "concept": "useful error",
-    "title": "THE SUPPORTING FICTION",
+    "title": "The supporting fiction",
     "tags": [
       "looking again",
       "useful-error"
@@ -1144,7 +1444,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "give style",
-    "title": "A FORM FOR YOUR FORCES",
+    "title": "A form for your forces",
     "tags": [
       "making a life",
       "give-style"
@@ -1156,7 +1456,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "self overcoming",
-    "title": "BEYOND YOUR OWN FORM",
+    "title": "Beyond your own form",
     "tags": [
       "making a life",
       "self-overcoming"
@@ -1168,7 +1468,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "camel",
-    "title": "LEARNING TO BEAR",
+    "title": "Learning to bear",
     "tags": [
       "making a life",
       "camel"
@@ -1180,7 +1480,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "lion",
-    "title": "THE NECESSARY NO",
+    "title": "The necessary no",
     "tags": [
       "making a life",
       "lion"
@@ -1192,7 +1492,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "child",
-    "title": "THE FIRST AFFIRMATION",
+    "title": "The first affirmation",
     "tags": [
       "making a life",
       "child"
@@ -1204,7 +1504,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "will power",
-    "title": "FORMING AND RESISTING",
+    "title": "Forming and resisting",
     "tags": [
       "making a life",
       "will-power"
@@ -1216,7 +1516,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "discipline form",
-    "title": "THE LONG OBEDIENCE",
+    "title": "The long obedience",
     "tags": [
       "making a life",
       "discipline-form"
@@ -1228,7 +1528,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "becoming not knowing",
-    "title": "NO FINISHED BLUEPRINT",
+    "title": "No finished blueprint",
     "tags": [
       "making a life",
       "becoming-not-knowing"
@@ -1240,7 +1540,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "friend resistance",
-    "title": "THE FRIEND WHO RESISTS",
+    "title": "The friend who resists",
     "tags": [
       "making a life",
       "friend-resistance"
@@ -1252,7 +1552,7 @@
     "thinker": "nietzsche",
     "collection": "Making a life",
     "concept": "teacher leaving",
-    "title": "OUTGROWING THE TEACHER",
+    "title": "Outgrowing the teacher",
     "tags": [
       "making a life",
       "teacher-leaving"
@@ -1264,7 +1564,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "death god",
-    "title": "THE MISSING HORIZON",
+    "title": "The missing horizon",
     "tags": [
       "without a guarantee",
       "death-god"
@@ -1276,7 +1576,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "shadows god",
-    "title": "AFTER THE DEPARTURE",
+    "title": "After the departure",
     "tags": [
       "without a guarantee",
       "shadows-god"
@@ -1288,7 +1588,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "nihilism",
-    "title": "WHEN THE MEASURE FAILS",
+    "title": "When the measure fails",
     "tags": [
       "without a guarantee",
       "nihilism"
@@ -1300,7 +1600,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "open sea",
-    "title": "DANGEROUS ROOM",
+    "title": "Dangerous room",
     "tags": [
       "without a guarantee",
       "open-sea"
@@ -1312,7 +1612,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "last man",
-    "title": "NOTHING TO RISK",
+    "title": "Nothing to risk",
     "tags": [
       "without a guarantee",
       "last-man"
@@ -1324,7 +1624,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "overhuman",
-    "title": "A BRIDGE, NOT A FINISH",
+    "title": "A bridge, not a finish",
     "tags": [
       "without a guarantee",
       "overhuman"
@@ -1336,7 +1636,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "faithful earth",
-    "title": "THIS WORLD",
+    "title": "This world",
     "tags": [
       "without a guarantee",
       "faithful-earth"
@@ -1348,7 +1648,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "eternal recurrence",
-    "title": "ALL OF IT, AGAIN",
+    "title": "All of it, again",
     "tags": [
       "without a guarantee",
       "eternal-recurrence"
@@ -1360,7 +1660,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "amor fati",
-    "title": "WANTING WHAT HAS BEEN",
+    "title": "Wanting what has been",
     "tags": [
       "without a guarantee",
       "amor-fati"
@@ -1372,7 +1672,7 @@
     "thinker": "nietzsche",
     "collection": "Without a guarantee",
     "concept": "revenge time",
-    "title": "THE WALL OF WAS",
+    "title": "The wall of was",
     "tags": [
       "without a guarantee",
       "revenge-time"
@@ -1384,7 +1684,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "apollonian",
-    "title": "THE NECESSARY OUTLINE",
+    "title": "The necessary outline",
     "tags": [
       "art and existence",
       "apollonian"
@@ -1396,7 +1696,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "dionysian",
-    "title": "WHEN THE BOUNDARY LOOSENS",
+    "title": "When the boundary loosens",
     "tags": [
       "art and existence",
       "dionysian"
@@ -1408,7 +1708,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "tragedy",
-    "title": "WITHOUT A HAPPY ENDING",
+    "title": "Without a happy ending",
     "tags": [
       "art and existence",
       "tragedy"
@@ -1420,7 +1720,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "theoretical optimism",
-    "title": "THE PROMISE OF EXPLANATION",
+    "title": "The promise of explanation",
     "tags": [
       "art and existence",
       "theoretical-optimism"
@@ -1432,7 +1732,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "artistic distance",
-    "title": "A LITTLE DISTANCE",
+    "title": "A little distance",
     "tags": [
       "art and existence",
       "artistic-distance"
@@ -1444,7 +1744,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "pain knowledge",
-    "title": "WHAT PAIN CANNOT PROVE",
+    "title": "What pain cannot prove",
     "tags": [
       "art and existence",
       "pain-knowledge"
@@ -1456,7 +1756,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "great health",
-    "title": "HEALTH THAT CAN CHANGE",
+    "title": "Health that can change",
     "tags": [
       "art and existence",
       "great-health"
@@ -1468,7 +1768,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "genius work",
-    "title": "THE INVISIBLE ATTEMPTS",
+    "title": "The invisible attempts",
     "tags": [
       "art and existence",
       "genius-work"
@@ -1480,7 +1780,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "slow reading",
-    "title": "THE TEMPO OF A THOUGHT",
+    "title": "The tempo of a thought",
     "tags": [
       "art and existence",
       "slow-reading"
@@ -1492,7 +1792,7 @@
     "thinker": "nietzsche",
     "collection": "Art and existence",
     "concept": "mask depth",
-    "title": "THE PROTECTIVE SURFACE",
+    "title": "The protective surface",
     "tags": [
       "art and existence",
       "mask-depth"
