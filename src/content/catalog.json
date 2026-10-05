@@ -1200,6 +1200,126 @@
     "depth": 3
   },
   {
+    "id": "jung-transcendent-function",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Transcendent function",
+    "title": "A third possibility",
+    "tags": [
+      "holding the tension",
+      "transcendent function"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-enantiodromia",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Enantiodromia",
+    "title": "The return swing",
+    "tags": [
+      "holding the tension",
+      "enantiodromia"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-inflation",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Psychic inflation",
+    "title": "Larger than the person",
+    "tags": [
+      "holding the tension",
+      "psychic inflation"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-two-readings",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Reductive and constructive reading",
+    "title": "Where from, toward what?",
+    "tags": [
+      "reading images",
+      "reductive and constructive reading"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-psychic-energy",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Psychic energy",
+    "title": "Where the force goes",
+    "tags": [
+      "changing direction",
+      "psychic energy"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-progression",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Progression",
+    "title": "Meeting the present",
+    "tags": [
+      "changing direction",
+      "progression"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-regression",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Regression",
+    "title": "The backward movement",
+    "tags": [
+      "changing direction",
+      "regression"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-individuation-society",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Individuation and society",
+    "title": "A person among people",
+    "tags": [
+      "becoming a person",
+      "individuation and society"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-midlife",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "The stages of life",
+    "title": "When the aim changes",
+    "tags": [
+      "becoming a person",
+      "the stages of life"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-archetypal-image",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Archetype and archetypal image",
+    "title": "The pattern and the image",
+    "tags": [
+      "reading images",
+      "archetype and archetypal image"
+    ],
+    "depth": 3
+  },
+  {
     "id": "jung-shadow-exclusion",
     "thinker": "jung",
     "collection": "The selves we show",

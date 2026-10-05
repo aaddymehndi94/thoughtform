@@ -16,10 +16,10 @@ export const thinkers: Thinker[] = [
 ];
 export type IndexEntry = Pick<Thought,'id'|'thinker'|'collection'|'concept'|'title'|'tags'|'depth'>;
 export const indexEntries: IndexEntry[] = [...opening.map(({id,thinker,collection,concept,title,tags,depth})=>({id,thinker,collection,concept,title,tags,depth})),...entries] as IndexEntry[];
-const loaders = import.meta.glob<Thought[]>(['./library/jung.json','./library/nietzsche.json','./library/freud.json','./library/frankl.json'],{import:'default'});
+const loaders = import.meta.glob<Thought[]>(['./library/jung.json','./library/jung-advanced.json','./library/nietzsche.json','./library/freud.json','./library/frankl.json'],{import:'default'});
 const cache = new Map<string,Promise<Thought[]>>();
 export function loadThinker(id: string): Promise<Thought[]> {
- if(!cache.has(id))cache.set(id,(async()=>{const load=loaders[`./library/${id}.json`];const additional=load?await load():[];return id==='jung'?[...opening,...additional]:additional;})());
+ if(!cache.has(id))cache.set(id,(async()=>{const load=loaders[`./library/${id}.json`];const additional=load?await load():[];const advanced=id==='jung'&&loaders['./library/jung-advanced.json']?await loaders['./library/jung-advanced.json']():[];return id==='jung'?[...opening,...additional,...advanced]:additional;})());
  return cache.get(id)!;
 }
 export function getThinker(id:string){return thinkers.find(t=>t.id===id)||thinkers[0];}
