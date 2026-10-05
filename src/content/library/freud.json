@@ -5485,7 +5485,7 @@
     "title": "Before the edit",
     "statement": "The thought you dismiss may be part of the material.",
     "explanation": "Freud's basic analytic rule asks the person to report what comes to mind without selecting only what seems relevant or respectable. The interruptions and objections are themselves part of what analysis investigates.",
-    "nuance": "An apparently unrelated memory may be excluded because it seems silly, embarrassing or too ordinary. Reporting it can expose a connection that a polished account would conceal. Free association means relaxing selection in a particular analytic setting; it does not mean that speech has no context or constraints.\n\nNor does every association establish a hidden cause. Freud's method follows the person's route through thoughts, while the interpretation of that route remains a separate claim.",
+    "nuance": "An apparently unrelated memory may be excluded because it seems silly, embarrassing or too ordinary. Reporting it can expose a connection that a polished account would conceal. Free association means relaxing selection in a particular analytic setting; it does not mean that speech has no context or constraints. The rule changes what counts as worth reporting. The person need not first prove that a thought is connected with the problem under discussion. Freud gives attention to the apparently disconnected material and to the impulse to exclude it, while interpretation supplies a further argument about significance.\n\nNor does every association establish a hidden cause. Freud's method follows the person's route through thoughts, while the interpretation of that route remains a separate claim.\n\nSuppose a memory of a trivial meal interrupts an account of a quarrel. A selected narrative might discard the meal because it does not fit the subject. Free association allows the detail to enter, after which its possible relations can be explored. It might concern a person, a phrase, an atmosphere or nothing clearly helpful. The method's openness should not be confused with an instruction that every detail must have a dramatic secret. The thread drawing leaves room for unanticipated connections without pretending the route ends in a guaranteed revelation. Freud's procedure attempts to loosen prior selection; it does not remove the need to evaluate the account eventually made from the material.",
     "sources": [
       "freud-lectures-6"
     ],
@@ -5562,6 +5562,102 @@
     "related": [
       "freud-three-masters",
       "freud-transference"
+    ],
+    "readingArt": [
+      {
+        "description": "a detail / uncensored report / connections explored",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a detail",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "uncensored report",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "connections explored",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "a dismissed thought / possible relation / uncertain significance",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a dismissed thought",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "possible relation",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "uncertain significance",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -5572,7 +5668,7 @@
     "title": "The earlier relation",
     "statement": "The present person can become the place where an old expectation returns.",
     "explanation": "Freud called the transfer of feelings and relational expectations onto the analyst transference. The current encounter acquires force from patterns that also belong to earlier attachments.",
-    "nuance": "A neutral pause might feel like a familiar withdrawal of affection. The feeling is happening now, but Freud asks whether its intensity and structure also draw on an earlier relationship.\n\nThat does not mean the analyst is irrelevant or incapable of causing harm. Present conduct still matters. Transference concerns how current experience is organized through earlier patterns, not a rule that the client's perception is always mistaken and the professional is always innocent.",
+    "nuance": "A neutral pause might feel like a familiar withdrawal of affection. The feeling is happening now, but Freud asks whether its intensity and structure also draw on an earlier relationship. The old pattern can shape what is noticed, what is expected and how a gesture feels. It need not reproduce an earlier event in every detail. Freud's account concerns a relation that takes on new force in the present, while the present person remains a real participant in that encounter.\n\nThat does not mean the analyst is irrelevant or incapable of causing harm. Present conduct still matters. Transference concerns how current experience is organized through earlier patterns, not a rule that the client's perception is always mistaken and the professional is always innocent.\n\nImagine interpreting a delayed response as certain abandonment before learning why it was delayed. The expectation might bear an earlier history, while the actual delay still has circumstances of its own. The overlay drawing keeps the two figures distinct rather than replacing the present person with a ghost. That distinction prevents transference from becoming a device for explaining away all current experience. In analysis, the relation becomes material because it is happening between the people doing the work. What repeats can then be investigated with attention both to its history and to what the analyst is actually contributing to its present form.",
     "sources": [
       "freud-lectures-6"
     ],
@@ -5650,6 +5746,101 @@
     "related": [
       "freud-free-association",
       "freud-transference-resistance"
+    ],
+    "readingArt": [
+      {
+        "description": "earlier expectation / present encounter / a relation returns",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "earlier expectation",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "present encounter",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a relation returns",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "description": "the historical pattern / current conduct / both require attention",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the historical pattern",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "current conduct",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "both require attention",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -5660,7 +5851,7 @@
     "title": "The relation becomes the obstacle",
     "statement": "What makes the work possible can also interrupt it.",
     "explanation": "Freud found transference both useful to treatment and capable of becoming resistance. Strong attachment or hostility toward the analyst can redirect attention from the conflict being explored.",
-    "nuance": "The wish to please the analyst might produce a story that sounds agreeable but omits difficult material. Hostility might make every suggestion feel like domination. Freud treats both as material for understanding the relation.\n\nThe distinction is between using the relationship to observe a pattern and satisfying the pattern in ways that preserve it. An analyst's influence is part of the situation and must also be examined; authority alone cannot establish that an interpretation is correct.",
+    "nuance": "The wish to please the analyst might produce a story that sounds agreeable but omits difficult material. Hostility might make every suggestion feel like domination. Freud treats both as material for understanding the relation. The same attachment can support speaking and create a pressure to conceal. Freud thus treats transference through its function at a particular point in the work, rather than assigning it one meaning. The relation's intensity is not enough to show whether it is helping inquiry or obstructing it.\n\nThe distinction is between using the relationship to observe a pattern and satisfying the pattern in ways that preserve it. An analyst's influence is part of the situation and must also be examined; authority alone cannot establish that an interpretation is correct.\n\nConsider a person who reports only the feelings they believe the analyst will welcome. Warmth in the relation may increase attendance while narrowing what can be said. Alternatively, a familiar expectation of criticism can make the analyst's questions feel intolerable. Freud would investigate how those reactions relate to the ongoing material and earlier attachments. The two-way drawing shows that the relation is a channel whose form matters, not an external container for a preexisting explanation. Examining that channel should include the listener's behavior and authority. Otherwise the concept can become a way to label unwanted responses while leaving the analyst's contribution beyond criticism.",
     "sources": [
       "freud-lectures-6"
     ],
@@ -5735,6 +5926,98 @@
     "related": [
       "freud-transference",
       "freud-suggestion-analysis"
+    ],
+    "readingArt": [
+      {
+        "description": "one attachment / supports speaking / shapes concealment",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one attachment",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "supports speaking",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "shapes concealment",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "description": "the speaker / the listener / the channel becomes material",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the speaker",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the listener",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the channel becomes material",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      }
     ]
   },
   {
@@ -5745,7 +6028,7 @@
     "title": "Beyond agreement",
     "statement": "Believing the explanation is not the whole work.",
     "explanation": "Freud distinguished analytic work from a treatment that relies chiefly on the clinician's persuasive authority. He wanted the transference supporting that authority to become an object of examination itself.",
-    "nuance": "Someone may accept an explanation because they trust the speaker. That agreement can ease distress without establishing that the explanation is true or resolving the conflict it describes. Freud sought change through work on resistance and transference.\n\nHe did not claim that analysis contains no suggestion. Instead, he argued that its use and eventual examination differ from leaving the relationship of influence intact. This is his account of the distinction, not independent evidence that his technique always achieved it.",
+    "nuance": "Someone may accept an explanation because they trust the speaker. That agreement can ease distress without establishing that the explanation is true or resolving the conflict it describes. Freud sought change through work on resistance and transference. An explanation accepted through influence and an explanation worked through in relation to resistance can produce different kinds of change. Freud presents this as a distinction in technique and aim. It does not follow that every analytic interpretation is therefore free of persuasion or protected from error.\n\nHe did not claim that analysis contains no suggestion. Instead, he argued that its use and eventual examination differ from leaving the relationship of influence intact. This is his account of the distinction, not independent evidence that his technique always achieved it.\n\nThe listener's authority is part of the diagram rather than an invisible guarantee behind it. A person can feel better because a trusted voice gives a reassuring account, even if the account is incomplete. Freud seeks to make the dependence on that voice available for examination, so the result is not maintained solely through the relationship of belief. The distinction has an obvious difficulty: analysis still uses a relationship, interpretations and expectations. Its claim to go beyond suggestion must therefore be assessed through what the process does with those conditions, not just by the label given to the method. Freud acknowledges suggestion while arguing for a different handling of it.",
     "sources": [
       "freud-lectures-6"
     ],
@@ -5820,6 +6103,101 @@
     "related": [
       "freud-transference-resistance",
       "freud-interpretation"
+    ],
+    "readingArt": [
+      {
+        "description": "trust in a person / belief in an account / influence participates",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "trust in a person",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "belief in an account",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "influence participates",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "description": "agreement through trust / work on the relation / the mechanisms can overlap",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "agreement through trust",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "work on the relation",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the mechanisms can overlap",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -5830,7 +6208,7 @@
     "title": "A connection, offered",
     "statement": "An interpretation should connect material, not merely sound revealing.",
     "explanation": "In Freud's method, an interpretation proposes a relation among associations, symptoms, wishes and defenses. It is an account of how the material might fit together, rather than a dramatic hidden label.",
-    "nuance": "Calling an angry response a fear of abandonment supplies an interpretation, but the phrase alone does no explanatory work. The relevant question is how that claim connects with this person's history and associations.\n\nFreud also recognized that telling someone an explanation did not remove the resistance surrounding it. The person can understand the words while remaining unable to approach the conflict. Interpretation and the process of change are therefore related but not identical.",
+    "nuance": "Calling an angry response a fear of abandonment supplies an interpretation, but the phrase alone does no explanatory work. The relevant question is how that claim connects with this person's history and associations. An interpretation can be intelligible before it is emotionally available. Freud distinguishes the communication of an idea from the work of approaching the conflict that idea describes. This is one reason an explanation should not be judged solely by the person's immediate agreement or disagreement.\n\nFreud also recognized that telling someone an explanation did not remove the resistance surrounding it. The person can understand the words while remaining unable to approach the conflict. Interpretation and the process of change are therefore related but not identical.\n\nImagine being told that a repeated avoidance protects a wish for approval. The sentence can make sense and still leave the person unable to disagree with someone important. Freud asks how the pattern is encountered in the work, including when resistance returns. The connecting seams in the drawing are offered relations rather than final seals. An account should connect with material, preserve its uncertainties and remain open to revision. Disagreement can concern timing, evidence or the explanation itself, not simply a refusal to accept the truth. Interpretation becomes more useful when it clarifies a relation that can be examined than when it wins by sounding definitive.",
     "sources": [
       "freud-lectures-6"
     ],
@@ -5918,6 +6296,105 @@
     "related": [
       "freud-suggestion-analysis",
       "freud-even-attention"
+    ],
+    "readingArt": [
+      {
+        "description": "reported material / offered connection / an account can be revised",
+        "actors": [
+          {
+            "id": "box",
+            "type": "path",
+            "d": "M92 72 L93 183 L310 181 L311 72 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "fragment1",
+            "type": "path",
+            "d": "M115 94 L165 98 L159 138 L110 134 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "fragment2",
+            "type": "path",
+            "d": "M209 91 L286 98 L281 147 L219 139 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "seam",
+            "type": "path",
+            "d": "M157 134 Q190 166 219 137",
+            "tone": "faint"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "reported material",
+            "x": 133,
+            "y": 55
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "offered connection",
+            "x": 259,
+            "y": 55
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "an account can be revised",
+            "x": 198,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "description": "understanding words / approaching the conflict / different parts of the work",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "understanding words",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "approaching the conflict",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "different parts of the work",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -5928,7 +6405,7 @@
     "title": "Listen without a destination",
     "statement": "If you listen only for your theory, you may hear only your theory.",
     "explanation": "Freud recommended evenly suspended attention: the analyst should avoid selecting details solely through prior expectations. Material that seems insignificant now may become meaningful through something said later.",
-    "nuance": "A listener convinced that every difficulty concerns a parent can overlook a present conflict about work. Freud's rule attempts to counter that premature selection. It pairs the person's free association with a receptive way of hearing it.\n\nThe recommendation is not literal absence of thought. It is restraint about deciding too early what matters. Freud offered it from his own practice and acknowledged that another clinician's temperament might call for a different technical attitude.",
+    "nuance": "A listener convinced that every difficulty concerns a parent can overlook a present conflict about work. Freud's rule attempts to counter that premature selection. It pairs the person's free association with a receptive way of hearing it. Freud's concern is that selection based on an early expectation can manufacture confirmation. The listener sharpens one detail and loses another before either has been placed in a fuller context. Restraint is therefore an attempt to preserve possibilities for later connections, not a mystical access to hidden truth.\n\nThe recommendation is not literal absence of thought. It is restraint about deciding too early what matters. Freud offered it from his own practice and acknowledged that another clinician's temperament might call for a different technical attitude.\n\nSuppose a person's remarks about money are repeatedly heard only as remarks about parental control. Other connections, such as a present insecure job, may never receive equal consideration. Even attention asks the listener not to make that selection prematurely. The converging lines remain available before the central account takes form. The recommendation also reveals a limit of interpretation: an expert can collect only the evidence favored by their starting picture and then be impressed by its consistency. Freud's rule tries to reduce that hazard, while his theory itself still shapes what the listener expects. The useful lesson is disciplined openness, together with scrutiny of how an account was assembled.",
     "sources": [
       "freud-technique-7"
     ],
@@ -6019,6 +6496,102 @@
     "related": [
       "freud-interpretation",
       "freud-analyst-blind-spots"
+    ],
+    "readingArt": [
+      {
+        "description": "several details / no early favorite / significance can arrive later",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "several details",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "no early favorite",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "significance can arrive later",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "description": "one expectation / selected evidence / what was overlooked",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one expectation",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "selected evidence",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "what was overlooked",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -6029,7 +6602,7 @@
     "title": "The listener also has a history",
     "statement": "The person interpreting is not outside the human problem.",
     "explanation": "Freud argued that an analyst's unresolved conflicts can distort what they hear. He supported personal analysis for practitioners so their own blind spots would not silently become explanations of someone else.",
-    "nuance": "A listener who cannot tolerate anger may repeatedly translate a person's anger into something more acceptable. The resulting account could describe the listener's difficulty more than the speaker's experience.\n\nFreud's warning limits the fantasy of a perfectly objective interpreter. Training is not a guarantee of freedom from bias. The analyst's responses and assumptions are part of the encounter, and the power to interpret makes that responsibility greater rather than smaller.",
+    "nuance": "A listener who cannot tolerate anger may repeatedly translate a person's anger into something more acceptable. The resulting account could describe the listener's difficulty more than the speaker's experience. A clinician's difficulty can appear as certainty about what another person must mean. Freud therefore treats self-knowledge as part of technical responsibility. A blind spot can affect what becomes audible, not just the explanation eventually supplied after the person has finished speaking.\n\nFreud's warning limits the fantasy of a perfectly objective interpreter. Training is not a guarantee of freedom from bias. The analyst's responses and assumptions are part of the encounter, and the power to interpret makes that responsibility greater rather than smaller.\n\nPicture a listener who readily hears dependency but cannot hear justified anger. The reported anger may be translated into a need for reassurance before its circumstances are considered. The resulting account could be coherent because inconvenient material was excluded at the outset. Freud's warning about the analyst's own conflicts addresses this kind of distortion, even though analysis of the practitioner does not guarantee its removal. The paired figures make the asymmetry visible: the listener has interpretive power and also a personal history. Attending to that history is a limitation on authority, not an additional credential that makes every interpretation automatically trustworthy.",
     "sources": [
       "freud-technique-7"
     ],
@@ -6107,6 +6680,98 @@
     "related": [
       "freud-even-attention",
       "freud-therapeutic-ambition"
+    ],
+    "readingArt": [
+      {
+        "description": "the speaker's history / the listener's history / both enter the encounter",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the speaker's history",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the listener's history",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "both enter the encounter",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "description": "reported anger / what is heard / what is translated away",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "reported anger",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "what is heard",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "what is translated away",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -6117,7 +6782,7 @@
     "title": "The wish to make a masterpiece",
     "statement": "Helping someone does not mean designing the person they must become.",
     "explanation": "Freud warned analysts against imposing ambitious ideals on the person in treatment. The analyst's desire for an impressive result can conflict with what the person can realistically live and enjoy.",
-    "nuance": "A clinician might prize intellectual achievement while the person chiefly wants less fear in ordinary relationships. Freud cautions that elevating every wish into a supposedly higher aim can make life harder.\n\nThis is a limit on the interpreter's ambition, not a rejection of learning or aspiration. The question is whose ideal directs the work. An account of another person's life becomes coercive when their possibilities are measured only against the helper's preferred image.",
+    "nuance": "A clinician might prize intellectual achievement while the person chiefly wants less fear in ordinary relationships. Freud cautions that elevating every wish into a supposedly higher aim can make life harder. The desire to prove the method can also narrow the listener's attention. An impressive outcome may become more important than the person's available possibilities. Freud places a limit on that ambition by distinguishing help from the attempt to make someone exemplify the helper's preferred ideal.\n\nThis is a limit on the interpreter's ambition, not a rejection of learning or aspiration. The question is whose ideal directs the work. An account of another person's life becomes coercive when their possibilities are measured only against the helper's preferred image.\n\nSuppose ordinary pleasure and workable relationships are treated as too modest, and the person is continually pushed toward an exceptional achievement. The proposed improvement can reproduce the harsh demands that already make life difficult. Freud cautions against indiscriminately demanding sublimation or assigning elevated aims. The measuring line in the illustration belongs to the helper's ideal, which is why it must become visible as part of the relation. Respecting the person requires more than selecting a supposedly noble goal for them. It involves asking what their capacities, conflicts and circumstances allow, while resisting the urge to turn a life into evidence of the interpreter's success.",
     "sources": [
       "freud-technique-7"
     ],
@@ -6189,6 +6854,94 @@
     "related": [
       "freud-analyst-blind-spots",
       "freud-remembering-repeating"
+    ],
+    "readingArt": [
+      {
+        "description": "the helper's ideal / the person's life / whose standard governs?",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 168,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "rule",
+            "type": "path",
+            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the helper's ideal",
+            "x": 180,
+            "y": 42
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the person's life",
+            "x": 266,
+            "y": 160
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "whose standard governs?",
+            "x": 187,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "available enjoyment / impressive achievement / help need not make a monument",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "available enjoyment",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "impressive achievement",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "help need not make a monument",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -6199,7 +6952,7 @@
     "title": "The past in the present tense",
     "statement": "What cannot yet be remembered may be repeated in the relation.",
     "explanation": "Freud described people as sometimes enacting old patterns during analysis rather than reporting them as memories. The analyst encounters the pattern in how the person relates, not only in a story about earlier events.",
-    "nuance": "Someone unable to describe mistrust of authority may repeatedly expect the analyst to deceive them. Freud treats this as a possible repetition that can become available for examination.\n\nRepetition does not give a direct photograph of the past. The present relationship has its own circumstances and the earlier pattern may be transformed. The important change is from being wholly caught in an expectation to being able to recognize and discuss how it operates.",
+    "nuance": "Someone unable to describe mistrust of authority may repeatedly expect the analyst to deceive them. Freud treats this as a possible repetition that can become available for examination. Repetition can occur in the relation to the analyst and in choices outside it. Freud emphasizes that it need not be recognized as repetition by the person living it. That lack of recognition is what makes observing the present pattern different from requesting an accurate story about its earlier source.\n\nRepetition does not give a direct photograph of the past. The present relationship has its own circumstances and the earlier pattern may be transformed. The important change is from being wholly caught in an expectation to being able to recognize and discuss how it operates.\n\nSuppose someone expects every new listener eventually to humiliate them and begins testing the analyst for signs of contempt. The expectation is enacted through the encounter before it becomes a topic the two can discuss. Freud's account concerns this change in form: an earlier relation appears as a present demand or anticipation, rather than only as a narrated recollection. The loop retains its repeated course while an outward line marks the possibility of examination. That line is not an instant cure. Identifying the pattern can create a different relation to it, while work on its persistence remains necessary. The present circumstances still help determine how the pattern unfolds.",
     "sources": [
       "freud-working-8"
     ],
@@ -6282,6 +7035,96 @@
     "related": [
       "freud-therapeutic-ambition",
       "freud-working-through"
+    ],
+    "readingArt": [
+      {
+        "description": "an earlier pattern / a present enactment / not yet recognized as repetition",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M128 72 Q223 31 281 95 Q322 163 246 192 Q154 220 113 147 Q84 100 128 72",
+            "tone": "normal"
+          },
+          {
+            "id": "arrow",
+            "type": "path",
+            "d": "M119 74 L130 71 L127 86",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an earlier pattern",
+            "x": 200,
+            "y": 109
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a present enactment",
+            "x": 199,
+            "y": 137
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "not yet recognized as repetition",
+            "x": 209,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "description": "enactment / recognition / continued examination",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "enactment",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "recognition",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "continued examination",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      }
     ]
   },
   {
@@ -6292,7 +7135,7 @@
     "title": "After the recognition",
     "statement": "Naming the pattern does not end its return.",
     "explanation": "Freud called working-through the prolonged engagement with resistance after it has been recognized. An interpretation may begin the work rather than complete it in a moment of insight.",
-    "nuance": "A person can understand their fear of disagreement and still retreat each time disagreement occurs. In Freud's account, the repeated return of the difficulty creates occasions to encounter it differently, rather than proving that understanding was worthless.\n\nWorking-through is not simply repeating an explanation until the person agrees. It concerns the lived resistance to approaching the conflict. Freud emphasizes time and continued work, resisting the promise that one revelatory sentence should immediately reorganize a life.",
+    "nuance": "A person can understand their fear of disagreement and still retreat each time disagreement occurs. In Freud's account, the repeated return of the difficulty creates occasions to encounter it differently, rather than proving that understanding was worthless. The return of resistance matters because it reveals where an intellectual understanding still has limited access. Freud distinguishes knowing the explanation from encountering the force that keeps the pattern in place. The continued work involves that force, rather than collecting ever more impressive interpretations.\n\nWorking-through is not simply repeating an explanation until the person agrees. It concerns the lived resistance to approaching the conflict. Freud emphasizes time and continued work, resisting the promise that one revelatory sentence should immediately reorganize a life.\n\nConsider understanding that seeking perfect approval prevents honest disagreement. In a later encounter, the need for approval may reappear before the understanding can affect the response. That moment supplies material for further work, not just a reason to repeat the original sentence more loudly. Freud's account assigns time to the process because resistance is not merely a gap in information. The loop with an emerging exit illustrates repeated contact and a slowly changing relation. The explanation should also be allowed to change if it fails to fit what returns. Working-through cannot be used to protect an incorrect interpretation by treating the person's inability to improve as proof that it was correct.",
     "sources": [
       "freud-working-8"
     ],
@@ -6375,6 +7218,96 @@
     "related": [
       "freud-remembering-repeating",
       "freud-pleasure-principle"
+    ],
+    "readingArt": [
+      {
+        "description": "the known pattern / its return / knowledge does not remove force",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M128 72 Q223 31 281 95 Q322 163 246 192 Q154 220 113 147 Q84 100 128 72",
+            "tone": "normal"
+          },
+          {
+            "id": "arrow",
+            "type": "path",
+            "d": "M119 74 L130 71 L127 86",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the known pattern",
+            "x": 200,
+            "y": 109
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "its return",
+            "x": 199,
+            "y": 137
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "knowledge does not remove force",
+            "x": 209,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "description": "recognition / renewed resistance / work over time",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "recognition",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "renewed resistance",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "work over time",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      }
     ]
   },
   {
