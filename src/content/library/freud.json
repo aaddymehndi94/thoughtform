@@ -7,7 +7,7 @@
     "title": "Beyond awareness",
     "statement": "A thought can influence you before you know it is there.",
     "explanation": "Freud distinguished mental life from conscious awareness. In his theory, wishes, memories and conflicts can shape actions without entering the account a person gives of them.",
-    "nuance": "Imagine sincerely believing a meeting is unimportant, then repeatedly forgetting it. Freud would ask whether another intention is competing with the stated one. That is a question about possible conflict, not proof that every lapse reveals a secret. His unconscious is a theoretical account of mental processes, not a second little person hidden inside the skull.",
+    "nuance": "Imagine sincerely believing a meeting is unimportant, then repeatedly forgetting it. Freud would ask whether another intention is competing with the stated one. There is an important difference between not noticing a process and actively excluding a thought. Freud's account includes both, but repression gives the second a particular role. Ordinary habits can occur outside attention without carrying the same conflict as an unacceptable wish.\n\nThat is a question about possible conflict, not proof that every lapse reveals a secret. His unconscious is a theoretical account of mental processes, not a second little person hidden inside the skull.\n\nThe drawing separates visibility from influence. Nothing beneath the floor needs to be a hidden complete self; a relation can remain unobserved while changing what happens above. In Freud's clinical reasoning, associations and repeated patterns provide the material for an inference about that influence. The inference is not the same as direct observation. This distinction matters whenever an explanation feels revealing: a person can find it illuminating and still ask whether the proposed connection has enough support. Freud changes the question from whether the person knows their reason to how a reason could operate beyond the reason they can report.",
     "sources": [
       "freud-lectures-1"
     ],
@@ -75,7 +75,7 @@
       "hidden life",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-hidden-life",
       "order": 1
@@ -83,6 +83,97 @@
     "related": [
       "freud-theory-in-revision",
       "freud-repression"
+    ],
+    "readingArt": [
+      {
+        "description": "mental life / noticed / not all is noticed",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
+            "tone": "normal"
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M122 112 Q194 125 277 111",
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "mental life",
+            "x": 202,
+            "y": 45
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "noticed",
+            "x": 210,
+            "y": 97
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "not all is noticed",
+            "x": 203,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "description": "one lapse / ordinary distraction / possible conflict",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one lapse",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "ordinary distraction",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "possible conflict",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -93,7 +184,7 @@
     "title": "The closed door",
     "statement": "Keeping something out of awareness does not remove its pressure.",
     "explanation": "Freud called repression the exclusion of an unacceptable mental representative from consciousness. The excluded material remains active in his model, finding indirect expression through symptoms or dreams.",
-    "nuance": "Repression differs from deciding to put a worry aside: deliberate suppression is conscious. In Freud's account, the person may not know what is being avoided or how. A symptom can be a costly detour around a conflict, rather than a message with one easy translation. Repressed material is not necessarily an accurate record of a forgotten event.",
+    "nuance": "Repression differs from deciding to put a worry aside: deliberate suppression is conscious. In Freud's account, the person may not know what is being avoided or how. For Freud, the excluded element is generally a mental representative associated with a drive or wish, rather than the drive being removed altogether. The pressure can persist while its meaning is unavailable. This makes repression an account of separation within mental life, not a successful deletion.\n\nA symptom can be a costly detour around a conflict, rather than a message with one easy translation. Repressed material is not necessarily an accurate record of a forgotten event.\n\nThe door metaphor shows the resulting asymmetry. What is excluded does not have the same access to speech, but the activity continues to seek an expression. A detour can look irrational because it answers a conflict the person's conscious account does not include. Freud connects the symptom with that compromise, while acknowledging that its associations can have several determinants. A reader should keep the levels separate: there is the visible symptom, the inferred defensive process and the particular interpretation of what is defended against. Understanding the concept does not establish any one interpretation.",
     "sources": [
       "freud-lectures-1"
     ],
@@ -159,7 +250,7 @@
       "hidden life",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-hidden-life",
       "order": 2
@@ -167,6 +258,107 @@
     "related": [
       "freud-unconscious",
       "freud-slips"
+    ],
+    "readingArt": [
+      {
+        "description": "excluded thought / indirect expression / exclusion changes the route",
+        "actors": [
+          {
+            "id": "border",
+            "type": "path",
+            "d": "M195 42 L195 97 M195 145 L195 203",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M195 98 L216 122 L195 145",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "circle",
+            "x": 113,
+            "y": 123,
+            "r": 16,
+            "tone": "normal"
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "excluded thought",
+            "x": 109,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "indirect expression",
+            "x": 279,
+            "y": 78
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "exclusion changes the route",
+            "x": 205,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "suppression: known / repression: inferred / two relations to awareness",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "suppression: known",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "repression: inferred",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "two relations to awareness",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -177,7 +369,7 @@
     "title": "Two intentions",
     "statement": "Sometimes the sentence takes the turn you did not plan.",
     "explanation": "Freud treated certain slips of speech as collisions between intentions. A competing thought can distort the intended sentence rather than replacing it with a perfectly candid confession.",
-    "nuance": "If a host accidentally says a gathering is closed while opening it, Freud asks whether reluctance has entered the greeting. Fatigue and ordinary language errors remain possible explanations. A slip is neither a lie detector nor a reliable window into someone's deepest desires. Its significance, in his method, depends on associations and the surrounding situation.",
+    "nuance": "If a host accidentally says a gathering is closed while opening it, Freud asks whether reluctance has entered the greeting. Fatigue and ordinary language errors remain possible explanations. An unintended expression can combine the intended statement with an interfering tendency. That is why Freud does not need the error to be an entirely truthful substitute sentence. The wrong words may bear a relation to the conflict without spelling it out clearly, and the speaker may recognize only part of the connection.\n\nA slip is neither a lie detector nor a reliable window into someone's deepest desires. Its significance, in his method, depends on associations and the surrounding situation.\n\nThe interesting feature is the interference, not the spectacle of being caught. A slip can embarrass someone because listeners assign a motive before hearing the circumstances. Freud's own method asks for those circumstances and associations, even though his broader claims about meaningful errors remain open to criticism. The diagram therefore gives the sentence two routes rather than placing a hidden confession beneath every word. In practice, evidence for a particular interpretation would include recurrence, context and the speaker's thoughts around the mistake; the occurrence of an error alone does not provide all of that.",
     "sources": [
       "freud-lectures-1"
     ],
@@ -249,7 +441,7 @@
       "hidden life",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-hidden-life",
       "order": 3
@@ -257,6 +449,99 @@
     "related": [
       "freud-repression",
       "freud-symptom-compromise"
+    ],
+    "readingArt": [
+      {
+        "description": "intended speech / what was planned / what intruded",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "intended speech",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "what was planned",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "what intruded",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "description": "an error occurs / a cause is proposed / observation and interpretation",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an error occurs",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a cause is proposed",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "observation and interpretation",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -267,7 +552,7 @@
     "title": "An uneasy agreement",
     "statement": "A symptom may serve both a wish and the force that opposes it.",
     "explanation": "For Freud, many neurotic symptoms were compromise formations. They allowed a disguised satisfaction while also meeting the demand that the underlying wish be restrained or punished.",
-    "nuance": "A repeated ritual might reduce anxiety while keeping the unresolved fear central to the person's day. Freud interprets such patterns through competing forces, rather than simple willpower. This historical account does not explain every symptom, and recognizing a possible conflict does not establish its cause. A symptom can have several determinants at once.",
+    "nuance": "A repeated ritual might reduce anxiety while keeping the unresolved fear central to the person's day. Freud interprets such patterns through competing forces, rather than simple willpower. The same symptom can provide satisfaction in a transformed form and impose a restriction at the same time. Its cost does not make it psychologically purposeless in Freud's account. Conversely, finding a possible function does not show that the person knowingly arranged or freely chose the suffering.\n\nThis historical account does not explain every symptom, and recognizing a possible conflict does not establish its cause. A symptom can have several determinants at once.\n\nA compromise formation is therefore unlike a negotiated agreement between two fully informed parties. The wish and its opposition are not necessarily accessible as separate conscious positions. The symptom can preserve their conflict rather than resolve it, allowing a reduced or distorted expression while keeping the larger demand in place. The knot illustrates that neither force simply disappears. Freud uses this pattern to investigate symptoms within an individual history; it is not a ready-made explanation for every repetitive habit, illness or distressing experience. The function proposed by an interpretation needs the person's particular material.",
     "sources": [
       "freud-lectures-1"
     ],
@@ -354,6 +639,96 @@
     "related": [
       "freud-slips",
       "freud-manifest-latent"
+    ],
+    "readingArt": [
+      {
+        "description": "a wish / a prohibition / an indirect arrangement",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M75 124 Q135 120 172 125",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M226 126 Q275 121 326 125",
+            "tone": "normal"
+          },
+          {
+            "id": "center",
+            "type": "path",
+            "d": "M175 105 Q153 138 190 152 Q224 166 229 128 Q234 91 201 89 Q177 85 175 105",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a wish",
+            "x": 89,
+            "y": 90
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a prohibition",
+            "x": 305,
+            "y": 90
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "an indirect arrangement",
+            "x": 201,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "description": "one ritual / some relief / continued restriction",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one ritual",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "some relief",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "continued restriction",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -364,7 +739,7 @@
     "title": "What the dream shows",
     "statement": "The dream you remember is not the same as the thoughts used to interpret it.",
     "explanation": "Freud called the remembered dream its manifest content. The latent dream-thoughts are the associations and concerns reconstructed through interpretation, not a second dream waiting intact behind the first.",
-    "nuance": "Dreaming of a locked station could lead one person to a missed journey and another to a family farewell. Freud's method begins with the dreamer's associations to particular details. The distinction between manifest and latent does not license an interpreter to invent any hidden story they like. It names a hypothesis about transformation that must be argued for.",
+    "nuance": "Dreaming of a locked station could lead one person to a missed journey and another to a family farewell. Freud's method begins with the dreamer's associations to particular details. The latent material is reached through a procedure: associations to details, remembered concerns and possible connections among them. It should not be pictured as a complete secret text preserved word for word under the visible dream. Interpretation constructs an account of the relation between the two.\n\nThe distinction between manifest and latent does not license an interpreter to invent any hidden story they like. It names a hypothesis about transformation that must be argued for.\n\nThat relation is the point of the waterline. The remembered image is available to report, while the branching thoughts below it emerge through exploration. A dream about a station can acquire meaning through a very personal chain, and the same station can lead elsewhere in another life. Freud also allows typical symbols, which makes his method more complicated than a pure reliance on free association. Keeping the distinction clear helps avoid two errors: assuming the remembered scene transparently explains itself, or assuming that an interpreter's hidden explanation needs no further justification because the surface is already declared misleading.",
     "sources": [
       "freud-dreams-2"
     ],
@@ -431,7 +806,7 @@
       "dream-work",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-dream-work",
       "order": 1
@@ -439,6 +814,102 @@
     "related": [
       "freud-symptom-compromise",
       "freud-condensation"
+    ],
+    "readingArt": [
+      {
+        "description": "remembered scene / one association / another association",
+        "actors": [
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M61 107 Q117 104 167 110 T275 108 L338 106",
+            "tone": "normal"
+          },
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M169 82 L198 55 L229 81 L229 107 L166 107 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M180 109 Q142 159 94 174 M198 110 Q199 161 208 188 M220 109 Q265 154 307 180",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "remembered scene",
+            "x": 281,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one association",
+            "x": 111,
+            "y": 208
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "another association",
+            "x": 287,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "description": "dream detail / associations / interpretation",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "dream detail",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "associations",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "interpretation",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      }
     ]
   },
   {
@@ -449,7 +920,7 @@
     "title": "Many into one",
     "statement": "A single dream image can carry several trains of thought.",
     "explanation": "In Freud's account, condensation lets different people, memories or concerns converge in one dream element. The strange composite is dense because more than one association contributes to it.",
-    "nuance": "A dream figure might have a colleague's face, a parent's voice and a stranger's coat. Freud would investigate the associations to each feature rather than search for one person the figure really is. Condensation helps explain why a brief dream can generate a long analysis. It does not establish that every image has a concealed message.",
+    "nuance": "A dream figure might have a colleague's face, a parent's voice and a stranger's coat. Freud would investigate the associations to each feature rather than search for one person the figure really is. The relation is many-to-one, not simply an image shortened to save time. Different chains of thought can meet at the same feature, and one feature can serve several connections. The dream element is not made of neatly detachable pieces, even when the interpretation begins by exploring its separate associations.\n\nCondensation helps explain why a brief dream can generate a long analysis. It does not establish that every image has a concealed message.\n\nConsider an imagined figure with a friend's manner, a teacher's expression and an unfamiliar name. Freud's method investigates how these elements became connected, rather than choosing one as the genuine identity and dismissing the rest. What looks contradictory in ordinary description can perform several roles in the dream at once. The confluence drawing retains the separate paths to make this density visible. Condensation also sets a limit on simple summaries: identifying one meaningful connection does not prove that the entire element has been explained. The most economical interpretation may still leave other supported associations open.",
     "sources": [
       "freud-dreams-2"
     ],
@@ -532,7 +1003,7 @@
       "dream-work",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-dream-work",
       "order": 2
@@ -540,6 +1011,102 @@
     "related": [
       "freud-manifest-latent",
       "freud-displacement"
+    ],
+    "readingArt": [
+      {
+        "description": "several associations / one figure / many-to-one",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "several associations",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one figure",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "many-to-one",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "description": "one detail / one history / another history",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one detail",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one history",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "another history",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -550,7 +1117,7 @@
     "title": "The misplaced weight",
     "statement": "The smallest detail can carry the strongest feeling.",
     "explanation": "Freud proposed that dream-work shifts emotional emphasis from important thoughts to less threatening details. A dream's apparent center can therefore differ from what matters in the associated waking conflict.",
-    "nuance": "A dream about a misplaced cup might carry the anger connected with an argument that barely appears in the dream. The cup itself need not be a universal symbol. Displacement is Freud's explanation of how emphasis changes during dream formation. It is a way to investigate disproportionate feeling, not a rule that a trivial object always hides something dramatic.",
+    "nuance": "A dream about a misplaced cup might carry the anger connected with an argument that barely appears in the dream. The cup itself need not be a universal symbol. What moves is the emphasis or intensity attached to a thought, not necessarily the thought's entire content. The dream can make an apparently minor feature vivid while a more significant concern stays peripheral. That is different from merely choosing a substitute object with a fixed symbolic meaning.\n\nDisplacement is Freud's explanation of how emphasis changes during dream formation. It is a way to investigate disproportionate feeling, not a rule that a trivial object always hides something dramatic.\n\nThe charged small circle depicts a disproportion that interpretation tries to understand. Suppose a minor broken object carries the dread associated with a larger conflict. The interpretation would need to trace the associations linking the object and conflict; its apparent triviality is not evidence enough. Freud places displacement among the operations that help disguise unacceptable wishes, but a reader can first understand the structural claim: where feeling is strongest need not coincide with where its waking significance is greatest. The distinction is useful even when one questions Freud's particular explanation of why the shift occurs.",
     "sources": [
       "freud-dreams-2"
     ],
@@ -645,6 +1212,111 @@
     "related": [
       "freud-condensation",
       "freud-representability"
+    ],
+    "readingArt": [
+      {
+        "description": "less visible / more vivid / shift of emphasis",
+        "actors": [
+          {
+            "id": "a",
+            "type": "circle",
+            "x": 115,
+            "y": 124,
+            "r": 30,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "circle",
+            "x": 281,
+            "y": 124,
+            "r": 12,
+            "tone": "normal"
+          },
+          {
+            "id": "transfer",
+            "type": "path",
+            "d": "M145 115 Q208 65 267 113",
+            "tone": "normal"
+          },
+          {
+            "id": "charge",
+            "type": "circle",
+            "x": 282,
+            "y": 124,
+            "r": 28,
+            "tone": "faint"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "less visible",
+            "x": 115,
+            "y": 187
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "more vivid",
+            "x": 281,
+            "y": 187
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "shift of emphasis",
+            "x": 199,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "description": "the object itself / its associations / significance is relational",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the object itself",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "its associations",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "significance is relational",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -655,7 +1327,7 @@
     "title": "Thought becomes scene",
     "statement": "A dream must find pictures for thoughts that are not pictures.",
     "explanation": "Freud described dream-work as transforming thoughts into forms that can be represented, especially visual scenes. Abstract relations may become situations, spatial arrangements or actions.",
-    "nuance": "A concern about exclusion might appear as being left outside a building. The picture is a possible rendering of a thought, not a fixed dictionary entry: a building has different associations for different dreamers. Freud emphasizes that interpretation works against this transformation, asking how a scene could be connected to thoughts rather than taking the image literally.",
+    "nuance": "A concern about exclusion might appear as being left outside a building. A thought involving a relation such as before, apart from or excluded may become a spatial arrangement. The transformation is not a sentence converted into a single icon. Several features of a scene can carry different parts of the thought, and some logical relations are harder to picture than others.\n\nThe picture is a possible rendering of a thought, not a fixed dictionary entry: a building has different associations for different dreamers. Freud emphasizes that interpretation works against this transformation, asking how a scene could be connected to thoughts rather than taking the image literally.\n\nThe house illustration is an example of a representable situation, not a codebook entry. Being outside can give a visual form to exclusion, but the same scene might concern shelter, privacy or a remembered visit in another person's dream. Freud's account draws attention to the constraints of the medium: dream thoughts have to appear through images and other experiences rather than through an analytical essay. Interpretation then asks how the scene might have been formed from associated material. The important movement is from a thought to a possible presentation, without assuming the presentation has only one necessary source.",
     "sources": [
       "freud-dreams-2"
     ],
@@ -723,6 +1395,102 @@
     "related": [
       "freud-displacement",
       "freud-secondary-revision"
+    ],
+    "readingArt": [
+      {
+        "description": "a relation / a possible scene / associations",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a relation",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a possible scene",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "associations",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "a closed door / privacy / exclusion",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a closed door",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "privacy",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "exclusion",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -733,7 +1501,7 @@
     "title": "The story afterwards",
     "statement": "The mind can make a coherent account from material that arrived in fragments.",
     "explanation": "Freud called secondary revision the work that organizes dream material into something resembling a comprehensible story. The dream's smooth narrative can conceal discontinuities in its formation.",
-    "nuance": "On waking, someone may connect two disjointed scenes with an explanation that was not clearly present during sleep. Freud also treated secondary revision as part of dream formation, not merely a reporting error after waking. A neat story is therefore something to examine, rather than proof that all its elements were generated in that order or for that purpose.",
+    "nuance": "On waking, someone may connect two disjointed scenes with an explanation that was not clearly present during sleep. A comprehensible arrangement can be imposed on elements that were not originally produced as a smooth sequence. A person may therefore remember a coherent episode whose coherence is itself part of the work under investigation. Freud does not regard a neat plot as a reason to stop examining its details.\n\nFreud also treated secondary revision as part of dream formation, not merely a reporting error after waking. A neat story is therefore something to examine, rather than proof that all its elements were generated in that order or for that purpose.\n\nImagine remembering that one scene happened because another did, although the causal link becomes uncertain on reflection. The link may organize fragments into something tellable. Freud's concept of secondary revision concerns this tendency to supply intelligibility, including during dream formation itself. It does not mean every report is knowingly false. The frame drawing gives the pieces a shared enclosure while leaving their seams visible. Those seams matter because a narrative can clarify experience and conceal its discontinuities at the same time. An interpretation should allow the account to become less tidy when the material does not support its first smooth connection.",
     "sources": [
       "freud-dreams-2"
     ],
@@ -821,6 +1589,105 @@
     "related": [
       "freud-representability",
       "freud-wish-fulfilment"
+    ],
+    "readingArt": [
+      {
+        "description": "separate fragments / later connection / a tellable account",
+        "actors": [
+          {
+            "id": "box",
+            "type": "path",
+            "d": "M92 72 L93 183 L310 181 L311 72 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "fragment1",
+            "type": "path",
+            "d": "M115 94 L165 98 L159 138 L110 134 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "fragment2",
+            "type": "path",
+            "d": "M209 91 L286 98 L281 147 L219 139 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "seam",
+            "type": "path",
+            "d": "M157 134 Q190 166 219 137",
+            "tone": "faint"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "separate fragments",
+            "x": 133,
+            "y": 55
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "later connection",
+            "x": 259,
+            "y": 55
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a tellable account",
+            "x": 198,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "description": "remembered order / formation process / coherence needs examination",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "remembered order",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "formation process",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "coherence needs examination",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -831,7 +1698,7 @@
     "title": "A wish in disguise",
     "statement": "Freud asked how a dream might stage the satisfaction of a wish.",
     "explanation": "Wish-fulfilment is central to Freud's dream theory. A child's dream of eating a forbidden treat is the simple case; adult dreams, he argued, often disguise wishes through conflict and distortion.",
-    "nuance": "An unpleasant dream does not automatically refute Freud's theory on its own terms: he proposed that different parts of the mind can respond differently to the same wish. But this flexibility makes the claim difficult to test. He later confronted traumatic repetition more directly. The card describes his historical theory, not a settled explanation of every dream.",
+    "nuance": "An unpleasant dream does not automatically refute Freud's theory on its own terms: he proposed that different parts of the mind can respond differently to the same wish. But this flexibility makes the claim difficult to test. A wish in this theory is not necessarily a person's endorsed plan. Freud distinguishes wishes by their place in mental conflict, so one tendency's imagined satisfaction can disturb another. This is why he describes an adult dream as more complicated than an uncomplicated fantasy of obtaining something pleasant.\n\nHe later confronted traumatic repetition more directly. The card describes his historical theory, not a settled explanation of every dream.\n\nThe illustration shows an imagined encounter while the waking separation remains. It conveys the simplest structural idea: a wanted situation can be staged without being achieved in external reality. Freud's more ambitious claim is that this function underlies dreams even when the remembered experience is unpleasant or obscure. That extension depends on his account of distortion and conflict, and it remains disputed. His later attention to traumatic dreams complicates the earlier generalization. Reading the sequence historically helps preserve both the insight and the difficulty: imagined satisfaction is recognizable, while its proposed universality requires an argument far beyond the example.",
     "sources": [
       "freud-dreams-2"
     ],
@@ -908,6 +1775,98 @@
     "related": [
       "freud-secondary-revision",
       "freud-resistance"
+    ],
+    "readingArt": [
+      {
+        "description": "waking separation / imagined encounter / a staged satisfaction",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "waking separation",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "imagined encounter",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a staged satisfaction",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "description": "an unpleasant dream / proposed disguise / a limit for the theory",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an unpleasant dream",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "proposed disguise",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a limit for the theory",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -984,7 +1943,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-hidden-life",
-      "order": 1
+      "order": 5
     },
     "related": [
       "freud-wish-fulfilment",
@@ -1065,7 +2024,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-hidden-life",
-      "order": 2
+      "order": 6
     },
     "related": [
       "freud-resistance",
@@ -1144,7 +2103,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-hidden-life",
-      "order": 3
+      "order": 7
     },
     "related": [
       "freud-ambivalence",
@@ -1231,7 +2190,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-hidden-life",
-      "order": 4
+      "order": 8
     },
     "related": [
       "freud-unconscious-conflict",
@@ -1332,7 +2291,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-hidden-life",
-      "order": 5
+      "order": 9
     },
     "related": [
       "freud-psychic-determinism",
@@ -1419,7 +2378,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-hidden-life",
-      "order": 6
+      "order": 10
     },
     "related": [
       "freud-multiple-determination",
@@ -1500,7 +2459,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-dream-work",
-      "order": 1
+      "order": 7
     },
     "related": [
       "freud-fantasy-reality",
@@ -1587,7 +2546,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-dream-work",
-      "order": 2
+      "order": 8
     },
     "related": [
       "freud-day-residue",
@@ -1671,7 +2630,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-dream-work",
-      "order": 3
+      "order": 9
     },
     "related": [
       "freud-dream-association",
@@ -1756,7 +2715,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-dream-work",
-      "order": 4
+      "order": 10
     },
     "related": [
       "freud-dream-censorship",
@@ -1837,7 +2796,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-a-divided-mind",
       "order": 1
@@ -1935,7 +2894,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-a-divided-mind",
       "order": 2
@@ -2017,7 +2976,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-a-divided-mind",
       "order": 3
@@ -2178,7 +3137,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-a-divided-mind",
       "order": 5
@@ -2507,7 +3466,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-a-divided-mind",
       "order": 9
@@ -2692,7 +3651,7 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-the-talking-cure",
       "order": 1
@@ -2780,7 +3739,7 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-the-talking-cure",
       "order": 2
@@ -3152,7 +4111,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-the-talking-cure",
-      "order": 1
+      "order": 6
     },
     "related": [
       "freud-interpretation",
@@ -3237,10 +4196,10 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-the-talking-cure",
-      "order": 2
+      "order": 7
     },
     "related": [
       "freud-even-attention",
@@ -3322,7 +4281,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-the-talking-cure",
-      "order": 3
+      "order": 8
     },
     "related": [
       "freud-analyst-blind-spots",
@@ -3415,7 +4374,7 @@
     "depth": 2,
     "sequence": {
       "id": "freud-the-talking-cure",
-      "order": 1
+      "order": 9
     },
     "related": [
       "freud-therapeutic-ambition",
@@ -3505,10 +4464,10 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-the-talking-cure",
-      "order": 2
+      "order": 10
     },
     "related": [
       "freud-remembering-repeating",
@@ -3573,7 +4532,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-desire-and-repetition",
       "order": 1
@@ -3657,7 +4616,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 1,
     "sequence": {
       "id": "freud-desire-and-repetition",
       "order": 2
@@ -4008,7 +4967,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-desire-and-repetition",
       "order": 6
@@ -4167,7 +5126,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-desire-and-repetition",
       "order": 8
@@ -4347,7 +5306,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2,
+    "depth": 3,
     "sequence": {
       "id": "freud-desire-and-repetition",
       "order": 10
