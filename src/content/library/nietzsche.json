@@ -8289,7 +8289,7 @@
     "sources": [
       "gs-290"
     ],
-    "metaphor": "Loose irregular fragments retain their differences while a larger deliberate contour gives them a shared style.",
+    "metaphor": "An artist arranges resistant and pliable materials into one form while preserving their different properties.",
     "scene": {
       "kind": "notebook",
       "caption": "give style",
@@ -8356,6 +8356,119 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "An artist arranges resistant and pliable materials into one form while preserving their different properties.",
+        "beats": [
+          {
+            "caption": "A life contains uneven materials: strengths, limits, habits, and difficult impulses.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "stone",
+                "type": "path",
+                "d": "M76 123 L107 85 L146 111 L127 156 L81 160 Z"
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M204 59 L224 59 L232 179 L207 178 Z"
+              },
+              {
+                "id": "cloth",
+                "type": "path",
+                "d": "M270 103 Q299 75 326 106 Q294 145 268 173"
+              }
+            ]
+          },
+          {
+            "caption": "Giving style begins by learning what those materials permit.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "stone",
+                "type": "path",
+                "d": "M76 145 L107 111 L146 135 L127 180 L81 183 Z"
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M204 70 L224 70 L232 190 L207 189 Z"
+              },
+              {
+                "id": "cloth",
+                "type": "path",
+                "d": "M270 103 Q299 75 326 106 Q294 145 268 173"
+              },
+              {
+                "id": "know",
+                "type": "text",
+                "text": "know the materials",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "An arrangement makes their differences contribute to one form.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "stone",
+                "type": "path",
+                "d": "M132 158 L162 125 L197 150 L181 189 L137 190 Z"
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M198 61 L218 61 L226 183 L201 182 Z"
+              },
+              {
+                "id": "cloth",
+                "type": "path",
+                "d": "M217 89 Q252 67 277 100 Q248 153 218 157"
+              }
+            ]
+          },
+          {
+            "caption": "Coherence can come from composition rather than erasing every inconvenient feature.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "stone",
+                "type": "path",
+                "d": "M132 158 L162 125 L197 150 L181 189 L137 190 Z"
+              },
+              {
+                "id": "wood",
+                "type": "path",
+                "d": "M198 61 L218 61 L226 183 L201 182 Z"
+              },
+              {
+                "id": "cloth",
+                "type": "path",
+                "d": "M217 89 Q252 67 277 100 Q248 153 218 157"
+              },
+              {
+                "id": "floor",
+                "type": "path",
+                "d": "M54 190 Q200 187 347 190",
+                "tone": "faint"
+              },
+              {
+                "id": "style",
+                "type": "text",
+                "text": "a composed form",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -8373,48 +8486,45 @@
     ],
     "readingArt": [
       {
-        "description": "different materials; a coherent form.",
+        "description": "Different strengths and limits can receive distinct places within a composed form.",
         "actors": [
           {
-            "id": "part1",
+            "id": "beam",
             "type": "path",
-            "d": "M96 91 L123 72 L145 101"
+            "d": "M171 65L191 65L196 166L173 169Z"
           },
           {
-            "id": "part2",
+            "id": "stone",
             "type": "path",
-            "d": "M185 154 Q207 113 227 152"
+            "d": "M83 118L119 80L148 126L136 164L87 169Z"
           },
           {
-            "id": "part3",
+            "id": "curve",
             "type": "path",
-            "d": "M267 79 L291 102 L278 127"
+            "d": "M193 83Q251 35 290 95Q246 156 196 160"
           },
           {
-            "id": "whole",
+            "id": "ground",
             "type": "path",
-            "d": "M73 157 Q74 49 185 48 Q302 47 322 145 Q313 191 181 195 Q105 200 73 157 Z"
+            "d": "M67 174Q203 172 323 175"
           },
           {
-            "id": "a-top",
+            "id": "different",
             "type": "text",
-            "text": "different",
-            "x": 163.73021392822267,
-            "y": 23
+            "text": "different materials",
+            "x": 200,
+            "y": 37,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "a-bottom",
+            "id": "composed",
             "type": "text",
-            "text": "materials",
-            "x": 161.3362243652344,
-            "y": 44
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "a coherent form",
-            "x": 132.26342010498047,
-            "y": 226
+            "text": "one composition",
+            "x": 200,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -8427,7 +8537,7 @@
             "d": "M71 79 Q149 66 202 125 L320 122"
           },
           {
-            "id": "b",
+            "id": "b-path-1",
             "type": "path",
             "d": "M78 166 Q143 180 202 125"
           },
@@ -8458,7 +8568,7 @@
             "y": 230
           },
           {
-            "id": "b",
+            "id": "b-text-6",
             "type": "text",
             "text": "an arrangement",
             "x": 225.44739990234376,
@@ -8476,11 +8586,11 @@
     "title": "Beyond your own form",
     "statement": "What you create can become the thing you next have to overcome.",
     "explanation": "In Zarathustra's speech on self-overcoming, life is described as creating and surpassing its own arrangements. An achieved identity or value is not necessarily the final measure.",
-    "nuance": "Zarathustra is a dramatic speaker, not a transcript of Nietzsche giving clinical advice. Overcoming here is not endless productivity or contempt for the vulnerable self. It names a conflict within living creation: the form that made one development possible can obstruct another. The question concerns transformation, not merely winning. The movement is internal to creation itself. A living form can produce the conditions of its own transformation, so that surpassing it is neither simple destruction nor the arrival of a wholly unrelated ambition.\n\nA craftsperson develops habits that make a first body of work possible. Later, those same habits may prevent another form of work from emerging. The first accomplishment was real; surpassing it need not mean declaring it worthless. Zarathustra's speech describes life as bound up with such transformations. What once organized a living force can become something that force must struggle against as it creates a new arrangement.\n\nThe dramatic setting matters because Zarathustra is a teacher whose claims and crises unfold through a book. One should not turn every sentence into a universal rule of self-management. Overcoming may involve relinquishing a familiar measure of achievement rather than pursuing more of it. It also raises a difficult question: who evaluates the new form? Nietzsche leaves the reader inside a struggle over values, rather than supplying a guaranteed formula for improvement.",
+    "nuance": "Zarathustra is a dramatic speaker, not a transcript of Nietzsche giving clinical advice. Overcoming here is not endless productivity or contempt for the vulnerable self. It names a conflict within living creation: the form that made one development possible can obstruct another. The question concerns transformation of the values that organize a life. The movement is internal to creation itself. A living form can produce the conditions of its own transformation, so that surpassing it is neither simple destruction nor the arrival of a wholly unrelated ambition.\n\nA craftsperson develops habits that make a first body of work possible. Later, those same habits may prevent another form of work from emerging. The first accomplishment was real; surpassing it need not mean declaring it worthless. Zarathustra's speech describes life as bound up with such transformations. What once organized a living force can become something that force must struggle against as it creates a new arrangement.\n\nThe dramatic setting matters because Zarathustra is a teacher whose claims and crises unfold through a book. One should not turn every sentence into a universal rule of self-management. Overcoming may involve relinquishing a familiar measure of achievement rather than pursuing more of it. It also raises a difficult question: who evaluates the new form? The reader remains inside an unresolved struggle over values.",
     "sources": [
       "z-II-Self-overcoming"
     ],
-    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "metaphor": "A framework first supports growth and later constrains the same growing form, making its usefulness historically limited.",
     "scene": {
       "kind": "notebook",
       "caption": "self overcoming",
@@ -8536,6 +8646,94 @@
             "y": 226
           }
         ]
+      },
+      "lesson": {
+        "description": "A framework first supports growth and later constrains the same growing form, making its usefulness historically limited.",
+        "beats": [
+          {
+            "caption": "A form once made a capacity possible.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M143 60 L257 60 L257 190 L143 190 Z"
+              },
+              {
+                "id": "plant",
+                "type": "path",
+                "d": "M201 184 L201 137 M201 154 Q173 132 171 115 M201 151 Q221 130 231 119"
+              }
+            ]
+          },
+          {
+            "caption": "The capacity develops within that form.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M143 60 L257 60 L257 190 L143 190 Z"
+              },
+              {
+                "id": "plant",
+                "type": "path",
+                "d": "M201 184 L201 89 M201 127 Q155 122 157 81 M201 138 Q244 114 242 81"
+              }
+            ]
+          },
+          {
+            "caption": "Further growth now meets the form as a limit.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M143 60 L257 60 L257 190 L143 190 Z"
+              },
+              {
+                "id": "plant",
+                "type": "path",
+                "d": "M201 184 L201 60 M201 100 Q148 91 143 61 M201 118 Q253 95 257 62"
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "text": "support becomes constraint",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Self-overcoming can require changing what once made a life workable.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M143 118 L143 190 L257 190 L257 118",
+                "tone": "faint"
+              },
+              {
+                "id": "plant",
+                "type": "path",
+                "d": "M201 184 L201 48 M201 85 Q136 80 118 49 M201 100 Q264 83 280 43"
+              },
+              {
+                "id": "new",
+                "type": "text",
+                "text": "another form becomes necessary",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -8553,36 +8751,78 @@
     ],
     "readingArt": [
       {
-        "description": "an achieved form; a new possibility.",
+        "description": "An acquired habit supports growth while a later capacity can outgrow the same support.",
         "actors": [
           {
-            "id": "past",
-            "type": "path",
-            "d": "M60 126 L176 126"
+            "id": "early",
+            "type": "group",
+            "children": [
+              {
+                "id": "growth",
+                "type": "path",
+                "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+              }
+            ],
+            "x": 106,
+            "y": 134,
+            "pose": {
+              "scale": 0.7
+            }
           },
           {
-            "id": "boundary",
-            "type": "path",
-            "d": "M183 51 L183 103 M183 151 L183 196"
+            "id": "support1",
+            "type": "group",
+            "children": [
+              {
+                "id": "support1-edge",
+                "type": "path",
+                "d": "M-39.0 -46.5 L39.0 -45.5 L38.0 46.5 L-38.0 45.5 Z"
+              }
+            ],
+            "x": 106,
+            "y": 134,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "future",
-            "type": "path",
-            "d": "M190 127 Q225 158 254 121 Q292 69 335 96"
+            "id": "later",
+            "type": "group",
+            "children": [
+              {
+                "id": "growth",
+                "type": "path",
+                "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+              }
+            ],
+            "x": 290,
+            "y": 130,
+            "pose": {
+              "scale": 1.5
+            }
           },
           {
-            "id": "a",
+            "id": "support2",
+            "type": "path",
+            "d": "M251 179L251 86L329 86L329 179"
+          },
+          {
+            "id": "helps",
             "type": "text",
-            "text": "an achieved form",
-            "x": 32.200442504882815,
-            "y": 218
+            "text": "supports a capacity",
+            "x": 106,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 15
           },
           {
-            "id": "b",
+            "id": "limits",
             "type": "text",
-            "text": "a new possibility",
-            "x": 221.84142150878907,
-            "y": 218
+            "text": "becomes a limit",
+            "x": 290,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -8632,11 +8872,11 @@
     "title": "Learning to bear",
     "statement": "Freedom does not begin without the capacity to carry difficulty.",
     "explanation": "Zarathustra's camel takes on demanding tasks and inherited obligations. This first metamorphosis represents a spirit that acquires strength through seriousness, endurance, and reverence.",
-    "nuance": "The camel is not simply a foolish conformist. It can bear demanding truth and deprivation. But bearing is not yet creating: a life organized entirely by what it must shoulder remains governed by received tasks. Nietzsche's dramatic sequence gives the load-bearing spirit a role without treating its obedience as the final state. Reverence gives the burden its seriousness. The camel wants more than comfort and takes on what seems weighty, but the value of carrying does not yet answer who has the authority to define the burden.\n\nThe camel asks for difficult burdens rather than avoiding them. It can include the demand to seek an uncomfortable truth, surrender praise, or endure deprivation. Reverence and endurance build a capacity for seriousness. In the allegory, the camel eventually carries its burdens into the desert, where the meaning of that obedience changes. The inherited task gives strength, but strength can become capable of confronting the task's authority.\n\nReading the camel as mere submission loses this movement. Reading it as the final ideal loses the later metamorphoses. Nietzsche's sequence places discipline before refusal and creation without making it a curriculum every person must literally follow. The images describe relations to value: receiving what is weighty, struggling against an imposed command, and eventually initiating something. Their order makes the later freedom more complex than simply escaping effort.",
+    "nuance": "The camel embodies a serious capacity for endurance. It can bear demanding truth and deprivation. But bearing is not yet creating: a life organized entirely by what it must shoulder remains governed by received tasks. Nietzsche's dramatic sequence gives the load-bearing spirit a role without treating its obedience as the final state. Reverence gives the burden its seriousness. The camel wants more than comfort and takes on what seems weighty, but the value of carrying does not yet answer who has the authority to define the burden.\n\nThe camel asks for difficult burdens rather than avoiding them. It can include the demand to seek an uncomfortable truth, surrender praise, or endure deprivation. Reverence and endurance build a capacity for seriousness. In the allegory, the camel eventually carries its burdens into the desert, where the meaning of that obedience changes. The inherited task gives strength, but strength can become capable of confronting the task's authority.\n\nReading the camel as mere submission loses this movement. Reading it as the final ideal loses the later metamorphoses. Nietzsche's sequence places discipline before refusal and creation without making it a curriculum every person must literally follow. The images describe relations to value: receiving what is weighty, struggling against an imposed command, and eventually initiating something. Their order makes the later freedom more complex than simply escaping effort.",
     "sources": [
       "z-I-Three-Metamorphoses"
     ],
-    "metaphor": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+    "metaphor": "Zarathustra’s burden-bearing spirit accepts inherited demands and gains strength, while authority over their value remains unresolved.",
     "scene": {
       "kind": "notebook",
       "caption": "camel",
@@ -8699,6 +8939,172 @@
             "y": 235
           }
         ]
+      },
+      "lesson": {
+        "description": "Zarathustra’s burden-bearing spirit accepts inherited demands and gains strength, while authority over their value remains unresolved.",
+        "beats": [
+          {
+            "caption": "Zarathustra imagines a spirit willing to bear heavy inherited demands.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "bearer",
+                "type": "figure",
+                "x": 200,
+                "y": 151
+              },
+              {
+                "id": "demand",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "demand-outline",
+                    "type": "path",
+                    "d": "M-78.5 -25.5 L78.5 -24.5 L77.5 25.5 L-77.5 24.5 Z"
+                  },
+                  {
+                    "id": "demand-word0-line0",
+                    "type": "text",
+                    "text": "you must",
+                    "x": 0,
+                    "y": -1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 39
+              }
+            ]
+          },
+          {
+            "caption": "The burdens are accepted as things that must be done.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "bearer",
+                "type": "figure",
+                "x": 200,
+                "y": 151
+              },
+              {
+                "id": "demand",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "demand-outline",
+                    "type": "path",
+                    "d": "M-78.5 -25.5 L78.5 -24.5 L77.5 25.5 L-77.5 24.5 Z"
+                  },
+                  {
+                    "id": "demand-word0-line0",
+                    "type": "text",
+                    "text": "you must",
+                    "x": 0,
+                    "y": -1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 39
+              },
+              {
+                "id": "load",
+                "type": "path",
+                "d": "M136 81 L137 61 L264 61 L265 82 Z M157 62 L157 81 M222 62 L222 81"
+              }
+            ]
+          },
+          {
+            "caption": "Carrying them develops strength and endurance.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "bearer",
+                "type": "figure",
+                "x": 200,
+                "y": 151
+              },
+              {
+                "id": "load",
+                "type": "path",
+                "d": "M136 81 L137 45 L264 45 L265 82 Z M157 46 L157 81 M222 46 L222 81"
+              },
+              {
+                "id": "ground",
+                "type": "path",
+                "d": "M152 203 L246 203"
+              },
+              {
+                "id": "strength",
+                "type": "text",
+                "text": "capacity to carry",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The camel stage can bear a demand; questioning its authority is another task.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "bearer",
+                "type": "figure",
+                "x": 200,
+                "y": 151
+              },
+              {
+                "id": "load",
+                "type": "path",
+                "d": "M136 81 L137 45 L264 45 L265 82 Z M157 46 L157 81 M222 46 L222 81"
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-68.0 -27 L68.0 -27 L68.0 20 L12 20 L0 33 L-1 20 L-68.0 20 Z"
+                  },
+                  {
+                    "id": "question-words-line0",
+                    "type": "text",
+                    "text": "whose",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "question-words-line1",
+                    "type": "text",
+                    "text": "demand?",
+                    "x": 0,
+                    "y": 17.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 317,
+                "y": 115
+              },
+              {
+                "id": "stage",
+                "type": "text",
+                "text": "the question is still ahead",
+                "x": 200,
+                "y": 235,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -8716,38 +9122,56 @@
     ],
     "readingArt": [
       {
-        "description": "inherited demand; acquired strength.",
+        "description": "Bearing a demanding inherited task can develop endurance before its authority has been questioned.",
         "actors": [
           {
-            "id": "weight",
+            "id": "bearer",
+            "type": "figure",
+            "x": 186,
+            "y": 153,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": false
+          },
+          {
+            "id": "load",
+            "type": "group",
+            "children": [
+              {
+                "id": "load-edge",
+                "type": "path",
+                "d": "M-63.0 -16.5 L63.0 -15.5 L62.0 16.5 L-62.0 15.5 Z"
+              },
+              {
+                "id": "load-text0",
+                "type": "text",
+                "text": "you must",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 186,
+            "y": 65,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "shoulders",
             "type": "path",
-            "d": "M83 100 L104 77 L128 98 L143 130 L119 146 L85 131 Z"
+            "d": "M138 102L232 102 M154 82L154 101 M216 82L216 101"
           },
           {
-            "id": "aim",
-            "type": "circle",
-            "x": 291,
-            "y": 95,
-            "r": 11
-          },
-          {
-            "id": "tie",
-            "type": "path",
-            "d": "M143 133 Q203 177 284 108"
-          },
-          {
-            "id": "a",
+            "id": "bear",
             "type": "text",
-            "text": "inherited demand",
-            "x": 30.067446899414065,
-            "y": 218
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "acquired strength",
-            "x": 216.82845916748047,
-            "y": 218
+            "text": "learning to carry",
+            "x": 196,
+            "y": 222,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -8806,7 +9230,7 @@
     "sources": [
       "z-I-Three-Metamorphoses"
     ],
-    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "metaphor": "An inherited command is confronted and broken, opening space in which a new value has yet to be made.",
     "scene": {
       "kind": "notebook",
       "caption": "lion",
@@ -8862,6 +9286,186 @@
             "y": 226
           }
         ]
+      },
+      "lesson": {
+        "description": "An inherited command is confronted and broken, opening space in which a new value has yet to be made.",
+        "beats": [
+          {
+            "caption": "In Zarathustra’s story, an inherited command claims the right to determine the spirit.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "spirit",
+                "type": "figure",
+                "x": 106,
+                "y": 139
+              },
+              {
+                "id": "command",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "command-outline",
+                    "type": "path",
+                    "d": "M-72.5 -64.0 L72.5 -63.0 L71.5 64.0 L-71.5 63.0 Z"
+                  },
+                  {
+                    "id": "command-word0-line0",
+                    "type": "text",
+                    "text": "THOU SHALT",
+                    "x": 0,
+                    "y": -40.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 115
+              }
+            ]
+          },
+          {
+            "caption": "The lion answers by refusing that authority.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "spirit",
+                "type": "figure",
+                "x": 136,
+                "y": 139
+              },
+              {
+                "id": "command",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "command-outline",
+                    "type": "path",
+                    "d": "M-72.5 -64.0 L72.5 -63.0 L71.5 64.0 L-71.5 63.0 Z"
+                  },
+                  {
+                    "id": "command-word0-line0",
+                    "type": "text",
+                    "text": "THOU SHALT",
+                    "x": 0,
+                    "y": -40.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 115
+              },
+              {
+                "id": "no",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "no-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "no-words-line0",
+                    "type": "text",
+                    "text": "no",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 123,
+                "y": 40
+              }
+            ]
+          },
+          {
+            "caption": "The command loses its hold and space for willing opens.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "spirit",
+                "type": "figure",
+                "x": 136,
+                "y": 139
+              },
+              {
+                "id": "broken",
+                "type": "path",
+                "d": "M210 61 L254 61 L241 109 L262 140 L249 179 L210 179 M279 61 L350 61 L350 179 L284 179 L297 139 L276 109 Z"
+              },
+              {
+                "id": "no",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "no-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "no-words-line0",
+                    "type": "text",
+                    "text": "no",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 123,
+                "y": 40
+              }
+            ]
+          },
+          {
+            "caption": "Refusal makes room for creation; it has not yet created a new value.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "spirit",
+                "type": "figure",
+                "x": 136,
+                "y": 139
+              },
+              {
+                "id": "broken",
+                "type": "path",
+                "d": "M210 61 L254 61 L241 109 L262 140 L249 179 L210 179 M279 61 L350 61 L350 179 L284 179 L297 139 L276 109 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "blank",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blank-outline",
+                    "type": "path",
+                    "d": "M-51.0 -50.0 L51.0 -49.0 L50.0 50.0 L-50.0 49.0 Z"
+                  },
+                  {
+                    "id": "blank-lines",
+                    "type": "path",
+                    "d": "M-38.0 -24 L36.0 -24 M-38.0 -5 L38.0 -5 M-38.0 15 L29.0 15",
+                    "tone": "faint"
+                  }
+                ],
+                "x": 283,
+                "y": 114
+              },
+              {
+                "id": "space",
+                "type": "text",
+                "text": "a space still to be filled",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -8879,36 +9483,83 @@
     ],
     "readingArt": [
       {
-        "description": "an old command; room for willing.",
+        "description": "An inherited command can lose authority through refusal while the new task remains open.",
         "actors": [
           {
-            "id": "past",
-            "type": "path",
-            "d": "M60 126 L176 126"
+            "id": "command",
+            "type": "group",
+            "children": [
+              {
+                "id": "command-edge",
+                "type": "path",
+                "d": "M-59.0 -50.0 L59.0 -49.0 L58.0 50.0 L-58.0 49.0 Z"
+              },
+              {
+                "id": "command-text0",
+                "type": "text",
+                "text": "THOU",
+                "x": 0,
+                "y": -8,
+                "anchor": "middle",
+                "fontSize": 14
+              },
+              {
+                "id": "command-text1",
+                "type": "text",
+                "text": "SHALT",
+                "x": 0,
+                "y": 12,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 113,
+            "y": 117,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "boundary",
+            "id": "split",
             "type": "path",
-            "d": "M183 51 L183 103 M183 151 L183 196"
+            "d": "M96 67L109 95L96 118L113 138L101 168"
           },
           {
-            "id": "future",
-            "type": "path",
-            "d": "M190 127 Q225 158 254 121 Q292 69 335 96"
+            "id": "refusal",
+            "type": "figure",
+            "x": 281,
+            "y": 151,
+            "pose": {
+              "scale": 0.75
+            },
+            "facing": false
           },
           {
-            "id": "a",
+            "id": "no",
             "type": "text",
-            "text": "an old command",
-            "x": 34.2354248046875,
-            "y": 218
+            "text": "no",
+            "x": 280,
+            "y": 50,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "command-title",
+            "type": "text",
+            "text": "inherited authority",
+            "x": 108,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 15
+          },
+          {
+            "id": "space",
             "type": "text",
             "text": "room for willing",
-            "x": 227.6243927001953,
-            "y": 218
+            "x": 281,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -8957,11 +9608,11 @@
     "title": "The first affirmation",
     "statement": "Creation needs more than a refusal of what came before.",
     "explanation": "The child in Zarathustra's metamorphoses represents a new beginning, play, and an affirmative capacity. It can initiate a game rather than only obeying or resisting an old command.",
-    "nuance": "The image does not praise immaturity or freedom from consequences. It follows the camel's discipline and the lion's struggle. Its innocence is an ability to begin without having every movement dictated by inherited guilt or opposition. In this dramatic allegory, creation requires an affirmative relation to possibilities, not merely escape. The child changes the relation to time: it can begin without making every new movement an appeal against what came before. Its play creates a structure rather than only occupying a structure already given.\n\nThe child's image brings forgetting, play, and beginning into relation. It can establish a game rather than only obeying the rules of a previous one. Nietzsche calls this an affirmative movement. Its significance comes from what preceded it: the strength to carry difficult values and the courage to break an authority are not enough unless the spirit can initiate something that is not merely a response to those old conditions.\n\nThis philosophical child should not be confused with an empirical claim that children are free of cruelty or inherited habits. It is a figure in Zarathustra's speech, and its innocence belongs to the problem of beginning after negation. A new beginning still needs form, judgment, and consequences. The image asks what makes creation possible when the demand to justify every movement before an old tribunal no longer provides the governing rhythm.",
+    "nuance": "The image does not praise immaturity or freedom from consequences. It follows the camel's discipline and the lion's struggle. Its innocence is an ability to begin without having every movement dictated by inherited guilt or opposition. In this dramatic allegory, creation requires an affirmative relation to possibilities, not merely escape. The child changes the relation to time: it can begin without making every new movement an appeal against what came before. Its play gives a new activity its own structure.\n\nThe child's image brings forgetting, play, and beginning into relation. It can establish a game with rules of its own. Nietzsche calls this an affirmative movement. Its significance comes from what preceded it: the strength to carry difficult values and the courage to break an authority are not enough unless the spirit can initiate something that is not merely a response to those old conditions.\n\nThis philosophical child should not be confused with an empirical claim that children are free of cruelty or inherited habits. It is a figure in Zarathustra's speech, and its innocence belongs to the problem of beginning after negation. A new beginning still needs form, judgment, and consequences. The image asks what makes creation possible when the demand to justify every movement before an old tribunal no longer provides the governing rhythm.",
     "sources": [
       "z-I-Three-Metamorphoses"
     ],
-    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "metaphor": "After the old command is refused, play composes a new arrangement and gives it an affirmative beginning.",
     "scene": {
       "kind": "notebook",
       "caption": "child",
@@ -9017,6 +9668,147 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "After the old command is refused, play composes a new arrangement and gives it an affirmative beginning.",
+        "beats": [
+          {
+            "caption": "Zarathustra’s child begins where refusal alone leaves an empty space.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "blank",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blank-outline",
+                    "type": "path",
+                    "d": "M-91.5 -64.0 L91.5 -63.0 L90.5 64.0 L-90.5 63.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 114
+              }
+            ]
+          },
+          {
+            "caption": "The materials can be encountered through new play.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "blank",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blank-outline",
+                    "type": "path",
+                    "d": "M-91.5 -64.0 L91.5 -63.0 L90.5 64.0 L-90.5 63.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 114
+              },
+              {
+                "id": "piece1",
+                "type": "circle",
+                "x": 154,
+                "y": 111,
+                "r": 12
+              },
+              {
+                "id": "piece2",
+                "type": "path",
+                "d": "M205 96 L226 124 L205 139 L187 117 Z"
+              },
+              {
+                "id": "piece3",
+                "type": "path",
+                "d": "M248 95 L268 95 L267 137 L249 137 Z"
+              }
+            ]
+          },
+          {
+            "caption": "A new arrangement receives a first affirmative beginning.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "blank",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blank-outline",
+                    "type": "path",
+                    "d": "M-91.5 -64.0 L91.5 -63.0 L90.5 64.0 L-90.5 63.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 114
+              },
+              {
+                "id": "piece1",
+                "type": "circle",
+                "x": 181,
+                "y": 117,
+                "r": 12
+              },
+              {
+                "id": "piece2",
+                "type": "path",
+                "d": "M205 81 L226 109 L205 124 L187 102 Z"
+              },
+              {
+                "id": "piece3",
+                "type": "path",
+                "d": "M197 138 L217 138 L216 160 L198 160 Z"
+              }
+            ]
+          },
+          {
+            "caption": "Creation develops its own terms rather than merely reversing the old command.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "blank",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blank-outline",
+                    "type": "path",
+                    "d": "M-91.5 -64.0 L91.5 -63.0 L90.5 64.0 L-90.5 63.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 114
+              },
+              {
+                "id": "piece1",
+                "type": "circle",
+                "x": 181,
+                "y": 117,
+                "r": 12
+              },
+              {
+                "id": "piece2",
+                "type": "path",
+                "d": "M205 81 L226 109 L205 124 L187 102 Z"
+              },
+              {
+                "id": "piece3",
+                "type": "path",
+                "d": "M197 138 L217 138 L216 160 L198 160 Z"
+              },
+              {
+                "id": "yes",
+                "type": "text",
+                "text": "a first yes",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -9070,31 +9862,63 @@
         ]
       },
       {
-        "description": "new play; new rules.",
+        "description": "Play can organize its own rules: the new arrangement does more than reverse an old command.",
         "actors": [
           {
             "id": "field",
-            "type": "path",
-            "d": "M61 122 Q99 67 145 123 Q190 187 235 120 Q283 59 336 124"
+            "type": "group",
+            "children": [
+              {
+                "id": "field-edge",
+                "type": "path",
+                "d": "M-127.0 -63.5 L127.0 -62.5 L126.0 63.5 L-126.0 62.5 Z"
+              }
+            ],
+            "x": 202,
+            "y": 123,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "outline",
-            "type": "path",
-            "d": "M147 73 Q191 58 236 78 L232 174 Q188 194 148 172 Z"
+            "id": "part",
+            "type": "circle",
+            "x": 146,
+            "y": 105,
+            "r": 15
           },
           {
-            "id": "a",
+            "id": "diamond",
+            "type": "path",
+            "d": "M217 83L238 108L217 133L197 109Z"
+          },
+          {
+            "id": "small",
+            "type": "path",
+            "d": "M185 154L202 154L201 174L186 174Z"
+          },
+          {
+            "id": "relations",
+            "type": "path",
+            "d": "M162 105L197 109 M218 136L202 154"
+          },
+          {
+            "id": "top",
             "type": "text",
             "text": "new play",
-            "x": 162.8352294921875,
-            "y": 42
+            "x": 200,
+            "y": 43,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "bottom",
             "type": "text",
-            "text": "new rules",
-            "x": 160.06724243164064,
-            "y": 225
+            "text": "a rule formed within it",
+            "x": 200,
+            "y": 225,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -9112,7 +9936,7 @@
     "sources": [
       "bg-13-36"
     ],
-    "metaphor": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist.",
+    "metaphor": "Different forces are brought into an organization that produces a capacity greater than any one force alone.",
     "scene": {
       "kind": "notebook",
       "caption": "will power",
@@ -9180,6 +10004,119 @@
             "y": 223
           }
         ]
+      },
+      "lesson": {
+        "description": "Different forces are brought into an organization that produces a capacity greater than any one force alone.",
+        "beats": [
+          {
+            "caption": "A capacity can involve several competing forces.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "force-a",
+                "type": "path",
+                "d": "M83 75 L133 128 L88 178"
+              },
+              {
+                "id": "force-b",
+                "type": "path",
+                "d": "M187 48 L220 109 L186 172"
+              },
+              {
+                "id": "force-c",
+                "type": "path",
+                "d": "M281 85 Q337 125 286 181"
+              }
+            ]
+          },
+          {
+            "caption": "An ordering brings those forces into a working relation.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "force-a",
+                "type": "path",
+                "d": "M136 91 L179 124 L138 158"
+              },
+              {
+                "id": "force-b",
+                "type": "path",
+                "d": "M188 74 L220 128 L188 178"
+              },
+              {
+                "id": "force-c",
+                "type": "path",
+                "d": "M250 91 Q288 124 254 163"
+              },
+              {
+                "id": "order",
+                "type": "path",
+                "d": "M111 190 L298 190"
+              }
+            ]
+          },
+          {
+            "caption": "Their relation produces a form that can act.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "force-a",
+                "type": "path",
+                "d": "M147 101 L180 124 L149 149"
+              },
+              {
+                "id": "force-b",
+                "type": "path",
+                "d": "M191 72 L215 125 L191 174"
+              },
+              {
+                "id": "force-c",
+                "type": "path",
+                "d": "M233 95 Q270 125 236 157"
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M128 68 Q202 38 277 74 L277 179 Q200 211 127 177 Z"
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche’s account includes forming capacities. The wider interpretation remains debated.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "force-a",
+                "type": "path",
+                "d": "M147 101 L180 124 L149 149"
+              },
+              {
+                "id": "force-b",
+                "type": "path",
+                "d": "M191 72 L215 125 L191 174"
+              },
+              {
+                "id": "force-c",
+                "type": "path",
+                "d": "M233 95 Q270 125 236 157"
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M128 68 Q202 38 277 74 L277 179 Q200 211 127 177 Z"
+              },
+              {
+                "id": "organization",
+                "type": "text",
+                "text": "power as forming a capacity",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -9200,12 +10137,12 @@
         "description": "resisting forces; an organization.",
         "actors": [
           {
-            "id": "a",
+            "id": "a-path-0",
             "type": "path",
             "d": "M71 79 Q149 66 202 125 L320 122"
           },
           {
-            "id": "b",
+            "id": "b-path-1",
             "type": "path",
             "d": "M78 166 Q143 180 202 125"
           },
@@ -9222,14 +10159,14 @@
             "r": 12
           },
           {
-            "id": "a",
+            "id": "a-text-4",
             "type": "text",
             "text": "resisting forces",
             "x": 40.507388305664065,
             "y": 218
           },
           {
-            "id": "b",
+            "id": "b-text-5",
             "type": "text",
             "text": "an organization",
             "x": 227.90838623046875,
@@ -9238,31 +10175,64 @@
         ]
       },
       {
-        "description": "rule other people; form a capacity.",
+        "description": "Domination of people is one relation; cultivating a capacity is a wider problem of organizing forces.",
         "actors": [
           {
-            "id": "hook",
-            "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "id": "ruler",
+            "type": "figure",
+            "x": 97,
+            "y": 115,
+            "pose": {
+              "scale": 0.6
+            }
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "subject-a",
+            "type": "figure",
+            "x": 69,
+            "y": 167,
+            "pose": {
+              "scale": 0.38
+            }
           },
           {
-            "id": "a",
+            "id": "subject-b",
+            "type": "figure",
+            "x": 131,
+            "y": 167,
+            "pose": {
+              "scale": 0.38
+            }
+          },
+          {
+            "id": "maker",
+            "type": "figure",
+            "x": 287,
+            "y": 141,
+            "facing": true
+          },
+          {
+            "id": "material",
+            "type": "path",
+            "d": "M232 127 L256 108 L258 152 L234 155 Z M319 120 L336 95 L346 122 L330 151"
+          },
+          {
+            "id": "dominate",
             "type": "text",
-            "text": "rule other people",
-            "x": 32.61845245361329,
-            "y": 218
+            "text": "rule people",
+            "x": 101,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "capacity",
             "type": "text",
             "text": "form a capacity",
-            "x": 225.58641052246094,
-            "y": 218
+            "x": 288,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -9280,7 +10250,7 @@
     "sources": [
       "bg-188"
     ],
-    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "metaphor": "Repeated practice on a musical instrument makes possible a freedom of expression unavailable at the beginning.",
     "scene": {
       "kind": "notebook",
       "caption": "discipline form",
@@ -9336,6 +10306,145 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "Repeated practice on a musical instrument makes possible a freedom of expression unavailable at the beginning.",
+        "beats": [
+          {
+            "caption": "A beginner cannot yet make the instrument express the intended phrase.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 100,
+                "y": 138
+              },
+              {
+                "id": "failed",
+                "type": "path",
+                "d": "M210 86 L232 74 L235 98 L252 85"
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          },
+          {
+            "caption": "Repeated constraints train hearing and movement.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 100,
+                "y": 138
+              },
+              {
+                "id": "practice",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "practice-outline",
+                    "type": "path",
+                    "d": "M-70.0 -32.5 L70.0 -31.5 L69.0 32.5 L-69.0 31.5 Z"
+                  },
+                  {
+                    "id": "practice-word0-line0",
+                    "type": "text",
+                    "text": "again",
+                    "x": 0,
+                    "y": -8.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 274,
+                "y": 64
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          },
+          {
+            "caption": "A previously unavailable phrase becomes possible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 100,
+                "y": 138
+              },
+              {
+                "id": "phrase",
+                "type": "path",
+                "d": "M186 84 Q215 55 241 86 Q264 110 295 81"
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          },
+          {
+            "caption": "Some freedoms grow through discipline. This does not justify every imposed constraint.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 100,
+                "y": 138
+              },
+              {
+                "id": "phrase",
+                "type": "path",
+                "d": "M186 84 Q215 55 241 86 Q264 110 295 81"
+              },
+              {
+                "id": "made",
+                "type": "text",
+                "text": "an acquired freedom",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -9353,52 +10462,51 @@
     ],
     "readingArt": [
       {
-        "description": "repeated constraint; expressive capacity.",
+        "description": "Learned constraints can make a previously unavailable expressive phrase possible.",
         "actors": [
           {
-            "id": "trial1",
+            "id": "keys",
             "type": "path",
-            "d": "M62 168 Q125 74 257 123",
-            "tone": "faint"
+            "d": "M66 121L329 121L329 154L65 153Z M97 121L97 152 M130 121L130 154 M163 121L163 154 M196 121L196 154 M229 121L229 154 M262 121L262 154 M295 121L295 154"
           },
           {
-            "id": "trial2",
+            "id": "rough",
             "type": "path",
-            "d": "M63 170 Q180 191 292 89",
-            "tone": "faint"
+            "d": "M87 83L105 70L110 85L130 75"
           },
           {
-            "id": "work",
-            "type": "path",
-            "d": "M63 170 Q140 122 202 140 Q258 153 327 70"
+            "id": "fluent",
+            "type": "group",
+            "children": [
+              {
+                "id": "phrase",
+                "type": "path",
+                "d": "M-52 0 Q-27-38 0 0 Q25 34 54-3"
+              }
+            ],
+            "x": 258,
+            "y": 79,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "a-top",
+            "id": "practice",
             "type": "text",
-            "text": "repeated",
-            "x": 66.6562286376953,
-            "y": 209
+            "text": "trained movement",
+            "x": 200,
+            "y": 200,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "a-bottom",
+            "id": "result",
             "type": "text",
-            "text": "constraint",
-            "x": 61.92125701904297,
-            "y": 230
-          },
-          {
-            "id": "b-top",
-            "type": "text",
-            "text": "expressive",
-            "x": 247.40026092529297,
-            "y": 209
-          },
-          {
-            "id": "b-bottom",
-            "type": "text",
-            "text": "capacity",
-            "x": 255.18622741699218,
-            "y": 230
+            "text": "makes a phrase available",
+            "x": 200,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -9462,7 +10570,7 @@
     "sources": [
       "gs-335"
     ],
-    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "metaphor": "A series of lived attempts reveals a direction that was not available as a finished blueprint beforehand.",
     "scene": {
       "kind": "notebook",
       "caption": "becoming not knowing",
@@ -9518,6 +10626,139 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "A series of lived attempts reveals a direction that was not available as a finished blueprint beforehand.",
+        "beats": [
+          {
+            "caption": "A person begins without a final plan of who they will become.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 105,
+                "y": 141
+              },
+              {
+                "id": "blueprint",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blueprint-outline",
+                    "type": "path",
+                    "d": "M-64.0 -59.5 L64.0 -58.5 L63.0 59.5 L-63.0 58.5 Z"
+                  },
+                  {
+                    "id": "blueprint-word0-line0",
+                    "type": "text",
+                    "text": "a final plan?",
+                    "x": 0,
+                    "y": -35.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 104
+              }
+            ]
+          },
+          {
+            "caption": "An attempt reveals an unexpected ability or limit.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 105,
+                "y": 141
+              },
+              {
+                "id": "attempt1",
+                "type": "path",
+                "d": "M154 165 Q190 115 228 153 Q258 178 278 155"
+              },
+              {
+                "id": "blueprint",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blueprint-outline",
+                    "type": "path",
+                    "d": "M-51.5 -26.0 L51.5 -25.0 L50.5 26.0 L-50.5 25.0 Z"
+                  },
+                  {
+                    "id": "blueprint-word0-line0",
+                    "type": "text",
+                    "text": "unknown",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 292,
+                "y": 52
+              }
+            ]
+          },
+          {
+            "caption": "A later attempt changes direction in response to what was learned.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 105,
+                "y": 141
+              },
+              {
+                "id": "attempt1",
+                "type": "path",
+                "d": "M154 165 Q190 115 228 153 Q258 178 278 155",
+                "tone": "faint"
+              },
+              {
+                "id": "attempt2",
+                "type": "path",
+                "d": "M154 165 Q183 182 221 122 Q241 83 291 100"
+              }
+            ]
+          },
+          {
+            "caption": "A life can acquire form through experiments whose result was not known beforehand.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 105,
+                "y": 141
+              },
+              {
+                "id": "attempt1",
+                "type": "path",
+                "d": "M154 165 Q190 115 228 153 Q258 178 278 155",
+                "tone": "faint"
+              },
+              {
+                "id": "attempt2",
+                "type": "path",
+                "d": "M154 165 Q183 182 221 122 Q241 83 291 100"
+              },
+              {
+                "id": "learned",
+                "type": "text",
+                "text": "direction learned in living",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -9535,36 +10776,70 @@
     ],
     "readingArt": [
       {
-        "description": "no final blueprint; experiment.",
+        "description": "A direction becomes visible through attempts and responses rather than through a finished blueprint.",
         "actors": [
           {
-            "id": "past",
-            "type": "path",
-            "d": "M60 126 L176 126"
+            "id": "attempt-a",
+            "type": "group",
+            "x": 86,
+            "y": 116,
+            "children": [
+              {
+                "id": "attempt-a-edge",
+                "type": "path",
+                "d": "M-37.0 -40.0 L37.0 -40.0 L37.0 40.0 L-37.0 40.0 Z"
+              }
+            ]
           },
           {
-            "id": "boundary",
-            "type": "path",
-            "d": "M183 51 L183 103 M183 151 L183 196"
+            "id": "attempt-b",
+            "type": "group",
+            "x": 201,
+            "y": 116,
+            "children": [
+              {
+                "id": "attempt-b-edge",
+                "type": "path",
+                "d": "M-37.0 -40.0 L37.0 -40.0 L37.0 40.0 L-37.0 40.0 Z"
+              }
+            ]
           },
           {
-            "id": "future",
-            "type": "path",
-            "d": "M190 127 Q225 158 254 121 Q292 69 335 96"
+            "id": "attempt-c",
+            "type": "group",
+            "x": 313,
+            "y": 116,
+            "children": [
+              {
+                "id": "attempt-c-edge",
+                "type": "path",
+                "d": "M-37.0 -40.0 L37.0 -40.0 L37.0 40.0 L-37.0 40.0 Z"
+              }
+            ]
           },
           {
             "id": "a",
-            "type": "text",
-            "text": "no final blueprint",
-            "x": 33.94542846679687,
-            "y": 218
+            "type": "path",
+            "d": "M63 134 L95 94 L106 132"
           },
           {
             "id": "b",
+            "type": "path",
+            "d": "M178 134 L195 92 L217 129"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M290 132 L312 100 L337 127"
+          },
+          {
+            "id": "begin",
             "type": "text",
-            "text": "experiment",
-            "x": 244.0702896118164,
-            "y": 218
+            "text": "attempts reveal capacities",
+            "x": 200,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -9625,7 +10900,7 @@
     "sources": [
       "z-I-The-Friend"
     ],
-    "metaphor": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+    "metaphor": "A friend’s independent judgment interrupts a flattering mirror and offers a resistant second view.",
     "scene": {
       "kind": "notebook",
       "caption": "friend resistance",
@@ -9712,6 +10987,244 @@
             "y": 235
           }
         ]
+      },
+      "lesson": {
+        "description": "A friend’s independent judgment interrupts a flattering mirror and offers a resistant second view.",
+        "beats": [
+          {
+            "caption": "A flattering reflection returns the judgment I already prefer.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 98,
+                "y": 142
+              },
+              {
+                "id": "mirror",
+                "type": "path",
+                "d": "M219 53 L320 53 L320 189 L219 189 Z"
+              },
+              {
+                "id": "own",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "own-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "own-words-line0",
+                    "type": "text",
+                    "text": "yes",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 97,
+                "y": 41
+              },
+              {
+                "id": "mirror-yes",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "mirror-yes-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "mirror-yes-words-line0",
+                    "type": "text",
+                    "text": "yes",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 269,
+                "y": 96
+              }
+            ]
+          },
+          {
+            "caption": "A friend has a view that does not fit that reflection.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 98,
+                "y": 142
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 294,
+                "y": 142,
+                "facing": true
+              },
+              {
+                "id": "own",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "own-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "own-words-line0",
+                    "type": "text",
+                    "text": "yes",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 97,
+                "y": 41
+              },
+              {
+                "id": "friend-no",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "friend-no-outline",
+                    "type": "path",
+                    "d": "M-66.5 -27 L66.5 -27 L66.5 20 L12 20 L0 33 L-1 20 L-66.5 20 Z"
+                  },
+                  {
+                    "id": "friend-no-words-line0",
+                    "type": "text",
+                    "text": "consider this",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 284,
+                "y": 43
+              }
+            ]
+          },
+          {
+            "caption": "The disagreement makes an excluded possibility visible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 98,
+                "y": 142
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 294,
+                "y": 142,
+                "facing": true
+              },
+              {
+                "id": "possibility",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "possibility-outline",
+                    "type": "path",
+                    "d": "M-55.5 -34.5 L55.5 -33.5 L54.5 34.5 L-54.5 33.5 Z"
+                  },
+                  {
+                    "id": "possibility-word0-line0",
+                    "type": "text",
+                    "text": "another",
+                    "x": 0,
+                    "y": -10.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "possibility-word0-line1",
+                    "type": "text",
+                    "text": "view",
+                    "x": 0,
+                    "y": 9.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 134
+              }
+            ]
+          },
+          {
+            "caption": "Friendship can support development through resistance as well as agreement.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 98,
+                "y": 142
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 294,
+                "y": 142,
+                "facing": true
+              },
+              {
+                "id": "possibility",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "possibility-outline",
+                    "type": "path",
+                    "d": "M-55.5 -34.5 L55.5 -33.5 L54.5 34.5 L-54.5 33.5 Z"
+                  },
+                  {
+                    "id": "possibility-word0-line0",
+                    "type": "text",
+                    "text": "another",
+                    "x": 0,
+                    "y": -10.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "possibility-word0-line1",
+                    "type": "text",
+                    "text": "view",
+                    "x": 0,
+                    "y": 9.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 134
+              },
+              {
+                "id": "independent",
+                "type": "text",
+                "text": "two independent judgments",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -9779,43 +11292,75 @@
         ]
       },
       {
-        "description": "preferred reflection; another person.",
+        "description": "A friend can offer an independent judgment while the two people remain in a relationship.",
         "actors": [
           {
-            "id": "inner",
+            "id": "one",
+            "type": "figure",
+            "x": 101,
+            "y": 151,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 300,
+            "y": 151,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": true
+          },
+          {
+            "id": "claim",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 200,
+            "y": 117,
+            "pose": {
+              "scale": 0.65
+            }
+          },
+          {
+            "id": "relation",
             "type": "path",
-            "d": "M159 77 Q183 59 208 78 L209 125 Q187 153 160 124 Z"
+            "d": "M119 157Q195 188 284 158"
           },
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M209 64 Q239 51 261 69 L261 120 Q232 141 211 116 Z"
-          },
-          {
-            "id": "gap",
-            "type": "path",
-            "d": "M191 162 Q227 171 248 155"
-          },
-          {
-            "id": "a-top",
+            "id": "preferred",
             "type": "text",
-            "text": "preferred",
-            "x": 65.40923767089843,
-            "y": 209
+            "text": "my judgment",
+            "x": 101,
+            "y": 51,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "a-bottom",
+            "id": "other",
             "type": "text",
-            "text": "reflection",
-            "x": 64.83724212646484,
-            "y": 230
+            "text": "a different view",
+            "x": 300,
+            "y": 51,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "remain",
             "type": "text",
-            "text": "another person",
-            "x": 227.44539337158204,
-            "y": 218
+            "text": "difference within friendship",
+            "x": 200,
+            "y": 223,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -9829,11 +11374,11 @@
     "title": "Outgrowing the teacher",
     "statement": "A teaching can fail when it becomes a permanent dependency.",
     "explanation": "At the end of Zarathustra's first part, the teacher asks his companions to leave him and find themselves. Receiving a thought is different from remaining its obedient disciple.",
-    "nuance": "This is a scene in a philosophical fiction. It complicates the temptation to treat Zarathustra as a source of final commandments, and Nietzsche himself as an unquestionable authority. A learner who can only reproduce the teacher's conclusions has not necessarily learned how to evaluate. Independence must include the possibility of refusing the teacher. The gesture also tests the companions' desire. Do they want the authority of belonging to a teacher, or do they want the independence that the teaching asks them to acquire? The two can come into conflict.\n\nA student can absorb a teacher's conclusions while retaining the habit of waiting for the next instruction. Zarathustra's farewell interrupts that structure. His companions must lose the teacher if they are to become more than companions who repeat him. The departure is part of the teaching itself. The illustration leaves an open path beyond the old boundary because neither obedience nor its simple reversal determines where the learner should go.\n\nThis passage creates a useful caution for reading the book that contains it. A character who demands independence cannot easily become an unquestionable source of doctrine without contradiction. Nietzsche's own authority must remain available for criticism too. The aim is not to reject everything one has learned but to acquire a relation to it that can include examination, revision, and refusal. A teaching succeeds differently when it makes its own permanent indispensability questionable.",
+    "nuance": "This is a scene in a philosophical fiction. It complicates the temptation to treat Zarathustra as a source of final commandments, and Nietzsche himself as an unquestionable authority. A learner who can only reproduce the teacher's conclusions has not necessarily learned how to evaluate. Independence must include the possibility of refusing the teacher. The gesture also tests the companions' desire. Do they want the authority of belonging to a teacher, or do they want the independence that the teaching asks them to acquire? The two can come into conflict.\n\nA student can absorb a teacher's conclusions while retaining the habit of waiting for the next instruction. Zarathustra's farewell interrupts that structure. His companions must lose the teacher if they are to become more than companions who repeat him. The departure is part of the teaching itself. The illustration leaves an open path beyond the old boundary because neither obedience nor its simple reversal determines where the learner should go.\n\nThis passage creates a useful caution for reading the book that contains it. A character who demands independence cannot easily become an unquestionable source of doctrine without contradiction. Nietzsche's own authority must remain available for criticism too. The student acquires a relation to the teaching that includes examination, revision, and possible refusal. A teaching succeeds differently when it makes its own permanent indispensability questionable.",
     "sources": [
       "z-I-Bestowing-Virtue-3"
     ],
-    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "metaphor": "A received teaching is carried away from its author and revised through the student’s own judgment.",
     "scene": {
       "kind": "notebook",
       "caption": "teacher leaving",
@@ -9896,6 +11441,215 @@
             "y": 238
           }
         ]
+      },
+      "lesson": {
+        "description": "A received teaching is carried away from its author and revised through the student’s own judgment.",
+        "beats": [
+          {
+            "caption": "A teacher gives a student a way of seeing.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 103,
+                "y": 141
+              },
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 292,
+                "y": 141,
+                "facing": true
+              },
+              {
+                "id": "teaching",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "teaching-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "teaching-label",
+                    "type": "text",
+                    "text": "a received thought",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 114
+              }
+            ]
+          },
+          {
+            "caption": "The student can repeat it faithfully.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 103,
+                "y": 141
+              },
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 292,
+                "y": 141,
+                "facing": true
+              },
+              {
+                "id": "repeat-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "repeat-a-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "repeat-a-words-line0",
+                    "type": "text",
+                    "text": "the answer",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 103,
+                "y": 40
+              },
+              {
+                "id": "repeat-b",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "repeat-b-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "repeat-b-words-line0",
+                    "type": "text",
+                    "text": "the answer",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 292,
+                "y": 40
+              }
+            ]
+          },
+          {
+            "caption": "Zarathustra asks the student to leave and learn to judge independently.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 71,
+                "y": 141,
+                "tone": "faint"
+              },
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 262,
+                "y": 141
+              },
+              {
+                "id": "judgment",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "judgment-outline",
+                    "type": "path",
+                    "d": "M-68.5 -29.5 L68.5 -28.5 L67.5 29.5 L-67.5 28.5 Z"
+                  },
+                  {
+                    "id": "judgment-word0-line0",
+                    "type": "text",
+                    "text": "my inquiry",
+                    "x": 0,
+                    "y": -5.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 35
+              }
+            ]
+          },
+          {
+            "caption": "A teaching can succeed by making its recipient able to question the teacher.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 71,
+                "y": 141,
+                "tone": "faint"
+              },
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 262,
+                "y": 141
+              },
+              {
+                "id": "judgment",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "judgment-outline",
+                    "type": "path",
+                    "d": "M-68.5 -29.5 L68.5 -28.5 L67.5 29.5 L-67.5 28.5 Z"
+                  },
+                  {
+                    "id": "judgment-word0-line0",
+                    "type": "text",
+                    "text": "a revised",
+                    "x": 0,
+                    "y": -5.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "judgment-word0-line1",
+                    "type": "text",
+                    "text": "answer",
+                    "x": 0,
+                    "y": 14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 35
+              },
+              {
+                "id": "leaving",
+                "type": "text",
+                "text": "learning to leave the teacher",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -9954,47 +11708,62 @@
         ]
       },
       {
-        "description": "received thought; revised understanding.",
+        "description": "Receiving a thought and revising it through independent judgment are different stages of learning.",
         "actors": [
           {
-            "id": "now",
-            "type": "circle",
-            "x": 94,
-            "y": 121,
-            "r": 7
+            "id": "received",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 109,
+            "y": 116,
+            "pose": {
+              "scale": 0.9
+            }
           },
           {
-            "id": "then",
-            "type": "circle",
-            "x": 307,
-            "y": 123,
-            "r": 7
+            "id": "revised",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 290,
+            "y": 116,
+            "pose": {
+              "scale": 0.9
+            }
           },
           {
-            "id": "thread",
+            "id": "notes",
             "type": "path",
-            "d": "M102 123 Q150 112 200 128 Q262 142 300 124"
+            "d": "M308 82L319 90 M306 98L322 110 M307 118L321 123"
           },
           {
-            "id": "a",
+            "id": "first",
             "type": "text",
             "text": "received thought",
-            "x": 32.92045135498047,
-            "y": 218
+            "x": 109,
+            "y": 216,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b-top",
+            "id": "second",
             "type": "text",
-            "text": "revised",
-            "x": 261.38317718505857,
-            "y": 209
-          },
-          {
-            "id": "b-bottom",
-            "type": "text",
-            "text": "understanding",
-            "x": 231.0413604736328,
-            "y": 230
+            "text": "tested understanding",
+            "x": 290,
+            "y": 216,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       }
