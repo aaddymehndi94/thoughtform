@@ -1,0 +1,3655 @@
+[
+  {
+    "id": "dostoevsky-consciousness",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Excess consciousness",
+    "title": "The thinking trap",
+    "statement": "An explanation can become a way never to act.",
+    "explanation": "The Underground Man turns every possible motive into another objection. His intelligence exposes contradictions, but also supplies reasons to remain where he is.",
+    "nuance": "He does not simply lack insight. Insight becomes part of his enclosure: if he can undermine every reason, no reason can carry him into action.\n\nImagine drafting an apology, then interrogating every phrase until sending it feels impossible. The analogy does not diagnose reflection as illness. The novella stages a particular voice whose lucidity repeatedly protects him from the vulnerable act of meeting another person.",
+    "sources": [
+      "underground-1"
+    ],
+    "metaphor": "A small opening stays available while a route circles through increasingly elaborate detours.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "excess consciousness",
+      "variant": "dostoevsky-labyrinth",
+      "composition": {
+        "description": "A small opening stays available while a route circles through increasingly elaborate detours.",
+        "actors": [
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M97 65 L299 64 L300 177 L230 179 M174 178 L97 178 L97 65",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M198 166 L198 100 L271 101 L271 147 L129 145 L129 86 L280 86",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "thinking",
+            "type": "text",
+            "x": 201,
+            "y": 49,
+            "text": "one more reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "exit",
+            "type": "text",
+            "x": 201,
+            "y": 212,
+            "text": "still possible",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "excess consciousness",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 1
+    },
+    "related": [
+      "dostoevsky-resentment"
+    ],
+    "readingArt": [
+      {
+        "description": "A small opening stays available while a route circles through increasingly elaborate detours.",
+        "actors": [
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M97 65 L299 64 L300 177 L230 179 M174 178 L97 178 L97 65",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M198 166 L198 100 L271 101 L271 147 L129 145 L129 86 L280 86",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "thinking",
+            "type": "text",
+            "x": 201,
+            "y": 49,
+            "text": "one more reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "exit",
+            "type": "text",
+            "x": 201,
+            "y": 212,
+            "text": "still possible",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-resentment",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Resentment",
+    "title": "The return staircase",
+    "statement": "A slight can outlive the encounter that produced it.",
+    "explanation": "The Underground Man rehearses humiliations long after they occur. An imagined reversal gives resentment more time and importance than the original event.",
+    "nuance": "His revenge is often prepared in fantasy before it enters the world. The remembered opponent becomes a partner in an argument that no longer requires their presence.\n\nThe looping staircase makes the return visible: climbing toward a victory brings the figure back to the wound. Dostoevsky gives this pattern to a compromised narrator; the card is a reading of that pattern, not a claim that every response to humiliation is irrational.",
+    "sources": [
+      "underground-1"
+    ],
+    "metaphor": "A figure keeps climbing back toward a remembered slight; the staircase curls into a repeated return.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "resentment",
+      "variant": "dostoevsky-stair",
+      "composition": {
+        "description": "A figure keeps climbing back toward a remembered slight; the staircase curls into a repeated return.",
+        "actors": [
+          {
+            "id": "steps",
+            "type": "path",
+            "d": "M81 182 L116 182 L116 157 L153 157 L153 129 L191 129 L191 101 L229 101 L229 74 L270 74",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 148,
+            "y": 140,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M281 84 C331 148 274 197 201 175",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "again",
+            "type": "text",
+            "x": 264,
+            "y": 210,
+            "text": "again",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "resentment",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 2
+    },
+    "related": [
+      "dostoevsky-wall"
+    ]
+  },
+  {
+    "id": "dostoevsky-wall",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Reason and necessity",
+    "title": "The stone wall",
+    "statement": "A fact can defeat your argument without reconciling you to it.",
+    "explanation": "The Underground Man’s wall represents necessity, including the authority of arithmetic. He cannot refute it, but he refuses to find comfort in being told resistance is pointless.",
+    "nuance": "His objection is not a sound mathematical argument. It exposes the difference between demonstrating a fact and settling what a person feels about living under it.\n\nThe wall therefore stays intact while the wavering line persists. A reader need not celebrate the refusal: it can protect a sense of freedom, or deepen a self-destructive quarrel with reality. The narrator dramatizes the problem rather than providing a stable solution.",
+    "sources": [
+      "underground-3"
+    ],
+    "metaphor": "A mathematically complete wall blocks a figure whose refusal remains visible as a wavering line.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "reason and necessity",
+      "variant": "dostoevsky-wall",
+      "composition": {
+        "description": "A mathematically complete wall blocks a figure whose refusal remains visible as a wavering line.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M258 53 L257 182 M258 99 L322 99 M259 143 L325 143",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "arithmetic",
+            "type": "text",
+            "x": 291,
+            "y": 79,
+            "text": "2 × 2 = 4",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 151,
+            "y": 134,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "refusal",
+            "type": "path",
+            "d": "M174 130 Q211 91 235 137 Q218 164 199 152",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "refuse",
+            "type": "text",
+            "x": 153,
+            "y": 205,
+            "text": "still refusing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "reason and necessity",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 3
+    },
+    "related": [
+      "dostoevsky-advantage"
+    ]
+  },
+  {
+    "id": "dostoevsky-advantage",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Rational self-interest",
+    "title": "Against advantage",
+    "statement": "A person may reject the best available outcome to resist being fully predicted.",
+    "explanation": "Against schemes of rational self-interest, the Underground Man insists on the possibility of choosing badly. His counterexample makes freedom harder to reduce to a calculation of benefit.",
+    "nuance": "In his argument, someone may choose an inconvenience because the recommended advantage feels like another person’s control. That motive can injure the chooser and still resist the model that says they must maximise welfare.\n\nThis is a challenge voiced by a deliberately unreliable speaker. The novel does not turn self-sabotage into a general virtue. It asks what a theory of people misses when it explains away their capacity to refuse.",
+    "sources": [
+      "underground-7"
+    ],
+    "metaphor": "A perfect grid labels the possible moves; one path leaves the prescribed squares and turns back.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "rational self-interest",
+      "variant": "dostoevsky-cage",
+      "composition": {
+        "description": "A perfect grid labels the possible moves; one path leaves the prescribed squares and turns back.",
+        "actors": [
+          {
+            "id": "grid",
+            "type": "path",
+            "d": "M101 67 L298 68 L298 184 L101 182 Z M166 68 L167 183 M233 68 L232 184 M102 125 L298 125",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "deviation",
+            "type": "path",
+            "d": "M131 156 L198 156 L198 94 Q243 39 321 74 Q338 138 274 162",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "outside",
+            "type": "text",
+            "x": 209,
+            "y": 213,
+            "text": "even against advantage",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "rational self-interest",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 4
+    },
+    "related": [
+      "dostoevsky-palace"
+    ],
+    "readingArt": [
+      {
+        "description": "A perfect grid labels the possible moves; one path leaves the prescribed squares and turns back.",
+        "actors": [
+          {
+            "id": "grid",
+            "type": "path",
+            "d": "M101 67 L298 68 L298 184 L101 182 Z M166 68 L167 183 M233 68 L232 184 M102 125 L298 125",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "deviation",
+            "type": "path",
+            "d": "M131 156 L198 156 L198 94 Q243 39 321 74 Q338 138 274 162",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "outside",
+            "type": "text",
+            "x": 209,
+            "y": 213,
+            "text": "even against advantage",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-palace",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "The crystal palace",
+    "title": "The completed plan",
+    "statement": "A perfect social plan may leave no room to object.",
+    "explanation": "The Underground Man distrusts the crystal palace as an image of settled, calculated happiness. His fear is that a finished system will make dissent appear meaningless.",
+    "nuance": "The image is polemical: a palace whose promises are beyond criticism can resemble an enclosure, even if it offers comfort. The narrator wants to retain the possibility of refusing it.\n\nThe card distinguishes this challenge from proof that improvement is futile. A less oppressive institution can be genuinely better. The uncomfortable question is whether a claim to final perfection can survive the independent person who is unwilling to be its satisfied inhabitant.",
+    "sources": [
+      "underground-10"
+    ],
+    "metaphor": "A perfect grid labels the possible moves; one path leaves the prescribed squares and turns back.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the crystal palace",
+      "variant": "dostoevsky-cage",
+      "composition": {
+        "description": "A perfect grid labels the possible moves; one path leaves the prescribed squares and turns back.",
+        "actors": [
+          {
+            "id": "grid",
+            "type": "path",
+            "d": "M101 67 L298 68 L298 184 L101 182 Z M166 68 L167 183 M233 68 L232 184 M102 125 L298 125",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "deviation",
+            "type": "path",
+            "d": "M131 156 L198 156 L198 94 Q243 39 321 74 Q338 138 274 162",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "outside",
+            "type": "text",
+            "x": 209,
+            "y": 213,
+            "text": "even against advantage",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the crystal palace",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 5
+    },
+    "related": [
+      "dostoevsky-imagined-eyes"
+    ]
+  },
+  {
+    "id": "dostoevsky-imagined-eyes",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Social humiliation",
+    "title": "The audience in the room",
+    "statement": "An imagined audience can govern an encounter before anyone speaks.",
+    "explanation": "The Underground Man enters social situations already absorbed in how he may be judged. His inner rehearsal turns ordinary exchanges into tests of status.",
+    "nuance": "At the dinner with former acquaintances, he alternates between fantasies of superiority and expectations of contempt. The exchange he wants is already tangled with an audience inside his own head.\n\nThe figures above the drawing enlarge while the person below remains alone. This does not mean social exclusion is imaginary; his companions can be cruel. It shows how real hierarchy and relentless self-observation can reinforce one another.",
+    "sources": [
+      "underground-dinner"
+    ],
+    "metaphor": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "social humiliation",
+      "variant": "dostoevsky-audience",
+      "composition": {
+        "description": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 158,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "spectators",
+            "type": "path",
+            "d": "M80 83 Q107 52 134 84 M159 77 Q187 47 211 79 M237 83 Q267 50 299 84",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M102 93 L187 134 M185 87 L198 132 M274 95 L214 134",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "their imagined eyes",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "social humiliation",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 6
+    },
+    "related": [
+      "dostoevsky-equal-step"
+    ]
+  },
+  {
+    "id": "dostoevsky-equal-step",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Recognition and status",
+    "title": "The equal step",
+    "statement": "A tiny gesture can carry an entire demand for recognition.",
+    "explanation": "The Underground Man’s encounter with an officer becomes a prolonged struggle to pass without yielding. A shared pavement is transformed into a measure of human standing.",
+    "nuance": "For him, brushing shoulders on equal terms is no longer an incidental event. It has become a symbolic answer to being treated as someone who can be moved aside.\n\nThe episode is comic and painful because the enormous inner preparation remains invisible to the officer. The difference in scale matters: the other person inhabits a brief street encounter, while the narrator inhabits a tribunal over his place in the world.",
+    "sources": [
+      "underground-officer"
+    ],
+    "metaphor": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "recognition and status",
+      "variant": "dostoevsky-audience",
+      "composition": {
+        "description": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 158,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "spectators",
+            "type": "path",
+            "d": "M80 83 Q107 52 134 84 M159 77 Q187 47 211 79 M237 83 Q267 50 299 84",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M102 93 L187 134 M185 87 L198 132 M274 95 L214 134",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "their imagined eyes",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "recognition and status",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 7
+    },
+    "related": [
+      "dostoevsky-liza"
+    ]
+  },
+  {
+    "id": "dostoevsky-liza",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Cruelty and vulnerability",
+    "title": "Close the open door",
+    "statement": "Receiving kindness can threaten a person organised around humiliation.",
+    "explanation": "When Liza responds with compassion, the Underground Man cannot easily occupy the position he imagined. He injures a connection that has exposed his vulnerability.",
+    "nuance": "He first uses a moralising speech to gain power over her. Her later sympathy reaches beyond that performance and makes his dependence visible. The retaliation protects him from being seen while destroying the encounter.\n\nThe drawing closes from inside: the visitor is not what blocks the threshold. This is a reading of the scene’s reversal, not a universal account of cruelty. Liza is another person with her own risk and dignity, not merely a device for saving him.",
+    "sources": [
+      "underground-liza"
+    ],
+    "metaphor": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "cruelty and vulnerability",
+      "variant": "dostoevsky-door",
+      "composition": {
+        "description": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M240 179 L240 59 L304 60 L302 179",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "inside",
+            "type": "figure",
+            "x": 167,
+            "y": 130,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M286 131 Q245 139 211 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "shut",
+            "type": "path",
+            "d": "M242 61 L273 83 L272 171 L241 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "defend",
+            "type": "text",
+            "x": 150,
+            "y": 203,
+            "text": "defending the wound",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "cruelty and vulnerability",
+      "the underground"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 8
+    },
+    "related": [
+      "dostoevsky-unreliable"
+    ],
+    "readingArt": [
+      {
+        "description": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M240 179 L240 59 L304 60 L302 179",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "inside",
+            "type": "figure",
+            "x": 167,
+            "y": 130,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M286 131 Q245 139 211 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "shut",
+            "type": "path",
+            "d": "M242 61 L273 83 L272 171 L241 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "defend",
+            "type": "text",
+            "x": 150,
+            "y": 203,
+            "text": "defending the wound",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-unreliable",
+    "thinker": "dostoevsky",
+    "collection": "The underground",
+    "concept": "Confession and performance",
+    "title": "A confession with an audience",
+    "statement": "Admitting a fault can also be a way of controlling its reception.",
+    "explanation": "The Underground Man repeatedly anticipates and answers his reader. His confession is candid in places, yet it is also a performance that tries to keep judgement on his terms.",
+    "nuance": "A narrator can reveal something shameful while arranging how we are permitted to respond to it. Here, self-accusation does not automatically free the speaker from self-protection.\n\nWatch the clean and tangled lines: one offers the account, while the other complicates its motive. Dostoevsky leaves us reading both at once. This is why the novella cannot be treated as a transparent statement of the author’s beliefs, or as a reliable manual offered by its speaker.",
+    "sources": [
+      "underground-1"
+    ],
+    "metaphor": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "confession and performance",
+      "variant": "dostoevsky-split-reason",
+      "composition": {
+        "description": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+        "actors": [
+          {
+            "id": "clean",
+            "type": "path",
+            "d": "M87 81 L315 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reason",
+            "type": "text",
+            "x": 204,
+            "y": 59,
+            "text": "a reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "tangle",
+            "type": "path",
+            "d": "M87 143 C164 93 194 199 250 143 C196 110 172 165 232 178 Q278 188 313 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "motive",
+            "type": "text",
+            "x": 206,
+            "y": 210,
+            "text": "another motive",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "confession and performance",
+      "the underground"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-underground",
+      "order": 9
+    },
+    "related": [
+      "dostoevsky-exception"
+    ]
+  },
+  {
+    "id": "dostoevsky-exception",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "The extraordinary person",
+    "title": "Above the dividing line",
+    "statement": "A theory of exceptional people can become permission for exceptional harm.",
+    "explanation": "Raskolnikov argues that certain people may step beyond ordinary prohibitions to accomplish a historical purpose. The novel tests that argument against an actual crime and its victims.",
+    "nuance": "The dangerous move is from admiring an achievement to authorising its maker to decide who can be sacrificed. A theory about great figures becomes a personal experiment in belonging to their category.\n\nThe raised platform shows the claim before the line beneath it bends. The novel does not offer this doctrine as settled wisdom. Raskolnikov’s motives and consequences repeatedly disturb the clean intellectual form in which he first presents it.",
+    "sources": [
+      "crime-theory"
+    ],
+    "metaphor": "A figure stands above a line dividing ordinary people; the line bends under the claim to exception.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the extraordinary person",
+      "variant": "dostoevsky-platform",
+      "composition": {
+        "description": "A figure stands above a line dividing ordinary people; the line bends under the claim to exception.",
+        "actors": [
+          {
+            "id": "platform",
+            "type": "path",
+            "d": "M125 115 L230 114 M177 115 L177 187",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "above",
+            "type": "figure",
+            "x": 179,
+            "y": 90,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "below",
+            "type": "figure",
+            "x": 295,
+            "y": 155,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "boundary",
+            "type": "path",
+            "d": "M65 192 Q160 170 331 194",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "exception",
+            "type": "text",
+            "x": 266,
+            "y": 58,
+            "text": "an exception?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the extraordinary person",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 1
+    },
+    "related": [
+      "dostoevsky-motive"
+    ],
+    "readingArt": [
+      {
+        "description": "A figure stands above a line dividing ordinary people; the line bends under the claim to exception.",
+        "actors": [
+          {
+            "id": "platform",
+            "type": "path",
+            "d": "M125 115 L230 114 M177 115 L177 187",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "above",
+            "type": "figure",
+            "x": 179,
+            "y": 90,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "below",
+            "type": "figure",
+            "x": 295,
+            "y": 155,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "boundary",
+            "type": "path",
+            "d": "M65 192 Q160 170 331 194",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "exception",
+            "type": "text",
+            "x": 266,
+            "y": 58,
+            "text": "an exception?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-motive",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Conflicted motives",
+    "title": "More than one reason",
+    "statement": "The reason a person gives need not exhaust the reasons they act.",
+    "explanation": "Raskolnikov offers different accounts of the murder: money, benefit, an experiment in strength. The changing explanations make motive part of the novel’s investigation.",
+    "nuance": "A neat account of an action can conceal motives even from its speaker. Raskolnikov’s reasoning does not disappear because it is incomplete; it becomes one strand among pride, misery, anger, and the wish to test himself.\n\nThe drawing keeps a direct route beside a knot. Their coexistence resists reducing the crime either to a pure theory or to a single emotional cause. The victims remain victims regardless of which account he finally finds persuasive.",
+    "sources": [
+      "crime-confession"
+    ],
+    "metaphor": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "conflicted motives",
+      "variant": "dostoevsky-split-reason",
+      "composition": {
+        "description": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+        "actors": [
+          {
+            "id": "clean",
+            "type": "path",
+            "d": "M87 81 L315 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reason",
+            "type": "text",
+            "x": 204,
+            "y": 59,
+            "text": "a reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "tangle",
+            "type": "path",
+            "d": "M87 143 C164 93 194 199 250 143 C196 110 172 165 232 178 Q278 188 313 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "motive",
+            "type": "text",
+            "x": 206,
+            "y": 210,
+            "text": "another motive",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "conflicted motives",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 2
+    },
+    "related": [
+      "dostoevsky-afterwards"
+    ]
+  },
+  {
+    "id": "dostoevsky-afterwards",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Guilt and isolation",
+    "title": "The room after the act",
+    "statement": "An act can sever a person from others before any court does.",
+    "explanation": "After the murder, Raskolnikov experiences ordinary relationships as increasingly difficult to inhabit. Punishment appears as estrangement as well as a possible legal sentence.",
+    "nuance": "The people who might offer warmth can now feel dangerous, because closeness also threatens exposure. Concealment makes the room smaller without requiring another person to lock it.\n\nThis is a literary exploration of guilt rather than a clinical claim that all isolation signifies wrongdoing. The novel attends to illness, poverty, and pride as well. Its question is how a hidden act alters what it feels possible to share with the living people around you.",
+    "sources": [
+      "crime-after"
+    ],
+    "metaphor": "A self-enclosing room contracts around a figure; an outside connection remains just beyond it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "guilt and isolation",
+      "variant": "dostoevsky-room",
+      "composition": {
+        "description": "A self-enclosing room contracts around a figure; an outside connection remains just beyond it.",
+        "actors": [
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M129 62 L245 61 L246 184 L129 182 Z",
+            "motion": {
+              "kind": "stretch",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 188,
+            "y": 131,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "outside",
+            "type": "path",
+            "d": "M259 126 Q295 94 332 119",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "isolation",
+            "type": "text",
+            "x": 199,
+            "y": 214,
+            "text": "the world recedes",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "guilt and isolation",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 3
+    },
+    "related": [
+      "dostoevsky-victim"
+    ]
+  },
+  {
+    "id": "dostoevsky-victim",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Abstraction and the victim",
+    "title": "The person the theory leaves out",
+    "statement": "A calculation can conceal the life that must bear its result.",
+    "explanation": "Raskolnikov’s argument treats one life as expendable for a possible wider good. The crime’s concrete encounters resist that reduction, including the unplanned killing of Lizaveta.",
+    "nuance": "The difference between a proposition and an encounter is central. A category such as harmful or useless cannot contain everything about the person to whom violence will happen.\n\nLizaveta’s presence exposes how little the plan controls. The novel does not need to prove every consequence in advance to insist that an actual life exceeds the role assigned by someone else’s justification. Notice the unmatched fragment beneath the seemingly complete account.",
+    "sources": [
+      "crime-murder"
+    ],
+    "metaphor": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "abstraction and the victim",
+      "variant": "dostoevsky-evidence",
+      "composition": {
+        "description": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+        "actors": [
+          {
+            "id": "pieces",
+            "type": "path",
+            "d": "M88 110 L133 87 L173 111 L137 144 Z M174 111 L213 89 L252 111 L214 144 Z M254 111 L292 89 L326 109 L295 143 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "unmatched",
+            "type": "path",
+            "d": "M201 164 L225 182 L207 196 L184 179 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "story",
+            "type": "text",
+            "x": 205,
+            "y": 61,
+            "text": "a convincing story",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "remainder",
+            "type": "text",
+            "x": 278,
+            "y": 207,
+            "text": "what it leaves out",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "abstraction and the victim",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 4
+    },
+    "related": [
+      "dostoevsky-compassion"
+    ],
+    "readingArt": [
+      {
+        "description": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+        "actors": [
+          {
+            "id": "pieces",
+            "type": "path",
+            "d": "M88 110 L133 87 L173 111 L137 144 Z M174 111 L213 89 L252 111 L214 144 Z M254 111 L292 89 L326 109 L295 143 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "unmatched",
+            "type": "path",
+            "d": "M201 164 L225 182 L207 196 L184 179 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "story",
+            "type": "text",
+            "x": 205,
+            "y": 61,
+            "text": "a convincing story",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "remainder",
+            "type": "text",
+            "x": 278,
+            "y": 207,
+            "text": "what it leaves out",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-compassion",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Raskolnikov’s generosity",
+    "title": "The divided actor",
+    "statement": "A capacity for kindness can coexist with terrible wrongdoing.",
+    "explanation": "Raskolnikov helps the Marmeladov family and feels compassion in moments of distress. Those actions complicate his character without cancelling his responsibility for murder.",
+    "nuance": "A reader might want the generous act to reveal the true person, leaving the crime as a detachable mistake. The novel refuses such easy bookkeeping. Both belong to the same life.\n\nThe two lines remain visible instead of merging into a moral average. Compassion can be real while guilt remains real. Understanding the contradiction helps explain why encountering a person requires more than attaching a single reassuring or condemning description.",
+    "sources": [
+      "crime-generosity"
+    ],
+    "metaphor": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "raskolnikov’s generosity",
+      "variant": "dostoevsky-split-reason",
+      "composition": {
+        "description": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+        "actors": [
+          {
+            "id": "clean",
+            "type": "path",
+            "d": "M87 81 L315 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reason",
+            "type": "text",
+            "x": 204,
+            "y": 59,
+            "text": "a reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "tangle",
+            "type": "path",
+            "d": "M87 143 C164 93 194 199 250 143 C196 110 172 165 232 178 Q278 188 313 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "motive",
+            "type": "text",
+            "x": 206,
+            "y": 210,
+            "text": "another motive",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "raskolnikov’s generosity",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 5
+    },
+    "related": [
+      "dostoevsky-sonya"
+    ]
+  },
+  {
+    "id": "dostoevsky-sonya",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Witness without mastery",
+    "title": "Someone stays",
+    "statement": "Being heard can matter without making the listener responsible for saving you.",
+    "explanation": "Sonya receives Raskolnikov’s account and remains in relation to him. Her response joins compassion to the demand that he acknowledge the crime rather than merely refine its justification.",
+    "nuance": "Her presence gives confession an addressee: the act is no longer held entirely within his self-enclosed argument. But the moral task does not transfer from him to her.\n\nThe offered line does not pull the figure across. This preserves the distinction between accompaniment and control. Sonya’s poverty and coerced circumstances also deserve attention; she cannot be reduced to an ideal of endlessly available care for a man whose suffering dominates the story.",
+    "sources": [
+      "crime-confession"
+    ],
+    "metaphor": "A hand-like line reaches without pulling; a figure can meet it while the damaged history remains below.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "witness without mastery",
+      "variant": "dostoevsky-offer",
+      "composition": {
+        "description": "A hand-like line reaches without pulling; a figure can meet it while the damaged history remains below.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 132,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "hand",
+            "type": "path",
+            "d": "M294 116 Q267 126 242 116 M244 116 L230 123 M244 116 L231 110",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "answer",
+            "type": "path",
+            "d": "M151 123 Q178 139 220 123",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "history",
+            "type": "path",
+            "d": "M100 185 L173 188 M199 185 L286 189",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "without-force",
+            "type": "text",
+            "x": 215,
+            "y": 208,
+            "text": "without forcing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "witness without mastery",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 6
+    },
+    "related": [
+      "dostoevsky-confession"
+    ]
+  },
+  {
+    "id": "dostoevsky-confession",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Acknowledgement",
+    "title": "Say what happened",
+    "statement": "Confession can begin where explanation stops protecting the speaker.",
+    "explanation": "Raskolnikov’s acknowledgement does not immediately resolve the novel’s moral conflict. Naming an act and transforming one’s relation to it are different processes.",
+    "nuance": "A confession can be factually accurate while the speaker still believes the act was justified. The story therefore gives admission a place in a longer, unfinished change.\n\nIn the illustration, a new connection appears above the damaged line; it does not erase that line. Telling the truth can make responsibility possible, but it cannot undo a death or entitle the person who caused it to forgiveness from those who were harmed.",
+    "sources": [
+      "crime-confession"
+    ],
+    "metaphor": "A hand-like line reaches without pulling; a figure can meet it while the damaged history remains below.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "acknowledgement",
+      "variant": "dostoevsky-offer",
+      "composition": {
+        "description": "A hand-like line reaches without pulling; a figure can meet it while the damaged history remains below.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 132,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "hand",
+            "type": "path",
+            "d": "M294 116 Q267 126 242 116 M244 116 L230 123 M244 116 L231 110",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "answer",
+            "type": "path",
+            "d": "M151 123 Q178 139 220 123",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "history",
+            "type": "path",
+            "d": "M100 185 L173 188 M199 185 L286 189",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "without-force",
+            "type": "text",
+            "x": 215,
+            "y": 208,
+            "text": "without forcing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "acknowledgement",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 7
+    },
+    "related": [
+      "dostoevsky-porfiry"
+    ]
+  },
+  {
+    "id": "dostoevsky-porfiry",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Psychological investigation",
+    "title": "The pressure of being understood",
+    "statement": "An investigator can work on the suspect’s account of himself.",
+    "explanation": "Porfiry’s conversations unsettle Raskolnikov without functioning only as requests for facts. The inquiry follows how the suspect interprets, anticipates, and reacts to being seen.",
+    "nuance": "Questions about the theory of exceptional people become a pressure on the identity Raskolnikov wants to maintain. Silence and implication can disturb him more than a straightforward accusation.\n\nThis is narrative strategy, not a practical guide to interrogating others. Psychological confidence can be mistaken, and knowing a person’s style of reasoning is not the same as possessing proof. The novel keeps the gap between insight, coercion, and evidence alive.",
+    "sources": [
+      "crime-porfiry"
+    ],
+    "metaphor": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "psychological investigation",
+      "variant": "dostoevsky-audience",
+      "composition": {
+        "description": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 158,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "spectators",
+            "type": "path",
+            "d": "M80 83 Q107 52 134 84 M159 77 Q187 47 211 79 M237 83 Q267 50 299 84",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M102 93 L187 134 M185 87 L198 132 M274 95 L214 134",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "their imagined eyes",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "psychological investigation",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 8
+    },
+    "related": [
+      "dostoevsky-law"
+    ]
+  },
+  {
+    "id": "dostoevsky-law",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Law and inward change",
+    "title": "A sentence is not the whole event",
+    "statement": "Legal punishment and moral transformation do not move on the same clock.",
+    "explanation": "The novel’s legal outcome does not establish that Raskolnikov has completed an inward change. In the epilogue, the possibility of another life remains an opening rather than a finished result.",
+    "nuance": "A court can determine a sentence without deciding everything about remorse, understanding, or future conduct. Conversely, a profound feeling cannot replace public accountability.\n\nThe scales and the person are placed beside each other because both matter and neither contains the other. The epilogue sketches a beginning; it does not give readers a formula under which suffering automatically converts wrongdoing into goodness.",
+    "sources": [
+      "crime-epilogue"
+    ],
+    "metaphor": "A balanced legal measure stands beside a person whose inner life does not fit its compartments.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "law and inward change",
+      "variant": "dostoevsky-scales",
+      "composition": {
+        "description": "A balanced legal measure stands beside a person whose inner life does not fit its compartments.",
+        "actors": [
+          {
+            "id": "scales",
+            "type": "path",
+            "d": "M125 53 L125 180 M79 83 L172 82 M78 84 L60 128 L99 127 Z M172 83 L152 128 L192 128 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 276,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M257 118 Q278 93 297 119 Q279 149 261 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "measure",
+            "type": "text",
+            "x": 126,
+            "y": 210,
+            "text": "the verdict",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "person-label",
+            "type": "text",
+            "x": 278,
+            "y": 210,
+            "text": "the person",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "law and inward change",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 9
+    },
+    "related": [
+      "dostoevsky-dream-cruelty"
+    ],
+    "readingArt": [
+      {
+        "description": "A balanced legal measure stands beside a person whose inner life does not fit its compartments.",
+        "actors": [
+          {
+            "id": "scales",
+            "type": "path",
+            "d": "M125 53 L125 180 M79 83 L172 82 M78 84 L60 128 L99 127 Z M172 83 L152 128 L192 128 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 276,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M257 118 Q278 93 297 119 Q279 149 261 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "measure",
+            "type": "text",
+            "x": 126,
+            "y": 210,
+            "text": "the verdict",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "person-label",
+            "type": "text",
+            "x": 278,
+            "y": 210,
+            "text": "the person",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-dream-cruelty",
+    "thinker": "dostoevsky",
+    "collection": "Crime and conscience",
+    "concept": "Dream and compassion",
+    "title": "The child in the dream",
+    "statement": "A theory can collide with an image its maker cannot bear.",
+    "explanation": "Raskolnikov’s dream of the beaten horse places him as a child witnessing cruelty. The scene exposes horror and compassion beside the violence he is contemplating.",
+    "nuance": "The dream does not supply a simple hidden-message code. Its force lies in the felt contradiction between the boy who cannot bear a creature’s suffering and the adult who is planning to kill.\n\nA reader can hold those positions together without treating either as the complete truth about him. The vulnerable figure and the raised claim belong in the same visual field. This is one way the novel makes a moral argument exceed its speaker’s words.",
+    "sources": [
+      "crime-dream"
+    ],
+    "metaphor": "A burden above several separate figures lowers until all their lines are connected to it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "dream and compassion",
+      "variant": "dostoevsky-burden",
+      "composition": {
+        "description": "A burden above several separate figures lowers until all their lines are connected to it.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 103,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 202,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "three",
+            "type": "figure",
+            "x": 301,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "burden",
+            "type": "path",
+            "d": "M136 59 L267 59 L269 89 L137 88 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M145 91 L115 124 M201 91 L201 122 M261 91 L289 124",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "responsibility",
+            "type": "text",
+            "x": 205,
+            "y": 213,
+            "text": "not the same guilt",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "dream and compassion",
+      "crime and conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-crime-and-conscience",
+      "order": 10
+    },
+    "related": [
+      "dostoevsky-rebellion"
+    ]
+  },
+  {
+    "id": "dostoevsky-rebellion",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Ivan’s rebellion",
+    "title": "The returned ticket",
+    "statement": "A promised harmony does not answer Ivan’s protest about a child’s suffering.",
+    "explanation": "Ivan asks whether future reconciliation could justify innocent suffering. His refusal concerns the price of an imagined harmony, not simply doubt that harmony will arrive.",
+    "nuance": "The force of the protest depends on refusing to treat a child’s pain as a necessary entry in a larger calculation. Ivan does not want suffering made acceptable by an eventual explanation.\n\nThe novel gives his challenge formidable space, then places other voices beside it. A card should not turn that dramatic argument into Dostoevsky’s final answer, nor reduce it to an obstacle that a reassuring slogan can remove. The unmatched fragment belongs to someone.",
+    "sources": [
+      "brothers-rebellion"
+    ],
+    "metaphor": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "ivan’s rebellion",
+      "variant": "dostoevsky-evidence",
+      "composition": {
+        "description": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+        "actors": [
+          {
+            "id": "pieces",
+            "type": "path",
+            "d": "M88 110 L133 87 L173 111 L137 144 Z M174 111 L213 89 L252 111 L214 144 Z M254 111 L292 89 L326 109 L295 143 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "unmatched",
+            "type": "path",
+            "d": "M201 164 L225 182 L207 196 L184 179 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "story",
+            "type": "text",
+            "x": 205,
+            "y": 61,
+            "text": "a convincing story",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "remainder",
+            "type": "text",
+            "x": 278,
+            "y": 207,
+            "text": "what it leaves out",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ivan’s rebellion",
+      "freedom and faith"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 1
+    },
+    "related": [
+      "dostoevsky-inquisitor"
+    ]
+  },
+  {
+    "id": "dostoevsky-inquisitor",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "The Grand Inquisitor",
+    "title": "Comfort without freedom",
+    "statement": "Relieving the burden of choice can become a reason to take choice away.",
+    "explanation": "In Ivan’s poem, the Grand Inquisitor argues that people want bread and certainty more than freedom. He claims authority to organise their happiness on that basis.",
+    "nuance": "The offer is powerful because freedom can be frightening and material need is real. Its danger is the conversion of those facts into an unlimited right to govern another person’s conscience.\n\nThe enclosure in the drawing speaks a promise before a human connection forms below it. This is the Inquisitor’s argument within Ivan’s story, itself inside the novel. Keeping those layers visible prevents a dramatic voice from being mistaken for the author’s unquestioned doctrine.",
+    "sources": [
+      "brothers-inquisitor"
+    ],
+    "metaphor": "An enclosing authority speaks from above; a small connection appears without winning its argument.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the grand inquisitor",
+      "variant": "dostoevsky-kiss",
+      "composition": {
+        "description": "An enclosing authority speaks from above; a small connection appears without winning its argument.",
+        "actors": [
+          {
+            "id": "authority",
+            "type": "path",
+            "d": "M108 49 L300 49 L301 102 L109 103 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "promise",
+            "type": "text",
+            "x": 207,
+            "y": 78,
+            "text": "I will choose for you",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 141,
+            "y": 163,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "other",
+            "type": "figure",
+            "x": 268,
+            "y": 163,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M164 113 Q205 100 246 113",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "reply",
+            "type": "text",
+            "x": 206,
+            "y": 211,
+            "text": "another kind of reply",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the grand inquisitor",
+      "freedom and faith"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 2
+    },
+    "related": [
+      "dostoevsky-kiss"
+    ],
+    "readingArt": [
+      {
+        "description": "An enclosing authority speaks from above; a small connection appears without winning its argument.",
+        "actors": [
+          {
+            "id": "authority",
+            "type": "path",
+            "d": "M108 49 L300 49 L301 102 L109 103 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "promise",
+            "type": "text",
+            "x": 207,
+            "y": 78,
+            "text": "I will choose for you",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 141,
+            "y": 163,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "other",
+            "type": "figure",
+            "x": 268,
+            "y": 163,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M164 113 Q205 100 246 113",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "reply",
+            "type": "text",
+            "x": 206,
+            "y": 211,
+            "text": "another kind of reply",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-kiss",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Reply beyond argument",
+    "title": "The unanswered kiss",
+    "statement": "A response can meet a person without defeating their argument.",
+    "explanation": "At the end of Ivan’s poem, the prisoner answers the Inquisitor with a kiss. The gesture does not provide a proof that solves every objection voiced in the scene.",
+    "nuance": "The silence matters: a full verbal answer might turn the encounter into another contest over mastery. The kiss acknowledges a relation the Inquisitor’s system cannot fully arrange.\n\nThat does not make the objections disappear. Ivan’s story preserves their weight, and Alyosha later repeats the gesture toward Ivan. The image asks what love can do when an argument remains unsettled, rather than offering feeling as a substitute for reasoning.",
+    "sources": [
+      "brothers-inquisitor"
+    ],
+    "metaphor": "An enclosing authority speaks from above; a small connection appears without winning its argument.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "reply beyond argument",
+      "variant": "dostoevsky-kiss",
+      "composition": {
+        "description": "An enclosing authority speaks from above; a small connection appears without winning its argument.",
+        "actors": [
+          {
+            "id": "authority",
+            "type": "path",
+            "d": "M108 49 L300 49 L301 102 L109 103 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "promise",
+            "type": "text",
+            "x": 207,
+            "y": 78,
+            "text": "I will choose for you",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 141,
+            "y": 163,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "other",
+            "type": "figure",
+            "x": 268,
+            "y": 163,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M164 113 Q205 100 246 113",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "reply",
+            "type": "text",
+            "x": 206,
+            "y": 211,
+            "text": "another kind of reply",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "reply beyond argument",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 3
+    },
+    "related": [
+      "dostoevsky-active-love"
+    ]
+  },
+  {
+    "id": "dostoevsky-active-love",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Active love",
+    "title": "Again, tomorrow",
+    "statement": "Love imagined at a distance can be easier than care for a particular person.",
+    "explanation": "Zosima distinguishes dreamlike love from active love. The latter faces repetition, impatience, and the difficult presence of people who do not fit our ideal picture.",
+    "nuance": "A wish to serve humanity can coexist with irritation at the person asking for a glass of water. Active love is tested where the imagined admirer cannot control the recipient or the conditions.\n\nThe seed grows through several small marks, with pauses between them. Zosima’s teaching is a voice in a novel, not a promise that patient care always succeeds. The distinction is about the form of attention an act requires, not a demand to endure abuse without limits.",
+    "sources": [
+      "brothers-love"
+    ],
+    "metaphor": "Repeated small marks nurture a fragile seedling instead of a single grand gesture.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "active love",
+      "variant": "dostoevsky-seed",
+      "composition": {
+        "description": "Repeated small marks nurture a fragile seedling instead of a single grand gesture.",
+        "actors": [
+          {
+            "id": "earth",
+            "type": "path",
+            "d": "M80 179 Q196 173 320 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "stem",
+            "type": "path",
+            "d": "M199 175 Q194 133 209 111",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "leaves",
+            "type": "path",
+            "d": "M201 151 Q171 129 171 149 Q190 156 201 151 M203 131 Q232 106 235 128 Q219 137 203 131",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "drops",
+            "type": "path",
+            "d": "M145 84 L146 92 M183 65 L184 73 M232 77 L233 85",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "patient",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "again, tomorrow",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "active love",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 4
+    },
+    "related": [
+      "dostoevsky-responsibility"
+    ]
+  },
+  {
+    "id": "dostoevsky-responsibility",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Responsibility for all",
+    "title": "The shared burden",
+    "statement": "Shared responsibility is not the same claim as equal guilt.",
+    "explanation": "Zosima’s teaching asks people to see their participation in a world that harms others. It pushes against innocence understood only as not having committed the final act oneself.",
+    "nuance": "This moral vision is stronger than the ordinary claim that choices have social consequences. It can open attention to neglect, complicity, and the conditions under which violence becomes possible.\n\nIt must not be flattened into accusing every victim of their own suffering. Legal guilt and moral participation remain distinct. The drawing joins several figures to a burden without making their histories identical. The novel presents this demanding claim through Zosima and its reception by others.",
+    "sources": [
+      "brothers-zosima"
+    ],
+    "metaphor": "A burden above several separate figures lowers until all their lines are connected to it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "responsibility for all",
+      "variant": "dostoevsky-burden",
+      "composition": {
+        "description": "A burden above several separate figures lowers until all their lines are connected to it.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 103,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 202,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "three",
+            "type": "figure",
+            "x": 301,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "burden",
+            "type": "path",
+            "d": "M136 59 L267 59 L269 89 L137 88 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M145 91 L115 124 M201 91 L201 122 M261 91 L289 124",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "responsibility",
+            "type": "text",
+            "x": 205,
+            "y": 213,
+            "text": "not the same guilt",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "responsibility for all",
+      "freedom and faith"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 5
+    },
+    "related": [
+      "dostoevsky-ivan-smerdyakov"
+    ]
+  },
+  {
+    "id": "dostoevsky-ivan-smerdyakov",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Ideas and consequences",
+    "title": "The unowned consequence",
+    "statement": "An idea may return through another person’s interpretation.",
+    "explanation": "Smerdyakov confronts Ivan with the possible relation between his words, his absence, and the murder. The exchange makes responsibility harder to confine to direct physical action.",
+    "nuance": "Ivan wants the consequences separated from what he literally did. Smerdyakov presses on what Ivan made thinkable, permitted, or failed to oppose. Their accounts are strategic and contested.\n\nThe card does not establish that uttering an idea makes someone responsible for every use of it. It asks a narrower question: how do implication, desire, and an opportunity given to someone else complicate the account we give of our own innocence?",
+    "sources": [
+      "brothers-smerdyakov"
+    ],
+    "metaphor": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "ideas and consequences",
+      "variant": "dostoevsky-split-reason",
+      "composition": {
+        "description": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+        "actors": [
+          {
+            "id": "clean",
+            "type": "path",
+            "d": "M87 81 L315 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reason",
+            "type": "text",
+            "x": 204,
+            "y": 59,
+            "text": "a reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "tangle",
+            "type": "path",
+            "d": "M87 143 C164 93 194 199 250 143 C196 110 172 165 232 178 Q278 188 313 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "motive",
+            "type": "text",
+            "x": 206,
+            "y": 210,
+            "text": "another motive",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ideas and consequences",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 6
+    },
+    "related": [
+      "dostoevsky-certainty-court"
+    ],
+    "readingArt": [
+      {
+        "description": "A clean line announces a reason while a tangled second route exposes an unacknowledged motive.",
+        "actors": [
+          {
+            "id": "clean",
+            "type": "path",
+            "d": "M87 81 L315 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reason",
+            "type": "text",
+            "x": 204,
+            "y": 59,
+            "text": "a reason",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "tangle",
+            "type": "path",
+            "d": "M87 143 C164 93 194 199 250 143 C196 110 172 165 232 178 Q278 188 313 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "motive",
+            "type": "text",
+            "x": 206,
+            "y": 210,
+            "text": "another motive",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-certainty-court",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Evidence and narrative",
+    "title": "The persuasive wrong story",
+    "statement": "A coherent account can gather evidence into the wrong shape.",
+    "explanation": "Dmitri’s trial shows how motives, gestures, and circumstances can form an apparently convincing story. Narrative coherence is not identical with truth about the murder.",
+    "nuance": "The public can recognise a character type and begin fitting every fact to it. A passionate, reckless man becomes easy to imagine as the culprit, especially when fragments of his conduct support the image.\n\nThe unmatched piece beneath the diagram prevents completeness from becoming proof. Dostoevsky’s courtroom does not say evidence is useless. It dramatizes the need to distinguish a powerful explanation from one that has adequately tested what it leaves outside.",
+    "sources": [
+      "brothers-trial"
+    ],
+    "metaphor": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "evidence and narrative",
+      "variant": "dostoevsky-evidence",
+      "composition": {
+        "description": "Visible fragments align into a convincing account, but one unmatched fragment remains outside.",
+        "actors": [
+          {
+            "id": "pieces",
+            "type": "path",
+            "d": "M88 110 L133 87 L173 111 L137 144 Z M174 111 L213 89 L252 111 L214 144 Z M254 111 L292 89 L326 109 L295 143 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "unmatched",
+            "type": "path",
+            "d": "M201 164 L225 182 L207 196 L184 179 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "story",
+            "type": "text",
+            "x": 205,
+            "y": 61,
+            "text": "a convincing story",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "remainder",
+            "type": "text",
+            "x": 278,
+            "y": 207,
+            "text": "what it leaves out",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "evidence and narrative",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 7
+    },
+    "related": [
+      "dostoevsky-dmitri"
+    ]
+  },
+  {
+    "id": "dostoevsky-dmitri",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Guilt without this crime",
+    "title": "Two different questions",
+    "statement": "Being guilty of much does not make a person guilty of this act.",
+    "explanation": "Dmitri knows his conduct has harmed others, yet his responsibility for the murder is another question. The novel separates moral recklessness from the fact to be established at trial.",
+    "nuance": "Someone’s disordered life can make an accusation seem plausible. That impression may confuse a judgement of character with a finding about a particular event.\n\nThe two measures in the drawing stand apart. One does not settle the other. Dmitri’s recognition of fault is important, but it cannot turn a wrongful conviction into a correct one. The distinction preserves both moral accountability and the demand that an accusation be proved.",
+    "sources": [
+      "brothers-trial"
+    ],
+    "metaphor": "A balanced legal measure stands beside a person whose inner life does not fit its compartments.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "guilt without this crime",
+      "variant": "dostoevsky-scales",
+      "composition": {
+        "description": "A balanced legal measure stands beside a person whose inner life does not fit its compartments.",
+        "actors": [
+          {
+            "id": "scales",
+            "type": "path",
+            "d": "M125 53 L125 180 M79 83 L172 82 M78 84 L60 128 L99 127 Z M172 83 L152 128 L192 128 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 276,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M257 118 Q278 93 297 119 Q279 149 261 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "measure",
+            "type": "text",
+            "x": 126,
+            "y": 210,
+            "text": "the verdict",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "person-label",
+            "type": "text",
+            "x": 278,
+            "y": 210,
+            "text": "the person",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "guilt without this crime",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 8
+    },
+    "related": [
+      "dostoevsky-alyosha-grief"
+    ]
+  },
+  {
+    "id": "dostoevsky-alyosha-grief",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Faith and disillusionment",
+    "title": "When the sign fails",
+    "statement": "Faith can be shaken by the loss of the sign expected to confirm it.",
+    "explanation": "After Zosima’s death, the unexpected condition of his body troubles those who had imagined a visible confirmation of holiness. Alyosha faces grief entangled with disappointed expectation.",
+    "nuance": "The scandal is not simply a bodily fact. It is what that fact seems to do to a community’s picture of goodness and its need for vindication. A revered life appears suddenly exposed to gossip.\n\nAlyosha’s later experience does not erase the episode as a trivial misunderstanding. The novel lets belief pass through humiliation and grief, rather than presenting it as secure possession. The open door asks what remains possible when the expected reassurance does not arrive.",
+    "sources": [
+      "brothers-alyosha"
+    ],
+    "metaphor": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "faith and disillusionment",
+      "variant": "dostoevsky-door",
+      "composition": {
+        "description": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M240 179 L240 59 L304 60 L302 179",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "inside",
+            "type": "figure",
+            "x": 167,
+            "y": 130,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M286 131 Q245 139 211 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "shut",
+            "type": "path",
+            "d": "M242 61 L273 83 L272 171 L241 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "defend",
+            "type": "text",
+            "x": 150,
+            "y": 203,
+            "text": "defending the wound",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "faith and disillusionment",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 9
+    },
+    "related": [
+      "dostoevsky-memory-boys"
+    ]
+  },
+  {
+    "id": "dostoevsky-memory-boys",
+    "thinker": "dostoevsky",
+    "collection": "Freedom and faith",
+    "concept": "Memory and connection",
+    "title": "Keep the meeting",
+    "statement": "A shared memory can become a point of return in later life.",
+    "explanation": "At the novel’s close, Alyosha asks the boys to remember their companionship around Ilyusha. A particular encounter is offered as something that may resist later estrangement.",
+    "nuance": "The scene is modest beside the novel’s vast arguments. It does not prove a complete philosophy; it asks that a real relation be remembered and carried forward.\n\nThe bench keeps a trace without bringing an absent person back. Memory can preserve an ethical claim without denying death. Alyosha hopes that recalling an act of goodness may matter when other pressures intervene, while the boys’ future remains beyond the scene’s guarantee.",
+    "sources": [
+      "brothers-ending"
+    ],
+    "metaphor": "Two positions on a bench become one; a faint mark of the meeting remains without recalling the absent person.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "memory and connection",
+      "variant": "dostoevsky-bench",
+      "composition": {
+        "description": "Two positions on a bench become one; a faint mark of the meeting remains without recalling the absent person.",
+        "actors": [
+          {
+            "id": "bench",
+            "type": "path",
+            "d": "M102 155 L302 154 M115 155 L115 183 M290 154 L290 184",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 157,
+            "y": 115,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "absent",
+            "type": "group",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            },
+            "children": [
+              {
+                "id": "two",
+                "type": "figure",
+                "x": 253,
+                "y": 115,
+                "motion": {
+                  "kind": "drift",
+                  "duration": 12,
+                  "x": 0,
+                  "y": -2
+                }
+              }
+            ]
+          },
+          {
+            "id": "trace",
+            "type": "path",
+            "d": "M179 98 Q207 80 234 98",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "not-owned",
+            "type": "text",
+            "x": 201,
+            "y": 215,
+            "text": "real, not possessed",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "memory and connection",
+      "freedom and faith"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-freedom-and-faith",
+      "order": 10
+    },
+    "related": [
+      "dostoevsky-execution"
+    ]
+  },
+  {
+    "id": "dostoevsky-execution",
+    "thinker": "dostoevsky",
+    "collection": "The vulnerable",
+    "concept": "Certainty of death",
+    "title": "The known hour",
+    "statement": "Knowing the exact end changes the experience of waiting.",
+    "explanation": "Myshkin’s account of execution distinguishes uncertain danger from a death officially made certain. His speech asks the listeners to attend to the condemned person’s time.",
+    "nuance": "The fear concerns more than physical pain. A fixed sentence removes the possibility on which ordinary danger often leaves a person relying: perhaps an escape will still occur.\n\nThe moving mark approaches an unmoving endpoint. This is a literary argument about the experience of state punishment, not a claim that everyone confronts mortality in the same way. Myshkin tries to make another person’s minutes imaginable to people safely discussing them.",
+    "sources": [
+      "idiot-execution"
+    ],
+    "metaphor": "A narrowing interval advances toward a fixed terminal line; the person has no uncertain exit.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "certainty of death",
+      "variant": "dostoevsky-clock",
+      "composition": {
+        "description": "A narrowing interval advances toward a fixed terminal line; the person has no uncertain exit.",
+        "actors": [
+          {
+            "id": "time",
+            "type": "path",
+            "d": "M89 101 L306 101 M306 89 L306 114",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "hand",
+            "type": "circle",
+            "x": 171,
+            "y": 101,
+            "r": 5,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": 123
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 204,
+            "y": 164,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "certain",
+            "type": "text",
+            "x": 207,
+            "y": 59,
+            "text": "the hour is known",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "weight",
+            "type": "text",
+            "x": 206,
+            "y": 218,
+            "text": "certainty changes fear",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "certainty of death",
+      "the vulnerable"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-vulnerable",
+      "order": 1
+    },
+    "related": [
+      "dostoevsky-innocence"
+    ],
+    "readingArt": [
+      {
+        "description": "A narrowing interval advances toward a fixed terminal line; the person has no uncertain exit.",
+        "actors": [
+          {
+            "id": "time",
+            "type": "path",
+            "d": "M89 101 L306 101 M306 89 L306 114",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "hand",
+            "type": "circle",
+            "x": 171,
+            "y": 101,
+            "r": 5,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": 123
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 204,
+            "y": 164,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "certain",
+            "type": "text",
+            "x": 207,
+            "y": 59,
+            "text": "the hour is known",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "weight",
+            "type": "text",
+            "x": 206,
+            "y": 218,
+            "text": "certainty changes fear",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-innocence",
+    "thinker": "dostoevsky",
+    "collection": "The vulnerable",
+    "concept": "Myshkin and society",
+    "title": "The stranger to the game",
+    "statement": "Sincerity can expose a social game without making its speaker safe within it.",
+    "explanation": "Myshkin’s openness disrupts scenes organised by status, suspicion, and possession. The reactions show how a society can experience candour as naïveté or danger.",
+    "nuance": "The prince does not simply solve every conflict by being good. His compassion enters situations shaped by power, humiliation, and conflicting desires that his intention cannot fully control.\n\nThe audience above the lone figure suggests a room interpreting what does not fit its rules. The novel’s difficulty is precisely that sincerity has consequences it may not foresee. A sympathetic reading must leave that difficulty intact rather than turn Myshkin into a reassuring instruction to be kind.",
+    "sources": [
+      "idiot-social"
+    ],
+    "metaphor": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "myshkin and society",
+      "variant": "dostoevsky-audience",
+      "composition": {
+        "description": "The imagined audience expands above a solitary figure, making its judgement larger than the encounter.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 158,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "spectators",
+            "type": "path",
+            "d": "M80 83 Q107 52 134 84 M159 77 Q187 47 211 79 M237 83 Q267 50 299 84",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M102 93 L187 134 M185 87 L198 132 M274 95 L214 134",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "their imagined eyes",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "myshkin and society",
+      "the vulnerable"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-vulnerable",
+      "order": 2
+    },
+    "related": [
+      "dostoevsky-nastasya"
+    ]
+  },
+  {
+    "id": "dostoevsky-nastasya",
+    "thinker": "dostoevsky",
+    "collection": "The vulnerable",
+    "concept": "Humiliation and self-image",
+    "title": "The imposed likeness",
+    "statement": "A judgement imposed by others can become part of how a person sees herself.",
+    "explanation": "Nastasya Filippovna’s responses are shaped by exploitation, public judgement, and the identities others offer her. The novel tests how compassion can meet a life already surrounded by degrading images.",
+    "nuance": "She cannot be understood merely as irrational or self-destructive. The options presented to her repeatedly carry other people’s claims about what she is and what she deserves.\n\nThe closing doorway shows a possible relation entangled with self-protection. Myshkin’s compassion matters, yet pity can also feel like another unequal position. The card names a dramatic tension, not an explanation that absorbs her agency or overlooks the people who have harmed her.",
+    "sources": [
+      "idiot-nastasya"
+    ],
+    "metaphor": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "humiliation and self-image",
+      "variant": "dostoevsky-door",
+      "composition": {
+        "description": "A connection reaches through an open doorway, but a second gesture closes it from within.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M240 179 L240 59 L304 60 L302 179",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "inside",
+            "type": "figure",
+            "x": 167,
+            "y": 130,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "contact",
+            "type": "path",
+            "d": "M286 131 Q245 139 211 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "shut",
+            "type": "path",
+            "d": "M242 61 L273 83 L272 171 L241 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "defend",
+            "type": "text",
+            "x": 150,
+            "y": 203,
+            "text": "defending the wound",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "humiliation and self-image",
+      "the vulnerable"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-the-vulnerable",
+      "order": 3
+    },
+    "related": [
+      "dostoevsky-pity-love"
+    ]
+  },
+  {
+    "id": "dostoevsky-pity-love",
+    "thinker": "dostoevsky",
+    "collection": "The vulnerable",
+    "concept": "Pity and love",
+    "title": "The difficult triangle",
+    "statement": "Pity, desire, and love cannot always be exchanged without injury.",
+    "explanation": "The relationships around Myshkin do not fit one simple opposition between goodness and selfishness. Compassion can become entangled with desire, rivalry, and the wish to rescue.",
+    "nuance": "Wanting someone’s suffering to end may be sincere while remaining different from the relationship they seek. An offer to rescue can also suggest that the recipient is being seen primarily through their damage.\n\nThe novel refuses a clean diagram in which everyone’s need is satisfied by the correct pairing. The open hand leaves room to decline: care is incomplete if it cannot recognise another person’s agency or the conflict between different forms of attachment.",
+    "sources": [
+      "idiot-nastasya"
+    ],
+    "metaphor": "A hand-like line reaches without pulling; a figure can meet it while the damaged history remains below.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "pity and love",
+      "variant": "dostoevsky-offer",
+      "composition": {
+        "description": "A hand-like line reaches without pulling; a figure can meet it while the damaged history remains below.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 132,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "hand",
+            "type": "path",
+            "d": "M294 116 Q267 126 242 116 M244 116 L230 123 M244 116 L231 110",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "answer",
+            "type": "path",
+            "d": "M151 123 Q178 139 220 123",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "history",
+            "type": "path",
+            "d": "M100 185 L173 188 M199 185 L286 189",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "without-force",
+            "type": "text",
+            "x": 215,
+            "y": 208,
+            "text": "without forcing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "pity and love",
+      "the vulnerable"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "dostoevsky-the-vulnerable",
+      "order": 4
+    },
+    "related": [
+      "dostoevsky-dreamer"
+    ]
+  },
+  {
+    "id": "dostoevsky-dreamer",
+    "thinker": "dostoevsky",
+    "collection": "Imagined lives",
+    "concept": "The dreamer",
+    "title": "Behind the lit window",
+    "statement": "An imagined life can become more detailed than the life being lived.",
+    "explanation": "The narrator of White Nights describes a rich inward world beside social isolation. Fantasy gives encounters emotional substance before the demands of an actual relationship appear.",
+    "nuance": "The dreamer can rehearse intimacy with extraordinary feeling while lacking the unpredictability of another person’s answer. Nastenka introduces that answer into his carefully furnished inner world.\n\nThe drawing gives the window an elaborate line while the street stays spare. This is neither a condemnation of imagination nor a claim that loneliness is chosen. It asks what happens when imagining a relationship is asked to stand in for sharing one.",
+    "sources": [
+      "white-first"
+    ],
+    "metaphor": "An elaborate imagined encounter forms inside a window while the real street stays sparsely marked.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the dreamer",
+      "variant": "dostoevsky-window",
+      "composition": {
+        "description": "An elaborate imagined encounter forms inside a window while the real street stays sparsely marked.",
+        "actors": [
+          {
+            "id": "window",
+            "type": "path",
+            "d": "M101 52 L294 54 L293 164 L100 163 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "dream",
+            "type": "path",
+            "d": "M124 135 Q166 71 193 118 Q234 67 273 133",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "street",
+            "type": "path",
+            "d": "M75 194 Q186 183 321 195",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "dreamer",
+            "type": "figure",
+            "x": 74,
+            "y": 147,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "imagined",
+            "type": "text",
+            "x": 205,
+            "y": 213,
+            "text": "inside the imagined life",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the dreamer",
+      "imagined lives"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-imagined-lives",
+      "order": 1
+    },
+    "related": [
+      "dostoevsky-gratitude"
+    ],
+    "readingArt": [
+      {
+        "description": "An elaborate imagined encounter forms inside a window while the real street stays sparsely marked.",
+        "actors": [
+          {
+            "id": "window",
+            "type": "path",
+            "d": "M101 52 L294 54 L293 164 L100 163 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "dream",
+            "type": "path",
+            "d": "M124 135 Q166 71 193 118 Q234 67 273 133",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "street",
+            "type": "path",
+            "d": "M75 194 Q186 183 321 195",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "dreamer",
+            "type": "figure",
+            "x": 74,
+            "y": 147,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "imagined",
+            "type": "text",
+            "x": 205,
+            "y": 213,
+            "text": "inside the imagined life",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-gratitude",
+    "thinker": "dostoevsky",
+    "collection": "Imagined lives",
+    "concept": "Love without possession",
+    "title": "The empty place",
+    "statement": "A meeting can remain precious without becoming yours to keep.",
+    "explanation": "At the end of White Nights, the dreamer must face a happiness that does not continue in the form he hoped. His final gratitude sits beside loss rather than abolishing it.",
+    "nuance": "It would be too easy to read the ending as a lesson that a brief joy should always compensate for loneliness. The narrator’s blessing is his particular response, tender and vulnerable to its own idealisation.\n\nThe second place on the bench disappears, but a line remains. The difference matters: remembering that an encounter was real need not imply ownership over its future, or require the other person to remain because their departure hurts.",
+    "sources": [
+      "white-end"
+    ],
+    "metaphor": "Two positions on a bench become one; a faint mark of the meeting remains without recalling the absent person.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "love without possession",
+      "variant": "dostoevsky-bench",
+      "composition": {
+        "description": "Two positions on a bench become one; a faint mark of the meeting remains without recalling the absent person.",
+        "actors": [
+          {
+            "id": "bench",
+            "type": "path",
+            "d": "M102 155 L302 154 M115 155 L115 183 M290 154 L290 184",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 157,
+            "y": 115,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "absent",
+            "type": "group",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            },
+            "children": [
+              {
+                "id": "two",
+                "type": "figure",
+                "x": 253,
+                "y": 115,
+                "motion": {
+                  "kind": "drift",
+                  "duration": 12,
+                  "x": 0,
+                  "y": -2
+                }
+              }
+            ]
+          },
+          {
+            "id": "trace",
+            "type": "path",
+            "d": "M179 98 Q207 80 234 98",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "not-owned",
+            "type": "text",
+            "x": 201,
+            "y": 215,
+            "text": "real, not possessed",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "love without possession",
+      "imagined lives"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "dostoevsky-imagined-lives",
+      "order": 2
+    },
+    "related": [
+      "dostoevsky-consciousness"
+    ]
+  }
+]
