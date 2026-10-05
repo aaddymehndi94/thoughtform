@@ -4398,7 +4398,7 @@
         "description": "A craftsperson adjusts their work to the material’s grain and condition, illustrating how an outward orientation can be quiet and attentive.",
         "beats": [
           {
-            "caption": "A craftsperson examines the material in front of them.",
+            "caption": "A craftsperson brings an intended cut to a particular piece of wood.",
             "duration": 3.2,
             "actors": [
               {
@@ -4420,11 +4420,25 @@
                 "text": "the actual material",
                 "anchor": "middle",
                 "fontSize": 17
+              },
+              {
+                "id": "initial-cut",
+                "type": "path",
+                "d": "M273 81 L288 162",
+                "dashed": true
+              },
+              {
+                "id": "intention",
+                "type": "text",
+                "x": 268,
+                "y": 40,
+                "text": "an intended cut",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "The grain and condition of the wood determine how the work proceeds.",
+            "caption": "The actual grain and condition of the wood challenge that first plan.",
             "duration": 3.2,
             "actors": [
               {
@@ -4455,7 +4469,7 @@
             ]
           },
           {
-            "caption": "An extraverted attitude gives the object the stronger determining weight.",
+            "caption": "The cut changes because of the material. The external condition takes determining weight.",
             "duration": 3.2,
             "actors": [
               {
@@ -4470,27 +4484,6 @@
                 "d": "M184 100 L341 75 L355 139 L200 166 Z M194 113 Q248 106 347 93 M198 137 Q281 110 351 116"
               },
               {
-                "id": "cut",
-                "type": "path",
-                "d": "M282 85 L297 151",
-                "dashed": true
-              },
-              {
-                "id": "plan",
-                "type": "path",
-                "d": "M 30 217 L 131 217 L 131 249 L 30 249 Z",
-                "tone": "faint"
-              },
-              {
-                "id": "plan-word",
-                "type": "text",
-                "x": 81,
-                "y": 241,
-                "text": "a first plan",
-                "anchor": "middle",
-                "fontSize": 13
-              },
-              {
                 "id": "adjusted",
                 "type": "text",
                 "x": 283,
@@ -4498,6 +4491,12 @@
                 "text": "adjust to the grain",
                 "anchor": "middle",
                 "fontSize": 17
+              },
+              {
+                "id": "revised-cut",
+                "type": "path",
+                "d": "M195 144 Q259 121 337 119",
+                "dashed": true
               }
             ]
           },
@@ -4668,181 +4667,217 @@
     "sources": [
       "jung-inferior-function-reading"
     ],
-    "metaphor": "A confident analyst encounters a difficult judgment of value; their less differentiated response is shown as sweeping, then given a distinct kind of attention.",
+    "metaphor": "A player has a practiced instrument; another demands a different skill. The second activity initially comes out in sweeping, hard-to-regulate judgments.",
     "scene": {
       "kind": "notebook",
-      "caption": "Development begins with attention to the different demand it makes.",
+      "caption": "Give the activity its own practice. More analysis can still avoid the question of value.",
       "lesson": {
-        "description": "A confident analyst encounters a difficult judgment of value; their less differentiated response is shown as sweeping, then given a distinct kind of attention.",
+        "description": "A player has a practiced instrument; another demands a different skill. The second activity initially comes out in sweeping, hard-to-regulate judgments.",
         "beats": [
           {
-            "caption": "A practiced function can make a person highly competent in one kind of task.",
+            "caption": "One way of working can become precise and dependable, like a well-practiced instrument.",
             "duration": 3.2,
             "actors": [
               {
-                "id": "person",
+                "id": "player",
                 "type": "figure",
-                "x": 94,
-                "y": 156
-              },
-              {
-                "id": "analysis",
-                "type": "path",
-                "d": "M187 45 h164 v150 h-164 Z"
-              },
-              {
-                "id": "grid",
-                "type": "path",
-                "d": "M202 81 H337 M202 111 H337 M202 141 H337 M241 63 V181 M287 63 V181"
-              },
-              {
-                "id": "skill",
-                "type": "text",
-                "x": 269,
-                "y": 227,
-                "text": "clear analysis",
-                "anchor": "middle",
-                "fontSize": 18
-              }
-            ]
-          },
-          {
-            "caption": "A different task may be much less differentiated.",
-            "duration": 3.2,
-            "actors": [
-              {
-                "id": "person",
-                "type": "figure",
-                "x": 94,
-                "y": 156
-              },
-              {
-                "id": "analysis",
-                "type": "path",
-                "d": "M187 45 h164 v150 h-164 Z",
-                "tone": "faint"
-              },
-              {
-                "id": "question-a",
-                "type": "text",
-                "x": 272,
-                "y": 94,
-                "text": "What matters",
-                "anchor": "middle",
-                "fontSize": 21
-              },
-              {
-                "id": "question-b",
-                "type": "text",
-                "x": 272,
-                "y": 124,
-                "text": "to you?",
-                "anchor": "middle",
-                "fontSize": 21
-              },
-              {
-                "id": "task",
-                "type": "text",
-                "x": 267,
-                "y": 227,
-                "text": "a judgment of value",
-                "anchor": "middle",
-                "fontSize": 17
-              }
-            ]
-          },
-          {
-            "caption": "The neglected activity can arrive in a sweeping or hard-to-regulate form.",
-            "duration": 3.2,
-            "actors": [
-              {
-                "id": "person",
-                "type": "figure",
-                "x": 94,
-                "y": 156,
+                "x": 85,
+                "y": 155,
                 "pose": {
-                  "rotate": -5
+                  "scale": 0.78
                 }
               },
               {
-                "id": "tangle",
+                "id": "practiced",
                 "type": "group",
-                "x": 271,
-                "y": 128,
+                "x": 174,
+                "y": 130,
                 "children": [
                   {
-                    "id": "tangle-line",
+                    "id": "practiced-keys",
                     "type": "path",
-                    "d": "M-12 -18 C-40 -37 -43 14 -10 24 C21 33 38 -29 3 -20 C-30 -16 -16 33 10 13 C26 -10 -19 -19 -13 8 C-10 22 18 8 4 -4"
+                    "d": "M0 0 h143 v42 h-143 Z"
+                  },
+                  {
+                    "id": "practiced-cuts",
+                    "type": "path",
+                    "d": "M23.8333 0 V42 M47.6667 0 V42 M71.5 0 V42 M95.3333 0 V42 M119.167 0 V42 M8 42 V67 M135 42 V67"
                   }
                 ]
               },
               {
-                "id": "a",
-                "type": "text",
-                "x": 261,
-                "y": 58,
-                "text": "everything!",
-                "anchor": "middle",
-                "fontSize": 18
+                "id": "clear-note",
+                "type": "group",
+                "x": 249,
+                "y": 85,
+                "children": [
+                  {
+                    "id": "clear-note-stem",
+                    "type": "path",
+                    "d": "M0 8 V-24 L18 -28 V4 M0 -15 L18 -20"
+                  },
+                  {
+                    "id": "clear-note-heads",
+                    "type": "path",
+                    "d": "M0 8 C-20 1 -20 20 0 16 Z M18 4 C0 -4 0 14 18 12 Z"
+                  }
+                ]
               },
               {
-                "id": "b",
+                "id": "analysis",
                 "type": "text",
-                "x": 261,
-                "y": 211,
-                "text": "nothing!",
-                "anchor": "middle",
-                "fontSize": 18
+                "x": 245,
+                "y": 36,
+                "text": "practiced analysis",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "Development begins with attention to the different demand it makes.",
+            "caption": "A different demand calls for a less-practiced activity: making a judgment of value.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 85,
+                "y": 155,
+                "pose": {
+                  "scale": 0.78
+                }
+              },
+              {
+                "id": "neglected",
+                "type": "group",
+                "x": 238,
+                "y": 150,
+                "children": [
+                  {
+                    "id": "neglected-body",
+                    "type": "path",
+                    "d": "M-6 -22 C-29 -28 -29 -9 -17 0 Q-8 6 -20 12 C-31 30 -11 43 2 37 C29 31 28 17 18 9 Q9 4 19 -5 C29 -20 13 -30 6 -22 M-5 -22 L-4 -62 H5 L6 -22 M0 -57 V29 M-9 2 Q-16 7 -9 13 M11 2 Q18 7 11 13"
+                  },
+                  {
+                    "id": "neglected-bow",
+                    "type": "path",
+                    "d": "M28 -43 L-23 28"
+                  }
+                ]
+              },
+              {
+                "id": "valuation-a",
+                "type": "text",
+                "x": 242,
+                "y": 28,
+                "text": "What matters",
+                "anchor": "middle"
+              },
+              {
+                "id": "valuation-b",
+                "type": "text",
+                "x": 242,
+                "y": 50,
+                "text": "to you?",
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "The less-developed activity may first arrive in sweeping or difficult-to-regulate forms.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 85,
+                "y": 155,
+                "pose": {
+                  "scale": 0.78
+                }
+              },
+              {
+                "id": "neglected",
+                "type": "group",
+                "x": 238,
+                "y": 150,
+                "children": [
+                  {
+                    "id": "neglected-body",
+                    "type": "path",
+                    "d": "M-6 -22 C-29 -28 -29 -9 -17 0 Q-8 6 -20 12 C-31 30 -11 43 2 37 C29 31 28 17 18 9 Q9 4 19 -5 C29 -20 13 -30 6 -22 M-5 -22 L-4 -62 H5 L6 -22 M0 -57 V29 M-9 2 Q-16 7 -9 13 M11 2 Q18 7 11 13"
+                  },
+                  {
+                    "id": "neglected-bow",
+                    "type": "path",
+                    "d": "M28 -43 L-23 28"
+                  }
+                ]
+              },
+              {
+                "id": "uncertain",
+                "type": "path",
+                "d": "M299 96 L319 88 L304 118 L338 104 L318 139 L355 137",
+                "tone": "faint"
+              },
+              {
+                "id": "sweep-a",
+                "type": "text",
+                "x": 103,
+                "y": 37,
+                "text": "everything!",
+                "anchor": "middle"
+              },
+              {
+                "id": "sweep-b",
+                "type": "text",
+                "x": 319,
+                "y": 224,
+                "text": "nothing!",
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "Give the activity its own practice. More analysis can still avoid the question of value.",
             "duration": 4.5,
             "actors": [
               {
-                "id": "person",
+                "id": "player",
                 "type": "figure",
-                "x": 98,
-                "y": 156
-              },
-              {
-                "id": "analysis",
-                "type": "path",
-                "d": "M190 45 h161 v65 h-161 Z"
+                "x": 85,
+                "y": 155,
+                "pose": {
+                  "scale": 0.78
+                }
               },
               {
                 "id": "value",
                 "type": "path",
-                "d": "M190 139 h161 v65 h-161 Z"
+                "d": "M185 97 h167 v80 h-167 Z"
               },
               {
-                "id": "a",
+                "id": "value-a",
                 "type": "text",
-                "x": 270,
-                "y": 83,
-                "text": "understand",
-                "anchor": "middle",
-                "fontSize": 18
+                "x": 269,
+                "y": 125,
+                "text": "What matters",
+                "anchor": "middle"
               },
               {
-                "id": "b",
+                "id": "value-b",
                 "type": "text",
-                "x": 270,
-                "y": 177,
-                "text": "consider value",
-                "anchor": "middle",
-                "fontSize": 18
+                "x": 269,
+                "y": 151,
+                "text": "in this choice?",
+                "anchor": "middle"
               },
               {
-                "id": "two-tasks",
+                "id": "different",
                 "type": "text",
-                "x": 267,
-                "y": 236,
-                "text": "two different activities",
-                "anchor": "middle",
-                "fontSize": 17
+                "x": 218,
+                "y": 224,
+                "text": "a different kind of attention",
+                "anchor": "middle"
               }
             ]
           }
