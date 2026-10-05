@@ -1,0 +1,512 @@
+[
+  {
+    "id": "adler-inferiority-feeling",
+    "thinker": "adler",
+    "collection": "From less to more",
+    "concept": "inferiority feeling",
+    "title": "Beginning smaller",
+    "statement": "Dependence is a starting condition, not a verdict on worth.",
+    "explanation": "Adler saw the child's helplessness among more capable people as a common beginning of inferiority feelings. These feelings can prompt learning and striving; they do not automatically constitute a disorder.",
+    "nuance": "A child cannot yet reach, read or decide what adults can. The experience of not yet being able helps organize a movement toward greater competence. Adler asks what direction that movement takes, especially whether it develops with an interest in others.\n\nHis theory should not be read as saying that everyone has one secret defect explaining their whole life. A feeling of being less capable is different from actually being less valuable. The response to the feeling, and the social setting around it, are central.",
+    "sources": [
+      "adler-nature-1"
+    ],
+    "metaphor": "A small figure meets a series of uneven steps; the higher position is shown as a possibility of learning.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "beginning smaller",
+      "variant": "inferiority-feeling",
+      "composition": {
+        "description": "A small figure meets a series of uneven steps; the higher position is shown as a possibility of learning.",
+        "actors": [
+          {
+            "id": "small",
+            "type": "figure",
+            "x": 92,
+            "y": 145,
+            "tone": "faint"
+          },
+          {
+            "id": "steps",
+            "type": "path",
+            "d": "M111 187 L140 185 L140 163 L184 163 L184 138 L228 139 L228 114 L278 112",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "learning",
+            "type": "figure",
+            "x": 282,
+            "y": 104,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": -3
+            }
+          },
+          {
+            "id": "movement",
+            "type": "text",
+            "text": "not yet",
+            "x": 102,
+            "y": 218
+          },
+          {
+            "id": "possible",
+            "type": "text",
+            "text": "learning",
+            "x": 282,
+            "y": 196,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "from less to more",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-from-less-to-more",
+      "order": 1
+    },
+    "related": [
+      "adler-courage",
+      "adler-compensation"
+    ]
+  },
+  {
+    "id": "adler-compensation",
+    "thinker": "adler",
+    "collection": "From less to more",
+    "concept": "compensation",
+    "title": "An answer to difficulty",
+    "statement": "A limitation does not dictate the single life that follows it.",
+    "explanation": "Adler's account of compensation concerns efforts to respond to experienced insufficiency. A difficulty can encourage new skills or become the center of a defensive struggle for status.",
+    "nuance": "Someone struggling with one activity may practice intensely or find another way of contributing. Adler's early interest in bodily limitations developed into a wider account of psychological and social responses.\n\nCompensation is not the claim that every hardship is secretly a gift. Difficulties can remain painful and opportunities are unequal. What interests Adler is how the person interprets the difficulty and organizes a response, rather than treating one bodily or social condition as an unchangeable destiny.",
+    "sources": [
+      "adler-nature-1"
+    ],
+    "metaphor": "One obstacle branches into different possible routes rather than a single predetermined outcome.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "an answer to difficulty",
+      "variant": "compensation",
+      "composition": {
+        "description": "One obstacle branches into different possible routes rather than a single predetermined outcome.",
+        "actors": [
+          {
+            "id": "event",
+            "type": "path",
+            "d": "M82 103 L125 83 L151 107 L122 132 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "branch1",
+            "type": "path",
+            "d": "M152 106 Q199 57 281 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "branch2",
+            "type": "path",
+            "d": "M153 108 Q208 124 294 164",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "one event, different meanings",
+            "x": 208,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "from less to more",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-from-less-to-more",
+      "order": 2
+    },
+    "related": [
+      "adler-inferiority-feeling",
+      "adler-inferiority-complex"
+    ]
+  },
+  {
+    "id": "adler-inferiority-complex",
+    "thinker": "adler",
+    "collection": "From less to more",
+    "concept": "inferiority complex",
+    "title": "When less becomes a life",
+    "statement": "The problem grows when felt inadequacy rules the whole field of action.",
+    "explanation": "For Adler, an intensified and unresolved sense of inferiority can discourage participation. Instead of treating a difficulty as something to meet, the person organizes life around avoiding exposure to it.",
+    "nuance": "A person who assumes any mistake will prove they are worthless may stop attempting tasks they could learn. The complex is not simply modesty or awareness of a skill gap. It concerns the organizing force of the judgment.\n\nAdler asks about the person's goal and relation to others as well as the feeling itself. Removing one obstacle may not help if a demand for complete security still makes every uncertain activity unacceptable. The distinction is between not yet succeeding and treating possible failure as a verdict on existence.",
+    "sources": [
+      "adler-nature-1"
+    ],
+    "metaphor": "A figure retreats from an available test while the imagined measuring line keeps rising.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "when less becomes a life",
+      "variant": "inferiority-complex",
+      "composition": {
+        "description": "A figure retreats from an available test while the imagined measuring line keeps rising.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 151,
+            "y": 146,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": -21
+            }
+          },
+          {
+            "id": "test",
+            "type": "path",
+            "d": "M264 59 L267 187 M251 60 L278 59",
+            "tone": "normal"
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M167 180 Q210 198 233 154 Q240 98 210 89",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 3
+            }
+          },
+          {
+            "id": "safe",
+            "type": "text",
+            "text": "no test, no defeat",
+            "x": 185,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "from less to more",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-from-less-to-more",
+      "order": 3
+    },
+    "related": [
+      "adler-compensation",
+      "adler-striving"
+    ]
+  },
+  {
+    "id": "adler-striving",
+    "thinker": "adler",
+    "collection": "From less to more",
+    "concept": "striving",
+    "title": "Toward more",
+    "statement": "The question is what becoming more capable is for.",
+    "explanation": "Adler described a movement from felt insufficiency toward greater security, completion or superiority. Its direction matters: developing a capacity with others differs from needing to stand above them.",
+    "nuance": "Two people may pursue the same skill. One wants to do useful work; the other wants proof that no one can rival them. Outward achievement alone does not show which aim organizes the effort.\n\nStriving for superiority in Adler's terminology is not always simple domination. His writing distinguishes growth and adaptation from a personal goal of power over others. Reading the phrase only as competitive ambition misses the contrast at the center of his account.",
+    "sources": [
+      "adler-nature-1"
+    ],
+    "metaphor": "A route toward an imagined destination is set beside a shared crossing, asking whether the goal connects or separates.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "toward more",
+      "variant": "striving",
+      "composition": {
+        "description": "A route toward an imagined destination is set beside a shared crossing, asking whether the goal connects or separates.",
+        "actors": [
+          {
+            "id": "goal",
+            "type": "circle",
+            "x": 306,
+            "y": 69,
+            "r": 17,
+            "tone": "faint"
+          },
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M76 189 Q121 132 172 154 Q231 177 301 93",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "moving",
+            "type": "figure",
+            "x": 110,
+            "y": 146,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": 40,
+              "y": -13
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "an imagined destination",
+            "x": 256,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "from less to more",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-from-less-to-more",
+      "order": 4
+    },
+    "related": [
+      "adler-inferiority-complex",
+      "adler-superiority-display"
+    ]
+  },
+  {
+    "id": "adler-superiority-display",
+    "thinker": "adler",
+    "collection": "From less to more",
+    "concept": "superiority display",
+    "title": "The elevated position",
+    "statement": "Looking superior can be a way to avoid feeling inferior.",
+    "explanation": "Adler interpreted some displays of dominance or importance as answers to threatened self-worth. Being above others promises security while keeping attention fixed on personal rank.",
+    "nuance": "Someone who must win every discussion may be protecting a fragile sense of competence rather than expressing stable confidence. That is an interpretive possibility, not a diagnosis that follows from assertiveness alone.\n\nThe display can also make cooperation more difficult, preserving the insecurity it tries to escape. Adler's concern is the whole pattern: the imagined danger, the compensating goal and the social effect. Humiliation by others does not become justified because a person has adopted an unhelpful defense.",
+    "sources": [
+      "adler-nature-1"
+    ],
+    "metaphor": "A figure rises on a short pedestal while the neighboring figures remain disconnected from it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the elevated position",
+      "variant": "superiority-display",
+      "composition": {
+        "description": "A figure rises on a short pedestal while the neighboring figures remain disconnected from it.",
+        "actors": [
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M67 190 L330 191",
+            "tone": "normal"
+          },
+          {
+            "id": "plinth",
+            "type": "path",
+            "d": "M174 188 L175 162 L225 163 L225 190",
+            "tone": "normal"
+          },
+          {
+            "id": "raised",
+            "type": "figure",
+            "x": 201,
+            "y": 113,
+            "tone": "normal"
+          },
+          {
+            "id": "other1",
+            "type": "figure",
+            "x": 92,
+            "y": 143,
+            "tone": "faint"
+          },
+          {
+            "id": "other2",
+            "type": "figure",
+            "x": 309,
+            "y": 144,
+            "tone": "faint"
+          },
+          {
+            "id": "support",
+            "type": "path",
+            "d": "M178 169 Q200 161 219 171",
+            "tone": "shade",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.08
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "above, but apart",
+            "x": 202,
+            "y": 218,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "from less to more",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-from-less-to-more",
+      "order": 5
+    },
+    "related": [
+      "adler-striving",
+      "adler-courage"
+    ]
+  },
+  {
+    "id": "adler-courage",
+    "thinker": "adler",
+    "collection": "From less to more",
+    "concept": "courage",
+    "title": "Room for an imperfect attempt",
+    "statement": "Participation asks for courage before it offers certainty.",
+    "explanation": "Adler associated discouragement with withdrawal from life's demands. In his account, courage allows a person to meet a task without first securing an invulnerable image of themselves.",
+    "nuance": "A learner who can make a visible error has more room to learn than one who must never appear inexperienced. Courage here is not dramatic fearlessness. It is willingness to take part despite an uncertain result.\n\nThe social setting matters: ridicule and impossible demands can make participation harder. Adler's educational emphasis therefore includes how people encourage one another. Telling someone to be brave is a thin substitute for a relationship in which an imperfect attempt is allowed.",
+    "sources": [
+      "adler-nature-1"
+    ],
+    "metaphor": "An uneven bridge develops between two figures instead of requiring one figure to leap the empty gap alone.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "room for an imperfect attempt",
+      "variant": "courage",
+      "composition": {
+        "description": "An uneven bridge develops between two figures instead of requiring one figure to leap the empty gap alone.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M66 180 L142 181 M259 182 L336 179",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M115 180 Q148 110 195 113",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M195 113 Q249 105 289 181",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 4
+            }
+          },
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 104,
+            "y": 131,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 132,
+            "tone": "normal"
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a shared crossing",
+            "x": 199,
+            "y": 217,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "from less to more",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-from-less-to-more",
+      "order": 6
+    },
+    "related": [
+      "adler-superiority-display",
+      "adler-inferiority-feeling"
+    ]
+  }
+]
