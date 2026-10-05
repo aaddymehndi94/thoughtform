@@ -1,0 +1,897 @@
+[
+  {
+    "id": "frankl-a-deed",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Creative values",
+    "title": "A small deed",
+    "statement": "Meaning can arrive through what a situation needs done.",
+    "explanation": "Frankl names doing and making as one route to meaning. The act matters because of its relation to the world, rather than because it makes its maker feel important.",
+    "nuance": "Imagine repairing a loose stair before someone falls. The repair need not become your grand calling; it answers a particular need. This is an example, not a formula for measuring people by output. Unpaid care, an honest decision, or a modest piece of work may carry meaning. A person unable to work does not thereby lose dignity.",
+    "sources": [
+      "frankl-values"
+    ],
+    "metaphor": "An unfinished bridge gains its missing plank through a small deliberate action.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "creative values",
+      "variant": "frankl-repair",
+      "composition": {
+        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "bridge",
+            "type": "path",
+            "d": "M130 151 L173 153 M222 153 L268 152",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "plank",
+            "type": "path",
+            "d": "M174 153 Q198 149 222 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "worker",
+            "type": "figure",
+            "x": 124,
+            "y": 132,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "action",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "a deed",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "creative values",
+      "meaning"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 1
+    },
+    "related": [
+      "frankl-encounter"
+    ]
+  },
+  {
+    "id": "frankl-encounter",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Experiential values",
+    "title": "Receiving the world",
+    "statement": "Not every meaningful moment is something you produce.",
+    "explanation": "A second route is encounter: receiving beauty, truth, or another person. Frankl places these experiences beside action, rather than beneath it as an interruption to useful work.",
+    "nuance": "Consider listening to a friend without planning what to do next. Nothing is manufactured, yet the encounter may matter. The point is not that every pleasant experience supplies lasting meaning, or that love excuses injustice. Meaning here concerns a real relation to something or someone beyond the machinery of your own achievement.",
+    "sources": [
+      "frankl-values"
+    ],
+    "metaphor": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "experiential values",
+      "variant": "frankl-encounter",
+      "composition": {
+        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 128,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 278,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M146 85 Q204 54 260 85",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M168 153 Q201 183 238 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "between",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "encounter",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "experiential values",
+      "meaning"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 2
+    },
+    "related": [
+      "frankl-unavoidable"
+    ]
+  },
+  {
+    "id": "frankl-unavoidable",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Attitudinal values",
+    "title": "When the wall stays",
+    "statement": "A possible response does not make suffering necessary.",
+    "explanation": "Frankl distinguishes changing a painful situation from taking a stand toward pain that cannot be removed. The second possibility must not replace treatment, protection, or material help.",
+    "nuance": "A person grieving a death cannot reverse it; they may still decide how to remember or care for someone else. That is one possible response, not a duty to transform loss into a lesson. Where pain can be relieved, relieving it comes first. Difficulty finding meaning never proves that the sufferer is weak, culpable, or responsible for the harm.",
+    "sources": [
+      "frankl-suffering"
+    ],
+    "metaphor": "An immovable wall stays still while the person changes their stance beside it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "attitudinal values",
+      "variant": "frankl-wall",
+      "composition": {
+        "description": "An immovable wall stays still while the person changes their stance beside it.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M254 49 L251 183 M259 50 L257 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 173,
+            "y": 138,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 12,
+              "y": -2
+            }
+          },
+          {
+            "id": "stance",
+            "type": "path",
+            "d": "M124 194 Q163 188 212 194",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "fixed",
+            "type": "text",
+            "x": 285,
+            "y": 204,
+            "text": "unchanged",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "stance-label",
+            "type": "text",
+            "x": 146,
+            "y": 65,
+            "text": "a response",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "attitudinal values",
+      "the limits"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-limits",
+      "order": 1
+    },
+    "related": [
+      "frankl-question"
+    ]
+  },
+  {
+    "id": "frankl-question",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Answering life",
+    "title": "Turn the question",
+    "statement": "A life is also a series of questions addressed to you.",
+    "explanation": "Frankl shifts attention from demanding one universal answer to noticing the demands of this situation. A response is made through choices, relationships, and acts, not only through reflection.",
+    "nuance": "Suppose a neighbour needs help and you are asking what your whole life is for. You need not settle the entire question before noticing the immediate one. Helping may answer this moment; another moment will ask something else. This does not mean saying yes to every demand. The task includes judging what is yours to answer and what exceeds your capacity.",
+    "sources": [
+      "frankl-moment"
+    ],
+    "metaphor": "A question above the person is answered by an action toward a waiting task.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "answering life",
+      "variant": "frankl-question",
+      "composition": {
+        "description": "A question above the person is answered by an action toward a waiting task.",
+        "actors": [
+          {
+            "id": "ask",
+            "type": "text",
+            "x": 190,
+            "y": 48,
+            "text": "what is asked of me?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 125,
+            "y": 140,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 8,
+              "y": -2
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M257 102 L310 104 L308 167 L256 165 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "answer",
+            "type": "text",
+            "x": 204,
+            "y": 204,
+            "text": "answer in action",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "answering life",
+      "responsibility"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 1
+    },
+    "related": [
+      "frankl-freedom-limits"
+    ]
+  },
+  {
+    "id": "frankl-freedom-limits",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Situated freedom",
+    "title": "The narrow opening",
+    "statement": "Freedom has a shape because circumstances have limits.",
+    "explanation": "Frankl describes room to take a position within conditions, not unlimited power over them. Physical, psychological, and social restrictions can sharply narrow what is possible.",
+    "nuance": "Think of being unable to leave a difficult job immediately. That restriction is real; recognising it is not a failure of attitude. Asking what small choices remain differs from pretending the whole situation is voluntary. Frankl emphasises possibility, but this philosophical claim must never erase coercion, illness, poverty, or the help a person needs.",
+    "sources": [
+      "frankl-freedom"
+    ],
+    "metaphor": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "situated freedom",
+      "variant": "frankl-gap",
+      "composition": {
+        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+        "actors": [
+          {
+            "id": "limits",
+            "type": "path",
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 197,
+            "y": 119,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "step",
+            "type": "path",
+            "d": "M179 202 Q195 196 212 202",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "possible",
+            "type": "text",
+            "x": 204,
+            "y": 58,
+            "text": "within limits",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "situated freedom",
+      "the limits"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-limits",
+      "order": 2
+    },
+    "related": [
+      "frankl-outward"
+    ]
+  },
+  {
+    "id": "frankl-outward",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Self-transcendence",
+    "title": "Beyond the mirror",
+    "statement": "Meaning often concerns something other than your own state.",
+    "explanation": "Frankl calls this orientation self-transcendence: involvement with a task, a value, or another person. Its direction is outward, even when the involvement changes you.",
+    "nuance": "Imagine rehearsing a song while listening for what the music asks rather than checking whether you seem talented. Your attention has moved beyond self-assessment. This is an example of orientation, not advice to ignore exhaustion or abandon boundaries. Self-transcendence is not self-erasure; the relationship or task must have value beyond proving your sacrifice.",
+    "sources": [
+      "frankl-transcendence"
+    ],
+    "metaphor": "A tight circle around a person opens toward something beyond them.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "self-transcendence",
+      "variant": "frankl-outward",
+      "composition": {
+        "description": "A tight circle around a person opens toward something beyond them.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 159,
+            "y": 141,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "self",
+            "type": "path",
+            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reach",
+            "type": "path",
+            "d": "M180 125 Q231 121 278 101 M267 99 L279 101 L272 112",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "work",
+            "type": "path",
+            "d": "M286 86 L322 86 L323 142 L286 144 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "beyond",
+            "type": "text",
+            "x": 255,
+            "y": 195,
+            "text": "beyond myself",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "self-transcendence",
+      "encounter"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-encounter",
+      "order": 1
+    },
+    "related": [
+      "frankl-moment"
+    ]
+  },
+  {
+    "id": "frankl-moment",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Situational meaning",
+    "title": "This moment",
+    "statement": "A meaningful answer may change when the situation changes.",
+    "explanation": "Frankl resists one abstract prescription for everyone. Meaning is connected to a particular person facing particular possibilities, so an answer cannot simply be copied from another life.",
+    "nuance": "An evening may call for finishing an overdue promise; another may call for resting with someone who is ill. The same action is not automatically right in both. This situational emphasis differs from choosing whatever feels pleasant: Frankl treats meaning as something to discern, including obligations that may be inconvenient or emotionally difficult.",
+    "sources": [
+      "frankl-moment"
+    ],
+    "metaphor": "Several demands surround a person; one specific direction becomes legible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "situational meaning",
+      "variant": "frankl-compass",
+      "composition": {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "situational meaning",
+      "meaning"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 3
+    },
+    "related": [
+      "frankl-dignity"
+    ]
+  },
+  {
+    "id": "frankl-dignity",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Unconditional dignity",
+    "title": "Beyond usefulness",
+    "statement": "A person is more than the uses that can be made of them.",
+    "explanation": "In his account of personhood, Frankl separates dignity from utility. A loss of ability or productivity does not turn someone into a lesser human being.",
+    "nuance": "Imagine two hospital patients: one likely to return to work, one who will need lifelong care. Their prospects differ; their human worth does not. Frankl grounds this claim in his philosophical account of the spiritual person. The ethical distinction remains essential even if a reader does not accept all of the metaphysics behind that account.",
+    "sources": [
+      "frankl-person"
+    ],
+    "metaphor": "A measuring scale retreats from the person; the outline remains whole.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "unconditional dignity",
+      "variant": "frankl-dignity",
+      "composition": {
+        "description": "A measuring scale retreats from the person; the outline remains whole.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 157,
+            "y": 138,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M245 72 L245 181 M245 81 L259 81 M245 105 L253 105 M245 130 L259 130 M245 155 L253 155 M245 178 L259 178",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "measured",
+            "type": "text",
+            "x": 273,
+            "y": 205,
+            "text": "usefulness",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "whole",
+            "type": "path",
+            "d": "M137 54 Q97 76 105 159 Q109 188 142 192",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "unmeasured",
+            "type": "text",
+            "x": 146,
+            "y": 215,
+            "text": "dignity",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "unconditional dignity",
+      "the person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 1
+    },
+    "related": [
+      "frankl-guilt"
+    ]
+  },
+  {
+    "id": "frankl-guilt",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Guilt and change",
+    "title": "A different next act",
+    "statement": "The past cannot be undone. A response to it may still change.",
+    "explanation": "Frankl includes guilt in the tragic conditions of life. Its constructive possibility is responsibility for a different action, rather than endless repetition of self-condemnation.",
+    "nuance": "Suppose you broke a promise. Calling yourself a worthless person does not fulfil it; acknowledging the harm and making a repair might. This example concerns responsibility for an actual act. It must be distinguished from the guilt imposed on victims, survivors, or people who feel responsible for events they did not cause and could not control.",
+    "sources": [
+      "frankl-triad"
+    ],
+    "metaphor": "A damaged connection remains visible while a second line repairs the break.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "guilt and change",
+      "variant": "frankl-repair-guilt",
+      "composition": {
+        "description": "A damaged connection remains visible while a second line repairs the break.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 111,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 293,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "broken",
+            "type": "path",
+            "d": "M144 126 L188 130 M215 135 L259 128",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "repair",
+            "type": "path",
+            "d": "M146 142 Q199 174 256 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "past",
+            "type": "text",
+            "x": 197,
+            "y": 92,
+            "text": "cannot undo",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "next",
+            "type": "text",
+            "x": 204,
+            "y": 206,
+            "text": "can respond",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "guilt and change",
+      "responsibility"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 2
+    },
+    "related": [
+      "frankl-finite"
+    ]
+  },
+  {
+    "id": "frankl-finite",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Mortality",
+    "title": "The finite line",
+    "statement": "An ending makes choices time-bound, not meaningless.",
+    "explanation": "Frankl treats mortality as a condition of responsibility. Possibilities cannot all be postponed forever, though the limit does not tell us which choice is right.",
+    "nuance": "An unfinished letter matters differently when the person you hope to write to may not always be here. This need not become a command to hurry through life or make every hour count. The illustration asks what deserves attention while it is possible. Fear of death can also require companionship and care, rather than another demand for meaningful achievement.",
+    "sources": [
+      "frankl-triad"
+    ],
+    "metaphor": "A finite strip of time gains marks through encounters; the endpoint remains.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "mortality",
+      "variant": "frankl-finite",
+      "composition": {
+        "description": "A finite strip of time gains marks through encounters; the endpoint remains.",
+        "actors": [
+          {
+            "id": "time",
+            "type": "path",
+            "d": "M70 165 Q192 162 330 165 M329 155 L329 176",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M114 151 L114 173 M159 150 L159 174 M209 151 L209 175 M272 151 L272 175",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "now",
+            "type": "text",
+            "x": 203,
+            "y": 112,
+            "text": "not endless",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "held",
+            "type": "text",
+            "x": 202,
+            "y": 209,
+            "text": "not worthless",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "mortality",
+      "the limits"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "frankl-the-limits",
+      "order": 3
+    },
+    "related": [
+      "frankl-a-deed"
+    ]
+  }
+]
