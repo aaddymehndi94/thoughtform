@@ -1,4 +1,4 @@
-# Inner Index — working preferences
+# thoughtform — working preferences
 
 These are the user's explicit preferences for this project. Preserve them in future work.
 
@@ -6,13 +6,13 @@ These are the user's explicit preferences for this project. Preserve them in fut
 - A quiet, intimate visual library of difficult ideas. The brand and architecture span thinkers; Jung is the first collection, not the brand.
 - Mobile first: inspect 320, 360, 390, and 430px. OLED black, strict grayscale with warm gray, editorial typography, generous space. No educational SaaS, gamification, neon, stock illustrations, or quote-app clichés.
 - Keep a beautiful working experience visible early. Build and run continuously; make meaningful small git commits at working milestones, before major experiments, and after content batches.
-- Aim toward a substantial multi-thinker library, up to 500 cards total. Quality takes priority over counts. Do not pad or repeat an idea to meet a quota.
+- Aim toward a substantial multi-thinker library, 200 cards total, approximately 50 per chosen author. Quality takes priority over counts. Do not pad or repeat an idea to meet a quota.
 
 ## Reading and gestures
 - Swipe left for next, right for previous. Support mouse/trackpad drag, arrow keys, and subtle navigation.
 - Tap anywhere on a card to expand or collapse its deeper reading. A larger visible reading control provides the same action. Exclude independent controls, bookmarks, and source links.
 - Expand inline within the same card, never in a separate details modal. Scroll vertically to read. Distinguish taps, horizontal swipes, and vertical scroll; use velocity, resistance, restrained springs, and depth.
-- Deeper readings may have 2–3 short paragraphs totaling roughly up to 1,000 characters. Include small static explanatory art between paragraphs when useful. Keep the opening view succinct.
+- Deeper readings may have 2–3 short paragraphs totaling around 1,500 characters across three paragraphs, with two static explanatory drawings between paragraphs on every card. Include small static explanatory art between paragraphs when useful. Keep the opening view succinct.
 
 ## Illustration quality
 - The animation is the medium, not decoration. It should communicate the idea before the text is read.

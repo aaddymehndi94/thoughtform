@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "frankl-a-deed",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Creative values",
+    "title": "A small deed",
+    "tags": [
+      "creative values",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-encounter",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Experiential values",
+    "title": "Receiving the world",
+    "tags": [
+      "experiential values",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-unavoidable",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Attitudinal values",
+    "title": "When the wall stays",
+    "tags": [
+      "attitudinal values",
+      "the limits"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-question",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Answering life",
+    "title": "Turn the question",
+    "tags": [
+      "answering life",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-freedom-limits",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Situated freedom",
+    "title": "The narrow opening",
+    "tags": [
+      "situated freedom",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-outward",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Self-transcendence",
+    "title": "Beyond the mirror",
+    "tags": [
+      "self-transcendence",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-moment",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Situational meaning",
+    "title": "This moment",
+    "tags": [
+      "situational meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-dignity",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Unconditional dignity",
+    "title": "Beyond usefulness",
+    "tags": [
+      "unconditional dignity",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-guilt",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Guilt and change",
+    "title": "A different next act",
+    "tags": [
+      "guilt and change",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-finite",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Mortality",
+    "title": "The finite line",
+    "tags": [
+      "mortality",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-vacuum",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Existential vacuum",
+    "title": "Busy, but empty",
+    "tags": [
+      "existential vacuum",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-not-every-question-illness",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Existential frustration",
+    "title": "A question is not an illness",
+    "tags": [
+      "existential frustration",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-tension",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Noö-dynamics",
+    "title": "The taut line",
+    "tags": [
+      "noö-dynamics",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-not-imposed",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Meaning and the therapist",
+    "title": "No borrowed answer",
+    "tags": [
+      "meaning and the therapist",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-responsible-freedom",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Freedom for",
+    "title": "An opening toward what?",
+    "tags": [
+      "freedom for",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-purpose-value",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Purpose and meaning",
+    "title": "A goal is not enough",
+    "tags": [
+      "purpose and meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-love",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Seeing another person",
+    "title": "More than a likeness",
+    "tags": [
+      "seeing another person",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-indirect-fulfilment",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Self-actualisation",
+    "title": "The side effect",
+    "tags": [
+      "self-actualisation",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-anticipation",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Anticipatory anxiety",
+    "title": "Fear feeds the event",
+    "tags": [
+      "anticipatory anxiety",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-paradoxical-intention",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Paradoxical intention",
+    "title": "Change the relation to fear",
+    "tags": [
+      "paradoxical intention",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-dereflection",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Dereflection",
+    "title": "Leave the inspection booth",
+    "tags": [
+      "dereflection",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-past-kept",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Transitoriness",
+    "title": "Having been",
+    "tags": [
+      "transitoriness",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-tragic-optimism",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Tragic optimism",
+    "title": "Without denial",
+    "tags": [
+      "tragic optimism",
+      "the limits"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "frankl-unique-task",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Irreplaceability",
+    "title": "This relation",
+    "tags": [
+      "irreplaceability",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-conscience-fallible",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conscience",
+    "title": "A compass can need correction",
+    "tags": [
+      "conscience",
+      "responsibility"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "freud-unconscious",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "unconscious",
+    "title": "Beyond awareness",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-repression",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "repression",
+    "title": "The closed door",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-slips",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "slips",
+    "title": "Two intentions",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-symptom-compromise",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "symptom compromise",
+    "title": "An uneasy agreement",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-manifest-latent",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "manifest latent",
+    "title": "What the dream shows",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-condensation",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "condensation",
+    "title": "Many into one",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-displacement",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "displacement",
+    "title": "The misplaced weight",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-representability",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "representability",
+    "title": "Thought becomes scene",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-secondary-revision",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "secondary revision",
+    "title": "The story afterwards",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-wish-fulfilment",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "wish fulfilment",
+    "title": "A wish in disguise",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-resistance",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "resistance",
+    "title": "The pause has a history",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-ambivalence",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "ambivalence",
+    "title": "Both at once",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-unconscious-conflict",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "unconscious conflict",
+    "title": "A divided intention",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-psychic-determinism",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "psychic determinism",
+    "title": "The apparently accidental",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-multiple-determination",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "multiple determination",
+    "title": "More than one cause",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-fantasy-reality",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "fantasy reality",
+    "title": "A real effect, an imagined scene",
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-day-residue",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "day residue",
+    "title": "Yesterday remains",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-dream-association",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "dream association",
+    "title": "Start with the detail",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-dream-censorship",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "dream censorship",
+    "title": "Why the disguise?",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-dream-limits",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "dream limits",
+    "title": "The unfinished interpretation",
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-id",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "id",
+    "title": "The impersonal demand",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-ego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "ego",
+    "title": "The negotiator",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-superego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "superego",
+    "title": "The inherited judge",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-ego-ideal",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "ego ideal",
+    "title": "The standard above",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-unconscious-ego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "unconscious ego",
+    "title": "Unaware of the defense",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-preconscious",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "preconscious",
+    "title": "Within reach",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-body-ego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "body ego",
+    "title": "A self with an edge",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-identification",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "identification",
+    "title": "The other within",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-unconscious-guilt",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "unconscious guilt",
+    "title": "Punishment without a verdict",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-three-masters",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "three masters",
+    "title": "The crowded task",
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-free-association",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "free association",
+    "title": "Before the edit",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-transference",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "transference",
+    "title": "The earlier relation",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-transference-resistance",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "transference resistance",
+    "title": "The relation becomes the obstacle",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-suggestion-analysis",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "suggestion analysis",
+    "title": "Beyond agreement",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-interpretation",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "interpretation",
+    "title": "A connection, offered",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-even-attention",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "even attention",
+    "title": "Listen without a destination",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-analyst-blind-spots",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "analyst blind spots",
+    "title": "The listener also has a history",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-therapeutic-ambition",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "therapeutic ambition",
+    "title": "The wish to make a masterpiece",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-remembering-repeating",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "remembering repeating",
+    "title": "The past in the present tense",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-working-through",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "working through",
+    "title": "After the recognition",
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-pleasure-principle",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "pleasure principle",
+    "title": "The search for relief",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-reality-principle",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "reality principle",
+    "title": "The necessary delay",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-traumatic-dreams",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "traumatic dreams",
+    "title": "Returning to the fright",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-fort-da",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "fort da",
+    "title": "Making absence move",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-repetition-compulsion",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "repetition compulsion",
+    "title": "The costly return",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-binding",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "binding",
+    "title": "Before relief",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-stimulus-shield",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "stimulus shield",
+    "title": "A boundary for exposure",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-death-drive",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "death drive",
+    "title": "A difficult speculation",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-eros",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "eros",
+    "title": "The work of connection",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "freud-theory-in-revision",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "theory in revision",
+    "title": "When the model meets its limit",
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-genealogy",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "genealogy",
+    "title": "UNDER THE VERDICT",
+    "tags": [
+      "inherited values",
+      "genealogy"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-ressentiment",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "ressentiment",
+    "title": "THE DELAYED REPLY",
+    "tags": [
+      "inherited values",
+      "ressentiment"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-good-bad",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "good bad",
+    "title": "TWO KINDS OF GOOD",
+    "tags": [
+      "inherited values",
+      "good-bad"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-bad-conscience",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "bad conscience",
+    "title": "THE INWARD TURN",
+    "tags": [
+      "inherited values",
+      "bad-conscience"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-promise",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "promise",
+    "title": "ACROSS TIME",
+    "tags": [
+      "inherited values",
+      "promise"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-active-forgetting",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "active forgetting",
+    "title": "MAKING ROOM",
+    "tags": [
+      "inherited values",
+      "active-forgetting"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-guilt-debt",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "guilt debt",
+    "title": "THE UNPAYABLE ACCOUNT",
+    "tags": [
+      "inherited values",
+      "guilt-debt"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-punishment",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "punishment",
+    "title": "THE SAME INSTRUMENT",
+    "tags": [
+      "inherited values",
+      "punishment"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-ascetic-meaning",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "ascetic meaning",
+    "title": "A REASON FOR PAIN",
+    "tags": [
+      "inherited values",
+      "ascetic-meaning"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-will-truth",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "will truth",
+    "title": "THE QUESTION BEHIND TRUTH",
+    "tags": [
+      "looking again",
+      "will-truth"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-perspectivism",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "perspectivism",
+    "title": "FROM SOMEWHERE",
+    "tags": [
+      "looking again",
+      "perspectivism"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-many-eyes",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "many eyes",
+    "title": "MORE THAN ONE EYE",
+    "tags": [
+      "looking again",
+      "many-eyes"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-philosophy-confession",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "philosophy confession",
+    "title": "THE AUTHOR IN THE ARGUMENT",
+    "tags": [
+      "looking again",
+      "philosophy-confession"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-grammar-self",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "grammar self",
+    "title": "THE EXTRA DOER",
+    "tags": [
+      "looking again",
+      "grammar-self"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-plural-will",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "plural will",
+    "title": "THE COMMAND WITHIN",
+    "tags": [
+      "looking again",
+      "plural-will"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-free-will-blame",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "free will blame",
+    "title": "THE INVENTED COURT",
+    "tags": [
+      "looking again",
+      "free-will-blame"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-convictions",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "convictions",
+    "title": "A CLOSED INTERPRETATION",
+    "tags": [
+      "looking again",
+      "convictions"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-science-faith",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "science faith",
+    "title": "THE UNEXAMINED VALUE",
+    "tags": [
+      "looking again",
+      "science-faith"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-consciousness-communication",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "consciousness communication",
+    "title": "THE SHAREABLE SELF",
+    "tags": [
+      "looking again",
+      "consciousness-communication"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-useful-error",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "useful error",
+    "title": "THE SUPPORTING FICTION",
+    "tags": [
+      "looking again",
+      "useful-error"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-give-style",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "give style",
+    "title": "A FORM FOR YOUR FORCES",
+    "tags": [
+      "making a life",
+      "give-style"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-self-overcoming",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "self overcoming",
+    "title": "BEYOND YOUR OWN FORM",
+    "tags": [
+      "making a life",
+      "self-overcoming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-camel",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "camel",
+    "title": "LEARNING TO BEAR",
+    "tags": [
+      "making a life",
+      "camel"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-lion",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "lion",
+    "title": "THE NECESSARY NO",
+    "tags": [
+      "making a life",
+      "lion"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-child",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "child",
+    "title": "THE FIRST AFFIRMATION",
+    "tags": [
+      "making a life",
+      "child"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-will-power",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "will power",
+    "title": "FORMING AND RESISTING",
+    "tags": [
+      "making a life",
+      "will-power"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-discipline-form",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "discipline form",
+    "title": "THE LONG OBEDIENCE",
+    "tags": [
+      "making a life",
+      "discipline-form"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-becoming-not-knowing",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "becoming not knowing",
+    "title": "NO FINISHED BLUEPRINT",
+    "tags": [
+      "making a life",
+      "becoming-not-knowing"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-friend-resistance",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "friend resistance",
+    "title": "THE FRIEND WHO RESISTS",
+    "tags": [
+      "making a life",
+      "friend-resistance"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-teacher-leaving",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "teacher leaving",
+    "title": "OUTGROWING THE TEACHER",
+    "tags": [
+      "making a life",
+      "teacher-leaving"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-death-god",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "death god",
+    "title": "THE MISSING HORIZON",
+    "tags": [
+      "without a guarantee",
+      "death-god"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-shadows-god",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "shadows god",
+    "title": "AFTER THE DEPARTURE",
+    "tags": [
+      "without a guarantee",
+      "shadows-god"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-nihilism",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "nihilism",
+    "title": "WHEN THE MEASURE FAILS",
+    "tags": [
+      "without a guarantee",
+      "nihilism"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-open-sea",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "open sea",
+    "title": "DANGEROUS ROOM",
+    "tags": [
+      "without a guarantee",
+      "open-sea"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-last-man",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "last man",
+    "title": "NOTHING TO RISK",
+    "tags": [
+      "without a guarantee",
+      "last-man"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-overhuman",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "overhuman",
+    "title": "A BRIDGE, NOT A FINISH",
+    "tags": [
+      "without a guarantee",
+      "overhuman"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-faithful-earth",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "faithful earth",
+    "title": "THIS WORLD",
+    "tags": [
+      "without a guarantee",
+      "faithful-earth"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-eternal-recurrence",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "eternal recurrence",
+    "title": "ALL OF IT, AGAIN",
+    "tags": [
+      "without a guarantee",
+      "eternal-recurrence"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-amor-fati",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "amor fati",
+    "title": "WANTING WHAT HAS BEEN",
+    "tags": [
+      "without a guarantee",
+      "amor-fati"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-revenge-time",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "revenge time",
+    "title": "THE WALL OF WAS",
+    "tags": [
+      "without a guarantee",
+      "revenge-time"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-apollonian",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "apollonian",
+    "title": "THE NECESSARY OUTLINE",
+    "tags": [
+      "art and existence",
+      "apollonian"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-dionysian",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "dionysian",
+    "title": "WHEN THE BOUNDARY LOOSENS",
+    "tags": [
+      "art and existence",
+      "dionysian"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-tragedy",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "tragedy",
+    "title": "WITHOUT A HAPPY ENDING",
+    "tags": [
+      "art and existence",
+      "tragedy"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-theoretical-optimism",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "theoretical optimism",
+    "title": "THE PROMISE OF EXPLANATION",
+    "tags": [
+      "art and existence",
+      "theoretical-optimism"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-artistic-distance",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "artistic distance",
+    "title": "A LITTLE DISTANCE",
+    "tags": [
+      "art and existence",
+      "artistic-distance"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-pain-knowledge",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "pain knowledge",
+    "title": "WHAT PAIN CANNOT PROVE",
+    "tags": [
+      "art and existence",
+      "pain-knowledge"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-great-health",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "great health",
+    "title": "HEALTH THAT CAN CHANGE",
+    "tags": [
+      "art and existence",
+      "great-health"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-genius-work",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "genius work",
+    "title": "THE INVISIBLE ATTEMPTS",
+    "tags": [
+      "art and existence",
+      "genius-work"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-slow-reading",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "slow reading",
+    "title": "THE TEMPO OF A THOUGHT",
+    "tags": [
+      "art and existence",
+      "slow-reading"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-mask-depth",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "mask depth",
+    "title": "THE PROTECTIVE SURFACE",
+    "tags": [
+      "art and existence",
+      "mask-depth"
+    ],
+    "depth": 2
+  }
+]

@@ -1,5 +1,7 @@
 import type { Source } from './types';
+import librarySources from './source-library.json';
 export const sources: Record<string, Source> = {
+ ...librarySources,
  shadow: { title: 'Aion', author: 'C. G. Jung', reference: 'Collected Works 9ii, chapter II: The Shadow', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-shadow/' },
  psyche: { title: 'Two Essays on Analytical Psychology', author: 'C. G. Jung', reference: 'Collected Works 7, The Relations between the Ego and the Unconscious', url: 'https://www.thesap.org.uk/articles-on-jungian-psychology-2/carl-gustav-jung/jungs-model-psyche/' },
  complex: { title: 'A Review of the Complex Theory', author: 'C. G. Jung', reference: 'Collected Works 8, §§194–219', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-theory-of-complexes/' },

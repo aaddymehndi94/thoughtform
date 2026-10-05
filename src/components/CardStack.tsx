@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { animate, motion, useMotionValue, useTransform, useReducedMotion } from 'motion/react';
 import type { Thought } from '../content/types';
+import { getThinker } from '../content/library';
 import { Illustration } from '../visuals/Illustration';
 import { Icon } from './Icons';
 import { ReadingDetails } from './ReadingDetails';
@@ -53,13 +54,13 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
    }}
    onPointerUp={release} onPointerCancel={() => { gesture.current.active = false; settle(); }}
    aria-label={`${card.title}, thought ${index + 1} of ${total}`} tabIndex={0} aria-describedby="card-interaction-hint" onKeyDown={e => { if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); setExpanded(value => !value); } }}>
-   <div className="card-heading"><span className="eyebrow">Carl Jung <span className="middot">/</span> {card.concept}</span><button className={`icon-button bookmark ${saved ? 'saved' : ''}`} aria-label={saved ? 'Remove bookmark' : 'Bookmark this thought'} aria-pressed={saved} onClick={onSave}><Icon name="bookmark" size={18}/></button></div>
+   <div className="card-heading"><span className="eyebrow">{getThinker(card.thinker).name} <span className="middot">/</span> {card.concept}</span><button className={`icon-button bookmark ${saved ? 'saved' : ''}`} aria-label={saved ? 'Remove bookmark' : 'Bookmark this thought'} aria-pressed={saved} onClick={onSave}><Icon name="bookmark" size={18}/></button></div>
    <Illustration kind={card.scene.kind} caption={card.scene.caption} composition={card.scene.composition}/>
    <div className="card-copy"><span className="concept-number">{String(index + 1).padStart(3, '0')} <span>—</span> {card.collection}</span><h1>{card.title}</h1><p className="statement">{card.statement}</p><p className="explanation">{card.explanation}</p>
     <button className={`depth-link ${expanded ? 'expanded' : ''}`} aria-expanded={expanded} aria-controls={`details-${card.id}`} onClick={() => setExpanded(value => !value)}>{expanded ? 'A little less' : 'Look a little closer'}<span aria-hidden="true">{expanded ? '−' : '+'}</span></button>
     <div id={`details-${card.id}`} className={`inline-details ${expanded ? 'is-open' : ''}`} inert={!expanded}><div className="details-inner"><ReadingDetails card={card}/><button className="fold-link" onClick={() => { setExpanded(false); document.querySelector('article')?.scrollIntoView({ behavior: reduced ? 'instant' : 'smooth', block: 'start' }); }}>Return to the thought ↑</button></div></div>
    </div>
-   <div className="card-bottom"><span>AN INNER INDEX</span><span className="small-cross">+</span><span>ONE THOUGHT AT A TIME</span></div>
+   <div className="card-bottom"><span>A THOUGHTFORM</span><span className="small-cross">+</span><span>ONE THOUGHT AT A TIME</span></div>
   </motion.article>
  </div>;
 }
