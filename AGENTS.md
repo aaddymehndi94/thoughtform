@@ -32,3 +32,21 @@ These are the user's explicit preferences for this project. Preserve them in fut
 - Delegate separate files and commit only owned files to avoid overlapping changes.
 
 Expansion scrolls to the start of the descriptive body; collapsing returns to the page top. Keep the current mobile font sizes, which the user has approved.
+
+## Latest motion and reading feedback
+- The user explicitly rejects animations that are mainly repeated arrows or abstract motion. Each lesson must transfer its central distinction on first viewing through the headline, a changing explanatory drawing, and readable kinetic text.
+- Think of a teacher drawing and explaining on a blackboard: show a concrete situation, reveal the mechanism, show what changes, and make the important qualification visible. Use more beats or text when useful; do not constrain all scenes to one template.
+- Expansion and collapse must coordinate scrolling with layout. Prevent scroll anchoring or content-height changes from causing a bounce. Keep expanded content present while scrolling up to collapse; only then fold it away.
+
+## Required review for every card
+Treat every card as an editorial and visual teaching problem. Critique the result before accepting it.
+1. State the single thing a newcomer should understand. If the card teaches several things, narrow it or make a connected sequence.
+2. Generate several visual approaches before implementation. Choose a spatial relationship and a change that reveal the idea; reject decoration, habitual arrows, and reused metaphors that do not carry this particular concept.
+3. Review the first full animation as someone who has never met the concept. The headline, drawing, and kinetic text must explain the central relationship without requiring the expanded body.
+4. Check each beat: what does the viewer see, what changes, and what new understanding follows? Preserve necessary objects, show the origin of changes, and allow enough time to read.
+5. Read the title, statement, and three paragraphs aloud in order. Make the prose calm, direct, specific, and easy to follow. Remove generic wisdom, unnecessary negation, formulaic contrasts, repetitive caveats, and sentences that do not earn their space. Retain qualifications that materially change the idea.
+6. Give each static drawing a specific teaching purpose tied to its neighboring paragraph. If it repeats the animation or merely fills space, redraw it to explain an example, mechanism, or useful distinction.
+7. Verify attribution and source details. Keep original illustrative dialogue distinct from an author's quotations; historical theories should retain their historical status.
+8. Inspect every animation beat and both static drawings in the actual mobile page. Check reading order, legibility, clipping, crowding, timing, and whether the picture genuinely helps. Revise defects and inspect again.
+9. Review the card beside neighboring cards. Vary metaphor, composition, pace, and explanatory approach when repetition would weaken learning.
+10. Finish only when every element earns its place. Do not promise perfection or treat card count, clean code, or passing measurements as a substitute for editorial judgment.

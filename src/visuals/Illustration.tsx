@@ -1,13 +1,15 @@
 import { NarrativeScene, Human } from './NarrativeScene';
 import { CompositionScene } from './CompositionScene';
-import type { Composition } from './types';
+import { LessonScene } from './LessonScene';
+import type { Composition, VisualLesson } from './types';
 import type { SceneKind } from '../content/types';
 const loop = (name: string, delay = 0) => ({ className: `actor ${name}`, style: { animationDelay: `${delay}s` } });
 export function Figure({ x = 0, y = 0, className = '', variant = false }: { x?: number; y?: number; className?: string; variant?: boolean }) {
  return <g className={className}><Human x={x} y={y} shade={className.includes('shade')} facing={variant}/></g>;
 }
 function Label({ x, y, children, className = '' }: { x: number; y: number; children: React.ReactNode; className?: string }) { return <text x={x} y={y} className={`annotation ${className}`}>{children}</text>; }
-export function Illustration({ kind, caption, compact = false, composition }: { kind: SceneKind; caption: string; compact?: boolean; composition?: Composition }) {
+export function Illustration({ kind, caption, compact = false, composition, lesson, paused }: { kind: SceneKind; caption: string; compact?: boolean; composition?: Composition; lesson?: VisualLesson; paused?: boolean }) {
+ if (lesson) return <LessonScene lesson={lesson} paused={paused}/>;
  return <div className={`illustration ${compact ? 'compact' : ''}`} aria-label={caption} role="img"><svg viewBox="0 0 400 250" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><filter id="pencil"><feTurbulence type="fractalNoise" baseFrequency=".025" numOctaves="2" seed="12" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale=".6"/></filter></defs><g className="drawing" strokeLinecap="round" strokeLinejoin="round">
  {['shadow','persona','projection','complex','individuation','self'].includes(kind) && <NarrativeScene kind={kind}/>}
  {kind === 'notebook' && composition && <CompositionScene composition={composition}/>}
