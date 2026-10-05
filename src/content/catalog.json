@@ -309,7 +309,7 @@
       "hidden life",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-repression",
@@ -321,7 +321,7 @@
       "hidden life",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-slips",
@@ -333,7 +333,7 @@
       "hidden life",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-symptom-compromise",
@@ -357,7 +357,7 @@
       "dream-work",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-condensation",
@@ -369,7 +369,7 @@
       "dream-work",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-displacement",
@@ -549,7 +549,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-ego",
@@ -561,7 +561,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-superego",
@@ -573,7 +573,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-ego-ideal",
@@ -597,7 +597,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "freud-preconscious",
@@ -645,7 +645,7 @@
       "a divided mind",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "freud-three-masters",
@@ -669,7 +669,7 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-transference",
@@ -681,7 +681,7 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-transference-resistance",
@@ -741,7 +741,7 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "freud-therapeutic-ambition",
@@ -777,7 +777,7 @@
       "the talking cure",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "freud-pleasure-principle",
@@ -789,7 +789,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-reality-principle",
@@ -801,7 +801,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 1
   },
   {
     "id": "freud-traumatic-dreams",
@@ -849,7 +849,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "freud-stimulus-shield",
@@ -873,7 +873,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "freud-eros",
@@ -897,7 +897,7 @@
       "desire and repetition",
       "psychoanalysis"
     ],
-    "depth": 2
+    "depth": 3
   },
   {
     "id": "nietzsche-genealogy",

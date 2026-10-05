@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "shadow-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Shadow",
+    "title": "The shadow",
+    "statement": "What you refuse to see in yourself still moves with you.",
+    "explanation": "For Jung, the shadow holds qualities the conscious personality cannot admit as its own. Unrecognized does not mean inactive.",
+    "nuance": "The shadow is not simply evil. A person committed to being agreeable may disown anger; someone committed to being tough may disown tenderness. Both qualities can then return in indirect forms. What becomes shadow depends partly on what the conscious personality has learned it must be. Recognizing a disowned impulse brings a choice about how to handle it. It does not excuse acting on it.\n\nThe line between an accepted identity and its shadow is learned as well as chosen. A child praised only for being helpful may discover that asking for something feels selfish. Later, the person can sincerely believe they have no needs while repeatedly feeling overlooked. The denied quality has not become a secret virtue or a monster. It has lost a direct, conscious place in the personality. Jung’s concept asks us to examine that exclusion without deciding in advance that everything excluded should be expressed.\n\nImagine noticing your resentment when a friend asks for another favor. You could condemn the friend, condemn yourself, or pretend nothing happened. A different response is to recognize the resentment as information about a need you have not acknowledged. You can then decide whether to help, refuse, or renegotiate. This is an original example of the distinction: recognizing an impulse creates the possibility of a responsible response. It does not make the impulse a reliable verdict on the friend.",
+    "reflection": "What quality feels impossible to call your own?",
+    "sources": [
+      "shadow"
+    ],
+    "metaphor": "A figure moves. An excluded duplicate lags behind, then returns to its feet.",
+    "scene": {
+      "kind": "shadow",
+      "caption": "What follows us"
+    },
+    "tags": [
+      "identity",
+      "unconscious"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "shadow",
+      "order": 1
+    },
+    "related": [
+      "projection-1",
+      "persona-1"
+    ],
+    "readingArt": [
+      {
+        "description": "An accepted identity excludes anger into a separate region.",
+        "actors": [
+          {
+            "id": "boundary",
+            "type": "path",
+            "d": "M91 47H230V195H91Z"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 156,
+            "y": 146
+          },
+          {
+            "id": "anger",
+            "type": "path",
+            "d": "M267 96l17-15 7 20 18-4-8 19 10 16-21 1-8 17-9-19-19-6Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 116,
+            "y": 225,
+            "text": "agreeable"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 260,
+            "y": 174,
+            "text": "anger"
+          }
+        ]
+      },
+      {
+        "description": "Recognizing a feeling creates several possible responses rather than a single command.",
+        "actors": [
+          {
+            "id": "origin",
+            "type": "path",
+            "d": "M70 122H181M181 122Q220 70 291 62M181 122H291M181 122Q219 172 291 186"
+          },
+          {
+            "id": "feeling",
+            "type": "text",
+            "x": 57,
+            "y": 105,
+            "text": "resentment"
+          },
+          {
+            "id": "help",
+            "type": "text",
+            "x": 296,
+            "y": 66,
+            "text": "help"
+          },
+          {
+            "id": "refuse",
+            "type": "text",
+            "x": 296,
+            "y": 127,
+            "text": "refuse"
+          },
+          {
+            "id": "renegotiate",
+            "type": "text",
+            "x": 240,
+            "y": 214,
+            "text": "renegotiate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "persona-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Persona",
+    "title": "A face for the world",
+    "statement": "The face you show is useful. It is also incomplete.",
+    "explanation": "A persona helps us meet the expectations of a role. Trouble begins when the role becomes our entire account of who we are.",
+    "nuance": "A teacher, parent, or doctor needs a recognizable social role. The role gives other people a way to relate to them, and gives them a way to act. Jung’s concern was identification: when “I am a doctor” becomes the whole answer to “Who am I?” Failure, retirement, or an unfamiliar situation can then threaten the entire personality. A useful persona can be worn without being mistaken for the person wearing it.\n\nA persona is made at the meeting point of personal capacities and collective expectations. The role is not necessarily false: a skilled doctor really has acquired knowledge and obligations. Yet neither the qualification nor the familiar manner includes the whole person. Jung’s concern is the narrowing that occurs when someone cannot experience a feeling, interest, or difficulty that the role does not permit. A public success can conceal that narrowing for a long time, because other people may reward exactly the identity that confines its wearer.\n\nSuppose the person everyone calls dependable becomes exhausted. Their difficulty may be more than an overloaded calendar. Admitting exhaustion could feel like becoming someone nobody will recognize. A more flexible persona allows an ordinary sentence: I cannot take this on today. The change is small, but the person is no longer required to represent the role perfectly. The drawing separates the face and its social mask to make room for that difference. It does not suggest that a private self is always pure or a public self always deceptive.",
+    "reflection": "Who are you when no one needs you to be someone?",
+    "sources": [
+      "psyche"
+    ],
+    "metaphor": "An irregular face remains behind a composed mask. The mask moves outward, revealing the gap.",
+    "scene": {
+      "kind": "persona",
+      "caption": "The useful distance"
+    },
+    "tags": [
+      "identity",
+      "society"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "persona",
+      "order": 1
+    },
+    "related": [
+      "shadow-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "A social role becomes a restrictive frame when mistaken for an entire life.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 188,
+            "y": 149
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M135 49h107v155H135Z"
+          },
+          {
+            "id": "title",
+            "type": "text",
+            "x": 158,
+            "y": 35,
+            "text": "dependable"
+          },
+          {
+            "id": "extension",
+            "type": "path",
+            "d": "M243 122h50m-8-5 8 5-8 5",
+            "tone": "faint"
+          }
+        ]
+      },
+      {
+        "description": "A role can be adjusted while the person remains in relationship.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 164,
+            "y": 143
+          },
+          {
+            "id": "mask",
+            "type": "path",
+            "d": "M230 64q32-6 36 31t-25 50q-31-7-32-40t21-41Z"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M178 127q38-22 59 0",
+            "tone": "faint"
+          },
+          {
+            "id": "me",
+            "type": "text",
+            "x": 149,
+            "y": 215,
+            "text": "a person"
+          },
+          {
+            "id": "role",
+            "type": "text",
+            "x": 229,
+            "y": 172,
+            "text": "a role"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "projection-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Projection",
+    "title": "Whose shape is this?",
+    "statement": "Something inside us can arrive disguised as someone else.",
+    "explanation": "In projection, unconscious material is experienced as belonging to another person. We encounter our own contribution without recognizing its source.",
+    "nuance": "Another person can really behave badly. Projection does not make every criticism false, or every conflict secretly your fault. A real trait may become the screen for an exaggerated inner picture. You might experience an ordinary disagreement as proof that someone is a persecutor, or an acquaintance as a flawless rescuer. Withdrawing a projection means distinguishing the actual person from what your psyche has placed upon them.\n\nProjection is usually not a deliberate accusation. The image seems to arrive as a fact about the person in front of us. That is why simply being told that we are projecting rarely settles the matter. The unconscious contribution is experienced through the other person, and its emotional force can make the judgment feel especially certain. Jung also described positive projections: an admired teacher or partner can seem to carry capacities, wisdom, or possibilities that we have not yet recognized as having some relation to our own life.\n\nImagine meeting a colleague who speaks confidently. Their confidence is real. But if you begin to experience them as the person who must know every answer, the actual colleague has been overlaid with an inner image. Withdrawing a projection would not require deciding that the colleague is incompetent. It would mean discovering their limits and your own capacity to judge. The source of part of the picture becomes visible. The animation keeps both people on the page because a relationship remains after the projection is questioned.",
+    "reflection": "What in this encounter belongs to the other person—and what might belong to you?",
+    "sources": [
+      "shadow",
+      "psyche"
+    ],
+    "metaphor": "A shape travels from behind an observer and settles over a second figure. Its route is then revealed.",
+    "scene": {
+      "kind": "projection",
+      "caption": "A misplaced origin"
+    },
+    "tags": [
+      "relationships",
+      "unconscious"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "projection",
+      "order": 1
+    },
+    "related": [
+      "shadow-1",
+      "complex-1"
+    ],
+    "readingArt": [
+      {
+        "description": "A real person can be overlaid with an exaggerated rescuing image.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 151
+          },
+          {
+            "id": "large",
+            "type": "path",
+            "d": "M200 31q-60-8-79 64t23 103q56 43 107-6t18-99q-18-65-69-62Z",
+            "tone": "faint"
+          },
+          {
+            "id": "real",
+            "type": "text",
+            "x": 72,
+            "y": 229,
+            "text": "person"
+          },
+          {
+            "id": "inner",
+            "type": "text",
+            "x": 217,
+            "y": 229,
+            "text": "rescuer"
+          }
+        ]
+      },
+      {
+        "description": "The returned projection leaves a real relationship possible.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 102,
+            "y": 150
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 293,
+            "y": 150
+          },
+          {
+            "id": "connection",
+            "type": "path",
+            "d": "M132 119h129m-9-5 9 5-9 5",
+            "tone": "faint"
+          },
+          {
+            "id": "capacity",
+            "type": "path",
+            "d": "M58 60q36-29 71 0",
+            "tone": "faint"
+          },
+          {
+            "id": "left",
+            "type": "text",
+            "x": 52,
+            "y": 224,
+            "text": "my judgment"
+          },
+          {
+            "id": "right",
+            "type": "text",
+            "x": 261,
+            "y": 224,
+            "text": "their limits"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "complex-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Complexes",
+    "title": "An old knot, touched",
+    "statement": "A small event can wake a much larger history.",
+    "explanation": "A complex is a cluster of emotionally charged associations. When activated, it can organize a reaction before the conscious “I” has caught up.",
+    "nuance": "A correction at work may activate an old pattern of humiliation. Suddenly the present conversation feels like a familiar scene, and you answer as if the earlier people were still in the room. Jung called this the relative autonomy of a complex: a charged network temporarily organizes attention, feeling, and behavior. Complexes are ordinary features of psychic life, not diagnoses. Knowing a pattern exists does not instantly remove its emotional force.\n\nThe knot is an image of associations linked by a shared emotional charge. A tone of voice, a name, a bodily feeling, and a remembered situation may belong to the same network even when the conscious person has not connected them. An encounter can constellate that network: what was relatively quiet becomes active together. Jung arrived at complex theory partly through word-association experiments, where delayed answers, forgotten responses, and disturbances suggested that a seemingly simple task could touch emotionally significant material.\n\nSuppose a manager asks whether a report is finished. One person hears a practical question; another hears an accusation and immediately offers an elaborate defense. The difference need not be visible in the manager’s words. Earlier experiences may be organizing the second person’s present perception. Recognizing this possibility does not prove that the workplace is fair, or that every intense response comes from childhood. It gives us two questions instead of one: what happened here, and what else was activated when it happened?",
+    "reflection": "When did your response seem larger than the moment?",
+    "sources": [
+      "complex"
+    ],
+    "metaphor": "A passing stimulus touches a knot. Connected threads pull an otherwise steady figure off balance.",
+    "scene": {
+      "kind": "complex",
+      "caption": "The present touches the past"
+    },
+    "tags": [
+      "emotion",
+      "memory"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "complexes",
+      "order": 1
+    },
+    "related": [
+      "projection-1",
+      "shadow-1"
+    ],
+    "readingArt": [
+      {
+        "description": "Separate associations join a shared emotional center.",
+        "actors": [
+          {
+            "id": "knot",
+            "type": "path",
+            "d": "M188 114q-27-18-22 15t31 6-9-21Z"
+          },
+          {
+            "id": "threads",
+            "type": "path",
+            "d": "M176 120 101 67m87 56 101-47m-102 51-79 58m85-51 95 54",
+            "tone": "faint"
+          },
+          {
+            "id": "tone",
+            "type": "text",
+            "x": 50,
+            "y": 54,
+            "text": "a tone"
+          },
+          {
+            "id": "name",
+            "type": "text",
+            "x": 277,
+            "y": 61,
+            "text": "a name"
+          },
+          {
+            "id": "body",
+            "type": "text",
+            "x": 42,
+            "y": 211,
+            "text": "a sensation"
+          },
+          {
+            "id": "memory",
+            "type": "text",
+            "x": 267,
+            "y": 213,
+            "text": "a memory"
+          }
+        ]
+      },
+      {
+        "description": "A present question can activate an older remembered situation.",
+        "actors": [
+          {
+            "id": "small",
+            "type": "path",
+            "d": "M65 74H151V165H65Z"
+          },
+          {
+            "id": "large",
+            "type": "path",
+            "d": "M210 42H336V193H210Z",
+            "tone": "faint"
+          },
+          {
+            "id": "here",
+            "type": "figure",
+            "x": 108,
+            "y": 131
+          },
+          {
+            "id": "then",
+            "type": "figure",
+            "x": 273,
+            "y": 140
+          },
+          {
+            "id": "join",
+            "type": "path",
+            "d": "M152 123H209",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 65,
+            "y": 208,
+            "text": "the question"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 212,
+            "y": 220,
+            "text": "the earlier scene"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "individuation-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Individuation",
+    "title": "A whole, with differences",
+    "statement": "Becoming whole does not mean becoming one thing.",
+    "explanation": "Individuation brings conscious and unconscious parts of a life into relationship. The differences remain. They no longer have to live entirely apart.",
+    "nuance": "An ambition, a loyalty, a fear, and a capacity for tenderness need not collapse into one approved identity. Individuation concerns their relationship to conscious life. What can be acknowledged? What demands a limit? What can find expression? Jung distinguished this process from individualism: becoming less governed by borrowed identities can make a person more capable of a real relationship. Wholeness still contains conflict and unfinished work.\n\nIntegration is not the same as giving every part an equal vote. Some desires need limits; some neglected capacities need a place to develop; some conflicts cannot be resolved immediately. Individuation concerns a more conscious relation to these differences, rather than a uniform personality assembled from acceptable traits. Jung also distinguished differentiation from withdrawal into private uniqueness. The process tests inherited roles and collective assumptions, but its point is not to become exempt from other people or ordinary obligations.\n\nConsider someone who understands themselves only as practical. An interest in making music may appear pointless, embarrassing, or incompatible with that identity. Giving the interest time does not require abandoning their responsibilities or deciding they were secretly an artist all along. They can discover how the two ways of living relate, where they conflict, and what each changes in the other. The shapes in the drawing retain their contours. A wider pattern becomes possible because the relationships change, not because their differences vanish.",
+    "reflection": "Which parts of your life have never been introduced?",
+    "sources": [
+      "individuation"
+    ],
+    "metaphor": "Different fragments keep their shapes while a thread gradually establishes a relationship among them.",
+    "scene": {
+      "kind": "individuation",
+      "caption": "Related, not identical"
+    },
+    "tags": [
+      "wholeness",
+      "development"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "individuation",
+      "order": 1
+    },
+    "related": [
+      "self-1",
+      "persona-1"
+    ],
+    "readingArt": [
+      {
+        "description": "Two distinct interests can belong to one life without becoming the same.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M88 69h74v77H88Z"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M270 65q-44-6-43 40t42 42q42-1 40-42t-39-40Z"
+          },
+          {
+            "id": "join",
+            "type": "path",
+            "d": "M163 107q40-16 64 0",
+            "tone": "faint"
+          },
+          {
+            "id": "practical",
+            "type": "text",
+            "x": 89,
+            "y": 178,
+            "text": "practical"
+          },
+          {
+            "id": "music",
+            "type": "text",
+            "x": 245,
+            "y": 178,
+            "text": "music"
+          }
+        ]
+      },
+      {
+        "description": "A larger organization preserves its different inner contours.",
+        "actors": [
+          {
+            "id": "whole",
+            "type": "path",
+            "d": "M202 32q116 0 122 95t-122 93Q80 216 77 127t125-95Z",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M120 88h58v57h-58Z"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M240 84q-31-3-33 30t32 32 30-31-29-31Z"
+          },
+          {
+            "id": "join",
+            "type": "path",
+            "d": "M178 117h30",
+            "tone": "faint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "self-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "The Self",
+    "title": "More than the “I”",
+    "statement": "The part that says “I” is not the whole of the person.",
+    "explanation": "Jung called the center of consciousness the ego. The Self names the larger totality: conscious life and the unconscious life around it.",
+    "nuance": "The ego is the standpoint from which you remember, decide, and say “I.” The Self names the wider personality, including what that standpoint cannot presently know. Jung also used the term for an ordering center expressed in symbols of wholeness. This is a psychological model, not a second person inside you. A powerful image of unity may orient the ego without making it omniscient. Mistaking that experience for personal greatness is one danger Jung called inflation.\n\nThere are two linked uses of the term in Jung’s writing: the whole personality and an organizing center associated with that whole. Both exceed the ego’s present knowledge. Images of circles, central figures, or reconciled opposites may symbolize this relation, but a symbol is not proof that the person has achieved total integration. Nor does every compelling inner event come from a benevolent source. The concept invites the conscious standpoint to encounter a wider field while preserving its ability to make distinctions and take responsibility.\n\nImagine finding that a decision you made with complete confidence feels wrong months later. New feelings, dreams, encounters, and consequences reveal features of your life that were missing from the original picture. You do not need to imagine that a hidden ruler knew the answer beforehand. The distinction is simpler: the standpoint that decided was only one part of a larger, changing person. The small I in the drawing remains visible inside the wider field. Acknowledging that field can enlarge the account of a life without abolishing the person who must live it.",
+    "reflection": "What belongs to your life before you can name it?",
+    "sources": [
+      "self"
+    ],
+    "metaphor": "A small point marked I occupies one region of a larger, irregular field. The field continues beyond it.",
+    "scene": {
+      "kind": "self",
+      "caption": "The center and the whole"
+    },
+    "tags": [
+      "ego",
+      "wholeness"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "self",
+      "order": 1
+    },
+    "related": [
+      "individuation-1",
+      "shadow-1"
+    ],
+    "readingArt": [
+      {
+        "description": "The conscious viewpoint is one region of the whole personality.",
+        "actors": [
+          {
+            "id": "whole",
+            "type": "path",
+            "d": "M207 37q96 0 105 85t-105 91q-114 2-115-83T207 37Z",
+            "tone": "faint"
+          },
+          {
+            "id": "ego",
+            "type": "path",
+            "d": "M146 108q-24-3-25 23t25 26 25-25-25-24Z"
+          },
+          {
+            "id": "I",
+            "type": "text",
+            "x": 143,
+            "y": 137,
+            "text": "I"
+          },
+          {
+            "id": "whole-label",
+            "type": "text",
+            "x": 249,
+            "y": 169,
+            "text": "Self"
+          }
+        ]
+      },
+      {
+        "description": "A later view reveals features absent from an earlier account.",
+        "actors": [
+          {
+            "id": "then",
+            "type": "path",
+            "d": "M54 60h110v134H54Z",
+            "tone": "faint"
+          },
+          {
+            "id": "now",
+            "type": "path",
+            "d": "M228 47h121v160H228Z"
+          },
+          {
+            "id": "features",
+            "type": "path",
+            "d": "M71 119h73m99 0h85m-43-53v107m-29-89 65 57",
+            "tone": "faint"
+          },
+          {
+            "id": "arrow",
+            "type": "path",
+            "d": "M172 127h44m-9-5 9 5-9 5"
+          },
+          {
+            "id": "then-t",
+            "type": "text",
+            "x": 65,
+            "y": 220,
+            "text": "an account"
+          },
+          {
+            "id": "now-t",
+            "type": "text",
+            "x": 232,
+            "y": 231,
+            "text": "a wider account"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dream-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Dreams",
+    "title": "The other side of waking",
+    "statement": "A dream can show what your waking position leaves out.",
+    "explanation": "Jung understood dreams as spontaneous expressions of psychic life. They can compensate a one-sided conscious attitude by bringing neglected perspectives into the picture.",
+    "nuance": "Suppose a person insists they are entirely in control, then dreams of missing every train. A Jungian reading might ask whether the dream presents a vulnerability excluded from waking life. This is an illustration, not a universal interpretation of trains. Compensation can challenge, modify, or even confirm an attitude. The waking situation and the dreamer’s associations matter; an image cannot be decoded in isolation.\n\nFor Jung, dream interpretation begins by asking about the conscious situation to which the dream belongs. What is the person insisting on, neglecting, or struggling to understand? The image is then explored through their associations. An apparently humiliating dream might challenge inflation; an encouraging one might compensate a waking sense of worthlessness. These are possible relationships, not automatic meanings. The same image can serve different functions in different lives. The approach is an interpretive model rather than a settled explanation of all dreaming.\n\nImagine a person who describes a strained friendship as entirely harmonious, then dreams of sitting beside a friend while an unseen wall rises between them. One inquiry would be whether the dream gives form to a distance the waking account avoids. Another would ask what walls and that friend mean to this particular dreamer. Neither question establishes the answer in advance. A dream is not a command to end a friendship or an infallible report about another person. It may offer material that makes a conversation, feeling, or uncertainty easier to notice.",
+    "reflection": "What has your waking account of a situation left unmentioned?",
+    "sources": [
+      "dreams"
+    ],
+    "metaphor": "A tilted balance receives a second weight from beneath the line of waking life.",
+    "scene": {
+      "kind": "dream",
+      "caption": "The night adds a counterweight"
+    },
+    "tags": [
+      "dreams"
+    ],
+    "depth": 1,
+    "related": [
+      "self-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "A conscious account and a dream can give different pictures of one situation.",
+        "actors": [
+          {
+            "id": "day",
+            "type": "path",
+            "d": "M65 50h108v149H65Z"
+          },
+          {
+            "id": "night",
+            "type": "path",
+            "d": "M226 50h108v149H226Z"
+          },
+          {
+            "id": "warm",
+            "type": "path",
+            "d": "M89 94h61m-62 49h62"
+          },
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M280 76v96"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 72,
+            "y": 225,
+            "text": "all is well"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 228,
+            "y": 225,
+            "text": "a distance"
+          }
+        ]
+      },
+      {
+        "description": "A dream image gains meaning in relation to an individual life.",
+        "actors": [
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M182 69h38v102h-38Z"
+          },
+          {
+            "id": "context",
+            "type": "path",
+            "d": "M182 90 113 60m107 50 77-38m-114 35-78 39m115-59 82 62",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 69,
+            "y": 45,
+            "text": "associations"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 256,
+            "y": 56,
+            "text": "situation"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 76,
+            "y": 204,
+            "text": "feeling"
+          },
+          {
+            "id": "d",
+            "type": "text",
+            "x": 271,
+            "y": 207,
+            "text": "history"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opposites-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Opposites",
+    "title": "Between two truths",
+    "statement": "An inner conflict can contain more than one legitimate claim.",
+    "explanation": "Jung thought change could emerge when conscious and unconscious positions were both taken seriously. Choosing too quickly may silence the very tension that could alter the choice.",
+    "nuance": "You may need independence and also fear losing a relationship. Declaring one need mature and the other foolish can conceal the conflict without resolving it. Jung’s transcendent function describes a process in which conscious and unconscious positions meet, sometimes producing a new attitude that neither side could supply alone. That takes participation, not passive waiting. Practical decisions still have to be made, often before inner conflict is settled.\n\nJung used the tension of opposites to describe conflicts within psychic life, especially between a conscious position and an unconscious counterposition. The tension is not valuable merely because it hurts. What matters is whether both positions can become available to consciousness without one being dismissed or the ego being overwhelmed. A symbol or new attitude may then form that reorganizes the conflict. This is different from making a neat compromise, pretending all claims are equally justified, or waiting indefinitely for a miraculous third option.\n\nSuppose you feel loyalty to a family expectation and a persistent desire to choose a different vocation. You could obey while treating the desire as selfish, or leave while treating every attachment as weakness. Giving both claims a hearing may reveal that the real issue is neither obedience nor escape, but how to remain in relationship while making a decision they do not approve. That is an illustration of a changed frame, not a guarantee of reconciliation. The drawing keeps both horizontal pulls in view while another direction becomes conceivable.",
+    "reflection": "What would the other side say, if it had a fair hearing?",
+    "sources": [
+      "transcendent"
+    ],
+    "metaphor": "Two lines pull a suspended point. A third line develops vertically while both pulls remain.",
+    "scene": {
+      "kind": "opposites",
+      "caption": "Neither side disappears"
+    },
+    "tags": [
+      "opposites"
+    ],
+    "depth": 1,
+    "related": [
+      "self-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "Independence and attachment remain distinct legitimate concerns.",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M73 123h109m-99-7-10 7 10 7"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M213 123h109m-10-7 10 7-10 7"
+          },
+          {
+            "id": "tension",
+            "type": "path",
+            "d": "M185 123q13-20 26 0q-13 20-26 0Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 56,
+            "y": 179,
+            "text": "independence"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 259,
+            "y": 179,
+            "text": "attachment"
+          }
+        ]
+      },
+      {
+        "description": "A changed frame can preserve relationship while allowing a decision.",
+        "actors": [
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M70 158h117m-11-5 11 5-11 5",
+            "tone": "faint"
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M213 158q-2-82 90-88"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 61,
+            "y": 193,
+            "text": "obey / leave"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 209,
+            "y": 202,
+            "text": "choose, and relate"
+          },
+          {
+            "id": "still",
+            "type": "path",
+            "d": "M214 160h91",
+            "tone": "faint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "symbol-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Symbols",
+    "title": "More than a translation",
+    "statement": "A living symbol says more than you already know how to say.",
+    "explanation": "A sign points to a known meaning. For Jung, a symbol gives the best available expression to something still partly unknown. Explaining it away can close the inquiry too soon.",
+    "nuance": "A road sign has a meaning you can look up. A recurring image of a closed house may draw together memories, fears, and possibilities that no single translation captures. For Jung, a symbol is alive while it expresses something not yet adequately understood. It can become an ordinary sign when its meaning feels exhausted. This distinction depends on a person’s encounter with the image, rather than on the image belonging to an official list of symbols.\n\nJung did not think that a symbol merely concealed a fixed message which an expert could translate correctly. Its form can hold associations and emotional meanings that remain ahead of conscious formulation. This is why a symbol can change over time, or lose its symbolic force as an interpretation becomes familiar. A cross, a tree, or a house can function as a sign in one encounter and as a living symbol in another. The distinction concerns what an image is doing for a particular consciousness, rather than a permanent property attached to the object.\n\nConsider the difference between a key on a hotel desk and a key that keeps appearing in someone’s dreams. The first tells you how to enter a known room. The second may gather associations with permission, secrecy, responsibility, or an opportunity the person cannot yet describe. Naming those possibilities is a beginning, not a final decoding. The small door opens onto a shape that exceeds its frame because a symbolic encounter can enlarge the available questions. It should not be forced to confirm a meaning selected before the encounter began.",
+    "reflection": "What image keeps asking for another look?",
+    "sources": [
+      "types"
+    ],
+    "metaphor": "A small doorway opens into an interior larger than its outline.",
+    "scene": {
+      "kind": "symbol",
+      "caption": "A meaning still opening"
+    },
+    "tags": [
+      "symbols"
+    ],
+    "depth": 1,
+    "related": [
+      "self-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "A sign closes a question with an available definition.",
+        "actors": [
+          {
+            "id": "key",
+            "type": "path",
+            "d": "M126 105q-24-1-24 22t24 25 25-24-25-23Zm24 23h74m-18 0v14m13-14v9"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 122,
+            "y": 202,
+            "text": "room 12"
+          }
+        ]
+      },
+      {
+        "description": "The same object can gather meanings that remain open.",
+        "actors": [
+          {
+            "id": "key",
+            "type": "path",
+            "d": "M189 93q-20-1-20 19t20 21 20-20-20-20Zm20 20h59m-19 0v12"
+          },
+          {
+            "id": "lines",
+            "type": "path",
+            "d": "M176 98 126 69m50 55-57 50m96-60 75-43m-74 60 75 46",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 64,
+            "y": 50,
+            "text": "permission"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 67,
+            "y": 204,
+            "text": "secrecy"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 251,
+            "y": 47,
+            "text": "possibility"
+          },
+          {
+            "id": "d",
+            "type": "text",
+            "x": 253,
+            "y": 205,
+            "text": "obligation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unconscious-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "The unconscious",
+    "title": "Below the waterline",
+    "statement": "Your awareness is a selection, not an inventory.",
+    "explanation": "Jung distinguished conscious experience from psychic processes outside awareness. Forgotten material, unrecognized patterns, and unrealized possibilities can still shape a life.",
+    "nuance": "A name slips away; an emotion appears before an explanation; the same kind of conflict returns with different people. Jung approached unconscious processes through such effects, as well as through dreams and fantasies. He distinguished material acquired in an individual life from the inherited dispositions he called collective. Neither region is directly visible. The waterline is a metaphor for the limits of awareness, rather than a physical division inside the brain.\n\nThe personal unconscious includes material acquired in a life but outside present awareness. Jung also proposed a collective layer of inherited forms or dispositions, rather than a store of your ancestors’ remembered experiences. These are different claims, and they need not be treated as equally established. A forgotten name and a mythic motif do not supply the same kind of evidence. Jung’s model is useful to understand on its own terms while retaining a distinction between an interpretive framework and a scientifically demonstrated map of mental processes.\n\nImagine repeatedly agreeing to commitments you do not want, then missing the deadlines. Your conscious account may say that you are simply forgetful. Another inquiry could ask whether the recurring failure expresses a conflict you have not admitted. That possibility does not prove a hidden intention behind every mistake: ordinary fatigue, distraction, and circumstances matter too. The point of the roots is that what is consciously visible can have conditions outside the current account. An explanation earns its value through careful attention, not through being hidden or dramatic.",
+    "reflection": "What keeps happening before you understand why?",
+    "sources": [
+      "psyche"
+    ],
+    "metaphor": "A sparse visible structure extends below a waterline into many branching roots.",
+    "scene": {
+      "kind": "unconscious",
+      "caption": "A visible part of a larger life"
+    },
+    "tags": [
+      "the unconscious"
+    ],
+    "depth": 1,
+    "related": [
+      "self-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "The visible account omits some of its conditions.",
+        "actors": [
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M66 92H330"
+          },
+          {
+            "id": "visible",
+            "type": "path",
+            "d": "M196 92V49"
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M196 92v36m0-9-52 34m52-25 59 33m-59-33v65m-53-39-28 39m140-31 28 38",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 251,
+            "y": 69,
+            "text": "noticed"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 236,
+            "y": 224,
+            "text": "conditions"
+          }
+        ]
+      },
+      {
+        "description": "A repeated pattern invites an inquiry without proving its cause.",
+        "actors": [
+          {
+            "id": "loops",
+            "type": "path",
+            "d": "M100 109q-23-4-27 24t28 31 29-29-30-26Zm101 0q-23-4-27 24t28 31 29-29-30-26Zm101 0q-23-4-27 24t28 31 29-29-30-26Z",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 53,
+            "y": 204,
+            "text": "agree"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 152,
+            "y": 204,
+            "text": "miss"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 254,
+            "y": 204,
+            "text": "repeat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ego-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "The ego",
+    "title": "The place you stand",
+    "statement": "You need a point of view. You also need to know it is a point of view.",
+    "explanation": "The ego gives conscious experience its continuity: this happened to me; this is what I intend. It is indispensable, even though it cannot see the whole psyche.",
+    "nuance": "Conscious continuity lets you distinguish yesterday from today, recognize an obligation, and question an impulse. These are functions to preserve. Jung’s concern was the ego’s tendency to identify its own account with the whole person. An unconscious image can challenge that account, but it does not deserve automatic authority. Development requires a conscious standpoint strong enough to engage unfamiliar material and modest enough to revise its own assumptions.\n\nThe conscious I is not a detached witness above the personality. Jung described it as a complex: a relatively continuous organization of conscious contents with a sense of identity. Its strength allows us to differentiate a remembered event from a present one, a wish from an action, and an image from a person. Its limitation is the temptation to take its own standpoint as the entire story. A developmental encounter with the unconscious requires both sides of the distinction: a standpoint to answer from and enough openness to discover what that standpoint leaves out.\n\nThink of looking through a window into a room. The view is real; it is simply incomplete. Moving the window changes what becomes visible, but the viewer still has to stand somewhere. A person might learn that their account of a family conflict omitted their own rivalry or grief. They do not need to conclude that nothing they previously saw was true. They need to revise the extent of the claim. The drawing moves a limited frame across a wider field to show a perspective becoming more adequate without pretending to become a view from nowhere.",
+    "reflection": "Where does your account end—and an unanswered question begin?",
+    "sources": [
+      "self"
+    ],
+    "metaphor": "A small window moves over a larger drawing, revealing different portions but never all at once.",
+    "scene": {
+      "kind": "ego",
+      "caption": "One window onto a larger room"
+    },
+    "tags": [
+      "the ego"
+    ],
+    "depth": 1,
+    "related": [
+      "self-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "A viewpoint reveals a true but limited part of a field.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M73 51q89-29 165 26t93 119M71 194q63-48 102-39t147-87",
+            "tone": "faint"
+          },
+          {
+            "id": "window",
+            "type": "path",
+            "d": "M121 75h92v106h-92Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 145,
+            "y": 218,
+            "text": "a view"
+          }
+        ]
+      },
+      {
+        "description": "A changed viewpoint revises the extent of a claim.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M85 84q62-39 112-10t104 80",
+            "tone": "faint"
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M99 59h74v121H99Z",
+            "tone": "faint"
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M211 59h89v121h-89Z"
+          },
+          {
+            "id": "move",
+            "type": "path",
+            "d": "M178 211h33m-9-5 9 5-9 5"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 81,
+            "y": 238,
+            "text": "limited, then wider"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "imagination-1",
+    "thinker": "jung",
+    "collection": "A first encounter",
+    "concept": "Active imagination",
+    "title": "Let the image answer",
+    "statement": "Imagination becomes a dialogue when you stop writing both parts.",
+    "explanation": "In active imagination, an emerging image is allowed to develop. The conscious person responds to it rather than simply observing or directing every turn.",
+    "nuance": "A dream figure might be allowed to develop in writing or drawing. The person attends to what appears, then answers from their own conscious position. The encounter differs from a fantasy scripted to provide a desired ending. Jung also distinguished it from being swept away by unconscious material: the ego must remain a participant. The method is demanding, and its significance lies partly in whether something learned can become a considered change in ordinary life.\n\nActive imagination is more than passive observation and more than a fantasy arranged to gratify a wish. It involves allowing an image or feeling to develop, then entering into a conscious exchange with what has appeared. Jung used writing, painting, and other expressive means, but the medium is secondary to the relationship. The conscious person does not surrender judgment to the image. An encounter becomes psychologically consequential when its implications are considered and, where appropriate, given a responsible place in ordinary life.\n\nImagine drawing a closed door from a dream. Rather than deciding at once that it means opportunity, you attend to the image: its texture, the feeling near it, what happens if you approach. If a figure appears, the point is not to obey whatever it says, but to respond and question from your own position. This example describes the method’s distinction, not an invitation to force vivid experiences. The exchange in the animation moves in both directions. If only the ego speaks, the image has been scripted; if only the image speaks, conscious participation has been lost.",
+    "reflection": "What changes when an image is allowed to surprise you?",
+    "sources": [
+      "imagination"
+    ],
+    "metaphor": "A drawn figure and an irregular form exchange alternating lines across a threshold.",
+    "scene": {
+      "kind": "dialogue",
+      "caption": "Two sides of a conversation"
+    },
+    "tags": [
+      "active imagination"
+    ],
+    "depth": 1,
+    "related": [
+      "self-1",
+      "individuation-1"
+    ],
+    "readingArt": [
+      {
+        "description": "An image and the conscious standpoint answer one another.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 104,
+            "y": 147
+          },
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M286 67q-39-5-39 34t39 43q43-1 36-37t-36-40Z"
+          },
+          {
+            "id": "out",
+            "type": "path",
+            "d": "M141 101h90m-8-5 8 5-8 5"
+          },
+          {
+            "id": "back",
+            "type": "path",
+            "d": "M230 155h-88m8-5-8 5 8 5",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 73,
+            "y": 225,
+            "text": "respond"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 262,
+            "y": 191,
+            "text": "listen"
+          }
+        ]
+      },
+      {
+        "description": "An encounter has to return to the ordinary life that contains it.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M90 169V50h66v119"
+          },
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M151 170q59 5 67-38t97-44",
+            "tone": "faint"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 283,
+            "y": 156
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 72,
+            "y": 215,
+            "text": "the image"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 250,
+            "y": 223,
+            "text": "a considered act"
+          }
+        ]
+      }
+    ]
+  }
+]
