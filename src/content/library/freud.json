@@ -3693,7 +3693,7 @@
     "title": "The impersonal demand",
     "statement": "Not every wish waits for permission.",
     "explanation": "Freud named the id the part of mental life organized around instinctual demands. It is not an evil personality: it is a theoretical domain whose pressures do not necessarily follow conscious priorities.",
-    "nuance": "Hunger, desire and hostility do not become morally bad simply because they are unwelcome. Freud's id represents pressures that the ego must negotiate rather than a villain to defeat.\n\nThe familiar drawing of three characters arguing in a person's head can be misleading. Id, ego and superego name interacting functions in Freud's later model. They are not three separate people or brain regions, and the model remains a historical theory rather than a literal anatomical map.",
+    "nuance": "Hunger, desire and hostility do not become morally bad simply because they are unwelcome. Freud's id represents pressures that the ego must negotiate rather than a villain to defeat. The id does not use the ordinary conscious test of whether an impulse is practical, morally acceptable or consistent with a person's identity. Those constraints become part of the ego's negotiation. A demand can therefore persist even when the person has good reasons not to carry it out.\n\nThe familiar drawing of three characters arguing in a person's head can be misleading. Id, ego and superego name interacting functions in Freud's later model. They are not three separate people or brain regions, and the model remains a historical theory rather than a literal anatomical map.\n\nPicture a wish meeting a boundary rather than a character making a plan. That image avoids giving the id a secret personality who knows everything the person does not. Freud's model locates instinctual pressure within a larger organization of mental life, and the id is not completely isolated from the ego that develops from it. Conscious choice remains relevant, but it does not create the underlying demand merely by noticing it. The concept is most intelligible as a relation between pressure and regulation. It becomes misleading when used to label any disliked behavior as primitive or to excuse an action as something an inner creature did instead of the person.",
     "sources": [
       "freud-ego-5"
     ],
@@ -3767,6 +3767,105 @@
     "related": [
       "freud-dream-limits",
       "freud-ego"
+    ],
+    "readingArt": [
+      {
+        "description": "a demand / possible action / pressure meets regulation",
+        "actors": [
+          {
+            "id": "border",
+            "type": "path",
+            "d": "M195 42 L195 97 M195 145 L195 203",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M195 98 L216 122 L195 145",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "circle",
+            "x": 113,
+            "y": 123,
+            "r": 16,
+            "tone": "normal"
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a demand",
+            "x": 109,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "possible action",
+            "x": 279,
+            "y": 78
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "pressure meets regulation",
+            "x": 205,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "mental life / ego organization / the division is functional",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
+            "tone": "normal"
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M122 112 Q194 125 277 111",
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "mental life",
+            "x": 202,
+            "y": 45
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "ego organization",
+            "x": 210,
+            "y": 97
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the division is functional",
+            "x": 203,
+            "y": 227
+          }
+        ]
+      }
     ]
   },
   {
@@ -3777,7 +3876,7 @@
     "title": "The negotiator",
     "statement": "The sense of I does not govern everything it answers to.",
     "explanation": "Freud's ego mediates among instinctual demands, moral demands and external reality. It can perceive and plan, but it also defends itself and is not wholly conscious in his later account.",
-    "nuance": "Wanting to leave a job, fearing financial loss and feeling obliged to stay creates several different demands. The ego's task is to find workable relations among them, not merely express the strongest wish.\n\nEgo here does not mean arrogance. It is Freud's term for an organization of mental functions. A person can have a powerful conscious sense of control while remaining unaware of some of the defenses used to maintain it.",
+    "nuance": "Wanting to leave a job, fearing financial loss and feeling obliged to stay creates several different demands. The ego's task is to find workable relations among them, not merely express the strongest wish. The ego also assesses danger and uses defenses. Some of that work occurs beyond awareness, which prevents a neat equation between ego and rational conscious thought. Freud's image of mediation involves dependence on several forces, not an autonomous ruler issuing commands to the rest of the mind.\n\nEgo here does not mean arrogance. It is Freud's term for an organization of mental functions. A person can have a powerful conscious sense of control while remaining unaware of some of the defenses used to maintain it.\n\nThe three lines show why negotiation can be difficult. Reality might make a wish costly, while an internal ideal condemns even having the wish. An arrangement that answers one demand can intensify another. Freud's ego must work within that field rather than eliminate it by declaration. The person is still capable of deliberation, but deliberation is itself a process taking place among these pressures. This is also why the everyday meaning of ego can distort the theory: a boastful person is not simply someone with too much of this agency. Freud is describing an organization of functions, not ranking personalities by the size of their pride.",
     "sources": [
       "freud-ego-5"
     ],
@@ -3865,6 +3964,103 @@
     "related": [
       "freud-id",
       "freud-superego"
+    ],
+    "readingArt": [
+      {
+        "description": "wish, rule, world / a response / several demands",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "wish, rule, world",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a response",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "several demands",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "description": "mental life / ego functions / some work stays unconscious",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
+            "tone": "normal"
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M122 112 Q194 125 277 111",
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "mental life",
+            "x": 202,
+            "y": 45
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "ego functions",
+            "x": 210,
+            "y": 97
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "some work stays unconscious",
+            "x": 203,
+            "y": 227
+          }
+        ]
+      }
     ]
   },
   {
@@ -3875,7 +4071,7 @@
     "title": "The inherited judge",
     "statement": "A demand can continue after the person who made it has gone.",
     "explanation": "Freud's superego includes internalized prohibitions and ideals. It can criticize the ego harshly, and its force is not simply a measure of how reasonable a rule is.",
-    "nuance": "Someone can hear an inner accusation after a minor mistake even when no one else is condemning them. Freud connects this judging function with early authority, identification and conflict.\n\nThe superego is not synonymous with a good conscience. It may demand impossible standards or punish a wish as though it were an act. Describing that mechanism does not make every moral concern irrational; it asks how a particular demand acquired its authority and severity.",
+    "nuance": "Someone can hear an inner accusation after a minor mistake even when no one else is condemning them. Freud connects this judging function with early authority, identification and conflict. The internal judgment can become harsher than the actual current judgments of other people. Freud relates its severity to identification and mental conflict, rather than assuming it is a faithful recording of sensible parental rules. The force of a demand and its ethical merit are different questions.\n\nThe superego is not synonymous with a good conscience. It may demand impossible standards or punish a wish as though it were an act. Describing that mechanism does not make every moral concern irrational; it asks how a particular demand acquired its authority and severity.\n\nThe descending measure depicts the experience of being judged before any external conversation takes place. A person may anticipate condemnation for a passing hostile thought even when they have chosen not to act on it. Freud's superego can confuse the significance of desire and action, imposing guilt in ways that exceed the practical situation. But criticism of a harsh judging process does not require abandoning every obligation. The inquiry concerns which standards have authority, how they were taken in and what they do to the person. An internal demand can contain genuine concern and punishing excess at the same time; the model does not make those elements easy to separate.",
     "sources": [
       "freud-ego-5"
     ],
@@ -3947,6 +4143,94 @@
     "related": [
       "freud-ego",
       "freud-ego-ideal"
+    ],
+    "readingArt": [
+      {
+        "description": "the internal rule / the person / authority can exceed reason",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 168,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "rule",
+            "type": "path",
+            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the internal rule",
+            "x": 180,
+            "y": 42
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the person",
+            "x": 266,
+            "y": 160
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "authority can exceed reason",
+            "x": 187,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "a passing wish / an outward action / judgment may conflate them",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a passing wish",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "an outward action",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "judgment may conflate them",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -3957,7 +4241,7 @@
     "title": "The standard above",
     "statement": "An ideal can guide a life or keep it permanently below its own measure.",
     "explanation": "Freud links the ego-ideal with the superego and with earlier identifications. The person compares the actual self with an internal standard that may promise worth yet remain difficult to satisfy.",
-    "nuance": "An ideal of never needing help can turn ordinary dependence into humiliation. The ideal is doing more than setting a goal: it organizes what the person considers acceptable about themselves.\n\nFreud's terminology changes across works, so ego-ideal and superego should not always be treated as sharply separate compartments. The distinction here concerns the experience of measuring oneself against a standard, especially when that standard becomes absolute rather than open to revision.",
+    "nuance": "An ideal of never needing help can turn ordinary dependence into humiliation. The ideal is doing more than setting a goal: it organizes what the person considers acceptable about themselves. The ideal can include images of admired adults, imagined completeness or standards acquired in relationships. It therefore has a history, even when it feels self-evident. The distance between actual and ideal can motivate an attempt, but it can also make ordinary limits feel like unacceptable defects.\n\nFreud's terminology changes across works, so ego-ideal and superego should not always be treated as sharply separate compartments. The distinction here concerns the experience of measuring oneself against a standard, especially when that standard becomes absolute rather than open to revision.\n\nSuppose a person considers needing assistance incompatible with being worthy of respect. Help then becomes emotionally costly even when it is practical and freely offered. The ideal is not simply an ambitious goal; it governs what the self may acknowledge about itself. Freud's account directs attention to that measuring relation and its origins. The illustration keeps a gap between the person and the standard, asking whether the gap supports movement or guarantees permanent failure. A revised relation to an ideal would not necessarily remove aspiration. It could make room for limits without converting each limit into evidence that the entire person falls short.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4029,6 +4313,91 @@
     "related": [
       "freud-superego",
       "freud-unconscious-ego"
+    ],
+    "readingArt": [
+      {
+        "description": "an ideal image / actual experience / the measuring relation",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 168,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "rule",
+            "type": "path",
+            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an ideal image",
+            "x": 180,
+            "y": 42
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "actual experience",
+            "x": 266,
+            "y": 160
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the measuring relation",
+            "x": 187,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "one standard / guides effort / makes limits shameful",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one standard",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "guides effort",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "makes limits shameful",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -4039,7 +4408,7 @@
     "title": "Unaware of the defense",
     "statement": "The force excluding a thought can also be outside awareness.",
     "explanation": "Freud's later model complicated his earlier division of mental systems. The ego is not identical with consciousness: resistance and defensive operations can be unconscious too.",
-    "nuance": "A person may sincerely insist that a topic does not matter while finding every approach to it intolerable. In Freud's account, both the conflict and the defense against it may escape awareness.\n\nThis is why conscious versus unconscious does not map neatly onto ego versus id. The structural model describes agencies and their relations; the earlier topographical model describes modes of access to awareness. Confusing the two turns a nuanced revision into a simple diagram of good and bad selves.",
+    "nuance": "A person may sincerely insist that a topic does not matter while finding every approach to it intolerable. In Freud's account, both the conflict and the defense against it may escape awareness. The same ego that offers a conscious account of itself can exclude material from that account. Freud thus distinguishes an agency from a state of awareness. This revision is important because it prevents the later model from being treated as a simple replacement for the earlier three mental systems.\n\nThis is why conscious versus unconscious does not map neatly onto ego versus id. The structural model describes agencies and their relations; the earlier topographical model describes modes of access to awareness. Confusing the two turns a nuanced revision into a simple diagram of good and bad selves.\n\nThe internal line works within a larger surrounding field. It is not a border that makes everything on one side conscious and everything on the other unconscious. An ego defense can change what becomes available without appearing as a deliberate decision to hide something. Freud uses this to explain why resistance cannot always be approached by simply asking the person to stop resisting. Yet the inference that a defense is operating remains an interpretation of material and process. The conceptual distinction is the secure point of the card: functions and accessibility are different dimensions. Moving from a diagram of regions to a theory of agencies does not abolish that difference.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4108,6 +4477,100 @@
     "related": [
       "freud-ego-ideal",
       "freud-preconscious"
+    ],
+    "readingArt": [
+      {
+        "description": "mental life / ego organization / awareness is another dimension",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
+            "tone": "normal"
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M122 112 Q194 125 277 111",
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "mental life",
+            "x": 202,
+            "y": 45
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "ego organization",
+            "x": 210,
+            "y": 97
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "awareness is another dimension",
+            "x": 203,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "description": "which function? / available to awareness? / two different questions",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "which function?",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "available to awareness?",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "two different questions",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -4118,7 +4581,7 @@
     "title": "Within reach",
     "statement": "Not thinking of something is different from being unable to approach it.",
     "explanation": "Freud distinguished the preconscious from the repressed unconscious. Preconscious material is not currently noticed but can ordinarily become conscious without overcoming the special barrier of repression.",
-    "nuance": "You may not be thinking of your address until someone asks for it. That ordinary availability differs from Freud's account of a thought kept out of awareness by conflict. Both are unnoticed, but their relation to awareness differs.\n\nThe distinction prevents the word unconscious from becoming a label for everything absent from attention. Freud developed different models across his career; this card concerns accessibility in the topographical model, rather than a literal storage room located inside the brain.",
+    "nuance": "You may not be thinking of your address until someone asks for it. That ordinary availability differs from Freud's account of a thought kept out of awareness by conflict. Both are unnoticed, but their relation to awareness differs. Accessibility matters: the unnoticed address is available when the question calls it into attention, whereas repressed material meets a different difficulty in Freud's theory. The categories describe how a thought can become conscious, rather than measuring how vivid or important its content is.\n\nThe distinction prevents the word unconscious from becoming a label for everything absent from attention. Freud developed different models across his career; this card concerns accessibility in the topographical model, rather than a literal storage room located inside the brain.\n\nThe open gate shows an ordinary transition in availability. A memory can be outside current awareness simply because attention is elsewhere. That everyday fact alone does not imply an unacceptable wish or a defensive conflict. Freud distinguishes the descriptive use of unconscious, meaning currently not conscious, from a more dynamic account involving forces that keep material excluded. Without that distinction, almost any forgotten or unattended thought could be described as repressed. The drawing therefore offers a small correction to the popular image of a single hidden storehouse: material beyond attention can stand in different relations to awareness, and those relations are what the theory tries to explain.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4189,6 +4652,105 @@
     "related": [
       "freud-unconscious-ego",
       "freud-body-ego"
+    ],
+    "readingArt": [
+      {
+        "description": "not attended / a prompt / recalled",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "not attended",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a prompt",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "recalled",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "available material / defended-against material / unnoticed does not mean repressed",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "available material",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "defended-against material",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "unnoticed does not mean repressed",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -4199,7 +4761,7 @@
     "title": "A self with an edge",
     "statement": "The sense of self begins with bodily surfaces as well as thoughts.",
     "explanation": "Freud described the ego as first and foremost bodily, linking it with sensations from the body and its surface. His account situates the mental sense of I in a lived relation to bodily experience.",
-    "nuance": "A touch is both something happening to the body and something sensed from within it. Freud treats that double relation as important to the formation of selfhood, rather than viewing the ego as a purely abstract thinker.\n\nThe claim is not that every feature of personality can be read from anatomy. Nor is the bodily ego a modern neuroscientific finding. It is part of Freud's attempt to describe how a differentiated sense of self emerges within a wider field of mental life.",
+    "nuance": "A touch is both something happening to the body and something sensed from within it. Freud treats that double relation as important to the formation of selfhood, rather than viewing the ego as a purely abstract thinker. Bodily boundaries help distinguish inside and outside, yet the body is also an object that can be perceived. Freud is interested in this double position. His description links the ego with a bodily surface without claiming that the person is simply reducible to a visible outline.\n\nThe claim is not that every feature of personality can be read from anatomy. Nor is the bodily ego a modern neuroscientific finding. It is part of Freud's attempt to describe how a differentiated sense of self emerges within a wider field of mental life.\n\nTouching one's hand can be sensed at the touching finger and at the hand being touched. The example suggests why bodily experience has a special role in a sense of self: it is encountered both through sensation and as something sensed. Freud's account gives this relation a place in the formation of the ego. The surrounding line in the drawing becomes an edge that can be recognized, not a wall cutting the person off from the world. The argument remains theoretical and historically situated. Its useful contrast is with a purely disembodied picture of mental life in which the thinker appears fully formed before having any relation to a body.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4268,6 +4830,99 @@
     "related": [
       "freud-preconscious",
       "freud-identification"
+    ],
+    "readingArt": [
+      {
+        "description": "bodily field / a sensed boundary / inside and outside",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
+            "tone": "normal"
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M122 112 Q194 125 277 111",
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "bodily field",
+            "x": 202,
+            "y": 45
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a sensed boundary",
+            "x": 210,
+            "y": 97
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "inside and outside",
+            "x": 203,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "description": "the body sensed / the sensing body / a double position",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "the body sensed",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the sensing body",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a double position",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      }
     ]
   },
   {
@@ -4278,7 +4933,7 @@
     "title": "The other within",
     "statement": "A relationship can leave a form in the person who had it.",
     "explanation": "Freud used identification for processes through which aspects of another person are taken into the self. In his account, attachments can alter the ego rather than simply connect two unchanged individuals.",
-    "nuance": "After a loss, someone may notice a parent's gesture becoming their own. Identification is broader than conscious imitation: Freud links it with attachment, loss and the formation of ideals.\n\nTaking on an aspect of another person does not mean becoming a complete copy. The traces can conflict, coexist and change. Freud's claim concerns how relationships help constitute the self, rather than a self that is fully formed before it encounters anyone.",
+    "nuance": "After a loss, someone may notice a parent's gesture becoming their own. Identification is broader than conscious imitation: Freud links it with attachment, loss and the formation of ideals. Identification can also concern someone the person fears, opposes or has lost. Its meaning depends on the relation, rather than on admiration alone. Freud's account makes room for the self to contain traces of several attachments whose demands and characteristics do not neatly agree.\n\nTaking on an aspect of another person does not mean becoming a complete copy. The traces can conflict, coexist and change. Freud's claim concerns how relationships help constitute the self, rather than a self that is fully formed before it encounters anyone.\n\nImagine an adult who notices a familiar reprimanding phrase in their own speech. The phrase may have been consciously disliked in childhood and still become part of a later way of responding. Freud would ask about the relation through which it was taken in, not assume that adopting a feature proves complete approval of the person it came from. The imprint diagram separates the earlier figure from the lasting pattern. That distinction helps avoid treating identification as total replacement: a trace is incorporated into a self that also has other histories. The self changes through relationships, while the incorporated aspects may coexist in tension rather than forming a seamless whole.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4355,6 +5010,104 @@
     "related": [
       "freud-body-ego",
       "freud-unconscious-guilt"
+    ],
+    "readingArt": [
+      {
+        "description": "an earlier attachment / a later pattern / something is taken in",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an earlier attachment",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a later pattern",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "something is taken in",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "description": "several identifications / one developing ego / the traces can conflict",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "several identifications",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one developing ego",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the traces can conflict",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      }
     ]
   },
   {
@@ -4365,7 +5118,7 @@
     "title": "Punishment without a verdict",
     "statement": "A person can feel driven toward punishment without knowing the accusation.",
     "explanation": "Freud proposed unconscious guilt to explain some forms of self-punishment and resistance to improvement. The term describes an inferred judging relation, rather than guilt necessarily experienced as a clear feeling.",
-    "nuance": "A success followed by compulsive self-reproach might lead Freud to ask whether improvement has become unacceptable within an internal conflict. That interpretation cannot be assumed just because something goes wrong.\n\nThe idea is especially difficult because the accusation may not be consciously reportable. It should therefore be presented as a contested clinical hypothesis. It does not establish that suffering is deserved, secretly desired or caused by a person's failure to think correctly.",
+    "nuance": "A success followed by compulsive self-reproach might lead Freud to ask whether improvement has become unacceptable within an internal conflict. That interpretation cannot be assumed just because something goes wrong. Freud sometimes used this idea when improvement itself appeared to intensify suffering. A harsh internal relation could make getting better feel unacceptable without the person stating an accusation. This is different from ordinary remorse for an acknowledged action, where the grounds of guilt can be discussed directly.\n\nThe idea is especially difficult because the accusation may not be consciously reportable. It should therefore be presented as a contested clinical hypothesis. It does not establish that suffering is deserved, secretly desired or caused by a person's failure to think correctly.\n\nConsider someone who encounters relief and immediately experiences an undefined need to undo it. An interpretation might propose an internal demand for punishment, but other explanations remain possible. The theory is difficult to establish precisely because the proposed guilt is not reported in the familiar form. Freud's account therefore needs to be read as a clinical inference, with all the limits of inference, rather than a hidden verdict uncovered by an authority. The measure in the drawing has no named offense beneath it. That missing connection is the conceptual difficulty: punishment may be felt or enacted while the accusation giving it meaning cannot be clearly brought into the account.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4437,6 +5190,94 @@
     "related": [
       "freud-identification",
       "freud-three-masters"
+    ],
+    "readingArt": [
+      {
+        "description": "an inferred demand / felt punishment / the accusation is unclear",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 168,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "rule",
+            "type": "path",
+            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an inferred demand",
+            "x": 180,
+            "y": 42
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "felt punishment",
+            "x": 266,
+            "y": 160
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the accusation is unclear",
+            "x": 187,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "conscious remorse / proposed unconscious guilt / different access to the reason",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "conscious remorse",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "proposed unconscious guilt",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "different access to the reason",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -4447,7 +5288,7 @@
     "title": "The crowded task",
     "statement": "A workable choice may still disappoint part of the mind.",
     "explanation": "Freud describes the ego as answering to external reality, the id and the superego. Their demands can diverge so strongly that no response provides complete satisfaction.",
-    "nuance": "Choosing to rest might answer exhaustion while provoking an ideal of constant duty. Choosing to work might meet the ideal while worsening the bodily strain. Freud's model makes room for a choice that is necessary yet emotionally costly.\n\nThis is a theory of conflicting demands, not a command to obey a particular inner voice. The important distinction is between finding a workable arrangement and imagining that every tension can be eliminated. Some compromises preserve a conflict while making life possible.",
+    "nuance": "Choosing to rest might answer exhaustion while provoking an ideal of constant duty. Choosing to work might meet the ideal while worsening the bodily strain. Freud's model makes room for a choice that is necessary yet emotionally costly. Freud's description also limits the ego's picture of its own independence. The ego tries to respond rationally, yet it is shaped by demands it cannot simply overrule. A choice can therefore be considered and necessary without producing an experience of inner unanimity or complete emotional peace.\n\nThis is a theory of conflicting demands, not a command to obey a particular inner voice. The important distinction is between finding a workable arrangement and imagining that every tension can be eliminated. Some compromises preserve a conflict while making life possible.\n\nThe shared center is deliberately not a throne. It is a place where pressures arrive, and an arrangement has to be made among them. Suppose a person refuses a demand that would exhaust them. External circumstances might support the refusal while an inherited ideal still makes it feel disloyal. The residual guilt does not automatically show the decision was wrong; nor does conscious justification remove the inner difficulty. Freud's model distinguishes practical adaptation from total satisfaction. The diagram becomes useful when it shows the remaining relation among forces rather than celebrating a moment in which the ego supposedly conquers every part of the mind.",
     "sources": [
       "freud-ego-5"
     ],
@@ -4535,6 +5376,105 @@
     "related": [
       "freud-unconscious-guilt",
       "freud-free-association"
+    ],
+    "readingArt": [
+      {
+        "description": "three demands / one choice / agreement is not guaranteed",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "three demands",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one choice",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "agreement is not guaranteed",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "description": "a workable response / complete satisfaction / one need not imply the other",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a workable response",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "complete satisfaction",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "one need not imply the other",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
