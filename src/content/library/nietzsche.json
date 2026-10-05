@@ -7,7 +7,7 @@
     "title": "UNDER THE VERDICT",
     "statement": "A value has a history. Calling it obvious can hide that history.",
     "explanation": "Nietzsche asks how moral judgments arose and what forms of life they serve. A genealogy examines the making of a value before accepting its claim to timeless authority.",
-    "nuance": "Finding a troubling origin does not automatically disprove a value. Nietzsche also asks what a value does now: whether it enlarges or diminishes life. His genealogies are provocative interpretations of history, not neutral archaeological reports. A rule can outlive the interests that first produced it.",
+    "nuance": "Finding a troubling origin does not automatically disprove a value. Nietzsche also asks what a value does now: whether it enlarges or diminishes life. His genealogies are provocative interpretations of history, not neutral archaeological reports. A rule can outlive the interests that first produced it.\n\nA moral rule can look self-evident when its earlier conflicts have been forgotten. Imagine a community that praises silence because speaking threatens its established order. A later generation may inherit silence as a virtue while no longer knowing whose security it once protected. Genealogy restores the missing question: what happened between a practical arrangement and its appearance as an unconditional demand?\n\nThe inquiry has two parts that should remain distinct. One asks how a value came into existence; the other asks whether that value deserves authority. An ugly origin is not by itself a refutation, just as an impressive origin cannot establish present worth. Nietzsche wants the investigation to reach the effects of valuation: what it enables people to notice, desire, become, or condemn. Those effects can change as the value travels.",
     "sources": [
       "gm-Preface-6"
     ],
@@ -102,6 +102,75 @@
     "related": [
       "nietzsche-mask-depth",
       "nietzsche-ressentiment"
+    ],
+    "readingArt": [
+      {
+        "description": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+        "actors": [
+          {
+            "id": "verdict",
+            "type": "text",
+            "text": "GOOD",
+            "x": 200,
+            "y": 55
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M65 78 Q183 72 335 79",
+            "tone": "normal"
+          },
+          {
+            "id": "layer1",
+            "type": "path",
+            "d": "M72 118 Q198 105 328 119",
+            "tone": "normal"
+          },
+          {
+            "id": "layer2",
+            "type": "path",
+            "d": "M80 157 Q197 147 319 159",
+            "tone": "normal"
+          },
+          {
+            "id": "cut",
+            "type": "path",
+            "d": "M201 77 L198 190 M191 178 L198 190 L208 179",
+            "tone": "normal"
+          },
+          {
+            "id": "history",
+            "type": "text",
+            "text": "who needed this?",
+            "x": 200,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M65 78 Q183 72 335 79",
+            "tone": "normal"
+          },
+          {
+            "id": "layer1",
+            "type": "path",
+            "d": "M72 118 Q198 105 328 119",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "genealogy"
+          }
+        ]
+      }
     ]
   },
   {
@@ -112,7 +181,7 @@
     "title": "THE DELAYED REPLY",
     "statement": "An enemy can keep organizing your life long after the encounter ends.",
     "explanation": "Nietzsche calls ressentiment a lasting, reactive hostility that creates values against an opponent. Unable to discharge itself in action, it returns as an interpretation of the world.",
-    "nuance": "This means more than ordinary anger or remembering an injustice. The crucial turn occurs when opposition becomes the source of evaluation: their qualities must be evil so that mine can be good. Nietzsche diagnoses this structure sharply, but the diagnosis should not be used to dismiss every protest against oppression.",
+    "nuance": "This means more than ordinary anger or remembering an injustice. The crucial turn occurs when opposition becomes the source of evaluation: their qualities must be evil so that mine can be good. Nietzsche diagnoses this structure sharply, but the diagnosis should not be used to dismiss every protest against oppression.\n\nConsider someone who begins by envying another person's confidence. Unable to challenge them directly, they come to describe confidence itself as a moral defect. Their own hesitation then appears virtuous by contrast. The shift is not merely from anger to criticism. The other person continues to supply the entire scale on which the speaker judges themselves; even victory would still be imagined in the opponent's terms.\n\nNietzsche contrasts this reactive structure with a more affirmative beginning: valuing something before needing an enemy to make its value intelligible. That contrast does not settle the justice of a particular conflict. Someone can resist a real wrong without organizing their whole identity around the wrongdoer. The useful question concerns dependence: how much of the present evaluation is still an answer to someone else?",
     "sources": [
       "gm-I-10"
     ],
@@ -196,7 +265,69 @@
       "nietzsche-genealogy",
       "nietzsche-good-bad"
     ],
-    "reflection": "Whose rejection still supplies the terms of your own approval?"
+    "reflection": "Whose rejection still supplies the terms of your own approval?",
+    "readingArt": [
+      {
+        "description": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+        "actors": [
+          {
+            "id": "speaker",
+            "type": "figure",
+            "x": 119,
+            "y": 150
+          },
+          {
+            "id": "absent",
+            "type": "figure",
+            "x": 290,
+            "y": 150
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M144 95 Q252 52 289 94",
+            "tone": "normal"
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M288 100 Q301 201 121 196 Q54 157 82 87 Q106 62 138 92",
+            "tone": "normal"
+          },
+          {
+            "id": "origin",
+            "type": "text",
+            "text": "the other sets the terms",
+            "x": 220,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M144 95 Q252 52 289 94",
+            "tone": "normal"
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M288 100 Q301 201 121 196 Q54 157 82 87 Q106 62 138 92",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "ressentiment"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "nietzsche-good-bad",
@@ -206,7 +337,7 @@
     "title": "TWO KINDS OF GOOD",
     "statement": "Good and bad do not make the same contrast as good and evil.",
     "explanation": "In Nietzsche's account, noble valuation first affirms its own way of life. Reactive valuation begins by condemning an enemy, then defines itself as the opposite of that evil.",
-    "nuance": "The difference concerns the order of valuation, not simply two lists of permitted acts. Nietzsche describes these as tendencies that can coexist within one person. His historical claims are contested, and his admiration for aristocratic cultures carries real ethical problems; this is not a license to treat domination as good.",
+    "nuance": "The difference concerns the order of valuation, not simply two lists of permitted acts. Nietzsche describes these as tendencies that can coexist within one person. His historical claims are contested, and his admiration for aristocratic cultures carries real ethical problems; this is not a license to treat domination as good.\n\nFor noble valuation in Nietzsche's model, the first movement is an affirmative description of the valuing group. What falls outside it is secondary: lesser, ordinary, or bad. Reactive valuation reverses the starting point. The enemy is first designated evil; being unlike that enemy then becomes the route to being good. Two systems can praise similar behavior while giving it a quite different psychological meaning.\n\nThese are interpretive types, not a reliable way to sort actual people into pure camps. A confident person can become vindictive; someone harmed can create independently. Nietzsche's account also contains elitist assumptions that deserve scrutiny. Understanding the mechanism does not require endorsing its preferred hierarchy. The sequence asks how valuation begins and whom it needs, rather than offering a simple moral replacement.",
     "sources": [
       "gm-I-10-11"
     ],
@@ -303,6 +434,77 @@
     "related": [
       "nietzsche-ressentiment",
       "nietzsche-bad-conscience"
+    ],
+    "readingArt": [
+      {
+        "description": "Two verdicts cross the same unchanged shapes; the evaluation changes while the shapes remain.",
+        "actors": [
+          {
+            "id": "form1",
+            "type": "path",
+            "d": "M92 112 L125 66 L153 115 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "form2",
+            "type": "circle",
+            "x": 278,
+            "y": 94,
+            "r": 24
+          },
+          {
+            "id": "value1",
+            "type": "text",
+            "text": "good",
+            "x": 123,
+            "y": 157
+          },
+          {
+            "id": "value2",
+            "type": "text",
+            "text": "bad",
+            "x": 278,
+            "y": 157
+          },
+          {
+            "id": "exchange",
+            "type": "path",
+            "d": "M133 181 Q200 219 278 178 M277 179 L263 177 M277 179 L275 193",
+            "tone": "normal"
+          },
+          {
+            "id": "second",
+            "type": "text",
+            "text": "another measure",
+            "x": 200,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "form1",
+            "type": "path",
+            "d": "M92 112 L125 66 L153 115 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "exchange",
+            "type": "path",
+            "d": "M133 181 Q200 219 278 178 M277 179 L263 177 M277 179 L275 193",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "good bad"
+          }
+        ]
+      }
     ]
   },
   {
@@ -313,7 +515,7 @@
     "title": "THE INWARD TURN",
     "statement": "A force blocked outside can acquire a new life inside.",
     "explanation": "Nietzsche speculates that social confinement turned aggressive instincts inward. Bad conscience emerges as people become the objects of energies they can no longer release outwardly.",
-    "nuance": "This is an account of how self-punishment may develop, not a claim that all conscience is worthless. A person can learn responsibility without making existence itself a crime. Nietzsche calls his origin story a hypothesis; it combines psychological interpretation with a speculative history of early social life.",
+    "nuance": "This is an account of how self-punishment may develop, not a claim that all conscience is worthless. A person can learn responsibility without making existence itself a crime. Nietzsche calls his origin story a hypothesis; it combines psychological interpretation with a speculative history of early social life.\n\nPicture an impulse that repeatedly reaches the edge of permitted action. If it cannot find an outward outlet, it may become self-surveillance, accusation, or punishment directed at its bearer. Nietzsche interprets this turn as one source of the depth of inner life. The result is therefore not merely an unfortunate habit: the inward world itself grows through the redirection of forces once expressed in other ways.\n\nThe hypothesis cannot be used as a complete history of conscience or a defense of unrestricted aggression. Nietzsche distinguishes the capacity made possible by internalization from its destructive forms. Asking whether a reproach helps repair an action is different from asking whether a person deserves endless torment for existing. A judgment can guide change; an inward prosecution can persist even after there is nothing left to repair.",
     "sources": [
       "gm-II-16"
     ],
@@ -396,6 +598,68 @@
     "related": [
       "nietzsche-good-bad",
       "nietzsche-promise"
+    ],
+    "readingArt": [
+      {
+        "description": "Outward lines encounter a wall and bend back into the body, becoming an internal knot.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "figure",
+            "x": 192,
+            "y": 143
+          },
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M287 46 Q282 122 288 198",
+            "tone": "normal"
+          },
+          {
+            "id": "outward",
+            "type": "path",
+            "d": "M212 104 Q257 81 282 100 Q253 125 210 126",
+            "tone": "normal"
+          },
+          {
+            "id": "knot",
+            "type": "path",
+            "d": "M183 113 Q213 92 224 119 Q231 144 191 149 Q169 119 209 113 Q230 144 185 134",
+            "tone": "normal"
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "force turns inward",
+            "x": 200,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M287 46 Q282 122 288 198",
+            "tone": "normal"
+          },
+          {
+            "id": "outward",
+            "type": "path",
+            "d": "M212 104 Q257 81 282 100 Q253 125 210 126",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "bad conscience"
+          }
+        ]
+      }
     ]
   },
   {
@@ -406,7 +670,7 @@
     "title": "ACROSS TIME",
     "statement": "A promise makes a future self answerable to a present word.",
     "explanation": "The capacity to promise requires a durable memory of what one wills. Nietzsche studies the social discipline through which a changeable animal becomes predictable and responsible.",
-    "nuance": "A promise is not merely a memory of having spoken. It is a maintained commitment despite intervening desires. Nietzsche also describes the violence involved in manufacturing reliable people. His portrait of the sovereign individual is debated: readers disagree about how fully it represents his own ideal.",
+    "nuance": "A promise is not merely a memory of having spoken. It is a maintained commitment despite intervening desires. Nietzsche also describes the violence involved in manufacturing reliable people. His portrait of the sovereign individual is debated: readers disagree about how fully it represents his own ideal.\n\nSaying yes on Monday is easy if Monday's desire already favors the act. A promise matters when Friday arrives with a different mood and competing attractions. The person has to maintain a connection across those changes. Nietzsche calls attention to the training behind that continuity: habits of memory, expectations of accountability, and social practices through which a future action can be anticipated by another person.\n\nThe capacity carries a tension. Predictability can support trust, but the methods used to manufacture it can constrain or injure people. Nietzsche does not simply celebrate becoming obedient. His sovereign individual stands at the far end of a difficult history of discipline, and the exact status of that figure is disputed. Keep the two questions apart: how reliable conduct was produced, and what a person might do with the power to commit.",
     "sources": [
       "gm-II-1-2"
     ],
@@ -503,6 +767,71 @@
     "related": [
       "nietzsche-bad-conscience",
       "nietzsche-active-forgetting"
+    ],
+    "readingArt": [
+      {
+        "description": "A loose moving thread is anchored to two distant dates; the figure keeps one line intact across time.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "figure",
+            "x": 193,
+            "y": 139
+          },
+          {
+            "id": "today",
+            "type": "circle",
+            "x": 89,
+            "y": 187,
+            "r": 4
+          },
+          {
+            "id": "later",
+            "type": "circle",
+            "x": 309,
+            "y": 187,
+            "r": 4
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M89 187 Q145 176 194 188 Q252 180 309 187",
+            "tone": "normal"
+          },
+          {
+            "id": "now",
+            "type": "text",
+            "text": "now",
+            "x": 89,
+            "y": 222
+          },
+          {
+            "id": "then",
+            "type": "text",
+            "text": "later",
+            "x": 309,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M89 187 Q145 176 194 188 Q252 180 309 187",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "promise"
+          }
+        ]
+      }
     ]
   },
   {
@@ -513,7 +842,7 @@
     "title": "MAKING ROOM",
     "statement": "Forgetting can be a capacity, rather than a failure.",
     "explanation": "Nietzsche describes active forgetting as a protective function that keeps experience from overwhelming the present. Life needs selective closure as well as the ability to remember.",
-    "nuance": "This is not permission to erase responsibility or deny a painful event. His image is closer to digestion: not everything must remain constantly conscious for a person to function. The same thinker who values forgetting also examines the disciplined memory required for promises; neither capacity can simply replace the other.",
+    "nuance": "This is not permission to erase responsibility or deny a painful event. His image is closer to digestion: not everything must remain constantly conscious for a person to function. The same thinker who values forgetting also examines the disciplined memory required for promises; neither capacity can simply replace the other.\n\nImagine trying to act while every earlier humiliation, unfinished task, and passing sensation insists on equal attention. Memory would become congestion rather than guidance. Nietzsche's active forgetting interrupts that demand. It lets an experience cease occupying the foreground without claiming that the event never occurred. The illustration opens a gate because the relation is one of regulating access, not simply destroying a record.\n\nThat selectivity must coexist with memory of commitments and acknowledgment of consequences. Forgetting a debt one owes someone is different from ceasing to rehearse a grievance all afternoon. Nietzsche places both forgetting and promising in the same inquiry because living requires different kinds of continuity. The difficult judgment concerns what needs to remain available, what requires action, and what need not command the present moment.",
     "sources": [
       "gm-II-1"
     ],
@@ -620,6 +949,82 @@
     "related": [
       "nietzsche-promise",
       "nietzsche-guilt-debt"
+    ],
+    "readingArt": [
+      {
+        "description": "Marks accumulate in a chamber; a gate opens and the marks travel out, freeing space for a new mark.",
+        "actors": [
+          {
+            "id": "container",
+            "type": "path",
+            "d": "M86 65 L86 187 L220 187 M221 65 L87 65",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M219 66 L221 123",
+            "tone": "normal"
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M107 97 L124 116 M135 94 L150 112 M115 144 L144 153",
+            "tone": "normal"
+          },
+          {
+            "id": "released",
+            "type": "group",
+            "children": [
+              {
+                "id": "a",
+                "type": "circle",
+                "x": 240,
+                "y": 148,
+                "r": 5
+              },
+              {
+                "id": "b",
+                "type": "circle",
+                "x": 264,
+                "y": 151,
+                "r": 5
+              }
+            ]
+          },
+          {
+            "id": "room",
+            "type": "text",
+            "text": "room for the present",
+            "x": 200,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "container",
+            "type": "path",
+            "d": "M86 65 L86 187 L220 187 M221 65 L87 65",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M219 66 L221 123",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "active forgetting"
+          }
+        ]
+      }
     ]
   },
   {
@@ -630,7 +1035,7 @@
     "title": "THE UNPAYABLE ACCOUNT",
     "statement": "An obligation can become guilt when the account can never close.",
     "explanation": "Nietzsche connects the language of guilt with debt and creditor relations. He follows how repayment obligations become moralized, until human existence itself can seem indebted.",
-    "nuance": "The argument includes a linguistic relation in German between Schuld and Schulden. It is not proof that every experience of guilt comes from borrowing money. Nietzsche traces a transformation: an injury with a conceivable payment becomes a moral debt that deepens rather than ends through punishment and religious interpretation.",
+    "nuance": "The argument includes a linguistic relation in German between Schuld and Schulden. It is not proof that every experience of guilt comes from borrowing money. Nietzsche traces a transformation: an injury with a conceivable payment becomes a moral debt that deepens rather than ends through punishment and religious interpretation.\n\nA debt initially suggests a transaction with an endpoint: something can be repaid or compensated. Nietzsche traces ways that this structure becomes moralized and intensified. The debtor becomes guilty in a more inward sense, and a religious account can make the debt incomparable with any payment a person could give. A ledger that cannot close helps distinguish finite obligation from an interpretation of existence as permanent indebtedness.\n\nThe linguistic connection is a clue in his genealogy, not a universal explanation of every conscience. Different cultures and historical situations need examination rather than automatic inclusion in the same story. Nor does criticizing unpayable guilt erase ordinary duties to repair harm. Nietzsche questions the step from being answerable for an action to regarding the whole person as an endlessly punishable debtor. The scale of the account has changed.",
     "sources": [
       "gm-II-4-21"
     ],
@@ -702,6 +1107,62 @@
     "related": [
       "nietzsche-active-forgetting",
       "nietzsche-punishment"
+    ],
+    "readingArt": [
+      {
+        "description": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+        "actors": [
+          {
+            "id": "ledger",
+            "type": "path",
+            "d": "M100 55 L291 58 L287 185 L103 183 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "entries",
+            "type": "path",
+            "d": "M124 85 L262 85 M124 113 L266 114 M124 143 L263 145",
+            "tone": "normal"
+          },
+          {
+            "id": "overflow",
+            "type": "path",
+            "d": "M188 178 L190 216 M179 203 L190 216 L200 202",
+            "tone": "normal"
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "never paid",
+            "x": 278,
+            "y": 216
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "ledger",
+            "type": "path",
+            "d": "M100 55 L291 58 L287 185 L103 183 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "entries",
+            "type": "path",
+            "d": "M124 85 L262 85 M124 113 L266 114 M124 143 L263 145",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "guilt debt"
+          }
+        ]
+      }
     ]
   },
   {
@@ -712,7 +1173,7 @@
     "title": "THE SAME INSTRUMENT",
     "statement": "What something does today does not tell you why it began.",
     "explanation": "Punishment has served many purposes: repayment, deterrence, intimidation, exclusion. Nietzsche separates a practice's historical emergence from the uses later imposed upon it.",
-    "nuance": "A prison may now be defended as rehabilitation even if that was not its original purpose. Conversely, an old purpose need not explain its present effects. Nietzsche resists a single essence of punishment, and doubts that suffering imposed by authorities reliably produces the inward acknowledgment we call remorse.",
+    "nuance": "A prison may now be defended as rehabilitation even if that was not its original purpose. Conversely, an old purpose need not explain its present effects. Nietzsche resists a single essence of punishment, and doubts that suffering imposed by authorities reliably produces the inward acknowledgment we call remorse.\n\nThe same act of confinement can be presented as protection, retaliation, correction, or a demonstration of authority. Those purposes can coexist and compete. A practice may persist while its public justification changes, and the change of justification does not guarantee a change in effects. Nietzsche uses this fluidity to challenge explanations that infer an institution's origin directly from the purpose currently offered for it.\n\nThe distinction applies beyond punishment. A ceremony can acquire new meanings; a biological feature can serve functions different from the conditions under which it developed. Genealogy therefore studies reinterpretation as well as emergence. For punishment specifically, Nietzsche doubts a comforting assumption: making someone suffer does not necessarily make them acknowledge wrongdoing. Fear of detection and moral understanding are different outcomes.",
     "sources": [
       "gm-II-12-14"
     ],
@@ -797,6 +1258,70 @@
     "related": [
       "nietzsche-guilt-debt",
       "nietzsche-ascetic-meaning"
+    ],
+    "readingArt": [
+      {
+        "description": "One hook is carried through three contexts; its unchanged outline receives three distinct functions.",
+        "actors": [
+          {
+            "id": "hook",
+            "type": "path",
+            "d": "M197 78 Q233 79 231 104 Q229 124 199 121 L198 171",
+            "tone": "normal"
+          },
+          {
+            "id": "first",
+            "type": "text",
+            "text": "repay",
+            "x": 95,
+            "y": 192
+          },
+          {
+            "id": "second",
+            "type": "text",
+            "text": "deter",
+            "x": 199,
+            "y": 215
+          },
+          {
+            "id": "third",
+            "type": "text",
+            "text": "display power",
+            "x": 304,
+            "y": 190
+          },
+          {
+            "id": "contexts",
+            "type": "path",
+            "d": "M147 163 Q120 146 98 161 M242 161 Q266 148 292 161",
+            "tone": "normal"
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "hook",
+            "type": "path",
+            "d": "M197 78 Q233 79 231 104 Q229 124 199 121 L198 171",
+            "tone": "normal"
+          },
+          {
+            "id": "contexts",
+            "type": "path",
+            "d": "M147 163 Q120 146 98 161 M242 161 Q266 148 292 161",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "punishment"
+          }
+        ]
+      }
     ]
   },
   {
@@ -807,7 +1332,7 @@
     "title": "A REASON FOR PAIN",
     "statement": "Suffering becomes different when it has an explanation.",
     "explanation": "The ascetic ideal gives suffering a purpose by interpreting it as guilt, trial, or discipline. Nietzsche thinks this answers a need for meaning while often turning life against itself.",
-    "nuance": "He does not say that an explanation removes the pain. The ideal may make suffering bearable while multiplying self-condemnation. Nor does every form of restraint count as life-denial: artists and thinkers may need solitude or discipline. The question is what the restraint serves, and what kind of existence it makes possible.",
+    "nuance": "He does not say that an explanation removes the pain. The ideal may make suffering bearable while multiplying self-condemnation. Nor does every form of restraint count as life-denial: artists and thinkers may need solitude or discipline. The question is what the restraint serves, and what kind of existence it makes possible.\n\nA person suffering without an explanation may ask why this is happening at all. An interpretation that names guilt or a sacred trial can give the pain a place in a larger story. That place may make endurance possible while also directing hostility inward. The visual keeps the burden intact because the transformation concerns its significance. The new connection does not show a cure; it shows why the same pain can be experienced differently.\n\nNietzsche's concern is the kind of meaning offered. Restraint that protects the conditions for creative work differs from an ideal that treats bodily existence as something to disown. Both may look austere from outside. The question is what they serve and how they value life. His critique is strongest when an explanation answers the need for purpose by making the person both the sufferer and the supposed cause of an unending moral debt.",
     "sources": [
       "gm-III-28"
     ],
@@ -891,6 +1416,69 @@
     "related": [
       "nietzsche-punishment",
       "nietzsche-will-truth"
+    ],
+    "readingArt": [
+      {
+        "description": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+        "actors": [
+          {
+            "id": "weight",
+            "type": "path",
+            "d": "M164 102 L181 77 L215 84 L238 109 L221 145 L178 147 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "bearer",
+            "type": "figure",
+            "x": 95,
+            "y": 151
+          },
+          {
+            "id": "connection",
+            "type": "path",
+            "d": "M114 123 Q145 174 207 166 Q260 170 296 105",
+            "tone": "normal"
+          },
+          {
+            "id": "purpose",
+            "type": "circle",
+            "x": 304,
+            "y": 95,
+            "r": 9
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "a reason to endure",
+            "x": 200,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "weight",
+            "type": "path",
+            "d": "M164 102 L181 77 L215 84 L238 109 L221 145 L178 147 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "connection",
+            "type": "path",
+            "d": "M114 123 Q145 174 207 166 Q260 170 296 105",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "ascetic meaning"
+          }
+        ]
+      }
     ]
   },
   {
@@ -901,7 +1489,7 @@
     "title": "THE QUESTION BEHIND TRUTH",
     "statement": "Before asking whether a claim is true, ask why truth is wanted.",
     "explanation": "Nietzsche challenges the assumption that truth must be valuable without qualification. He asks which needs animate the search for certainty and what a pursuit of truth costs.",
-    "nuance": "This is not the claim that accuracy is irrelevant or lies are always preferable. It questions an unconditional ideal that refuses to examine itself. A person can sincerely investigate a fact while also wanting reassurance, control, or moral innocence from the result. Those motives deserve scrutiny alongside the evidence.",
+    "nuance": "This is not the claim that accuracy is irrelevant or lies are always preferable. It questions an unconditional ideal that refuses to examine itself. A person can sincerely investigate a fact while also wanting reassurance, control, or moral innocence from the result. Those motives deserve scrutiny alongside the evidence.\n\nSuppose two people investigate the same event with equal care. One wants to understand an unexpected result; the other needs proof that no uncertainty can threaten them. Their methods may be identical while the desired meaning of truth differs. Nietzsche asks the searchlight to turn toward the search itself. What expectation makes knowing attractive, and would the investigator still welcome knowledge if it disturbed that expectation?\n\nThis additional question does not replace evidence. A comforting conclusion can be true and an unwelcome conclusion false; motives alone cannot decide between them. The inquiry instead examines an assumption about value: that knowing must always be preferable, whatever the circumstance or cost. Nietzsche presses philosophy to justify that assumption rather than borrowing authority from the familiar prestige of truthfulness.",
     "sources": [
       "bg-1"
     ],
@@ -985,6 +1573,69 @@
     "related": [
       "nietzsche-ascetic-meaning",
       "nietzsche-perspectivism"
+    ],
+    "readingArt": [
+      {
+        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M286 75 L313 79 L310 115 L287 110 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "lamp",
+            "type": "circle",
+            "x": 101,
+            "y": 105,
+            "r": 13
+          },
+          {
+            "id": "beam",
+            "type": "path",
+            "d": "M116 98 L287 76 M114 112 L286 109",
+            "tone": "normal"
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
+            "tone": "normal"
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "text": "why this search?",
+            "x": 195,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "A closer view of the relation being distinguished in the second paragraph.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M286 75 L313 79 L310 115 L287 110 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "beam",
+            "type": "path",
+            "d": "M116 98 L287 76 M114 112 L286 109",
+            "tone": "normal"
+          },
+          {
+            "id": "margin-label",
+            "type": "text",
+            "x": 200,
+            "y": 227,
+            "text": "will truth"
+          }
+        ]
+      }
     ]
   },
   {
