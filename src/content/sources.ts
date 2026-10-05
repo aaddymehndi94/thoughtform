@@ -10,6 +10,6 @@ export const sources: Record<string, Source> = {
  dreams: { title: 'On the Nature of Dreams', author: 'C. G. Jung', reference: 'Collected Works 8, §§530–569', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/dreams/' },
  transcendent: { title: 'The Transcendent Function', author: 'C. G. Jung', reference: 'Collected Works 8, §§131–193', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-transcendent-function/' },
  types: { title: 'Psychological Types', author: 'C. G. Jung', reference: 'Collected Works 6, chapter XI: Definitions', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/psychological-types-2/' },
- archetypes: { title: 'The Archetypes and the Collective Unconscious', author: 'C. G. Jung', reference: 'Collected Works 9i, Archetypes of the Collective Unconscious', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/archetypes/' },
+ archetypes: { title: 'The Archetypes and the Collective Unconscious', author: 'C. G. Jung', reference: 'Collected Works 9i, Archetypes of the Collective Unconscious', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/archetype-2/' },
  imagination: { title: 'The Transcendent Function', author: 'C. G. Jung', reference: 'Collected Works 8, dialogue with unconscious material', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/active-imagination-2/' },
 };

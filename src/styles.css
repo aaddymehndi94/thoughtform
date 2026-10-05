@@ -40,3 +40,6 @@ h1{font-size:49px;line-height:1.1;letter-spacing:-.9px;font-optical-sizing:auto}
 @media(max-width:360px){
  main{padding-left:6px;padding-right:6px}.site-header{padding-left:17px;padding-right:17px}.card-copy{padding-left:20px;padding-right:20px}.reading-label{margin-left:11px;margin-right:11px}h1{font-size:42px}.statement{font-size:28px;line-height:1.35}.explanation{font-size:17px;line-height:1.75}.illustration{height:192px}.illustration svg{height:181px}.card-heading .eyebrow{font-size:7px;letter-spacing:.7px}.reading-paragraph .nuance{font-size:18px}.margin-drawing{height:185px}.card-bottom{margin-left:20px;margin-right:20px}
 }
+
+/* Delayed diagram actors wait in their opening pose. */
+.scene-actor,.actor-draw path{animation-fill-mode:both}

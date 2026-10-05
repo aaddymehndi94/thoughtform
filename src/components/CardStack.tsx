@@ -13,11 +13,21 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
  const underY = useTransform(x, [-240, 0, 240], [0, 7, 0]);
  const reduced = useReducedMotion();
  const [expanded, setExpanded] = useState(false);
+ const details = useRef<HTMLDivElement>(null);
+ const readingScroll = useRef<number | undefined>(undefined);
  const moving = useRef(false);
  const mounted = useRef(true);
  const gesture = useRef({ active: false, x: 0, y: 0, lastX: 0, lastTime: 0, velocity: 0, axis: '' });
- useEffect(() => { mounted.current = true; return () => { mounted.current = false; }; }, []);
- function setReadingExpanded(next: boolean) { setExpanded(next); requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: reduced ? 'instant' : 'smooth' })); }
+ useEffect(() => { mounted.current = true; return () => { mounted.current = false; window.clearTimeout(readingScroll.current); }; }, []);
+ function setReadingExpanded(next: boolean) {
+  setExpanded(next);
+  window.clearTimeout(readingScroll.current);
+  readingScroll.current = window.setTimeout(() => {
+   const body = details.current?.querySelector('.nuance');
+   const top = next && body ? window.scrollY + body.getBoundingClientRect().top - 20 : 0;
+   window.scrollTo({ top, behavior: reduced ? 'instant' : 'smooth' });
+  }, next && !reduced ? 460 : 0);
+ }
  function toggleReading() { setReadingExpanded(!expanded); }
  function settle() { animate(x, 0, { type: 'spring', stiffness: 360, damping: 30 }); }
  function release(e: React.PointerEvent<HTMLElement>) {
@@ -60,7 +70,7 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
    <Illustration kind={card.scene.kind} caption={card.scene.caption} composition={card.scene.composition}/>
    <div className="card-copy"><span className="concept-number">{String(index + 1).padStart(3, '0')} <span>—</span> {card.collection}</span><h1>{card.title}</h1><p className="statement">{card.statement}</p><p className="explanation">{card.explanation}</p>
     <button className={`depth-link ${expanded ? 'expanded' : ''}`} aria-expanded={expanded} aria-controls={`details-${card.id}`} onClick={() => toggleReading()}>{expanded ? 'A little less' : 'Look a little closer'}<span aria-hidden="true">{expanded ? '−' : '+'}</span></button>
-    <div id={`details-${card.id}`} className={`inline-details ${expanded ? 'is-open' : ''}`} inert={!expanded}><div className="details-inner"><ReadingDetails card={card}/><button className="fold-link" onClick={() => { setReadingExpanded(false); }}>Return to the thought ↑</button></div></div>
+    <div ref={details} id={`details-${card.id}`} className={`inline-details ${expanded ? 'is-open' : ''}`} inert={!expanded}><div className="details-inner"><ReadingDetails card={card}/><button className="fold-link" onClick={() => { setReadingExpanded(false); }}>Return to the thought ↑</button></div></div>
    </div>
    <div className="card-bottom"><span>A THOUGHTFORM</span><span className="small-cross">+</span><span>ONE THOUGHT AT A TIME</span></div>
   </motion.article>

@@ -30,3 +30,5 @@ These are the user's explicit preferences for this project. Preserve them in fut
 - The user authorizes up to 10 subagents when useful; stay within the session's actual concurrency limit.
 - Delegate bounded research/content work once the design/content pattern is established. The main agent owns app integration, interaction design, art direction, and publication.
 - Delegate separate files and commit only owned files to avoid overlapping changes.
+
+Expansion scrolls to the start of the descriptive body; collapsing returns to the page top. Keep the current mobile font sizes, which the user has approved.
