@@ -59,10 +59,64 @@
     "reference": "CW 8, “The Stages of Life” (1930–31), pp. 387–403 in the Princeton collected edition; historical model of life phases.",
     "url": "https://doi.org/10.1515/9781400850952.387"
   },
-  "jung-advanced-archetypal-image": {
+  "jung-advanced-religion": {
+    "title": "Psychology and Religion: West and East",
+    "author": "C. G. Jung",
+    "reference": "CW 11, “Psychology and Religion,” Terry Lectures (1937), chapters 1–3: numinosum, experience and creed, psychological inquiry and metaphysical claims. Institutional chapter abstracts, not full text.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-11-psychology-religion-west-east/"
+  },
+  "jung-advanced-anima": {
+    "title": "Two Essays on Analytical Psychology",
+    "author": "C. G. Jung",
+    "reference": "CW 7, “The Relations between the Ego and the Unconscious,” Part II, chapter II, “Anima and animus”; historical binary/gender assumptions explicitly criticized in the card.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-7-two-essays-analytical-psychology/"
+  },
+  "jung-advanced-types-soul": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Seele” and “Seelenbild”; complementarity and historical sex-role generalizations.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-types-image": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 8, “Bild”; the inner image and its psychological actuality distinguished from sensory reality.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-alchemy": {
+    "title": "Psychology and Alchemy",
+    "author": "C. G. Jung",
+    "reference": "CW 12, Part III, “Religious Ideas in Alchemy,” chapter 2, “The psychic nature of the alchemical work,” and chapter 5, “The lapis–Christ parallel”; Jung’s historical/psychological interpretation, institutional chapter bibliography.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/"
+  },
+  "jung-advanced-mandala": {
     "title": "The Archetypes and the Collective Unconscious",
     "author": "C. G. Jung",
-    "reference": "CW 9i, “Psychological Aspects of the Mother Archetype,” §155, archetype as form rather than determinate content; compare CW 8, “On the Nature of the Psyche,” archetype and representation. IAAP institutional work/section abstracts.",
+    "reference": "CW 9i, “Concerning Mandala Symbolism,” pp. 355–384 and appendix “Mandalas,” pp. 385–390 in Princeton 1968 edition; ordering and context.",
     "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
+  },
+  "jung-advanced-wholeness": {
+    "title": "Psychology and Religion: West and East",
+    "author": "C. G. Jung",
+    "reference": "CW 11, “Answer to Job,” discussion of completeness, moral perfection, and the relation of opposites; wholeness treated as a psychological problem, institutional chapter bibliography.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-11-psychology-religion-west-east/"
+  },
+  "jung-advanced-synchronicity": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “Synchronicity: An Acausal Connecting Principle” (1952), exposition, experiment, and conclusion; theory distinguished from established evidence. Institutional primary-work abstracts.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-advanced-types-concretism": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 11, “Concretismus”; fusion of thought/feeling with sensory object. Colonial classifications criticized in the card.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-types-levels": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Objektstufe” and “Subjektstufe”; objective and subjective interpretation.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   }
 }

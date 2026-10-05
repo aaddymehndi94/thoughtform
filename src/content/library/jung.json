@@ -12,7 +12,7 @@
     "sources": [
       "shadow"
     ],
-    "metaphor": "A frame accepts one shape, then pushes a second shape outside while a connecting thread persists.",
+    "metaphor": "Illustrative childhood praise establishes a helpful identity; the child’s own needs lose a place, then return as adult resentment.",
     "scene": {
       "kind": "notebook",
       "caption": "The border makes an outside",
@@ -70,6 +70,219 @@
               "duration": 14,
               "delay": 4
             }
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Illustrative childhood praise establishes a helpful identity; the child’s own needs lose a place, then return as adult resentment.",
+        "beats": [
+          {
+            "caption": "An identity can begin with what receives approval.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 112,
+                "y": 171,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 286,
+                "y": 155
+              },
+              {
+                "id": "praise",
+                "type": "path",
+                "d": "M196 22 h170 v58 h-170 Z"
+              },
+              {
+                "id": "praise-a",
+                "type": "text",
+                "x": 280,
+                "y": 46,
+                "text": "Such a helpful",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "praise-b",
+                "type": "text",
+                "x": 280,
+                "y": 69,
+                "text": "child.",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "If only helping is welcomed, asking can start to feel forbidden.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 112,
+                "y": 171,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "picture",
+                "type": "path",
+                "d": "M54 72 h114 v138 h-114 Z"
+              },
+              {
+                "id": "helpful",
+                "type": "text",
+                "x": 111,
+                "y": 51,
+                "text": "HELPFUL",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "x": 228,
+                "y": 156,
+                "children": [
+                  {
+                    "id": "need-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.55
+                }
+              },
+              {
+                "id": "need-word",
+                "type": "text",
+                "x": 247,
+                "y": 216,
+                "text": "my own needs",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 292,
+                "y": 69,
+                "text": "What about me?",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The adult may sincerely claim to have no needs, yet repeatedly feel overlooked.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 112,
+                "y": 155
+              },
+              {
+                "id": "picture",
+                "type": "path",
+                "d": "M54 53 h126 v157 h-126 Z"
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "x": 168,
+                "y": 173,
+                "children": [
+                  {
+                    "id": "need-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                },
+                "tone": "shade"
+              },
+              {
+                "id": "claim",
+                "type": "text",
+                "x": 286,
+                "y": 99,
+                "text": "“I need nothing.”",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "feeling",
+                "type": "text",
+                "x": 277,
+                "y": 153,
+                "text": "overlooked",
+                "anchor": "middle",
+                "fontSize": 19
+              }
+            ]
+          },
+          {
+            "caption": "Meeting the shadow begins by giving the excluded need a conscious place.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 133,
+                "y": 156
+              },
+              {
+                "id": "picture",
+                "type": "path",
+                "d": "M64 51 h208 v160 h-208 Z"
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "x": 222,
+                "y": 150,
+                "children": [
+                  {
+                    "id": "need-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.55
+                }
+              },
+              {
+                "id": "help",
+                "type": "text",
+                "x": 138,
+                "y": 233,
+                "text": "helping",
+                "anchor": "middle"
+              },
+              {
+                "id": "ask",
+                "type": "text",
+                "x": 267,
+                "y": 233,
+                "text": "asking",
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -188,7 +401,7 @@
     "sources": [
       "shadow"
     ],
-    "metaphor": "A neglected sprout develops behind a closed partition; the partition shifts and reveals the growth.",
+    "metaphor": "A person values practicality, shuts away an interest in music, then allows both responsibility and the neglected capacity into one life.",
     "scene": {
       "kind": "notebook",
       "caption": "Not everything excluded is a threat",
@@ -232,6 +445,167 @@
               "duration": 14,
               "delay": 5
             }
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A person values practicality, shuts away an interest in music, then allows both responsibility and the neglected capacity into one life.",
+        "beats": [
+          {
+            "caption": "“I am practical.” An unused capacity waits outside that identity.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 117,
+                "y": 158
+              },
+              {
+                "id": "identity",
+                "type": "path",
+                "d": "M57 49 h122 v160 h-122 Z"
+              },
+              {
+                "id": "practical",
+                "type": "text",
+                "x": 119,
+                "y": 32,
+                "text": "PRACTICAL",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "music",
+                "type": "path",
+                "d": "M272 88 V165 Q252 165 258 149 Q266 139 272 146 M272 90 L313 78 V154 Q291 155 295 142 Q302 133 313 140 M272 102 L313 90"
+              },
+              {
+                "id": "music-word",
+                "type": "text",
+                "x": 291,
+                "y": 211,
+                "text": "music",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "A talent can be excluded because it feels incompatible with the familiar self.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 117,
+                "y": 158
+              },
+              {
+                "id": "identity",
+                "type": "path",
+                "d": "M57 49 h122 v160 h-122 Z"
+              },
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M242 76 h109 v102 h-109 Z"
+              },
+              {
+                "id": "drawer-lines",
+                "type": "path",
+                "d": "M243 112 H350 M243 145 H350 M285 96 H307 M285 132 H307 M285 164 H307"
+              },
+              {
+                "id": "closed",
+                "type": "text",
+                "x": 292,
+                "y": 211,
+                "text": "put away",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "The missing quality may be a source of interest or vitality.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 117,
+                "y": 158
+              },
+              {
+                "id": "identity",
+                "type": "path",
+                "d": "M57 49 h122 v160 h-122 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "interest",
+                "type": "group",
+                "x": 225,
+                "y": 156,
+                "children": [
+                  {
+                    "id": "interest-shape",
+                    "type": "path",
+                    "d": "M0 25 V-9 C-10 -28 -34 -31 -32 -18 Q-23 -4 0 -9 C8 -25 31 -34 31 -19 Q23 -2 0 -9"
+                  }
+                ]
+              },
+              {
+                "id": "curiosity",
+                "type": "text",
+                "x": 245,
+                "y": 63,
+                "text": "a persistent interest",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Giving it room can enlarge an ordinary life while its responsibilities remain.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 123,
+                "y": 150
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M43 173 h123 v37 h-123 Z"
+              },
+              {
+                "id": "piano",
+                "type": "path",
+                "d": "M201 127 H354 V175 H201 Z M222 128 V175 M242 128 V175 M263 128 V175 M284 128 V175 M306 128 V175 M328 128 V175 M215 175 V198 M340 175 V198"
+              },
+              {
+                "id": "work-word",
+                "type": "text",
+                "x": 105,
+                "y": 236,
+                "text": "responsibility",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "play-word",
+                "type": "text",
+                "x": 276,
+                "y": 236,
+                "text": "a capacity develops",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -328,7 +702,7 @@
     "sources": [
       "shadow"
     ],
-    "metaphor": "A charged shape enters a holding space; three different response paths open beyond it.",
+    "metaphor": "An angry feeling becomes conscious, a hurtful response is considered, and a responsible boundary is chosen while the feeling remains acknowledged.",
     "scene": {
       "kind": "notebook",
       "caption": "A feeling becomes a choice",
@@ -378,6 +752,215 @@
               "duration": 14,
               "delay": 4
             }
+          }
+        ]
+      },
+      "lesson": {
+        "description": "An angry feeling becomes conscious, a hurtful response is considered, and a responsible boundary is chosen while the feeling remains acknowledged.",
+        "beats": [
+          {
+            "caption": "A feeling arrives before a decision about what to do.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "anger",
+                "type": "group",
+                "x": 120,
+                "y": 124,
+                "children": [
+                  {
+                    "id": "anger-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ]
+              },
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 264,
+                "y": 150
+              },
+              {
+                "id": "feeling",
+                "type": "text",
+                "x": 121,
+                "y": 208,
+                "text": "anger",
+                "anchor": "middle",
+                "fontSize": 19
+              }
+            ]
+          },
+          {
+            "caption": "Recognition creates a pause between the feeling and the response.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "anger",
+                "type": "group",
+                "x": 113,
+                "y": 124,
+                "children": [
+                  {
+                    "id": "anger-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 264,
+                "y": 150
+              },
+              {
+                "id": "pause",
+                "type": "path",
+                "d": "M179 78 V180 M198 78 V180"
+              },
+              {
+                "id": "recognize",
+                "type": "text",
+                "x": 103,
+                "y": 35,
+                "text": "I feel this",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "choose",
+                "type": "text",
+                "x": 283,
+                "y": 35,
+                "text": "what will I do?",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "An impulse can be understood while its proposed action is questioned.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "anger",
+                "type": "group",
+                "x": 98,
+                "y": 124,
+                "children": [
+                  {
+                    "id": "anger-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.55
+                }
+              },
+              {
+                "id": "message",
+                "type": "path",
+                "d": "M192 65 h162 v115 h-162 Z"
+              },
+              {
+                "id": "harsh-a",
+                "type": "text",
+                "x": 273,
+                "y": 98,
+                "text": "You always",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "harsh-b",
+                "type": "text",
+                "x": 273,
+                "y": 128,
+                "text": "use me.",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "hold",
+                "type": "path",
+                "d": "M185 193 H363 M185 188 V199 M363 188 V199"
+              },
+              {
+                "id": "pause-word",
+                "type": "text",
+                "x": 276,
+                "y": 222,
+                "text": "pause before sending",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
+          },
+          {
+            "caption": "A considered limit gives the feeling a responsible form.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 115,
+                "y": 151
+              },
+              {
+                "id": "anger",
+                "type": "group",
+                "x": 153,
+                "y": 164,
+                "children": [
+                  {
+                    "id": "anger-shape",
+                    "type": "path",
+                    "d": "M-20 -17 L-3 -34 L7 -10 L26 -15 L14 5 L25 23 L0 18 L-18 28 L-15 5 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.45
+                }
+              },
+              {
+                "id": "message",
+                "type": "path",
+                "d": "M191 69 h163 v113 h-163 Z"
+              },
+              {
+                "id": "clear-a",
+                "type": "text",
+                "x": 273,
+                "y": 102,
+                "text": "I cannot",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "clear-b",
+                "type": "text",
+                "x": 273,
+                "y": 133,
+                "text": "do this today.",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "x": 274,
+                "y": 212,
+                "text": "a clear limit",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -479,7 +1062,7 @@
     "sources": [
       "psyche"
     ],
-    "metaphor": "A small professional badge expands around its wearer until a gap opens between label and life.",
+    "metaphor": "A doctor’s professional role becomes the whole identity; retirement exposes that dependence; several enduring relationships support a wider sense of self.",
     "scene": {
       "kind": "notebook",
       "caption": "The label exceeds its task",
@@ -536,6 +1119,185 @@
               "duration": 14,
               "delay": 6
             }
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A doctor’s professional role becomes the whole identity; retirement exposes that dependence; several enduring relationships support a wider sense of self.",
+        "beats": [
+          {
+            "caption": "A professional role can organize an entire account of who someone is.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 126,
+                "y": 152
+              },
+              {
+                "id": "badge",
+                "type": "path",
+                "d": "M91 118 h69 v31 h-69 Z"
+              },
+              {
+                "id": "badge-word",
+                "type": "text",
+                "x": 126,
+                "y": 139,
+                "text": "DOCTOR",
+                "anchor": "middle",
+                "fontSize": 12
+              },
+              {
+                "id": "workplace",
+                "type": "path",
+                "d": "M217 43 h139 v159 h-139 Z"
+              },
+              {
+                "id": "work-word",
+                "type": "text",
+                "x": 286,
+                "y": 81,
+                "text": "the practice",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "claim",
+                "type": "text",
+                "x": 281,
+                "y": 229,
+                "text": "“This is who I am.”",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
+          },
+          {
+            "caption": "When the role ends, the person can feel that the whole self has disappeared.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 126,
+                "y": 152
+              },
+              {
+                "id": "badge",
+                "type": "path",
+                "d": "M91 118 h69 v31 h-69 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "workplace",
+                "type": "path",
+                "d": "M217 43 h139 v159 h-139 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "ended",
+                "type": "text",
+                "x": 286,
+                "y": 81,
+                "text": "retired",
+                "anchor": "middle",
+                "fontSize": 19
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 285,
+                "y": 156,
+                "text": "Who am I now?",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "The difficulty reveals how much identity had depended on a single role.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 126,
+                "y": 152,
+                "tone": "faint"
+              },
+              {
+                "id": "identity",
+                "type": "path",
+                "d": "M72 48 h103 v164 h-103 Z"
+              },
+              {
+                "id": "role",
+                "type": "text",
+                "x": 124,
+                "y": 32,
+                "text": "ONE ROLE",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "fracture",
+                "type": "path",
+                "d": "M224 60 L262 84 L243 115 L281 144 L259 184"
+              },
+              {
+                "id": "loss",
+                "type": "text",
+                "x": 281,
+                "y": 221,
+                "text": "a fragile whole",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "A wider identity can carry the transition through other capacities and relationships.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 128,
+                "y": 152
+              },
+              {
+                "id": "friend",
+                "type": "text",
+                "x": 275,
+                "y": 64,
+                "text": "friend",
+                "anchor": "middle"
+              },
+              {
+                "id": "interest",
+                "type": "text",
+                "x": 275,
+                "y": 116,
+                "text": "interests",
+                "anchor": "middle"
+              },
+              {
+                "id": "history",
+                "type": "text",
+                "x": 275,
+                "y": 168,
+                "text": "a lived history",
+                "anchor": "middle"
+              },
+              {
+                "id": "ties",
+                "type": "path",
+                "d": "M157 125 Q217 40 244 60 M157 134 H237 M154 147 Q197 178 238 165",
+                "tone": "faint"
+              }
+            ]
           }
         ]
       }
@@ -642,7 +1404,7 @@
     "sources": [
       "psyche"
     ],
-    "metaphor": "A real figure receives an oversized ideal outline. A small part of that outline returns toward the observer.",
+    "metaphor": "A teacher’s genuine knowledge is enlarged into the belief that they have every answer; recognizing their limits returns some judgment to the learner.",
     "scene": {
       "kind": "notebook",
       "caption": "The person and the larger image",
@@ -693,6 +1455,192 @@
               "duration": 14,
               "delay": 2
             }
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A teacher’s genuine knowledge is enlarged into the belief that they have every answer; recognizing their limits returns some judgment to the learner.",
+        "beats": [
+          {
+            "caption": "A teacher’s real knowledge attracts admiration.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 83,
+                "y": 161
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 295,
+                "y": 155
+              },
+              {
+                "id": "board",
+                "type": "path",
+                "d": "M222 33 h145 v164 h-145 Z"
+              },
+              {
+                "id": "knowledge",
+                "type": "text",
+                "x": 293,
+                "y": 63,
+                "text": "knows this",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "An inner image can enlarge one ability into a promise of completeness.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 83,
+                "y": 161
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 295,
+                "y": 155
+              },
+              {
+                "id": "board",
+                "type": "path",
+                "d": "M222 33 h145 v164 h-145 Z"
+              },
+              {
+                "id": "halo",
+                "type": "path",
+                "d": "M244 49 Q203 89 221 170 Q259 228 343 191 Q390 143 350 59 Q304 7 244 49 Z"
+              },
+              {
+                "id": "all",
+                "type": "text",
+                "x": 294,
+                "y": 63,
+                "text": "knows everything",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "trust",
+                "type": "text",
+                "x": 111,
+                "y": 229,
+                "text": "all the answers",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
+          },
+          {
+            "caption": "A limit in the actual person unsettles that enlarged picture.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 83,
+                "y": 161
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 295,
+                "y": 155
+              },
+              {
+                "id": "board",
+                "type": "path",
+                "d": "M222 33 h145 v164 h-145 Z"
+              },
+              {
+                "id": "halo",
+                "type": "path",
+                "d": "M244 49 Q203 89 221 170 Q259 228 343 191 Q390 143 350 59 Q304 7 244 49 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "x": 294,
+                "y": 63,
+                "text": "I don’t know.",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "discovery",
+                "type": "text",
+                "x": 113,
+                "y": 229,
+                "text": "a real person",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The learner can keep valuing the teacher while developing their own judgment.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "student",
+                "type": "figure",
+                "x": 83,
+                "y": 161
+              },
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 295,
+                "y": 155
+              },
+              {
+                "id": "board",
+                "type": "path",
+                "d": "M222 33 h145 v164 h-145 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "own-page",
+                "type": "path",
+                "d": "M111 94 h78 v90 h-78 Z"
+              },
+              {
+                "id": "own-word",
+                "type": "text",
+                "x": 149,
+                "y": 126,
+                "text": "my",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "judgment",
+                "type": "text",
+                "x": 149,
+                "y": 152,
+                "text": "judgment",
+                "anchor": "middle",
+                "fontSize": 14
+              },
+              {
+                "id": "appreciate",
+                "type": "text",
+                "x": 292,
+                "y": 229,
+                "text": "their knowledge",
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -797,7 +1745,7 @@
     "sources": [
       "shadow"
     ],
-    "metaphor": "A distorted screen between two people lifts, leaving a simpler visible relationship.",
+    "metaphor": "Observed behavior and an added inner story are separated, allowing a real relationship to remain while the observer questions their contribution.",
     "scene": {
       "kind": "notebook",
       "caption": "Less certainty, more person",
@@ -860,6 +1808,178 @@
               "duration": 14,
               "delay": 5
             }
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Observed behavior and an added inner story are separated, allowing a real relationship to remain while the observer questions their contribution.",
+        "beats": [
+          {
+            "caption": "Start with what was actually observed.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 90,
+                "y": 156
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 312,
+                "y": 156
+              },
+              {
+                "id": "fact",
+                "type": "path",
+                "d": "M155 30 h212 v59 h-212 Z"
+              },
+              {
+                "id": "fact-text",
+                "type": "text",
+                "x": 261,
+                "y": 65,
+                "text": "spoke confidently",
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "Notice the further story that became attached to it.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 90,
+                "y": 156
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 312,
+                "y": 156
+              },
+              {
+                "id": "fact",
+                "type": "path",
+                "d": "M155 30 h212 v59 h-212 Z"
+              },
+              {
+                "id": "fact-text",
+                "type": "text",
+                "x": 261,
+                "y": 65,
+                "text": "spoke confidently",
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "story",
+                "type": "path",
+                "d": "M164 105 h209 v57 h-209 Z"
+              },
+              {
+                "id": "story-text",
+                "type": "text",
+                "x": 269,
+                "y": 139,
+                "text": "must know everything",
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Ask what the added certainty expresses in the observer’s own life.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 90,
+                "y": 156
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 312,
+                "y": 156
+              },
+              {
+                "id": "story",
+                "type": "path",
+                "d": "M164 105 h209 v57 h-209 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "my-need-a",
+                "type": "text",
+                "x": 104,
+                "y": 35,
+                "text": "a wish for",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "my-need-b",
+                "type": "text",
+                "x": 104,
+                "y": 59,
+                "text": "certainty",
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M186 126 Q138 103 105 100",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "caption": "Separate the observed person from the added picture, then meet them again.",
+            "duration": 4.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 115,
+                "y": 156
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 290,
+                "y": 156
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 113,
+                "y": 38,
+                "text": "my contribution",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 290,
+                "y": 38,
+                "text": "their reality",
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "encounter",
+                "type": "path",
+                "d": "M150 122 H251"
+              }
+            ]
           }
         ]
       }

@@ -43,3 +43,18 @@ h1{font-size:49px;line-height:1.1;letter-spacing:-.9px;font-optical-sizing:auto}
 
 /* Delayed diagram actors wait in their opening pose. */
 .scene-actor,.actor-draw path{animation-fill-mode:both}
+
+/* A small blackboard: the picture and the explanation share a single clock. */
+.teaching-card{overflow-anchor:none}
+.lesson-illustration{height:auto;padding:0 12px 8px;margin:0 0 21px;display:block;cursor:inherit}
+.lesson-illustration svg{display:block;width:100%;height:auto;aspect-ratio:400/250;overflow:hidden}
+.lesson-ink{stroke:#d0cabe;stroke-width:1.45;color:#d0cabe}
+.lesson-label{stroke:none;fill:#c8c2b7;font-family:DM,Arial,sans-serif;letter-spacing:0}
+.lesson-actor{transform-box:view-box;transform-origin:0 0}
+.lesson-reading{min-height:55px;display:flex;align-items:center;justify-content:center;padding:0 15px}
+.lesson-reading p{font:15px/1.55 DM,Arial,sans-serif;text-align:center;max-width:340px;color:#c3beb3;margin:0}
+.lesson-timing{display:flex;gap:5px;justify-content:center;margin:11px 0 3px}
+.lesson-timing span{width:17px;height:1px;background:#383631;transition:background .3s}
+.lesson-timing .current{background:#ded8cb}.lesson-timing .passed{background:#777268}
+@media(max-width:360px){.lesson-illustration{padding-left:5px;padding-right:5px}.lesson-reading{padding:0 12px;min-height:65px}.lesson-reading p{font-size:15px}}
+@media(prefers-reduced-motion:reduce){.lesson-timing span{transition:none}}
