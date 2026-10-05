@@ -1,0 +1,940 @@
+[
+  {
+    "id": "jung-shadow-exclusion",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Shadow formation",
+    "title": "A border called “not me”",
+    "statement": "An identity takes shape partly by deciding what cannot belong.",
+    "explanation": "The shadow develops in relation to a conscious identity. Qualities that disturb that identity can be excluded from recognition while continuing to influence the person.",
+    "nuance": "The shadow is not a fixed inventory shared by everyone. The person who must be agreeable and the person who must be formidable may exclude different qualities. Anger threatens the first identity; dependency may threaten the second. Jung’s model asks about the relationship between what consciousness claims and what it cannot comfortably admit. The excluded quality becomes shadow partly because it does not fit the account the person has learned to give of themselves, even when that account contains real strengths.\n\nExclusion can be reinforced by a family, a profession, or a social setting. A child may learn that distress is permitted only when it does not inconvenience anyone. Later, they may be skilled at helping but unable to recognize their own wish for support. This does not mean their generosity was secretly fake. A genuine capacity has become attached to a restrictive identity. The difficulty lies in what must remain unrecognized for that identity to feel coherent, rather than in discovering a hidden bad motive behind every good act.\n\nImagine someone who proudly says they never compete, yet feels a sharp bitterness whenever a friend succeeds. A useful inquiry would not declare the person a fraud. It would ask whether ambition has been excluded from their conscious picture. Recognition could let them choose a form of ambition they can answer for. In the drawing, a shape is moved outside an established frame but remains nearby. The border organizes what can be acknowledged; it does not erase everything placed beyond it.",
+    "reflection": "What does your identity require you not to notice?",
+    "sources": [
+      "shadow"
+    ],
+    "metaphor": "A frame accepts one shape, then pushes a second shape outside while a connecting thread persists.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "The border makes an outside",
+      "composition": {
+        "description": "A frame accepts one shape, then pushes a second shape outside while a connecting thread persists.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M79 54H229V190H79Z"
+          },
+          {
+            "id": "accepted",
+            "type": "circle",
+            "x": 154,
+            "y": 124,
+            "r": 29
+          },
+          {
+            "id": "excluded",
+            "type": "path",
+            "d": "M157 107l23 10-9 26-27-7Z",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": 127
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M179 125h116",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 4
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "identity",
+            "type": "text",
+            "x": 91,
+            "y": 220,
+            "text": "the accepted picture"
+          },
+          {
+            "id": "out",
+            "type": "text",
+            "x": 259,
+            "y": 89,
+            "text": "not me",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Two different identities exclude different qualities.",
+        "actors": [
+          {
+            "id": "frames",
+            "type": "path",
+            "d": "M65 55h105v124H65Zm172 0h105v124H237Z"
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "x": 79,
+            "y": 95,
+            "text": "agreeable"
+          },
+          {
+            "id": "two",
+            "type": "text",
+            "x": 246,
+            "y": 95,
+            "text": "formidable"
+          },
+          {
+            "id": "anger",
+            "type": "text",
+            "x": 84,
+            "y": 216,
+            "text": "anger?"
+          },
+          {
+            "id": "need",
+            "type": "text",
+            "x": 248,
+            "y": 216,
+            "text": "need?"
+          },
+          {
+            "id": "gaps",
+            "type": "path",
+            "d": "M106 134h23m155 0h23",
+            "motion": "faint"
+          }
+        ]
+      },
+      {
+        "description": "Ambition outside a conscious identity still touches a response to success.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 134,
+            "y": 149
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M96 63h80v132H96Z"
+          },
+          {
+            "id": "ambition",
+            "type": "path",
+            "d": "M279 85l23 35-41 19Z"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M260 132q-44 47-101 19",
+            "tone": "faint"
+          },
+          {
+            "id": "my",
+            "type": "text",
+            "x": 74,
+            "y": 225,
+            "text": "noncompetitive"
+          },
+          {
+            "id": "their",
+            "type": "text",
+            "x": 246,
+            "y": 190,
+            "text": "ambition"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "shadow formation",
+      "the selves we show"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-selves-we-show",
+      "order": 1
+    },
+    "related": [
+      "jung-shadow-positive",
+      "jung-shadow-responsibility"
+    ]
+  },
+  {
+    "id": "jung-shadow-positive",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Positive shadow",
+    "title": "A capacity left outside",
+    "statement": "What is disowned is not always what is destructive.",
+    "explanation": "The shadow can contain capacities that a conscious identity rejects: appropriate anger, creativity, vulnerability, or independence. Integration may involve recovering something useful as well as limiting something harmful.",
+    "nuance": "Jung’s shadow is often presented as a storehouse of wickedness. That reading misses a central difficulty: the conscious identity can refuse qualities that a fuller life needs. A person who must always be sensible may dismiss imagination; someone who must be self-sufficient may deny tenderness. These qualities do not become beneficial merely because they are hidden. Their actual use has to be considered. But the task of recognition includes unrealized capacities, rather than only a confession of aggression or selfishness.\n\nWhat counts as unacceptable can change with a person’s environment. In one family, disagreement may be treated as disloyalty. A child who adapts successfully may later experience an ordinary difference of opinion as a moral failure. The excluded capacity is the ability to take a position, not a desire to injure other people. Recovering it would require differentiation: when is disagreement thoughtful, when is it defensive, and how can it be expressed without denying the reality of the relationship?\n\nImagine an adult who envies people able to draw or write, while insisting that artistic work is frivolous. The envy may point toward a neglected interest, although it does not prove a hidden artistic destiny. They can try making something and discover what the interest actually contains. In the first drawing, a growing form waits outside a sealed practical identity. In the second, it gains a place without taking over the whole field. A recovered capacity can enlarge a life without becoming its new compulsory definition.",
+    "reflection": "What ability have you mistaken for a flaw?",
+    "sources": [
+      "shadow"
+    ],
+    "metaphor": "A neglected sprout develops behind a closed partition; the partition shifts and reveals the growth.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "Not everything excluded is a threat",
+      "composition": {
+        "description": "A neglected sprout develops behind a closed partition; the partition shifts and reveals the growth.",
+        "actors": [
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M96 44H305V191H96Z",
+            "tone": "faint"
+          },
+          {
+            "id": "partition",
+            "type": "path",
+            "d": "M186 45v145",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": -62
+            }
+          },
+          {
+            "id": "sprout",
+            "type": "path",
+            "d": "M237 188v-72q-34-32-43-13q12 27 43 26m0-3q28-41 47-24q-6 27-47 37",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "x": 214,
+            "y": 72,
+            "text": "a capacity",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A narrow practical identity leaves imagination beyond its boundary.",
+        "actors": [
+          {
+            "id": "box",
+            "type": "path",
+            "d": "M62 59h135v131H62Z"
+          },
+          {
+            "id": "practical",
+            "type": "text",
+            "x": 82,
+            "y": 106,
+            "text": "practical"
+          },
+          {
+            "id": "leaf",
+            "type": "path",
+            "d": "M258 163v-47q-26-27-30-10t30 23m0-2q19-31 38-20t-38 29"
+          },
+          {
+            "id": "imagination",
+            "type": "text",
+            "x": 225,
+            "y": 216,
+            "text": "imagination"
+          }
+        ]
+      },
+      {
+        "description": "Two capacities retain a relationship inside a wider life.",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M71 52h259v144H71Z",
+            "tone": "faint"
+          },
+          {
+            "id": "square",
+            "type": "path",
+            "d": "M111 88h57v59h-57Z"
+          },
+          {
+            "id": "leaf",
+            "type": "path",
+            "d": "M258 165v-48q-21-24-31-10t31 23m0-4q23-30 33-12t-33 27"
+          },
+          {
+            "id": "join",
+            "type": "path",
+            "d": "M169 119h50",
+            "tone": "faint"
+          },
+          {
+            "id": "life",
+            "type": "text",
+            "x": 165,
+            "y": 226,
+            "text": "a wider life"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "positive shadow",
+      "the selves we show"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-selves-we-show",
+      "order": 2
+    },
+    "related": [
+      "jung-shadow-exclusion",
+      "jung-shadow-responsibility"
+    ]
+  },
+  {
+    "id": "jung-shadow-responsibility",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Shadow integration",
+    "title": "Recognition is not permission",
+    "statement": "An impulse can be yours without becoming your instruction.",
+    "explanation": "To acknowledge a shadow quality is to stop treating it as wholly foreign. It still requires judgment. Jung treated recognition as an ethical problem, not a license to act out everything previously denied.",
+    "nuance": "There is a difference between admitting that you feel an impulse and endorsing what the impulse proposes. A wish to humiliate someone can be recognized as your own without being acted upon. Denial may leave the impulse free to organize indirect behavior: contempt, selective criticism, or a supposedly principled attack. Recognition creates an opportunity to examine its source and consequences. Jung’s confrontation with the shadow therefore includes responsibility, rather than a celebration of being unfiltered or unconstrained.\n\nIt also matters how a disowned quality is differentiated. Anger can include an accurate perception of a boundary being crossed, an old fear of being small, or a desire to dominate. These are not equivalent claims, and the feeling itself does not tell you which is present. Acknowledgment permits inquiry. It does not eliminate the need to consider other people, external evidence, and the limits of your account. The capacity to hold an impulse consciously can be more important than finding a dramatic way to express it.\n\nImagine recognizing envy when a friend wins an award. You might use that recognition to belittle the friend, or you might notice an ambition you have not allowed yourself to pursue. You can congratulate them while deciding whether to give your own work more attention. The envy has been admitted, but it has not been made the author of the response. The drawing lets a charged shape enter a space of consideration, then shows several paths outward. Acknowledgment enlarges the range of possible actions; it does not select the action for you.",
+    "reflection": "What changes if you acknowledge the impulse before choosing an action?",
+    "sources": [
+      "shadow"
+    ],
+    "metaphor": "A charged shape enters a holding space; three different response paths open beyond it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "A feeling becomes a choice",
+      "composition": {
+        "description": "A charged shape enters a holding space; three different response paths open beyond it.",
+        "actors": [
+          {
+            "id": "space",
+            "type": "path",
+            "d": "M137 64h97v126h-97Z"
+          },
+          {
+            "id": "impulse",
+            "type": "path",
+            "d": "M58 109l21-15 7 21 22-3-14 17 9 20-23-4-14 16-3-24Z",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": 98
+            }
+          },
+          {
+            "id": "paths",
+            "type": "path",
+            "d": "M234 126q31-39 75-55m-75 55h75m-75 0q34 41 75 55",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "recognize",
+            "type": "text",
+            "x": 144,
+            "y": 218,
+            "text": "recognize"
+          },
+          {
+            "id": "choose",
+            "type": "text",
+            "x": 270,
+            "y": 219,
+            "text": "choose",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A recognized impulse and an endorsed action are different claims.",
+        "actors": [
+          {
+            "id": "two",
+            "type": "path",
+            "d": "M65 67h110v116H65Zm163 0h110v116H228Z"
+          },
+          {
+            "id": "feeling",
+            "type": "text",
+            "x": 87,
+            "y": 112,
+            "text": "I feel this"
+          },
+          {
+            "id": "action",
+            "type": "text",
+            "x": 242,
+            "y": 112,
+            "text": "I do this"
+          },
+          {
+            "id": "gap",
+            "type": "path",
+            "d": "M182 153h36m-19-10-9 20",
+            "tone": "faint"
+          }
+        ]
+      },
+      {
+        "description": "Recognized envy can lead to several considered responses.",
+        "actors": [
+          {
+            "id": "start",
+            "type": "path",
+            "d": "M82 125h92m0 0q41-42 115-49m-115 49h115m-115 0q45 47 115 49"
+          },
+          {
+            "id": "envy",
+            "type": "text",
+            "x": 67,
+            "y": 101,
+            "text": "envy"
+          },
+          {
+            "id": "care",
+            "type": "text",
+            "x": 281,
+            "y": 63,
+            "text": "kindness"
+          },
+          {
+            "id": "work",
+            "type": "text",
+            "x": 281,
+            "y": 130,
+            "text": "my work"
+          },
+          {
+            "id": "harm",
+            "type": "text",
+            "x": 269,
+            "y": 199,
+            "text": "belittling"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "shadow integration",
+      "the selves we show"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-selves-we-show",
+      "order": 3
+    },
+    "related": [
+      "jung-shadow-exclusion",
+      "jung-shadow-positive"
+    ]
+  },
+  {
+    "id": "jung-persona-identification",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Persona identification",
+    "title": "When the badge fills the room",
+    "statement": "A role becomes fragile when it has to contain the whole person.",
+    "explanation": "Identification with the persona narrows a life to its public definition. A change of role can then feel less like losing an activity and more like losing the right to exist as oneself.",
+    "nuance": "A professional title gives a useful account of acquired responsibilities and skills. It becomes a persona problem when it must also answer questions it cannot contain: what a person values privately, what they fear, how they relate outside the role, or what might develop later. Jung described identification with the collective role as a restriction of individuality. The difficulty is not having a recognizable occupation. It is the inability to experience a feeling or possibility that the occupation’s approved picture leaves out.\n\nOther people can reinforce the identification because a stable role makes expectations easier. The admired expert is expected to know; the dependable helper is expected to give; the successful leader is expected to remain composed. These expectations may fit part of the person very well. Their usefulness can conceal their cost. The narrower the identity becomes, the more threatening an ordinary limitation can feel. An unanswered question or a request for help may seem to endanger far more than the immediate situation.\n\nImagine someone retiring from work who can describe a career in detail but cannot say what interests them when nobody needs their expertise. Retirement has not removed all their capacities, yet the recognized name for their life has disappeared. Development might involve trying activities without having to become accomplished or useful immediately. This is an example of a persona becoming more flexible, not a verdict that careers are traps. The badge in the animation grows until it covers its wearer. The person was larger than the job before the label made them appear smaller.",
+    "reflection": "Which part of your life disappears when your title is removed?",
+    "sources": [
+      "psyche"
+    ],
+    "metaphor": "A small professional badge expands around its wearer until a gap opens between label and life.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "The label exceeds its task",
+      "composition": {
+        "description": "A small professional badge expands around its wearer until a gap opens between label and life.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 198,
+            "y": 150
+          },
+          {
+            "id": "badge",
+            "type": "path",
+            "d": "M153 111h90v35h-90Z",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "scale": 1.8
+            }
+          },
+          {
+            "id": "role",
+            "type": "text",
+            "x": 171,
+            "y": 133,
+            "text": "expert",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "beyond",
+            "type": "path",
+            "d": "M89 71q17-17 39-17m143 141q27-8 42-29",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 5
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "notall",
+            "type": "text",
+            "x": 264,
+            "y": 55,
+            "text": "not all",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A qualification names a real capacity but leaves other features unnamed.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 142,
+            "y": 148
+          },
+          {
+            "id": "badge",
+            "type": "path",
+            "d": "M237 86h92v59h-92Z"
+          },
+          {
+            "id": "title",
+            "type": "text",
+            "x": 248,
+            "y": 121,
+            "text": "doctor"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M170 123h60",
+            "tone": "faint"
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "x": 89,
+            "y": 222,
+            "text": "and what else?"
+          }
+        ]
+      },
+      {
+        "description": "Removing a title need not remove the person’s capacities.",
+        "actors": [
+          {
+            "id": "empty",
+            "type": "path",
+            "d": "M91 52h98v132H91Z",
+            "tone": "faint"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 267,
+            "y": 142
+          },
+          {
+            "id": "paths",
+            "type": "path",
+            "d": "M278 156q45 14 42 43m-75-42q-39 15-43 42",
+            "tone": "faint"
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "x": 88,
+            "y": 215,
+            "text": "a role ends"
+          },
+          {
+            "id": "life",
+            "type": "text",
+            "x": 231,
+            "y": 222,
+            "text": "a life continues"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "persona identification",
+      "the selves we show"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-selves-we-show",
+      "order": 4
+    },
+    "related": [
+      "jung-shadow-exclusion",
+      "jung-shadow-positive"
+    ]
+  },
+  {
+    "id": "jung-projection-idealization",
+    "thinker": "jung",
+    "collection": "Meeting another person",
+    "concept": "Positive projection",
+    "title": "A borrowed greatness",
+    "statement": "Admiration can carry an image that no real person can sustain.",
+    "explanation": "Projection is not confined to disliked qualities. An idealized person may seem to embody wisdom, possibility, or goodness that exceeds what is actually known about them.",
+    "nuance": "An admired teacher or partner can become the bearer of an inner image. Their real qualities provide a place for that image to settle, but the emotional certainty of the picture can outrun the available knowledge. Jung treated these positive projections as consequential alongside hostile ones. The issue is not that admiration is a mistake. It is whether a person has become the exclusive location of something that belongs partly to the admirer’s own unrealized possibilities, expectations, or need for an unquestionable guide.\n\nIdealization can make ordinary limits feel like betrayal. A wise teacher may misunderstand a question, be impatient, or have expertise in only a small area. If they have been experienced as the source of all insight, a limitation threatens the entire relationship. The admirer may defend the ideal at any cost, or reverse the picture and decide the teacher is wholly worthless. Neither response yet distinguishes the real person from the larger image. Disappointment can be part of learning that distinction, rather than evidence that admiration must always be abandoned.\n\nImagine beginning a creative practice because an artist’s work opens a possibility you had never considered. That influence can be valuable. But if only the artist seems capable of seeing or making anything worthwhile, your own judgment remains suspended. Withdrawing part of the projection could allow you to practice, evaluate, and discover capacities of your own while still respecting their work. The drawing keeps a real figure inside an oversized outline. The outline is not a portrait of their greatness; it shows how much the relationship has been asked to hold.",
+    "reflection": "What does your admiration ask this person never to reveal?",
+    "sources": [
+      "psyche"
+    ],
+    "metaphor": "A real figure receives an oversized ideal outline. A small part of that outline returns toward the observer.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "The person and the larger image",
+      "composition": {
+        "description": "A real figure receives an oversized ideal outline. A small part of that outline returns toward the observer.",
+        "actors": [
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 94,
+            "y": 152
+          },
+          {
+            "id": "other",
+            "type": "figure",
+            "x": 291,
+            "y": 152
+          },
+          {
+            "id": "ideal",
+            "type": "path",
+            "d": "M290 26q-58 0-72 62t18 111q58 38 111-6t10-99q-17-72-67-68Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M253 46q-85-28-130 22m11-1-11 1 3-11",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 6
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "more",
+            "type": "text",
+            "x": 213,
+            "y": 232,
+            "text": "more than a person",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Known skill and a total rescuing image should remain distinct.",
+        "actors": [
+          {
+            "id": "small",
+            "type": "path",
+            "d": "M98 81h62v67H98Z"
+          },
+          {
+            "id": "large",
+            "type": "path",
+            "d": "M259 42q-48 0-56 76t54 81q69-5 57-77t-55-80Z",
+            "tone": "faint"
+          },
+          {
+            "id": "skill",
+            "type": "text",
+            "x": 88,
+            "y": 183,
+            "text": "a real skill"
+          },
+          {
+            "id": "ideal",
+            "type": "text",
+            "x": 228,
+            "y": 226,
+            "text": "all the answers"
+          }
+        ]
+      },
+      {
+        "description": "A returned possibility can coexist with continued admiration.",
+        "actors": [
+          {
+            "id": "me",
+            "type": "figure",
+            "x": 97,
+            "y": 150
+          },
+          {
+            "id": "artist",
+            "type": "figure",
+            "x": 300,
+            "y": 150
+          },
+          {
+            "id": "capacity",
+            "type": "path",
+            "d": "M50 49q47-21 95 0"
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M134 125h128",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 61,
+            "y": 225,
+            "text": "I can try"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 264,
+            "y": 225,
+            "text": "I can admire"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "positive projection",
+      "meeting another person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "meeting-another-person",
+      "order": 1
+    },
+    "related": [
+      "jung-projection-withdrawal"
+    ]
+  },
+  {
+    "id": "jung-projection-withdrawal",
+    "thinker": "jung",
+    "collection": "Meeting another person",
+    "concept": "Withdrawing projection",
+    "title": "A person comes into focus",
+    "statement": "Giving back your image can make the other person more visible.",
+    "explanation": "Withdrawing a projection means recognizing a contribution to your perception as your own. It need not cancel the relationship. It can change what becomes possible within it.",
+    "nuance": "Projection makes a perception feel as if it belongs entirely to the object. The difficult step is to recognize that the picture has been partly organized by unconscious material in the observer. This is not achieved by mechanically turning every judgment inward. Another person may really be kind, unreliable, talented, or cruel. The question is which features have become enlarged into a total image, and what that image prevents you from noticing. Jung’s account asks for a discrimination between the other person and what the relation has constellated in you.\n\nWithdrawal can initially feel like a loss. A perfect rescuer becomes an ordinary person with limited capacities; a total enemy becomes someone whose actions still require criticism but no longer explain every frustration. The emotional world may become less dramatically organized. That does not make the real relationship less significant. It may allow another kind of encounter: a person can be met with specific expectations and limits rather than being required to embody an unconscious promise or threat. Recognition of one projection is also not proof that all projections have ended.\n\nImagine learning that a friend’s short reply came during a difficult day, rather than as a calculated rejection. Their reply remains short, and the friendship might still need a conversation. But the conviction that they are punishing you can soften into a question about what happened. This is an ordinary example, not a rule that rejection is always imagined. The translucent screen in the drawing lifts between two figures. A real person remains on the other side. The change lies in the picture through which the observer was approaching them.",
+    "reflection": "What detail does your picture of this person fail to include?",
+    "sources": [
+      "shadow"
+    ],
+    "metaphor": "A distorted screen between two people lifts, leaving a simpler visible relationship.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "Less certainty, more person",
+      "composition": {
+        "description": "A distorted screen between two people lifts, leaving a simpler visible relationship.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 94,
+            "y": 150
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 304,
+            "y": 150
+          },
+          {
+            "id": "screen",
+            "type": "path",
+            "d": "M192 43q56 14 25 82t13 70h-55q32-56 6-92t11-60Z",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "y": -68
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "view",
+            "type": "path",
+            "d": "M121 129h155",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "screenlabel",
+            "type": "text",
+            "x": 158,
+            "y": 220,
+            "text": "my picture",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "personlabel",
+            "type": "text",
+            "x": 268,
+            "y": 54,
+            "text": "a person",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "An overwhelming judgment can conceal particular details.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M120 51h159v143H120Z"
+          },
+          {
+            "id": "total",
+            "type": "text",
+            "x": 136,
+            "y": 117,
+            "text": "always rejects me"
+          },
+          {
+            "id": "detail",
+            "type": "path",
+            "d": "M76 86h25m185 67h33",
+            "tone": "faint"
+          }
+        ]
+      },
+      {
+        "description": "A concrete question leaves room for information that a total picture excluded.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 113,
+            "y": 150
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 289,
+            "y": 150
+          },
+          {
+            "id": "question",
+            "type": "path",
+            "d": "M152 119q33-36 78 0m-8-5 8 5-8 5"
+          },
+          {
+            "id": "ask",
+            "type": "text",
+            "x": 127,
+            "y": 52,
+            "text": "what happened?"
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M73 196h254",
+            "tone": "faint"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "withdrawing projection",
+      "meeting another person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "meeting-another-person",
+      "order": 2
+    },
+    "related": [
+      "jung-projection-idealization"
+    ]
+  }
+]

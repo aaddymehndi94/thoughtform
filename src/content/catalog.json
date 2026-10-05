@@ -1200,6 +1200,78 @@
     "depth": 3
   },
   {
+    "id": "jung-shadow-exclusion",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Shadow formation",
+    "title": "A border called “not me”",
+    "tags": [
+      "shadow formation",
+      "the selves we show"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-shadow-positive",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Positive shadow",
+    "title": "A capacity left outside",
+    "tags": [
+      "positive shadow",
+      "the selves we show"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-shadow-responsibility",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Shadow integration",
+    "title": "Recognition is not permission",
+    "tags": [
+      "shadow integration",
+      "the selves we show"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-persona-identification",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Persona identification",
+    "title": "When the badge fills the room",
+    "tags": [
+      "persona identification",
+      "the selves we show"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-projection-idealization",
+    "thinker": "jung",
+    "collection": "Meeting another person",
+    "concept": "Positive projection",
+    "title": "A borrowed greatness",
+    "tags": [
+      "positive projection",
+      "meeting another person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-projection-withdrawal",
+    "thinker": "jung",
+    "collection": "Meeting another person",
+    "concept": "Withdrawing projection",
+    "title": "A person comes into focus",
+    "tags": [
+      "withdrawing projection",
+      "meeting another person"
+    ],
+    "depth": 2
+  },
+  {
     "id": "nietzsche-genealogy",
     "thinker": "nietzsche",
     "collection": "Inherited values",
