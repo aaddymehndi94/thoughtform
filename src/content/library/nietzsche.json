@@ -1,0 +1,990 @@
+[
+  {
+    "id": "nietzsche-genealogy",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "genealogy",
+    "title": "UNDER THE VERDICT",
+    "statement": "A value has a history. Calling it obvious can hide that history.",
+    "explanation": "Nietzsche asks how moral judgments arose and what forms of life they serve. A genealogy examines the making of a value before accepting its claim to timeless authority.",
+    "nuance": "Finding a troubling origin does not automatically disprove a value. Nietzsche also asks what a value does now: whether it enlarges or diminishes life. His genealogies are provocative interpretations of history, not neutral archaeological reports. A rule can outlive the interests that first produced it.",
+    "sources": [
+      "gm-Preface-6"
+    ],
+    "metaphor": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "excavation",
+      "variant": "excavation",
+      "composition": {
+        "description": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+        "actors": [
+          {
+            "id": "verdict",
+            "type": "text",
+            "text": "GOOD",
+            "x": 200,
+            "y": 55,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M65 78 Q183 72 335 79",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "layer1",
+            "type": "path",
+            "d": "M72 118 Q198 105 328 119",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "layer2",
+            "type": "path",
+            "d": "M80 157 Q197 147 319 159",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "cut",
+            "type": "path",
+            "d": "M201 77 L198 190 M191 178 L198 190 L208 179",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "history",
+            "type": "text",
+            "text": "who needed this?",
+            "x": 200,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "genealogy"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 1
+    },
+    "related": [
+      "nietzsche-will-truth",
+      "nietzsche-ressentiment"
+    ]
+  },
+  {
+    "id": "nietzsche-ressentiment",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "ressentiment",
+    "title": "THE DELAYED REPLY",
+    "statement": "An enemy can keep organizing your life long after the encounter ends.",
+    "explanation": "Nietzsche calls ressentiment a lasting, reactive hostility that creates values against an opponent. Unable to discharge itself in action, it returns as an interpretation of the world.",
+    "nuance": "This means more than ordinary anger or remembering an injustice. The crucial turn occurs when opposition becomes the source of evaluation: their qualities must be evil so that mine can be good. Nietzsche diagnoses this structure sharply, but the diagnosis should not be used to dismiss every protest against oppression.",
+    "sources": [
+      "gm-I-10"
+    ],
+    "metaphor": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "reaction",
+      "variant": "reaction",
+      "composition": {
+        "description": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+        "actors": [
+          {
+            "id": "speaker",
+            "type": "figure",
+            "x": 119,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "absent",
+            "type": "figure",
+            "x": 290,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M144 95 Q252 52 289 94",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M288 100 Q301 201 121 196 Q54 157 82 87 Q106 62 138 92",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "origin",
+            "type": "text",
+            "text": "the other sets the terms",
+            "x": 220,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "ressentiment"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 2
+    },
+    "related": [
+      "nietzsche-genealogy",
+      "nietzsche-good-bad"
+    ],
+    "reflection": "Whose rejection still supplies the terms of your own approval?"
+  },
+  {
+    "id": "nietzsche-good-bad",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "good bad",
+    "title": "TWO KINDS OF GOOD",
+    "statement": "Good and bad do not make the same contrast as good and evil.",
+    "explanation": "In Nietzsche's account, noble valuation first affirms its own way of life. Reactive valuation begins by condemning an enemy, then defines itself as the opposite of that evil.",
+    "nuance": "The difference concerns the order of valuation, not simply two lists of permitted acts. Nietzsche describes these as tendencies that can coexist within one person. His historical claims are contested, and his admiration for aristocratic cultures carries real ethical problems; this is not a license to treat domination as good.",
+    "sources": [
+      "gm-I-10-11"
+    ],
+    "metaphor": "Two verdicts cross the same unchanged shapes; the evaluation changes while the shapes remain.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "inversion",
+      "variant": "inversion",
+      "composition": {
+        "description": "Two verdicts cross the same unchanged shapes; the evaluation changes while the shapes remain.",
+        "actors": [
+          {
+            "id": "form1",
+            "type": "path",
+            "d": "M92 112 L125 66 L153 115 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "form2",
+            "type": "circle",
+            "x": 278,
+            "y": 94,
+            "r": 24,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "value1",
+            "type": "text",
+            "text": "good",
+            "x": 123,
+            "y": 157,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "value2",
+            "type": "text",
+            "text": "bad",
+            "x": 278,
+            "y": 157,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "exchange",
+            "type": "path",
+            "d": "M133 181 Q200 219 278 178 M277 179 L263 177 M277 179 L275 193",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "second",
+            "type": "text",
+            "text": "another measure",
+            "x": 200,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "good-bad"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 3
+    },
+    "related": [
+      "nietzsche-ressentiment",
+      "nietzsche-bad-conscience"
+    ]
+  },
+  {
+    "id": "nietzsche-bad-conscience",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "bad conscience",
+    "title": "THE INWARD TURN",
+    "statement": "A force blocked outside can acquire a new life inside.",
+    "explanation": "Nietzsche speculates that social confinement turned aggressive instincts inward. Bad conscience emerges as people become the objects of energies they can no longer release outwardly.",
+    "nuance": "This is an account of how self-punishment may develop, not a claim that all conscience is worthless. A person can learn responsibility without making existence itself a crime. Nietzsche calls his origin story a hypothesis; it combines psychological interpretation with a speculative history of early social life.",
+    "sources": [
+      "gm-II-16"
+    ],
+    "metaphor": "Outward lines encounter a wall and bend back into the body, becoming an internal knot.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "inside",
+      "variant": "inside",
+      "composition": {
+        "description": "Outward lines encounter a wall and bend back into the body, becoming an internal knot.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "figure",
+            "x": 192,
+            "y": 143,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M287 46 Q282 122 288 198",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "outward",
+            "type": "path",
+            "d": "M212 104 Q257 81 282 100 Q253 125 210 126",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "knot",
+            "type": "path",
+            "d": "M183 113 Q213 92 224 119 Q231 144 191 149 Q169 119 209 113 Q230 144 185 134",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "force turns inward",
+            "x": 200,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "bad-conscience"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 4
+    },
+    "related": [
+      "nietzsche-good-bad",
+      "nietzsche-promise"
+    ]
+  },
+  {
+    "id": "nietzsche-promise",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "promise",
+    "title": "ACROSS TIME",
+    "statement": "A promise makes a future self answerable to a present word.",
+    "explanation": "The capacity to promise requires a durable memory of what one wills. Nietzsche studies the social discipline through which a changeable animal becomes predictable and responsible.",
+    "nuance": "A promise is not merely a memory of having spoken. It is a maintained commitment despite intervening desires. Nietzsche also describes the violence involved in manufacturing reliable people. His portrait of the sovereign individual is debated: readers disagree about how fully it represents his own ideal.",
+    "sources": [
+      "gm-II-1-2"
+    ],
+    "metaphor": "A loose moving thread is anchored to two distant dates; the figure keeps one line intact across time.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "promise",
+      "variant": "promise",
+      "composition": {
+        "description": "A loose moving thread is anchored to two distant dates; the figure keeps one line intact across time.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "figure",
+            "x": 193,
+            "y": 139,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "today",
+            "type": "circle",
+            "x": 89,
+            "y": 187,
+            "r": 4,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "later",
+            "type": "circle",
+            "x": 309,
+            "y": 187,
+            "r": 4,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M89 187 Q145 176 194 188 Q252 180 309 187",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "now",
+            "type": "text",
+            "text": "now",
+            "x": 89,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "then",
+            "type": "text",
+            "text": "later",
+            "x": 309,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "promise"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 5
+    },
+    "related": [
+      "nietzsche-bad-conscience",
+      "nietzsche-active-forgetting"
+    ]
+  },
+  {
+    "id": "nietzsche-active-forgetting",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "active forgetting",
+    "title": "MAKING ROOM",
+    "statement": "Forgetting can be a capacity, rather than a failure.",
+    "explanation": "Nietzsche describes active forgetting as a protective function that keeps experience from overwhelming the present. Life needs selective closure as well as the ability to remember.",
+    "nuance": "This is not permission to erase responsibility or deny a painful event. His image is closer to digestion: not everything must remain constantly conscious for a person to function. The same thinker who values forgetting also examines the disciplined memory required for promises; neither capacity can simply replace the other.",
+    "sources": [
+      "gm-II-1"
+    ],
+    "metaphor": "Marks accumulate in a chamber; a gate opens and the marks travel out, freeing space for a new mark.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "forget",
+      "variant": "forget",
+      "composition": {
+        "description": "Marks accumulate in a chamber; a gate opens and the marks travel out, freeing space for a new mark.",
+        "actors": [
+          {
+            "id": "container",
+            "type": "path",
+            "d": "M86 65 L86 187 L220 187 M221 65 L87 65",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M219 66 L221 123",
+            "tone": "normal",
+            "motion": {
+              "kind": "turn",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M107 97 L124 116 M135 94 L150 112 M115 144 L144 153",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "released",
+            "type": "group",
+            "children": [
+              {
+                "id": "a",
+                "type": "circle",
+                "x": 240,
+                "y": 148,
+                "r": 5,
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              },
+              {
+                "id": "b",
+                "type": "circle",
+                "x": 264,
+                "y": 151,
+                "r": 5,
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              }
+            ],
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "x": 70
+            }
+          },
+          {
+            "id": "room",
+            "type": "text",
+            "text": "room for the present",
+            "x": 200,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "active-forgetting"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 6
+    },
+    "related": [
+      "nietzsche-promise",
+      "nietzsche-guilt-debt"
+    ]
+  },
+  {
+    "id": "nietzsche-guilt-debt",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "guilt debt",
+    "title": "THE UNPAYABLE ACCOUNT",
+    "statement": "An obligation can become guilt when the account can never close.",
+    "explanation": "Nietzsche connects the language of guilt with debt and creditor relations. He follows how repayment obligations become moralized, until human existence itself can seem indebted.",
+    "nuance": "The argument includes a linguistic relation in German between Schuld and Schulden. It is not proof that every experience of guilt comes from borrowing money. Nietzsche traces a transformation: an injury with a conceivable payment becomes a moral debt that deepens rather than ends through punishment and religious interpretation.",
+    "sources": [
+      "gm-II-4-21"
+    ],
+    "metaphor": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "debt",
+      "variant": "debt",
+      "composition": {
+        "description": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+        "actors": [
+          {
+            "id": "ledger",
+            "type": "path",
+            "d": "M100 55 L291 58 L287 185 L103 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "entries",
+            "type": "path",
+            "d": "M124 85 L262 85 M124 113 L266 114 M124 143 L263 145",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "overflow",
+            "type": "path",
+            "d": "M188 178 L190 216 M179 203 L190 216 L200 202",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "never paid",
+            "x": 278,
+            "y": 216,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "guilt-debt"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 7
+    },
+    "related": [
+      "nietzsche-active-forgetting",
+      "nietzsche-punishment"
+    ]
+  },
+  {
+    "id": "nietzsche-punishment",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "punishment",
+    "title": "THE SAME INSTRUMENT",
+    "statement": "What something does today does not tell you why it began.",
+    "explanation": "Punishment has served many purposes: repayment, deterrence, intimidation, exclusion. Nietzsche separates a practice's historical emergence from the uses later imposed upon it.",
+    "nuance": "A prison may now be defended as rehabilitation even if that was not its original purpose. Conversely, an old purpose need not explain its present effects. Nietzsche resists a single essence of punishment, and doubts that suffering imposed by authorities reliably produces the inward acknowledgment we call remorse.",
+    "sources": [
+      "gm-II-12-14"
+    ],
+    "metaphor": "One hook is carried through three contexts; its unchanged outline receives three distinct functions.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "tool",
+      "variant": "tool",
+      "composition": {
+        "description": "One hook is carried through three contexts; its unchanged outline receives three distinct functions.",
+        "actors": [
+          {
+            "id": "hook",
+            "type": "path",
+            "d": "M197 78 Q233 79 231 104 Q229 124 199 121 L198 171",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "first",
+            "type": "text",
+            "text": "repay",
+            "x": 95,
+            "y": 192,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "second",
+            "type": "text",
+            "text": "deter",
+            "x": 199,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "third",
+            "type": "text",
+            "text": "display power",
+            "x": 304,
+            "y": 190,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "contexts",
+            "type": "path",
+            "d": "M147 163 Q120 146 98 161 M242 161 Q266 148 292 161",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "punishment"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 8
+    },
+    "related": [
+      "nietzsche-guilt-debt",
+      "nietzsche-ascetic-meaning"
+    ]
+  },
+  {
+    "id": "nietzsche-ascetic-meaning",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "ascetic meaning",
+    "title": "A REASON FOR PAIN",
+    "statement": "Suffering becomes different when it has an explanation.",
+    "explanation": "The ascetic ideal gives suffering a purpose by interpreting it as guilt, trial, or discipline. Nietzsche thinks this answers a need for meaning while often turning life against itself.",
+    "nuance": "He does not say that an explanation removes the pain. The ideal may make suffering bearable while multiplying self-condemnation. Nor does every form of restraint count as life-denial: artists and thinkers may need solitude or discipline. The question is what the restraint serves, and what kind of existence it makes possible.",
+    "sources": [
+      "gm-III-28"
+    ],
+    "metaphor": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "meaning",
+      "variant": "meaning",
+      "composition": {
+        "description": "A jagged weight remains unchanged; a line connects it to a purpose, making the burden bearable without erasing it.",
+        "actors": [
+          {
+            "id": "weight",
+            "type": "path",
+            "d": "M164 102 L181 77 L215 84 L238 109 L221 145 L178 147 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "bearer",
+            "type": "figure",
+            "x": 95,
+            "y": 151,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "connection",
+            "type": "path",
+            "d": "M114 123 Q145 174 207 166 Q260 170 296 105",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "purpose",
+            "type": "circle",
+            "x": 304,
+            "y": 95,
+            "r": 9,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "a reason to endure",
+            "x": 200,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "inherited values",
+      "ascetic-meaning"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-inherited-values",
+      "order": 9
+    },
+    "related": [
+      "nietzsche-punishment",
+      "nietzsche-will-truth"
+    ]
+  },
+  {
+    "id": "nietzsche-will-truth",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "will truth",
+    "title": "THE QUESTION BEHIND TRUTH",
+    "statement": "Before asking whether a claim is true, ask why truth is wanted.",
+    "explanation": "Nietzsche challenges the assumption that truth must be valuable without qualification. He asks which needs animate the search for certainty and what a pursuit of truth costs.",
+    "nuance": "This is not the claim that accuracy is irrelevant or lies are always preferable. It questions an unconditional ideal that refuses to examine itself. A person can sincerely investigate a fact while also wanting reassurance, control, or moral innocence from the result. Those motives deserve scrutiny alongside the evidence.",
+    "sources": [
+      "bg-1"
+    ],
+    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "truth",
+      "variant": "truth",
+      "composition": {
+        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M286 75 L313 79 L310 115 L287 110 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "lamp",
+            "type": "circle",
+            "x": 101,
+            "y": 105,
+            "r": 13,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "beam",
+            "type": "path",
+            "d": "M116 98 L287 76 M114 112 L286 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "text": "why this search?",
+            "x": 195,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "looking again",
+      "will-truth"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-looking-again",
+      "order": 1
+    },
+    "related": [
+      "nietzsche-ascetic-meaning",
+      "nietzsche-genealogy"
+    ]
+  }
+]
