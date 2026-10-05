@@ -823,7 +823,7 @@
             "motion": {
               "kind": "travel",
               "duration": 14,
-              "y": -68
+              "y": -32
             },
             "tone": "faint"
           },
@@ -966,7 +966,7 @@
           {
             "id": "room",
             "type": "path",
-            "d": "M130 187 V55 H286 V187 Z"
+            "d": "M130 187 V24 H286 V187 Z"
           },
           {
             "id": "signal",
