@@ -82,7 +82,7 @@
       "order": 1
     },
     "related": [
-      "adler-courage",
+      "adler-family-interpretation",
       "adler-compensation"
     ]
   },
@@ -506,6 +506,999 @@
     },
     "related": [
       "adler-superiority-display",
+      "adler-unity"
+    ]
+  },
+  {
+    "id": "adler-unity",
+    "thinker": "adler",
+    "collection": "A life in motion",
+    "concept": "unity",
+    "title": "One direction, many expressions",
+    "statement": "A person's thoughts, feelings and actions may belong to one way of meeting life.",
+    "explanation": "Individual Psychology does not mean studying a person in social isolation. Adler's emphasis is the person's unity: apparently separate traits can express an organizing direction within a shared human world.",
+    "nuance": "A person may be assertive at home and timid at work. Adler asks whether both stances serve a similar aim, such as avoiding a position of felt weakness. Opposite appearances need not imply wholly separate personalities.\n\nUnity is an interpretive hypothesis about the relation among patterns, not proof that every action follows one conscious plan. Circumstances still matter. The approach looks for a form of orientation while resisting the idea that a trait can be understood apart from the life in which it operates.",
+    "sources": [
+      "adler-nature-2"
+    ],
+    "metaphor": "Thought, feeling and action appear around one figure, then connect with the same uneven route.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "one direction, many expressions",
+      "variant": "unity",
+      "composition": {
+        "description": "Thought, feeling and action appear around one figure, then connect with the same uneven route.",
+        "actors": [
+          {
+            "id": "actor",
+            "type": "figure",
+            "x": 192,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M84 176 Q146 151 203 173 Q260 193 327 159",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "thought",
+            "x": 85,
+            "y": 87,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 1
+            }
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "feeling",
+            "x": 189,
+            "y": 65,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "text": "action",
+            "x": 302,
+            "y": 97,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "connections",
+            "type": "path",
+            "d": "M99 103 L177 127 M189 80 L190 111 M285 111 L210 126",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a life in motion",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-a-life-in-motion",
+      "order": 1
+    },
+    "related": [
+      "adler-courage",
+      "adler-teleology"
+    ]
+  },
+  {
+    "id": "adler-teleology",
+    "thinker": "adler",
+    "collection": "A life in motion",
+    "concept": "teleology",
+    "title": "Ask where it leads",
+    "statement": "An action can be understood through its aim as well as its origin.",
+    "explanation": "Adler emphasized purposive movement in mental life. Understanding behavior involves asking what position or outcome it tends toward, not only what earlier event preceded it.",
+    "nuance": "A person may avoid a gathering because they fear rejection. Adler also asks what the avoidance secures: perhaps freedom from being tested or a preserved image of independence. The aim need not be a calculated conscious decision.\n\nThis approach does not erase history or claim that every painful condition is deliberately chosen. A pattern can acquire a purpose within a life without explaining everything that produced it. The question concerns direction and function, rather than blaming someone for the circumstances they face.",
+    "sources": [
+      "adler-nature-2"
+    ],
+    "metaphor": "A winding route forms toward a faint destination that was present before the movement became clear.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "ask where it leads",
+      "variant": "teleology",
+      "composition": {
+        "description": "A winding route forms toward a faint destination that was present before the movement became clear.",
+        "actors": [
+          {
+            "id": "goal",
+            "type": "circle",
+            "x": 306,
+            "y": 69,
+            "r": 17,
+            "tone": "faint"
+          },
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M76 189 Q121 132 172 154 Q231 177 301 93",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "moving",
+            "type": "figure",
+            "x": 110,
+            "y": 146,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": 40,
+              "y": -13
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "an imagined destination",
+            "x": 256,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a life in motion",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-a-life-in-motion",
+      "order": 2
+    },
+    "related": [
+      "adler-unity",
+      "adler-vanity"
+    ]
+  },
+  {
+    "id": "adler-vanity",
+    "thinker": "adler",
+    "collection": "A life in motion",
+    "concept": "vanity",
+    "title": "The imagined audience",
+    "statement": "A life organized around being seen can lose contact with the task itself.",
+    "explanation": "Adler examined vanity as a preoccupation with personal significance and superiority. The person attends to how they appear, while cooperation and the actual demands of a situation become secondary.",
+    "nuance": "In a conversation, someone may be composing an impressive answer rather than hearing the problem. The visible action resembles participation, but the organizing interest is the self's rank in an imagined audience.\n\nWanting recognition is not inherently vanity. Adler's distinction concerns what dominates the relationship: contributing to something shared or securing a special position. The interpretation needs a pattern over time, since one proud moment or desire for appreciation tells little about a whole orientation.",
+    "sources": [
+      "adler-nature-2"
+    ],
+    "metaphor": "A figure is lifted above neighbors while the shared ground remains disconnected.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the imagined audience",
+      "variant": "vanity",
+      "composition": {
+        "description": "A figure is lifted above neighbors while the shared ground remains disconnected.",
+        "actors": [
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M67 190 L330 191",
+            "tone": "normal"
+          },
+          {
+            "id": "plinth",
+            "type": "path",
+            "d": "M174 188 L175 162 L225 163 L225 190",
+            "tone": "normal"
+          },
+          {
+            "id": "raised",
+            "type": "figure",
+            "x": 201,
+            "y": 113,
+            "tone": "normal"
+          },
+          {
+            "id": "other1",
+            "type": "figure",
+            "x": 92,
+            "y": 143,
+            "tone": "faint"
+          },
+          {
+            "id": "other2",
+            "type": "figure",
+            "x": 309,
+            "y": 144,
+            "tone": "faint"
+          },
+          {
+            "id": "support",
+            "type": "path",
+            "d": "M178 169 Q200 161 219 171",
+            "tone": "shade",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.08
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "above, but apart",
+            "x": 202,
+            "y": 218,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a life in motion",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-a-life-in-motion",
+      "order": 3
+    },
+    "related": [
+      "adler-teleology",
+      "adler-submissiveness"
+    ]
+  },
+  {
+    "id": "adler-submissiveness",
+    "thinker": "adler",
+    "collection": "A life in motion",
+    "concept": "submissiveness",
+    "title": "An indirect position",
+    "statement": "Compliance can sometimes be a way of organizing the relation.",
+    "explanation": "Adler treated submissiveness as a pattern whose meaning depends on its direction. Yielding may express cooperation, fear of exposure or an indirect attempt to secure approval and influence.",
+    "nuance": "Someone who never disagrees may later feel entitled to have every unstated need understood. Apparent selflessness can coexist with a powerful expectation about what others owe in return. That is one possible pattern, not the meaning of all accommodation.\n\nReal inequalities can make open disagreement unsafe. Adler's interpretation should not turn constrained compliance into a character flaw. The question is how a stance operates in a particular relation, including the power and options available to the person.",
+    "sources": [
+      "adler-nature-2"
+    ],
+    "metaphor": "One figure tilts toward another; the connecting thread remains taut rather than disappearing.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "an indirect position",
+      "variant": "submissiveness",
+      "composition": {
+        "description": "One figure tilts toward another; the connecting thread remains taut rather than disappearing.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 119,
+            "y": 151,
+            "tone": "normal",
+            "motion": {
+              "kind": "turn",
+              "duration": 14,
+              "delay": 0,
+              "angle": 9
+            }
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 288,
+            "y": 131,
+            "tone": "faint"
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M138 113 Q204 164 271 94",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "compliance can have an aim",
+            "x": 205,
+            "y": 223,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a life in motion",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-a-life-in-motion",
+      "order": 4
+    },
+    "related": [
+      "adler-vanity",
+      "adler-anxiety-avoidance"
+    ]
+  },
+  {
+    "id": "adler-anxiety-avoidance",
+    "thinker": "adler",
+    "collection": "A life in motion",
+    "concept": "anxiety avoidance",
+    "title": "The protected distance",
+    "statement": "A retreat can preserve safety while making the world smaller.",
+    "explanation": "Adler interpreted some anxious patterns through their role in avoiding demands and threatened defeat. The fear is real, but the withdrawal can also become part of an organized response to felt inadequacy.",
+    "nuance": "Avoiding every evaluative task may reduce immediate distress while preventing experiences that could alter a person's expectation of failure. Adler asks how that arrangement fits the person's wider goal.\n\nAnxiety has many causes and cannot be reduced to a strategic excuse. His functional interpretation concerns some patterns, not every anxious state. It is most useful when it adds a question about the effects of withdrawal without denying distress or the reality of danger.",
+    "sources": [
+      "adler-nature-2"
+    ],
+    "metaphor": "A figure steps back from a possible encounter; a curved detour closes around the familiar safe space.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the protected distance",
+      "variant": "anxiety-avoidance",
+      "composition": {
+        "description": "A figure steps back from a possible encounter; a curved detour closes around the familiar safe space.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 151,
+            "y": 146,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": -21
+            }
+          },
+          {
+            "id": "test",
+            "type": "path",
+            "d": "M264 59 L267 187 M251 60 L278 59",
+            "tone": "normal"
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M167 180 Q210 198 233 154 Q240 98 210 89",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 3
+            }
+          },
+          {
+            "id": "safe",
+            "type": "text",
+            "text": "no test, no defeat",
+            "x": 185,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a life in motion",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-a-life-in-motion",
+      "order": 5
+    },
+    "related": [
+      "adler-submissiveness",
+      "adler-anger"
+    ]
+  },
+  {
+    "id": "adler-anger",
+    "thinker": "adler",
+    "collection": "A life in motion",
+    "concept": "anger",
+    "title": "What the feeling does",
+    "statement": "An emotion changes the distance between people.",
+    "explanation": "Adler examined anger among affects that can separate people. Besides the felt experience, he attended to its effect on the relation: it can intimidate, distance others or organize a demand for control.",
+    "nuance": "An outburst may end a difficult conversation by making everyone else withdraw. That effect does not mean the anger was consciously manufactured. A feeling can be sincere and still become woven into a recurring relational pattern.\n\nAnger can also answer injustice or protect a boundary. Adler's account asks about its direction and social use; it should not make calmness the sole measure of reasonableness. Who is angry, what happened and what follows are all part of the interpretation.",
+    "sources": [
+      "adler-nature-2"
+    ],
+    "metaphor": "A jagged line appears between two figures and their separation increases.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "what the feeling does",
+      "variant": "anger",
+      "composition": {
+        "description": "A jagged line appears between two figures and their separation increases.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 125,
+            "y": 145,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "x": -10
+            }
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 282,
+            "y": 145,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "x": 12
+            }
+          },
+          {
+            "id": "burst",
+            "type": "path",
+            "d": "M152 119 L177 103 L177 127 L207 109 L204 134 L230 130",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "the relation changes",
+            "x": 203,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a life in motion",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-a-life-in-motion",
+      "order": 6
+    },
+    "related": [
+      "adler-anxiety-avoidance",
+      "adler-family-constellation"
+    ]
+  },
+  {
+    "id": "adler-family-constellation",
+    "thinker": "adler",
+    "collection": "The family field",
+    "concept": "family constellation",
+    "title": "A place among others",
+    "statement": "A family position is experienced, not merely counted.",
+    "explanation": "Adler studied the family constellation as a relational setting for development. A child's position depends on perceived roles, expectations and comparisons, not simply the number printed beside their birth.",
+    "nuance": "Two firstborn children can occupy very different situations if one receives steady attention and the other becomes responsible for younger siblings early. The same ordinal place does not imply the same psychological meaning.\n\nAdler proposed recognizable patterns, but they should not be converted into fixed personality types. His question concerns how a child interprets their place among particular people. Family changes, culture and material circumstances alter the setting within which that place is understood.",
+    "sources": [
+      "adler-nature-3"
+    ],
+    "metaphor": "A child stands among two older figures with uneven connecting lines showing relation rather than a numbered slot.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a place among others",
+      "variant": "family-constellation",
+      "composition": {
+        "description": "A child stands among two older figures with uneven connecting lines showing relation rather than a numbered slot.",
+        "actors": [
+          {
+            "id": "child",
+            "type": "figure",
+            "x": 198,
+            "y": 147,
+            "tone": "normal"
+          },
+          {
+            "id": "parent1",
+            "type": "figure",
+            "x": 109,
+            "y": 111,
+            "tone": "faint"
+          },
+          {
+            "id": "parent2",
+            "type": "figure",
+            "x": 286,
+            "y": 113,
+            "tone": "faint"
+          },
+          {
+            "id": "relations",
+            "type": "path",
+            "d": "M123 130 Q168 166 187 146 M272 132 Q240 161 209 147",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a position among people",
+            "x": 203,
+            "y": 218,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the family field",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-family-field",
+      "order": 1
+    },
+    "related": [
+      "adler-anger",
+      "adler-pampering"
+    ]
+  },
+  {
+    "id": "adler-pampering",
+    "thinker": "adler",
+    "collection": "The family field",
+    "concept": "pampering",
+    "title": "Help that takes the task away",
+    "statement": "Care can become limiting when it prevents a child from practicing participation.",
+    "explanation": "Adler warned against forms of pampering that teach a child to expect others to arrange life around them. His concern is not affection itself, but care that repeatedly removes opportunities to act and cooperate.",
+    "nuance": "An adult who does every manageable task for a child may communicate that the child cannot meet difficulty without rescue. The immediate comfort can carry a longer lesson about dependence and entitlement.\n\nThe distinction is between responsive help and replacing all effort. Children need protection and support; withholding care is not a route to courage. Adler's educational aim involves gradually widening participation, with tasks proportionate to the child's capacities rather than demands for premature independence.",
+    "sources": [
+      "adler-nature-3"
+    ],
+    "metaphor": "A protective cage is drawn around a child; its bars cross the space where action might begin.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "help that takes the task away",
+      "variant": "pampering",
+      "composition": {
+        "description": "A protective cage is drawn around a child; its bars cross the space where action might begin.",
+        "actors": [
+          {
+            "id": "child",
+            "type": "figure",
+            "x": 197,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "cage",
+            "type": "path",
+            "d": "M136 186 L136 72 Q191 32 260 71 L263 186 M161 58 L163 185 M230 57 L232 185 M136 187 L262 189",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "help that prevents practice",
+            "x": 200,
+            "y": 226,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the family field",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-family-field",
+      "order": 2
+    },
+    "related": [
+      "adler-family-constellation",
+      "adler-neglect"
+    ]
+  },
+  {
+    "id": "adler-neglect",
+    "thinker": "adler",
+    "collection": "The family field",
+    "concept": "neglect",
+    "title": "The unwelcoming world",
+    "statement": "A child can learn to expect exclusion before they know how to name it.",
+    "explanation": "Adler connected neglect with a discouraged or hostile orientation toward others. A child who repeatedly experiences the world as unhelpful may have difficulty expecting cooperation or feeling a place within it.",
+    "nuance": "If asking for help reliably produces contempt, avoiding dependence can become understandable. Adler investigates how this expectation enters later relationships, including situations that differ from the original one.\n\nThis is not a claim that neglect determines one inevitable personality. Supportive relations and changed circumstances matter. Nor does the child's response excuse neglect. The social setting belongs inside the explanation: an isolated account of the child's supposed deficiency would miss the relation that helped shape the expectation.",
+    "sources": [
+      "adler-nature-3"
+    ],
+    "metaphor": "Lines from surrounding figures stop short of the child, leaving the central space without a crossing.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the unwelcoming world",
+      "variant": "neglect",
+      "composition": {
+        "description": "Lines from surrounding figures stop short of the child, leaving the central space without a crossing.",
+        "actors": [
+          {
+            "id": "child",
+            "type": "figure",
+            "x": 198,
+            "y": 147,
+            "tone": "normal"
+          },
+          {
+            "id": "parent1",
+            "type": "figure",
+            "x": 109,
+            "y": 111,
+            "tone": "faint"
+          },
+          {
+            "id": "parent2",
+            "type": "figure",
+            "x": 286,
+            "y": 113,
+            "tone": "faint"
+          },
+          {
+            "id": "relations",
+            "type": "path",
+            "d": "M123 130 Q168 166 187 146 M272 132 Q240 161 209 147",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a position among people",
+            "x": 203,
+            "y": 218,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the family field",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-family-field",
+      "order": 3
+    },
+    "related": [
+      "adler-pampering",
+      "adler-firstborn"
+    ]
+  },
+  {
+    "id": "adler-firstborn",
+    "thinker": "adler",
+    "collection": "The family field",
+    "concept": "firstborn",
+    "title": "When the center moves",
+    "statement": "A new arrival can change the meaning of an older child's place.",
+    "explanation": "Adler discussed how a firstborn child may experience a sibling's arrival as a loss of a once-exclusive position. What matters is the child's interpretation and the family's response, rather than firstborn status alone.",
+    "nuance": "A child formerly receiving most attention may discover that the household now attends to someone else. They may respond through responsibility, rivalry, cooperation or withdrawal. Adler's account offers possible directions, not an automatic prediction.\n\nThe familiar label of a dethroned firstborn compresses a complicated transition. A welcoming preparation, available care and the child's existing relations can change its meaning. The picture should prompt a question about a changed position rather than assign a permanent role.",
+    "sources": [
+      "adler-nature-3"
+    ],
+    "metaphor": "Attention that first rests above one child slowly shifts toward a second figure.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "when the center moves",
+      "variant": "firstborn",
+      "composition": {
+        "description": "Attention that first rests above one child slowly shifts toward a second figure.",
+        "actors": [
+          {
+            "id": "first",
+            "type": "figure",
+            "x": 134,
+            "y": 137,
+            "tone": "normal"
+          },
+          {
+            "id": "new",
+            "type": "figure",
+            "x": 274,
+            "y": 146,
+            "tone": "normal",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 4
+            }
+          },
+          {
+            "id": "attention",
+            "type": "path",
+            "d": "M85 57 Q138 38 166 60",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 16,
+              "delay": 0,
+              "x": 114
+            }
+          },
+          {
+            "id": "old",
+            "type": "text",
+            "text": "before",
+            "x": 131,
+            "y": 209
+          },
+          {
+            "id": "newword",
+            "type": "text",
+            "text": "after",
+            "x": 271,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the family field",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-family-field",
+      "order": 4
+    },
+    "related": [
+      "adler-neglect",
+      "adler-youngest"
+    ]
+  },
+  {
+    "id": "adler-youngest",
+    "thinker": "adler",
+    "collection": "The family field",
+    "concept": "youngest",
+    "title": "The view from behind",
+    "statement": "Being surrounded by more capable siblings can invite effort or discouragement.",
+    "explanation": "Adler described different possible responses to the youngest child's position. Feeling behind may encourage energetic attempts to catch up, or produce a retreat from comparison when the others seem unreachable.",
+    "nuance": "A younger child might develop an activity no sibling has claimed, becoming capable through a different route. Another may decide that competition is hopeless and rely on special treatment. Adler presents these as contrasting possibilities.\n\nThe useful distinction is the meaning assigned to the situation, rather than a birth-order stereotype. Age gaps, disability, family change and how siblings treat each other all modify the experience. The youngest position is a setting in which development occurs, not a sealed description of the person.",
+    "sources": [
+      "adler-nature-3"
+    ],
+    "metaphor": "A lower figure faces a branching route: one path follows the steps, while another leads to a different task.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the view from behind",
+      "variant": "youngest",
+      "composition": {
+        "description": "A lower figure faces a branching route: one path follows the steps, while another leads to a different task.",
+        "actors": [
+          {
+            "id": "event",
+            "type": "path",
+            "d": "M82 103 L125 83 L151 107 L122 132 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "branch1",
+            "type": "path",
+            "d": "M152 106 Q199 57 281 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "branch2",
+            "type": "path",
+            "d": "M153 108 Q208 124 294 164",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "one event, different meanings",
+            "x": 208,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the family field",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-family-field",
+      "order": 5
+    },
+    "related": [
+      "adler-firstborn",
+      "adler-family-interpretation"
+    ]
+  },
+  {
+    "id": "adler-family-interpretation",
+    "thinker": "adler",
+    "collection": "The family field",
+    "concept": "family interpretation",
+    "title": "The child's account",
+    "statement": "The same household can contain different experienced worlds.",
+    "explanation": "Adler emphasized the child's interpretation of circumstances. A family event can acquire different significance for different children, shaping distinct expectations about belonging, ability and recognition.",
+    "nuance": "One sibling can experience a parent's demanding attention as encouragement while another hears a verdict of inadequacy. Neither interpretation follows automatically from the family's outward arrangement.\n\nThis focus on meaning should not obscure actual harm or unequal treatment. A child's interpretation is not the only thing happening. Adler's approach is strongest when it considers both the social situation and the child's response to it, rather than choosing between an entirely objective environment and an entirely private story.",
+    "sources": [
+      "adler-nature-3"
+    ],
+    "metaphor": "One shared event sends two uneven lines toward different destinations.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the child's account",
+      "variant": "family-interpretation",
+      "composition": {
+        "description": "One shared event sends two uneven lines toward different destinations.",
+        "actors": [
+          {
+            "id": "event",
+            "type": "path",
+            "d": "M82 103 L125 83 L151 107 L122 132 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "branch1",
+            "type": "path",
+            "d": "M152 106 Q199 57 281 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "branch2",
+            "type": "path",
+            "d": "M153 108 Q208 124 294 164",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "one event, different meanings",
+            "x": 208,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the family field",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-family-field",
+      "order": 6
+    },
+    "related": [
+      "adler-youngest",
       "adler-inferiority-feeling"
     ]
   }
