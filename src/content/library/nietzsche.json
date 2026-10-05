@@ -100,7 +100,7 @@
       "order": 1
     },
     "related": [
-      "nietzsche-teacher-leaving",
+      "nietzsche-mask-depth",
       "nietzsche-ressentiment"
     ]
   },
@@ -2756,6 +2756,1699 @@
     },
     "related": [
       "nietzsche-friend-resistance",
+      "nietzsche-death-god"
+    ]
+  },
+  {
+    "id": "nietzsche-death-god",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "death god",
+    "title": "THE MISSING HORIZON",
+    "statement": "A culture can lose its foundation before understanding what depends on it.",
+    "explanation": "In The Gay Science, a fictional madman announces the death of God. The scene concerns the loss of credibility of a Christian worldview and the vast consequences still unfolding.",
+    "nuance": "The speaker arrives among people who already disbelieve, yet thinks they have not understood their own position. The claim is cultural and philosophical, not a report of a divine being physically dying. A source of ultimate orientation has lost its authority, while practices built around it continue.\n\nNietzsche does not treat this as a cheerful proof that nothing matters. The madman uses images of losing a horizon and unchaining the earth. The difficulty is what happens to inherited morality, meaning, and standards of judgment when their old guarantee can no longer be assumed.",
+    "sources": [
+      "gs-125"
+    ],
+    "metaphor": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "horizon",
+      "variant": "horizon",
+      "composition": {
+        "description": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+        "actors": [
+          {
+            "id": "figure",
+            "type": "figure",
+            "x": 199,
+            "y": 148,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "floor",
+            "type": "path",
+            "d": "M63 200 Q194 196 337 202",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "horizon",
+            "type": "group",
+            "children": [
+              {
+                "id": "line",
+                "type": "path",
+                "d": "M65 73 Q201 65 335 76",
+                "tone": "normal",
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              },
+              {
+                "id": "axis",
+                "type": "path",
+                "d": "M200 74 L200 47",
+                "tone": "normal",
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              }
+            ],
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "y": -45
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "no given direction",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "death-god"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 1
+    },
+    "related": [
+      "nietzsche-teacher-leaving",
+      "nietzsche-shadows-god"
+    ]
+  },
+  {
+    "id": "nietzsche-shadows-god",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "shadows god",
+    "title": "AFTER THE DEPARTURE",
+    "statement": "A belief can vanish while its habits of thought remain.",
+    "explanation": "Nietzsche imagines the shadow of a dead God persisting for a long time. Rejecting a religious doctrine does not immediately remove the expectations and evaluations formed around it.",
+    "nuance": "An atheist may still expect the world to possess a final moral order or human history to have a guaranteed destination. Nietzsche treats such expectations as possible afterimages. The question is what has actually changed in one's thinking, rather than which identity one now claims.\n\nThis does not establish that every moral commitment secretly requires religion. It invites examination of specific continuities. Nietzsche's related critique of the unconditional will to truth asks whether an apparently secular practice still carries an inherited demand for something absolute.",
+    "sources": [
+      "gs-108-109"
+    ],
+    "metaphor": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "horizon",
+      "variant": "horizon",
+      "composition": {
+        "description": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+        "actors": [
+          {
+            "id": "figure",
+            "type": "figure",
+            "x": 199,
+            "y": 148,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "floor",
+            "type": "path",
+            "d": "M63 200 Q194 196 337 202",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "horizon",
+            "type": "group",
+            "children": [
+              {
+                "id": "line",
+                "type": "path",
+                "d": "M65 73 Q201 65 335 76",
+                "tone": "normal",
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              },
+              {
+                "id": "axis",
+                "type": "path",
+                "d": "M200 74 L200 47",
+                "tone": "normal",
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              }
+            ],
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "y": -45
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "no given direction",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "shadows-god"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 2
+    },
+    "related": [
+      "nietzsche-death-god",
+      "nietzsche-nihilism"
+    ]
+  },
+  {
+    "id": "nietzsche-nihilism",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "nihilism",
+    "title": "WHEN THE MEASURE FAILS",
+    "statement": "Life can seem worthless when it fails a standard we have stopped believing.",
+    "explanation": "Nietzsche describes a danger after the collapse of transcendent ideals: the world may still be judged by their demands. What remains then appears deficient, purposeless, or empty.",
+    "nuance": "This card names a central interpretation of Nietzsche's problem of nihilism, not a definition he presents uniformly in every work. Losing belief in an ideal and ceasing to evaluate by it are different events. One can deny a divine plan yet still regard a life without such a plan as a failed life.\n\nThe resulting emptiness is not simply too little entertainment. It concerns the authority of value itself. Nietzsche's task is to find ways of evaluating and affirming existence that do not depend on condemning it for failing to match a supposed world beyond it.",
+    "sources": [
+      "gs-343"
+    ],
+    "metaphor": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "horizon",
+      "variant": "horizon",
+      "composition": {
+        "description": "A horizon and its guiding vertical line detach; a figure is left on an open plane without a supplied direction.",
+        "actors": [
+          {
+            "id": "figure",
+            "type": "figure",
+            "x": 199,
+            "y": 148,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "floor",
+            "type": "path",
+            "d": "M63 200 Q194 196 337 202",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "horizon",
+            "type": "group",
+            "children": [
+              {
+                "id": "line",
+                "type": "path",
+                "d": "M65 73 Q201 65 335 76",
+                "tone": "normal",
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              },
+              {
+                "id": "axis",
+                "type": "path",
+                "d": "M200 74 L200 47",
+                "tone": "normal",
+                "motion": {
+                  "kind": "draw",
+                  "duration": 12,
+                  "delay": 0
+                }
+              }
+            ],
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "y": -45
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "no given direction",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "nihilism"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 3
+    },
+    "related": [
+      "nietzsche-shadows-god",
+      "nietzsche-open-sea"
+    ]
+  },
+  {
+    "id": "nietzsche-open-sea",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "open sea",
+    "title": "DANGEROUS ROOM",
+    "statement": "The disappearance of certainty can be a beginning as well as a loss.",
+    "explanation": "Nietzsche's free spirits respond to the weakening of old beliefs with an image of open sea. New inquiry becomes possible, although no safe destination is promised.",
+    "nuance": "The passage deliberately holds danger and exhilaration together. Losing an inherited guarantee can expose uncertainty while allowing questions previously forbidden. Nietzsche does not say that the cultural upheaval will be harmless, nor that everyone will experience it as liberation.\n\nAn open sea is not a motivational image of unlimited personal success. It removes the fixed shore that used to tell inquiry where it must end. The task becomes navigation under conditions one cannot turn into a final shelter.",
+    "sources": [
+      "gs-343"
+    ],
+    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "threshold",
+      "variant": "threshold",
+      "composition": {
+        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M183 42 L184 101 M184 143 L185 205",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M61 122 L175 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "freedom for what?",
+            "x": 260,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "open-sea"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 4
+    },
+    "related": [
+      "nietzsche-nihilism",
+      "nietzsche-last-man"
+    ]
+  },
+  {
+    "id": "nietzsche-last-man",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "last man",
+    "title": "NOTHING TO RISK",
+    "statement": "A life can become comfortable enough to stop asking what it is for.",
+    "explanation": "Zarathustra's last man seeks small pleasures and avoids demanding creation. This fictional type represents a narrowing of aspiration, not simply the enjoyment of ordinary comfort.",
+    "nuance": "The last man is a polemical caricature, and the crowd in the prologue actually asks to become him. Nietzsche uses that response to expose a conflict over what a good life should demand. He is not describing a medical condition or proving that ease always makes people shallow.\n\nThe target is a world where every difficult longing is dismissed as foolish because it disrupts security. Rest can renew a demanding life; comfort becomes different when it supplies the only recognized measure of value and makes every larger question unintelligible.",
+    "sources": [
+      "z-Prologue-5"
+    ],
+    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "frame",
+      "variant": "frame",
+      "composition": {
+        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+        "actors": [
+          {
+            "id": "flow",
+            "type": "path",
+            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M174 63 L222 62 L220 181 L175 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "output",
+            "type": "path",
+            "d": "M224 124 L331 124",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "something is lost",
+            "x": 273,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "last-man"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 5
+    },
+    "related": [
+      "nietzsche-open-sea",
+      "nietzsche-overhuman"
+    ]
+  },
+  {
+    "id": "nietzsche-overhuman",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "overhuman",
+    "title": "A BRIDGE, NOT A FINISH",
+    "statement": "The human being can be a possibility still being worked out.",
+    "explanation": "Zarathustra introduces the Übermensch as a figure of overcoming existing humanity. It points toward new valuation, rather than a biologically defined race or a person with superpowers.",
+    "nuance": "The dramatic text does not give a neat checklist for identifying the Übermensch. Translations such as overhuman, overman, and superman carry different associations. Its relation to Nietzsche's wider ideals remains debated, and it should not be turned into a category for declaring oneself superior.\n\nZarathustra's bridge image emphasizes transition. It asks whether humanity must treat its current arrangements as its final purpose. Nietzsche's elitism still needs critical attention, but racist or eugenic readings cannot simply be substituted for what this speech says.",
+    "sources": [
+      "z-Prologue-3-4"
+    ],
+    "metaphor": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "threshold",
+      "variant": "threshold",
+      "composition": {
+        "description": "An inherited boundary opens; beyond the opening a new path has to be drawn instead of appearing automatically.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M183 42 L184 101 M184 143 L185 205",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M61 122 L175 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M191 122 Q228 142 250 113 Q274 83 322 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "freedom for what?",
+            "x": 260,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "overhuman"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 6
+    },
+    "related": [
+      "nietzsche-last-man",
+      "nietzsche-faithful-earth"
+    ]
+  },
+  {
+    "id": "nietzsche-faithful-earth",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "faithful earth",
+    "title": "THIS WORLD",
+    "statement": "A promised world beyond life can become a reason to despise this one.",
+    "explanation": "Zarathustra urges fidelity to the earth. The speech resists interpretations that locate ultimate value elsewhere and treat embodied, changing existence as merely a lesser preparation.",
+    "nuance": "This is not a scientific claim that only physical objects exist, nor a general dismissal of spiritual experience. It is an attack on evaluations that depreciate present life in the name of another realm. The target is the hierarchy between worlds and the kind of desire that sustains it.\n\nA person who treats every bodily need as evidence of corruption has not simply added a belief about an afterlife; they have changed how they inhabit the life they have. Nietzsche asks what an earthly mode of valuation could become without that condemnation.",
+    "sources": [
+      "z-Prologue-3"
+    ],
+    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "apollonian",
+      "variant": "apollonian",
+      "composition": {
+        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "contour",
+            "type": "path",
+            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "form within becoming",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "faithful-earth"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 7
+    },
+    "related": [
+      "nietzsche-overhuman",
+      "nietzsche-eternal-recurrence"
+    ]
+  },
+  {
+    "id": "nietzsche-eternal-recurrence",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "eternal recurrence",
+    "title": "ALL OF IT, AGAIN",
+    "statement": "Could you want this life again without removing a single difficult part?",
+    "explanation": "The Gay Science presents eternal recurrence as a demon's thought experiment. Every event returns in the same order, including small details, pain, joy, and this very question.",
+    "nuance": "The passage asks how the thought would affect you: would it crush you, or could you welcome it? It does not merely ask whether you would repeat a favorite day. The whole sequence returns, without the edits by which memory usually makes a life easier to approve.\n\nNietzsche also explored recurrence beyond this passage, and its status as a cosmological doctrine is debated. Here the safest starting point is the enacted test of affirmation: what relation to existence would make an unaltered repetition desirable?",
+    "sources": [
+      "gs-341"
+    ],
+    "metaphor": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "recurrence",
+      "variant": "recurrence",
+      "composition": {
+        "description": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route.",
+        "actors": [
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M103 102 Q141 49 195 79 L216 57 L234 94 Q300 81 299 136 Q305 186 227 184 L207 164 L191 185 Q92 192 103 102 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "point",
+            "type": "circle",
+            "x": 103,
+            "y": 102,
+            "r": 5,
+            "fill": true,
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": 175,
+              "y": 49
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "all of it, again",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "eternal-recurrence"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 8
+    },
+    "related": [
+      "nietzsche-faithful-earth",
+      "nietzsche-amor-fati"
+    ],
+    "reflection": "Which part would you first try to leave out?"
+  },
+  {
+    "id": "nietzsche-amor-fati",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "amor fati",
+    "title": "WANTING WHAT HAS BEEN",
+    "statement": "Affirmation asks more than enduring what cannot be changed.",
+    "explanation": "Nietzsche names amor fati as a love of fate. He seeks a way of seeing necessity without continually turning what has happened into evidence against the worth of existence.",
+    "nuance": "This goes beyond saying that one can tolerate an unavoidable event. Nietzsche wants an affirmative relation to life rather than an endless prosecution of its conditions. It is a demanding philosophical ideal, not a claim that every harmful act was good or a command to remain in preventable suffering.\n\nOne may still oppose an injustice, change a situation, and grieve a loss. The tension concerns whether the past must be imagined away before life can be wanted. Nietzsche places that tension beside the difficulty of affirming becoming rather than a perfectly corrected world.",
+    "sources": [
+      "gs-276"
+    ],
+    "metaphor": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "recurrence",
+      "variant": "recurrence",
+      "composition": {
+        "description": "A path returns through the same jagged and smooth portions; one traveling point repeats the complete route.",
+        "actors": [
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M103 102 Q141 49 195 79 L216 57 L234 94 Q300 81 299 136 Q305 186 227 184 L207 164 L191 185 Q92 192 103 102 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "point",
+            "type": "circle",
+            "x": 103,
+            "y": 102,
+            "r": 5,
+            "fill": true,
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": 175,
+              "y": 49
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "all of it, again",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "amor-fati"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 9
+    },
+    "related": [
+      "nietzsche-eternal-recurrence",
+      "nietzsche-revenge-time"
+    ]
+  },
+  {
+    "id": "nietzsche-revenge-time",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "revenge time",
+    "title": "THE WALL OF WAS",
+    "statement": "The past can become an enemy because the will cannot make it otherwise.",
+    "explanation": "In Zarathustra's speech on redemption, revenge is linked to the will's anger at time. What has been cannot be altered by willing, and this limit can turn into hostility toward existence.",
+    "nuance": "The speech imagines redemption as a transformation of one's relation to what has been. It is not the literal ability to change events, and its dramatic formula about willing the past should not be treated as a demand to approve every wrong. The problem is deeper than regretting a mistake.\n\nA will that can only affirm what it controls encounters time as a humiliation. Nietzsche asks whether affirmation could reach beyond control. This links the speech to recurrence and amor fati, while leaving a serious question about what such affirmation can reasonably require.",
+    "sources": [
+      "z-II-Redemption"
+    ],
+    "metaphor": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "reaction",
+      "variant": "reaction",
+      "composition": {
+        "description": "A figure repeatedly sends a reply toward an absent opponent; the reply curves back and encloses its sender.",
+        "actors": [
+          {
+            "id": "speaker",
+            "type": "figure",
+            "x": 119,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "absent",
+            "type": "figure",
+            "x": 290,
+            "y": 150,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M144 95 Q252 52 289 94",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M288 100 Q301 201 121 196 Q54 157 82 87 Q106 62 138 92",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "origin",
+            "type": "text",
+            "text": "the other sets the terms",
+            "x": 220,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "without a guarantee",
+      "revenge-time"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-without-a-guarantee",
+      "order": 10
+    },
+    "related": [
+      "nietzsche-amor-fati",
+      "nietzsche-apollonian"
+    ]
+  },
+  {
+    "id": "nietzsche-apollonian",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "apollonian",
+    "title": "THE NECESSARY OUTLINE",
+    "statement": "A form can make a turbulent experience visible without exhausting it.",
+    "explanation": "In The Birth of Tragedy, the Apollonian names an artistic impulse toward image, measure, and distinct form. Nietzsche connects it with the dream and the appearance of individuals.",
+    "nuance": "Apollo represents more than cold reason. The beautiful image can make existence bearable and preserve a boundary around the individual. It has its own necessity rather than being merely an obstacle to ecstatic experience. Nietzsche interprets Greek art through this conceptual opposition.\n\nThe account is an early work shaped by Schopenhauer and Wagner, not the final form of every later Nietzschean claim. A sharply outlined figure in a turbulent scene offers the basic relationship: form makes something apprehensible while the forces beneath it do not disappear.",
+    "sources": [
+      "bt-1"
+    ],
+    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "apollonian",
+      "variant": "apollonian",
+      "composition": {
+        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "contour",
+            "type": "path",
+            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "form within becoming",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "apollonian"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 1
+    },
+    "related": [
+      "nietzsche-revenge-time",
+      "nietzsche-dionysian"
+    ]
+  },
+  {
+    "id": "nietzsche-dionysian",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "dionysian",
+    "title": "WHEN THE BOUNDARY LOOSENS",
+    "statement": "An experience can unsettle the distinction between the individual and the whole.",
+    "explanation": "Nietzsche's Dionysian names intoxication, collective intensity, and the disruption of ordinary individuation. In tragedy it gives the shaped image contact with a more turbulent ground.",
+    "nuance": "The concept is not simply partying, irrationality, or losing self-control. Nietzsche links music and shared ecstatic states with an experience in which the individual no longer feels wholly separate. That dissolution is both attractive and terrifying; it reveals a different relation to suffering and becoming.\n\nHis early formulation includes Schopenhauerian metaphysics he later reconsidered. Keeping that history in view matters: the Dionysian remains important to Nietzsche, but its meaning develops. It should not become a decorative label for anything chaotic.",
+    "sources": [
+      "bt-1-2"
+    ],
+    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "apollonian",
+      "variant": "apollonian",
+      "composition": {
+        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "contour",
+            "type": "path",
+            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "form within becoming",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "dionysian"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 2
+    },
+    "related": [
+      "nietzsche-apollonian",
+      "nietzsche-tragedy"
+    ]
+  },
+  {
+    "id": "nietzsche-tragedy",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "tragedy",
+    "title": "WITHOUT A HAPPY ENDING",
+    "statement": "Art can affirm life without pretending that suffering is resolved.",
+    "explanation": "Nietzsche reads Greek tragedy as bringing Apollonian form and Dionysian intensity together. Its power is not reducible to a reassuring moral or a story in which everyone is repaired.",
+    "nuance": "The tragic figure may be destroyed while the artwork gives the audience a way to encounter suffering without declaring existence itself a mistake. This is different from enjoying another person's pain or requiring an uplifting outcome. The form of the experience changes the relation to what it presents.\n\nNietzsche's historical account of Greek tragedy is disputed, and his early explanation relies on a metaphysical background he later criticized. The lasting question is whether affirmation must depend on reassurance, or whether it can survive an honest encounter with destruction.",
+    "sources": [
+      "bt-21-22"
+    ],
+    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "apollonian",
+      "variant": "apollonian",
+      "composition": {
+        "description": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M68 127 Q109 62 150 124 Q184 185 225 124 Q271 54 331 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "contour",
+            "type": "path",
+            "d": "M148 75 Q190 52 233 76 L232 176 Q192 199 150 177 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "form within becoming",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "tragedy"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 3
+    },
+    "related": [
+      "nietzsche-dionysian",
+      "nietzsche-theoretical-optimism"
+    ]
+  },
+  {
+    "id": "nietzsche-theoretical-optimism",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "theoretical optimism",
+    "title": "THE PROMISE OF EXPLANATION",
+    "statement": "Explaining a difficulty and repairing it are different achievements.",
+    "explanation": "The Birth of Tragedy criticizes a theoretical optimism associated with Socrates. It questions the confidence that rational understanding can penetrate existence and correct its suffering.",
+    "nuance": "Nietzsche does not mean that careful reasoning has no value. His target is a stronger promise: that the world is ultimately intelligible in a way that makes its wounds reparable through knowledge. He contrasts that hope with tragedy's ability to encounter what cannot be solved.\n\nThe account of Socrates is deliberately stylized and should not be confused with a complete historical portrait. The conceptual distinction remains useful: one can know why a loss occurred without having undone the loss, and knowledge need not supply the final justification for living.",
+    "sources": [
+      "bt-15"
+    ],
+    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "truth",
+      "variant": "truth",
+      "composition": {
+        "description": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M286 75 L313 79 L310 115 L287 110 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "lamp",
+            "type": "circle",
+            "x": 101,
+            "y": 105,
+            "r": 13,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "beam",
+            "type": "path",
+            "d": "M116 98 L287 76 M114 112 L286 109",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M289 143 Q197 194 103 143 M115 142 L103 143 L108 156",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "text": "why this search?",
+            "x": 195,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "theoretical-optimism"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 4
+    },
+    "related": [
+      "nietzsche-tragedy",
+      "nietzsche-artistic-distance"
+    ]
+  },
+  {
+    "id": "nietzsche-artistic-distance",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "artistic distance",
+    "title": "A LITTLE DISTANCE",
+    "statement": "Seeing yourself as a figure can interrupt the seriousness that consumes you.",
+    "explanation": "In The Gay Science, Nietzsche values art's ability to let us look at ourselves from a distance. An aesthetic perspective can keep knowledge and self-scrutiny from becoming unbearable.",
+    "nuance": "Distance does not mean denying the facts or treating another person's suffering as a spectacle. It changes one's position in relation to an experience. A mistake that feels like the entire self may also be seen as one scene in a longer, stranger human story.\n\nNietzsche describes gratitude for art because truth alone may expose how much illusion life contains. Artistic distance makes room for laughter and play without requiring ignorance. It offers a way to remain engaged with existence after an unflattering discovery, rather than simply turning away.",
+    "sources": [
+      "gs-107"
+    ],
+    "metaphor": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "distance",
+      "variant": "distance",
+      "composition": {
+        "description": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it.",
+        "actors": [
+          {
+            "id": "difficulty",
+            "type": "path",
+            "d": "M169 111 L182 84 L195 119 L211 96 L228 144 L207 158 L190 143 L172 158 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "close",
+            "type": "path",
+            "d": "M155 70 L241 70 L242 170 L154 171 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "wide",
+            "type": "path",
+            "d": "M87 42 L310 43 L312 204 L86 203 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "another distance",
+            "x": 200,
+            "y": 226,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "artistic-distance"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 5
+    },
+    "related": [
+      "nietzsche-theoretical-optimism",
+      "nietzsche-pain-knowledge"
+    ]
+  },
+  {
+    "id": "nietzsche-pain-knowledge",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "pain knowledge",
+    "title": "WHAT PAIN CANNOT PROVE",
+    "statement": "Suffering can alter a perspective without making every conclusion wise.",
+    "explanation": "Nietzsche reflects on illness and recovery as experiences that transform philosophical questioning. Pain can force deeper suspicion, but he refuses the easy claim that it makes us better people.",
+    "nuance": "An intense experience may disrupt assumptions while also narrowing attention or making a judgment bitter. Nietzsche's personal reflections describe changes in how questions are asked; they are not evidence that suffering should be sought or that harmful conditions are spiritually necessary.\n\nA convalescent may notice small pleasures previously overlooked or distrust old certainties. Neither discovery establishes that the illness was good. The distinction is between what one manages to learn from an experience and a retrospective justification of what caused it.",
+    "sources": [
+      "gs-Preface-3"
+    ],
+    "metaphor": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "distance",
+      "variant": "distance",
+      "composition": {
+        "description": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it.",
+        "actors": [
+          {
+            "id": "difficulty",
+            "type": "path",
+            "d": "M169 111 L182 84 L195 119 L211 96 L228 144 L207 158 L190 143 L172 158 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "close",
+            "type": "path",
+            "d": "M155 70 L241 70 L242 170 L154 171 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "wide",
+            "type": "path",
+            "d": "M87 42 L310 43 L312 204 L86 203 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "another distance",
+            "x": 200,
+            "y": 226,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "pain-knowledge"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 6
+    },
+    "related": [
+      "nietzsche-artistic-distance",
+      "nietzsche-great-health"
+    ]
+  },
+  {
+    "id": "nietzsche-great-health",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "great health",
+    "title": "HEALTH THAT CAN CHANGE",
+    "statement": "An exploratory life may need the capacity to recover, not an unbroken condition.",
+    "explanation": "Nietzsche imagines a great health required by experimenters in value. It is something repeatedly acquired and risked, rather than a permanent state that guarantees a life without vulnerability.",
+    "nuance": "His metaphor joins health with intellectual and existential mobility. It is not a medical ideal or a measure by which to rank sick people. A person exploring different forms of life needs the ability to leave a perspective, return, and withstand changes in what once felt indispensable.\n\nNietzsche himself lived with substantial illness. His language can be severe, but reading great health as simple physical perfection misses the passage's dynamic structure: capacity is renewed through transitions rather than secured by never being disturbed.",
+    "sources": [
+      "gs-382"
+    ],
+    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "path making",
+      "variant": "path-making",
+      "composition": {
+        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+        "actors": [
+          {
+            "id": "trial1",
+            "type": "path",
+            "d": "M78 175 Q160 73 246 124",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "trial2",
+            "type": "path",
+            "d": "M79 175 Q155 128 271 92",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "worked",
+            "type": "path",
+            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "made through attempts",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "great-health"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 7
+    },
+    "related": [
+      "nietzsche-pain-knowledge",
+      "nietzsche-genius-work"
+    ]
+  },
+  {
+    "id": "nietzsche-genius-work",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "genius work",
+    "title": "THE INVISIBLE ATTEMPTS",
+    "statement": "Calling a result genius can conceal the labor that produced it.",
+    "explanation": "In Human, All Too Human, Nietzsche questions the mystique of artistic genius. Finished works hide the selection, revision, and discarded attempts through which their apparent ease was made.",
+    "nuance": "He does not deny differences of ability. He challenges the belief that a great work appears complete through an inexplicable gift. The audience sees a polished surface while the process of making it has vanished; admiration then turns the missing process into a miracle.\n\nA compelling sentence may come from many awkward versions and an exacting ear. Recognizing this does not diminish the achievement. It locates achievement in a history of judgments, discipline, and experiment rather than making the artist a supernatural exception.",
+    "sources": [
+      "hh-155-162"
+    ],
+    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "path making",
+      "variant": "path-making",
+      "composition": {
+        "description": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+        "actors": [
+          {
+            "id": "trial1",
+            "type": "path",
+            "d": "M78 175 Q160 73 246 124",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "trial2",
+            "type": "path",
+            "d": "M79 175 Q155 128 271 92",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "worked",
+            "type": "path",
+            "d": "M80 175 Q146 113 205 132 Q253 145 318 72",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "made through attempts",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "genius-work"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 8
+    },
+    "related": [
+      "nietzsche-great-health",
+      "nietzsche-slow-reading"
+    ]
+  },
+  {
+    "id": "nietzsche-slow-reading",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "slow reading",
+    "title": "THE TEMPO OF A THOUGHT",
+    "statement": "Some writing is understood only after the first confident reading fails.",
+    "explanation": "Nietzsche asks readers of his aphorisms to interpret rather than merely recognize sentences. In the Genealogy, reading well requires patient return and the ability to let a problem unfold.",
+    "nuance": "A short paragraph is not necessarily a simple conclusion. Its compressed form may hide a turn of argument, an ironic voice, or a relation to earlier passages. Nietzsche associates reading with rumination: understanding develops through returning rather than collecting quotable lines.\n\nThis is why a striking sentence cannot safely stand for his entire position. Ask what the passage attacks, who is speaking, and what tension it leaves behind. Slowness is not reverence toward an authority; it is the work required to discover what an apparently clear formulation is actually doing.",
+    "sources": [
+      "gm-Preface-8"
+    ],
+    "metaphor": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "excavation",
+      "variant": "excavation",
+      "composition": {
+        "description": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+        "actors": [
+          {
+            "id": "verdict",
+            "type": "text",
+            "text": "GOOD",
+            "x": 200,
+            "y": 55,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "surface",
+            "type": "path",
+            "d": "M65 78 Q183 72 335 79",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "layer1",
+            "type": "path",
+            "d": "M72 118 Q198 105 328 119",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "layer2",
+            "type": "path",
+            "d": "M80 157 Q197 147 319 159",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "cut",
+            "type": "path",
+            "d": "M201 77 L198 190 M191 178 L198 190 L208 179",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "history",
+            "type": "text",
+            "text": "who needed this?",
+            "x": 200,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "slow-reading"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 9
+    },
+    "related": [
+      "nietzsche-genius-work",
+      "nietzsche-mask-depth"
+    ]
+  },
+  {
+    "id": "nietzsche-mask-depth",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "mask depth",
+    "title": "THE PROTECTIVE SURFACE",
+    "statement": "What hides a person can also preserve what cannot yet be shared.",
+    "explanation": "Nietzsche suggests that depth tends to generate masks. A surface may protect a difficult inner development from being flattened by premature explanation or other people's expectations.",
+    "nuance": "This is not the claim that deception always proves profundity. A mask can conceal shallowness too. Nietzsche asks whether exposure is necessarily truthful when the audience can only translate what it sees into familiar categories. Sometimes privacy preserves a thought that is still forming.\n\nThe mask also creates danger: it can become the only face others know, or the face its wearer begins to believe. Nietzsche's aphorism invites attention to the relation between depth and communication, rather than a simple recommendation to keep one's feelings secret.",
+    "sources": [
+      "bg-40"
+    ],
+    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "frame",
+      "variant": "frame",
+      "composition": {
+        "description": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+        "actors": [
+          {
+            "id": "flow",
+            "type": "path",
+            "d": "M63 105 Q82 68 100 112 Q126 157 142 103 Q154 81 168 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M174 63 L222 62 L220 181 L175 183 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "output",
+            "type": "path",
+            "d": "M224 124 L331 124",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "something is lost",
+            "x": 273,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "art and existence",
+      "mask-depth"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "nietzsche-art-and-existence",
+      "order": 10
+    },
+    "related": [
+      "nietzsche-slow-reading",
       "nietzsche-genealogy"
     ]
   }
