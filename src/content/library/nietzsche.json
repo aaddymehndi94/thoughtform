@@ -15388,11 +15388,11 @@
     "title": "The necessary outline",
     "statement": "A form can make a turbulent experience visible without exhausting it.",
     "explanation": "In The Birth of Tragedy, the Apollonian names an artistic impulse toward image, measure, and distinct form. Nietzsche connects it with the dream and the appearance of individuals.",
-    "nuance": "Apollo represents more than cold reason. The beautiful image can make existence bearable and preserve a boundary around the individual. It has its own necessity rather than being merely an obstacle to ecstatic experience. Nietzsche interprets Greek art through this conceptual opposition. The account is an early work shaped by Schopenhauer and Wagner, not the final form of every later Nietzschean claim. A sharply outlined figure in a turbulent scene offers the basic relationship: form makes something apprehensible while the forces beneath it do not disappear.\n\nA dream can have a clear image while the dreamer still senses that it is appearance. Nietzsche makes this a model for the Apollonian. The boundary around a figure gives experience shape and distinction; measure protects the individual against dissolution. The outlined image is therefore not a mistake that must simply be discarded. It supplies a way of encountering forces that would otherwise overwhelm an individualized view.\n\nThe relation is easiest to understand beside the Dionysian. Form and dissolution are different artistic impulses, but tragedy emerges from their conjunction rather than the final elimination of one by the other. A visible contour sits within a restless field. Nietzsche's early account takes this tension into a metaphysical interpretation of art and existence. Its historical and philosophical claims require judgment, even when the diagram clarifies the relationship he is proposing.",
+    "nuance": "Apollo represents more than cold reason. The beautiful image can make existence bearable and preserve a boundary around the individual. It has its own necessity rather than being merely an obstacle to ecstatic experience. Nietzsche interprets Greek art through this conceptual opposition. The account is an early work shaped by Schopenhauer and Wagner, not the final form of every later Nietzschean claim. A sharply outlined figure in a turbulent scene offers the basic relationship: form makes something apprehensible while the forces beneath it do not disappear.\n\nA dream can have a clear image while the dreamer still senses that it is appearance. Nietzsche makes this a model for the Apollonian. The boundary around a figure gives experience shape and distinction; measure protects the individual against dissolution. The outlined image is therefore not a mistake that must simply be discarded. It supplies a way of encountering forces that would otherwise overwhelm an individualized view.\n\nThe relation is easiest to understand beside the Dionysian. Form and dissolution are different artistic impulses, but tragedy emerges from their conjunction rather than the final elimination of one by the other. A visible contour sits within a restless field. Nietzsche's early account takes this tension into a metaphysical interpretation of art and existence. His historical and philosophical claims still require judgment; the proposed artistic relationship gives them a particular structure.",
     "sources": [
       "bt-1"
     ],
-    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "metaphor": "An artist’s boundary gives a turbulent background a distinct dreamlike figure that can be contemplated.",
     "scene": {
       "kind": "notebook",
       "caption": "apollonian",
@@ -15435,6 +15435,100 @@
             "text": "a turbulent ground",
             "x": 134.27706298828124,
             "y": 227
+          }
+        ]
+      },
+      "lesson": {
+        "description": "An artist’s boundary gives a turbulent background a distinct dreamlike figure that can be contemplated.",
+        "beats": [
+          {
+            "caption": "A turbulent background has no stable individual outline.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "ground",
+                "type": "path",
+                "d": "M52 111 Q83 43 113 109 Q141 192 172 111 Q204 49 236 113 Q272 187 307 109 Q337 74 350 111"
+              }
+            ]
+          },
+          {
+            "caption": "Apollonian form gives an image a clear boundary.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "ground",
+                "type": "path",
+                "d": "M52 111 Q83 43 113 109 Q141 192 172 111 Q204 49 236 113 Q272 187 307 109 Q337 74 350 111",
+                "tone": "faint"
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M158 183 L158 76 Q201 32 244 76 L244 183 Z"
+              }
+            ]
+          },
+          {
+            "caption": "The distinct image becomes available for contemplation.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "ground",
+                "type": "path",
+                "d": "M52 111 Q83 43 113 109 Q141 192 172 111 Q204 49 236 113 Q272 187 307 109 Q337 74 350 111",
+                "tone": "faint"
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M158 183 L158 76 Q201 32 244 76 L244 183 Z"
+              },
+              {
+                "id": "image",
+                "type": "figure",
+                "x": 201,
+                "y": 139,
+                "pose": {
+                  "scale": 0.7
+                }
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche treats this luminous appearance as one artistic force within tragedy.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "ground",
+                "type": "path",
+                "d": "M52 111 Q83 43 113 109 Q141 192 172 111 Q204 49 236 113 Q272 187 307 109 Q337 74 350 111",
+                "tone": "faint"
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M158 183 L158 76 Q201 32 244 76 L244 183 Z"
+              },
+              {
+                "id": "image",
+                "type": "figure",
+                "x": 201,
+                "y": 139,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "appearance",
+                "type": "text",
+                "text": "a beautiful bounded appearance",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -15483,36 +15577,56 @@
         ]
       },
       {
-        "description": "visible appearance; what sustains it.",
+        "description": "The visible individual image keeps a boundary while the turbulent ground remains present.",
         "actors": [
           {
-            "id": "inner",
+            "id": "background",
             "type": "path",
-            "d": "M159 77 Q183 59 208 78 L209 125 Q187 153 160 124 Z"
+            "d": "M64 125Q132 32 199 125Q260 208 334 116"
           },
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M209 64 Q239 51 261 69 L261 120 Q232 141 211 116 Z"
+            "id": "image",
+            "type": "group",
+            "children": [
+              {
+                "id": "image-edge",
+                "type": "path",
+                "d": "M-54.0 -63.5 L54.0 -62.5 L53.0 63.5 L-53.0 62.5 Z"
+              }
+            ],
+            "x": 200,
+            "y": 128,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "gap",
-            "type": "path",
-            "d": "M191 162 Q227 171 248 155"
+            "id": "individual",
+            "type": "figure",
+            "x": 201,
+            "y": 149,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
           },
           {
-            "id": "a",
+            "id": "form",
             "type": "text",
-            "text": "visible appearance",
-            "x": 25.548471069335932,
-            "y": 218
+            "text": "a bounded appearance",
+            "x": 200,
+            "y": 40,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "still",
             "type": "text",
-            "text": "what sustains it",
-            "x": 226.12139434814452,
-            "y": 218
+            "text": "its ground remains",
+            "x": 200,
+            "y": 226,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -15530,7 +15644,7 @@
     "sources": [
       "bt-1-2"
     ],
-    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "metaphor": "Several individual outlines become involved in a common rhythm while their usual separateness loses emphasis.",
     "scene": {
       "kind": "notebook",
       "caption": "dionysian",
@@ -15575,6 +15689,146 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "Several individual outlines become involved in a common rhythm while their usual separateness loses emphasis.",
+        "beats": [
+          {
+            "caption": "The figures begin as separate individuals.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "a",
+                "type": "figure",
+                "x": 95,
+                "y": 144
+              },
+              {
+                "id": "b",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "c",
+                "type": "figure",
+                "x": 306,
+                "y": 144,
+                "facing": true
+              }
+            ]
+          },
+          {
+            "caption": "A shared rhythm draws them into one intensity.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "a",
+                "type": "figure",
+                "x": 115,
+                "y": 144
+              },
+              {
+                "id": "b",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "c",
+                "type": "figure",
+                "x": 285,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "rhythm",
+                "type": "path",
+                "d": "M62 119 Q108 48 155 119 Q201 189 249 119 Q297 48 343 119"
+              }
+            ]
+          },
+          {
+            "caption": "Their ordinary sense of separateness weakens.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "a",
+                "type": "figure",
+                "x": 150,
+                "y": 144,
+                "tone": "faint"
+              },
+              {
+                "id": "b",
+                "type": "figure",
+                "x": 200,
+                "y": 144,
+                "tone": "faint"
+              },
+              {
+                "id": "c",
+                "type": "figure",
+                "x": 249,
+                "y": 144,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "rhythm",
+                "type": "path",
+                "d": "M62 119 Q108 48 155 119 Q201 189 249 119 Q297 48 343 119"
+              },
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M86 62 Q200 19 316 64 L315 184 Q200 225 86 183 Z"
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche describes an artistic force that disrupts ordinary individual boundaries.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "a",
+                "type": "figure",
+                "x": 150,
+                "y": 144,
+                "tone": "faint"
+              },
+              {
+                "id": "b",
+                "type": "figure",
+                "x": 200,
+                "y": 144,
+                "tone": "faint"
+              },
+              {
+                "id": "c",
+                "type": "figure",
+                "x": 249,
+                "y": 144,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "rhythm",
+                "type": "path",
+                "d": "M62 119 Q108 48 155 119 Q201 189 249 119 Q297 48 343 119"
+              },
+              {
+                "id": "shared",
+                "type": "text",
+                "text": "an intensity larger than each outline",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -15592,48 +15846,51 @@
     ],
     "readingArt": [
       {
-        "description": "individual outlines; shared intensity.",
+        "description": "A shared rhythm can weaken the felt isolation of otherwise distinct individual bodies.",
         "actors": [
           {
-            "id": "part1",
-            "type": "path",
-            "d": "M96 91 L123 72 L145 101"
-          },
-          {
-            "id": "part2",
-            "type": "path",
-            "d": "M185 154 Q207 113 227 152"
-          },
-          {
-            "id": "part3",
-            "type": "path",
-            "d": "M267 79 L291 102 L278 127"
-          },
-          {
-            "id": "whole",
-            "type": "path",
-            "d": "M73 157 Q74 49 185 48 Q302 47 322 145 Q313 191 181 195 Q105 200 73 157 Z"
-          },
-          {
-            "id": "a-top",
-            "type": "text",
-            "text": "individual",
-            "x": 159.76522827148438,
-            "y": 23
-          },
-          {
-            "id": "a-bottom",
-            "type": "text",
-            "text": "outlines",
-            "x": 166.61519775390624,
-            "y": 44
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 152,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
           },
           {
             "id": "b",
+            "type": "figure",
+            "x": 202,
+            "y": 152,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
+          },
+          {
+            "id": "c",
+            "type": "figure",
+            "x": 301,
+            "y": 152,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": true
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M49 116Q105 42 151 119Q206 198 251 121Q302 40 350 116"
+          },
+          {
+            "id": "intensity",
             "type": "text",
-            "text": "shared intensity",
-            "x": 132.0874053955078,
-            "y": 226
+            "text": "one shared intensity",
+            "x": 200,
+            "y": 220,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -15687,7 +15944,7 @@
     "sources": [
       "bt-21-22"
     ],
-    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "metaphor": "A bounded theatrical scene carries an unsettling rhythm within it, showing tragedy as a relation between artistic forces.",
     "scene": {
       "kind": "notebook",
       "caption": "tragedy",
@@ -15732,6 +15989,105 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "A bounded theatrical scene carries an unsettling rhythm within it, showing tragedy as a relation between artistic forces.",
+        "beats": [
+          {
+            "caption": "The tragic stage gives suffering a visible individual form.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "stage",
+                "type": "path",
+                "d": "M76 43 L324 43 L324 191 L76 191 Z"
+              },
+              {
+                "id": "hero",
+                "type": "figure",
+                "x": 200,
+                "y": 139
+              }
+            ]
+          },
+          {
+            "caption": "Music and shared intensity bring another force into the scene.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "stage",
+                "type": "path",
+                "d": "M76 43 L324 43 L324 191 L76 191 Z"
+              },
+              {
+                "id": "hero",
+                "type": "figure",
+                "x": 200,
+                "y": 139
+              },
+              {
+                "id": "chorus",
+                "type": "path",
+                "d": "M48 121 Q96 46 146 121 Q194 191 246 121 Q297 47 352 121"
+              }
+            ]
+          },
+          {
+            "caption": "Form holds what would otherwise dissolve the individual outline.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "stage",
+                "type": "path",
+                "d": "M76 43 L324 43 L324 191 L76 191 Z"
+              },
+              {
+                "id": "hero",
+                "type": "figure",
+                "x": 200,
+                "y": 139,
+                "tone": "faint"
+              },
+              {
+                "id": "chorus",
+                "type": "path",
+                "d": "M81 121 Q118 66 153 121 Q195 177 235 121 Q278 65 317 121"
+              }
+            ]
+          },
+          {
+            "caption": "In Nietzsche’s early account, tragedy arises from this difficult artistic relation.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "stage",
+                "type": "path",
+                "d": "M76 43 L324 43 L324 191 L76 191 Z"
+              },
+              {
+                "id": "hero",
+                "type": "figure",
+                "x": 200,
+                "y": 139
+              },
+              {
+                "id": "chorus",
+                "type": "path",
+                "d": "M81 121 Q118 66 153 121 Q195 177 235 121 Q278 65 317 121",
+                "tone": "faint"
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "text": "form and dissolution held together",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -15749,31 +16105,66 @@
     ],
     "readingArt": [
       {
-        "description": "destruction shown; life encountered.",
+        "description": "The individual figure can suffer within the tragic form while the audience encounters life through the artwork.",
         "actors": [
           {
-            "id": "field",
-            "type": "path",
-            "d": "M61 122 Q99 67 145 123 Q190 187 235 120 Q283 59 336 124"
+            "id": "stage",
+            "type": "group",
+            "children": [
+              {
+                "id": "stage-edge",
+                "type": "path",
+                "d": "M-83.0 -62.5 L83.0 -61.5 L82.0 62.5 L-82.0 61.5 Z"
+              }
+            ],
+            "x": 141,
+            "y": 124,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "outline",
-            "type": "path",
-            "d": "M147 73 Q191 58 236 78 L232 174 Q188 194 148 172 Z"
+            "id": "sufferer",
+            "type": "figure",
+            "x": 141,
+            "y": 155,
+            "pose": {
+              "scale": 0.75
+            },
+            "facing": false
           },
           {
-            "id": "a",
+            "id": "hurt",
+            "type": "path",
+            "d": "M163 111L183 102 M165 122L188 122 M163 134L180 145"
+          },
+          {
+            "id": "audience",
+            "type": "figure",
+            "x": 306,
+            "y": 155,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": true
+          },
+          {
+            "id": "event",
             "type": "text",
-            "text": "destruction shown",
-            "x": 121.56147613525391,
-            "y": 42
+            "text": "suffering shown",
+            "x": 139,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "encounter",
             "type": "text",
             "text": "life encountered",
-            "x": 131.13341827392577,
-            "y": 225
+            "x": 307,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -15827,7 +16218,7 @@
     "sources": [
       "bt-15"
     ],
-    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "metaphor": "An expanding explanatory chart is mistaken for a complete answer to suffering, leaving an actual sufferer outside its bounds.",
     "scene": {
       "kind": "notebook",
       "caption": "theoretical optimism",
@@ -15895,6 +16286,176 @@
             "y": 226
           }
         ]
+      },
+      "lesson": {
+        "description": "An expanding explanatory chart is mistaken for a complete answer to suffering, leaving an actual sufferer outside its bounds.",
+        "beats": [
+          {
+            "caption": "A theory explains an event by placing it in an intelligible system.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "theory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "theory-outline",
+                    "type": "path",
+                    "d": "M-90.5 -64.0 L90.5 -63.0 L89.5 64.0 L-89.5 63.0 Z"
+                  },
+                  {
+                    "id": "theory-word0-line0",
+                    "type": "text",
+                    "text": "an explanation",
+                    "x": 0,
+                    "y": -40.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 108
+              }
+            ]
+          },
+          {
+            "caption": "Confidence grows that every serious problem can be explained and corrected.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "theory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "theory-outline",
+                    "type": "path",
+                    "d": "M-124.0 -76.5 L124.0 -75.5 L123.0 76.5 L-123.0 75.5 Z"
+                  },
+                  {
+                    "id": "theory-word0-line0",
+                    "type": "text",
+                    "text": "everything explained",
+                    "x": 0,
+                    "y": -52.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 108
+              },
+              {
+                "id": "grid",
+                "type": "path",
+                "d": "M99 109 L299 109 M199 52 L199 165",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "caption": "The suffering person remains outside what the explanation has resolved.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "theory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "theory-outline",
+                    "type": "path",
+                    "d": "M-86.5 -61.5 L86.5 -60.5 L85.5 61.5 L-85.5 60.5 Z"
+                  },
+                  {
+                    "id": "theory-word0-line0",
+                    "type": "text",
+                    "text": "explained",
+                    "x": 0,
+                    "y": -37.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 249,
+                "y": 103
+              },
+              {
+                "id": "sufferer",
+                "type": "figure",
+                "x": 83,
+                "y": 145
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 84,
+                "y": 112
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche questions the hope that knowledge alone can make existence adequate.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "theory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "theory-outline",
+                    "type": "path",
+                    "d": "M-86.5 -61.5 L86.5 -60.5 L85.5 61.5 L-85.5 60.5 Z"
+                  },
+                  {
+                    "id": "theory-word0-line0",
+                    "type": "text",
+                    "text": "explained",
+                    "x": 0,
+                    "y": -37.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 249,
+                "y": 103
+              },
+              {
+                "id": "sufferer",
+                "type": "figure",
+                "x": 83,
+                "y": 145
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 84,
+                "y": 112
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "text": "explanation and consolation differ",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -15953,38 +16514,46 @@
         ]
       },
       {
-        "description": "why it broke; whether it is restored.",
+        "description": "Knowing why a vessel broke does not by itself put its pieces back together.",
         "actors": [
           {
-            "id": "hook",
+            "id": "pieces",
             "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "d": "M62 96L97 88L103 115L84 142L59 124Z M125 97L143 109L132 142L111 132Z"
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "account",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 286,
+            "y": 117,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "a",
+            "id": "broken",
             "type": "text",
-            "text": "why it broke",
-            "x": 53.55932464599609,
-            "y": 218
+            "text": "broken vessel",
+            "x": 104,
+            "y": 214,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b-top",
+            "id": "explained",
             "type": "text",
-            "text": "whether it",
-            "x": 249.27227020263672,
-            "y": 209
-          },
-          {
-            "id": "b-bottom",
-            "type": "text",
-            "text": "is restored",
-            "x": 247.13426513671874,
-            "y": 230
+            "text": "a causal account",
+            "x": 286,
+            "y": 214,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -16002,7 +16571,7 @@
     "sources": [
       "gs-107"
     ],
-    "metaphor": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it.",
+    "metaphor": "An overwhelming event is framed as an artwork, creating enough distance for a viewer to examine it.",
     "scene": {
       "kind": "notebook",
       "caption": "artistic distance",
@@ -16065,6 +16634,137 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "An overwhelming event is framed as an artwork, creating enough distance for a viewer to examine it.",
+        "beats": [
+          {
+            "caption": "A painful event occupies the person’s entire field of attention.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M52 58 Q196 10 348 63 L346 181 Q202 237 52 181 Z"
+              },
+              {
+                "id": "close",
+                "type": "text",
+                "text": "too close to contemplate",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "An artistic form gives it a boundary and a perspective.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M139 63 L261 63 L261 181 L139 181 Z"
+              }
+            ]
+          },
+          {
+            "caption": "The person can now look at the experience from some distance.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 275,
+                "y": 118
+              },
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M214 63 L336 63 L336 181 L214 181 Z"
+              },
+              {
+                "id": "viewer",
+                "type": "figure",
+                "x": 93,
+                "y": 142
+              }
+            ]
+          },
+          {
+            "caption": "The form changes the relation to experience while leaving its seriousness available.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 275,
+                "y": 118
+              },
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M214 63 L336 63 L336 181 L214 181 Z"
+              },
+              {
+                "id": "viewer",
+                "type": "figure",
+                "x": 93,
+                "y": 142
+              },
+              {
+                "id": "distance",
+                "type": "text",
+                "text": "a relation made possible by distance",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -16123,52 +16823,52 @@
         ]
       },
       {
-        "description": "participant; spectator of oneself.",
+        "description": "The event retains its seriousness while a changed distance makes contemplation possible.",
         "actors": [
           {
-            "id": "solid",
+            "id": "event",
+            "type": "group",
+            "children": [
+              {
+                "id": "event-edge",
+                "type": "path",
+                "d": "M-57.0 -57.0 L57.0 -56.0 L56.0 57.0 L-56.0 56.0 Z"
+              }
+            ],
+            "x": 278,
+            "y": 123,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "mark",
             "type": "path",
-            "d": "M177 74 L225 89 L238 142 L187 162 L163 111 Z"
+            "d": "M271 94L272 143 M249 117L303 118 M252 98L297 138"
           },
           {
-            "id": "eye1",
-            "type": "circle",
-            "x": 79,
-            "y": 107,
-            "r": 8
+            "id": "observer",
+            "type": "figure",
+            "x": 105,
+            "y": 155,
+            "pose": {
+              "scale": 0.75
+            },
+            "facing": false
           },
           {
-            "id": "eye2",
-            "type": "circle",
-            "x": 315,
-            "y": 165,
-            "r": 8
-          },
-          {
-            "id": "view",
+            "id": "space",
             "type": "path",
-            "d": "M88 106 L163 112 M308 160 L238 142"
+            "d": "M140 172L202 172 M145 166L140 172L146 178 M196 166L202 172L196 178"
           },
           {
-            "id": "a",
+            "id": "relation",
             "type": "text",
-            "text": "participant",
-            "x": 58.37028045654297,
-            "y": 218
-          },
-          {
-            "id": "b-top",
-            "type": "text",
-            "text": "spectator",
-            "x": 250.89725189208986,
-            "y": 209
-          },
-          {
-            "id": "b-bottom",
-            "type": "text",
-            "text": "of oneself",
-            "x": 250.39724731445312,
-            "y": 230
+            "text": "a position beside the event",
+            "x": 200,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -16182,11 +16882,11 @@
     "title": "What pain cannot prove",
     "statement": "Suffering can alter a perspective without making every conclusion wise.",
     "explanation": "Nietzsche reflects on illness and recovery as experiences that transform philosophical questioning. Pain can force deeper suspicion, but he refuses the easy claim that it makes us better people.",
-    "nuance": "An intense experience may disrupt assumptions while also narrowing attention or making a judgment bitter. Nietzsche's personal reflections describe changes in how questions are asked; they are not evidence that suffering should be sought or that harmful conditions are spiritually necessary. A convalescent may notice small pleasures previously overlooked or distrust old certainties. Neither discovery establishes that the illness was good. The distinction is between what one manages to learn from an experience and a retrospective justification of what caused it.\n\nA period of illness can change what questions feel important, what habits seem believable, and what small pleasures return with recovery. Nietzsche writes from those transitions. He does not claim that a certain amount of pain mechanically produces a certain amount of insight. The path is personal and interpretive. A disturbance can widen suspicion, but it can also deepen resentment or make one perspective feel like the only possible account.\n\nThis matters whenever a philosophy of suffering is turned into an explanation of why someone ought to suffer. Learning from a condition and endorsing its cause are separate judgments. Nietzsche's reflections concern what he came to ask and notice under pressure, not a debt owed to pain as an instructor. The drawing should therefore change the angle of view without making the difficult mark vanish or acquire an automatic halo of meaning.",
+    "nuance": "An intense experience may disrupt assumptions while also narrowing attention or making a judgment bitter. Nietzsche's personal reflections describe changes in how questions are asked; they are not evidence that suffering should be sought or that harmful conditions are spiritually necessary. A convalescent may notice small pleasures previously overlooked or distrust old certainties. Neither discovery establishes that the illness was good. The distinction is between what one manages to learn from an experience and a retrospective justification of what caused it.\n\nA period of illness can change what questions feel important, what habits seem believable, and what small pleasures return with recovery. Nietzsche writes from those transitions. He does not claim that a certain amount of pain mechanically produces a certain amount of insight. The path is personal and interpretive. A disturbance can widen suspicion, but it can also deepen resentment or make one perspective feel like the only possible account.\n\nThis matters whenever a philosophy of suffering is turned into an explanation of why someone ought to suffer. Learning from a condition and endorsing its cause are separate judgments. Nietzsche's reflections concern what he came to ask and notice under pressure, not a debt owed to pain as an instructor. A changed perspective can coexist with pain that remains unresolved and resists any satisfying explanation.",
     "sources": [
       "gs-Preface-3"
     ],
-    "metaphor": "A dense jagged mark seems all-consuming up close; a second wider frame reveals room around it without deleting it.",
+    "metaphor": "An interrupted habitual route makes previously unnoticed features visible without turning the injury into a required lesson.",
     "scene": {
       "kind": "notebook",
       "caption": "pain knowledge",
@@ -16240,6 +16940,223 @@
             "text": "a changed angle",
             "x": 142.69210052490234,
             "y": 227
+          }
+        ]
+      },
+      "lesson": {
+        "description": "An interrupted habitual route makes previously unnoticed features visible without turning the injury into a required lesson.",
+        "beats": [
+          {
+            "caption": "A habitual way of living leaves some features unnoticed.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 99,
+                "y": 143
+              },
+              {
+                "id": "habit",
+                "type": "path",
+                "d": "M127 191 L326 191"
+              },
+              {
+                "id": "unseen",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "unseen-outline",
+                    "type": "path",
+                    "d": "M-47.5 -39.5 L47.5 -38.5 L46.5 39.5 L-46.5 38.5 Z"
+                  },
+                  {
+                    "id": "unseen-word0-line0",
+                    "type": "text",
+                    "text": "unnoticed",
+                    "x": 0,
+                    "y": -15.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 293,
+                "y": 71
+              }
+            ]
+          },
+          {
+            "caption": "Pain interrupts that familiar movement.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 169,
+                "y": 143
+              },
+              {
+                "id": "habit",
+                "type": "path",
+                "d": "M127 191 L326 191"
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 170,
+                "y": 118
+              },
+              {
+                "id": "unseen",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "unseen-outline",
+                    "type": "path",
+                    "d": "M-47.5 -39.5 L47.5 -38.5 L46.5 39.5 L-46.5 38.5 Z"
+                  },
+                  {
+                    "id": "unseen-word0-line0",
+                    "type": "text",
+                    "text": "unnoticed",
+                    "x": 0,
+                    "y": -15.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 293,
+                "y": 71
+              }
+            ]
+          },
+          {
+            "caption": "Another question about the life becomes visible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 169,
+                "y": 143
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 170,
+                "y": 118
+              },
+              {
+                "id": "unseen",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "unseen-outline",
+                    "type": "path",
+                    "d": "M-47.5 -39.5 L47.5 -38.5 L46.5 39.5 L-46.5 38.5 Z"
+                  },
+                  {
+                    "id": "unseen-word0-line0",
+                    "type": "text",
+                    "text": "a new",
+                    "x": 0,
+                    "y": -15.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "unseen-word0-line1",
+                    "type": "text",
+                    "text": "question",
+                    "x": 0,
+                    "y": 4.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 293,
+                "y": 71
+              }
+            ]
+          },
+          {
+            "caption": "Pain may change inquiry; it does not guarantee wisdom or justify inflicting suffering.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 169,
+                "y": 143
+              },
+              {
+                "id": "pain",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pain-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 170,
+                "y": 118
+              },
+              {
+                "id": "unseen",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "unseen-outline",
+                    "type": "path",
+                    "d": "M-47.5 -39.5 L47.5 -38.5 L46.5 39.5 L-46.5 38.5 Z"
+                  },
+                  {
+                    "id": "unseen-word0-line0",
+                    "type": "text",
+                    "text": "a new",
+                    "x": 0,
+                    "y": -15.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "unseen-word0-line1",
+                    "type": "text",
+                    "text": "question",
+                    "x": 0,
+                    "y": 4.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 293,
+                "y": 71
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "text": "an opening, not a guaranteed insight",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -16363,7 +17280,7 @@
     "sources": [
       "gs-382"
     ],
-    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "metaphor": "A traveller loses a familiar support, forms another way to move, and encounters a further need for renewal.",
     "scene": {
       "kind": "notebook",
       "caption": "great health",
@@ -16417,6 +17334,112 @@
             "text": "a capacity renewed",
             "x": 130.8345199584961,
             "y": 227
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A traveller loses a familiar support, forms another way to move, and encounters a further need for renewal.",
+        "beats": [
+          {
+            "caption": "Health can be understood as a fixed condition to preserve.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 100,
+                "y": 141
+              },
+              {
+                "id": "support",
+                "type": "path",
+                "d": "M123 190 L148 93 L166 92"
+              },
+              {
+                "id": "old",
+                "type": "text",
+                "text": "a familiar support",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche imagines a capacity to recover and reorganize after change.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 100,
+                "y": 141
+              },
+              {
+                "id": "broken",
+                "type": "path",
+                "d": "M123 190 L137 140 M145 119 L153 92 L166 92"
+              },
+              {
+                "id": "change",
+                "type": "text",
+                "text": "the old support fails",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "A new relation to difficulty becomes possible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 195,
+                "y": 141
+              },
+              {
+                "id": "new-support",
+                "type": "path",
+                "d": "M175 191 L182 119 L212 118 L222 191"
+              },
+              {
+                "id": "route",
+                "type": "path",
+                "d": "M60 196 Q207 167 340 194",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "caption": "Great health is repeatedly acquired; it is not permanent invulnerability.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 195,
+                "y": 141
+              },
+              {
+                "id": "new-support",
+                "type": "path",
+                "d": "M175 191 L182 119 L212 118 L222 191"
+              },
+              {
+                "id": "renewal",
+                "type": "text",
+                "text": "a capacity for renewed adaptation",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -16524,11 +17547,11 @@
     "title": "The invisible attempts",
     "statement": "Calling a result genius can conceal the labor that produced it.",
     "explanation": "In Human, All Too Human, Nietzsche questions the mystique of artistic genius. Finished works hide the selection, revision, and discarded attempts through which their apparent ease was made.",
-    "nuance": "He does not deny differences of ability. He challenges the belief that a great work appears complete through an inexplicable gift. The audience sees a polished surface while the process of making it has vanished; admiration then turns the missing process into a miracle. A compelling sentence may come from many awkward versions and an exacting ear. Recognizing this does not diminish the achievement. It locates achievement in a history of judgments, discipline, and experiment rather than making the artist a supernatural exception.\n\nA sketchbook can contain a dozen unsuccessful arrangements behind a picture that appears inevitable. The viewer receives the selected result while the rejected paths disappear. Nietzsche thinks admiration can misread that disappearance: what is actually hidden labor becomes evidence of a mysterious gift. The completed work is real, but its apparently effortless arrival is partly an effect of presenting only what survived revision.\n\nRestoring the process changes the account of achievement. Taste appears not only in the initial idea but in recognizing which attempt to discard and how to rework another. Sustained attention can be as important as a striking impulse. Nietzsche does not thereby prove that any person can make any work through enough practice. He removes a supernatural explanation and asks us to see the sequence of judgments concealed by the final surface.",
+    "nuance": "He does not deny differences of ability. He challenges the belief that a great work appears complete through an inexplicable gift. The audience sees a polished surface while the process of making it has vanished; admiration then turns the missing process into a miracle. A compelling sentence may come from many awkward versions and an exacting ear. Recognizing this does not diminish the achievement. It locates achievement in a history of judgments, discipline, and experiment.\n\nA sketchbook can contain a dozen unsuccessful arrangements behind a picture that appears inevitable. The viewer receives the selected result while the rejected paths disappear. Nietzsche thinks admiration can misread that disappearance: what is actually hidden labor becomes evidence of a mysterious gift. The completed work is real, but its apparently effortless arrival is partly an effect of presenting only what survived revision.\n\nRestoring the process changes the account of achievement. Taste appears not only in the initial idea but in recognizing which attempt to discard and how to rework another. Sustained attention can be as important as a striking impulse. Nietzsche does not thereby prove that any person can make any work through enough practice. He removes a supernatural explanation and asks us to see the sequence of judgments concealed by the final surface.",
     "sources": [
       "hh-155-162"
     ],
-    "metaphor": "Repeated tentative strokes become a pathway; the finished line is the residue of trials rather than a sudden gift.",
+    "metaphor": "A finished drawing is lifted to show repeated drafts, failures, and revisions hidden by the impression of effortless genius.",
     "scene": {
       "kind": "notebook",
       "caption": "genius work",
@@ -16584,6 +17607,516 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "A finished drawing is lifted to show repeated drafts, failures, and revisions hidden by the impression of effortless genius.",
+        "beats": [
+          {
+            "caption": "The finished work looks as though it arrived effortlessly.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "finished",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "finished-outline",
+                    "type": "path",
+                    "d": "M-85.5 -69.0 L85.5 -68.0 L84.5 69.0 L-84.5 68.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 111
+              },
+              {
+                "id": "admiration",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "admiration-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 312,
+                "y": 65
+              },
+              {
+                "id": "finished-picture",
+                "type": "group",
+                "x": 200,
+                "y": 111,
+                "pose": {
+                  "scale": 1
+                },
+                "children": [
+                  {
+                    "id": "mountains",
+                    "type": "path",
+                    "d": "M-55 43 L-14 -28 L8 9 L29 -8 L55 42 M-55 43 L55 43"
+                  },
+                  {
+                    "id": "sun",
+                    "type": "circle",
+                    "x": 35,
+                    "y": -25,
+                    "r": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "caption": "Its earlier drafts reveal many unsuccessful arrangements.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "finished",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "finished-outline",
+                    "type": "path",
+                    "d": "M-85.5 -37.0 L85.5 -36.0 L84.5 37.0 L-84.5 36.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 61
+              },
+              {
+                "id": "draft1",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft1-outline",
+                    "type": "path",
+                    "d": "M-50.0 -38.5 L50.0 -37.5 L49.0 38.5 L-49.0 37.5 Z"
+                  },
+                  {
+                    "id": "draft1-word0-line0",
+                    "type": "text",
+                    "text": "attempt",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 163
+              },
+              {
+                "id": "draft2",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft2-outline",
+                    "type": "path",
+                    "d": "M-50.0 -38.5 L50.0 -37.5 L49.0 38.5 L-49.0 37.5 Z"
+                  },
+                  {
+                    "id": "draft2-word0-line0",
+                    "type": "text",
+                    "text": "attempt",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 208,
+                "y": 163
+              },
+              {
+                "id": "draft3",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft3-outline",
+                    "type": "path",
+                    "d": "M-39.5 -38.5 L39.5 -37.5 L38.5 38.5 L-38.5 37.5 Z"
+                  },
+                  {
+                    "id": "draft3-word0-line0",
+                    "type": "text",
+                    "text": "attempt",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 311,
+                "y": 163
+              },
+              {
+                "id": "finished-picture",
+                "type": "group",
+                "x": 200,
+                "y": 61,
+                "pose": {
+                  "scale": 0.44
+                },
+                "children": [
+                  {
+                    "id": "mountains",
+                    "type": "path",
+                    "d": "M-55 43 L-14 -28 L8 9 L29 -8 L55 42 M-55 43 L55 43"
+                  },
+                  {
+                    "id": "sun",
+                    "type": "circle",
+                    "x": 35,
+                    "y": -25,
+                    "r": 13
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture0",
+                "type": "group",
+                "x": 105,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-31 9 L13 -4 L31 14 L-14 18 L4 -6"
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture1",
+                "type": "group",
+                "x": 208,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-27 17 L-7 -8 L11 4 L26 15"
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture2",
+                "type": "group",
+                "x": 311,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-27 17 L-7 -12 L5 3 L16 -5 L28 17"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "caption": "Selection and revision slowly make the final form possible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "finished",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "finished-outline",
+                    "type": "path",
+                    "d": "M-85.5 -37.0 L85.5 -36.0 L84.5 37.0 L-84.5 36.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 61
+              },
+              {
+                "id": "draft1",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft1-outline",
+                    "type": "path",
+                    "d": "M-50.0 -38.5 L50.0 -37.5 L49.0 38.5 L-49.0 37.5 Z"
+                  },
+                  {
+                    "id": "draft1-word0-line0",
+                    "type": "text",
+                    "text": "rejected",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 163
+              },
+              {
+                "id": "draft2",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft2-outline",
+                    "type": "path",
+                    "d": "M-50.0 -38.5 L50.0 -37.5 L49.0 38.5 L-49.0 37.5 Z"
+                  },
+                  {
+                    "id": "draft2-word0-line0",
+                    "type": "text",
+                    "text": "revised",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 208,
+                "y": 163
+              },
+              {
+                "id": "draft3",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft3-outline",
+                    "type": "path",
+                    "d": "M-39.5 -38.5 L39.5 -37.5 L38.5 38.5 L-38.5 37.5 Z"
+                  },
+                  {
+                    "id": "draft3-word0-line0",
+                    "type": "text",
+                    "text": "kept",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 311,
+                "y": 163
+              },
+              {
+                "id": "finished-picture",
+                "type": "group",
+                "x": 200,
+                "y": 61,
+                "pose": {
+                  "scale": 0.44
+                },
+                "children": [
+                  {
+                    "id": "mountains",
+                    "type": "path",
+                    "d": "M-55 43 L-14 -28 L8 9 L29 -8 L55 42 M-55 43 L55 43"
+                  },
+                  {
+                    "id": "sun",
+                    "type": "circle",
+                    "x": 35,
+                    "y": -25,
+                    "r": 13
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture0",
+                "type": "group",
+                "x": 105,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-31 9 L13 -4 L31 14 L-14 18 L4 -6"
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture1",
+                "type": "group",
+                "x": 208,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-27 17 L-7 -8 L11 4 L26 15"
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture2",
+                "type": "group",
+                "x": 311,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-27 17 L-7 -12 L5 3 L16 -5 L28 17"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "caption": "The myth of genius can conceal the work that produced what we admire.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "finished",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "finished-outline",
+                    "type": "path",
+                    "d": "M-85.5 -37.0 L85.5 -36.0 L84.5 37.0 L-84.5 36.0 Z"
+                  }
+                ],
+                "x": 200,
+                "y": 61
+              },
+              {
+                "id": "draft1",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft1-outline",
+                    "type": "path",
+                    "d": "M-50.0 -38.5 L50.0 -37.5 L49.0 38.5 L-49.0 37.5 Z"
+                  },
+                  {
+                    "id": "draft1-word0-line0",
+                    "type": "text",
+                    "text": "rejected",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 163
+              },
+              {
+                "id": "draft2",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft2-outline",
+                    "type": "path",
+                    "d": "M-50.0 -38.5 L50.0 -37.5 L49.0 38.5 L-49.0 37.5 Z"
+                  },
+                  {
+                    "id": "draft2-word0-line0",
+                    "type": "text",
+                    "text": "revised",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 208,
+                "y": 163
+              },
+              {
+                "id": "draft3",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "draft3-outline",
+                    "type": "path",
+                    "d": "M-39.5 -38.5 L39.5 -37.5 L38.5 38.5 L-38.5 37.5 Z"
+                  },
+                  {
+                    "id": "draft3-word0-line0",
+                    "type": "text",
+                    "text": "kept",
+                    "x": 0,
+                    "y": -14.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 311,
+                "y": 163
+              },
+              {
+                "id": "work",
+                "type": "text",
+                "text": "selection becomes invisible in the result",
+                "x": 200,
+                "y": 236,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "finished-picture",
+                "type": "group",
+                "x": 200,
+                "y": 61,
+                "pose": {
+                  "scale": 0.44
+                },
+                "children": [
+                  {
+                    "id": "mountains",
+                    "type": "path",
+                    "d": "M-55 43 L-14 -28 L8 9 L29 -8 L55 42 M-55 43 L55 43"
+                  },
+                  {
+                    "id": "sun",
+                    "type": "circle",
+                    "x": 35,
+                    "y": -25,
+                    "r": 13
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture0",
+                "type": "group",
+                "x": 105,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-31 9 L13 -4 L31 14 L-14 18 L4 -6"
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture1",
+                "type": "group",
+                "x": 208,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-27 17 L-7 -8 L11 4 L26 15"
+                  }
+                ]
+              },
+              {
+                "id": "draft-picture2",
+                "type": "group",
+                "x": 311,
+                "y": 175,
+                "children": [
+                  {
+                    "id": "sketch",
+                    "type": "path",
+                    "d": "M-27 17 L-7 -12 L5 3 L16 -5 L28 17"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -16601,38 +18134,97 @@
     ],
     "readingArt": [
       {
-        "description": "discarded attempts; selected result.",
+        "description": "Rejected arrangements remain part of the work even though the audience sees the selected result.",
         "actors": [
+          {
+            "id": "a",
+            "type": "group",
+            "children": [
+              {
+                "id": "a-edge",
+                "type": "path",
+                "d": "M-38.5 -40.0 L38.5 -39.0 L37.5 40.0 L-37.5 39.0 Z"
+              }
+            ],
+            "x": 91,
+            "y": 120,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "b",
+            "type": "group",
+            "children": [
+              {
+                "id": "b-edge",
+                "type": "path",
+                "d": "M-38.5 -40.0 L38.5 -39.0 L37.5 40.0 L-37.5 39.0 Z"
+              }
+            ],
+            "x": 201,
+            "y": 120,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "c",
+            "type": "group",
+            "children": [
+              {
+                "id": "c-edge",
+                "type": "path",
+                "d": "M-38.5 -40.0 L38.5 -39.0 L37.5 40.0 L-37.5 39.0 Z"
+              }
+            ],
+            "x": 307,
+            "y": 120,
+            "pose": {
+              "scale": 1
+            }
+          },
           {
             "id": "trial1",
             "type": "path",
-            "d": "M62 168 Q125 74 257 123",
-            "tone": "faint"
+            "d": "M65 144L92 104L119 145Z M68 99L112 147"
           },
           {
             "id": "trial2",
             "type": "path",
-            "d": "M63 170 Q180 191 292 89",
-            "tone": "faint"
+            "d": "M175 140L192 108L220 140"
           },
           {
-            "id": "work",
+            "id": "result",
             "type": "path",
-            "d": "M63 170 Q140 122 202 140 Q258 153 327 70"
+            "d": "M280 142L295 107L312 127L328 116L335 142Z"
           },
           {
-            "id": "a",
+            "id": "reject",
             "type": "text",
-            "text": "discarded attempts",
-            "x": 21.453500366210932,
-            "y": 218
+            "text": "rejected",
+            "x": 91,
+            "y": 210,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "revise",
             "type": "text",
-            "text": "selected result",
-            "x": 229.44738006591797,
-            "y": 218
+            "text": "revised",
+            "x": 201,
+            "y": 210,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "keep",
+            "type": "text",
+            "text": "selected",
+            "x": 307,
+            "y": 210,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -16686,7 +18278,7 @@
     "sources": [
       "gm-Preface-8"
     ],
-    "metaphor": "A familiar verdict sits above buried layers; a descending cut reveals earlier valuations beneath it.",
+    "metaphor": "A compact sentence is reopened into its premises and tensions before a reader accepts the apparent conclusion.",
     "scene": {
       "kind": "notebook",
       "caption": "slow reading",
@@ -16753,6 +18345,242 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "A compact sentence is reopened into its premises and tensions before a reader accepts the apparent conclusion.",
+        "beats": [
+          {
+            "caption": "A short sentence can seem immediately understood.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "sentence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sentence-outline",
+                    "type": "path",
+                    "d": "M-120.5 -35.0 L120.5 -34.0 L119.5 35.0 L-119.5 34.0 Z"
+                  },
+                  {
+                    "id": "sentence-word0-line0",
+                    "type": "text",
+                    "text": "a compact sentence",
+                    "x": 0,
+                    "y": -11.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 111
+              }
+            ]
+          },
+          {
+            "caption": "Slow reading returns to the words and the question they answer.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "sentence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sentence-outline",
+                    "type": "path",
+                    "d": "M-120.5 -28.5 L120.5 -27.5 L119.5 28.5 L-119.5 27.5 Z"
+                  },
+                  {
+                    "id": "sentence-word0-line0",
+                    "type": "text",
+                    "text": "a compact sentence",
+                    "x": 0,
+                    "y": -4.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 63
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-86.5 -43.5 L86.5 -42.5 L85.5 43.5 L-85.5 42.5 Z"
+                  },
+                  {
+                    "id": "question-word0-line0",
+                    "type": "text",
+                    "text": "what question?",
+                    "x": 0,
+                    "y": -19.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 159
+              }
+            ]
+          },
+          {
+            "caption": "The compressed tensions and assumptions become visible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "sentence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sentence-outline",
+                    "type": "path",
+                    "d": "M-120.5 -24.0 L120.5 -23.0 L119.5 24.0 L-119.5 23.0 Z"
+                  },
+                  {
+                    "id": "sentence-word0-line0",
+                    "type": "text",
+                    "text": "a compact sentence",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 48
+              },
+              {
+                "id": "premise1",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "premise1-outline",
+                    "type": "path",
+                    "d": "M-56.5 -45.0 L56.5 -44.0 L55.5 45.0 L-55.5 44.0 Z"
+                  },
+                  {
+                    "id": "premise1-word0-line0",
+                    "type": "text",
+                    "text": "assumption",
+                    "x": 0,
+                    "y": -21.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 137
+              },
+              {
+                "id": "premise2",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "premise2-outline",
+                    "type": "path",
+                    "d": "M-56.5 -45.0 L56.5 -44.0 L55.5 45.0 L-55.5 44.0 Z"
+                  },
+                  {
+                    "id": "premise2-word0-line0",
+                    "type": "text",
+                    "text": "tension",
+                    "x": 0,
+                    "y": -21.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 289,
+                "y": 137
+              }
+            ]
+          },
+          {
+            "caption": "Interpreting an aphorism unfolds its questions, assumptions, and tensions.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "sentence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sentence-outline",
+                    "type": "path",
+                    "d": "M-120.5 -24.0 L120.5 -23.0 L119.5 24.0 L-119.5 23.0 Z"
+                  },
+                  {
+                    "id": "sentence-word0-line0",
+                    "type": "text",
+                    "text": "a compact sentence",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 48
+              },
+              {
+                "id": "premise1",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "premise1-outline",
+                    "type": "path",
+                    "d": "M-56.5 -45.0 L56.5 -44.0 L55.5 45.0 L-55.5 44.0 Z"
+                  },
+                  {
+                    "id": "premise1-word0-line0",
+                    "type": "text",
+                    "text": "assumption",
+                    "x": 0,
+                    "y": -21.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 137
+              },
+              {
+                "id": "premise2",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "premise2-outline",
+                    "type": "path",
+                    "d": "M-56.5 -45.0 L56.5 -44.0 L55.5 45.0 L-55.5 44.0 Z"
+                  },
+                  {
+                    "id": "premise2-word0-line0",
+                    "type": "text",
+                    "text": "tension",
+                    "x": 0,
+                    "y": -21.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 289,
+                "y": 137
+              },
+              {
+                "id": "unfold",
+                "type": "text",
+                "text": "understanding takes interpretive work",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -16770,31 +18598,42 @@
     ],
     "readingArt": [
       {
-        "description": "first recognition; further relations.",
+        "description": "A compressed passage can contain an assumption, a reversal, and a relation that only a return makes visible.",
         "actors": [
           {
-            "id": "layers",
+            "id": "passage",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 201,
+            "y": 120,
+            "pose": {
+              "scale": 1.5
+            }
+          },
+          {
+            "id": "first",
             "type": "path",
-            "d": "M72 75 Q187 68 326 77 M80 113 Q196 102 317 115 M90 153 Q193 141 309 156"
+            "d": "M168 89L230 91"
           },
           {
-            "id": "cut",
+            "id": "return",
             "type": "path",
-            "d": "M194 62 L195 186 M187 175 L195 186 L204 174"
+            "d": "M134 80Q80 125 141 160 M130 151L141 160L126 163"
           },
           {
-            "id": "a",
+            "id": "turn",
             "type": "text",
-            "text": "first recognition",
-            "x": 133.40540924072266,
-            "y": 42
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "further relations",
-            "x": 132.30740966796876,
-            "y": 221
+            "text": "an argument within the sentence",
+            "x": 200,
+            "y": 225,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -16855,7 +18694,7 @@
     "sources": [
       "bg-40"
     ],
-    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "metaphor": "An inner thought meets a hostile or shallow public frame, making a mask a possible protection for depth as well as concealment.",
     "scene": {
       "kind": "notebook",
       "caption": "mask depth",
@@ -16911,6 +18750,206 @@
             "y": 223
           }
         ]
+      },
+      "lesson": {
+        "description": "An inner thought meets a hostile or shallow public frame, making a mask a possible protection for depth as well as concealment.",
+        "beats": [
+          {
+            "caption": "An intimate thought enters a social setting.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 127,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thought-outline",
+                    "type": "path",
+                    "d": "M-64.5 -57.0 L64.5 -56.0 L63.5 57.0 L-63.5 56.0 Z"
+                  },
+                  {
+                    "id": "thought-word0-line0",
+                    "type": "text",
+                    "text": "an intimate",
+                    "x": 0,
+                    "y": -33.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "thought-word0-line1",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": -13.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 289,
+                "y": 104
+              }
+            ]
+          },
+          {
+            "caption": "The setting offers only a shallow or hostile way to read it.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 127,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thought-outline",
+                    "type": "path",
+                    "d": "M-64.5 -57.0 L64.5 -56.0 L63.5 57.0 L-63.5 56.0 Z"
+                  },
+                  {
+                    "id": "thought-word0-line0",
+                    "type": "text",
+                    "text": "an intimate",
+                    "x": 0,
+                    "y": -33.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "thought-word0-line1",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": -13.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 289,
+                "y": 104
+              },
+              {
+                "id": "public",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "public-outline",
+                    "type": "path",
+                    "d": "M-88.5 -27 L88.5 -27 L88.5 20 L12 20 L0 33 L-1 20 L-88.5 20 Z"
+                  },
+                  {
+                    "id": "public-words-line0",
+                    "type": "text",
+                    "text": "a simple label",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 201,
+                "y": 34
+              }
+            ]
+          },
+          {
+            "caption": "A mask can protect what cannot yet be expressed there.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 127,
+                "y": 145
+              },
+              {
+                "id": "mask",
+                "type": "path",
+                "d": "M108 60 Q127 46 149 63 L148 101 Q127 120 108 101 Z M115 78 L121 78 M136 78 L142 78"
+              },
+              {
+                "id": "thought",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thought-outline",
+                    "type": "path",
+                    "d": "M-64.5 -57.0 L64.5 -56.0 L63.5 57.0 L-63.5 56.0 Z"
+                  },
+                  {
+                    "id": "thought-word0-line0",
+                    "type": "text",
+                    "text": "unexpressed",
+                    "x": 0,
+                    "y": -33.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 289,
+                "y": 104
+              }
+            ]
+          },
+          {
+            "caption": "A mask can protect depth. The visible surface leaves what lies behind it unsettled.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 127,
+                "y": 145
+              },
+              {
+                "id": "mask",
+                "type": "path",
+                "d": "M108 60 Q127 46 149 63 L148 101 Q127 120 108 101 Z M115 78 L121 78 M136 78 L142 78"
+              },
+              {
+                "id": "thought",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thought-outline",
+                    "type": "path",
+                    "d": "M-64.5 -57.0 L64.5 -56.0 L63.5 57.0 L-63.5 56.0 Z"
+                  },
+                  {
+                    "id": "thought-word0-line0",
+                    "type": "text",
+                    "text": "unexpressed",
+                    "x": 0,
+                    "y": -33.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 289,
+                "y": 104
+              },
+              {
+                "id": "limit",
+                "type": "text",
+                "text": "a surface can protect depth",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -16962,36 +19001,107 @@
         ]
       },
       {
-        "description": "unshared thought; familiar category.",
+        "description": "A ready-made public label can exclude the distinctions of an unfinished thought.",
         "actors": [
           {
+            "id": "label",
+            "type": "group",
+            "children": [
+              {
+                "id": "label-edge",
+                "type": "path",
+                "d": "M-50.0 -45.5 L50.0 -44.5 L49.0 45.5 L-49.0 44.5 Z"
+              },
+              {
+                "id": "label-text0",
+                "type": "text",
+                "text": "a familiar",
+                "x": 0,
+                "y": -8,
+                "anchor": "middle",
+                "fontSize": 14
+              },
+              {
+                "id": "label-text1",
+                "type": "text",
+                "text": "type",
+                "x": 0,
+                "y": 12,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 285,
+            "y": 117,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "thought",
+            "type": "group",
+            "children": [
+              {
+                "id": "branch",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "growth",
+                    "type": "path",
+                    "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+                  }
+                ],
+                "x": 0,
+                "y": 0,
+                "pose": {
+                  "scale": 0.75
+                }
+              },
+              {
+                "id": "difference",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "phrase",
+                    "type": "path",
+                    "d": "M-52 0 Q-27-38 0 0 Q25 34 54-3"
+                  }
+                ],
+                "x": 1,
+                "y": 10,
+                "pose": {
+                  "scale": 0.8
+                }
+              }
+            ],
+            "x": 108,
+            "y": 117,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "edge",
+            "type": "path",
+            "d": "M193 74L193 171 M187 91L198 102 M187 146L198 158"
+          },
+          {
             "id": "singular",
-            "type": "path",
-            "d": "M59 109 Q85 59 104 117 Q133 182 155 101"
-          },
-          {
-            "id": "frame",
-            "type": "path",
-            "d": "M173 61 L222 61 L221 185 L175 185 Z"
-          },
-          {
-            "id": "flattened",
-            "type": "path",
-            "d": "M226 121 L332 121"
-          },
-          {
-            "id": "a",
             "type": "text",
-            "text": "unshared thought",
-            "x": 30.058467102050784,
-            "y": 218
+            "text": "unfinished thought",
+            "x": 105,
+            "y": 220,
+            "anchor": "middle",
+            "fontSize": 15
           },
           {
-            "id": "b",
+            "id": "social",
             "type": "text",
-            "text": "familiar category",
-            "x": 221.4904312133789,
-            "y": 218
+            "text": "available category",
+            "x": 285,
+            "y": 220,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       }
