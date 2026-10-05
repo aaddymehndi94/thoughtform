@@ -1,0 +1,871 @@
+[
+  {
+    "id": "kierkegaard-self-relation",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "self relation",
+    "title": "THE RELATION THAT RELATES",
+    "statement": "A self is not merely what you contain. It is how you relate to what you are.",
+    "explanation": "Anti-Climacus describes the self as a relation that relates to itself. Being human involves taking up tensions between what is given and what is possible, rather than possessing a fixed inner object.",
+    "nuance": "The opening of The Sickness Unto Death is deliberately difficult. Its central move is to distinguish being a mixture of elements from becoming responsible for that mixture. You have limits and possibilities, but you also respond to having them. That response belongs to selfhood.\n\nThis is a Christian account under a pseudonym, not a neutral psychological definition. Anti-Climacus eventually insists that the self must relate to the power that established it. Later existential thinkers borrow parts of the analysis while changing that ground; those adaptations should not be silently attributed to Kierkegaard.",
+    "sources": [
+      "kierkegaard-self-relation-source"
+    ],
+    "metaphor": "A figure is held between finite and infinite strands; a third returning line makes the relation itself visible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "self relation",
+      "variant": "relation",
+      "composition": {
+        "description": "A figure is held between finite and infinite strands; a third returning line makes the relation itself visible.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 199,
+            "y": 142,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "finite",
+            "type": "path",
+            "d": "M83 177 Q139 148 184 166",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "infinite",
+            "type": "path",
+            "d": "M213 166 Q257 140 318 177",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M129 151 Q197 50 268 153",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "left",
+            "type": "text",
+            "text": "given",
+            "x": 86,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "text",
+            "text": "possible",
+            "x": 311,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "center",
+            "type": "text",
+            "text": "how I relate",
+            "x": 199,
+            "y": 45,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "self-relation"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 1
+    },
+    "related": [
+      "kierkegaard-fear-anxiety",
+      "kierkegaard-despair"
+    ]
+  },
+  {
+    "id": "kierkegaard-despair",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "despair",
+    "title": "A MISRELATION",
+    "statement": "Despair can be present even when a life feels successful.",
+    "explanation": "For Anti-Climacus, despair is a failure in the self's relation to itself. It is not identified simply by a sad mood, visible distress, or the absence of worldly success.",
+    "nuance": "Someone may meet every social expectation while never confronting the question of who they are before God. Anti-Climacus would call that a possible form of despair even if the person feels comfortable. His category is spiritual and theological; it is not equivalent to a modern diagnosis of depression.\n\nConversely, sadness does not establish despair in his sense. The analysis concerns how a self inhabits its conditions and its dependence. Reading the book as a manual for identifying other people's hidden illness would miss its address to the individual reader.",
+    "sources": [
+      "kierkegaard-despair-source"
+    ],
+    "metaphor": "A complete outer face floats above an unfinished inner outline; outward contentment leaves the inner relation unexamined.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "despair",
+      "variant": "unnoticed",
+      "composition": {
+        "description": "A complete outer face floats above an unfinished inner outline; outward contentment leaves the inner relation unexamined.",
+        "actors": [
+          {
+            "id": "face",
+            "type": "circle",
+            "x": 197,
+            "y": 93,
+            "r": 30,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "smile",
+            "type": "path",
+            "d": "M182 98 Q198 112 214 98",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M161 169 Q158 146 177 151 M218 150 Q239 154 231 180 M174 192 L216 192",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "not knowing the lack",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "despair"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 2
+    },
+    "related": [
+      "kierkegaard-self-relation",
+      "kierkegaard-not-willing-self"
+    ]
+  },
+  {
+    "id": "kierkegaard-not-willing-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "not willing self",
+    "title": "THE SELF YOU WOULD LEAVE",
+    "statement": "You can want to escape a loss by wanting to escape the person who has suffered it.",
+    "explanation": "Anti-Climacus distinguishes despair over an event from the deeper wish not to be oneself. An external disappointment can expose an existing refusal of the self that has to live through it.",
+    "nuance": "His examples include a person whose ambition collapses. The apparent complaint concerns the lost position, but the wish underneath is to become someone else: a self without this history, limitation, or failure. The desired escape is not just from pain but from being this person.\n\nThis does not mean that every wish to change circumstances is despair. Leaving a harmful condition may be necessary. The distinction concerns an attempt to abolish one's own given self rather than taking responsibility for changing how that self lives.",
+    "sources": [
+      "kierkegaard-not-willing-self-source"
+    ],
+    "metaphor": "A figure tries to exit its own outline, but a trailing line shows it still bound to the self it refuses.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "not willing self",
+      "variant": "refusal",
+      "composition": {
+        "description": "A figure tries to exit its own outline, but a trailing line shows it still bound to the self it refuses.",
+        "actors": [
+          {
+            "id": "outline",
+            "type": "figure",
+            "x": 167,
+            "y": 143,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "escaping",
+            "type": "figure",
+            "x": 199,
+            "y": 143,
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "x": 55
+            }
+          },
+          {
+            "id": "tie",
+            "type": "path",
+            "d": "M170 138 Q193 193 253 143",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "away from myself",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "not-willing-self"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 3
+    },
+    "related": [
+      "kierkegaard-despair",
+      "kierkegaard-defiant-self"
+    ]
+  },
+  {
+    "id": "kierkegaard-defiant-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "defiant self",
+    "title": "THE SELF AS ITS OWN AUTHOR",
+    "statement": "Refusing dependence can become another way of failing to be yourself.",
+    "explanation": "Anti-Climacus calls one form of despair defiance: willing to be oneself entirely on one's own terms. The self tries to become its own origin and rejects the conditions under which it was given.",
+    "nuance": "The problem is not simply confidence or independent judgment. In this Christian analysis, defiance refuses the relation to the power that established the self. Even a wound can become something the person insists on keeping as evidence against the order of existence.\n\nA secular reader may recognize the fantasy of complete self-authorship without accepting Anti-Climacus's theological answer. That difference matters. Kierkegaard's account cannot be accurately reduced to choosing any identity one likes: becoming a self includes receiving as well as shaping.",
+    "sources": [
+      "kierkegaard-defiant-self-source"
+    ],
+    "metaphor": "A figure draws a sealed perimeter around itself; a supporting line outside the perimeter cannot enter.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "defiant self",
+      "variant": "sealed",
+      "composition": {
+        "description": "A figure draws a sealed perimeter around itself; a supporting line outside the perimeter cannot enter.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 195,
+            "y": 144,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "shell",
+            "type": "path",
+            "d": "M138 53 Q247 39 251 118 Q258 199 142 191 Q112 125 138 53 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "support",
+            "type": "path",
+            "d": "M70 190 Q111 130 129 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "my own foundation",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "defiant-self"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 4
+    },
+    "related": [
+      "kierkegaard-not-willing-self",
+      "kierkegaard-finite-self"
+    ]
+  },
+  {
+    "id": "kierkegaard-finite-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "finite self",
+    "title": "LOST IN THE ORDINARY",
+    "statement": "You can become so recognizable to everyone else that you disappear to yourself.",
+    "explanation": "Anti-Climacus describes the despair of finitude as losing oneself in worldly distinctions. A person becomes another copy of accepted roles, treating social success as a substitute for selfhood.",
+    "nuance": "The target is not ordinary work, family life, or belonging. It is the reduction of the self to what is socially countable: occupation, reputation, rank, and familiar ways of behaving. Nothing in those descriptions need answer the question of how one is becoming a self.\n\nA respected person might avoid every inward risk to remain a safe, recognizable type. Anti-Climacus sees that conformity as a spiritual loss even when it carries rewards. His account demands inwardness without implying that a self can exist independently of other people.",
+    "sources": [
+      "kierkegaard-finite-self-source"
+    ],
+    "metaphor": "A singular uneven outline is replaced by a row of standardized marks; fitting in becomes the disappearance of a self.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "finite self",
+      "variant": "conformity",
+      "composition": {
+        "description": "A singular uneven outline is replaced by a row of standardized marks; fitting in becomes the disappearance of a self.",
+        "actors": [
+          {
+            "id": "singular",
+            "type": "path",
+            "d": "M83 69 Q61 113 87 150 L106 120 L118 165 L137 88 Q126 61 83 69 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "slots",
+            "type": "path",
+            "d": "M168 97 L190 97 L190 166 L168 166 Z M224 98 L246 98 L246 166 L224 166 Z M280 98 L302 98 L302 166 L280 166 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "one more copy",
+            "x": 235,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "finite-self"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 5
+    },
+    "related": [
+      "kierkegaard-defiant-self",
+      "kierkegaard-infinite-self"
+    ]
+  },
+  {
+    "id": "kierkegaard-infinite-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "infinite self",
+    "title": "THE UNLIVED SELF",
+    "statement": "Imagination can become an escape from having to exist here.",
+    "explanation": "The despair of infinitude loses touch with concrete limits. Anti-Climacus describes a self carried away into imagined feelings, knowledge, or projects without returning to its actual life.",
+    "nuance": "Imagination is indispensable to becoming a self; the difficulty is a one-sided expansion that cannot come back. Someone may elaborate a magnificent possible life while neglecting the finite tasks through which any life would become real. More possibility then means less actuality.\n\nThe corrective is not to eliminate imagination or accept every constraint passively. Anti-Climacus wants a synthesis: the self must become concrete while retaining openness. A self cannot be reduced either to a fantasy of unlimited being or to the small inventory of what presently exists.",
+    "sources": [
+      "kierkegaard-infinite-self-source"
+    ],
+    "metaphor": "One rooted path branches into many unfinished futures; the roots fade as branches multiply without becoming a step.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "infinite self",
+      "variant": "possibilities",
+      "composition": {
+        "description": "One rooted path branches into many unfinished futures; the roots fade as branches multiply without becoming a step.",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M199 203 L199 141",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "branches",
+            "type": "path",
+            "d": "M199 141 Q154 109 108 74 M199 141 Q193 90 202 52 M199 141 Q250 112 294 74",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "more",
+            "type": "path",
+            "d": "M149 108 L139 62 M149 108 L79 118 M248 112 L255 51 M248 112 L323 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "none made actual",
+            "x": 200,
+            "y": 227,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "infinite-self"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 6
+    },
+    "related": [
+      "kierkegaard-finite-self",
+      "kierkegaard-unconscious-despair"
+    ]
+  },
+  {
+    "id": "kierkegaard-unconscious-despair",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "unconscious despair",
+    "title": "THE UNASKED QUESTION",
+    "statement": "Not noticing a lack does not establish that nothing is lacking.",
+    "explanation": "Anti-Climacus describes despair that does not know itself as despair. A life can remain absorbed in immediate satisfactions without becoming conscious of the self's deeper task.",
+    "nuance": "The category is uncomfortable because the person's own feeling of contentment is not decisive within this framework. Anti-Climacus measures selfhood by a Christian demand, not by satisfaction. The point should therefore be presented as his religious argument, rather than an objective diagnosis hiding behind philosophy.\n\nWhat can travel beyond that framework is a question: do outward satisfactions settle every question about how one exists? A life can be busy enough to avoid inquiry without proving that inquiry would find nothing important.",
+    "sources": [
+      "kierkegaard-unconscious-despair-source"
+    ],
+    "metaphor": "A complete outer face floats above an unfinished inner outline; outward contentment leaves the inner relation unexamined.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "unconscious despair",
+      "variant": "unnoticed",
+      "composition": {
+        "description": "A complete outer face floats above an unfinished inner outline; outward contentment leaves the inner relation unexamined.",
+        "actors": [
+          {
+            "id": "face",
+            "type": "circle",
+            "x": 197,
+            "y": 93,
+            "r": 30,
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "smile",
+            "type": "path",
+            "d": "M182 98 Q198 112 214 98",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M161 169 Q158 146 177 151 M218 150 Q239 154 231 180 M174 192 L216 192",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "not knowing the lack",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "unconscious-despair"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 7
+    },
+    "related": [
+      "kierkegaard-infinite-self",
+      "kierkegaard-received-self"
+    ]
+  },
+  {
+    "id": "kierkegaard-received-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "received self",
+    "title": "A SELF THAT IS RECEIVED",
+    "statement": "Becoming yourself involves dependence as well as freedom.",
+    "explanation": "Anti-Climacus describes the opposite of despair as willing to be oneself while resting transparently in the power that established the self. In his Christian account, that power is God.",
+    "nuance": "This does not make the self inert. Willing to be oneself remains an activity, while acknowledging that one did not create the conditions of existing. The account joins self-acceptance with responsibility and refuses both self-erasure and the fantasy of absolute independence.\n\nA reader may find philosophical insight in that tension while rejecting the theological foundation. Such a reading is an adaptation. Kierkegaard's religious architecture is not an optional decorative layer that can be removed while leaving all his conclusions unchanged.",
+    "sources": [
+      "kierkegaard-received-self-source"
+    ],
+    "metaphor": "Two ends of a figure's self-relation descend to a support beyond the figure; the figure remains active within this dependence.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "received self",
+      "variant": "ground",
+      "composition": {
+        "description": "Two ends of a figure's self-relation descend to a support beyond the figure; the figure remains active within this dependence.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 198,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M171 109 Q124 153 147 186 M225 109 Q273 155 249 185",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M108 190 Q200 183 290 191",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "received, not invented",
+            "x": 200,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "becoming a self",
+      "received-self"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "kierkegaard-becoming-a-self",
+      "order": 8
+    },
+    "related": [
+      "kierkegaard-unconscious-despair",
+      "kierkegaard-anxiety-freedom"
+    ]
+  },
+  {
+    "id": "kierkegaard-anxiety-freedom",
+    "thinker": "kierkegaard",
+    "collection": "Possibility and anxiety",
+    "concept": "anxiety freedom",
+    "title": "THE OPEN EDGE",
+    "statement": "Possibility can unsettle you before anything has happened.",
+    "explanation": "Vigilius Haufniensis connects anxiety with the awareness of freedom. The unsettling possibility is not only that something may happen to you, but that you may act in a way not yet determined.",
+    "nuance": "The Concept of Anxiety begins within a theological inquiry into hereditary sin. Its influential account of freedom should not be mistaken for a modern clinical account of all anxiety. The philosophical question concerns how a person experiences the openness of what they could do.\n\nAt a ledge, fear may concern falling. Anxiety also involves the disturbing awareness that one could move. That possibility attracts and repels without dictating an action. Haufniensis uses the relationship to explore freedom, rather than to say that dangerous impulses must be followed.",
+    "sources": [
+      "kierkegaard-anxiety-freedom-source"
+    ],
+    "metaphor": "A figure pauses on a ledge; one sightline reaches a hazard while another folds back toward the possibility of choosing.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "anxiety freedom",
+      "variant": "edge",
+      "composition": {
+        "description": "A figure pauses on a ledge; one sightline reaches a hazard while another folds back toward the possibility of choosing.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 157,
+            "y": 129,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0
+            }
+          },
+          {
+            "id": "ledge",
+            "type": "path",
+            "d": "M62 175 L202 175 L204 211",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "down",
+            "type": "path",
+            "d": "M181 119 Q241 133 271 188",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "back",
+            "type": "path",
+            "d": "M181 111 Q222 74 160 58 Q115 80 155 111",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "I could",
+            "x": 281,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "possibility and anxiety",
+      "anxiety-freedom"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "kierkegaard-possibility-and-anxiety",
+      "order": 1
+    },
+    "related": [
+      "kierkegaard-received-self",
+      "kierkegaard-fear-anxiety"
+    ]
+  },
+  {
+    "id": "kierkegaard-fear-anxiety",
+    "thinker": "kierkegaard",
+    "collection": "Possibility and anxiety",
+    "concept": "fear anxiety",
+    "title": "TWO KINDS OF UNEASE",
+    "statement": "Fear can point to something. Anxiety can open onto what is still undetermined.",
+    "explanation": "Haufniensis distinguishes fear of a determinate object from anxiety in the face of possibility. In anxiety, the source of unease need not be a specific danger already standing before you.",
+    "nuance": "Hearing a dog growl gives fear a recognizable object. Confronting an undecided future can produce a different unease: the possibilities are not yet arranged into a thing one can simply avoid. Haufniensis calls this anxiety and links it with the structure of freedom.\n\nThe distinction is philosophical and the book's vocabulary belongs to its nineteenth-century context. Actual experiences of anxiety can include concrete fears, bodily distress, and medical conditions. This card clarifies his distinction without claiming that it replaces other ways of understanding anxiety.",
+    "sources": [
+      "kierkegaard-fear-anxiety-source"
+    ],
+    "metaphor": "A point moves toward an opening while a returning line draws it back; the same possibility attracts and repels.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "fear anxiety",
+      "variant": "attraction",
+      "composition": {
+        "description": "A point moves toward an opening while a returning line draws it back; the same possibility attracts and repels.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M258 58 L300 59 L298 182 L258 180 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "choice",
+            "type": "circle",
+            "x": 136,
+            "y": 126,
+            "r": 9,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "toward",
+            "type": "path",
+            "d": "M152 115 Q198 87 248 113",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "away",
+            "type": "path",
+            "d": "M241 138 Q191 174 149 139",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "drawn · afraid",
+            "x": 200,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "possibility and anxiety",
+      "fear-anxiety"
+    ],
+    "depth": 1,
+    "sequence": {
+      "id": "kierkegaard-possibility-and-anxiety",
+      "order": 2
+    },
+    "related": [
+      "kierkegaard-anxiety-freedom",
+      "kierkegaard-self-relation"
+    ]
+  }
+]
