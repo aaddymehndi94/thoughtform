@@ -7801,60 +7801,201 @@
     "sources": [
       "freud-source-id"
     ],
-    "metaphor": "An irregular force presses against a threshold before any clear outward path has formed.",
+    "metaphor": "An immediate wish reaches toward food before considering ownership, timing or consequences; Freud names this impersonal pressure the id.",
     "scene": {
       "kind": "notebook",
       "caption": "the impersonal demand",
       "variant": "id",
-      "composition": {
-        "description": "An irregular force presses against a threshold before any clear outward path has formed.",
-        "actors": [
+      "lesson": {
+        "description": "An immediate wish reaches toward food before considering ownership, timing or consequences; Freud names this impersonal pressure the id.",
+        "beats": [
           {
-            "id": "door",
-            "type": "path",
-            "d": "M191 55 L194 179 M209 54 L211 178",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "delay": 0,
-              "x": 3
-            }
+            "caption": "Food is available. A wish demands satisfaction now.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 91,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 293,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 199,
+                "y": 38,
+                "text": "NOW",
+                "fontSize": 22,
+                "anchor": "middle"
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M113 133 Q182 97 264 119"
+              }
+            ]
           },
           {
-            "id": "pressure",
-            "type": "path",
-            "d": "M95 155 Q82 103 126 86 Q161 71 182 113 Q161 147 131 140 Q122 108 163 112",
-            "tone": "shade",
-            "motion": {
-              "kind": "pulse",
-              "duration": 12,
-              "delay": 0,
-              "scale": 1.08
-            }
+            "caption": "The demand does not itself consider whether the food belongs to someone else.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 91,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 293,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 199,
+                "y": 38,
+                "text": "NOW",
+                "fontSize": 22,
+                "anchor": "middle"
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M113 133 Q182 97 264 119"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 291,
+                "y": 215,
+                "text": "someone else’s",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "detour",
-            "type": "path",
-            "d": "M166 141 Q183 211 244 190 Q291 171 280 114",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 2
-            }
+            "caption": "Waiting and judging require other parts of the person’s mental life.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 91,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 293,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 199,
+                "y": 38,
+                "text": "NOW",
+                "fontSize": 22,
+                "anchor": "middle"
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M113 133 Q182 97 264 119"
+              },
+              {
+                "id": "pause",
+                "type": "path",
+                "d": "M195 114v57 M208 114v57"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 199,
+                "y": 226,
+                "text": "timing · consequences · standards",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "label",
-            "type": "text",
-            "text": "an insistent demand",
-            "x": 190.65,
-            "y": 215,
-            "motion": {
-              "kind": "reveal",
-              "duration": 12,
-              "delay": 5
-            }
+            "caption": "The id names a pressure, not a little person inside the person.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 91,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 293,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 199,
+                "y": 38,
+                "text": "an impersonal demand",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "reach",
+                "type": "path",
+                "d": "M113 133 Q182 97 264 119"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 199,
+                "y": 226,
+                "text": "one part of Freud’s model",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -7874,106 +8015,114 @@
     ],
     "readingArt": [
       {
-        "description": "a demand / possible action / pressure meets regulation",
+        "description": "A wish for food and a judgment about ownership are different operations in Freud’s model.",
         "actors": [
           {
-            "id": "border",
-            "type": "path",
-            "d": "M195 42 L195 97 M195 145 L195 203",
-            "tone": "normal"
+            "id": "food",
+            "type": "group",
+            "x": 99,
+            "y": 120,
+            "children": [
+              {
+                "id": "cookie",
+                "type": "path",
+                "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+              }
+            ]
           },
           {
-            "id": "gate",
-            "type": "path",
-            "d": "M195 98 L216 122 L195 145",
-            "tone": "normal"
+            "id": "a",
+            "type": "text",
+            "x": 99,
+            "y": 50,
+            "text": "want it now",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "left",
+            "id": "limitframe",
+            "type": "path",
+            "d": "M257 195 v-124 l56 1 v123"
+          },
+          {
+            "id": "limitleaf",
+            "type": "path",
+            "d": "M261 74 h48 v118 h-48 Z"
+          },
+          {
+            "id": "limitknob",
             "type": "circle",
-            "x": 113,
-            "y": 123,
-            "r": 16,
-            "tone": "normal"
+            "x": 296,
+            "y": 133.0,
+            "r": 2
           },
           {
-            "id": "detour",
-            "type": "path",
-            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "b",
             "type": "text",
-            "text": "a demand",
-            "x": 66.88,
-            "y": 78
+            "x": 286,
+            "y": 223,
+            "text": "is it mine to take?",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "a2",
             "type": "text",
-            "text": "possible",
-            "x": 244.2,
-            "y": 68
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "action",
-            "x": 252.9,
-            "y": 88
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "pressure meets regulation",
-            "x": 95.12,
-            "y": 224
+            "x": 99,
+            "y": 223,
+            "text": "immediate demand",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "mental life / ego organization / the division is functional",
+        "description": "The id is a theoretical term for pressures within the person, not a second miniature person directing them.",
         "actors": [
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
-            "tone": "normal"
-          },
-          {
-            "id": "surface",
-            "type": "path",
-            "d": "M122 112 Q194 125 277 111",
-            "tone": "normal"
-          },
-          {
-            "id": "person",
+            "id": "self",
             "type": "figure",
-            "x": 199,
-            "y": 144,
-            "tone": "normal"
+            "x": 200,
+            "y": 145
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "mental life",
-            "x": 158.22,
-            "y": 45
+            "id": "pressure",
+            "type": "group",
+            "x": 250,
+            "y": 157,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "ego organization",
-            "x": 140.71,
-            "y": 70
+            "id": "relation",
+            "type": "path",
+            "d": "M232 140Q243 133 244 149"
           },
           {
-            "id": "label2",
+            "id": "top",
             "type": "text",
-            "text": "the division is functional",
-            "x": 100.69,
-            "y": 227
+            "x": 200,
+            "y": 39,
+            "text": "one person · several operations",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "bottom",
+            "type": "text",
+            "x": 200,
+            "y": 228,
+            "text": "a demand can be impersonal",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -7992,74 +8141,259 @@
     "sources": [
       "freud-source-ego"
     ],
-    "metaphor": "A figure stands between three differently timed lines arriving from desire, obligation and the world.",
+    "metaphor": "A wish to eat must be coordinated with a closed kitchen and an internal rule; a feasible plan mediates the competing demands.",
     "scene": {
       "kind": "notebook",
       "caption": "the negotiator",
       "variant": "ego",
-      "composition": {
-        "description": "A figure stands between three differently timed lines arriving from desire, obligation and the world.",
-        "actors": [
+      "lesson": {
+        "description": "A wish to eat must be coordinated with a closed kitchen and an internal rule; a feasible plan mediates the competing demands.",
+        "beats": [
           {
-            "id": "mediator",
-            "type": "figure",
-            "x": 204,
-            "y": 146,
-            "tone": "normal"
+            "caption": "A person wants food now.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 195,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 73,
+                "y": 133,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 73,
+                "y": 43,
+                "text": "want it now",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M75 147 Q124 144 180 140",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "The outside situation limits what is possible: the kitchen is closed.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 195,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 73,
+                "y": 133,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "kitchenframe",
+                "type": "path",
+                "d": "M289 195 v-130 l53 1 v129"
+              },
+              {
+                "id": "kitchenleaf",
+                "type": "path",
+                "d": "M293 68 h45 v124 h-45 Z"
+              },
+              {
+                "id": "kitchenknob",
+                "type": "circle",
+                "x": 325,
+                "y": 130.0,
+                "r": 2
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 73,
+                "y": 43,
+                "text": "want it now",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "world",
+                "type": "text",
+                "x": 315,
+                "y": 222,
+                "text": "closed",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "right",
-            "type": "path",
-            "d": "M228 140 Q277 146 325 147",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "An internal rule adds another demand: do not take what belongs to others.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 195,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 73,
+                "y": 133,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "kitchenframe",
+                "type": "path",
+                "d": "M289 195 v-130 l53 1 v129"
+              },
+              {
+                "id": "kitchenleaf",
+                "type": "path",
+                "d": "M293 68 h45 v124 h-45 Z"
+              },
+              {
+                "id": "kitchenknob",
+                "type": "circle",
+                "x": 325,
+                "y": 130.0,
+                "r": 2
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 73,
+                "y": 43,
+                "text": "want it now",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 200,
+                "y": 42,
+                "text": "do not take it",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "world",
+                "type": "text",
+                "x": 315,
+                "y": 222,
+                "text": "closed",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "upper",
-            "type": "path",
-            "d": "M204 60 L204 93",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 4
-            }
-          },
-          {
-            "id": "want",
-            "type": "text",
-            "text": "want",
-            "x": 58.94,
-            "y": 119
-          },
-          {
-            "id": "world",
-            "type": "text",
-            "text": "world",
-            "x": 302.62,
-            "y": 119
-          },
-          {
-            "id": "ought",
-            "type": "text",
-            "text": "ought",
-            "x": 184.62,
-            "y": 42
+            "caption": "The ego makes a workable plan: wait, then ask. It does not abolish the wish.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 195,
+                "y": 145
+              },
+              {
+                "id": "food",
+                "type": "group",
+                "x": 73,
+                "y": 133,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "kitchenframe",
+                "type": "path",
+                "d": "M289 195 v-130 l53 1 v129"
+              },
+              {
+                "id": "kitchenleaf",
+                "type": "path",
+                "d": "M293 68 h45 v124 h-45 Z"
+              },
+              {
+                "id": "kitchenknob",
+                "type": "circle",
+                "x": 325,
+                "y": 130.0,
+                "r": 2
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 73,
+                "y": 43,
+                "text": "wish remains",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 200,
+                "y": 42,
+                "text": "ask later",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "world",
+                "type": "text",
+                "x": 315,
+                "y": 222,
+                "text": "outside limit",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "plan",
+                "type": "path",
+                "d": "M147 209 H243"
+              },
+              {
+                "id": "solution",
+                "type": "text",
+                "x": 195,
+                "y": 234,
+                "text": "a negotiated action",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -8079,104 +8413,136 @@
     ],
     "readingArt": [
       {
-        "description": "wish, rule, world / a response / several demands",
+        "description": "An immediate wish, an internal rule and a closed kitchen require a plan rather than a victory of one force.",
         "actors": [
           {
-            "id": "a",
+            "id": "food",
+            "type": "group",
+            "x": 73,
+            "y": 137,
+            "children": [
+              {
+                "id": "cookie",
+                "type": "path",
+                "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+              }
+            ]
+          },
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 199,
+            "y": 145
+          },
+          {
+            "id": "closedframe",
             "type": "path",
-            "d": "M80 72 Q158 68 218 124",
-            "tone": "normal"
+            "d": "M290 198 v-135 l50 1 v134"
+          },
+          {
+            "id": "closedleaf",
+            "type": "path",
+            "d": "M294 66 h42 v129 h-42 Z"
+          },
+          {
+            "id": "closedknob",
+            "type": "circle",
+            "x": 323,
+            "y": 130.5,
+            "r": 2
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 73,
+            "y": 43,
+            "text": "wish",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "path",
-            "d": "M78 123 Q157 124 218 125",
-            "tone": "normal"
+            "type": "text",
+            "x": 201,
+            "y": 43,
+            "text": "ask later",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "c",
-            "type": "path",
-            "d": "M81 177 Q157 181 218 126",
-            "tone": "normal"
-          },
-          {
-            "id": "result",
-            "type": "path",
-            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
             "type": "text",
-            "text": "wish,",
-            "x": 75.25,
-            "y": 34
+            "x": 317,
+            "y": 224,
+            "text": "situation",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "rule, world",
-            "x": 49.15,
-            "y": 54
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "a response",
-            "x": 228.7,
-            "y": 71
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "several demands",
-            "x": 142.6,
-            "y": 219
+            "x": 156,
+            "y": 225,
+            "text": "a workable plan",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "mental life / ego functions / some work stays unconscious",
+        "description": "Conscious choice is one operation of the ego; an unrecognized defense also belongs to Freud’s account.",
         "actors": [
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
-            "tone": "normal"
-          },
-          {
-            "id": "surface",
-            "type": "path",
-            "d": "M122 112 Q194 125 277 111",
-            "tone": "normal"
-          },
-          {
-            "id": "person",
+            "id": "self",
             "type": "figure",
-            "x": 199,
-            "y": 144,
-            "tone": "normal"
+            "x": 88,
+            "y": 145
           },
           {
-            "id": "label0",
+            "id": "choice",
             "type": "text",
-            "text": "mental life",
-            "x": 158.22,
-            "y": 45
+            "x": 93,
+            "y": 38,
+            "text": "I will wait.",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "ego functions",
-            "x": 152.63,
-            "y": 70
+            "id": "screen",
+            "type": "path",
+            "d": "M194 65v130"
           },
           {
-            "id": "label2",
+            "id": "excluded",
+            "type": "group",
+            "x": 288,
+            "y": 134,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ],
+            "tone": "shade"
+          },
+          {
+            "id": "a",
             "type": "text",
-            "text": "some work stays unconscious",
-            "x": 76.95,
-            "y": 227
+            "x": 92,
+            "y": 225,
+            "text": "conscious choice",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 289,
+            "y": 225,
+            "text": "unrecognized defense",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -8195,58 +8561,172 @@
     "sources": [
       "freud-source-superego"
     ],
-    "metaphor": "A ruler descends toward a figure, narrowing the space the figure can occupy.",
+    "metaphor": "A parent’s spoken rule becomes an internal demand that continues after the parent is absent.",
     "scene": {
       "kind": "notebook",
       "caption": "the inherited judge",
       "variant": "superego",
-      "composition": {
-        "description": "A ruler descends toward a figure, narrowing the space the figure can occupy.",
-        "actors": [
+      "lesson": {
+        "description": "A parent’s spoken rule becomes an internal demand that continues after the parent is absent.",
+        "beats": [
           {
-            "id": "self",
-            "type": "figure",
-            "x": 182,
-            "y": 153,
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 3
-            }
+            "caption": "A parent imposes a rule.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 96,
+                "y": 150,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 299,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M144 12 h218 v48 h-193 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 253,
+                "y": 42,
+                "text": "You must never fail.",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "ruler",
-            "type": "path",
-            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 8
-            }
+            "caption": "The parent is absent, but the demand can remain.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 96,
+                "y": 150,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 299,
+                "y": 145,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M144 12 h218 v48 h-193 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 253,
+                "y": 42,
+                "text": "You must never fail.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "transfer",
+                "type": "path",
+                "d": "M226 102 Q171 107 111 126"
+              }
+            ]
           },
           {
-            "id": "thread",
-            "type": "path",
-            "d": "M186 81 L187 107",
-            "tone": "faint"
+            "caption": "The demand now sounds like the person’s own judging voice.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 174,
+                "y": 145
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M36 12 h324 v48 h-299 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 198,
+                "y": 42,
+                "text": "I must never fail.",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "inside",
+                "type": "path",
+                "d": "M141 113 Q166 127 185 114"
+              },
+              {
+                "id": "parent-label",
+                "type": "text",
+                "x": 301,
+                "y": 194,
+                "text": "parent absent",
+                "fontSize": 16,
+                "anchor": "middle",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "ideal",
-            "type": "text",
-            "text": "the demand",
-            "x": 244.31,
-            "y": 53
-          },
-          {
-            "id": "person",
-            "type": "text",
-            "text": "the person",
-            "x": 227.79,
-            "y": 207
+            "caption": "Freud describes internalized authority; its severity can exceed the original rule.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 174,
+                "y": 145
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M36 12 h324 v48 h-299 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "x": 198,
+                "y": 42,
+                "text": "Even a small error is failure.",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "inside",
+                "type": "path",
+                "d": "M141 113 Q166 127 185 114"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 200,
+                "y": 226,
+                "text": "the judgment continues within",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -8266,102 +8746,95 @@
     ],
     "readingArt": [
       {
-        "description": "the internal rule / the person / authority can exceed reason",
+        "description": "External authority can become internal authority, even when the original parent is absent.",
         "actors": [
           {
-            "id": "person",
+            "id": "child",
             "type": "figure",
-            "x": 168,
-            "y": 146,
-            "tone": "normal"
+            "x": 112,
+            "y": 145
+          },
+          {
+            "id": "parent",
+            "type": "figure",
+            "x": 305,
+            "y": 145,
+            "tone": "faint",
+            "facing": true
+          },
+          {
+            "id": "speech",
+            "type": "path",
+            "d": "M32 12 h315 v48 h-290 l-15 16 2-16 h-12 Z"
           },
           {
             "id": "rule",
-            "type": "path",
-            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
-            "tone": "normal"
+            "type": "text",
+            "x": 190,
+            "y": 42,
+            "text": "I must never fail.",
+            "fontSize": 17,
+            "anchor": "middle"
           },
           {
-            "id": "label0",
+            "id": "left",
             "type": "text",
-            "text": "the internal rule",
-            "x": 113.75,
-            "y": 42
+            "x": 112,
+            "y": 225,
+            "text": "internal judgment",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
+            "id": "right",
             "type": "text",
-            "text": "the person",
-            "x": 220.24,
-            "y": 160
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "authority can exceed reason",
-            "x": 66.81,
-            "y": 224
+            "x": 305,
+            "y": 225,
+            "text": "parent absent",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "a passing wish / an outward action / judgment may conflate them",
+        "description": "A mild original rule can become a much harsher internal demand.",
         "actors": [
           {
-            "id": "divider",
+            "id": "a",
+            "type": "text",
+            "x": 200,
+            "y": 73,
+            "text": "Try to do your work well.",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "rule",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M61 94h279"
           },
           {
-            "id": "left",
+            "id": "b",
+            "type": "text",
+            "x": 200,
+            "y": 155,
+            "text": "A single mistake makes me worthless.",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "weight",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M117 176h163l16 22H101Z"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "a passing",
-            "x": 76.85,
-            "y": 69
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "wish",
-            "x": 97.13,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "an outward",
-            "x": 238.5,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "action",
-            "x": 255.9,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "judgment may conflate them",
-            "x": 78.11,
-            "y": 217
+            "x": 200,
+            "y": 232,
+            "text": "the internal demand may intensify",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -8380,70 +8853,202 @@
     "sources": [
       "freud-source-ego-ideal"
     ],
-    "metaphor": "A measuring line stays above a figure even as the figure tries to rise toward it.",
+    "metaphor": "A person measures their work against an ideal; the ideal can guide improvements or move upward so every achievement remains insufficient.",
     "scene": {
       "kind": "notebook",
       "caption": "the standard above",
       "variant": "ego-ideal",
-      "composition": {
-        "description": "A measuring line stays above a figure even as the figure tries to rise toward it.",
-        "actors": [
+      "lesson": {
+        "description": "A person measures their work against an ideal; the ideal can guide improvements or move upward so every achievement remains insufficient.",
+        "beats": [
           {
-            "id": "actual",
-            "type": "figure",
-            "x": 130,
-            "y": 145,
-            "tone": "normal"
+            "caption": "An ideal provides a standard for the person’s work.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "ruler",
+                "type": "path",
+                "d": "M223 48v149m-8-140h16m-16 28h16m-16 28h16m-16 28h16m-16 28h16"
+              },
+              {
+                "id": "standard",
+                "type": "path",
+                "d": "M207 93h101"
+              },
+              {
+                "id": "ideal",
+                "type": "text",
+                "x": 312,
+                "y": 80,
+                "text": "ideal",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M128 164h54v34h-54Z"
+              },
+              {
+                "id": "actual",
+                "type": "text",
+                "x": 154,
+                "y": 225,
+                "text": "actual work",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "ideal",
-            "type": "figure",
-            "x": 275,
-            "y": 113,
-            "tone": "faint"
+            "caption": "The person improves the work and approaches the standard.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "ruler",
+                "type": "path",
+                "d": "M223 48v149m-8-140h16m-16 28h16m-16 28h16m-16 28h16m-16 28h16"
+              },
+              {
+                "id": "standard",
+                "type": "path",
+                "d": "M207 93h101"
+              },
+              {
+                "id": "ideal",
+                "type": "text",
+                "x": 312,
+                "y": 80,
+                "text": "ideal",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M128 107h54v91h-54Z"
+              },
+              {
+                "id": "actual",
+                "type": "text",
+                "x": 154,
+                "y": 225,
+                "text": "closer",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "comparison",
-            "type": "path",
-            "d": "M158 111 Q203 99 246 82",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "But an ideal can rise as the work improves.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "ruler",
+                "type": "path",
+                "d": "M223 48v149m-8-140h16m-16 28h16m-16 28h16m-16 28h16m-16 28h16"
+              },
+              {
+                "id": "standard",
+                "type": "path",
+                "d": "M207 53h101"
+              },
+              {
+                "id": "ideal",
+                "type": "text",
+                "x": 312,
+                "y": 40,
+                "text": "higher still",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M128 107h54v91h-54Z"
+              },
+              {
+                "id": "actual",
+                "type": "text",
+                "x": 154,
+                "y": 225,
+                "text": "still insufficient",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "standard",
-            "type": "path",
-            "d": "M238 45 L309 46",
-            "tone": "faint"
-          },
-          {
-            "id": "actual-label",
-            "type": "text",
-            "text": "actual",
-            "x": 104.2,
-            "y": 209
-          },
-          {
-            "id": "ideal-label",
-            "type": "text",
-            "text": "ideal",
-            "x": 253.5,
-            "y": 209
-          },
-          {
-            "id": "gap-label",
-            "type": "text",
-            "text": "a measuring relation",
-            "x": 119.0,
-            "y": 225,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "The useful question is how the person’s ideal functions: guidance or relentless judgment.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "ruler",
+                "type": "path",
+                "d": "M223 48v149m-8-140h16m-16 28h16m-16 28h16m-16 28h16m-16 28h16"
+              },
+              {
+                "id": "standard",
+                "type": "path",
+                "d": "M207 53h101"
+              },
+              {
+                "id": "ideal",
+                "type": "text",
+                "x": 310,
+                "y": 84,
+                "text": "guidance?",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "ideal2",
+                "type": "text",
+                "x": 310,
+                "y": 119,
+                "text": "judgment?",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M128 107h54v91h-54Z"
+              },
+              {
+                "id": "actual",
+                "type": "text",
+                "x": 154,
+                "y": 225,
+                "text": "an achievement remains",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -8463,99 +9068,90 @@
     ],
     "readingArt": [
       {
-        "description": "an ideal image / actual experience / the measuring relation",
+        "description": "An ideal may guide successive improvements when the standard stays reachable.",
         "actors": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 168,
-            "y": 146,
-            "tone": "normal"
-          },
-          {
-            "id": "rule",
+            "id": "base",
             "type": "path",
-            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
-            "tone": "normal"
+            "d": "M59 190h282"
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "an ideal image",
-            "x": 119.65,
-            "y": 42
+            "id": "a",
+            "type": "path",
+            "d": "M75 149h52v41H75Z"
           },
           {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "actual",
-            "x": 239.9,
-            "y": 150
+            "id": "b",
+            "type": "path",
+            "d": "M170 115h52v75h-52Z"
           },
           {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "experience",
-            "x": 222.5,
-            "y": 170
+            "id": "c",
+            "type": "path",
+            "d": "M265 87h52v103H265Z"
           },
           {
-            "id": "label2",
+            "id": "ideal",
+            "type": "path",
+            "d": "M60 79h279",
+            "dashed": true
+          },
+          {
+            "id": "label",
             "type": "text",
-            "text": "the measuring relation",
-            "x": 92.73,
-            "y": 224
+            "x": 200,
+            "y": 44,
+            "text": "a guiding standard",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "bottom",
+            "type": "text",
+            "x": 200,
+            "y": 225,
+            "text": "improvement changes the relation",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "one standard / guides effort / makes limits shameful",
+        "description": "When the ideal rises with every improvement, the person’s actual achievement remains below it.",
         "actors": [
           {
-            "id": "trunk",
+            "id": "base",
             "type": "path",
-            "d": "M78 122 Q118 119 154 122",
-            "tone": "normal"
+            "d": "M55 196h288"
           },
           {
-            "id": "upper",
+            "id": "a",
             "type": "path",
-            "d": "M154 122 Q206 63 306 73",
-            "tone": "normal"
+            "d": "M76 148h52v48H76Z"
           },
           {
-            "id": "lower",
+            "id": "b",
             "type": "path",
-            "d": "M154 123 Q210 188 306 177",
-            "tone": "normal"
+            "d": "M171 110h52v86H171Z"
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "one standard",
-            "x": 34.19,
-            "y": 96
+            "id": "c",
+            "type": "path",
+            "d": "M267 75h52v121H267Z"
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "guides effort",
-            "x": 219.15,
-            "y": 47
+            "id": "ideals",
+            "type": "path",
+            "d": "M73 108h58 M168 71h58 M264 36h58"
           },
           {
-            "id": "label2-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "makes limits",
-            "x": 223.8,
-            "y": 208
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "shameful",
-            "x": 241.2,
-            "y": 228
+            "x": 200,
+            "y": 226,
+            "text": "the gap keeps being recreated",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -8574,55 +9170,187 @@
     "sources": [
       "freud-source-unconscious-ego"
     ],
-    "metaphor": "A visible figure sits within a larger faint field; a moving boundary inside the field acts without the figure moving.",
+    "metaphor": "A thought is blocked by a defense outside the person’s awareness; unconscious mental activity is therefore not confined to the id.",
     "scene": {
       "kind": "notebook",
       "caption": "unaware of the defense",
       "variant": "unconscious-ego",
-      "composition": {
-        "description": "A visible figure sits within a larger faint field; a moving boundary inside the field acts without the figure moving.",
-        "actors": [
+      "lesson": {
+        "description": "A thought is blocked by a defense outside the person’s awareness; unconscious mental activity is therefore not confined to the id.",
+        "beats": [
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M118 97 Q125 49 198 48 Q283 48 288 112 Q294 181 229 197 Q144 214 119 157 Z",
-            "tone": "faint"
+            "caption": "A person tries to recall a particular subject.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "subject",
+                "type": "path",
+                "d": "M265 79 l94 1 -1 75 -93 -1 Z"
+              },
+              {
+                "id": "memory",
+                "type": "text",
+                "x": 312,
+                "y": 123,
+                "text": "a memory",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 95,
+                "y": 37,
+                "text": "Why can’t I say it?",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "inner",
-            "type": "path",
-            "d": "M126 107 Q162 93 194 111 Q220 127 246 110 L270 116",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "An excluding process blocks access.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "subject",
+                "type": "path",
+                "d": "M265 79 l94 1 -1 75 -93 -1 Z"
+              },
+              {
+                "id": "memory",
+                "type": "text",
+                "x": 312,
+                "y": 123,
+                "text": "a memory",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "gate",
+                "type": "path",
+                "d": "M190 64v131 M178 84h24m-24 21h24m-24 21h24m-24 21h24m-24 21h24"
+              },
+              {
+                "id": "attempt",
+                "type": "path",
+                "d": "M120 122h56"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 95,
+                "y": 37,
+                "text": "a blank",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "fig",
-            "type": "figure",
-            "x": 202,
-            "y": 139,
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": -3
-            }
+            "caption": "The person may recognize neither the excluded thought nor the defense.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "subject",
+                "type": "path",
+                "d": "M265 79 l94 1 -1 75 -93 -1 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "memory",
+                "type": "text",
+                "x": 312,
+                "y": 123,
+                "text": "excluded",
+                "fontSize": 16,
+                "anchor": "middle",
+                "tone": "faint"
+              },
+              {
+                "id": "gate",
+                "type": "path",
+                "d": "M190 64v131 M178 84h24m-24 21h24m-24 21h24m-24 21h24m-24 21h24",
+                "tone": "shade"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 94,
+                "y": 37,
+                "text": "unrecognized defense",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "label",
-            "type": "text",
-            "text": "part of a larger field",
-            "x": 135.04,
-            "y": 224,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "For Freud, the ego includes unconscious operations as well as conscious choices.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 92,
+                "y": 145
+              },
+              {
+                "id": "subject",
+                "type": "path",
+                "d": "M265 79 l94 1 -1 75 -93 -1 Z",
+                "tone": "faint"
+              },
+              {
+                "id": "memory",
+                "type": "text",
+                "x": 312,
+                "y": 123,
+                "text": "excluded",
+                "fontSize": 16,
+                "anchor": "middle",
+                "tone": "faint"
+              },
+              {
+                "id": "gate",
+                "type": "path",
+                "d": "M190 64v131 M178 84h24m-24 21h24m-24 21h24m-24 21h24m-24 21h24"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 200,
+                "y": 37,
+                "text": "unconscious ego activity",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "distinction",
+                "type": "text",
+                "x": 200,
+                "y": 229,
+                "text": "unconscious ≠ only the id",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -8642,108 +9370,110 @@
     ],
     "readingArt": [
       {
-        "description": "mental life / ego organization / awareness is another dimension",
+        "description": "Both the excluded memory and the mechanism that blocks it can be outside awareness.",
         "actors": [
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
-            "tone": "normal"
-          },
-          {
-            "id": "surface",
-            "type": "path",
-            "d": "M122 112 Q194 125 277 111",
-            "tone": "normal"
-          },
-          {
-            "id": "person",
+            "id": "self",
             "type": "figure",
-            "x": 199,
-            "y": 144,
-            "tone": "normal"
+            "x": 83,
+            "y": 145
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "mental life",
-            "x": 158.22,
-            "y": 45
+            "id": "gate",
+            "type": "path",
+            "d": "M187 63v123m-12-103h24m-24 24h24m-24 24h24m-24 24h24"
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "ego organization",
-            "x": 140.71,
-            "y": 70
+            "id": "memory",
+            "type": "path",
+            "d": "M269 81 l87 1 -1 66 -86 -1 Z"
           },
           {
-            "id": "label2",
+            "id": "word",
             "type": "text",
-            "text": "awareness is another dimension",
-            "x": 68.05,
-            "y": 227
+            "x": 313,
+            "y": 121,
+            "text": "memory",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "gate-label",
+            "type": "text",
+            "x": 186,
+            "y": 218,
+            "text": "defense",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "memory-label",
+            "type": "text",
+            "x": 308,
+            "y": 240,
+            "text": "excluded content",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "which function? / available to awareness? / two different questions",
+        "description": "Being unconscious is a quality of an operation, not the name of just one structural agency.",
         "actors": [
           {
-            "id": "divider",
+            "id": "ego",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M30 78 l146 1 -1 94 -145 -1 Z"
           },
           {
-            "id": "left",
+            "id": "id",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M225 78 l146 1 -1 94 -145 -1 Z"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "a",
             "type": "text",
-            "text": "which",
-            "x": 94.25,
-            "y": 69
+            "x": 103,
+            "y": 106,
+            "text": "ego",
+            "fontSize": 18,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "b",
             "type": "text",
-            "text": "function?",
-            "x": 76.85,
-            "y": 89
+            "x": 103,
+            "y": 147,
+            "text": "defense",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "c",
             "type": "text",
-            "text": "available to",
-            "x": 229.8,
-            "y": 69
+            "x": 298,
+            "y": 106,
+            "text": "id",
+            "fontSize": 18,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line1",
+            "id": "d",
             "type": "text",
-            "text": "awareness?",
-            "x": 238.5,
-            "y": 89
+            "x": 298,
+            "y": 147,
+            "text": "wish",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label2",
+            "id": "bottom",
             "type": "text",
-            "text": "two different questions",
-            "x": 101.79,
-            "y": 217
+            "x": 200,
+            "y": 220,
+            "text": "both can operate outside awareness",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -8762,57 +9492,183 @@
     "sources": [
       "freud-source-preconscious"
     ],
-    "metaphor": "A small idea crosses an open threshold when attention reaches it.",
+    "metaphor": "A person’s address is not currently in attention but becomes available when asked, unlike a subject whose access remains blocked.",
     "scene": {
       "kind": "notebook",
       "caption": "within reach",
       "variant": "preconscious",
-      "composition": {
-        "description": "A small idea crosses an open threshold when attention reaches it.",
-        "actors": [
+      "lesson": {
+        "description": "A person’s address is not currently in attention but becomes available when asked, unlike a subject whose access remains blocked.",
+        "beats": [
           {
-            "id": "wall",
-            "type": "path",
-            "d": "M194 43 L193 99 M193 151 L194 210",
-            "tone": "normal"
+            "caption": "You are thinking about lunch, not your address.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 86,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "path",
+                "d": "M146 49 h212 v62 h-187 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "lunch",
+                "type": "text",
+                "x": 252,
+                "y": 85,
+                "text": "What shall I eat?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M167 154h173v41H167Z M231 173h40"
+              },
+              {
+                "id": "stored",
+                "type": "text",
+                "x": 252,
+                "y": 226,
+                "text": "available memory",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "gate",
-            "type": "path",
-            "d": "M193 101 L213 131 L193 153",
-            "tone": "normal",
-            "motion": {
-              "kind": "turn",
-              "duration": 14,
-              "delay": 0,
-              "angle": -32
-            }
+            "caption": "A question changes attention: “What is your address?”",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 86,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "path",
+                "d": "M146 49 h212 v62 h-187 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "lunch",
+                "type": "text",
+                "x": 252,
+                "y": 85,
+                "text": "Your address?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M167 154h173v41H167Z M231 173h40"
+              },
+              {
+                "id": "stored",
+                "type": "text",
+                "x": 252,
+                "y": 226,
+                "text": "within reach",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "idea",
-            "type": "circle",
-            "x": 139,
-            "y": 126,
-            "r": 10,
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "delay": 0,
-              "x": 122
-            }
+            "caption": "The memory becomes conscious without overcoming a defensive barrier.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 86,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "path",
+                "d": "M146 49 h212 v62 h-187 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "lunch",
+                "type": "text",
+                "x": 252,
+                "y": 85,
+                "text": "12 Oak Street.",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M167 173h173v41H167Z M231 192h40"
+              },
+              {
+                "id": "card",
+                "type": "path",
+                "d": "M218 138h78v40h-78Z"
+              },
+              {
+                "id": "stored",
+                "type": "text",
+                "x": 252,
+                "y": 239,
+                "text": "now in attention",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "word",
-            "type": "text",
-            "text": "available",
-            "x": 255.64,
-            "y": 188,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "Preconscious means accessible, not continuously present in awareness.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 86,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "path",
+                "d": "M146 49 h212 v62 h-187 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "lunch",
+                "type": "text",
+                "x": 252,
+                "y": 85,
+                "text": "12 Oak Street.",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M167 173h173v41H167Z M231 192h40"
+              },
+              {
+                "id": "card",
+                "type": "path",
+                "d": "M218 138h78v40h-78Z"
+              },
+              {
+                "id": "stored",
+                "type": "text",
+                "x": 252,
+                "y": 239,
+                "text": "accessible when attention turns",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -8832,113 +9688,96 @@
     ],
     "readingArt": [
       {
-        "description": "not attended / a prompt / recalled",
+        "description": "An address moves from available memory to present attention when the person is asked.",
         "actors": [
           {
-            "id": "a",
+            "id": "drawer",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M52 113h114v69H52Z M89 145h40"
+          },
+          {
+            "id": "speech",
+            "type": "path",
+            "d": "M227 68 h145 v75 h-120 l-15 16 2-16 h-12 Z"
+          },
+          {
+            "id": "address",
+            "type": "text",
+            "x": 299,
+            "y": 110,
+            "text": "12 Oak Street.",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 108,
+            "y": 228,
+            "text": "available",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "c",
-            "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
             "type": "text",
-            "text": "not attended",
-            "x": 43.83,
-            "y": 85
+            "x": 299,
+            "y": 228,
+            "text": "in attention",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "a prompt",
-            "x": 162.23,
-            "y": 194
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "recalled",
-            "x": 268.57,
-            "y": 85
+            "id": "connection",
+            "type": "path",
+            "d": "M166 143 Q204 152 229 129"
           }
         ]
       },
       {
-        "description": "available material / defended-against material / unnoticed does not mean repressed",
+        "description": "An ordinary available memory and a defended subject differ in the conditions of access.",
         "actors": [
           {
-            "id": "divider",
+            "id": "drawer",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M47 81h107v90H47Z M78 119h45"
           },
           {
-            "id": "left",
+            "id": "a",
+            "type": "text",
+            "x": 99,
+            "y": 217,
+            "text": "accessible",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "screen",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M231 57v120m-12-97h24m-24 23h24m-24 23h24m-24 23h24"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
+            "id": "memory",
+            "type": "path",
+            "d": "M281 88 l74 1 -1 56 -73 -1 Z"
           },
           {
-            "id": "label0-line0",
+            "id": "b",
             "type": "text",
-            "text": "available",
-            "x": 79.65,
-            "y": 69
+            "x": 296,
+            "y": 217,
+            "text": "access blocked",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "top",
             "type": "text",
-            "text": "material",
-            "x": 81.2,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "defended-against",
-            "x": 207.95,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "material",
-            "x": 242.75,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "unnoticed does not mean repressed",
-            "x": 46.97,
-            "y": 217
+            "x": 200,
+            "y": 35,
+            "text": "different reasons for not thinking of it",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -8957,89 +9796,163 @@
     "sources": [
       "freud-source-body-ego"
     ],
-    "metaphor": "A figure appears inside an uneven boundary whose line gradually becomes perceptible.",
+    "metaphor": "Contact with a surface is felt as bodily contact and as a boundary between the person and the surrounding world.",
     "scene": {
       "kind": "notebook",
       "caption": "a self with an edge",
       "variant": "body-ego",
-      "composition": {
-        "description": "A figure appears inside an uneven boundary whose line gradually becomes perceptible.",
-        "actors": [
+      "lesson": {
+        "description": "Contact with a surface is felt as bodily contact and as a boundary between the person and the surrounding world.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 205,
-            "y": 144,
-            "tone": "normal"
+            "caption": "A hand meets a surface.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "arm",
+                "type": "path",
+                "d": "M45 181 L112 139 147 109 Q165 95 177 107 L181 118 155 142 Q169 144 176 137 L187 145 Q190 158 171 168 L146 177 83 216"
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M194 49v160"
+              },
+              {
+                "id": "contact-label",
+                "type": "text",
+                "x": 283,
+                "y": 106,
+                "text": "contact",
+                "fontSize": 18,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "boundary",
-            "type": "path",
-            "d": "M176 70 Q218 63 232 98 L238 154 Q227 190 197 190 Q161 183 165 142 L165 102 Q163 86 176 70",
-            "tone": "faint",
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "delay": 0,
-              "scale": 1.035
-            }
+            "caption": "The same contact is perceived from outside and felt from within.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "arm",
+                "type": "path",
+                "d": "M45 181 L112 139 147 109 Q165 95 177 107 L181 118 155 142 Q169 144 176 137 L187 145 Q190 158 171 168 L146 177 83 216"
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M194 49v160"
+              },
+              {
+                "id": "touch",
+                "type": "path",
+                "d": "M159 114q12 14 0 28 M166 106q18 21 0 47"
+              },
+              {
+                "id": "inside",
+                "type": "text",
+                "x": 82,
+                "y": 77,
+                "text": "felt",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 278,
+                "y": 106,
+                "text": "perceived",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "touch",
-            "type": "path",
-            "d": "M82 123 Q117 117 157 123",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "A bodily edge gives a sense of here and there, self and surrounding.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "arm",
+                "type": "path",
+                "d": "M45 181 L112 139 147 109 Q165 95 177 107 L181 118 155 142 Q169 144 176 137 L187 145 Q190 158 171 168 L146 177 83 216"
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M194 49v160"
+              },
+              {
+                "id": "inside",
+                "type": "text",
+                "x": 93,
+                "y": 77,
+                "text": "my body",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 282,
+                "y": 106,
+                "text": "the surface",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "contact-label",
+                "type": "text",
+                "x": 200,
+                "y": 233,
+                "text": "an experienced boundary",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "contact",
-            "type": "circle",
-            "x": 165,
-            "y": 123,
-            "r": 5,
-            "tone": "normal",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
-          },
-          {
-            "id": "sensation",
-            "type": "circle",
-            "x": 165,
-            "y": 123,
-            "r": 12,
-            "tone": "normal",
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "delay": 2,
-              "scale": 1.12
-            }
-          },
-          {
-            "id": "outside",
-            "type": "text",
-            "text": "from outside",
-            "x": 51.2,
-            "y": 89
-          },
-          {
-            "id": "edge",
-            "type": "text",
-            "text": "a felt edge",
-            "x": 189.85,
-            "y": 218,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "Freud calls the ego bodily: its sense of self develops through such experiences.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "arm",
+                "type": "path",
+                "d": "M45 181 L112 139 147 109 Q165 95 177 107 L181 118 155 142 Q169 144 176 137 L187 145 Q190 158 171 168 L146 177 83 216"
+              },
+              {
+                "id": "wall",
+                "type": "path",
+                "d": "M194 49v160"
+              },
+              {
+                "id": "inside",
+                "type": "text",
+                "x": 93,
+                "y": 77,
+                "text": "felt from within",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 282,
+                "y": 106,
+                "text": "known from outside",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "contact-label",
+                "type": "text",
+                "x": 200,
+                "y": 233,
+                "text": "a bodily sense of self",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -9059,107 +9972,94 @@
     ],
     "readingArt": [
       {
-        "description": "bodily field / a sensed boundary / inside and outside",
+        "description": "Touching an object gives both a felt bodily contact and a perception of an external surface.",
         "actors": [
           {
-            "id": "outer",
+            "id": "hand",
             "type": "path",
-            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
-            "tone": "normal"
+            "d": "M50 167L129 109q32-23 39 0l9 34-25 24-55 20"
           },
           {
             "id": "surface",
             "type": "path",
-            "d": "M122 112 Q194 125 277 111",
-            "tone": "normal"
+            "d": "M181 48v155"
           },
           {
-            "id": "person",
-            "type": "figure",
-            "x": 199,
-            "y": 144,
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "a",
             "type": "text",
-            "text": "bodily field",
-            "x": 155.44,
-            "y": 45
+            "x": 85,
+            "y": 66,
+            "text": "felt contact",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
+            "id": "b",
             "type": "text",
-            "text": "a sensed boundary",
-            "x": 129.28,
-            "y": 70
+            "x": 277,
+            "y": 126,
+            "text": "external surface",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label2",
+            "id": "bottom",
             "type": "text",
-            "text": "inside and outside",
-            "x": 125.44,
-            "y": 227
+            "x": 200,
+            "y": 233,
+            "text": "the body is experienced at its edge",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "the body sensed / the sensing body / a double position",
+        "description": "A bodily sense of here and there is an experienced relation, not a sharply drawn psychological wall.",
         "actors": [
           {
-            "id": "a",
+            "id": "self",
             "type": "figure",
-            "x": 103,
-            "y": 142,
-            "tone": "normal"
+            "x": 162,
+            "y": 145
+          },
+          {
+            "id": "surround",
+            "type": "path",
+            "d": "M120 56 Q78 117 118 197",
+            "dashed": true
+          },
+          {
+            "id": "surround-right",
+            "type": "path",
+            "d": "M206 56 Q254 117 210 197",
+            "dashed": true
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 88,
+            "y": 37,
+            "text": "here",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "figure",
-            "x": 294,
-            "y": 143,
-            "tone": "normal"
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M127 105 Q198 65 270 107",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
             "type": "text",
-            "text": "the body",
-            "x": 66.2,
-            "y": 208
+            "x": 293,
+            "y": 125,
+            "text": "there",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "sensed",
-            "x": 74.9,
-            "y": 228
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "the sensing",
-            "x": 246.15,
-            "y": 208
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "body",
-            "x": 276.6,
-            "y": 228
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "a double position",
-            "x": 124.79,
-            "y": 61
+            "x": 200,
+            "y": 230,
+            "text": "self in relation to surroundings",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -9178,63 +10078,180 @@
     "sources": [
       "freud-source-identification"
     ],
-    "metaphor": "A line passes from one figure to another and leaves an irregular trace within the second.",
+    "metaphor": "A child takes on a parent’s characteristic stance; after the parent leaves, part of the relationship remains in the child’s manner.",
     "scene": {
       "kind": "notebook",
       "caption": "the other within",
       "variant": "identification",
-      "composition": {
-        "description": "A line passes from one figure to another and leaves an irregular trace within the second.",
-        "actors": [
+      "lesson": {
+        "description": "A child takes on a parent’s characteristic stance; after the parent leaves, part of the relationship remains in the child’s manner.",
+        "beats": [
           {
-            "id": "earlier",
-            "type": "figure",
-            "x": 103,
-            "y": 133,
-            "tone": "faint"
+            "caption": "A relationship offers a pattern to take in.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 103,
+                "y": 151,
+                "pose": {
+                  "scale": 0.72
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 293,
+                "y": 145,
+                "pose": {
+                  "rotate": -9
+                },
+                "facing": true
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 103,
+                "y": 224,
+                "text": "child",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 293,
+                "y": 224,
+                "text": "parent",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "present",
-            "type": "figure",
-            "x": 273,
-            "y": 140,
-            "tone": "normal"
+            "caption": "The child begins to take the other’s stance.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 103,
+                "y": 151,
+                "pose": {
+                  "scale": 0.72,
+                  "rotate": -9
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 293,
+                "y": 145,
+                "pose": {
+                  "rotate": -9
+                },
+                "facing": true
+              },
+              {
+                "id": "shared",
+                "type": "path",
+                "d": "M90 70L119 75 M282 55L310 60"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 103,
+                "y": 224,
+                "text": "a familiar manner",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 293,
+                "y": 224,
+                "text": "the model",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "trace",
-            "type": "path",
-            "d": "M132 103 Q188 58 245 104",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "The other person leaves. Their pattern remains in the child.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 152,
+                "y": 148,
+                "pose": {
+                  "rotate": -9
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 321,
+                "y": 145,
+                "pose": {
+                  "rotate": -9
+                },
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "shared",
+                "type": "path",
+                "d": "M139 58L168 63"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 152,
+                "y": 224,
+                "text": "carried within",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "interior",
-            "type": "path",
-            "d": "M263 122 Q286 114 291 136 Q281 153 264 143 Z",
-            "tone": "shade",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
-          },
-          {
-            "id": "before",
-            "type": "text",
-            "text": "an attachment",
-            "x": 53.29,
-            "y": 206
-          },
-          {
-            "id": "after",
-            "type": "text",
-            "text": "a lasting pattern",
-            "x": 223.76,
-            "y": 212
+            "caption": "For Freud, relationships can help form the ego, beyond conscious imitation.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 152,
+                "y": 148,
+                "pose": {
+                  "rotate": -9
+                }
+              },
+              {
+                "id": "shared",
+                "type": "path",
+                "d": "M139 58L168 63"
+              },
+              {
+                "id": "trace",
+                "type": "path",
+                "d": "M237 60 Q268 56 280 90 Q291 149 271 186",
+                "tone": "faint"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 226,
+                "y": 224,
+                "text": "a relationship leaves a form",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -9254,119 +10271,100 @@
     ],
     "readingArt": [
       {
-        "description": "an earlier attachment / a later pattern / something is taken in",
+        "description": "A characteristic stance can be taken from a relationship and carried after the other person is absent.",
         "actors": [
           {
-            "id": "a",
+            "id": "self",
             "type": "figure",
-            "x": 103,
-            "y": 142,
-            "tone": "normal"
+            "x": 108,
+            "y": 148,
+            "pose": {
+              "rotate": -9
+            }
+          },
+          {
+            "id": "parent",
+            "type": "figure",
+            "x": 299,
+            "y": 148,
+            "pose": {
+              "rotate": -9
+            },
+            "tone": "faint",
+            "facing": true
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 107,
+            "y": 224,
+            "text": "carried manner",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "figure",
-            "x": 294,
-            "y": 143,
-            "tone": "normal"
+            "type": "text",
+            "x": 297,
+            "y": 224,
+            "text": "the other absent",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "link",
+            "id": "trace",
             "type": "path",
-            "d": "M127 105 Q198 65 270 107",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
-            "type": "text",
-            "text": "an earlier",
-            "x": 57.5,
-            "y": 208
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "attachment",
-            "x": 57.5,
-            "y": 228
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "a later pattern",
-            "x": 234.05,
-            "y": 207
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "something is taken in",
-            "x": 109.02,
-            "y": 61
+            "d": "M96 58l30 5m162-5 30 5"
           }
         ]
       },
       {
-        "description": "several identifications / one developing ego / the traces can conflict",
+        "description": "Identification can shape the person’s character beyond consciously copying a single action.",
         "actors": [
           {
-            "id": "a",
+            "id": "self",
+            "type": "figure",
+            "x": 195,
+            "y": 145
+          },
+          {
+            "id": "trace-a",
             "type": "path",
-            "d": "M80 72 Q158 68 218 124",
-            "tone": "normal"
+            "d": "M126 50 Q101 143 135 191",
+            "tone": "faint"
+          },
+          {
+            "id": "trace-b",
+            "type": "path",
+            "d": "M263 50 Q290 143 256 191",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 91,
+            "y": 223,
+            "text": "relationships",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "path",
-            "d": "M78 123 Q157 124 218 125",
-            "tone": "normal"
-          },
-          {
-            "id": "c",
-            "type": "path",
-            "d": "M81 177 Q157 181 218 126",
-            "tone": "normal"
-          },
-          {
-            "id": "result",
-            "type": "path",
-            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
             "type": "text",
-            "text": "several",
-            "x": 71.82,
-            "y": 34
+            "x": 299,
+            "y": 223,
+            "text": "character",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "top",
             "type": "text",
-            "text": "identifications",
-            "x": 37.02,
-            "y": 54
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "one",
-            "x": 261.95,
-            "y": 61
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "developing ego",
-            "x": 214.1,
-            "y": 81
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the traces can conflict",
-            "x": 118.73,
-            "y": 219
+            "x": 200,
+            "y": 35,
+            "text": "a form taken into the ego",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -9385,63 +10383,160 @@
     "sources": [
       "freud-source-unconscious-guilt"
     ],
-    "metaphor": "A figure sits beneath a descending measure; the name of the supposed offense never appears.",
+    "metaphor": "A person’s work improves but improvement evokes a need for punishment without a clear accusation; Freud investigates an unconscious demand from the superego.",
     "scene": {
       "kind": "notebook",
       "caption": "punishment without a verdict",
       "variant": "unconscious-guilt",
-      "composition": {
-        "description": "A figure sits beneath a descending measure; the name of the supposed offense never appears.",
-        "actors": [
+      "lesson": {
+        "description": "A person’s work improves but improvement evokes a need for punishment without a clear accusation; Freud investigates an unconscious demand from the superego.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 201,
-            "y": 148,
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 4
-            }
+            "caption": "A person’s work improves.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M181 111h152v85H181Z M201 132h111m-111 21h88m-88 21h103"
+              },
+              {
+                "id": "tick",
+                "type": "path",
+                "d": "M203 89l13 12 28-30"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 260,
+                "y": 224,
+                "text": "progress",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "weight",
-            "type": "path",
-            "d": "M163 46 Q200 36 238 45 L230 76 L172 76 Z",
-            "tone": "shade",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 11
-            }
+            "caption": "The improvement can be followed by a new demand for punishment.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M181 111h152v85H181Z M201 132h111m-111 21h88m-88 21h103"
+              },
+              {
+                "id": "weight",
+                "type": "path",
+                "d": "M71 25h49l10 35H61Z"
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 242,
+                "y": 54,
+                "text": "I don’t deserve this.",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "thread",
-            "type": "path",
-            "d": "M201 77 L202 109",
-            "tone": "faint"
+            "caption": "The person cannot state a clear accusation.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "work",
+                "type": "path",
+                "d": "M181 111h152v85H181Z",
+                "tone": "faint"
+              },
+              {
+                "id": "weight",
+                "type": "path",
+                "d": "M71 25h49l10 35H61Z"
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 242,
+                "y": 54,
+                "text": "For what?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "charge",
+                "type": "text",
+                "x": 254,
+                "y": 158,
+                "text": "no clear verdict",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "penalty",
-            "type": "text",
-            "text": "punishment",
-            "x": 159.0,
-            "y": 205
-          },
-          {
-            "id": "question",
-            "type": "text",
-            "text": "for what?",
-            "x": 248.3,
-            "y": 96,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "Freud asks about an unconscious punitive relation, not a proven hidden wrongdoing.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "weight",
+                "type": "path",
+                "d": "M71 25h49l10 35H61Z"
+              },
+              {
+                "id": "demand",
+                "type": "text",
+                "x": 250,
+                "y": 92,
+                "text": "a punitive demand",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "charge",
+                "type": "text",
+                "x": 250,
+                "y": 141,
+                "text": "an unknown accusation",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 200,
+                "y": 226,
+                "text": "a pattern to investigate",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -9461,109 +10556,90 @@
     ],
     "readingArt": [
       {
-        "description": "an inferred demand / felt punishment / the accusation is unclear",
+        "description": "A punitive demand may be clear even when the accusation cannot be named.",
         "actors": [
           {
-            "id": "person",
+            "id": "self",
             "type": "figure",
-            "x": 168,
-            "y": 146,
-            "tone": "normal"
+            "x": 97,
+            "y": 145
           },
           {
-            "id": "rule",
+            "id": "weight",
             "type": "path",
-            "d": "M95 69 L277 68 M116 61 L116 77 M160 60 L160 77 M202 60 L202 77 M244 59 L244 76",
-            "tone": "normal"
+            "d": "M66 25h61l12 35H55Z"
           },
           {
-            "id": "label0",
+            "id": "demand",
             "type": "text",
-            "text": "an inferred demand",
-            "x": 97.26,
-            "y": 42
+            "x": 256,
+            "y": 98,
+            "text": "I deserve punishment.",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "question",
             "type": "text",
-            "text": "felt",
-            "x": 248.6,
-            "y": 150
+            "x": 256,
+            "y": 151,
+            "text": "For what?",
+            "fontSize": 18,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "punishment",
-            "x": 222.5,
-            "y": 170
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the accusation is unclear",
-            "x": 81.48,
-            "y": 224
+            "x": 200,
+            "y": 229,
+            "text": "demand present · verdict unknown",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "conscious remorse / proposed unconscious guilt / different access to the reason",
+        "description": "A setback following improvement can be investigated without concluding that someone consciously chose suffering.",
         "actors": [
           {
-            "id": "divider",
+            "id": "path",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M56 173L133 127 209 83 284 122 342 174"
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
+            "id": "point",
             "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
+            "x": 284,
+            "y": 122,
+            "r": 6,
+            "fill": true
           },
           {
-            "id": "label0-line0",
+            "id": "a",
             "type": "text",
-            "text": "conscious",
-            "x": 76.85,
-            "y": 69
+            "x": 133,
+            "y": 222,
+            "text": "improvement",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "b",
             "type": "text",
-            "text": "remorse",
-            "x": 85.55,
-            "y": 89
+            "x": 307,
+            "y": 222,
+            "text": "setback",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "top",
             "type": "text",
-            "text": "proposed",
-            "x": 238.11,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "unconscious guilt",
-            "x": 198.96,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "different access to the reason",
-            "x": 73.07,
-            "y": 217
+            "x": 200,
+            "y": 39,
+            "text": "a pattern to examine",
+            "fontSize": 17,
+            "anchor": "middle"
           }
         ]
       }
@@ -9582,74 +10658,226 @@
     "sources": [
       "freud-source-three-masters"
     ],
-    "metaphor": "Three lines reach a central figure at different times; the figure shifts slightly without dissolving any line.",
+    "metaphor": "A wish to buy something, an internal demand to save and an actual budget converge on one decision; a compromise cannot satisfy every demand completely.",
     "scene": {
       "kind": "notebook",
       "caption": "the crowded task",
       "variant": "three-masters",
-      "composition": {
-        "description": "Three lines reach a central figure at different times; the figure shifts slightly without dissolving any line.",
-        "actors": [
+      "lesson": {
+        "description": "A wish to buy something, an internal demand to save and an actual budget converge on one decision; a compromise cannot satisfy every demand completely.",
+        "beats": [
           {
-            "id": "mediator",
-            "type": "figure",
-            "x": 204,
-            "y": 146,
-            "tone": "normal"
+            "caption": "A wish asks for immediate enjoyment.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 199,
+                "y": 145
+              },
+              {
+                "id": "wish",
+                "type": "group",
+                "x": 73,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 73,
+                "y": 40,
+                "text": "I want it.",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M75 147 Q124 144 180 140",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "An internal standard asks the person to save.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 199,
+                "y": 145
+              },
+              {
+                "id": "wish",
+                "type": "group",
+                "x": 73,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 73,
+                "y": 40,
+                "text": "I want it.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 202,
+                "y": 39,
+                "text": "I should save.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "savings",
+                "type": "path",
+                "d": "M183 50h38v16h-38Z M190 59h24"
+              }
+            ]
           },
           {
-            "id": "right",
-            "type": "path",
-            "d": "M228 140 Q277 146 325 147",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "Reality adds a limited budget.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 199,
+                "y": 145
+              },
+              {
+                "id": "wish",
+                "type": "group",
+                "x": 73,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ]
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 73,
+                "y": 40,
+                "text": "I want it.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 202,
+                "y": 39,
+                "text": "I should save.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "savings",
+                "type": "path",
+                "d": "M183 50h38v16h-38Z M190 59h24"
+              },
+              {
+                "id": "wallet",
+                "type": "path",
+                "d": "M281 87h69v59h-69Z M324 104h35v25h-35Z"
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 315,
+                "y": 186,
+                "text": "a fixed budget",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "upper",
-            "type": "path",
-            "d": "M204 60 L204 93",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 4
-            }
-          },
-          {
-            "id": "want",
-            "type": "text",
-            "text": "want",
-            "x": 58.94,
-            "y": 119
-          },
-          {
-            "id": "world",
-            "type": "text",
-            "text": "world",
-            "x": 302.62,
-            "y": 119
-          },
-          {
-            "id": "ought",
-            "type": "text",
-            "text": "ought",
-            "x": 184.62,
-            "y": 42
+            "caption": "A smaller purchase is workable; the wish and the standard may both be disappointed.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 199,
+                "y": 145
+              },
+              {
+                "id": "wish",
+                "type": "group",
+                "x": 73,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cookie",
+                    "type": "path",
+                    "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.55
+                }
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 73,
+                "y": 40,
+                "text": "less pleasure",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 202,
+                "y": 39,
+                "text": "less saving",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "wallet",
+                "type": "path",
+                "d": "M281 87h69v59h-69Z M324 104h35v25h-35Z"
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 315,
+                "y": 186,
+                "text": "within budget",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 200,
+                "y": 231,
+                "text": "a compromise, not total agreement",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -9669,120 +10897,124 @@
     ],
     "readingArt": [
       {
-        "description": "three demands / one choice / agreement is not guaranteed",
+        "description": "A limited budget changes the relation between a wish to spend and an internal rule to save.",
         "actors": [
           {
+            "id": "wish",
+            "type": "group",
+            "x": 71,
+            "y": 132,
+            "children": [
+              {
+                "id": "cookie",
+                "type": "path",
+                "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+              }
+            ]
+          },
+          {
             "id": "a",
-            "type": "path",
-            "d": "M80 72 Q158 68 218 124",
-            "tone": "normal"
+            "type": "text",
+            "x": 70,
+            "y": 48,
+            "text": "spend",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
+            "type": "text",
+            "x": 206,
+            "y": 48,
+            "text": "save",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "save",
             "type": "path",
-            "d": "M78 123 Q157 124 218 125",
-            "tone": "normal"
+            "d": "M183 86h45v30h-45Z"
+          },
+          {
+            "id": "wallet",
+            "type": "path",
+            "d": "M283 92h65v53h-65Z M325 105h30v27h-30Z"
           },
           {
             "id": "c",
-            "type": "path",
-            "d": "M81 177 Q157 181 218 126",
-            "tone": "normal"
-          },
-          {
-            "id": "result",
-            "type": "path",
-            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
             "type": "text",
-            "text": "three",
-            "x": 75.25,
-            "y": 34
+            "x": 315,
+            "y": 202,
+            "text": "budget",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "demands",
-            "x": 66.55,
-            "y": 54
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "one choice",
-            "x": 228.46,
-            "y": 71
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "agreement is not guaranteed",
-            "x": 92.13,
-            "y": 219
+            "x": 168,
+            "y": 229,
+            "text": "one decision answers to all three",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "a workable response / complete satisfaction / one need not imply the other",
+        "description": "A workable compromise can respect reality while satisfying neither the wish nor the standard completely.",
         "actors": [
           {
-            "id": "divider",
+            "id": "small",
+            "type": "group",
+            "x": 81,
+            "y": 127,
+            "children": [
+              {
+                "id": "cookie",
+                "type": "path",
+                "d": "M-26-11 Q-32-27-10-29 Q7-37 21-20 Q39-14 27 8 Q26 31 4 30 Q-21 34-29 13 Z M-15-10h1m21-6h1m7 25h1m-23 5h1"
+              }
+            ],
+            "pose": {
+              "scale": 0.6
+            }
+          },
+          {
+            "id": "savings",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M182 94h36v24h-36Z"
           },
           {
-            "id": "left",
+            "id": "wallet",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M287 88h68v56h-68Z M329 100h34v30h-34Z"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "a",
             "type": "text",
-            "text": "a workable",
-            "x": 72.5,
-            "y": 69
+            "x": 80,
+            "y": 220,
+            "text": "less pleasure",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "b",
             "type": "text",
-            "text": "response",
-            "x": 81.2,
-            "y": 89
+            "x": 200,
+            "y": 241,
+            "text": "less saving",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "c",
             "type": "text",
-            "text": "complete",
-            "x": 247.2,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "satisfaction",
-            "x": 229.8,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "one need not imply the other",
-            "x": 77.24,
-            "y": 217
+            "x": 320,
+            "y": 220,
+            "text": "within limits",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
