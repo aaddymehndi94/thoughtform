@@ -81,7 +81,7 @@
       "order": 1
     },
     "related": [
-      "freud-working-through",
+      "freud-theory-in-revision",
       "freud-repression"
     ]
   },
@@ -3512,6 +3512,848 @@
     },
     "related": [
       "freud-remembering-repeating",
+      "freud-pleasure-principle"
+    ]
+  },
+  {
+    "id": "freud-pleasure-principle",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "pleasure principle",
+    "title": "The search for relief",
+    "statement": "The mind often tries to lower an unpleasant tension.",
+    "explanation": "Freud's pleasure principle describes a tendency to avoid unpleasure and seek satisfaction. It is an explanatory principle about mental processes, not the advice that a person should pursue pleasure without restraint.",
+    "nuance": "Hunger creates a pressure that eating can relieve. Freud extends the idea of tension and discharge into a model of mental life, while acknowledging that the relation between excitation and feeling is not mechanically simple.\n\nThe principle does not imply that people only choose enjoyable experiences. Some processes postpone satisfaction, and others repeat distress. Those difficulties become central to the book in which Freud examines what may operate beyond the principle.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A jagged tense line slowly relaxes into a less strained course.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the search for relief",
+      "variant": "pleasure-principle",
+      "composition": {
+        "description": "A jagged tense line slowly relaxes into a less strained course.",
+        "actors": [
+          {
+            "id": "tension",
+            "type": "path",
+            "d": "M80 138 L110 92 L138 149 L169 99 L198 138 L228 119 L261 131 L299 126",
+            "tone": "normal",
+            "motion": {
+              "kind": "stretch",
+              "duration": 14,
+              "delay": 0,
+              "scale": 0.72
+            }
+          },
+          {
+            "id": "before",
+            "type": "text",
+            "text": "tension",
+            "x": 113,
+            "y": 194
+          },
+          {
+            "id": "after",
+            "type": "text",
+            "text": "relief",
+            "x": 286,
+            "y": 194,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 1
+    },
+    "related": [
+      "freud-working-through",
+      "freud-reality-principle"
+    ]
+  },
+  {
+    "id": "freud-reality-principle",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "reality principle",
+    "title": "The necessary delay",
+    "statement": "A wish can be kept while its satisfaction is postponed.",
+    "explanation": "Freud's reality principle modifies immediate pleasure-seeking in response to the external world. It tolerates temporary discomfort or delay when these make a more secure satisfaction possible.",
+    "nuance": "Wanting to eat does not mean food can be obtained instantly. Waiting, planning and working can serve the original wish while abandoning its immediate discharge. Reality is not simply the enemy of pleasure in Freud's account.\n\nThe distinction concerns the route to satisfaction. A detour can preserve an aim rather than renounce it altogether. Freud also notes that the change is incomplete: some mental activities remain more closely tied to the earlier search for immediate satisfaction.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A direct route meets a closed passage; a longer path curves around it toward the same destination.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the necessary delay",
+      "variant": "reality-principle",
+      "composition": {
+        "description": "A direct route meets a closed passage; a longer path curves around it toward the same destination.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M191 55 L194 179 M209 54 L211 178",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0,
+              "x": 3
+            }
+          },
+          {
+            "id": "pressure",
+            "type": "path",
+            "d": "M95 155 Q82 103 126 86 Q161 71 182 113 Q161 147 131 140 Q122 108 163 112",
+            "tone": "shade",
+            "motion": {
+              "kind": "pulse",
+              "duration": 12,
+              "delay": 0,
+              "scale": 1.08
+            }
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M166 141 Q183 211 244 190 Q291 171 280 114",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "another way through",
+            "x": 260,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 2
+    },
+    "related": [
+      "freud-pleasure-principle",
+      "freud-traumatic-dreams"
+    ]
+  },
+  {
+    "id": "freud-traumatic-dreams",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "traumatic dreams",
+    "title": "Returning to the fright",
+    "statement": "Some dreams return a person to what they do not wish to repeat.",
+    "explanation": "Freud observed that dreams following traumatic experiences could repeatedly return the dreamer to the fright. This challenged a simple version of his earlier account of dreams as wish-fulfilment.",
+    "nuance": "A recurrent scene of an accident does not look like ordinary imagined satisfaction. Freud asks whether the mind may first need to bind overwhelming excitation, before processes governed by pleasure can operate in the usual way.\n\nThis is part of a historical theoretical revision. His model of binding is not the same as a modern account of trauma or a universal explanation of nightmares. The important conceptual move is that distressing repetition becomes a problem the theory must confront.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "An irregular incoming line breaches a boundary and returns across the interior instead of settling.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "returning to the fright",
+      "variant": "traumatic-dreams",
+      "composition": {
+        "description": "An irregular incoming line breaches a boundary and returns across the interior instead of settling.",
+        "actors": [
+          {
+            "id": "border",
+            "type": "path",
+            "d": "M153 57 Q258 36 291 111 Q318 183 222 200 Q122 202 112 125 Q104 78 153 57",
+            "tone": "faint"
+          },
+          {
+            "id": "impact",
+            "type": "path",
+            "d": "M66 89 L94 108 L79 125 L113 128",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "breach",
+            "type": "path",
+            "d": "M112 125 Q179 140 212 123 Q260 95 294 151",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 4
+            }
+          },
+          {
+            "id": "outside",
+            "type": "text",
+            "text": "too much, too quickly",
+            "x": 199,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 3
+    },
+    "related": [
+      "freud-reality-principle",
+      "freud-fort-da"
+    ]
+  },
+  {
+    "id": "freud-fort-da",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "fort da",
+    "title": "Making absence move",
+    "statement": "A child can turn a departure into an action they perform.",
+    "explanation": "Freud described a child's game of sending away and retrieving a small object. He considered how repeating disappearance might give an active form to an experience, the mother's absence, originally undergone passively.",
+    "nuance": "The game does not simply erase the loss. Sending the object away may repeat an unpleasant part of it, while the child now controls the movement. Freud considers mastery and other possible meanings rather than presenting one experimentally established conclusion.\n\nThe example illustrates a shift from being subject to an event to arranging a representation of it. It is not a rule that all children's play reveals a hidden traumatic story.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A child sends a spool across a boundary on a curved thread; the thread preserves a route for return.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "making absence move",
+      "variant": "fort-da",
+      "composition": {
+        "description": "A child sends a spool across a boundary on a curved thread; the thread preserves a route for return.",
+        "actors": [
+          {
+            "id": "child",
+            "type": "figure",
+            "x": 103,
+            "y": 137,
+            "tone": "normal"
+          },
+          {
+            "id": "string",
+            "type": "path",
+            "d": "M122 151 Q201 198 280 151",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "object",
+            "type": "circle",
+            "x": 268,
+            "y": 134,
+            "r": 14,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": 46
+            }
+          },
+          {
+            "id": "edge",
+            "type": "path",
+            "d": "M317 68 L319 191",
+            "tone": "normal"
+          },
+          {
+            "id": "gone",
+            "type": "text",
+            "text": "gone",
+            "x": 284,
+            "y": 84,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "back",
+            "type": "text",
+            "text": "back",
+            "x": 192,
+            "y": 211,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 4
+    },
+    "related": [
+      "freud-traumatic-dreams",
+      "freud-repetition-compulsion"
+    ]
+  },
+  {
+    "id": "freud-repetition-compulsion",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "repetition compulsion",
+    "title": "The costly return",
+    "statement": "A pattern can recur even when its result is unpleasant.",
+    "explanation": "Freud used repetition compulsion for returns that seemed not fully explained by the pursuit of pleasure. He linked repetitions in treatment and recurrent life patterns to a broader theoretical problem.",
+    "nuance": "Someone may encounter a familiar disappointment in different relationships, without consciously wanting that result. Freud asks why the pattern returns, rather than equating its recurrence with an explicit preference.\n\nRepetition can have many explanations; the pattern itself does not verify Freud's later death-drive theory. Nor does recognizing a pattern show that the person caused every external event. His question concerns the persistence of a form of relating, especially when it reproduces distress.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A route returns to its beginning, with an outward path present but not yet taken.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the costly return",
+      "variant": "repetition-compulsion",
+      "composition": {
+        "description": "A route returns to its beginning, with an outward path present but not yet taken.",
+        "actors": [
+          {
+            "id": "cycle",
+            "type": "path",
+            "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
+            "tone": "faint"
+          },
+          {
+            "id": "repeat",
+            "type": "circle",
+            "x": 145,
+            "y": 65,
+            "r": 7,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": 100,
+              "y": 119
+            }
+          },
+          {
+            "id": "exit",
+            "type": "path",
+            "d": "M261 182 Q300 181 330 199",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 5
+            }
+          },
+          {
+            "id": "again",
+            "type": "text",
+            "text": "again",
+            "x": 200,
+            "y": 119,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "change",
+            "type": "text",
+            "text": "notice the pattern",
+            "x": 203,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 5
+    },
+    "related": [
+      "freud-fort-da",
+      "freud-binding"
+    ]
+  },
+  {
+    "id": "freud-binding",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "binding",
+    "title": "Before relief",
+    "statement": "An overwhelming force may first need a form that can hold it.",
+    "explanation": "Freud proposed binding as the linking and containment of otherwise freely moving excitation. In Beyond the Pleasure Principle, he places this task before ordinary regulation by pleasure in certain situations.",
+    "nuance": "Think of scattered pressure gradually becoming a pattern with relations among its parts. Freud uses an economic model of mental energy to describe this change; the illustration makes that model visible without treating the energy as a measurable fluid.\n\nBinding is not a promise that distress disappears once it is narrated. It names a proposed preparatory process through which the mind can deal with what would otherwise overwhelm it. The theory's historical status matters alongside its conceptual suggestiveness.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A disorderly incoming line reaches a loose mesh and becomes a contained repeating pattern.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "before relief",
+      "variant": "binding",
+      "composition": {
+        "description": "A disorderly incoming line reaches a loose mesh and becomes a contained repeating pattern.",
+        "actors": [
+          {
+            "id": "surge",
+            "type": "path",
+            "d": "M62 134 Q89 86 111 136 Q141 191 166 128 Q185 96 210 132",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "mesh1",
+            "type": "path",
+            "d": "M200 66 L300 183 M220 56 L321 173 M197 109 L266 190 M201 174 L298 74 M211 190 L317 91 M194 149 L277 65",
+            "tone": "faint",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "held",
+            "type": "path",
+            "d": "M217 126 Q240 97 255 128 Q280 153 294 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 6
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "bound into a pattern",
+            "x": 247,
+            "y": 216,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 6
+    },
+    "related": [
+      "freud-repetition-compulsion",
+      "freud-stimulus-shield"
+    ]
+  },
+  {
+    "id": "freud-stimulus-shield",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "stimulus shield",
+    "title": "A boundary for exposure",
+    "statement": "Living systems must limit what reaches them.",
+    "explanation": "Freud imagined a protective shield against stimulation in his speculative model of the mental apparatus. Trauma, in that account, involves excitation breaking through protection in quantities the apparatus cannot readily manage.",
+    "nuance": "The shield helps him distinguish ordinary contact with the world from overwhelming exposure. It is a conceptual model, not a literal membrane around the mind. Freud also differentiates external stimuli from internal pressures, which cannot be escaped in the same way.\n\nThis distinction explains why a boundary is not total isolation. Contact is necessary; the problem concerns what can be received and worked upon. The diagram shows the relation between exposure and capacity rather than a complete theory of trauma.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "An uneven surrounding line admits small movement but is crossed by a larger disruptive surge.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a boundary for exposure",
+      "variant": "stimulus-shield",
+      "composition": {
+        "description": "An uneven surrounding line admits small movement but is crossed by a larger disruptive surge.",
+        "actors": [
+          {
+            "id": "border",
+            "type": "path",
+            "d": "M153 57 Q258 36 291 111 Q318 183 222 200 Q122 202 112 125 Q104 78 153 57",
+            "tone": "faint"
+          },
+          {
+            "id": "impact",
+            "type": "path",
+            "d": "M66 89 L94 108 L79 125 L113 128",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "breach",
+            "type": "path",
+            "d": "M112 125 Q179 140 212 123 Q260 95 294 151",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 4
+            }
+          },
+          {
+            "id": "outside",
+            "type": "text",
+            "text": "too much, too quickly",
+            "x": 199,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 7
+    },
+    "related": [
+      "freud-binding",
+      "freud-death-drive"
+    ]
+  },
+  {
+    "id": "freud-death-drive",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "death drive",
+    "title": "A difficult speculation",
+    "statement": "Freud asked whether some tendencies work against the making of new bonds.",
+    "explanation": "Freud's death-drive hypothesis proposes a tendency toward an earlier, ultimately inorganic state. He connects it with repetition and later with destruction, but it is one of his most speculative and disputed ideas.",
+    "nuance": "The term does not mean that every person consciously wants to die, nor that a repeated mistake proves a wish for self-destruction. It belongs to a proposed account of drives operating beneath conscious intention.\n\nFreud moves from clinical observations to far-reaching biological speculation, and the inference is not forced by those observations. A reader can understand the hypothesis without accepting it. The card presents the theoretical question, not a diagnosis of anyone's motives.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A once-connected mesh is shown with several threads drawing back into isolated strands.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a difficult speculation",
+      "variant": "death-drive",
+      "composition": {
+        "description": "A once-connected mesh is shown with several threads drawing back into isolated strands.",
+        "actors": [
+          {
+            "id": "surge",
+            "type": "path",
+            "d": "M62 134 Q89 86 111 136 Q141 191 166 128 Q185 96 210 132",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "mesh1",
+            "type": "path",
+            "d": "M200 66 L300 183 M220 56 L321 173 M197 109 L266 190 M201 174 L298 74 M211 190 L317 91 M194 149 L277 65",
+            "tone": "faint",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "held",
+            "type": "path",
+            "d": "M217 126 Q240 97 255 128 Q280 153 294 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 6
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "bound into a pattern",
+            "x": 247,
+            "y": 216,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 8
+    },
+    "related": [
+      "freud-stimulus-shield",
+      "freud-eros"
+    ]
+  },
+  {
+    "id": "freud-eros",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "eros",
+    "title": "The work of connection",
+    "statement": "Freud's later theory contrasts undoing bonds with making them.",
+    "explanation": "Freud describes the life drives as tending to preserve life and bring units into larger combinations. Eros becomes a broader principle of binding in his later theory, rather than a synonym for romantic attraction.",
+    "nuance": "Attachment, bodily life and the formation of larger relations are placed on one side of Freud's dual-drive model. Its opposing tendency concerns dissolution. Neither side should be reduced to a moral character who always wins or loses.\n\nThis is a speculative framework, not a directly observed pair of biological forces. The conceptual contrast is useful to notice: mental life is described through processes of connection and unbinding, not simply a contest between pleasant and unpleasant feelings.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "Separate streams establish a connected mesh while their original strands remain distinguishable.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the work of connection",
+      "variant": "eros",
+      "composition": {
+        "description": "Separate streams establish a connected mesh while their original strands remain distinguishable.",
+        "actors": [
+          {
+            "id": "input1",
+            "type": "path",
+            "d": "M75 62 Q150 67 198 117",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "input2",
+            "type": "path",
+            "d": "M71 122 Q155 108 199 119",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "input3",
+            "type": "path",
+            "d": "M83 184 Q156 177 200 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "merged",
+            "type": "path",
+            "d": "M197 121 Q228 90 256 121 Q275 156 236 164 Q209 169 197 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.07
+            }
+          },
+          {
+            "id": "many",
+            "type": "text",
+            "text": "several thoughts",
+            "x": 102,
+            "y": 211
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "text": "one image",
+            "x": 279,
+            "y": 178,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 9
+    },
+    "related": [
+      "freud-death-drive",
+      "freud-theory-in-revision"
+    ]
+  },
+  {
+    "id": "freud-theory-in-revision",
+    "thinker": "freud",
+    "collection": "Desire and repetition",
+    "concept": "theory in revision",
+    "title": "When the model meets its limit",
+    "statement": "A theory changes when its easiest explanation no longer suffices.",
+    "explanation": "Beyond the Pleasure Principle begins with a governing tendency, then confronts phenomena that complicate it. Freud moves through observations of trauma, play and repetition toward increasingly speculative conclusions.",
+    "nuance": "The child's game does not prove the death drive. Neither do traumatic dreams yield one inevitable theory of mental energy. Freud's argument passes through several different levels: an observation, a proposed mechanism, then a broad hypothesis.\n\nKeeping those levels separate makes the book more intelligible. A striking explanation is not automatically a demonstrated one. Reading Freud seriously means following how a claim is built and where uncertainty enters, rather than treating every famous concept as settled fact.",
+    "sources": [
+      "freud-beyond-9"
+    ],
+    "metaphor": "A single route branches into an observed path and a more tentative continuation drawn faintly beyond it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "when the model meets its limit",
+      "variant": "theory-in-revision",
+      "composition": {
+        "description": "A single route branches into an observed path and a more tentative continuation drawn faintly beyond it.",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M80 127 Q128 115 167 126",
+            "tone": "normal"
+          },
+          {
+            "id": "branch1",
+            "type": "path",
+            "d": "M167 126 Q209 69 294 68",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "branch2",
+            "type": "path",
+            "d": "M167 126 Q221 134 304 176",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 3
+            }
+          },
+          {
+            "id": "yes",
+            "type": "text",
+            "text": "one tendency",
+            "x": 285,
+            "y": 48
+          },
+          {
+            "id": "no",
+            "type": "text",
+            "text": "another tendency",
+            "x": 280,
+            "y": 210
+          }
+        ]
+      }
+    },
+    "tags": [
+      "desire and repetition",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-desire-and-repetition",
+      "order": 10
+    },
+    "related": [
+      "freud-eros",
       "freud-unconscious"
     ]
   }
