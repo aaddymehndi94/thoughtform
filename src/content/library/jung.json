@@ -936,5 +936,898 @@
     "related": [
       "jung-projection-idealization"
     ]
+  },
+  {
+    "id": "jung-complex-autonomy",
+    "thinker": "jung",
+    "collection": "When a feeling takes over",
+    "concept": "Complexes",
+    "title": "A room that answers for you",
+    "statement": "A small event can awaken a much larger situation.",
+    "explanation": "A complex gathers memories around an emotional center. When activated, that network can temporarily shape attention and behavior before you recognize its influence.",
+    "nuance": "A complex is more than a strong feeling. In Jung’s account it is a cluster of images, expectations, and memories held together by an emotional charge. A remark made today can touch that cluster. Suddenly the current room feels like an earlier room, and the people in it acquire roles they did not choose. The shift can happen before you have words for it. That is part of what he meant by the relative autonomy of a complex.\n\nImagine a colleague asking whether a draft is finished. You hear an accusation, begin defending your intelligence, and later wonder why the exchange felt so large. The question may have been clumsy or unfair. Yet your reaction can also belong to a history of being inspected. A complex does not make the external situation imaginary; it brings additional material into the encounter, often without announcing where that material came from.\n\nThe useful distinction is between having an emotional pattern and being temporarily organized by it. Recognition creates room to ask what actually happened, what you expected to happen, and how those two became entangled. It does not guarantee immediate control. Jung treated complexes as ordinary features of psychic life, not proof of a defective personality. The work is to establish a relationship with the pattern rather than merely rename it.",
+    "reflection": "What present event seems to bring an older atmosphere into the room?",
+    "sources": [
+      "complex"
+    ],
+    "metaphor": "One small signal activates a larger room of connected memories.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "one remark / an entire room",
+      "composition": {
+        "description": "One small signal activates a larger room of connected memories.",
+        "actors": [
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 210,
+            "y": 105
+          },
+          {
+            "id": "room",
+            "type": "path",
+            "d": "M130 187 V55 H286 V187 Z"
+          },
+          {
+            "id": "signal",
+            "type": "circle",
+            "x": 72,
+            "y": 125,
+            "r": 7,
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "x": 89
+            }
+          },
+          {
+            "id": "web",
+            "type": "path",
+            "d": "M150 73 L265 90 L246 159 L155 166 Z M150 73 L246 159 M265 90 L155 166",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "now",
+            "type": "text",
+            "x": 46,
+            "y": 213,
+            "text": "one remark"
+          },
+          {
+            "id": "past",
+            "type": "text",
+            "x": 182,
+            "y": 213,
+            "text": "a whole history",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Separate events become connected around a shared emotional center.",
+        "actors": [
+          {
+            "id": "center",
+            "type": "circle",
+            "x": 195,
+            "y": 126,
+            "r": 18
+          },
+          {
+            "id": "a",
+            "type": "circle",
+            "x": 104,
+            "y": 75,
+            "r": 9
+          },
+          {
+            "id": "b",
+            "type": "circle",
+            "x": 292,
+            "y": 81,
+            "r": 9
+          },
+          {
+            "id": "c",
+            "type": "circle",
+            "x": 95,
+            "y": 175,
+            "r": 9
+          },
+          {
+            "id": "d",
+            "type": "circle",
+            "x": 292,
+            "y": 175,
+            "r": 9
+          },
+          {
+            "id": "ties",
+            "type": "path",
+            "d": "M114 80 L177 117 M280 85 L212 120 M107 170 L178 134 M281 170 L212 137"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 104,
+            "y": 224,
+            "text": "a feeling organizes memories"
+          }
+        ]
+      },
+      {
+        "description": "Present evidence and older expectations need to be distinguished.",
+        "actors": [
+          {
+            "id": "divide",
+            "type": "path",
+            "d": "M200 49 V188"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 45,
+            "y": 88,
+            "text": "what was said"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 231,
+            "y": 88,
+            "text": "what I heard"
+          },
+          {
+            "id": "small",
+            "type": "path",
+            "d": "M72 130 H140"
+          },
+          {
+            "id": "large",
+            "type": "path",
+            "d": "M241 121 Q284 75 330 131 Q292 176 241 121"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 81,
+            "y": 223,
+            "text": "two different questions"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "complexes",
+      "when a feeling takes over"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "when-a-feeling-takes-over",
+      "order": 1
+    },
+    "related": [
+      "jung-association"
+    ]
+  },
+  {
+    "id": "jung-association",
+    "thinker": "jung",
+    "collection": "When a feeling takes over",
+    "concept": "Word association",
+    "title": "The pause becomes evidence",
+    "statement": "Sometimes an interruption says more than an answer.",
+    "explanation": "Jung’s association experiments recorded delays, slips, and forgotten responses. A disturbance could suggest an emotionally charged connection worth investigating.",
+    "nuance": "In the early association experiments, a person heard a series of words and answered with the first association that came to mind. The investigator also observed timing and other disturbances. An unusually long pause, a repeated word, or difficulty recalling an earlier response could matter. Jung was interested in these interruptions because an emotionally charged network might disturb an otherwise simple task without a deliberate decision to do so.\n\nSuppose most words receive an answer almost immediately, but one produces a silence. The silence does not identify its meaning. “Home” might touch affection, conflict, loss, embarrassment, or something quite mundane. The experiment supplies a question rather than a finished story. What matters is the relation between the disturbance and the person’s associations, not an investigator’s confidence that a particular word must conceal a particular secret.\n\nThis history also clarifies why a complex is not just an idea that someone holds. It can interfere with the organization of attention and recall. Still, a delay is not a diagnostic verdict: fatigue, language, distraction, and countless other factors affect performance. The enduring conceptual point is modest. Conscious intention does not account for every interruption in conscious activity. A small hesitation can open an inquiry into a larger emotional context.",
+    "reflection": "Which ordinary word carries an unusually complicated history for you?",
+    "sources": [
+      "complex"
+    ],
+    "metaphor": "An even sequence of response marks is interrupted by one long pause.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "word / pause / association",
+      "composition": {
+        "description": "An even sequence of response marks is interrupted by one long pause.",
+        "actors": [
+          {
+            "id": "baseline",
+            "type": "path",
+            "d": "M40 140 H361"
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M67 135 V106 M98 135 V109 M130 135 V105 M302 135 V110 M334 135 V108"
+          },
+          {
+            "id": "gap",
+            "type": "path",
+            "d": "M165 154 V166 H273 V154",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "x": 167,
+            "y": 93,
+            "text": "home",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14
+            }
+          },
+          {
+            "id": "pause",
+            "type": "text",
+            "x": 176,
+            "y": 207,
+            "text": "a pause",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Response time is observed alongside the spoken association.",
+        "actors": [
+          {
+            "id": "word",
+            "type": "text",
+            "x": 47,
+            "y": 72,
+            "text": "a word"
+          },
+          {
+            "id": "answer",
+            "type": "text",
+            "x": 242,
+            "y": 72,
+            "text": "an answer"
+          },
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M107 120 H281 M107 113 V128 M281 113 V128"
+          },
+          {
+            "id": "time",
+            "type": "text",
+            "x": 139,
+            "y": 160,
+            "text": "elapsed time"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 84,
+            "y": 223,
+            "text": "timing is part of the record"
+          }
+        ]
+      },
+      {
+        "description": "One interruption allows several possible interpretations.",
+        "actors": [
+          {
+            "id": "gap",
+            "type": "circle",
+            "x": 195,
+            "y": 76,
+            "r": 13
+          },
+          {
+            "id": "branches",
+            "type": "path",
+            "d": "M195 92 V132 M195 132 L97 183 M195 132 L292 183 M195 132 V183"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 61,
+            "y": 217,
+            "text": "memory"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 163,
+            "y": 217,
+            "text": "fatigue"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 272,
+            "y": 217,
+            "text": "context"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "word association",
+      "when a feeling takes over"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "when-a-feeling-takes-over",
+      "order": 2
+    },
+    "related": [
+      "jung-complex-autonomy"
+    ]
+  },
+  {
+    "id": "jung-dream-context",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dreams",
+    "title": "The same door, different lives",
+    "statement": "A dream image belongs to the life of its dreamer.",
+    "explanation": "Jung opposed treating dreams as a fixed code. Personal associations and the current conscious situation help establish what an image might mean.",
+    "nuance": "A door in a dream does not carry one reliable meaning for everyone. It may recall a childhood room, a hospital corridor, an anticipated move, or a door that actually would not open yesterday. Jung approached a dream through the dreamer’s associations and present situation. An image becomes psychologically useful when its relations become visible. A symbol dictionary can give a feeling of certainty while bypassing the person whose experience needs to be understood.\n\nConsider two people dreaming of a locked door. One is struggling to leave an unsafe arrangement; the other has been insisting that every invitation must be accepted. The image might participate in very different problems. Even that contrast is only an illustration, not an interpretation of either dream. Questions about feeling, detail, and circumstance come first: which door, whose room, what kind of lock, and what happened when the dreamer encountered it?\n\nJung also looked beyond private associations when a dream seemed to draw on wider symbolic patterns. That broader inquiry should enrich attention to the particular dream, not replace it with a grand story. Interpretation remains a proposal to be tested against the dreamer’s experience and subsequent material. The aim is not to win an argument about what an image means. It is to understand how this image enters this life, at this particular moment.",
+    "reflection": "What would this dream image mean in your life that it would not mean in someone else’s?",
+    "sources": [
+      "dreams"
+    ],
+    "metaphor": "An identical doorway opens onto two distinct personal contexts.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "one image / two contexts",
+      "composition": {
+        "description": "An identical doorway opens onto two distinct personal contexts.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M174 174 V59 H232 V174 M177 62 L218 78 V173"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M170 135 C134 100 103 76 62 79",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M236 135 C271 174 302 159 344 170",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "l",
+            "type": "text",
+            "x": 39,
+            "y": 207,
+            "text": "one life"
+          },
+          {
+            "id": "r",
+            "type": "text",
+            "x": 288,
+            "y": 207,
+            "text": "another"
+          },
+          {
+            "id": "top",
+            "type": "text",
+            "x": 160,
+            "y": 36,
+            "text": "same image"
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The image is considered together with personal associations.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M76 181 V73 H125 V181"
+          },
+          {
+            "id": "ties",
+            "type": "path",
+            "d": "M129 122 L222 70 M129 122 L233 130 M129 122 L221 184"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 237,
+            "y": 76,
+            "text": "a place"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 245,
+            "y": 136,
+            "text": "a feeling"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 236,
+            "y": 189,
+            "text": "an event"
+          }
+        ]
+      },
+      {
+        "description": "A fixed interpretation closes the question too quickly.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M68 171 V73 H120 V171"
+          },
+          {
+            "id": "equals",
+            "type": "path",
+            "d": "M159 111 H194 M159 123 H194"
+          },
+          {
+            "id": "cross",
+            "type": "path",
+            "d": "M230 71 L325 171 M325 71 L230 171"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 68,
+            "y": 220,
+            "text": "an image is not a fixed code"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "dreams",
+      "the work of dreaming"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-work-of-dreaming",
+      "order": 1
+    },
+    "related": [
+      "jung-dream-series"
+    ]
+  },
+  {
+    "id": "jung-dream-series",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dream series",
+    "title": "Watch what changes",
+    "statement": "One dream can be obscure. A sequence can disclose a movement.",
+    "explanation": "Jung read dreams across time as well as individually. Returning images may change, making a development visible that a single interpretation would miss.",
+    "nuance": "A single dream can be difficult to understand because the context is incomplete. Jung therefore paid attention to sequences of dreams. An image may return with a difference: the house has another room, the threatening figure begins speaking, or the dreamer can now cross a threshold. The difference can matter as much as the recurring object. It may help test an interpretation that initially seemed convincing, rather than letting one explanation govern all later material.\n\nImagine several dreams involving water. In the first, it is seen from a sealed window. In another, the dreamer stands on a shore. Later, someone offers a boat. This does not automatically establish a story of progress. A change in distance or participation simply gives the reader more to investigate. The relevant question is how that movement relates to waking circumstances and emotional experience, including possibilities the dreamer has not yet acknowledged.\n\nA series can also resist the story we want to tell about ourselves. Apparent mastery in one dream may be followed by vulnerability in the next. Jung’s interest in compensation makes such reversals significant: the dream might challenge a conscious claim that the matter is finished. Keeping the sequence open prevents every image from becoming an isolated omen. Dreams become a conversation with changing conditions rather than a collection of messages to decode once and discard.",
+    "reflection": "Does a recurring image stay identical, or is something about your position within it changing?",
+    "sources": [
+      "dreams"
+    ],
+    "metaphor": "Three related thresholds gradually become open enough to enter.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "returning / changing",
+      "composition": {
+        "description": "Three related thresholds gradually become open enough to enter.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "path",
+            "d": "M44 171 V77 H105 V171 M49 82 L101 166 M101 82 L49 166"
+          },
+          {
+            "id": "two",
+            "type": "path",
+            "d": "M174 171 V77 H235 V171 M177 81 L219 94 V169"
+          },
+          {
+            "id": "three",
+            "type": "path",
+            "d": "M304 171 V77 H365 V171"
+          },
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M63 198 C124 194 238 194 337 198",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 55,
+            "y": 224,
+            "text": "first"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 181,
+            "y": 224,
+            "text": "later"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 305,
+            "y": 224,
+            "text": "later still"
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A repeated image can change in its relation to the dreamer.",
+        "actors": [
+          {
+            "id": "water",
+            "type": "path",
+            "d": "M40 167 Q95 153 148 168 T254 167 T362 169"
+          },
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 84,
+            "y": 55
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 197,
+            "y": 85
+          },
+          {
+            "id": "c",
+            "type": "figure",
+            "x": 310,
+            "y": 111
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 85,
+            "y": 223,
+            "text": "distance is part of the image"
+          }
+        ]
+      },
+      {
+        "description": "Later dreams can revise an earlier interpretation.",
+        "actors": [
+          {
+            "id": "pages",
+            "type": "path",
+            "d": "M58 67 H128 V160 H58 Z M165 67 H235 V160 H165 Z M272 67 H342 V160 H272 Z"
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M94 126 C147 35 229 195 305 112"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 91,
+            "y": 215,
+            "text": "read the changing relation"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "dream series",
+      "the work of dreaming"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "the-work-of-dreaming",
+      "order": 2
+    },
+    "related": [
+      "jung-dream-context"
+    ]
+  },
+  {
+    "id": "jung-archetype-pattern",
+    "thinker": "jung",
+    "collection": "Beneath personal history",
+    "concept": "Archetypes",
+    "title": "A shape without a single picture",
+    "statement": "A recurring pattern is not a universal costume.",
+    "explanation": "Jung distinguished an archetypal disposition from its particular images. Cultural and personal experience help give the pattern a recognizable form.",
+    "nuance": "An archetype, in Jung’s technical sense, is not a picture inherited intact. It is a proposed disposition toward forming certain kinds of images and experiences. The archetypal image is what actually appears: a particular mother, guide, threat, journey, or place of renewal. The distinction matters because an image carries the marks of a culture and an individual life. A recurring structural relation does not make every expression of that relation interchangeable.\n\nThink of an arch rather than a photograph of an arch. Many buildings can realize an arch, using different materials and serving different purposes. The resemblance lies in a relation among the parts. This is only a metaphor for Jung’s claim, not evidence that his account of psychic inheritance is correct. It helps explain why he could speak of common patterns while still investigating the specific emotional and historical form in which an image appeared.\n\nThe risk is turning this vocabulary into a list of timeless characters and assigning everyone a role. That flattens both the individual and the culture. Jung’s comparisons across myths can be suggestive, but their breadth does not remove the need for historical care. An archetypal reading should make a particular image more intelligible. If it merely replaces a person’s difficult experience with “the hero” or “the mother,” the category has done too much of the thinking.",
+    "reflection": "Where might you be mistaking a familiar image for the whole underlying pattern?",
+    "sources": [
+      "archetypes"
+    ],
+    "metaphor": "One structural arch is realized in three distinct forms.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a pattern / different images",
+      "composition": {
+        "description": "One structural arch is realized in three distinct forms.",
+        "actors": [
+          {
+            "id": "pattern",
+            "type": "path",
+            "d": "M162 113 V83 Q200 24 238 83 V113",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "branches",
+            "type": "path",
+            "d": "M200 124 L81 157 M200 124 V157 M200 124 L319 157"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M56 198 V178 Q81 135 106 178 V198"
+          },
+          {
+            "id": "mid",
+            "type": "path",
+            "d": "M175 198 V164 H226 V198"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M292 198 Q315 143 342 198"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 129,
+            "y": 234,
+            "text": "form is not a fixed image",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "An underlying relation can take different visible forms.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M62 174 V104 Q94 55 126 104 V174"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M171 174 V88 H234 V174"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M285 174 L314 72 L345 174"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 100,
+            "y": 222,
+            "text": "similar relation, different forms"
+          }
+        ]
+      },
+      {
+        "description": "A category should not erase the particulars of an image.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M140 44 H264 V191 H140 Z"
+          },
+          {
+            "id": "details",
+            "type": "path",
+            "d": "M160 164 Q203 68 247 163 M166 136 L219 105 M201 165 V85"
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 109,
+            "y": 223,
+            "text": "keep the particular details"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "archetypes",
+      "beneath personal history"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "beneath-personal-history",
+      "order": 1
+    },
+    "related": [
+      "jung-collective-unconscious"
+    ]
+  },
+  {
+    "id": "jung-collective-unconscious",
+    "thinker": "jung",
+    "collection": "Beneath personal history",
+    "concept": "Collective unconscious",
+    "title": "Before your own story",
+    "statement": "Jung proposed that personal history is not the psyche’s only organizing source.",
+    "explanation": "The collective unconscious names his hypothesis of inherited psychic dispositions. It does not mean a storehouse of ancestors’ remembered experiences.",
+    "nuance": "Jung distinguished the personal unconscious from the collective unconscious. The first concerns material related to an individual life, including what has been forgotten or excluded from awareness. The second names his proposed inherited basis for recurrent psychic patterns. He used the distinction to explain why images in dreams and myths could seem to resemble one another across different settings. This was a theoretical claim about organization, not a claim that a person remembers an ancestor’s private adventures.\n\nImagine a landscape with paths made during your own lifetime, laid over a terrain you did not choose. The paths stand for personal experience; the terrain stands for the proposed dispositions that help shape how experience is formed. The metaphor has limits. Cultural transmission can also explain resemblances, and similarities can be selected too eagerly while differences are overlooked. A compelling comparison does not by itself establish a biological inheritance of psychological form.\n\nThe concept is useful to understand historically because so much of Jung’s work depends on it. It also needs to remain a hypothesis rather than a permission to declare every image universal. Careful reading asks what belongs to this dreamer, what belongs to a particular culture, and what broader pattern Jung believes is present. Those questions may interact, but keeping them distinguishable protects the person from disappearing into an enormous theory about humanity.",
+    "reflection": "Which patterns feel larger than your biography, and what would count as evidence for that impression?",
+    "sources": [
+      "archetypes"
+    ],
+    "metaphor": "Personal paths sit above a deeper terrain that shapes their possible course.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "personal layers / proposed dispositions",
+      "composition": {
+        "description": "Personal paths sit above a deeper terrain that shapes their possible course.",
+        "actors": [
+          {
+            "id": "terrain",
+            "type": "path",
+            "d": "M43 178 Q93 150 136 171 T237 166 T355 174"
+          },
+          {
+            "id": "paths",
+            "type": "path",
+            "d": "M56 79 C117 132 119 89 177 134 S270 88 339 120",
+            "motion": {
+              "kind": "draw",
+              "duration": 14
+            }
+          },
+          {
+            "id": "depth",
+            "type": "path",
+            "d": "M45 191 Q111 176 168 191 T351 191"
+          },
+          {
+            "id": "upper",
+            "type": "text",
+            "x": 61,
+            "y": 50,
+            "text": "personal history"
+          },
+          {
+            "id": "lower",
+            "type": "text",
+            "x": 83,
+            "y": 230,
+            "text": "proposed inherited dispositions",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Personal memories and proposed inherited forms are different claims.",
+        "actors": [
+          {
+            "id": "layers",
+            "type": "path",
+            "d": "M54 71 H347 M54 134 H347 M54 197 H347"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 107,
+            "y": 111,
+            "text": "events in one life"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 86,
+            "y": 175,
+            "text": "a proposed shared basis"
+          }
+        ]
+      },
+      {
+        "description": "Several explanations can account for a resemblance.",
+        "actors": [
+          {
+            "id": "image",
+            "type": "circle",
+            "x": 199,
+            "y": 69,
+            "r": 17
+          },
+          {
+            "id": "paths",
+            "type": "path",
+            "d": "M199 86 L91 177 M199 86 V177 M199 86 L310 177"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 44,
+            "y": 209,
+            "text": "experience"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 172,
+            "y": 209,
+            "text": "culture"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 277,
+            "y": 209,
+            "text": "inheritance"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "collective unconscious",
+      "beneath personal history"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "beneath-personal-history",
+      "order": 2
+    },
+    "related": [
+      "jung-archetype-pattern"
+    ]
   }
 ]

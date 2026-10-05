@@ -1272,6 +1272,78 @@
     "depth": 2
   },
   {
+    "id": "jung-complex-autonomy",
+    "thinker": "jung",
+    "collection": "When a feeling takes over",
+    "concept": "Complexes",
+    "title": "A room that answers for you",
+    "tags": [
+      "complexes",
+      "when a feeling takes over"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-association",
+    "thinker": "jung",
+    "collection": "When a feeling takes over",
+    "concept": "Word association",
+    "title": "The pause becomes evidence",
+    "tags": [
+      "word association",
+      "when a feeling takes over"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-dream-context",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dreams",
+    "title": "The same door, different lives",
+    "tags": [
+      "dreams",
+      "the work of dreaming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-dream-series",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dream series",
+    "title": "Watch what changes",
+    "tags": [
+      "dream series",
+      "the work of dreaming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-archetype-pattern",
+    "thinker": "jung",
+    "collection": "Beneath personal history",
+    "concept": "Archetypes",
+    "title": "A shape without a single picture",
+    "tags": [
+      "archetypes",
+      "beneath personal history"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-collective-unconscious",
+    "thinker": "jung",
+    "collection": "Beneath personal history",
+    "concept": "Collective unconscious",
+    "title": "Before your own story",
+    "tags": [
+      "collective unconscious",
+      "beneath personal history"
+    ],
+    "depth": 2
+  },
+  {
     "id": "nietzsche-genealogy",
     "thinker": "nietzsche",
     "collection": "Inherited values",
