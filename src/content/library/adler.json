@@ -82,7 +82,7 @@
       "order": 1
     },
     "related": [
-      "adler-family-interpretation",
+      "adler-encouragement",
       "adler-compensation"
     ]
   },
@@ -1499,6 +1499,1039 @@
     },
     "related": [
       "adler-youngest",
+      "adler-perception"
+    ]
+  },
+  {
+    "id": "adler-perception",
+    "thinker": "adler",
+    "collection": "Ways of seeing",
+    "concept": "perception",
+    "title": "The selected world",
+    "statement": "An outlook helps determine which details become important.",
+    "explanation": "Adler treated perception as active selection within a person's orientation to life. Two people can meet the same situation while attending to very different evidence of danger, possibility or rank.",
+    "nuance": "At a gathering, one person notices openings for conversation while another notices only signs of rejection. Adler asks how the selection fits a larger expectation and goal. The surroundings are real, but they are not attended to neutrally.\n\nThis does not mean every discouraging observation is invented. Sometimes exclusion is present. The point is to distinguish what happens from the pattern of significance through which it is encountered. A repeated selection can narrow the experienced world without making that world wholly imaginary.",
+    "sources": [
+      "adler-nature-4"
+    ],
+    "metaphor": "A figure directs a gaze toward one marked detail while other details remain faint at the edge.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the selected world",
+      "variant": "perception",
+      "composition": {
+        "description": "A figure directs a gaze toward one marked detail while other details remain faint at the edge.",
+        "actors": [
+          {
+            "id": "viewer",
+            "type": "figure",
+            "x": 191,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M124 63 L125 188 L263 189 L264 63 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "selected",
+            "type": "circle",
+            "x": 293,
+            "y": 95,
+            "r": 12,
+            "tone": "normal",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.18
+            }
+          },
+          {
+            "id": "missed",
+            "type": "circle",
+            "x": 89,
+            "y": 112,
+            "r": 9,
+            "tone": "faint"
+          },
+          {
+            "id": "missed2",
+            "type": "circle",
+            "x": 310,
+            "y": 166,
+            "r": 6,
+            "tone": "faint"
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M204 93 L281 94",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "what the outlook selects",
+            "x": 195,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ways of seeing",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-ways-of-seeing",
+      "order": 1
+    },
+    "related": [
+      "adler-family-interpretation",
+      "adler-early-recollections"
+    ]
+  },
+  {
+    "id": "adler-early-recollections",
+    "thinker": "adler",
+    "collection": "Ways of seeing",
+    "concept": "early recollections",
+    "title": "The chosen beginning",
+    "statement": "An early memory can show a present orientation as well as a past event.",
+    "explanation": "Adler was interested in which early memories a person retains and emphasizes. He treated recollections as clues to a pattern of outlook, rather than complete objective records of childhood.",
+    "nuance": "A person might remember being alone while others played, using that scene as an image of their place in the world. Adler asks what the selection and telling express now, as well as what may have happened then.\n\nA recollection's emotional force does not independently verify all its details. Memory is selective, and a useful interpretation need not turn the scene into the single cause of the person's life. The memory provides a point of inquiry into meaning, not an infallible origin story.",
+    "sources": [
+      "adler-nature-4"
+    ],
+    "metaphor": "A present figure looks toward a framed earlier scene; a line isolates one remembered part of it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the chosen beginning",
+      "variant": "early-recollections",
+      "composition": {
+        "description": "A present figure looks toward a framed earlier scene; a line isolates one remembered part of it.",
+        "actors": [
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M88 61 L89 183 L309 186 L311 58 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "then",
+            "type": "figure",
+            "x": 154,
+            "y": 134,
+            "tone": "faint"
+          },
+          {
+            "id": "now",
+            "type": "figure",
+            "x": 258,
+            "y": 136,
+            "tone": "normal"
+          },
+          {
+            "id": "selected",
+            "type": "path",
+            "d": "M134 75 Q169 57 183 95 Q192 123 166 139 Q124 140 120 108 Q119 86 134 75",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "remembered from here",
+            "x": 204,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ways of seeing",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-ways-of-seeing",
+      "order": 2
+    },
+    "related": [
+      "adler-perception",
+      "adler-imagination"
+    ]
+  },
+  {
+    "id": "adler-imagination",
+    "thinker": "adler",
+    "collection": "Ways of seeing",
+    "concept": "imagination",
+    "title": "Rehearsing a position",
+    "statement": "Fantasy can prepare a response before the situation arrives.",
+    "explanation": "Adler related imagination and fantasy to the person's direction of striving. Imagined scenes can rehearse possible action, anticipated defeat or a gratifying position that ordinary life does not yet provide.",
+    "nuance": "Someone may repeatedly imagine being admired while avoiding the uncertain work that could develop a skill. Another uses imagination to try out a cooperative response before a difficult meeting. The activity looks similar; its direction differs.\n\nAdler's interest lies in what the imagined scene does within a life. Fantasy is not automatically evasion, and preparation is not automatically accurate. A scenario can widen possible action or repeatedly confirm the expectation that action is unsafe.",
+    "sources": [
+      "adler-nature-4"
+    ],
+    "metaphor": "A small stage appears around a figure, presenting a possible role before any real encounter takes place.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "rehearsing a position",
+      "variant": "imagination",
+      "composition": {
+        "description": "A small stage appears around a figure, presenting a possible role before any real encounter takes place.",
+        "actors": [
+          {
+            "id": "stage",
+            "type": "path",
+            "d": "M85 181 L309 182 M94 181 L95 67 M302 181 L300 65",
+            "tone": "normal"
+          },
+          {
+            "id": "curtain",
+            "type": "path",
+            "d": "M96 64 Q193 89 299 64",
+            "tone": "faint"
+          },
+          {
+            "id": "imagined",
+            "type": "figure",
+            "x": 192,
+            "y": 136,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "x": 8
+            }
+          },
+          {
+            "id": "script",
+            "type": "text",
+            "text": "possible next move",
+            "x": 196,
+            "y": 217,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ways of seeing",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-ways-of-seeing",
+      "order": 3
+    },
+    "related": [
+      "adler-early-recollections",
+      "adler-dream-direction"
+    ]
+  },
+  {
+    "id": "adler-dream-direction",
+    "thinker": "adler",
+    "collection": "Ways of seeing",
+    "concept": "dream direction",
+    "title": "A feeling for the next move",
+    "statement": "Adler asked how a dream prepares an attitude toward a problem.",
+    "explanation": "Unlike Freud's emphasis on disguised wish-fulfilment, Adler interpreted dreams through the person's orientation and current difficulties. A dream can produce a mood that supports a particular way of meeting what comes next.",
+    "nuance": "A frightening dream before a demanding encounter might make retreat feel more justified. Adler would explore how the mood fits the person's larger pattern, rather than decode the dream through one universal set of symbols.\n\nThis is an Adlerian interpretation, not a demonstrated account of every dream. The person may not consciously intend the result. The important contrast with Freud concerns the question asked: what direction does the dream support, rather than only what earlier wish it transforms?",
+    "sources": [
+      "adler-nature-4"
+    ],
+    "metaphor": "An imagined stage sends a line toward a future route, showing how a scene can orient the next movement.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a feeling for the next move",
+      "variant": "dream-direction",
+      "composition": {
+        "description": "An imagined stage sends a line toward a future route, showing how a scene can orient the next movement.",
+        "actors": [
+          {
+            "id": "goal",
+            "type": "circle",
+            "x": 306,
+            "y": 69,
+            "r": 17,
+            "tone": "faint"
+          },
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M76 189 Q121 132 172 154 Q231 177 301 93",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "moving",
+            "type": "figure",
+            "x": 110,
+            "y": 146,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": 40,
+              "y": -13
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "an imagined destination",
+            "x": 256,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ways of seeing",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-ways-of-seeing",
+      "order": 4
+    },
+    "related": [
+      "adler-imagination",
+      "adler-attention"
+    ]
+  },
+  {
+    "id": "adler-attention",
+    "thinker": "adler",
+    "collection": "Ways of seeing",
+    "concept": "attention",
+    "title": "What becomes difficult to notice",
+    "statement": "An apparent failure of attention can be connected with a person's aim.",
+    "explanation": "Adler investigated attention, distraction and some forms of forgetting through their relation to tasks and social demands. He asked whether the selection serves a wider pattern of avoiding exposure or responsibility.",
+    "nuance": "A person remembers details connected with recognition but repeatedly overlooks a shared obligation. Adler would look for the direction of that pattern instead of treating each lapse as entirely separate.\n\nThis is not a reason to assume that all forgetfulness is deliberate or interpret difficulties of attention as poor character. Ordinary distraction, health and circumstance have their own relevance. The hypothesis concerns how selective attention may participate in a life pattern, and it needs more than one convenient anecdote.",
+    "sources": [
+      "adler-nature-4"
+    ],
+    "metaphor": "Several details surround a figure, but only the one aligned with the familiar route receives a connecting line.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "what becomes difficult to notice",
+      "variant": "attention",
+      "composition": {
+        "description": "Several details surround a figure, but only the one aligned with the familiar route receives a connecting line.",
+        "actors": [
+          {
+            "id": "viewer",
+            "type": "figure",
+            "x": 191,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "frame",
+            "type": "path",
+            "d": "M124 63 L125 188 L263 189 L264 63 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "selected",
+            "type": "circle",
+            "x": 293,
+            "y": 95,
+            "r": 12,
+            "tone": "normal",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.18
+            }
+          },
+          {
+            "id": "missed",
+            "type": "circle",
+            "x": 89,
+            "y": 112,
+            "r": 9,
+            "tone": "faint"
+          },
+          {
+            "id": "missed2",
+            "type": "circle",
+            "x": 310,
+            "y": 166,
+            "r": 6,
+            "tone": "faint"
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M204 93 L281 94",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "what the outlook selects",
+            "x": 195,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ways of seeing",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-ways-of-seeing",
+      "order": 5
+    },
+    "related": [
+      "adler-dream-direction",
+      "adler-play"
+    ]
+  },
+  {
+    "id": "adler-play",
+    "thinker": "adler",
+    "collection": "Ways of seeing",
+    "concept": "play",
+    "title": "A small world to practice in",
+    "statement": "Play lets a child try relations before they have to hold them for real.",
+    "explanation": "Adler saw play as preparation for life, revealing interests and ways of relating. A child can experiment with roles, cooperation, power and competence in situations that do not carry every adult consequence.",
+    "nuance": "Building together, playing teacher or inventing a contest offers different positions toward others. Adler would observe how the child participates, including whether a role makes room for companions or chiefly secures superiority.\n\nOne game is not a personality test. Children explore, imitate and change their rules. The value of observing play lies in its living relations and possibilities for encouragement, rather than assigning a permanent trait to each toy or role.",
+    "sources": [
+      "adler-nature-4"
+    ],
+    "metaphor": "A child approaches an unfinished small construction, with several places where action could begin.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a small world to practice in",
+      "variant": "play",
+      "composition": {
+        "description": "A child approaches an unfinished small construction, with several places where action could begin.",
+        "actors": [
+          {
+            "id": "child",
+            "type": "figure",
+            "x": 94,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "play",
+            "type": "path",
+            "d": "M147 158 L180 157 L180 124 L212 125 L213 94 L245 94 L245 158 M246 124 L278 123 L278 158",
+            "tone": "normal"
+          },
+          {
+            "id": "object",
+            "type": "circle",
+            "x": 304,
+            "y": 135,
+            "r": 9,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": -6
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "trying a role",
+            "x": 196,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ways of seeing",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-ways-of-seeing",
+      "order": 6
+    },
+    "related": [
+      "adler-attention",
+      "adler-social-interest"
+    ]
+  },
+  {
+    "id": "adler-social-interest",
+    "thinker": "adler",
+    "collection": "The shared world",
+    "concept": "social interest",
+    "title": "Belonging with others",
+    "statement": "The person is never a self-made island.",
+    "explanation": "Adler's social feeling concerns participation in a shared human world. It includes the capacity to cooperate and take others into account, rather than merely feeling sociable or wanting approval.",
+    "nuance": "A quiet person doing reliable shared work may express more social interest than a charming person who treats companions as an audience. The criterion is the relation to a common life, not how outgoing the personality appears.\n\nAdler treats social embeddedness as fundamental: language, care and survival depend on others. His account is therefore ethical as well as psychological. It asks how striving connects with shared life, without making constant friendliness or agreement the measure of a person's value.",
+    "sources": [
+      "adler-nature-5"
+    ],
+    "metaphor": "Two figures build opposite halves of a bridge until a shared crossing exists between them.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "belonging with others",
+      "variant": "social-interest",
+      "composition": {
+        "description": "Two figures build opposite halves of a bridge until a shared crossing exists between them.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M66 180 L142 181 M259 182 L336 179",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M115 180 Q148 110 195 113",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M195 113 Q249 105 289 181",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 4
+            }
+          },
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 104,
+            "y": 131,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 132,
+            "tone": "normal"
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a shared crossing",
+            "x": 199,
+            "y": 217,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the shared world",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-shared-world",
+      "order": 1
+    },
+    "related": [
+      "adler-play",
+      "adler-cooperation"
+    ]
+  },
+  {
+    "id": "adler-cooperation",
+    "thinker": "adler",
+    "collection": "The shared world",
+    "concept": "cooperation",
+    "title": "A task between us",
+    "statement": "Working together changes the question from rank to contribution.",
+    "explanation": "Adler contrasted concern with personal superiority against participation in communal tasks. A shared problem offers a different orientation: what needs doing, and how can each person take part?",
+    "nuance": "Two people carrying something awkward need to adjust to each other. If one insists on proving they are stronger, the task may become harder for both. Cooperation concerns responsiveness to the relation, not merely performing equal movements.\n\nA shared aim does not remove differences of skill, interest or power. Nor does it require yielding to unfair demands. Adler's emphasis asks whether the arrangement supports common life, rather than using community as a word that excuses one person's dominance.",
+    "sources": [
+      "adler-nature-5"
+    ],
+    "metaphor": "Two figures connect to opposite sides of one uneven load; the load rises only as their relation develops.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a task between us",
+      "variant": "cooperation",
+      "composition": {
+        "description": "Two figures connect to opposite sides of one uneven load; the load rises only as their relation develops.",
+        "actors": [
+          {
+            "id": "left",
+            "type": "figure",
+            "x": 111,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "figure",
+            "x": 290,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "load",
+            "type": "path",
+            "d": "M171 132 L227 130 L231 179 L169 181 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 16,
+              "delay": 0,
+              "y": -7
+            }
+          },
+          {
+            "id": "connections",
+            "type": "path",
+            "d": "M127 131 L170 147 M272 130 L229 147",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "something between us",
+            "x": 200,
+            "y": 220,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the shared world",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-shared-world",
+      "order": 2
+    },
+    "related": [
+      "adler-social-interest",
+      "adler-empathy"
+    ]
+  },
+  {
+    "id": "adler-empathy",
+    "thinker": "adler",
+    "collection": "The shared world",
+    "concept": "empathy",
+    "title": "Another point of view",
+    "statement": "Understanding someone asks for movement beyond your own position.",
+    "explanation": "Adler discussed empathy and identification as ways of approaching another person's experience. Seeing from their place requires more than attributing one's own preferences to them.",
+    "nuance": "What seems an easy choice from outside may involve obligations or fears visible only from the other person's situation. Trying to occupy that perspective can alter the explanation of their conduct.\n\nEmpathy does not guarantee accuracy, and imagined identification can become projection. The other person can correct the account. Adler's social emphasis makes understanding an encounter with another position, rather than possession of a hidden psychological key that removes the need to listen.",
+    "sources": [
+      "adler-nature-5"
+    ],
+    "metaphor": "A curved route runs from one figure around the shared space toward the place occupied by the other.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "another point of view",
+      "variant": "empathy",
+      "composition": {
+        "description": "A curved route runs from one figure around the shared space toward the place occupied by the other.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 107,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 296,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M123 94 Q198 24 279 94",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M274 96 L280 86 L287 97",
+            "tone": "normal"
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "from where they stand",
+            "x": 203,
+            "y": 222,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the shared world",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-shared-world",
+      "order": 3
+    },
+    "related": [
+      "adler-cooperation",
+      "adler-common-life"
+    ]
+  },
+  {
+    "id": "adler-common-life",
+    "thinker": "adler",
+    "collection": "The shared world",
+    "concept": "common life",
+    "title": "The shared ground",
+    "statement": "Private certainty still has to meet a world inhabited by others.",
+    "explanation": "Adler connects individual conduct with the requirements of communal life. A person's private justification can feel complete while failing to account for the needs and experiences of those around them.",
+    "nuance": "Someone might defend never asking for help as perfect independence, while relying invisibly on other people's labor. Adler asks how a personal account relates to the actual conditions that make life possible.\n\nCommunity is not automatically wise or just. Collective demands can also exclude and dominate. The useful question concerns reciprocity and reality: who contributes, who carries the cost, and whose experience the supposedly self-sufficient explanation leaves outside its frame?",
+    "sources": [
+      "adler-nature-5"
+    ],
+    "metaphor": "One figure is placed between supporting figures and uneven connecting lines, making the invisible relations visible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the shared ground",
+      "variant": "common-life",
+      "composition": {
+        "description": "One figure is placed between supporting figures and uneven connecting lines, making the invisible relations visible.",
+        "actors": [
+          {
+            "id": "child",
+            "type": "figure",
+            "x": 198,
+            "y": 147,
+            "tone": "normal"
+          },
+          {
+            "id": "parent1",
+            "type": "figure",
+            "x": 109,
+            "y": 111,
+            "tone": "faint"
+          },
+          {
+            "id": "parent2",
+            "type": "figure",
+            "x": 286,
+            "y": 113,
+            "tone": "faint"
+          },
+          {
+            "id": "relations",
+            "type": "path",
+            "d": "M123 130 Q168 166 187 146 M272 132 Q240 161 209 147",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a position among people",
+            "x": 203,
+            "y": 218,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the shared world",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-shared-world",
+      "order": 4
+    },
+    "related": [
+      "adler-empathy",
+      "adler-gender-hierarchy"
+    ]
+  },
+  {
+    "id": "adler-gender-hierarchy",
+    "thinker": "adler",
+    "collection": "The shared world",
+    "concept": "gender hierarchy",
+    "title": "The social ladder",
+    "statement": "A judgment of inferiority can be built into the culture around a child.",
+    "explanation": "Adler criticized the cultural privileging of men and the assumption that women were inherently inferior. He connected some struggles over identity and worth with unequal social valuation rather than natural deficiency.",
+    "nuance": "A girl repeatedly told that competence belongs to boys may confront both a practical barrier and an interpretation of her place. Adler's account locates that pressure within a social hierarchy, not simply inside her confidence.\n\nHis own writing also carries assumptions of its period, so this critique should not be presented as a complete contemporary theory of gender. Its relevant move is to examine how a society manufactures comparative value, and how people organize responses to that arrangement.",
+    "sources": [
+      "adler-nature-5"
+    ],
+    "metaphor": "Two similar figures stand on unequal platforms; the supporting social structure is drawn between them.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the social ladder",
+      "variant": "gender-hierarchy",
+      "composition": {
+        "description": "Two similar figures stand on unequal platforms; the supporting social structure is drawn between them.",
+        "actors": [
+          {
+            "id": "floor",
+            "type": "path",
+            "d": "M64 191 L337 191",
+            "tone": "normal"
+          },
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 114,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 117,
+            "tone": "normal"
+          },
+          {
+            "id": "platform",
+            "type": "path",
+            "d": "M260 190 L260 165 L325 165 L325 190",
+            "tone": "normal"
+          },
+          {
+            "id": "structure",
+            "type": "path",
+            "d": "M257 162 Q219 147 177 166",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a social arrangement",
+            "x": 202,
+            "y": 223,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the shared world",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-shared-world",
+      "order": 5
+    },
+    "related": [
+      "adler-common-life",
+      "adler-encouragement"
+    ]
+  },
+  {
+    "id": "adler-encouragement",
+    "thinker": "adler",
+    "collection": "The shared world",
+    "concept": "encouragement",
+    "title": "A place to attempt",
+    "statement": "Encouragement widens participation rather than awarding a superior rank.",
+    "explanation": "Adler's educational approach emphasizes conditions in which children can develop courage and social feeling. Respectful help supports an attempt without making the child's worth depend on defeating someone else.",
+    "nuance": "Compare being told that only the best child deserves attention with being helped to contribute to a shared task. The second setting gives an imperfect effort a place in the relation. It can encourage competence without requiring superiority.\n\nEncouragement is not indiscriminate praise or denial of difficulty. An attempt can need correction while still being welcomed. Adler's concern is how feedback affects the child's direction: toward engagement with others, or toward protecting a fragile position in a hierarchy.",
+    "sources": [
+      "adler-nature-5"
+    ],
+    "metaphor": "Two figures form a shared bridge with room for an incomplete section, allowing progress without a perfect first attempt.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a place to attempt",
+      "variant": "encouragement",
+      "composition": {
+        "description": "Two figures form a shared bridge with room for an incomplete section, allowing progress without a perfect first attempt.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M66 180 L142 181 M259 182 L336 179",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M115 180 Q148 110 195 113",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M195 113 Q249 105 289 181",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 4
+            }
+          },
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 104,
+            "y": 131,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 132,
+            "tone": "normal"
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "a shared crossing",
+            "x": 199,
+            "y": 217,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the shared world",
+      "individual psychology"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "adler-the-shared-world",
+      "order": 6
+    },
+    "related": [
+      "adler-gender-hierarchy",
       "adler-inferiority-feeling"
     ]
   }
