@@ -81,7 +81,7 @@
       "order": 1
     },
     "related": [
-      "freud-dream-limits",
+      "freud-three-masters",
       "freud-repression"
     ]
   },
@@ -1760,6 +1760,858 @@
     },
     "related": [
       "freud-dream-censorship",
+      "freud-id"
+    ]
+  },
+  {
+    "id": "freud-id",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "id",
+    "title": "The impersonal demand",
+    "statement": "Not every wish waits for permission.",
+    "explanation": "Freud named the id the part of mental life organized around instinctual demands. It is not an evil personality: it is a theoretical domain whose pressures do not necessarily follow conscious priorities.",
+    "nuance": "Hunger, desire and hostility do not become morally bad simply because they are unwelcome. Freud's id represents pressures that the ego must negotiate rather than a villain to defeat.\n\nThe familiar drawing of three characters arguing in a person's head can be misleading. Id, ego and superego name interacting functions in Freud's later model. They are not three separate people or brain regions, and the model remains a historical theory rather than a literal anatomical map.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "An irregular force presses against a threshold before any clear outward path has formed.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the impersonal demand",
+      "variant": "id",
+      "composition": {
+        "description": "An irregular force presses against a threshold before any clear outward path has formed.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M191 55 L194 179 M209 54 L211 178",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0,
+              "x": 3
+            }
+          },
+          {
+            "id": "pressure",
+            "type": "path",
+            "d": "M95 155 Q82 103 126 86 Q161 71 182 113 Q161 147 131 140 Q122 108 163 112",
+            "tone": "shade",
+            "motion": {
+              "kind": "pulse",
+              "duration": 12,
+              "delay": 0,
+              "scale": 1.08
+            }
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M166 141 Q183 211 244 190 Q291 171 280 114",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "another way through",
+            "x": 260,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 1
+    },
+    "related": [
+      "freud-dream-limits",
+      "freud-ego"
+    ]
+  },
+  {
+    "id": "freud-ego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "ego",
+    "title": "The negotiator",
+    "statement": "The sense of I does not govern everything it answers to.",
+    "explanation": "Freud's ego mediates among instinctual demands, moral demands and external reality. It can perceive and plan, but it also defends itself and is not wholly conscious in his later account.",
+    "nuance": "Wanting to leave a job, fearing financial loss and feeling obliged to stay creates several different demands. The ego's task is to find workable relations among them, not merely express the strongest wish.\n\nEgo here does not mean arrogance. It is Freud's term for an organization of mental functions. A person can have a powerful conscious sense of control while remaining unaware of some of the defenses used to maintain it.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A figure stands between three differently timed lines arriving from desire, obligation and the world.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the negotiator",
+      "variant": "ego",
+      "composition": {
+        "description": "A figure stands between three differently timed lines arriving from desire, obligation and the world.",
+        "actors": [
+          {
+            "id": "mediator",
+            "type": "figure",
+            "x": 204,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M75 147 Q124 144 180 140",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M228 140 Q277 146 325 147",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M204 60 L204 93",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "want",
+            "type": "text",
+            "text": "want",
+            "x": 76,
+            "y": 119
+          },
+          {
+            "id": "world",
+            "type": "text",
+            "text": "world",
+            "x": 322,
+            "y": 119
+          },
+          {
+            "id": "ought",
+            "type": "text",
+            "text": "ought",
+            "x": 205,
+            "y": 42
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 2
+    },
+    "related": [
+      "freud-id",
+      "freud-superego"
+    ]
+  },
+  {
+    "id": "freud-superego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "superego",
+    "title": "The inherited judge",
+    "statement": "A demand can continue after the person who made it has gone.",
+    "explanation": "Freud's superego includes internalized prohibitions and ideals. It can criticize the ego harshly, and its force is not simply a measure of how reasonable a rule is.",
+    "nuance": "Someone can hear an inner accusation after a minor mistake even when no one else is condemning them. Freud connects this judging function with early authority, identification and conflict.\n\nThe superego is not synonymous with a good conscience. It may demand impossible standards or punish a wish as though it were an act. Describing that mechanism does not make every moral concern irrational; it asks how a particular demand acquired its authority and severity.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A ruler descends toward a figure, narrowing the space the figure can occupy.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the inherited judge",
+      "variant": "superego",
+      "composition": {
+        "description": "A ruler descends toward a figure, narrowing the space the figure can occupy.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 182,
+            "y": 153,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 3
+            }
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 8
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M186 81 L187 107",
+            "tone": "faint"
+          },
+          {
+            "id": "ideal",
+            "type": "text",
+            "text": "the demand",
+            "x": 287,
+            "y": 53
+          },
+          {
+            "id": "person",
+            "type": "text",
+            "text": "the person",
+            "x": 266,
+            "y": 207
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 3
+    },
+    "related": [
+      "freud-ego",
+      "freud-ego-ideal"
+    ]
+  },
+  {
+    "id": "freud-ego-ideal",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "ego ideal",
+    "title": "The standard above",
+    "statement": "An ideal can guide a life or keep it permanently below its own measure.",
+    "explanation": "Freud links the ego-ideal with the superego and with earlier identifications. The person compares the actual self with an internal standard that may promise worth yet remain difficult to satisfy.",
+    "nuance": "An ideal of never needing help can turn ordinary dependence into humiliation. The ideal is doing more than setting a goal: it organizes what the person considers acceptable about themselves.\n\nFreud's terminology changes across works, so ego-ideal and superego should not always be treated as sharply separate compartments. The distinction here concerns the experience of measuring oneself against a standard, especially when that standard becomes absolute rather than open to revision.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A measuring line stays above a figure even as the figure tries to rise toward it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the standard above",
+      "variant": "ego-ideal",
+      "composition": {
+        "description": "A measuring line stays above a figure even as the figure tries to rise toward it.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 182,
+            "y": 153,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 3
+            }
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 8
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M186 81 L187 107",
+            "tone": "faint"
+          },
+          {
+            "id": "ideal",
+            "type": "text",
+            "text": "the demand",
+            "x": 287,
+            "y": 53
+          },
+          {
+            "id": "person",
+            "type": "text",
+            "text": "the person",
+            "x": 266,
+            "y": 207
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 4
+    },
+    "related": [
+      "freud-superego",
+      "freud-unconscious-ego"
+    ]
+  },
+  {
+    "id": "freud-unconscious-ego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "unconscious ego",
+    "title": "Unaware of the defense",
+    "statement": "The force excluding a thought can also be outside awareness.",
+    "explanation": "Freud's later model complicated his earlier division of mental systems. The ego is not identical with consciousness: resistance and defensive operations can be unconscious too.",
+    "nuance": "A person may sincerely insist that a topic does not matter while finding every approach to it intolerable. In Freud's account, both the conflict and the defense against it may escape awareness.\n\nThis is why conscious versus unconscious does not map neatly onto ego versus id. The structural model describes agencies and their relations; the earlier topographical model describes modes of access to awareness. Confusing the two turns a nuanced revision into a simple diagram of good and bad selves.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A visible figure sits within a larger faint field; a moving boundary inside the field acts without the figure moving.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "unaware of the defense",
+      "variant": "unconscious-ego",
+      "composition": {
+        "description": "A visible figure sits within a larger faint field; a moving boundary inside the field acts without the figure moving.",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M118 97 Q125 49 198 48 Q283 48 288 112 Q294 181 229 197 Q144 214 119 157 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M126 107 Q162 93 194 111 Q220 127 246 110 L270 116",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "fig",
+            "type": "figure",
+            "x": 202,
+            "y": 139,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": -3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "part of a larger field",
+            "x": 204,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 5
+    },
+    "related": [
+      "freud-ego-ideal",
+      "freud-preconscious"
+    ]
+  },
+  {
+    "id": "freud-preconscious",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "preconscious",
+    "title": "Within reach",
+    "statement": "Not thinking of something is different from being unable to approach it.",
+    "explanation": "Freud distinguished the preconscious from the repressed unconscious. Preconscious material is not currently noticed but can ordinarily become conscious without overcoming the special barrier of repression.",
+    "nuance": "You may not be thinking of your address until someone asks for it. That ordinary availability differs from Freud's account of a thought kept out of awareness by conflict. Both are unnoticed, but their relation to awareness differs.\n\nThe distinction prevents the word unconscious from becoming a label for everything absent from attention. Freud developed different models across his career; this card concerns accessibility in the topographical model, rather than a literal storage room located inside the brain.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A small idea crosses an open threshold when attention reaches it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "within reach",
+      "variant": "preconscious",
+      "composition": {
+        "description": "A small idea crosses an open threshold when attention reaches it.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M194 43 L193 99 M193 151 L194 210",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M193 101 L213 131 L193 153",
+            "tone": "normal",
+            "motion": {
+              "kind": "turn",
+              "duration": 14,
+              "delay": 0,
+              "angle": -32
+            }
+          },
+          {
+            "id": "idea",
+            "type": "circle",
+            "x": 139,
+            "y": 126,
+            "r": 10,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": 122
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "available",
+            "x": 286,
+            "y": 188,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 6
+    },
+    "related": [
+      "freud-unconscious-ego",
+      "freud-body-ego"
+    ]
+  },
+  {
+    "id": "freud-body-ego",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "body ego",
+    "title": "A self with an edge",
+    "statement": "The sense of self begins with bodily surfaces as well as thoughts.",
+    "explanation": "Freud described the ego as first and foremost bodily, linking it with sensations from the body and its surface. His account situates the mental sense of I in a lived relation to bodily experience.",
+    "nuance": "A touch is both something happening to the body and something sensed from within it. Freud treats that double relation as important to the formation of selfhood, rather than viewing the ego as a purely abstract thinker.\n\nThe claim is not that every feature of personality can be read from anatomy. Nor is the bodily ego a modern neuroscientific finding. It is part of Freud's attempt to describe how a differentiated sense of self emerges within a wider field of mental life.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A figure appears inside an uneven boundary whose line gradually becomes perceptible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a self with an edge",
+      "variant": "body-ego",
+      "composition": {
+        "description": "A figure appears inside an uneven boundary whose line gradually becomes perceptible.",
+        "actors": [
+          {
+            "id": "outer",
+            "type": "path",
+            "d": "M118 97 Q125 49 198 48 Q283 48 288 112 Q294 181 229 197 Q144 214 119 157 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "inner",
+            "type": "path",
+            "d": "M126 107 Q162 93 194 111 Q220 127 246 110 L270 116",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "fig",
+            "type": "figure",
+            "x": 202,
+            "y": 139,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": -3
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "part of a larger field",
+            "x": 204,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 7
+    },
+    "related": [
+      "freud-preconscious",
+      "freud-identification"
+    ]
+  },
+  {
+    "id": "freud-identification",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "identification",
+    "title": "The other within",
+    "statement": "A relationship can leave a form in the person who had it.",
+    "explanation": "Freud used identification for processes through which aspects of another person are taken into the self. In his account, attachments can alter the ego rather than simply connect two unchanged individuals.",
+    "nuance": "After a loss, someone may notice a parent's gesture becoming their own. Identification is broader than conscious imitation: Freud links it with attachment, loss and the formation of ideals.\n\nTaking on an aspect of another person does not mean becoming a complete copy. The traces can conflict, coexist and change. Freud's claim concerns how relationships help constitute the self, rather than a self that is fully formed before it encounters anyone.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A line passes from one figure to another and leaves an irregular trace within the second.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the other within",
+      "variant": "identification",
+      "composition": {
+        "description": "A line passes from one figure to another and leaves an irregular trace within the second.",
+        "actors": [
+          {
+            "id": "earlier",
+            "type": "figure",
+            "x": 103,
+            "y": 133,
+            "tone": "faint"
+          },
+          {
+            "id": "present",
+            "type": "figure",
+            "x": 273,
+            "y": 140,
+            "tone": "normal"
+          },
+          {
+            "id": "trace",
+            "type": "path",
+            "d": "M132 103 Q188 58 245 104",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "interior",
+            "type": "path",
+            "d": "M263 122 Q286 114 291 136 Q281 153 264 143 Z",
+            "tone": "shade",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "before",
+            "type": "text",
+            "text": "an attachment",
+            "x": 105,
+            "y": 206
+          },
+          {
+            "id": "after",
+            "type": "text",
+            "text": "a lasting pattern",
+            "x": 281,
+            "y": 212
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 8
+    },
+    "related": [
+      "freud-body-ego",
+      "freud-unconscious-guilt"
+    ]
+  },
+  {
+    "id": "freud-unconscious-guilt",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "unconscious guilt",
+    "title": "Punishment without a verdict",
+    "statement": "A person can feel driven toward punishment without knowing the accusation.",
+    "explanation": "Freud proposed unconscious guilt to explain some forms of self-punishment and resistance to improvement. The term describes an inferred judging relation, rather than guilt necessarily experienced as a clear feeling.",
+    "nuance": "A success followed by compulsive self-reproach might lead Freud to ask whether improvement has become unacceptable within an internal conflict. That interpretation cannot be assumed just because something goes wrong.\n\nThe idea is especially difficult because the accusation may not be consciously reportable. It should therefore be presented as a contested clinical hypothesis. It does not establish that suffering is deserved, secretly desired or caused by a person's failure to think correctly.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "A figure sits beneath a descending measure; the name of the supposed offense never appears.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "punishment without a verdict",
+      "variant": "unconscious-guilt",
+      "composition": {
+        "description": "A figure sits beneath a descending measure; the name of the supposed offense never appears.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 182,
+            "y": 153,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 3
+            }
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 8
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M186 81 L187 107",
+            "tone": "faint"
+          },
+          {
+            "id": "ideal",
+            "type": "text",
+            "text": "the demand",
+            "x": 287,
+            "y": 53
+          },
+          {
+            "id": "person",
+            "type": "text",
+            "text": "the person",
+            "x": 266,
+            "y": 207
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 9
+    },
+    "related": [
+      "freud-identification",
+      "freud-three-masters"
+    ]
+  },
+  {
+    "id": "freud-three-masters",
+    "thinker": "freud",
+    "collection": "A divided mind",
+    "concept": "three masters",
+    "title": "The crowded task",
+    "statement": "A workable choice may still disappoint part of the mind.",
+    "explanation": "Freud describes the ego as answering to external reality, the id and the superego. Their demands can diverge so strongly that no response provides complete satisfaction.",
+    "nuance": "Choosing to rest might answer exhaustion while provoking an ideal of constant duty. Choosing to work might meet the ideal while worsening the bodily strain. Freud's model makes room for a choice that is necessary yet emotionally costly.\n\nThis is a theory of conflicting demands, not a command to obey a particular inner voice. The important distinction is between finding a workable arrangement and imagining that every tension can be eliminated. Some compromises preserve a conflict while making life possible.",
+    "sources": [
+      "freud-ego-5"
+    ],
+    "metaphor": "Three lines reach a central figure at different times; the figure shifts slightly without dissolving any line.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the crowded task",
+      "variant": "three-masters",
+      "composition": {
+        "description": "Three lines reach a central figure at different times; the figure shifts slightly without dissolving any line.",
+        "actors": [
+          {
+            "id": "mediator",
+            "type": "figure",
+            "x": 204,
+            "y": 146,
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M75 147 Q124 144 180 140",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M228 140 Q277 146 325 147",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M204 60 L204 93",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "want",
+            "type": "text",
+            "text": "want",
+            "x": 76,
+            "y": 119
+          },
+          {
+            "id": "world",
+            "type": "text",
+            "text": "world",
+            "x": 322,
+            "y": 119
+          },
+          {
+            "id": "ought",
+            "type": "text",
+            "text": "ought",
+            "x": 205,
+            "y": 42
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a divided mind",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-a-divided-mind",
+      "order": 10
+    },
+    "related": [
+      "freud-unconscious-guilt",
       "freud-unconscious"
     ]
   }
