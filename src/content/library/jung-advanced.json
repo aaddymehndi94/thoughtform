@@ -13,64 +13,315 @@
       "jung-advanced-transcendent",
       "jung-advanced-types-symbol"
     ],
-    "metaphor": "Two horizontal demands hold their positions; a connecting vessel forms between them and then opens an upward route, preserving both inputs.",
+    "metaphor": "A musician’s opposed demands for belonging and independence acquire a new arrangement that changes their relation.",
     "scene": {
       "kind": "notebook",
       "variant": "transcendent-function",
       "caption": "Transcendent function",
-      "composition": {
-        "description": "Two horizontal demands hold their positions; a connecting vessel forms between them and then opens an upward route, preserving both inputs.",
-        "actors": [
+      "lesson": {
+        "description": "A musician’s opposed demands for belonging and independence acquire a new arrangement that changes their relation.",
+        "beats": [
           {
-            "id": "left",
-            "type": "path",
-            "d": "M69 132 L155 132 M143 124 L155 132 L143 141"
+            "caption": "A musician feels torn between family belonging and independent work.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "musician",
+                "type": "figure",
+                "x": 200,
+                "y": 142
+              },
+              {
+                "id": "family",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-roof",
+                    "type": "path",
+                    "d": "M-29.0 0 L0 -30 L29.0 0"
+                  },
+                  {
+                    "id": "family-walls",
+                    "type": "path",
+                    "d": "M-25.0 0 L-25.0 48 L25.0 48 L25.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 83,
+                "y": 113
+              },
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "work-label",
+                    "type": "text",
+                    "text": "music",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 312,
+                "y": 120
+              }
+            ]
           },
           {
-            "id": "right",
-            "type": "path",
-            "d": "M330 132 L247 132 M259 124 L247 132 L259 141"
+            "caption": "The available answers seem to be total submission or complete departure.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "musician",
+                "type": "figure",
+                "x": 200,
+                "y": 142
+              },
+              {
+                "id": "submit",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "submit-outline",
+                    "type": "path",
+                    "d": "M-56.0 -47.5 L56.0 -46.5 L55.0 47.5 L-55.0 46.5 Z"
+                  },
+                  {
+                    "id": "submit-word0-line0",
+                    "type": "text",
+                    "text": "submit",
+                    "x": 0,
+                    "y": -23.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 83,
+                "y": 104
+              },
+              {
+                "id": "leave",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "leave-outline",
+                    "type": "path",
+                    "d": "M-56.0 -47.5 L56.0 -46.5 L55.0 47.5 L-55.0 46.5 Z"
+                  },
+                  {
+                    "id": "leave-word0-line0",
+                    "type": "text",
+                    "text": "vanish",
+                    "x": 0,
+                    "y": -23.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 312,
+                "y": 104
+              }
+            ]
           },
           {
-            "id": "vessel",
-            "type": "path",
-            "d": "M157 110 Q198 75 242 108 L244 149 Q201 184 158 148 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A new arrangement gives chosen time to family and protected time to music.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "musician",
+                "type": "figure",
+                "x": 200,
+                "y": 142
+              },
+              {
+                "id": "family",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-roof",
+                    "type": "path",
+                    "d": "M-29.0 0 L0 -30 L29.0 0"
+                  },
+                  {
+                    "id": "family-walls",
+                    "type": "path",
+                    "d": "M-25.0 0 L-25.0 48 L25.0 48 L25.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 83,
+                "y": 113
+              },
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "work-label",
+                    "type": "text",
+                    "text": "music",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 312,
+                "y": 120
+              },
+              {
+                "id": "arrangement",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "arrangement-outline",
+                    "type": "path",
+                    "d": "M-102.5 -22.0 L102.5 -21.0 L101.5 22.0 L-101.5 21.0 Z"
+                  },
+                  {
+                    "id": "arrangement-word0-line0",
+                    "type": "text",
+                    "text": "chosen participation",
+                    "x": 0,
+                    "y": 2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 36
+              },
+              {
+                "id": "chosen-relation",
+                "type": "path",
+                "d": "M83 165 Q127 211 178 194 M220 194 Q244 214 258 162"
+              },
+              {
+                "id": "family-term",
+                "type": "text",
+                "text": "chosen visits",
+                "x": 84,
+                "y": 229,
+                "anchor": "middle",
+                "fontSize": 14
+              },
+              {
+                "id": "work-term",
+                "type": "text",
+                "text": "protected work",
+                "x": 312,
+                "y": 229,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ]
           },
           {
-            "id": "new",
-            "type": "path",
-            "d": "M200 131 Q211 110 201 86 Q191 70 201 50 M191 59 L201 49 L210 60",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "independence",
-            "x": 60,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "attachment",
-            "x": 252,
-            "y": 222
-          },
-          {
-            "id": "new-label",
-            "type": "text",
-            "text": "a new relation",
-            "x": 146,
-            "y": 35
+            "caption": "Jung’s third position changes the relation between the demands.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "musician",
+                "type": "figure",
+                "x": 200,
+                "y": 142
+              },
+              {
+                "id": "family",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-roof",
+                    "type": "path",
+                    "d": "M-29.0 0 L0 -30 L29.0 0"
+                  },
+                  {
+                    "id": "family-walls",
+                    "type": "path",
+                    "d": "M-25.0 0 L-25.0 48 L25.0 48 L25.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 83,
+                "y": 113
+              },
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "work-label",
+                    "type": "text",
+                    "text": "music",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 312,
+                "y": 120
+              },
+              {
+                "id": "arrangement",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "arrangement-outline",
+                    "type": "path",
+                    "d": "M-102.5 -22.0 L102.5 -21.0 L101.5 22.0 L-101.5 21.0 Z"
+                  },
+                  {
+                    "id": "arrangement-word0-line0",
+                    "type": "text",
+                    "text": "chosen participation",
+                    "x": 0,
+                    "y": 2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 36
+              },
+              {
+                "id": "chosen-relation",
+                "type": "path",
+                "d": "M83 165 Q127 211 178 194 M220 194 Q244 214 258 162"
+              },
+              {
+                "id": "family-term",
+                "type": "text",
+                "text": "chosen visits",
+                "x": 84,
+                "y": 229,
+                "anchor": "middle",
+                "fontSize": 14
+              },
+              {
+                "id": "work-term",
+                "type": "text",
+                "text": "protected work",
+                "x": 312,
+                "y": 229,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ]
           }
         ]
       }
@@ -99,19 +350,61 @@
         ]
       },
       {
-        "description": "A third position changes the relation: both demands connect to a new route rather than cancelling each other.",
+        "description": "Chosen family time and protected musical work form a new relation instead of alternating total submission and escape.",
         "actors": [
           {
-            "id": "arms",
+            "id": "house",
             "type": "path",
-            "d": "M92 151 Q151 155 199 119 Q243 154 302 151 M199 119 L201 62 M193 70 L201 62 L208 72"
+            "d": "M56 115L93 77L132 115 M65 106L65 165L123 165L123 106"
           },
           {
-            "id": "a",
+            "id": "music",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 294,
+            "y": 128,
+            "pose": {
+              "scale": 0.8
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 199,
+            "y": 161,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M123 162Q159 186 185 173 M213 173Q251 188 270 163"
+          },
+          {
+            "id": "family",
             "type": "text",
-            "text": "different terms",
-            "x": 132,
-            "y": 222
+            "text": "chosen belonging",
+            "x": 98,
+            "y": 223,
+            "anchor": "middle",
+            "fontSize": 15
+          },
+          {
+            "id": "work",
+            "type": "text",
+            "text": "protected work",
+            "x": 293,
+            "y": 223,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       }
@@ -126,7 +419,7 @@
       "order": 1
     },
     "related": [
-      "jung-dream-levels",
+      "jung-amplification",
       "jung-enantiodromia"
     ]
   },
@@ -143,66 +436,230 @@
     "sources": [
       "jung-advanced-types-enantiodromia"
     ],
-    "metaphor": "A pendulum is first pulled toward control; its arc continues toward an excluded opposite, while the narrow track remains unchanged.",
+    "metaphor": "A person’s compulsory kindness excludes anger until the response reverses into compulsory refusal.",
     "scene": {
       "kind": "notebook",
       "variant": "enantiodromia",
       "caption": "Enantiodromia",
-      "composition": {
-        "description": "A person moves from total control to total refusal along a returning track; the narrow pair of positions remains unchanged.",
-        "actors": [
+      "lesson": {
+        "description": "A person’s compulsory kindness excludes anger until the response reverses into compulsory refusal.",
+        "beats": [
           {
-            "id": "axis",
-            "type": "path",
-            "d": "M81 157 L320 158"
+            "caption": "A person permits themselves only kindness toward a demanding friend.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 108,
+                "y": 144
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 297,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "kind",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "kind-outline",
+                    "type": "path",
+                    "d": "M-65.0 -27 L65.0 -27 L65.0 20 L12 20 L0 33 L-1 20 L-65.0 20 Z"
+                  },
+                  {
+                    "id": "kind-words-line0",
+                    "type": "text",
+                    "text": "always yes",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 110,
+                "y": 41
+              }
+            ]
           },
           {
-            "id": "outward",
-            "type": "path",
-            "d": "M101 106 Q196 65 291 107 M280 97 L291 107 L277 110",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Resentment has no acknowledged place and gathers outside that identity.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 108,
+                "y": 144
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 297,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "kind",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "kind-outline",
+                    "type": "path",
+                    "d": "M-65.0 -27 L65.0 -27 L65.0 20 L12 20 L0 33 L-1 20 L-65.0 20 Z"
+                  },
+                  {
+                    "id": "kind-words-line0",
+                    "type": "text",
+                    "text": "always yes",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 110,
+                "y": 41
+              },
+              {
+                "id": "anger",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anger-outline",
+                    "type": "path",
+                    "d": "M-52.5 -34.5 L52.5 -33.5 L51.5 34.5 L-51.5 33.5 Z"
+                  },
+                  {
+                    "id": "anger-word0-line0",
+                    "type": "text",
+                    "text": "resentment",
+                    "x": 0,
+                    "y": -10.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 208,
+                "y": 141
+              }
+            ]
           },
           {
-            "id": "return",
-            "type": "path",
-            "d": "M294 166 Q197 204 104 166 M116 164 L104 166 L111 177",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "The response abruptly reverses into a severe refusal.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 108,
+                "y": 144
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 297,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "kind",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "kind-outline",
+                    "type": "path",
+                    "d": "M-69.0 -27 L69.0 -27 L69.0 20 L12 20 L0 33 L-1 20 L-69.0 20 Z"
+                  },
+                  {
+                    "id": "kind-words-line0",
+                    "type": "text",
+                    "text": "never again",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 110,
+                "y": 41
+              },
+              {
+                "id": "anger",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anger-outline",
+                    "type": "path",
+                    "d": "M-52.5 -34.5 L52.5 -33.5 L51.5 34.5 L-51.5 33.5 Z"
+                  },
+                  {
+                    "id": "anger-word0-line0",
+                    "type": "text",
+                    "text": "anger",
+                    "x": 0,
+                    "y": -10.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 208,
+                "y": 141
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "circle",
-            "x": 104,
-            "y": 132,
-            "r": 10
-          },
-          {
-            "id": "b",
-            "type": "circle",
-            "x": 293,
-            "y": 132,
-            "r": 10
-          },
-          {
-            "id": "a-label",
-            "type": "text",
-            "text": "total control",
-            "x": 60,
-            "y": 222
-          },
-          {
-            "id": "b-label",
-            "type": "text",
-            "text": "total refusal",
-            "x": 246,
-            "y": 222
+            "caption": "Both extremes can preserve the same rigid pattern; reversal alone does not integrate it.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 108,
+                "y": 144
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 297,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "extremes",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "extremes-outline",
+                    "type": "path",
+                    "d": "M-152.5 -26.5 L152.5 -25.5 L151.5 26.5 L-151.5 25.5 Z"
+                  },
+                  {
+                    "id": "extremes-word0-line0",
+                    "type": "text",
+                    "text": "always yes / never again",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 37
+              },
+              {
+                "id": "pattern",
+                "type": "text",
+                "text": "the permitted range is still narrow",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -290,88 +747,179 @@
     "sources": [
       "jung-advanced-inflation"
     ],
-    "metaphor": "A small figure stands beside an immense crown-shaped outline; the outline moves over the figure while the figure’s actual size remains unchanged.",
+    "metaphor": "A person encounters an immense crown in a dream, appropriates its authority, then mistakes criticism for an attack on the revelation.",
     "scene": {
       "kind": "notebook",
       "variant": "inflation",
       "caption": "Psychic inflation",
-      "composition": {
-        "description": "A small figure stands beside an immense crown-shaped outline; the outline moves over the figure while the figure’s actual size remains unchanged.",
-        "actors": [
+      "lesson": {
+        "description": "A person encounters an immense crown in a dream, appropriates its authority, then mistakes criticism for an attack on the revelation.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 179,
-            "y": 143
+            "caption": "A dream presents an overwhelming image of a wise ruler.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 106,
+                "y": 146
+              },
+              {
+                "id": "crown",
+                "type": "path",
+                "d": "M233 98 L231 56 L260 77 L287 45 L313 77 L344 54 L341 100 Z"
+              }
+            ]
           },
           {
-            "id": "crown",
-            "type": "path",
-            "d": "M130 86 L134 39 L165 61 L196 29 L225 61 L257 40 L261 87 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "The dreamer treats its authority as proof of their own exceptional wisdom.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 202,
+                "y": 147
+              },
+              {
+                "id": "crown",
+                "type": "path",
+                "d": "M153 77 L152 35 L182 56 L209 24 L234 56 L265 33 L262 79 Z"
+              },
+              {
+                "id": "claim",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "claim-outline",
+                    "type": "path",
+                    "d": "M-62.5 -27 L62.5 -27 L62.5 20 L12 20 L0 33 L-1 20 L-62.5 20 Z"
+                  },
+                  {
+                    "id": "claim-words-line0",
+                    "type": "text",
+                    "text": "I know best.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 308,
+                "y": 138
+              }
+            ]
           },
           {
-            "id": "boundary",
-            "type": "path",
-            "d": "M112 104 Q198 59 284 103 Q310 143 280 183 Q200 218 118 180 Q85 139 112 104 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Ordinary criticism is excluded as beneath the insight.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 202,
+                "y": 147
+              },
+              {
+                "id": "crown",
+                "type": "path",
+                "d": "M153 77 L152 35 L182 56 L209 24 L234 56 L265 33 L262 79 Z"
+              },
+              {
+                "id": "criticism",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "criticism-outline",
+                    "type": "path",
+                    "d": "M-52.0 -42.5 L52.0 -41.5 L51.0 42.5 L-51.0 41.5 Z"
+                  },
+                  {
+                    "id": "criticism-word0-line0",
+                    "type": "text",
+                    "text": "criticism",
+                    "x": 0,
+                    "y": -18.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 82,
+                "y": 114
+              },
+              {
+                "id": "block",
+                "type": "path",
+                "d": "M145 88 L145 175"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "the experience",
-            "x": 57,
-            "y": 233
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "the person",
-            "x": 257,
-            "y": 233
+            "caption": "Inflation claims the image’s authority as personal greatness. Reflection keeps it open.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 107,
+                "y": 147
+              },
+              {
+                "id": "crown",
+                "type": "path",
+                "d": "M233 98 L231 56 L260 77 L287 45 L313 77 L344 54 L341 100 Z"
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "text": "an experience to examine",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "An experience can exceed the person without becoming a title to rule other people.",
+        "description": "A powerful image can carry unusual authority while the person experiencing it remains limited.",
         "actors": [
           {
-            "id": "experience",
-            "type": "circle",
-            "x": 204,
-            "y": 116,
-            "r": 69
+            "id": "person",
+            "type": "figure",
+            "x": 117,
+            "y": 154,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": false
           },
           {
-            "id": "ego",
-            "type": "circle",
-            "x": 202,
-            "y": 118,
-            "r": 9
+            "id": "crown",
+            "type": "path",
+            "d": "M237 108L236 77L257 93L279 65L303 93L325 77L324 109Z"
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "large experience",
-            "x": 130,
-            "y": 222
-          },
-          {
-            "id": "b",
+            "id": "person-label",
             "type": "text",
             "text": "limited person",
-            "x": 139,
-            "y": 194
+            "x": 117,
+            "y": 223,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "image-label",
+            "type": "text",
+            "text": "powerful experience",
+            "x": 280,
+            "y": 223,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -425,76 +973,319 @@
     "sources": [
       "jung-advanced-types-constructive"
     ],
-    "metaphor": "A house-shaped image sits at a junction: one line reaches into earlier conditions, another opens toward an unfinished outline.",
+    "metaphor": "A dream of leaving a house is examined through the causes that shaped it and the new relation it might express.",
     "scene": {
       "kind": "notebook",
       "variant": "two-readings",
       "caption": "Reductive and constructive reading",
-      "composition": {
-        "description": "A house-shaped image sits at a junction: one line reaches into earlier conditions, another opens toward an unfinished outline.",
-        "actors": [
+      "lesson": {
+        "description": "A dream of leaving a house is examined through the causes that shaped it and the new relation it might express.",
+        "beats": [
           {
-            "id": "house",
-            "type": "path",
-            "d": "M167 145 L166 101 L198 76 L234 100 L234 145 Z M191 145 L191 119 L208 119 L208 145"
+            "caption": "A person dreams of leaving a familiar house.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 103,
+                "y": 145
+              },
+              {
+                "id": "dreamhouse",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "dreamhouse-roof",
+                    "type": "path",
+                    "d": "M-45.0 0 L0 -30 L45.0 0"
+                  },
+                  {
+                    "id": "dreamhouse-walls",
+                    "type": "path",
+                    "d": "M-41.0 0 L-41.0 48 L41.0 48 L41.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 279,
+                "y": 97
+              },
+              {
+                "id": "dream",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "dream-outline",
+                    "type": "path",
+                    "d": "M-56.5 -19.0 L56.5 -18.0 L55.5 19.0 L-55.5 18.0 Z"
+                  },
+                  {
+                    "id": "dream-word0-line0",
+                    "type": "text",
+                    "text": "a dream",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 43
+              }
+            ]
           },
           {
-            "id": "back",
-            "type": "path",
-            "d": "M159 124 Q129 104 89 125 M102 117 L89 125 L102 132",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A causal reading asks about memories, conflict, or wishes behind the dream.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "dreamhouse",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "dreamhouse-roof",
+                    "type": "path",
+                    "d": "M-37.0 0 L0 -30 L37.0 0"
+                  },
+                  {
+                    "id": "dreamhouse-walls",
+                    "type": "path",
+                    "d": "M-33.0 0 L-33.0 48 L33.0 48 L33.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 201,
+                "y": 88
+              },
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "memory-outline",
+                    "type": "path",
+                    "d": "M-61.5 -33.0 L61.5 -32.0 L60.5 33.0 L-60.5 32.0 Z"
+                  },
+                  {
+                    "id": "memory-word0-line0",
+                    "type": "text",
+                    "text": "memories",
+                    "x": 0,
+                    "y": -9.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 85,
+                "y": 177
+              },
+              {
+                "id": "conflict",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "conflict-outline",
+                    "type": "path",
+                    "d": "M-58.0 -33.0 L58.0 -32.0 L57.0 33.0 L-57.0 32.0 Z"
+                  },
+                  {
+                    "id": "conflict-word0-line0",
+                    "type": "text",
+                    "text": "conflict",
+                    "x": 0,
+                    "y": -9.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 292,
+                "y": 177
+              }
+            ]
           },
           {
-            "id": "ahead",
-            "type": "path",
-            "d": "M243 125 Q279 102 320 124 M310 116 L320 124 L309 132",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A constructive reading asks what new relation the image could express.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "dreamhouse",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "dreamhouse-roof",
+                    "type": "path",
+                    "d": "M-37.0 0 L0 -30 L37.0 0"
+                  },
+                  {
+                    "id": "dreamhouse-walls",
+                    "type": "path",
+                    "d": "M-33.0 0 L-33.0 48 L33.0 48 L33.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 109,
+                "y": 88
+              },
+              {
+                "id": "possibility",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "possibility-outline",
+                    "type": "path",
+                    "d": "M-78.5 -55.5 L78.5 -54.5 L77.5 55.5 L-77.5 54.5 Z"
+                  },
+                  {
+                    "id": "possibility-word0-line0",
+                    "type": "text",
+                    "text": "a new relation",
+                    "x": 0,
+                    "y": -31.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 120
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "what might be developing?",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "antecedents",
-            "x": 57,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "possibilities",
-            "x": 254,
-            "y": 222
+            "caption": "Each reading needs the dreamer’s context. The dream itself does not command a move.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "dreamhouse",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "dreamhouse-roof",
+                    "type": "path",
+                    "d": "M-37.0 0 L0 -30 L37.0 0"
+                  },
+                  {
+                    "id": "dreamhouse-walls",
+                    "type": "path",
+                    "d": "M-33.0 0 L-33.0 48 L33.0 48 L33.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 109,
+                "y": 88
+              },
+              {
+                "id": "possibility",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "possibility-outline",
+                    "type": "path",
+                    "d": "M-78.5 -55.5 L78.5 -54.5 L77.5 55.5 L-77.5 54.5 Z"
+                  },
+                  {
+                    "id": "possibility-word0-line0",
+                    "type": "text",
+                    "text": "a possibility",
+                    "x": 0,
+                    "y": -31.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 120
+              },
+              {
+                "id": "context",
+                "type": "text",
+                "text": "test the reading against this life",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "The causal question follows an image back to the conditions that helped produce it.",
+        "description": "A dream of a house can be considered alongside memories and conflicts that helped produce it.",
         "actors": [
           {
-            "id": "image",
+            "id": "house",
             "type": "path",
-            "d": "M230 91 L264 73 L281 116 L261 150 L223 135 Z"
+            "d": "M169 107L204 69L244 107 M180 97L180 153L234 153L234 97"
           },
           {
-            "id": "back",
-            "type": "path",
-            "d": "M220 123 L105 122 M116 114 L105 122 L116 130"
+            "id": "memory",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 85,
+            "y": 154,
+            "pose": {
+              "scale": 0.6
+            }
           },
           {
-            "id": "a",
+            "id": "conflict",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 322,
+            "y": 154,
+            "pose": {
+              "scale": 0.6
+            }
+          },
+          {
+            "id": "connect",
+            "type": "path",
+            "d": "M106 134Q131 94 174 95 M297 137Q281 99 239 97"
+          },
+          {
+            "id": "past1",
             "type": "text",
-            "text": "where did it arise?",
-            "x": 106,
-            "y": 222
+            "text": "memories",
+            "x": 84,
+            "y": 222,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "past2",
+            "type": "text",
+            "text": "recent conflict",
+            "x": 321,
+            "y": 222,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "dream",
+            "type": "text",
+            "text": "the dream image",
+            "x": 204,
+            "y": 44,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -554,45 +1345,224 @@
     "sources": [
       "jung-advanced-energy"
     ],
-    "metaphor": "Three channels branch from one junction; a small mark travels toward a different outlet while the previous channel remains in the drawing.",
+    "metaphor": "Intensity leaves a collapsed ambition and appears in another interest, distinguishing what a person declares important from what grips them.",
     "scene": {
       "kind": "notebook",
       "variant": "psychic-energy",
       "caption": "Psychic energy",
-      "composition": {
-        "description": "Three channels branch from one junction; a small mark travels toward a different outlet while the previous channel remains in the drawing.",
-        "actors": [
+      "lesson": {
+        "description": "Intensity leaves a collapsed ambition and appears in another interest, distinguishing what a person declares important from what grips them.",
+        "beats": [
           {
-            "id": "channels",
-            "type": "path",
-            "d": "M77 120 L172 120 Q205 86 291 78 M172 120 Q219 125 319 124 M172 120 Q210 162 291 174"
+            "caption": "A career ambition once held the person’s attention.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 106,
+                "y": 144
+              },
+              {
+                "id": "career",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "career-outline",
+                    "type": "path",
+                    "d": "M-63.5 -56.0 L63.5 -55.0 L62.5 56.0 L-62.5 55.0 Z"
+                  },
+                  {
+                    "id": "career-word0-line0",
+                    "type": "text",
+                    "text": "career",
+                    "x": 0,
+                    "y": -32.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 279,
+                "y": 105
+              },
+              {
+                "id": "intensity",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "intensity-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 195,
+                "y": 64
+              }
+            ]
           },
           {
-            "id": "charge",
-            "type": "circle",
-            "x": 104,
-            "y": 120,
-            "r": 6,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "x": 183,
-              "y": 52
-            }
+            "caption": "After a failure, it evokes little interest.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 106,
+                "y": 144
+              },
+              {
+                "id": "career",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "career-outline",
+                    "type": "path",
+                    "d": "M-63.5 -56.0 L63.5 -55.0 L62.5 56.0 L-62.5 55.0 Z"
+                  },
+                  {
+                    "id": "career-word0-line0",
+                    "type": "text",
+                    "text": "career",
+                    "x": 0,
+                    "y": -32.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 279,
+                "y": 105
+              },
+              {
+                "id": "failure",
+                "type": "path",
+                "d": "M253 79 L305 131 M305 79 L253 131"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "old investment",
-            "x": 57,
-            "y": 222
+            "caption": "Family history now becomes intensely compelling.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 106,
+                "y": 144
+              },
+              {
+                "id": "career",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "career-outline",
+                    "type": "path",
+                    "d": "M-57.5 -26.5 L57.5 -25.5 L56.5 26.5 L-56.5 25.5 Z"
+                  },
+                  {
+                    "id": "career-word0-line0",
+                    "type": "text",
+                    "text": "career",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 59
+              },
+              {
+                "id": "history",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "history-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "history-label",
+                    "type": "text",
+                    "text": "family history",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 281,
+                "y": 145
+              },
+              {
+                "id": "intensity",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "intensity-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 279,
+                "y": 107
+              }
+            ]
           },
           {
-            "id": "b",
-            "type": "text",
-            "text": "new investment",
-            "x": 241,
-            "y": 222
+            "caption": "Jung’s model follows psychological intensity; it does not measure a literal fluid.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 106,
+                "y": 144
+              },
+              {
+                "id": "history",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "history-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "history-label",
+                    "type": "text",
+                    "text": "family history",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 281,
+                "y": 117
+              },
+              {
+                "id": "intensity",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "intensity-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 281,
+                "y": 70
+              },
+              {
+                "id": "model",
+                "type": "text",
+                "text": "where does psychological intensity go?",
+                "x": 200,
+                "y": 232,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -631,19 +1601,71 @@
         ]
       },
       {
-        "description": "A name for psychological intensity is not a claim that a literal fluid inhabits the mind.",
+        "description": "The abandoned career remains an object of thought while family history begins to receive stronger attention.",
         "actors": [
           {
-            "id": "wave",
-            "type": "path",
-            "d": "M82 123 Q122 60 162 123 Q201 184 241 124 Q279 74 318 122"
+            "id": "career",
+            "type": "group",
+            "children": [
+              {
+                "id": "career-edge",
+                "type": "path",
+                "d": "M-49.0 -44.5 L49.0 -43.5 L48.0 44.5 L-48.0 43.5 Z"
+              },
+              {
+                "id": "career-text0",
+                "type": "text",
+                "text": "career",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 105,
+            "y": 119,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "a",
+            "id": "history",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 294,
+            "y": 119,
+            "pose": {
+              "scale": 0.85
+            }
+          },
+          {
+            "id": "charge",
+            "type": "path",
+            "d": "M294 57L294 75 M268 63L280 78 M319 63L308 78 M261 84L278 88 M325 84L309 89"
+          },
+          {
+            "id": "less",
             "type": "text",
-            "text": "an explanatory model",
-            "x": 108,
-            "y": 222
+            "text": "little intensity",
+            "x": 105,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "more",
+            "type": "text",
+            "text": "absorbing interest",
+            "x": 294,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -675,60 +1697,250 @@
     "sources": [
       "jung-advanced-energy-progression"
     ],
-    "metaphor": "A tool-shaped path reaches an opening that once fitted it; the changed opening makes the fit incomplete, separating continued movement from adequate adaptation.",
+    "metaphor": "A teacher’s established classroom method works for a task until a changed demand exposes its limits.",
     "scene": {
       "kind": "notebook",
       "variant": "progression",
       "caption": "Progression",
-      "composition": {
-        "description": "A tool-shaped path reaches an opening that once fitted it; the changed opening makes the fit incomplete, separating continued movement from adequate adaptation.",
-        "actors": [
+      "lesson": {
+        "description": "A teacher’s established classroom method works for a task until a changed demand exposes its limits.",
+        "beats": [
           {
-            "id": "path",
-            "type": "path",
-            "d": "M64 135 Q136 124 205 135 L268 135",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A teacher’s established method keeps the classroom organized.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 105,
+                "y": 143
+              },
+              {
+                "id": "classroom",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "classroom-outline",
+                    "type": "path",
+                    "d": "M-70.0 -58.0 L70.0 -57.0 L69.0 58.0 L-69.0 57.0 Z"
+                  },
+                  {
+                    "id": "classroom-word0-line0",
+                    "type": "text",
+                    "text": "a working",
+                    "x": 0,
+                    "y": -34.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "classroom-word0-line1",
+                    "type": "text",
+                    "text": "routine",
+                    "x": 0,
+                    "y": -14.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 107
+              }
+            ]
           },
           {
-            "id": "opening",
-            "type": "path",
-            "d": "M271 70 L271 108 M271 164 L271 202"
+            "caption": "A new pupil has a need the usual method does not meet.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 105,
+                "y": 143
+              },
+              {
+                "id": "classroom",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "classroom-outline",
+                    "type": "path",
+                    "d": "M-70.0 -39.0 L70.0 -38.0 L69.0 39.0 L-69.0 38.0 Z"
+                  },
+                  {
+                    "id": "classroom-word0-line0",
+                    "type": "text",
+                    "text": "a working",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "classroom-word0-line1",
+                    "type": "text",
+                    "text": "routine",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 77
+              },
+              {
+                "id": "pupil",
+                "type": "figure",
+                "x": 284,
+                "y": 172,
+                "pose": {
+                  "scale": 0.55
+                },
+                "facing": true
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "need-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 315,
+                "y": 143
+              }
+            ]
           },
           {
-            "id": "task",
-            "type": "path",
-            "d": "M277 109 Q301 100 318 128 L307 163 L273 165"
+            "caption": "Repeating the same routine leaves the difficulty in place.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 105,
+                "y": 143
+              },
+              {
+                "id": "classroom",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "classroom-outline",
+                    "type": "path",
+                    "d": "M-70.0 -39.0 L70.0 -38.0 L69.0 39.0 L-69.0 38.0 Z"
+                  },
+                  {
+                    "id": "classroom-word0-line0",
+                    "type": "text",
+                    "text": "the same",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "classroom-word0-line1",
+                    "type": "text",
+                    "text": "routine",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 77
+              },
+              {
+                "id": "pupil",
+                "type": "figure",
+                "x": 284,
+                "y": 172,
+                "pose": {
+                  "scale": 0.55
+                },
+                "facing": true
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "need-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 315,
+                "y": 143
+              }
+            ]
           },
           {
-            "id": "moving",
-            "type": "circle",
-            "x": 91,
-            "y": 133,
-            "r": 5,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "x": 152,
-              "y": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "established method",
-            "x": 43,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "changed demand",
-            "x": 242,
-            "y": 222
+            "caption": "Progression names adaptation to a task. Development raises a wider question.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "teacher",
+                "type": "figure",
+                "x": 105,
+                "y": 143
+              },
+              {
+                "id": "pupil",
+                "type": "figure",
+                "x": 284,
+                "y": 153,
+                "pose": {
+                  "scale": 0.7
+                },
+                "facing": true
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-126.5 -23.0 L126.5 -22.0 L125.5 23.0 L-125.5 22.0 Z"
+                  },
+                  {
+                    "id": "question-word0-line0",
+                    "type": "text",
+                    "text": "what does this situation",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "question-word0-line1",
+                    "type": "text",
+                    "text": "require?",
+                    "x": 0,
+                    "y": 18.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 36
+              },
+              {
+                "id": "task",
+                "type": "text",
+                "text": "adaptation is a relation",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -764,31 +1976,75 @@
         ]
       },
       {
-        "description": "Outward advancement and development of personality are two questions, not one scale.",
+        "description": "A successful classroom routine can meet one task while overlooking a particular pupil’s difficulty.",
         "actors": [
           {
-            "id": "forward",
+            "id": "teacher",
+            "type": "figure",
+            "x": 104,
+            "y": 158,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": false
+          },
+          {
+            "id": "pupil",
+            "type": "figure",
+            "x": 286,
+            "y": 161,
+            "pose": {
+              "scale": 0.55
+            },
+            "facing": true
+          },
+          {
+            "id": "routine",
+            "type": "group",
+            "children": [
+              {
+                "id": "page",
+                "type": "path",
+                "d": "M-35-43 L35-42 L34 43 L-34 42Z M-23-21L22-20 M-23-2L20-2 M-23 19L22 20"
+              }
+            ],
+            "x": 199,
+            "y": 127,
+            "pose": {
+              "scale": 0.55
+            }
+          },
+          {
+            "id": "need",
             "type": "path",
-            "d": "M82 114 L319 114 M309 105 L319 114 L308 123"
+            "d": "M304 100L327 94 M308 112L332 113 M306 124L324 135"
           },
           {
-            "id": "depth",
-            "type": "path",
-            "d": "M199 125 Q219 152 198 183"
-          },
-          {
-            "id": "a",
+            "id": "method",
             "type": "text",
-            "text": "adaptation",
-            "x": 80,
-            "y": 81
+            "text": "a working method",
+            "x": 106,
+            "y": 43,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "child",
             "type": "text",
-            "text": "development",
-            "x": 154,
-            "y": 222
+            "text": "a particular need",
+            "x": 288,
+            "y": 43,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "task",
+            "type": "text",
+            "text": "adaptation asks about both",
+            "x": 200,
+            "y": 225,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       }
@@ -820,62 +2076,207 @@
     "sources": [
       "jung-advanced-energy-regression"
     ],
-    "metaphor": "A forward channel meets a barrier; a returning branch descends to an older fragment, then a separate thin route reconnects it with the present.",
+    "metaphor": "A blocked illustrator returns to earlier notebooks and either repeats the past or brings a neglected possibility into present work.",
     "scene": {
       "kind": "notebook",
       "variant": "regression",
       "caption": "Regression",
-      "composition": {
-        "description": "A forward channel meets a barrier; a returning branch descends to an older fragment, then a separate thin route reconnects it with the present.",
-        "actors": [
+      "lesson": {
+        "description": "A blocked illustrator returns to earlier notebooks and either repeats the past or brings a neglected possibility into present work.",
+        "beats": [
           {
-            "id": "forward",
-            "type": "path",
-            "d": "M71 99 L293 99 M281 91 L293 99 L281 108"
+            "caption": "An illustrator cannot continue the familiar style.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "artist",
+                "type": "figure",
+                "x": 95,
+                "y": 144
+              },
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-outline",
+                    "type": "path",
+                    "d": "M-69.5 -61.5 L69.5 -60.5 L68.5 61.5 L-68.5 60.5 Z"
+                  },
+                  {
+                    "id": "work-word0-line0",
+                    "type": "text",
+                    "text": "blocked",
+                    "x": 0,
+                    "y": -37.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 284,
+                "y": 107
+              },
+              {
+                "id": "block",
+                "type": "path",
+                "d": "M255 76 L313 134 M313 76 L255 134"
+              }
+            ]
           },
           {
-            "id": "block",
-            "type": "path",
-            "d": "M304 66 L306 133"
+            "caption": "Earlier notebooks become compelling again.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "artist",
+                "type": "figure",
+                "x": 95,
+                "y": 144
+              },
+              {
+                "id": "old",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "old-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "old-label",
+                    "type": "text",
+                    "text": "childhood notebooks",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 276,
+                "y": 112
+              }
+            ]
           },
           {
-            "id": "return",
-            "type": "path",
-            "d": "M285 114 Q227 138 171 172 Q139 198 110 175 M121 171 L110 175 L116 186",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A neglected feature becomes available for a different present practice.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "artist",
+                "type": "figure",
+                "x": 95,
+                "y": 144
+              },
+              {
+                "id": "old",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "old-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "old-label",
+                    "type": "text",
+                    "text": "old notebooks",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 68
+              },
+              {
+                "id": "new",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "new-outline",
+                    "type": "path",
+                    "d": "M-81.0 -33.5 L81.0 -32.5 L80.0 33.5 L-80.0 32.5 Z"
+                  },
+                  {
+                    "id": "new-word0-line0",
+                    "type": "text",
+                    "text": "a new practice",
+                    "x": 0,
+                    "y": -9.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 273,
+                "y": 176
+              }
+            ]
           },
           {
-            "id": "past",
-            "type": "path",
-            "d": "M86 165 L114 146 L134 173 L114 196 Z"
-          },
-          {
-            "id": "reuse",
-            "type": "path",
-            "d": "M137 166 Q192 181 228 132",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "earlier material",
-            "x": 49,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "present task",
-            "x": 251,
-            "y": 222
+            "caption": "A return can provide material for renewal or remain avoidance; what follows matters.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "artist",
+                "type": "figure",
+                "x": 95,
+                "y": 144
+              },
+              {
+                "id": "old",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "old-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "old-label",
+                    "type": "text",
+                    "text": "old notebooks",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 68
+              },
+              {
+                "id": "new",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "new-outline",
+                    "type": "path",
+                    "d": "M-81.0 -33.5 L81.0 -32.5 L80.0 33.5 L-80.0 32.5 Z"
+                  },
+                  {
+                    "id": "new-word0-line0",
+                    "type": "text",
+                    "text": "a new practice",
+                    "x": 0,
+                    "y": -9.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 273,
+                "y": 176
+              },
+              {
+                "id": "return",
+                "type": "text",
+                "text": "activated material needs a present relation",
+                "x": 200,
+                "y": 236,
+                "anchor": "middle",
+                "fontSize": 15
+              }
+            ]
           }
         ]
       }
@@ -904,31 +2305,105 @@
         ]
       },
       {
-        "description": "Activated material can remain a closed loop or be brought into a relation with present life.",
+        "description": "A discarded early drawing can acquire a new use when it is brought into relation with present work.",
         "actors": [
           {
-            "id": "loop",
-            "type": "path",
-            "d": "M93 113 Q71 72 117 66 Q172 76 139 119 Q104 148 93 113"
+            "id": "earlier",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 106,
+            "y": 118,
+            "pose": {
+              "scale": 0.85
+            }
           },
           {
-            "id": "bridge",
-            "type": "path",
-            "d": "M146 106 Q220 77 294 109 M283 100 L294 109 L282 117"
+            "id": "oldmark",
+            "type": "group",
+            "children": [
+              {
+                "id": "growth",
+                "type": "path",
+                "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+              }
+            ],
+            "x": 105,
+            "y": 119,
+            "pose": {
+              "scale": 0.35
+            }
           },
           {
-            "id": "a",
+            "id": "newwork",
+            "type": "group",
+            "children": [
+              {
+                "id": "newwork-edge",
+                "type": "path",
+                "d": "M-57.5 -50.5 L57.5 -49.5 L56.5 50.5 L-56.5 49.5 Z"
+              }
+            ],
+            "x": 292,
+            "y": 118,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "newmark",
+            "type": "group",
+            "children": [
+              {
+                "id": "growth",
+                "type": "path",
+                "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+              }
+            ],
+            "x": 279,
+            "y": 133,
+            "pose": {
+              "scale": 0.65
+            }
+          },
+          {
+            "id": "newrelation",
+            "type": "group",
+            "children": [
+              {
+                "id": "phrase",
+                "type": "path",
+                "d": "M-52 0 Q-27-38 0 0 Q25 34 54-3"
+              }
+            ],
+            "x": 310,
+            "y": 131,
+            "pose": {
+              "scale": 0.4
+            }
+          },
+          {
+            "id": "past",
             "type": "text",
-            "text": "repetition",
-            "x": 59,
-            "y": 222
+            "text": "earlier notebooks",
+            "x": 105,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "present",
             "type": "text",
-            "text": "new relation",
-            "x": 243,
-            "y": 222
+            "text": "a new practice",
+            "x": 292,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -955,104 +2430,345 @@
     "title": "A person among people",
     "statement": "Becoming distinct need not mean becoming separate from everyone.",
     "explanation": "Jung explicitly distinguished individuation from extreme individualism. A differentiated person remains connected to collective life, rather than treating their own path as a rule everyone else must obey.",
-    "nuance": "Jung’s account of individuation is often turned into a story of solitary authenticity: remove social expectations and discover an untouched self. His definition in Psychological Types is more demanding. Individuals exist through relationships and collective conditions as well as through their differences. Differentiation can broaden those relationships by reducing unconscious conformity. The aim is not to erase common obligations but to participate with a clearer understanding of one’s particular position and limits.\n\nImagine a person who stops following their family’s profession but continues to care for a vulnerable relative. The change in vocation need not abolish loyalty. A different person might announce that their inner path excuses every commitment and that others should admire the refusal. Jung calls extreme individualism a different problem: a private way is being asserted as though it had general authority. Having a distinct life does not make other people into supporting characters in a story of personal development.\n\nHe also recognizes that collective norms can impair individuality, so respect for relationship does not require obedience to every inherited rule. A norm helps orient life only while actual individual possibilities can remain alive around it. The relation is reciprocal: society needs differentiated persons, and persons need a viable social world. Jung’s account is a psychological proposal with historical limitations, not a complete political theory or a justification for leaving oppressive arrangements unchanged.",
+    "nuance": "Jung’s account of individuation is often turned into a story of solitary authenticity: remove social expectations and discover an untouched self. His definition in Psychological Types is more demanding. Individuals exist through relationships and collective conditions as well as through their differences. Differentiation can broaden those relationships by reducing unconscious conformity. The aim includes participating with a clearer understanding of one’s particular position and limits.\n\nImagine a person who stops following their family’s profession but continues to care for a vulnerable relative. The change in vocation need not abolish loyalty. A different person might announce that their inner path excuses every commitment and that others should admire the refusal. Jung calls extreme individualism a different problem: a private way is being asserted as though it had general authority. Having a distinct life does not make other people into supporting characters in a story of personal development.\n\nHe also recognizes that collective norms can impair individuality, so respect for relationship does not require obedience to every inherited rule. A norm helps orient life only while actual individual possibilities can remain alive around it. The relation is reciprocal: society needs differentiated persons, and persons need a viable social world. Jung’s account is a psychological proposal with historical limitations, not a complete political theory or a justification for leaving oppressive arrangements unchanged.",
     "reflection": "Which connection could become more honest as conformity decreases?",
     "sources": [
       "jung-advanced-types-individuation"
     ],
-    "metaphor": "Three people begin linked by a rigid horizontal rule; a differentiated figure keeps its own position while new flexible connections are drawn to the others.",
+    "metaphor": "A person chooses a distinct vocation while maintaining a consciously chosen responsibility within family life.",
     "scene": {
       "kind": "notebook",
       "variant": "individuation-society",
       "caption": "Individuation and society",
-      "composition": {
-        "description": "Three people begin linked by a rigid horizontal rule; a differentiated figure keeps its own position while new flexible connections are drawn to the others.",
-        "actors": [
+      "lesson": {
+        "description": "A person chooses a distinct vocation while maintaining a consciously chosen responsibility within family life.",
+        "beats": [
           {
-            "id": "left",
-            "type": "figure",
-            "x": 104,
-            "y": 142
+            "caption": "A family expects everyone to follow the same profession.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 200,
+                "y": 143
+              },
+              {
+                "id": "family-rule",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-rule-outline",
+                    "type": "path",
+                    "d": "M-143.5 -24.5 L143.5 -23.5 L142.5 24.5 L-142.5 23.5 Z"
+                  },
+                  {
+                    "id": "family-rule-word0-line0",
+                    "type": "text",
+                    "text": "one profession for everyone",
+                    "x": 0,
+                    "y": -0.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 35
+              }
+            ]
           },
           {
-            "id": "middle",
-            "type": "figure",
-            "x": 201,
-            "y": 128
+            "caption": "One person recognizes a different vocational direction.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 200,
+                "y": 143
+              },
+              {
+                "id": "vocation",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "vocation-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "vocation-label",
+                    "type": "text",
+                    "text": "another vocation",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 309,
+                "y": 118
+              },
+              {
+                "id": "family",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-roof",
+                    "type": "path",
+                    "d": "M-27.0 0 L0 -30 L27.0 0"
+                  },
+                  {
+                    "id": "family-walls",
+                    "type": "path",
+                    "d": "M-23.0 0 L-23.0 48 L23.0 48 L23.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 85,
+                "y": 120
+              }
+            ]
           },
           {
-            "id": "right",
-            "type": "figure",
-            "x": 300,
-            "y": 142
+            "caption": "They choose that work while sustaining a real responsibility to a relative.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 200,
+                "y": 143
+              },
+              {
+                "id": "vocation",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "vocation-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "vocation-label",
+                    "type": "text",
+                    "text": "chosen work",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 309,
+                "y": 118
+              },
+              {
+                "id": "family",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-roof",
+                    "type": "path",
+                    "d": "M-27.0 0 L0 -30 L27.0 0"
+                  },
+                  {
+                    "id": "family-walls",
+                    "type": "path",
+                    "d": "M-23.0 0 L-23.0 48 L23.0 48 L23.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 85,
+                "y": 120
+              },
+              {
+                "id": "care",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "care-outline",
+                    "type": "path",
+                    "d": "M-51.5 -23.0 L51.5 -22.0 L50.5 23.0 L-50.5 22.0 Z"
+                  },
+                  {
+                    "id": "care-word0-line0",
+                    "type": "text",
+                    "text": "chosen",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "care-word0-line1",
+                    "type": "text",
+                    "text": "care",
+                    "x": 0,
+                    "y": 18.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 84,
+                "y": 184
+              }
+            ]
           },
           {
-            "id": "rule",
-            "type": "path",
-            "d": "M70 67 L334 67",
-            "tone": "faint"
-          },
-          {
-            "id": "links",
-            "type": "path",
-            "d": "M121 129 Q157 181 184 119 M217 118 Q261 175 283 129",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "difference",
-            "x": 67,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "relationship",
-            "x": 239,
-            "y": 222
+            "caption": "Differentiation can make relationships more conscious while preserving commitments.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 200,
+                "y": 143
+              },
+              {
+                "id": "vocation",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "vocation-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "vocation-label",
+                    "type": "text",
+                    "text": "chosen work",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 309,
+                "y": 118
+              },
+              {
+                "id": "family",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "family-roof",
+                    "type": "path",
+                    "d": "M-27.0 0 L0 -30 L27.0 0"
+                  },
+                  {
+                    "id": "family-walls",
+                    "type": "path",
+                    "d": "M-23.0 0 L-23.0 48 L23.0 48 L23.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 85,
+                "y": 120
+              },
+              {
+                "id": "care",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "care-outline",
+                    "type": "path",
+                    "d": "M-51.5 -23.0 L51.5 -22.0 L50.5 23.0 L-50.5 22.0 Z"
+                  },
+                  {
+                    "id": "care-word0-line0",
+                    "type": "text",
+                    "text": "chosen",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "care-word0-line1",
+                    "type": "text",
+                    "text": "care",
+                    "x": 0,
+                    "y": 18.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 84,
+                "y": 184
+              },
+              {
+                "id": "relation",
+                "type": "text",
+                "text": "a distinct person within relationships",
+                "x": 200,
+                "y": 236,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "Differentiation changes one position while preserving a shared field of relationship.",
+        "description": "A change of vocation can coexist with a freely recognized responsibility to another person.",
         "actors": [
           {
-            "id": "a",
-            "type": "circle",
-            "x": 112,
-            "y": 116,
-            "r": 19
+            "id": "vocation",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 103,
+            "y": 117,
+            "pose": {
+              "scale": 0.85
+            }
           },
           {
-            "id": "b",
+            "id": "one",
+            "type": "figure",
+            "x": 226,
+            "y": 155,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
+          },
+          {
+            "id": "relative",
+            "type": "figure",
+            "x": 302,
+            "y": 155,
+            "pose": {
+              "scale": 0.6
+            },
+            "facing": true
+          },
+          {
+            "id": "care",
             "type": "path",
-            "d": "M184 106 L205 88 L224 116 L206 140 Z"
+            "d": "M235 163Q267 183 291 165"
           },
           {
-            "id": "c",
-            "type": "circle",
-            "x": 295,
-            "y": 116,
-            "r": 19
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M133 119 Q160 131 183 120 M223 120 Q251 132 274 119"
-          },
-          {
-            "id": "a",
+            "id": "work",
             "type": "text",
-            "text": "distinct and connected",
-            "x": 106,
-            "y": 222
+            "text": "different work",
+            "x": 103,
+            "y": 220,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "responsibility",
+            "type": "text",
+            "text": "a continuing commitment",
+            "x": 271,
+            "y": 220,
+            "anchor": "middle",
+            "fontSize": 14
           }
         ]
       },
@@ -1109,59 +2825,172 @@
     "title": "When the aim changes",
     "statement": "A way of living can succeed at one stage and become insufficient at another.",
     "explanation": "Jung argued that the aims of early adulthood may lose their organizing force later in life. The task can shift from establishing a position to confronting meanings and capacities that position excluded.",
-    "nuance": "Jung pictures a life in phases, using the movement of the sun as an analogy. Early adulthood often requires work, social establishment, and the formation of relationships. Later, the attitude that served these aims may no longer answer questions about mortality or unlived possibilities. A person can have achieved what they intended and still find the achievement unable to organize the next phase. The difficulty concerns a change in the psychological task, not necessarily a failure of effort or an absence of external success.\n\nA manager who built a life around responsibility may discover that another promotion does not answer a growing concern with music, grief, or dependence. Jung would not simply prescribe a new hobby. He asks whether the neglected side of the personality is demanding a different relation to the life already built. The change may occur through modest commitments rather than a dramatic departure. Repeating the former solution more intensely can miss the fact that the question itself has altered.\n\nJung’s stages are a historical model, not a schedule every life follows at a particular birthday. Economic insecurity, disability, caregiving, culture, and early loss can unsettle his assumptions about a stable first half and reflective second half. Nor does new dissatisfaction establish that a person should leave a relationship or career. The durable distinction is between a goal’s earlier usefulness and its present adequacy. A life does not have to disown its first aims to recognize that they are no longer its only aims.",
+    "nuance": "Jung pictures a life in phases, using the movement of the sun as an analogy. Early adulthood often requires work, social establishment, and the formation of relationships. Later, the attitude that served these aims may no longer answer questions about mortality or unlived possibilities. A person can have achieved what they intended and still find the achievement unable to organize the next phase. The difficulty concerns a change in the psychological task, not necessarily a failure of effort or an absence of external success.\n\nA manager who built a life around responsibility may discover that another promotion does not answer a growing concern with music, grief, or dependence. Jung asks how the new concern relates to the life already built. He asks whether the neglected side of the personality is demanding a different relation to the life already built. The change may occur through modest commitments rather than a dramatic departure. Repeating the former solution more intensely can miss the fact that the question itself has altered.\n\nJung’s stages are a historical model, not a schedule every life follows at a particular birthday. Economic insecurity, disability, caregiving, culture, and early loss can unsettle his assumptions about a stable first half and reflective second half. Nor does new dissatisfaction establish that a person should leave a relationship or career. The durable distinction is between a goal’s earlier usefulness and its present adequacy. A life does not have to disown its first aims to recognize that they are no longer its only aims.",
     "reflection": "Is more of the old answer addressing a different question?",
     "sources": [
       "jung-advanced-stages"
     ],
-    "metaphor": "A rising path reaches its summit; the continuation turns into a differently shaped descent instead of extending the same upward arrow indefinitely.",
+    "metaphor": "An established professional aim is achieved, but repeating it fails to address the person’s newly pressing questions.",
     "scene": {
       "kind": "notebook",
       "variant": "midlife",
       "caption": "The stages of life",
-      "composition": {
-        "description": "A rising path reaches its summit; the continuation turns into a differently shaped descent instead of extending the same upward arrow indefinitely.",
-        "actors": [
+      "lesson": {
+        "description": "An established professional aim is achieved, but repeating it fails to address the person’s newly pressing questions.",
+        "beats": [
           {
-            "id": "arc",
-            "type": "path",
-            "d": "M74 168 Q136 55 200 55 Q266 55 326 166",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Building a position organizes the earlier phase of a life.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 106,
+                "y": 145
+              },
+              {
+                "id": "stairs",
+                "type": "path",
+                "d": "M179 183 L179 155 L220 155 L220 123 L262 123 L262 87 L305 87"
+              },
+              {
+                "id": "establish",
+                "type": "text",
+                "text": "establishing a position",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "old",
-            "type": "path",
-            "d": "M199 57 L231 32 M220 32 L231 32 L230 43",
-            "tone": "faint",
-            "dashed": true
+            "caption": "The goal is reached and another promotion becomes available.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 278,
+                "y": 132,
+                "facing": true
+              },
+              {
+                "id": "stairs",
+                "type": "path",
+                "d": "M179 183 L179 155 L220 155 L220 123 L262 123 L262 87 L305 87"
+              },
+              {
+                "id": "achievement",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "achievement-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 311,
+                "y": 47
+              }
+            ]
           },
           {
-            "id": "new",
-            "type": "path",
-            "d": "M206 63 Q226 107 247 117 Q264 123 282 153",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Questions of mortality, grief, and unlived capacities remain unanswered.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 278,
+                "y": 132,
+                "facing": true
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-74.5 -61.5 L74.5 -60.5 L73.5 61.5 L-73.5 60.5 Z"
+                  },
+                  {
+                    "id": "question-word0-line0",
+                    "type": "text",
+                    "text": "what remains",
+                    "x": 0,
+                    "y": -37.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "question-word1-line0",
+                    "type": "text",
+                    "text": "unlived?",
+                    "x": 0,
+                    "y": -17.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 114,
+                "y": 114
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "establishment",
-            "x": 46,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "reorientation",
-            "x": 252,
-            "y": 222
+            "caption": "Jung asks whether the task has changed. His stages are a historical model.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 278,
+                "y": 132,
+                "facing": true
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-74.5 -61.5 L74.5 -60.5 L73.5 61.5 L-73.5 60.5 Z"
+                  },
+                  {
+                    "id": "question-word0-line0",
+                    "type": "text",
+                    "text": "what remains",
+                    "x": 0,
+                    "y": -37.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "question-word1-line0",
+                    "type": "text",
+                    "text": "unlived?",
+                    "x": 0,
+                    "y": -17.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 114,
+                "y": 114
+              },
+              {
+                "id": "task",
+                "type": "text",
+                "text": "more of the old answer may be insufficient",
+                "x": 200,
+                "y": 234,
+                "anchor": "middle",
+                "fontSize": 15
+              }
+            ]
           }
         ]
       }
@@ -1236,97 +3065,228 @@
     "title": "The force of an image",
     "statement": "An image can feel overwhelmingly important before anyone knows what it means.",
     "explanation": "Jung borrowed numinous from Rudolf Otto to describe an experience felt as compelling and larger than ordinary intention. Its psychological force is different from the truth of a claim made about it.",
-    "nuance": "A dream figure, ritual, landscape, or sudden inner image can seem charged with unusual authority. The experience is not simply an idea a person chooses to consider. It can seize attention, evoke awe or dread, and make ordinary categories feel inadequate. Jung uses numinous for this quality, borrowing the term from Rudolf Otto’s account of religious experience. The first claim is phenomenological: this is how an event is experienced. It does not yet establish that the event reveals a supernatural being or an objective message.\n\nImagine a dream of a vast, silent room that remains vivid for weeks. A skeptical dreamer may still feel that it matters intensely. That feeling deserves description without requiring the conclusion that the room predicts a death, reveals a destiny, or proves a particular religion. Jung was interested in the unusual force of such contents and in the conscious response they evoke. The image’s importance may gradually become clearer through associations and its relation to the person’s circumstances, rather than through the first interpretation offered.\n\nNuminosity and inflation are different questions. One concerns the compelling character of an experience; the other concerns an ego claiming that force as personal greatness or authority. A person can be deeply affected while remaining uncertain and open to correction. Intensity is also not a clinical category: powerful awe, psychiatric symptoms, and ordinary emotion cannot be distinguished by this term alone. The useful boundary is between recognizing a psychological event and surrendering judgment to an explanation of that event.",
+    "nuance": "A dream figure, ritual, landscape, or sudden inner image can seem charged with unusual authority. The experience can arrive with a force the person did not choose. It can seize attention, evoke awe or dread, and make ordinary categories feel inadequate. Jung uses numinous for this quality, borrowing the term from Rudolf Otto’s account of religious experience. The first claim is phenomenological: this is how an event is experienced. It does not yet establish that the event reveals a supernatural being or an objective message.\n\nImagine a dream of a vast, silent room that remains vivid for weeks. A skeptical dreamer may still feel that it matters intensely. That feeling deserves description without requiring the conclusion that the room predicts a death, reveals a destiny, or proves a particular religion. Jung was interested in the unusual force of such contents and in the conscious response they evoke. The image’s importance may gradually become clearer through associations and its relation to the person’s circumstances, rather than through the first interpretation offered.\n\nNuminosity and inflation are different questions. One concerns the compelling character of an experience; the other concerns an ego claiming that force as personal greatness or authority. A person can be deeply affected while remaining uncertain and open to correction. Intensity is also not a clinical category: powerful awe, psychiatric symptoms, and ordinary emotion cannot be distinguished by this term alone. The useful boundary is between recognizing a psychological event and surrendering judgment to an explanation of that event.",
     "reflection": "Can the force be acknowledged before its meaning is decided?",
     "sources": [
       "jung-advanced-religion"
     ],
-    "metaphor": "A central image expands its surrounding field of attention; small peripheral marks draw toward it while a separate frame for interpretation remains open.",
+    "metaphor": "A striking dream room persists with unusual emotional force while several possible explanations remain open.",
     "scene": {
       "kind": "notebook",
       "variant": "numinosity",
       "caption": "Numinosity",
-      "composition": {
-        "description": "A central image expands its surrounding field of attention; small peripheral marks draw toward it while a separate frame for interpretation remains open.",
-        "actors": [
+      "lesson": {
+        "description": "A striking dream room persists with unusual emotional force while several possible explanations remain open.",
+        "beats": [
           {
-            "id": "image",
-            "type": "path",
-            "d": "M174 144 L179 88 L206 66 L230 93 L224 147 Z"
+            "caption": "A dream of a vast room remains unusually vivid.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M97 54 L306 54 L306 180 L97 180 Z M97 54 L141 91 L267 91 L306 54 M141 91 L141 147 L267 147 L267 91 M97 180 L141 147 M306 180 L267 147"
+              },
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 201,
+                "y": 142,
+                "pose": {
+                  "scale": 0.6
+                }
+              }
+            ]
           },
           {
-            "id": "field",
-            "type": "path",
-            "d": "M104 74 Q196 21 287 77 Q331 123 287 178 Q198 225 105 174 Q69 126 104 74 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Its image holds attention and evokes awe or dread.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M68 34 L333 34 L333 191 L68 191 Z M68 34 L129 90 L274 90 L333 34 M129 90 L129 151 L274 151 L274 90 M68 191 L129 151 M333 191 L274 151"
+              },
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 201,
+                "y": 142,
+                "pose": {
+                  "scale": 0.6
+                }
+              },
+              {
+                "id": "felt",
+                "type": "text",
+                "text": "an overwhelming image",
+                "x": 200,
+                "y": 223,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "small-a",
-            "type": "circle",
-            "x": 118,
-            "y": 107,
-            "r": 4,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "x": 38,
-              "y": 7
-            }
+            "caption": "The force of the experience does not decide what it reveals.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "explanation-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "explanation-a-outline",
+                    "type": "path",
+                    "d": "M-63.0 -51.0 L63.0 -50.0 L62.0 51.0 L-62.0 50.0 Z"
+                  },
+                  {
+                    "id": "explanation-a-word0-line0",
+                    "type": "text",
+                    "text": "a warning?",
+                    "x": 0,
+                    "y": -27.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 117
+              },
+              {
+                "id": "explanation-b",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "explanation-b-outline",
+                    "type": "path",
+                    "d": "M-70.5 -51.0 L70.5 -50.0 L69.5 51.0 L-69.5 50.0 Z"
+                  },
+                  {
+                    "id": "explanation-b-word0-line0",
+                    "type": "text",
+                    "text": "a possibility?",
+                    "x": 0,
+                    "y": -27.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 287,
+                "y": 117
+              },
+              {
+                "id": "remembered-room",
+                "type": "path",
+                "d": "M160 173 L240 173 L240 207 L160 207 Z M160 173 L177 183 L223 183 L240 173 M177 183 L177 199 L223 199 L223 183 M160 207 L177 199 M240 207 L223 199",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "small-b",
-            "type": "circle",
-            "x": 280,
-            "y": 142,
-            "r": 4,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "x": -36,
-              "y": -10
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "psychological force",
-            "x": 53,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "meaning still open",
-            "x": 241,
-            "y": 222
+            "caption": "Numinosity describes felt authority; an explanation still needs examination.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "explanation-a",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "explanation-a-outline",
+                    "type": "path",
+                    "d": "M-63.0 -51.0 L63.0 -50.0 L62.0 51.0 L-62.0 50.0 Z"
+                  },
+                  {
+                    "id": "explanation-a-word0-line0",
+                    "type": "text",
+                    "text": "a warning?",
+                    "x": 0,
+                    "y": -27.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 105,
+                "y": 117
+              },
+              {
+                "id": "explanation-b",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "explanation-b-outline",
+                    "type": "path",
+                    "d": "M-70.5 -51.0 L70.5 -50.0 L69.5 51.0 L-69.5 50.0 Z"
+                  },
+                  {
+                    "id": "explanation-b-word0-line0",
+                    "type": "text",
+                    "text": "a possibility?",
+                    "x": 0,
+                    "y": -27.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 287,
+                "y": 117
+              },
+              {
+                "id": "distinction",
+                "type": "text",
+                "text": "intensity leaves the explanation open",
+                "x": 200,
+                "y": 228,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "remembered-room",
+                "type": "path",
+                "d": "M160 173 L240 173 L240 207 L160 207 Z M160 173 L177 183 L223 183 L240 173 M177 183 L177 199 L223 199 L223 183 M160 207 L177 199 M240 207 L223 199",
+                "tone": "faint"
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "The compelling quality of an image describes an experience before it establishes an explanation.",
+        "description": "A vividly remembered room can dominate attention while its meaning remains a question.",
         "actors": [
           {
-            "id": "image",
+            "id": "room",
             "type": "path",
-            "d": "M176 151 L173 91 L203 68 L231 94 L228 151 Z"
+            "d": "M84 69L318 69L318 173L84 173Z M84 69L130 101L272 101L318 69 M130 101L130 144L272 144L272 101 M84 173L130 144 M318 173L272 144"
           },
           {
-            "id": "awe",
-            "type": "path",
-            "d": "M110 157 Q73 118 113 76 M286 72 Q327 123 283 163"
+            "id": "dreamer",
+            "type": "figure",
+            "x": 201,
+            "y": 139,
+            "pose": {
+              "scale": 0.45
+            },
+            "facing": false
           },
           {
-            "id": "a",
+            "id": "force",
             "type": "text",
-            "text": "experienced intensity",
-            "x": 102,
-            "y": 222
+            "text": "a compelling image",
+            "x": 201,
+            "y": 43,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "open",
+            "type": "text",
+            "text": "what does it mean?",
+            "x": 201,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -2685,144 +4645,441 @@
     ]
   },
   {
-    "id": "jung-dream-levels",
+    "id": "jung-amplification",
     "thinker": "jung",
     "collection": "Reading images",
-    "concept": "Objective and subjective levels",
-    "title": "Who is the dream about?",
-    "statement": "A familiar person in a dream can refer to a relationship or carry a feature of the dreamer.",
-    "explanation": "Jung distinguished an objective level of interpretation, concerning actual people and relationships, from a subjective level, which considers dream figures as personifications of aspects of the dreamer’s psyche.",
-    "nuance": "If a person dreams of an angry colleague, the dream may concern a real conflict with that colleague. Jung calls a reading directed toward actual people and situations the objective level. A subjective reading asks whether the colleague’s qualities also give form to something in the dreamer: unexpressed anger, a judging attitude, or a capacity they have attributed elsewhere. The same recognizable face can participate in different interpretive relations. Familiarity alone does not decide which level is appropriate.\n\nImagine dreaming that a meticulous friend inspects an unfinished painting. An objective reading would examine the friendship, any recent criticism, and what the friend actually means to the dreamer. A subjective reading might ask whether the inspector embodies the dreamer’s own exacting standards. These are questions to test against context and associations. A dream is not evidence that the friend secretly intends harm, and the subjective possibility should not erase facts about a genuinely critical relationship.\n\nJung often emphasized the subjective level when working with the development of personality, but a fixed rule that every figure is merely part of the dreamer would flatten the complexity of his practice. Interpretations should remain revisable. Their usefulness depends on whether they illuminate the dream and the present situation without inventing accusations or imposing a theory. Distinguishing levels makes it easier to ask where a proposed meaning is located: in an external relationship, an inner pattern, or their interaction.",
-    "reflection": "What changes when this figure is read as an inner attitude?",
+    "concept": "Amplification",
+    "title": "A wider circle of meaning",
+    "statement": "An unfamiliar image can become clearer beside other images. The dreamer remains part of the comparison.",
+    "explanation": "Jung used amplification to consider a dream image beside personal associations and cultural parallels. The wider context can open another question about the image, which must still be tested against this dream and this person.",
+    "nuance": "A dream image begins with the person who dreamed it: their memories, feelings, and present circumstances. Jung’s amplification adds a wider circle of comparisons when the image remains difficult to understand. A story, religious image, or work of art can disclose features that a familiar personal association leaves unnoticed. The comparison stays close to the image, asking what its particular form makes available. It becomes another way of looking rather than a dictionary entry that settles the dream.\n\nImagine a ladder appearing in a dream just after a promotion. The dreamer first associates it with career progress and a fear of falling. Comparing it with Jacob’s ladder in Genesis introduces another possibility: a passage joining different realms. The question may shift from how high the dreamer can rise to what parts of life need a connection. This is an invented example of the method. The biblical parallel offers a question; its relevance depends on the dream’s details and the dreamer’s response.\n\nAmplification can become an impressive tour of mythology that leaves the actual dreamer behind. An interpreter may select a grand parallel because it suits their own theory, or overlook the ordinary memory that explains why this image appeared. Return to the dream: what does the comparison clarify, and what does it obscure? Jung’s method belongs to a historical interpretive practice. Similar images across cultures do not, by themselves, establish a universal meaning or prove how an unconscious process works.",
+    "reflection": "Which comparison brings you back to the image with a better question?",
     "sources": [
-      "jung-advanced-types-levels"
+      "jung-advanced-amplification-primary",
+      "jung-advanced-amplification-institutional",
+      "jung-advanced-amplification-example"
     ],
-    "metaphor": "A dream portrait is first paired with another person; a second framing places the same judging shape inside the dreamer’s field, making the interpretive location visible.",
+    "metaphor": "A dream ladder first suggests career rank; a biblical ladder opens the question of connection, before both readings return to the dreamer’s situation.",
     "scene": {
       "kind": "notebook",
-      "variant": "dream-levels",
-      "caption": "Objective and subjective levels",
-      "composition": {
-        "description": "A dream portrait is first paired with another person; a second framing places the same judging shape inside the dreamer’s field, making the interpretive location visible.",
-        "actors": [
+      "variant": "amplification",
+      "caption": "Amplification",
+      "lesson": {
+        "description": "A dream ladder first suggests career rank; a biblical ladder opens the question of connection, before both readings return to the dreamer’s situation.",
+        "beats": [
           {
-            "id": "dreamer",
-            "type": "figure",
-            "x": 109,
-            "y": 139
+            "caption": "A dreamer sees a ladder. Begin with what the image means in their life.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 105,
+                "y": 151,
+                "pose": {
+                  "scale": 1
+                }
+              },
+              {
+                "id": "dream-ladder",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "rails",
+                    "type": "path",
+                    "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+                  }
+                ],
+                "x": 277,
+                "y": 119,
+                "pose": {
+                  "scale": 1
+                }
+              },
+              {
+                "id": "dream",
+                "type": "text",
+                "text": "a dream image",
+                "x": 277,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "other",
-            "type": "figure",
-            "x": 293,
-            "y": 139
+            "caption": "A recent promotion brings associations of climbing and falling.",
+            "duration": 4,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 105,
+                "y": 151,
+                "pose": {
+                  "scale": 1
+                }
+              },
+              {
+                "id": "dream-ladder",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "rails",
+                    "type": "path",
+                    "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+                  }
+                ],
+                "x": 201,
+                "y": 122,
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "career",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "building",
+                    "type": "path",
+                    "d": "M-40 37L-40-33L40-33L40 37Z M-24-15L-13-15L-13-5L-24-5Z M9-15L21-15L21-5L9-5Z M-24 8L-13 8L-13 18L-24 18Z M9 8L21 8L21 18L9 18Z"
+                  }
+                ],
+                "x": 309,
+                "y": 123,
+                "pose": {
+                  "scale": 1
+                }
+              },
+              {
+                "id": "personal",
+                "type": "text",
+                "text": "recent promotion",
+                "x": 289,
+                "y": 52,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "ranking",
+                "type": "text",
+                "text": "climbing / falling",
+                "x": 203,
+                "y": 225,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "portrait",
-            "type": "path",
-            "d": "M184 83 Q172 64 188 54 Q210 45 218 64 L215 97 L186 99 Z"
+            "caption": "Jacob’s ladder joins earth and heaven. The cultural parallel adds another question.",
+            "duration": 4.3,
+            "actors": [
+              {
+                "id": "story",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pages",
+                    "type": "path",
+                    "d": "M-47-35Q-23-47 0-34Q24-47 48-35L48 40Q25 24 0 37Q-24 24-47 40Z M0-34L0 37"
+                  }
+                ],
+                "x": 93,
+                "y": 125,
+                "pose": {
+                  "scale": 1.05
+                }
+              },
+              {
+                "id": "bible",
+                "type": "text",
+                "text": "Genesis 28",
+                "x": 91,
+                "y": 212,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "dream-ladder",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "rails",
+                    "type": "path",
+                    "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+                  }
+                ],
+                "x": 278,
+                "y": 122,
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "cloud",
+                "type": "path",
+                "d": "M222 70Q218 53 233 52Q240 32 257 43Q269 27 282 42Q300 37 306 53Q324 54 320 68"
+              },
+              {
+                "id": "earth",
+                "type": "path",
+                "d": "M222 186Q273 181 328 188"
+              },
+              {
+                "id": "joining",
+                "type": "text",
+                "text": "a connection",
+                "x": 278,
+                "y": 226,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           },
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M164 43 L238 44 L240 117 L165 117 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "inner",
-            "type": "path",
-            "d": "M68 57 Q117 26 165 57 L164 184 Q112 211 69 182 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "an inner attitude",
-            "x": 34,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "a relationship",
-            "x": 245,
-            "y": 222
+            "caption": "Return to this dreamer. Does rank, connection, or another reading clarify the dream?",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "dreamer",
+                "type": "figure",
+                "x": 101,
+                "y": 150,
+                "pose": {
+                  "scale": 1
+                }
+              },
+              {
+                "id": "dream-ladder",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "rails",
+                    "type": "path",
+                    "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+                  }
+                ],
+                "x": 283,
+                "y": 122,
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "rank",
+                "type": "text",
+                "text": "rank?",
+                "x": 204,
+                "y": 51,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "connection",
+                "type": "text",
+                "text": "connection?",
+                "x": 292,
+                "y": 51,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M263 170 Q174 207 122 178"
+              },
+              {
+                "id": "context",
+                "type": "text",
+                "text": "the dream and this life",
+                "x": 201,
+                "y": 229,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "An objective reading relates the dream figure to an actual person and relationship.",
+        "description": "Personal memory and a cultural comparison remain connected to the same dream image, preserving the image as the object of inquiry.",
         "actors": [
           {
-            "id": "dream",
-            "type": "circle",
-            "x": 120,
-            "y": 114,
-            "r": 31
+            "id": "memory",
+            "type": "group",
+            "children": [
+              {
+                "id": "building",
+                "type": "path",
+                "d": "M-40 37L-40-33L40-33L40 37Z M-24-15L-13-15L-13-5L-24-5Z M9-15L21-15L21-5L9-5Z M-24 8L-13 8L-13 18L-24 18Z M9 8L21 8L21 18L9 18Z"
+              }
+            ],
+            "x": 91,
+            "y": 123,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "person",
-            "type": "figure",
-            "x": 281,
-            "y": 137
+            "id": "parallel",
+            "type": "group",
+            "children": [
+              {
+                "id": "pages",
+                "type": "path",
+                "d": "M-47-35Q-23-47 0-34Q24-47 48-35L48 40Q25 24 0 37Q-24 24-47 40Z M0-34L0 37"
+              }
+            ],
+            "x": 307,
+            "y": 123,
+            "pose": {
+              "scale": 0.85
+            }
           },
           {
-            "id": "relation",
+            "id": "image",
+            "type": "group",
+            "children": [
+              {
+                "id": "rails",
+                "type": "path",
+                "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+              }
+            ],
+            "x": 201,
+            "y": 116,
+            "pose": {
+              "scale": 0.65
+            }
+          },
+          {
+            "id": "hold",
             "type": "path",
-            "d": "M153 118 Q199 82 254 119"
+            "d": "M130 120Q154 92 187 100 M214 102Q242 90 267 118"
           },
           {
-            "id": "a",
+            "id": "personal",
             "type": "text",
-            "text": "dream figure",
-            "x": 61,
-            "y": 222
+            "text": "personal memory",
+            "x": 91,
+            "y": 213,
+            "anchor": "middle",
+            "fontSize": 15
           },
           {
-            "id": "b",
+            "id": "cultural",
             "type": "text",
-            "text": "actual person",
-            "x": 230,
-            "y": 222
+            "text": "cultural parallel",
+            "x": 307,
+            "y": 213,
+            "anchor": "middle",
+            "fontSize": 15
+          },
+          {
+            "id": "centre",
+            "type": "text",
+            "text": "this image",
+            "x": 201,
+            "y": 40,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
       {
-        "description": "A subjective reading considers the figure as a personification within the dreamer’s psychological field.",
+        "description": "A ladder interpreted as ranking and a ladder interpreted as joining realms suggest different questions; neither comparison decides the dream’s meaning.",
         "actors": [
           {
-            "id": "field",
-            "type": "path",
-            "d": "M95 67 Q193 29 296 71 L296 168 Q195 211 96 168 Z"
+            "id": "rank-ladder",
+            "type": "group",
+            "children": [
+              {
+                "id": "rails",
+                "type": "path",
+                "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+              }
+            ],
+            "x": 104,
+            "y": 126,
+            "pose": {
+              "scale": 0.75
+            }
           },
           {
-            "id": "figure",
+            "id": "rank-steps",
             "type": "path",
-            "d": "M177 143 L177 95 L199 72 L222 96 L222 143 Z"
+            "d": "M49 179L62 160L62 141"
           },
           {
-            "id": "a",
+            "id": "joining-ladder",
+            "type": "group",
+            "children": [
+              {
+                "id": "rails",
+                "type": "path",
+                "d": "M-21 62L-15-59 M18 62L24-59 M-17-39L23-39 M-18-18L22-18 M-19 4L21 4 M-20 27L20 27 M-21 48L19 48"
+              }
+            ],
+            "x": 296,
+            "y": 126,
+            "pose": {
+              "scale": 0.75
+            }
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M251 70Q294 47 339 68"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M251 181Q294 184 339 180"
+          },
+          {
+            "id": "rank-question",
             "type": "text",
-            "text": "an inner pattern",
-            "x": 126,
-            "y": 222
+            "text": "how high?",
+            "x": 104,
+            "y": 222,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "join-question",
+            "type": "text",
+            "text": "what needs joining?",
+            "x": 296,
+            "y": 222,
+            "anchor": "middle",
+            "fontSize": 15
+          },
+          {
+            "id": "two-questions",
+            "type": "text",
+            "text": "two possible questions",
+            "x": 200,
+            "y": 35,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "ranks",
+            "type": "path",
+            "d": "M55 175L152 175 M56 134L151 134 M59 93L148 93",
+            "tone": "faint"
           }
         ]
       }
     ],
     "tags": [
       "reading images",
-      "objective and subjective levels"
+      "amplification",
+      "dream interpretation"
     ],
     "depth": 3,
     "sequence": {
@@ -2831,7 +5088,8 @@
     },
     "related": [
       "jung-concretism",
-      "jung-transcendent-function"
+      "jung-two-readings",
+      "jung-numinosity"
     ]
   }
 ]
