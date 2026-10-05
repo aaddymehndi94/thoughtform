@@ -13469,94 +13469,207 @@
     "thinker": "frankl",
     "collection": "The limits",
     "concept": "Attitude and emotion",
-    "title": "Not the same movement",
+    "title": "A stance within a feeling",
     "statement": "Taking a stand does not require feeling the way you wish to feel.",
     "explanation": "Frankl’s language of attitude concerns a position taken toward a situation. It should not be confused with unlimited voluntary command over emotions or bodily reactions.",
-    "nuance": "A person may feel fear while making a carefully considered decision to testify about wrongdoing. The fear and the decision belong to the same event. Describing the testimony as courageous does not establish that fear has been conquered, or that anyone under similar pressure should be able to act. The example distinguishes a possible stance from a prescribed emotional condition without denying the constraints shaping both.\n\nConsider also someone choosing to remain present with a grieving friend while feeling awkward and helpless. Those emotions may continue throughout the visit. The act need not be invalidated because the visitor failed to feel calm. This example concerns practical orientation: whether the friend is met with attention. It is different from pretending the feelings are irrelevant or insisting that they cannot affect the encounter.\n\nThe lower wavering line stays visible while the upper line opens toward a response. The arrangement represents coexistence, not an emotion being upgraded into a better one. A philosophical distinction can help make sense of a difficult act, but it cannot measure another person’s available capacity from outside. Care requires asking about the conditions of the response, rather than treating a desired stance as something everybody can simply select.",
+    "nuance": "A person may feel fear while making a carefully considered decision to testify about wrongdoing. The fear and the decision belong to the same event. Describing the testimony as courageous does not establish that fear has been conquered, or that anyone under similar pressure should be able to act. The example distinguishes a possible stance from a prescribed emotional condition without denying the constraints shaping both.\n\nConsider also someone choosing to remain present with a grieving friend while feeling awkward and helpless. Those emotions may continue throughout the visit. The act need not be invalidated because the visitor failed to feel calm. This example concerns practical orientation: whether the friend is met with attention. It is different from pretending the feelings are irrelevant or insisting that they cannot affect the encounter.\n\nConditions determine how much room a person has to respond. The witness’s fear, available protection, history and support all matter alongside the decision to testify. A philosophical distinction can clarify the act while leaving capacity an open question. Frankl’s language of attitude is best read with these limits visible. A considered response may coexist with an unwanted feeling. Observers should ask what made that response possible rather than assuming that anyone in similar circumstances could simply choose it.",
     "sources": [
       "frankl-attitude"
     ],
-    "metaphor": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+    "metaphor": "A witness feels fear and testifies; the bodily state remains while the considered response changes.",
     "scene": {
       "kind": "notebook",
-      "caption": "attitude and emotion",
+      "caption": "A stance concerns the response. Emotional control remains limited.",
       "variant": "frankl-levels",
-      "composition": {
-        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
-        "actors": [
+      "lesson": {
+        "description": "A witness feels fear and testifies; the bodily state remains while the considered response changes.",
+        "beats": [
           {
-            "id": "body",
-            "type": "path",
-            "d": "M98 171 L306 172"
+            "caption": "A witness feels fear about speaking.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "witness",
+                "type": "figure",
+                "x": 106,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "fear",
+                "type": "path",
+                "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+                "x": 106,
+                "y": 65,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "stand",
+                "type": "path",
+                "d": "M235 148 L324 148 L312 210 L248 210 Z",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "fear",
+                "x": 258,
+                "y": 70,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "psyche",
-            "type": "path",
-            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "y": 4
-            },
-            "tone": "faint"
+            "caption": "They decide that the wrongdoing should be reported.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "witness",
+                "type": "figure",
+                "x": 145,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "fear",
+                "type": "path",
+                "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+                "x": 145,
+                "y": 65,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "testimony",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 226,
+                "y": 117
+              },
+              {
+                "id": "stand",
+                "type": "path",
+                "d": "M235 148 L324 148 L312 210 L248 210 Z",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a considered response",
+                "x": 228,
+                "y": 34,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "response",
-            "type": "path",
-            "d": "M111 76 Q207 47 297 78",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "The witness speaks while fear is still present.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "witness",
+                "type": "figure",
+                "x": 273,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "fear",
+                "type": "path",
+                "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+                "x": 273,
+                "y": 65,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "testimony",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 215,
+                "y": 121
+              },
+              {
+                "id": "stand",
+                "type": "path",
+                "d": "M235 148 L324 148 L312 210 L248 210 Z",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "fear and testimony coexist",
+                "x": 196,
+                "y": 34,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "layers",
-            "type": "text",
-            "x": 127.8,
-            "y": 228,
-            "text": "different questions",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 7
-            }
-          },
-          {
-            "id": "level-0",
-            "type": "text",
-            "x": 162.0,
-            "y": 194,
-            "text": "conditions",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "level-1",
-            "type": "text",
-            "x": 165.8,
-            "y": 110,
-            "text": "a feeling",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "level-2",
-            "type": "text",
-            "x": 162.0,
-            "y": 48,
-            "text": "a response",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 5
-            }
+            "caption": "A stance concerns the response. Emotional control remains limited.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "witness",
+                "type": "figure",
+                "x": 273,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "fear",
+                "type": "path",
+                "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+                "x": 273,
+                "y": 65,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "testimony",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 215,
+                "y": 121
+              },
+              {
+                "id": "stand",
+                "type": "path",
+                "d": "M235 148 L324 148 L312 210 L248 210 Z",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "two aspects of one act",
+                "x": 194,
+                "y": 34,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -13577,86 +13690,99 @@
     "reflection": "What response is possible without demanding that the feeling disappear first?",
     "readingArt": [
       {
-        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "description": "A grieving friend can receive attention even when the visitor feels awkward.",
         "actors": [
           {
-            "id": "body",
+            "id": "visitor",
+            "type": "figure",
+            "x": 105,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
+          },
+          {
+            "id": "awkward",
             "type": "path",
-            "d": "M98 171 L306 172"
+            "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+            "x": 105,
+            "y": 71,
+            "pose": {
+              "scale": 0.7
+            }
           },
           {
-            "id": "psyche",
+            "id": "friend",
+            "type": "figure",
+            "x": 289,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
+          },
+          {
+            "id": "presence",
             "type": "path",
-            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
-            "tone": "faint"
+            "d": "M138 136 Q200 159 257 136",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "response",
-            "type": "path",
-            "d": "M111 76 Q207 47 297 78"
-          },
-          {
-            "id": "layers",
+            "id": "same",
             "type": "text",
-            "x": 127.8,
-            "y": 228,
-            "text": "different questions"
-          },
-          {
-            "id": "level-0",
-            "type": "text",
-            "x": 162.0,
-            "y": 194,
-            "text": "conditions"
-          },
-          {
-            "id": "level-1",
-            "type": "text",
-            "x": 165.8,
-            "y": 110,
-            "text": "a feeling"
-          },
-          {
-            "id": "level-2",
-            "type": "text",
-            "x": 162.0,
-            "y": 48,
-            "text": "a response"
+            "text": "feeling and orientation differ",
+            "x": 200,
+            "y": 221,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "An immovable wall stays still while the person changes their stance beside it.",
+        "description": "A philosophical distinction leaves the conditions of the response in view.",
         "actors": [
           {
-            "id": "wall",
-            "type": "path",
-            "d": "M254 49 L251 183 M259 50 L257 182"
-          },
-          {
-            "id": "person",
+            "id": "one",
             "type": "figure",
-            "x": 173,
-            "y": 138
+            "x": 198,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "stance",
+            "id": "conditions",
             "type": "path",
-            "d": "M124 194 Q163 188 212 194"
+            "d": "M-116.0 -75.5 L116.0 -75.5 L116.0 75.5 L-116.0 75.5 Z",
+            "x": 198,
+            "y": 133
           },
           {
-            "id": "fixed",
-            "type": "text",
-            "x": 250.8,
-            "y": 204,
-            "text": "unchanged"
+            "id": "feeling",
+            "type": "path",
+            "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+            "x": 127,
+            "y": 108,
+            "pose": {
+              "scale": 0.7
+            }
           },
           {
-            "id": "stance-label",
+            "id": "response",
+            "type": "path",
+            "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+            "x": 274,
+            "y": 134
+          },
+          {
+            "id": "capacity",
             "type": "text",
-            "x": 108.0,
-            "y": 43,
-            "text": "a response"
+            "text": "available capacity matters",
+            "x": 200,
+            "y": 229,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -13670,56 +13796,206 @@
     "title": "Change what can change",
     "statement": "Accepting a burden is not admirable merely because the burden hurts.",
     "explanation": "Frankl’s argument for meaning in unavoidable suffering is bounded by the distinction between what can and cannot be changed. Avoidable suffering calls first for removal, protection, or help.",
-    "nuance": "Imagine an employee enduring an unsafe practice because persistence has become the organisation’s badge of seriousness. The suffering is real, yet the relevant task may be to change the practice rather than find a noble interpretation of enduring it. This example shows why the word unavoidable cannot be assumed. It can become convenient for those with power to prevent a harm they would rather someone else absorb.\n\nThe distinction may also require collective action. One person cannot repair a system alone; that does not make the system a natural fate. Resources, other workers, professional advice, and institutions can enlarge the available possibilities. Recognising limited personal control and identifying preventable harm can therefore coexist. A compassionate account should not make an individual’s response carry every responsibility that belongs elsewhere.\n\nThe opening appears within the walls without making the walls disappear. It suggests two questions: what can this person do now, and what should others change about the conditions? Neither cancels the other. Frankl’s narrow claim is damaged when it becomes admiration for suffering in general. The value, if one can be found, belongs to a relation or response; pain by itself is not a credential that makes a life meaningful.",
+    "nuance": "Imagine an employee enduring an unsafe practice because persistence has become the organisation’s badge of seriousness. The suffering is real, yet the relevant task may be to change the practice rather than find a noble interpretation of enduring it. This example shows why the word unavoidable cannot be assumed. It can become convenient for those with power to prevent a harm they would rather someone else absorb.\n\nThe distinction may also require collective action. One person cannot repair a system alone; that does not make the system a natural fate. Resources, other workers, professional advice, and institutions can enlarge the available possibilities. Recognising limited personal control and identifying preventable harm can therefore coexist. A compassionate account should not make an individual’s response carry every responsibility that belongs elsewhere.\n\nPreventable harm can remain outside one individual’s power. That limit leaves collective and institutional responsibilities in view. Repairing the machine guard may require time, resources or authority that the worker lacks. Asking what the worker can do now and what others should change gives each responsibility its proper object. Frankl’s argument about unavoidable suffering depends on this distinction. Care begins by examining the possibilities for protection and relief before treating the burden as a fixed condition.",
     "sources": [
       "frankl-suffering"
     ],
-    "metaphor": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+    "metaphor": "A dangerous workplace is first called a burden to endure; a changed practice removes the preventable hazard.",
     "scene": {
       "kind": "notebook",
-      "caption": "preventable suffering",
+      "caption": "When suffering can be prevented, protection and change come first.",
       "variant": "frankl-gap",
-      "composition": {
-        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
-        "actors": [
+      "lesson": {
+        "description": "A dangerous workplace is first called a burden to endure; a changed practice removes the preventable hazard.",
+        "beats": [
           {
-            "id": "limits",
-            "type": "path",
-            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
+            "caption": "A broken guard leaves a worker exposed to a machine.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 99,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "machine",
+                "type": "path",
+                "d": "M196 185 L196 103 L312 103 L312 185 Z M210 121 L272 121 M287 109 L287 176",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "blade",
+                "type": "circle",
+                "x": 243,
+                "y": 144,
+                "r": 22
+              },
+              {
+                "id": "gap",
+                "type": "path",
+                "d": "M183 110 L183 129 M183 165 L183 187",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a preventable hazard",
+                "x": 205,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "person",
-            "type": "figure",
-            "x": 197,
-            "y": 119,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
+            "caption": "Endurance leaves the hazard in place for the next worker.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 120,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "machine",
+                "type": "path",
+                "d": "M196 185 L196 103 L312 103 L312 185 Z M210 121 L272 121 M287 109 L287 176",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "blade",
+                "type": "circle",
+                "x": 243,
+                "y": 144,
+                "r": 22
+              },
+              {
+                "id": "gap",
+                "type": "path",
+                "d": "M183 110 L183 129 M183 165 L183 187",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "next",
+                "type": "figure",
+                "x": 65,
+                "y": 188,
+                "pose": {
+                  "scale": 0.35
+                }
+              }
+            ]
           },
           {
-            "id": "step",
-            "type": "path",
-            "d": "M179 202 Q195 196 212 202",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "A repaired guard changes the harmful conditions.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 99,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "machine",
+                "type": "path",
+                "d": "M196 185 L196 103 L312 103 L312 185 Z M210 121 L272 121 M287 109 L287 176",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "blade",
+                "type": "circle",
+                "x": 243,
+                "y": 144,
+                "r": 22
+              },
+              {
+                "id": "gap",
+                "type": "path",
+                "d": "M183 110 L183 187 M172 110 L172 187 M172 110 L183 110 M172 187 L183 187",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "next",
+                "type": "figure",
+                "x": 65,
+                "y": 188,
+                "pose": {
+                  "scale": 0.35
+                }
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "remove the hazard",
+                "x": 205,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "possible",
-            "type": "text",
-            "x": 154.6,
-            "y": 31,
-            "text": "within limits",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 3
-            }
+            "caption": "When suffering can be prevented, protection and change come first.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 99,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "machine",
+                "type": "path",
+                "d": "M196 185 L196 103 L312 103 L312 185 Z",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "blade",
+                "type": "circle",
+                "x": 243,
+                "y": 144,
+                "r": 22
+              },
+              {
+                "id": "gap",
+                "type": "path",
+                "d": "M183 110 L183 187 M172 110 L172 187 M172 110 L183 110 M172 187 L183 187",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "help can change the conditions",
+                "x": 205,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -13740,63 +14016,97 @@
     "reflection": "Who has the power to change the conditions being called unavoidable?",
     "readingArt": [
       {
-        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+        "description": "A condition outside one person’s power may still be changeable through shared action.",
         "actors": [
           {
-            "id": "limits",
-            "type": "path",
-            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
-          },
-          {
-            "id": "person",
+            "id": "a",
             "type": "figure",
-            "x": 197,
-            "y": 119
+            "x": 87,
+            "y": 164,
+            "pose": {
+              "scale": 0.5
+            }
           },
           {
-            "id": "step",
+            "id": "b",
+            "type": "figure",
+            "x": 160,
+            "y": 164,
+            "pose": {
+              "scale": 0.5
+            }
+          },
+          {
+            "id": "hazard",
             "type": "path",
-            "d": "M179 202 Q195 196 212 202"
+            "d": "M260 78 L260 196 M278 78 L278 196",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "possible",
+            "id": "support",
+            "type": "path",
+            "d": "M118 166 Q191 208 247 166",
+            "x": 0,
+            "y": 0
+          },
+          {
+            "id": "collective",
             "type": "text",
-            "x": 154.6,
-            "y": 31,
-            "text": "within limits"
+            "text": "limited alone · greater together",
+            "x": 200,
+            "y": 41,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
+        "description": "Immediate agency and other people’s responsibility belong in the same account.",
         "actors": [
-          {
-            "id": "banks",
-            "type": "path",
-            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
-          },
-          {
-            "id": "bridge",
-            "type": "path",
-            "d": "M130 151 L173 153 M222 153 L268 152"
-          },
-          {
-            "id": "plank",
-            "type": "path",
-            "d": "M174 153 Q198 149 222 153"
-          },
           {
             "id": "worker",
             "type": "figure",
-            "x": 124,
-            "y": 132
+            "x": 100,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "action",
+            "id": "manager",
+            "type": "figure",
+            "x": 295,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
+          },
+          {
+            "id": "conditions",
+            "type": "path",
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 204,
+            "y": 134
+          },
+          {
+            "id": "one",
             "type": "text",
-            "x": 178.2,
-            "y": 210,
-            "text": "a deed"
+            "text": "what can I do?",
+            "x": 101,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "other",
+            "type": "text",
+            "text": "what should change?",
+            "x": 293,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -13810,91 +14120,198 @@
     "title": "Different kinds of difficulty",
     "statement": "A conflict about values is not explained merely by tracing an emotional mechanism.",
     "explanation": "Frankl calls some difficulties noogenic when their central issue concerns meaning or conscience. He distinguishes them from psychogenic explanations without making meaning the cause of all illness.",
-    "nuance": "Suppose a person experiences distress while preparing to falsify a report their employer demands. The distress may concern a genuine conflict of values. An account focused only on reducing anxiety would risk helping the person feel easier about an act that still deserves scrutiny. This example shows why the object of distress matters alongside its mechanisms: what is the unease actually answering in the situation?\n\nNow imagine distress that persists across circumstances and severely disrupts sleep or ordinary life. A philosophical conversation may matter, but it does not establish what care is needed. The contrast prevents an existential vocabulary from absorbing every condition into one preferred explanation. Values, illness, social pressure, and bodily processes can interact. A distinction between them is a tool for asking better questions, not a way to diagnose someone from a card.\n\nThe diagram keeps the layers connected while giving each a separate form. A value conflict is not made unreal by accompanying physical symptoms, and symptoms are not cured merely by identifying a conflict. Frankl’s historical terminology should be approached as part of his therapeutic framework. The useful practical limit is to resist allowing any one account to silence another before the person’s actual circumstances have been understood.",
+    "nuance": "Suppose a person experiences distress while preparing to falsify a report their employer demands. The distress may concern a genuine conflict of values. An account focused only on reducing anxiety would risk helping the person feel easier about an act that still deserves scrutiny. This example shows why the object of distress matters alongside its mechanisms: what is the unease actually answering in the situation?\n\nNow imagine distress that persists across circumstances and severely disrupts sleep or ordinary life. A philosophical conversation may matter, but it does not establish what care is needed. The contrast prevents an existential vocabulary from absorbing every condition into one preferred explanation. Values, illness, social pressure, and bodily processes can interact. A distinction between them is a tool for asking better questions, not a way to diagnose someone from a card.\n\nA value conflict and bodily symptoms can belong to the same difficulty. Identifying the conflict gives one important question a clearer object; appropriate care may still be needed for the distress. Frankl’s historical term belongs to his therapeutic framework and should be read within it. Its useful limit is the resistance to a single explanation swallowing all the others. Understanding this worker requires attention to the false report, the pressure behind it, the reaction it produces, and the conditions for a safer response.",
     "sources": [
       "frankl-theory"
     ],
-    "metaphor": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+    "metaphor": "An order to falsify a report produces a conflict about values, alongside a distress that deserves care.",
     "scene": {
       "kind": "notebook",
-      "caption": "noogenic and psychogenic",
+      "caption": "Frankl’s noogenic account examines meaning while leaving other care available.",
       "variant": "frankl-levels",
-      "composition": {
-        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
-        "actors": [
+      "lesson": {
+        "description": "An order to falsify a report produces a conflict about values, alongside a distress that deserves care.",
+        "beats": [
           {
-            "id": "body",
-            "type": "path",
-            "d": "M98 171 L306 172"
+            "caption": "An employer asks a worker to falsify a report.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 102,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "report",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 266,
+                "y": 131
+              },
+              {
+                "id": "false",
+                "type": "path",
+                "d": "M250 116 L278 147 M276 116 L251 147",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a demand to falsify",
+                "x": 209,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "psyche",
-            "type": "path",
-            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "y": 4
-            },
-            "tone": "faint"
+            "caption": "The worker’s unease concerns the truth the report will conceal.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 102,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "report",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 266,
+                "y": 131
+              },
+              {
+                "id": "distress",
+                "type": "path",
+                "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+                "x": 102,
+                "y": 72,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "false",
+                "type": "path",
+                "d": "M250 116 L278 147 M276 116 L251 147",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "an actual value conflict",
+                "x": 209,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "response",
-            "type": "path",
-            "d": "M111 76 Q207 47 297 78",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "Reducing discomfort alone would leave the false report unanswered.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 102,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "report",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 266,
+                "y": 131
+              },
+              {
+                "id": "reader",
+                "type": "figure",
+                "x": 336,
+                "y": 181,
+                "pose": {
+                  "scale": 0.4
+                },
+                "facing": true
+              },
+              {
+                "id": "effect",
+                "type": "path",
+                "d": "M289 144 L316 159",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "the reader’s claim remains",
+                "x": 209,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "layers",
-            "type": "text",
-            "x": 127.8,
-            "y": 228,
-            "text": "different questions",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 7
-            }
-          },
-          {
-            "id": "level-0",
-            "type": "text",
-            "x": 169.6,
-            "y": 194,
-            "text": "the body",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "level-1",
-            "type": "text",
-            "x": 169.6,
-            "y": 110,
-            "text": "distress",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "level-2",
-            "type": "text",
-            "x": 139.2,
-            "y": 48,
-            "text": "a value conflict",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 5
-            }
+            "caption": "Frankl’s noogenic account examines meaning while leaving other care available.",
+            "duration": 5.2,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 146,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "report",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 266,
+                "y": 131
+              },
+              {
+                "id": "support",
+                "type": "figure",
+                "x": 70,
+                "y": 177,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "care",
+                "type": "path",
+                "d": "M90 156 L121 156",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "values and care both matter",
+                "x": 207,
+                "y": 43,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -13915,88 +14332,95 @@
     "reflection": "What is this distress about, and what else requires care alongside that question?",
     "readingArt": [
       {
-        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "description": "Distress has both mechanisms and an object that may deserve judgement.",
         "actors": [
           {
-            "id": "body",
+            "id": "feeling",
             "type": "path",
-            "d": "M98 171 L306 172"
+            "d": "M-27-8 Q-11-31 12-15 T26 16 Q-3 29-25 7 Q-36-10-8-22 T28 2 Q13 22-12 12 T0-21 Q23-17 15 7 T-18 3",
+            "x": 110,
+            "y": 127,
+            "pose": {
+              "scale": 0.7
+            }
           },
           {
-            "id": "psyche",
+            "id": "report",
             "type": "path",
-            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
-            "tone": "faint"
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 288,
+            "y": 131
           },
           {
-            "id": "response",
-            "type": "path",
-            "d": "M111 76 Q207 47 297 78"
-          },
-          {
-            "id": "layers",
+            "id": "a",
             "type": "text",
-            "x": 127.8,
-            "y": 228,
-            "text": "different questions"
+            "text": "the reaction",
+            "x": 110,
+            "y": 213,
+            "anchor": "middle",
+            "fontSize": 18
           },
           {
-            "id": "level-0",
+            "id": "b",
             "type": "text",
-            "x": 169.6,
-            "y": 194,
-            "text": "the body"
-          },
-          {
-            "id": "level-1",
-            "type": "text",
-            "x": 169.6,
-            "y": 110,
-            "text": "distress"
-          },
-          {
-            "id": "level-2",
-            "type": "text",
-            "x": 139.2,
-            "y": 48,
-            "text": "a value conflict"
+            "text": "what it concerns",
+            "x": 288,
+            "y": 213,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "Two meaningful routes require different turns at the same fork; neither branch is erased.",
+        "description": "Value conflicts, bodily processes and illness can interact without becoming one explanation.",
         "actors": [
           {
-            "id": "path",
-            "type": "path",
-            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67"
+            "id": "body",
+            "type": "circle",
+            "x": 140,
+            "y": 126,
+            "r": 49
           },
           {
-            "id": "one",
+            "id": "values",
+            "type": "circle",
+            "x": 240,
+            "y": 126,
+            "r": 49
+          },
+          {
+            "id": "care",
+            "type": "circle",
+            "x": 190,
+            "y": 177,
+            "r": 49
+          },
+          {
+            "id": "body-label",
             "type": "text",
-            "x": 74.8,
-            "y": 45,
-            "text": "one claim"
+            "text": "body",
+            "x": 108,
+            "y": 56,
+            "anchor": "middle",
+            "fontSize": 18
           },
           {
-            "id": "two",
+            "id": "value-label",
             "type": "text",
-            "x": 235.6,
-            "y": 46,
-            "text": "another claim"
+            "text": "values",
+            "x": 281,
+            "y": 56,
+            "anchor": "middle",
+            "fontSize": 18
           },
           {
-            "id": "person",
-            "type": "figure",
-            "x": 202,
-            "y": 141
-          },
-          {
-            "id": "judgement",
+            "id": "care-label",
             "type": "text",
-            "x": 139.4,
-            "y": 219,
-            "text": "judgement remains"
+            "text": "care",
+            "x": 192,
+            "y": 181,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14010,57 +14434,198 @@
     "title": "The question that opens",
     "statement": "A question can reveal a possibility without installing the questioner’s answer.",
     "explanation": "Frankl’s use of Socratic dialogue draws attention to assumptions, possibilities, and responsibility. Its value depends on helping a person think, rather than quietly steering them to the helper’s preferred conclusion.",
-    "nuance": "Imagine someone saying that quitting a job would mean abandoning every commitment. A question about which commitments would really remain may reveal an unnoticed alternative. The question does not need to argue that leaving is right. It examines the all-or-nothing picture in which the person has been deciding. The conversation opens a possibility while the concrete decision still belongs to the person whose work and relationships will change.\n\nA leading question can do the opposite. Asking whether a caring person would really leave may contain a judgement already disguised as inquiry. This contrast asks how the question is functioning: does disagreement remain possible without losing the helper’s respect? An apparently gentle conversation can still use authority to narrow a person’s field of choice. The form of a question alone does not make it respectful.\n\nThe compass is placed among several directions, not carried to a destination by the questioner. Good dialogue makes relevant differences clearer and lets the answer remain unsettled while thinking proceeds. Frankl’s account includes a firm limit against imposing the therapist’s values. That limit matters most when uncertainty makes a person eager for someone else to decide, because accepting a substitute answer can feel briefly safer than exercising judgement.",
+    "nuance": "Imagine someone saying that quitting a job would mean abandoning every commitment. A question about which commitments would really remain may reveal an unnoticed alternative. The question does not need to argue that leaving is right. It examines the all-or-nothing picture in which the person has been deciding. The conversation opens a possibility while the concrete decision still belongs to the person whose work and relationships will change.\n\nA leading question can do the opposite. Asking whether a caring person would really leave may contain a judgement already disguised as inquiry. This contrast asks how the question is functioning: does disagreement remain possible without losing the helper’s respect? An apparently gentle conversation can still use authority to narrow a person’s field of choice. The form of a question alone does not make it respectful.\n\nA question changes a conversation partly through the alternatives it permits. Good dialogue clarifies consequences and assumptions while leaving room for disagreement and time to think. Frankl’s limit against imposing the helper’s values becomes especially important when a person wants someone else to decide. Authority can offer temporary relief and still displace the person’s judgement. The useful result is a clearer picture of what the choice contains, with ownership remaining in the life that the decision will affect.",
     "sources": [
       "frankl-dialogue"
     ],
-    "metaphor": "Several demands surround a person; one specific direction becomes legible.",
+    "metaphor": "An all-or-nothing picture of leaving a job opens when a question separates the commitments involved.",
     "scene": {
       "kind": "notebook",
-      "caption": "socratic dialogue",
+      "caption": "Good dialogue clarifies the picture while leaving the decision with the person.",
       "variant": "frankl-compass",
-      "composition": {
-        "description": "Several demands surround a person; one specific direction becomes legible.",
-        "actors": [
+      "lesson": {
+        "description": "An all-or-nothing picture of leaving a job opens when a question separates the commitments involved.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 201,
-            "y": 133,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
+            "caption": "Someone thinks leaving a job would abandon every commitment.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 103,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "job",
+                "type": "path",
+                "d": "M-57.5 -54.0 L57.5 -54.0 L57.5 54.0 L-57.5 54.0 Z",
+                "x": 274,
+                "y": 130
+              },
+              {
+                "id": "duties",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 274,
+                "y": 134
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "everything tied to one role",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "options",
-            "type": "path",
-            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "tone": "faint"
+            "caption": "A question asks which commitments would actually remain.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 103,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "job",
+                "type": "path",
+                "d": "M-57.5 -54.0 L57.5 -54.0 L57.5 54.0 L-57.5 54.0 Z",
+                "x": 274,
+                "y": 130,
+                "tone": "faint"
+              },
+              {
+                "id": "duties",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 201,
+                "y": 125
+              },
+              {
+                "id": "relationship",
+                "type": "path",
+                "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+                "x": 310,
+                "y": 185
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "Which commitments remain?",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "choice",
-            "type": "path",
-            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "Some duties concern the job; others survive beyond it.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 155,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "job",
+                "type": "path",
+                "d": "M-40.5 -33.0 L40.5 -33.0 L40.5 33.0 L-40.5 33.0 Z",
+                "x": 287,
+                "y": 115
+              },
+              {
+                "id": "duties",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 285,
+                "y": 116
+              },
+              {
+                "id": "relationship",
+                "type": "path",
+                "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+                "x": 220,
+                "y": 185
+              },
+              {
+                "id": "continuing",
+                "type": "path",
+                "d": "M173 163 L196 176",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "more than one possibility",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "here",
-            "type": "text",
-            "x": 220.8,
-            "y": 202,
-            "text": "this situation",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Good dialogue clarifies the picture while leaving the decision with the person.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 155,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "job",
+                "type": "path",
+                "d": "M-40.5 -33.0 L40.5 -33.0 L40.5 33.0 L-40.5 33.0 Z",
+                "x": 287,
+                "y": 115
+              },
+              {
+                "id": "duties",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 285,
+                "y": 116
+              },
+              {
+                "id": "relationship",
+                "type": "path",
+                "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+                "x": 220,
+                "y": 185
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "an open question can help",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14081,66 +14646,146 @@
     "reflection": "Does this question permit an answer the helper would not choose?",
     "readingArt": [
       {
-        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "description": "An open question reveals alternatives; a leading question steers toward a hidden verdict.",
         "actors": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 201,
-            "y": 133
+            "id": "open",
+            "type": "path",
+            "d": "M108 186 L108 164 L68 103 M108 164 L149 103",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "options",
+            "id": "leading",
             "type": "path",
-            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "d": "M301 186 L301 164 L263 103 M301 164 L344 103",
+            "x": 0,
+            "y": 0,
             "tone": "faint"
           },
           {
-            "id": "choice",
+            "id": "favoured",
             "type": "path",
-            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+            "d": "M301 186 L301 164 L344 103",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "here",
+            "id": "blocked",
+            "type": "path",
+            "d": "M249 124 L279 106",
+            "x": 0,
+            "y": 0
+          },
+          {
+            "id": "a",
             "type": "text",
-            "x": 220.8,
-            "y": 202,
-            "text": "this situation"
+            "text": "open inquiry",
+            "x": 104,
+            "y": 49,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "hidden verdict",
+            "x": 297,
+            "y": 49,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "one-label",
+            "type": "text",
+            "text": "several possibilities",
+            "x": 102,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 15
+          },
+          {
+            "id": "two-label",
+            "type": "text",
+            "text": "one preferred answer",
+            "x": 296,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 15
+          },
+          {
+            "id": "possibility-a",
+            "type": "circle",
+            "x": 68,
+            "y": 103,
+            "r": 7
+          },
+          {
+            "id": "possibility-b",
+            "type": "circle",
+            "x": 149,
+            "y": 103,
+            "r": 7
+          },
+          {
+            "id": "closed-a",
+            "type": "circle",
+            "x": 263,
+            "y": 103,
+            "r": 7,
+            "tone": "faint"
+          },
+          {
+            "id": "preferred",
+            "type": "circle",
+            "x": 344,
+            "y": 103,
+            "r": 7
           }
         ]
       },
       {
-        "description": "A question above the person is answered by an action toward a waiting task.",
+        "description": "Separating commitments makes consequences clearer while the choice remains unsettled.",
         "actors": [
           {
-            "id": "ask",
-            "type": "text",
-            "x": 114.0,
-            "y": 48,
-            "text": "what is asked of me?"
-          },
-          {
-            "id": "person",
-            "type": "figure",
-            "x": 125,
-            "y": 140
-          },
-          {
-            "id": "task",
+            "id": "role",
             "type": "path",
-            "d": "M257 102 L310 104 L308 167 L256 165 Z"
+            "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+            "x": 100,
+            "y": 133
           },
           {
-            "id": "reply",
+            "id": "relation",
             "type": "path",
-            "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146"
+            "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+            "x": 295,
+            "y": 133
           },
           {
-            "id": "answer",
+            "id": "split",
+            "type": "path",
+            "d": "M196 64 L196 186",
+            "x": 0,
+            "y": 0,
+            "tone": "faint"
+          },
+          {
+            "id": "a",
             "type": "text",
-            "x": 143.2,
-            "y": 204,
-            "text": "answer in action"
+            "text": "role-bound duties",
+            "x": 102,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "continuing relations",
+            "x": 293,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14154,45 +14799,222 @@
     "title": "When the noise stops",
     "statement": "The end of a busy week can expose a question busyness concealed.",
     "explanation": "Frankl uses Sunday neurosis for unease that appears when the week’s activity falls quiet. The example concerns the relation between occupation and direction, not a diagnosis of ordinary dislike of weekends.",
-    "nuance": "Imagine anticipating a free day and then filling it anxiously with small obligations. The freedom from deadlines has arrived, but a reason to inhabit it has not. An external schedule may have supplied movement without supplying a chosen direction. Frankl’s historical label points to this possible distinction. The question is what becomes perceptible in the silence, rather than whether every open afternoon should be put to productive use.\n\nThe same weekend can instead feel difficult because of isolation, caregiving, financial worry, or a long period of exhaustion. Those conditions matter. This comparison prevents the label from becoming an explanation merely because the timing resembles its example. Asking what fills a week and what disappears when it ends gives a better starting point than presuming that discomfort proves an unmeaningful life.\n\nThe timetable has populated edges and an open middle. It is a diagram of one possible structure, not a portrait of every person who dislikes unoccupied time. A meaningful response could involve a relationship, a valued activity, rest, or help with the material conditions of the day. More activity is not automatically the answer. The central distinction remains whether a task provides direction or mainly keeps a difficult question out of hearing.",
+    "nuance": "Imagine anticipating a free day and then filling it anxiously with small obligations. The freedom from deadlines has arrived, but a reason to inhabit it has not. An external schedule may have supplied movement without supplying a chosen direction. Frankl’s historical label points to this possible distinction. The question is what becomes perceptible in the silence, rather than whether every open afternoon should be put to productive use.\n\nThe same weekend can instead feel difficult because of isolation, caregiving, financial worry, or a long period of exhaustion. Those conditions matter. This comparison prevents the label from becoming an explanation merely because the timing resembles its example. Asking what fills a week and what disappears when it ends gives a better starting point than presuming that discomfort proves an unmeaningful life.\n\nA free day has conditions as well as possibilities. Company, material security and recovery from exhaustion can change how its openness feels. Frankl’s example points to one experience in which occupation had concealed a question of direction. Understanding a particular Sunday requires examining the actual life around it. Rest or companionship may be meaningful responses; a new task may also have value. The central inquiry concerns what sustains the person’s involvement when an externally supplied rhythm falls quiet.",
     "sources": [
       "frankl-search"
     ],
-    "metaphor": "A full timetable is outlined, then an empty middle becomes apparent.",
+    "metaphor": "The office rhythm stops; an open Sunday at home reveals a separate question of direction.",
     "scene": {
       "kind": "notebook",
-      "caption": "sunday neurosis",
+      "caption": "Frankl asks what becomes audible when busyness stops.",
       "variant": "frankl-empty",
-      "composition": {
-        "description": "A full timetable is outlined, then an empty middle becomes apparent.",
-        "actors": [
+      "lesson": {
+        "description": "The office rhythm stops; an open Sunday at home reveals a separate question of direction.",
+        "beats": [
           {
-            "id": "schedule",
-            "type": "path",
-            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156"
+            "caption": "The workweek supplies instructions and a rhythm from outside.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 101,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "office",
+                "type": "path",
+                "d": "M185 194 L185 83 L314 83 L314 194 M202 108 L229 108 M258 108 L288 108 M202 135 L229 135 M258 135 L288 135 M240 194 L240 159 L264 159 L264 194",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "work-time",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "rim",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 0,
+                    "r": 25
+                  },
+                  {
+                    "id": "hands",
+                    "type": "path",
+                    "d": "M0 0 L0-16 M0 0 L13 -8",
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "x": 251,
+                "y": 57
+              },
+              {
+                "id": "week",
+                "type": "text",
+                "text": "the working week",
+                "x": 200,
+                "y": 225,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "ticks",
-            "type": "path",
-            "d": "M127 68 L156 69 M234 68 L269 68 M127 174 L163 175 M233 174 L272 174",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            },
-            "tone": "faint"
+            "caption": "Sunday arrives. The familiar external instructions fall quiet.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 180,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "office",
+                "type": "path",
+                "d": "M54 191 L54 114 L119 114 L119 191 M66 135 L83 135 M92 135 L109 135",
+                "x": 0,
+                "y": 0,
+                "tone": "faint"
+              },
+              {
+                "id": "home",
+                "type": "path",
+                "d": "M-21 0 Q0-3 23 0 L21 8 L-21 8 Z M-17 8 L-21 39 M17 8 L21 39",
+                "x": 292,
+                "y": 152
+              },
+              {
+                "id": "home-window",
+                "type": "path",
+                "d": "M-27-31 L29-30 L29 30 L-27 31 Z M0-30 L0 30 M-27 0 L29 0",
+                "x": 281,
+                "y": 84
+              },
+              {
+                "id": "week",
+                "type": "text",
+                "text": "an open day at home",
+                "x": 201,
+                "y": 224,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "vacancy",
-            "type": "text",
-            "x": 150.6,
-            "y": 127,
-            "text": "but what for?",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 5
-            }
+            "caption": "Small chores fill the silence without settling what the day is for.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 180,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "home",
+                "type": "path",
+                "d": "M-21 0 Q0-3 23 0 L21 8 L-21 8 Z M-17 8 L-21 39 M17 8 L21 39",
+                "x": 292,
+                "y": 152
+              },
+              {
+                "id": "home-window",
+                "type": "path",
+                "d": "M-27-31 L29-30 L29 30 L-27 31 Z M0-30 L0 30 M-27 0 L29 0",
+                "x": 281,
+                "y": 84
+              },
+              {
+                "id": "chores",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 91,
+                "y": 134
+              },
+              {
+                "id": "ticks",
+                "type": "path",
+                "d": "M77 122 L81 127 L90 116 M77 142 L81 147 L90 136",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "week",
+                "type": "text",
+                "text": "occupation covers the question",
+                "x": 201,
+                "y": 224,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
+          },
+          {
+            "caption": "Frankl asks what becomes audible when busyness stops.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 180,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "home",
+                "type": "path",
+                "d": "M-21 0 Q0-3 23 0 L21 8 L-21 8 Z M-17 8 L-21 39 M17 8 L21 39",
+                "x": 292,
+                "y": 152
+              },
+              {
+                "id": "home-window",
+                "type": "path",
+                "d": "M-27-31 L29-30 L29 30 L-27 31 Z M0-30 L0 30 M-27 0 L29 0",
+                "x": 281,
+                "y": 84
+              },
+              {
+                "id": "chores",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 91,
+                "y": 134
+              },
+              {
+                "id": "q",
+                "type": "text",
+                "text": "?",
+                "x": 180,
+                "y": 74,
+                "anchor": "middle",
+                "fontSize": 26
+              },
+              {
+                "id": "week",
+                "type": "text",
+                "text": "What deserves this time?",
+                "x": 201,
+                "y": 224,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14213,59 +15035,109 @@
     "reflection": "What does this quiet interval reveal about the direction of the week?",
     "readingArt": [
       {
-        "description": "A full timetable is outlined, then an empty middle becomes apparent.",
+        "description": "An externally filled week can differ from a day given a chosen direction.",
         "actors": [
           {
-            "id": "schedule",
-            "type": "path",
-            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156"
+            "id": "week",
+            "type": "group",
+            "children": [
+              {
+                "id": "frame",
+                "type": "path",
+                "d": "M-75.0 -57.5 L75.0 -57.5 L75.0 57.5 L-75.0 57.5 Z",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "rows",
+                "type": "path",
+                "d": "M-75-26 L75-26 M-75 2 L75 2 M-75 30 L75 30 M-25-57 L-25 58 M25-57 L25 58",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "tasks",
+                "type": "path",
+                "d": "M-65-42 L-37-42 M-17-42 L14-42 M37-42 L62-42 M-65-10 L-35-10 M-16-10 L17-10 M35-10 L65-10 M-65 17 L-37 17 M-17 17 L14 17 M37 17 L62 17 M-65 43 L-37 43 M-17 43 L14 43 M37 43 L62 43",
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "x": 107,
+            "y": 130
           },
           {
-            "id": "ticks",
+            "id": "choice",
             "type": "path",
-            "d": "M127 68 L156 69 M234 68 L269 68 M127 174 L163 175 M233 174 L272 174",
-            "tone": "faint"
+            "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+            "x": 303,
+            "y": 135
           },
           {
-            "id": "vacancy",
+            "id": "a",
             "type": "text",
-            "x": 150.6,
-            "y": 127,
-            "text": "but what for?"
+            "text": "supplied rhythm",
+            "x": 109,
+            "y": 215,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "chosen attention",
+            "x": 302,
+            "y": 215,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "description": "Loneliness and exhaustion are other possible reasons a free day feels difficult.",
         "actors": [
           {
-            "id": "one",
+            "id": "alone",
             "type": "figure",
-            "x": 128,
-            "y": 135
+            "x": 99,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "two",
-            "type": "figure",
-            "x": 278,
-            "y": 135
-          },
-          {
-            "id": "gaze",
+            "id": "rest",
             "type": "path",
-            "d": "M146 85 Q204 54 260 85"
+            "d": "M-21 0 Q0-3 23 0 L21 8 L-21 8 Z M-17 8 L-21 39 M17 8 L21 39",
+            "x": 290,
+            "y": 154
           },
           {
-            "id": "shared",
-            "type": "path",
-            "d": "M168 153 Q201 183 238 153"
-          },
-          {
-            "id": "between",
+            "id": "a",
             "type": "text",
-            "x": 169.8,
-            "y": 210,
-            "text": "encounter"
+            "text": "missing company",
+            "x": 97,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "needing rest",
+            "x": 290,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "ask",
+            "type": "text",
+            "text": "understand this person’s day",
+            "x": 200,
+            "y": 44,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14279,57 +15151,232 @@
     "title": "An answer supplied from outside",
     "statement": "When direction is uncertain, another person’s demand can begin to feel like an answer.",
     "explanation": "Frankl describes conformism and obedience to imposed direction among responses to existential emptiness. His account examines a vulnerability, rather than claiming it explains every social or political choice.",
-    "nuance": "A person uncertain about what to do may copy what everyone around them is doing. The copying supplies a ready path and reduces the discomfort of standing apart. It may lead to harmless customs or to damaging conduct. Frankl’s concern is what happens when borrowed direction replaces judgement, so that the question of meaning appears settled by belonging rather than by the concrete value of the act.\n\nBeing told what to do can offer a similar temporary relief. Yet coercion and reassurance are not the same event: someone may obey because refusal is dangerous, rather than because emptiness made obedience attractive. This contrast keeps the social conditions visible. A psychological account must not erase the person’s resources, risks, or the force used by institutions that claim authority over their available choices.\n\nThe opening among walls is connected to several possible directions. No path carries a guarantee merely because a group repeats it. Frankl’s broad claims should be examined historically rather than treated as a universal explanation of political domination. Their useful limited question is whether a person is allowed to ask what an instruction serves, and whether belonging has made that question seem unnecessary or disloyal.",
+    "nuance": "A person uncertain about what to do may copy what everyone around them is doing. The copying supplies a ready path and reduces the discomfort of standing apart. It may lead to harmless customs or to damaging conduct. Frankl’s concern is what happens when borrowed direction replaces judgement, so that the question of meaning appears settled by belonging rather than by the concrete value of the act.\n\nBeing told what to do can offer a similar temporary relief. Yet coercion and reassurance are not the same event: someone may obey because refusal is dangerous, rather than because emptiness made obedience attractive. This contrast keeps the social conditions visible. A psychological account must not erase the person’s resources, risks, or the force used by institutions that claim authority over their available choices.\n\nA ready route can reduce uncertainty before its consequences have been considered. Frankl examines this vulnerability through his account of existential emptiness. His broad social claims deserve historical scrutiny, since political conduct also involves institutions, interests, force and material conditions. The limited question remains useful: what does an instruction serve, and can it be examined without punishment or loss of belonging? A group’s confidence becomes part of the evidence to assess, rather than its substitute.",
     "sources": [
       "frankl-search"
     ],
-    "metaphor": "Several demands surround a person; one specific direction becomes legible.",
+    "metaphor": "An uncertain person takes a ready route from the crowd; examining its effect reopens judgement.",
     "scene": {
       "kind": "notebook",
-      "caption": "conformism and totalitarianism",
+      "caption": "Judgement asks about the instruction’s value and the freedom to question it.",
       "variant": "frankl-compass",
-      "composition": {
-        "description": "Several demands surround a person; one specific direction becomes legible.",
-        "actors": [
+      "lesson": {
+        "description": "An uncertain person takes a ready route from the crowd; examining its effect reopens judgement.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 201,
-            "y": 133,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
+            "caption": "Someone is unsure where their choices are leading.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 91,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "paths",
+                "type": "path",
+                "d": "M114 190 L187 147 L285 87 M187 147 L291 195",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "q",
+                "type": "text",
+                "text": "?",
+                "x": 198,
+                "y": 86,
+                "anchor": "middle",
+                "fontSize": 27
+              }
+            ]
           },
           {
-            "id": "options",
-            "type": "path",
-            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "tone": "faint"
+            "caption": "The crowd’s repeated route offers a ready answer.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 121,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "a",
+                "type": "figure",
+                "x": 220,
+                "y": 115,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "b",
+                "type": "figure",
+                "x": 273,
+                "y": 95,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "c",
+                "type": "figure",
+                "x": 325,
+                "y": 75,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "paths",
+                "type": "path",
+                "d": "M114 190 L187 147 L325 94",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "follow what others do",
+                "x": 199,
+                "y": 37,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "choice",
-            "type": "path",
-            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "Following reduces uncertainty without establishing what the act serves.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 181,
+                "y": 118,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "a",
+                "type": "figure",
+                "x": 220,
+                "y": 115,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "b",
+                "type": "figure",
+                "x": 273,
+                "y": 95,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "c",
+                "type": "figure",
+                "x": 325,
+                "y": 75,
+                "pose": {
+                  "scale": 0.4
+                }
+              },
+              {
+                "id": "paths",
+                "type": "path",
+                "d": "M114 190 L187 147 L325 94",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "effect",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 277,
+                "y": 196
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a borrowed direction",
+                "x": 199,
+                "y": 37,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "here",
-            "type": "text",
-            "x": 220.8,
-            "y": 202,
-            "text": "this situation",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Judgement asks about the instruction’s value and the freedom to question it.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 181,
+                "y": 118,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "effect",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 277,
+                "y": 196
+              },
+              {
+                "id": "examine",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "outline",
+                    "type": "path",
+                    "d": "M-25 0 Q0-23 25 0 Q0 21-25 0Z",
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "id": "pupil",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 0,
+                    "r": 6
+                  }
+                ],
+                "x": 248,
+                "y": 66
+              },
+              {
+                "id": "paths",
+                "type": "path",
+                "d": "M114 190 L187 147 L325 94",
+                "x": 0,
+                "y": 0,
+                "tone": "faint"
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "What does this instruction serve?",
+                "x": 198,
+                "y": 34,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14350,59 +15397,107 @@
     "reflection": "What does this shared direction serve beyond removing the need to decide?",
     "readingArt": [
       {
-        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "description": "Coercion differs from relief at receiving an answer; both can lead to obedience.",
         "actors": [
           {
-            "id": "person",
+            "id": "one",
             "type": "figure",
-            "x": 201,
-            "y": 133
+            "x": 104,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "options",
+            "id": "two",
+            "type": "figure",
+            "x": 294,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
+          },
+          {
+            "id": "walls",
             "type": "path",
-            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "tone": "faint"
+            "d": "M259 64 L259 191 M329 64 L329 191",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "choice",
-            "type": "path",
-            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
-          },
-          {
-            "id": "here",
+            "id": "a",
             "type": "text",
-            "x": 220.8,
-            "y": 202,
-            "text": "this situation"
+            "text": "borrowed certainty",
+            "x": 106,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "danger in refusal",
+            "x": 293,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+        "description": "A group’s repeated direction still has consequences beyond the group.",
         "actors": [
           {
-            "id": "limits",
-            "type": "path",
-            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
-          },
-          {
-            "id": "person",
+            "id": "a",
             "type": "figure",
-            "x": 197,
-            "y": 119
+            "x": 79,
+            "y": 160,
+            "pose": {
+              "scale": 0.4
+            }
           },
           {
-            "id": "step",
+            "id": "b",
+            "type": "figure",
+            "x": 130,
+            "y": 160,
+            "pose": {
+              "scale": 0.4
+            }
+          },
+          {
+            "id": "act",
             "type": "path",
-            "d": "M179 202 Q195 196 212 202"
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 206,
+            "y": 135
           },
           {
-            "id": "possible",
+            "id": "affected",
+            "type": "figure",
+            "x": 320,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
+          },
+          {
+            "id": "effect",
+            "type": "path",
+            "d": "M235 146 L290 146",
+            "x": 0,
+            "y": 0
+          },
+          {
+            "id": "outside",
             "type": "text",
-            "x": 154.6,
-            "y": 31,
-            "text": "within limits"
+            "text": "a claim beyond belonging",
+            "x": 200,
+            "y": 46,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14416,61 +15511,208 @@
     "title": "Beyond the role title",
     "statement": "A job title cannot settle the meaning of the acts performed within it.",
     "explanation": "Frankl locates creative value in what a person brings to a task and whom it serves. Meaning is not automatically bestowed by prestige, pay, or naming a role a vocation.",
-    "nuance": "Imagine two people holding the same administrative job. One notices that a confusing form prevents applicants from obtaining assistance and helps make it clearer. The other completes the prescribed work competently but sees no reason to consider that effect. The comparison is not a ranking of people’s worth. It shows how the same role can contain possibilities that its official title neither recognises nor guarantees.\n\nUnpaid care can contain similar creative acts, and a prestigious occupation can contain pointless or harmful ones. Material conditions still matter: a person with no time or authority may be unable to revise the form. This example keeps initiative from becoming blame. The task’s meaning is discovered within constraints, and those constraints may themselves deserve change before a thoughtful contribution becomes possible.\n\nThe incomplete bridge gains a small connection from an ordinary figure. Nothing labels the figure’s status. The visual asks what is done in a relation, rather than what kind of person the role announces to an audience. Frankl’s view should not be turned into a claim that every job is meaningful if workers adjust their attitude. Some work damages people, and refusing or reorganising it may be the responsible response.",
+    "nuance": "Imagine two people holding the same administrative job. One notices that a confusing form prevents applicants from obtaining assistance and helps make it clearer. The other completes the prescribed work competently but sees no reason to consider that effect. The comparison is not a ranking of people’s worth. It shows how the same role can contain possibilities that its official title neither recognises nor guarantees.\n\nUnpaid care can contain similar creative acts, and a prestigious occupation can contain pointless or harmful ones. Material conditions still matter: a person with no time or authority may be unable to revise the form. This example keeps initiative from becoming blame. The task’s meaning is discovered within constraints, and those constraints may themselves deserve change before a thoughtful contribution becomes possible.\n\nThe contribution can be understood through its relation to the applicant. A clearer form changes access to help while the administrator’s title remains the same. Conditions for making the change matter: permission, time, knowledge and support can make initiative possible. Frankl’s creative value concerns the act and what it serves. Harmful work may instead call for refusal or reorganisation. Attention to the task’s actual effects keeps meaning connected to the people receiving the work, beyond the status its role announces.",
     "sources": [
       "frankl-doctor"
     ],
-    "metaphor": "An unfinished bridge gains its missing plank through a small deliberate action.",
+    "metaphor": "An administrator improves a confusing form so an applicant can access help; the role title does not change.",
     "scene": {
       "kind": "notebook",
-      "caption": "work and vocation",
+      "caption": "Creative value can lie in this contribution, beyond prestige or a role title.",
       "variant": "frankl-repair",
-      "composition": {
-        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
-        "actors": [
+      "lesson": {
+        "description": "An administrator improves a confusing form so an applicant can access help; the role title does not change.",
+        "beats": [
           {
-            "id": "banks",
-            "type": "path",
-            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
+            "caption": "A confusing form blocks someone from obtaining help.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 187,
+                "y": 134
+              },
+              {
+                "id": "applicant",
+                "type": "figure",
+                "x": 302,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "confusion",
+                "type": "path",
+                "d": "M173 117 L200 141 M198 117 L174 141",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a barrier in an ordinary task",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "bridge",
-            "type": "path",
-            "d": "M130 151 L173 153 M222 153 L268 152"
+            "caption": "An administrator notices the effect of the wording.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 97,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 202,
+                "y": 134
+              },
+              {
+                "id": "applicant",
+                "type": "figure",
+                "x": 302,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "notice",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "outline",
+                    "type": "path",
+                    "d": "M-25 0 Q0-23 25 0 Q0 21-25 0Z",
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "id": "pupil",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 0,
+                    "r": 6
+                  }
+                ],
+                "x": 200,
+                "y": 78
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "someone notices",
+                "x": 207,
+                "y": 39,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "plank",
-            "type": "path",
-            "d": "M174 153 Q198 149 222 153",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 3
-            }
+            "caption": "They revise the form so the applicant can use it.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 97,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 245,
+                "y": 134
+              },
+              {
+                "id": "applicant",
+                "type": "figure",
+                "x": 302,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "clarity",
+                "type": "path",
+                "d": "M230 127 L257 127 M230 140 L250 140",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "the task serves a person",
+                "x": 207,
+                "y": 39,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "worker",
-            "type": "figure",
-            "x": 124,
-            "y": 132,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
-          },
-          {
-            "id": "action",
-            "type": "text",
-            "x": 178.2,
-            "y": 210,
-            "text": "a deed",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Creative value can lie in this contribution, beyond prestige or a role title.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "worker",
+                "type": "figure",
+                "x": 97,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "form",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 245,
+                "y": 134
+              },
+              {
+                "id": "applicant",
+                "type": "figure",
+                "x": 302,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "same role · a changed relation",
+                "x": 200,
+                "y": 39,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14491,75 +15733,103 @@
     "reflection": "What possibility of service does this role allow, and what does it prevent?",
     "readingArt": [
       {
-        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
+        "description": "The same job title can contain different responses to a concrete need.",
         "actors": [
           {
-            "id": "banks",
+            "id": "first",
             "type": "path",
-            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 101,
+            "y": 133
           },
           {
-            "id": "bridge",
+            "id": "second",
             "type": "path",
-            "d": "M130 151 L173 153 M222 153 L268 152"
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 292,
+            "y": 133
           },
           {
-            "id": "plank",
+            "id": "cross",
             "type": "path",
-            "d": "M174 153 Q198 149 222 153"
+            "d": "M87 119 L114 147 M112 119 L87 147",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "worker",
-            "type": "figure",
-            "x": 124,
-            "y": 132
+            "id": "clear",
+            "type": "path",
+            "d": "M277 127 L306 127 M277 140 L301 140",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "action",
+            "id": "same",
             "type": "text",
-            "x": 178.2,
-            "y": 210,
-            "text": "a deed"
+            "text": "same administrative role",
+            "x": 201,
+            "y": 44,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "Two equally direct routes terminate differently: one reaches a thing, one answers another person.",
+        "description": "A worker may need time or authority before a useful revision becomes possible.",
         "actors": [
           {
-            "id": "route1",
-            "type": "path",
-            "d": "M81 84 L300 84"
-          },
-          {
-            "id": "box",
-            "type": "path",
-            "d": "M300 69 L329 70 L328 99 L300 100 Z"
-          },
-          {
-            "id": "route2",
-            "type": "path",
-            "d": "M80 162 Q171 153 255 160"
-          },
-          {
-            "id": "person",
+            "id": "worker",
             "type": "figure",
-            "x": 282,
-            "y": 178
+            "x": 98,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "goal",
-            "type": "text",
-            "x": 102.6,
-            "y": 65,
-            "text": "a result"
+            "id": "form",
+            "type": "path",
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 286,
+            "y": 129
           },
           {
-            "id": "value",
+            "id": "barrier",
+            "type": "path",
+            "d": "M191 73 L191 191",
+            "x": 0,
+            "y": 0
+          },
+          {
+            "id": "time",
+            "type": "group",
+            "children": [
+              {
+                "id": "rim",
+                "type": "circle",
+                "x": 0,
+                "y": 0,
+                "r": 25
+              },
+              {
+                "id": "hands",
+                "type": "path",
+                "d": "M0 0 L0-16 M0 0 L13 -8",
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "x": 209,
+            "y": 193
+          },
+          {
+            "id": "conditions",
             "type": "text",
-            "x": 90.2,
-            "y": 203,
-            "text": "a responsibility"
+            "text": "resources and authority matter",
+            "x": 200,
+            "y": 42,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14573,58 +15843,201 @@
     "title": "The unfinished thread",
     "statement": "An unfinished task can make the future particular.",
     "explanation": "Frankl describes the importance of a future relation or task that still calls for a response. It differs from believing that the future must contain a spectacular achievement.",
-    "nuance": "Imagine an unfinished letter containing something you have not yet said honestly. Its existence gives a possible next day a specific shape. The unfinished thing need not be large or admired. What matters is that it reaches beyond the present enclosure toward a real addressee. Frankl’s accounts give such orientation importance, while a reader should avoid treating one task as a guarantee that a person can endure every hardship.\n\nThe task can also change. The intended recipient may no longer want contact, or new facts may make the original project mistaken. This contrast prevents future orientation from hardening into blind persistence. An unfinished task is not sacred merely because it was begun. Responsibility can require revising or releasing it while looking for another relation that is genuinely available in the circumstances now faced.\n\nThe thread continues as a faint broken line because completion is possible rather than promised. It draws the person toward an answer without making success inevitable. People who cannot presently imagine a future task may need companionship, protection, or practical help before this kind of orientation is accessible. Their lives remain worthy of that care; a clear project is not an entrance requirement for human significance.",
+    "nuance": "Imagine an unfinished letter containing something you have not yet said honestly. Its existence gives a possible next day a specific shape. The unfinished thing need not be large or admired. What matters is that it reaches beyond the present enclosure toward a real addressee. Frankl’s accounts give such orientation importance, while a reader should avoid treating one task as a guarantee that a person can endure every hardship.\n\nThe task can also change. The intended recipient may no longer want contact, or new facts may make the original project mistaken. This contrast prevents future orientation from hardening into blind persistence. An unfinished task is not sacred merely because it was begun. Responsibility can require revising or releasing it while looking for another relation that is genuinely available in the circumstances now faced.\n\nA future relation may provide orientation while completion remains uncertain. The intended recipient can change their wishes, and new facts can alter what an honest response requires. Revising or releasing the task may then be responsible. Frankl’s accounts give future orientation importance, alongside the conditions that allow a person to perceive it. When no next task is presently imaginable, companionship, protection and practical help can matter first. A clear project is one possible relation within a life already worthy of care.",
     "sources": [
       "frankl-unique"
     ],
-    "metaphor": "An unfinished line remains ahead of a person; the line draws a connection without guaranteeing completion.",
+    "metaphor": "A particular unsent letter gives the future an addressee; new circumstances can also require revising the task.",
     "scene": {
       "kind": "notebook",
-      "caption": "a task in the future",
+      "caption": "Future orientation is a possible relation, never a guarantee of endurance.",
       "variant": "frankl-future-thread",
-      "composition": {
-        "description": "An unfinished line remains ahead of a person; the line draws a connection without guaranteeing completion.",
-        "actors": [
+      "lesson": {
+        "description": "A particular unsent letter gives the future an addressee; new circumstances can also require revising the task.",
+        "beats": [
           {
-            "id": "person",
-            "type": "figure",
-            "x": 111,
-            "y": 137,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
+            "caption": "A letter contains something still unsaid.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 96,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M-28 0 L-26 26 L28 24 L29-1 M-28 0 L0-24 L29-1 M-19 13 L-20-20 L19-21 L20 12 M-12-12 L12-12 M-12-5 L8-5",
+                "x": 231,
+                "y": 135
+              },
+              {
+                "id": "incomplete",
+                "type": "path",
+                "d": "M217 133 L238 133 M217 141 L226 141",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "an unfinished relation",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "thread",
-            "type": "path",
-            "d": "M134 133 Q174 71 218 111 Q254 160 288 104",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 3
-            }
+            "caption": "Its intended recipient gives a possible tomorrow a particular shape.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 123,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M-28 0 L-26 26 L28 24 L29-1 M-28 0 L0-24 L29-1 M-19 13 L-20-20 L19-21 L20 12 M-12-12 L12-12 M-12-5 L8-5",
+                "x": 231,
+                "y": 135
+              },
+              {
+                "id": "recipient",
+                "type": "figure",
+                "x": 323,
+                "y": 166,
+                "pose": {
+                  "scale": 0.45
+                },
+                "facing": true
+              },
+              {
+                "id": "future",
+                "type": "path",
+                "d": "M250 185 Q301 205 332 185",
+                "x": 0,
+                "y": 0,
+                "dashed": true
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "someone to answer",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "unfinished",
-            "type": "path",
-            "d": "M288 104 L323 103",
-            "tone": "faint",
-            "dashed": true
+            "caption": "New facts may require rewriting, waiting, or letting the letter go.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 123,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M-28 0 L-26 26 L28 24 L29-1 M-28 0 L0-24 L29-1 M-19 13 L-20-20 L19-21 L20 12 M-12-12 L12-12 M-12-5 L8-5",
+                "x": 231,
+                "y": 135
+              },
+              {
+                "id": "recipient",
+                "type": "figure",
+                "x": 323,
+                "y": 166,
+                "pose": {
+                  "scale": 0.45
+                },
+                "facing": true
+              },
+              {
+                "id": "new-fact",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 170,
+                "y": 190
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "the task can change",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "notyet",
-            "type": "text",
-            "x": 167.0,
-            "y": 214,
-            "text": "unfinished",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 7
-            }
+            "caption": "Future orientation is a possible relation, never a guarantee of endurance.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 123,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M-28 0 L-26 26 L28 24 L29-1 M-28 0 L0-24 L29-1 M-19 13 L-20-20 L19-21 L20 12 M-12-12 L12-12 M-12-5 L8-5",
+                "x": 231,
+                "y": 135
+              },
+              {
+                "id": "recipient",
+                "type": "figure",
+                "x": 323,
+                "y": 166,
+                "pose": {
+                  "scale": 0.45
+                },
+                "facing": true
+              },
+              {
+                "id": "future",
+                "type": "path",
+                "d": "M250 185 Q301 205 332 185",
+                "x": 0,
+                "y": 0,
+                "dashed": true
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a possibility, held with care",
+                "x": 205,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14645,60 +16058,85 @@
     "reflection": "What remains to be answered, and does its original form still deserve commitment?",
     "readingArt": [
       {
-        "description": "An unfinished line remains ahead of a person; the line draws a connection without guaranteeing completion.",
+        "description": "An unfinished letter reaches toward a real addressee rather than an abstract achievement.",
         "actors": [
           {
-            "id": "person",
+            "id": "letter",
+            "type": "path",
+            "d": "M-28 0 L-26 26 L28 24 L29-1 M-28 0 L0-24 L29-1 M-19 13 L-20-20 L19-21 L20 12 M-12-12 L12-12 M-12-5 L8-5",
+            "x": 105,
+            "y": 132
+          },
+          {
+            "id": "recipient",
             "type": "figure",
-            "x": 111,
-            "y": 137
+            "x": 297,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
           },
           {
-            "id": "thread",
+            "id": "address",
             "type": "path",
-            "d": "M134 133 Q174 71 218 111 Q254 160 288 104"
-          },
-          {
-            "id": "unfinished",
-            "type": "path",
-            "d": "M288 104 L323 103",
-            "tone": "faint",
+            "d": "M138 137 L267 137",
+            "x": 0,
+            "y": 0,
             "dashed": true
           },
           {
-            "id": "notyet",
+            "id": "relation",
             "type": "text",
-            "x": 167.0,
-            "y": 214,
-            "text": "unfinished"
+            "text": "a particular future relation",
+            "x": 200,
+            "y": 46,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "A door shows a task ahead; the person retains several possible approaches.",
+        "description": "Revising a task can be responsible when its original conditions have changed.",
         "actors": [
           {
-            "id": "door",
+            "id": "draft",
             "type": "path",
-            "d": "M260 181 L262 58 L323 60 L322 181"
+            "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+            "x": 110,
+            "y": 127
           },
           {
-            "id": "person",
-            "type": "figure",
-            "x": 140,
-            "y": 137
-          },
-          {
-            "id": "paths",
+            "id": "facts",
             "type": "path",
-            "d": "M162 173 Q206 163 251 169 M161 173 Q197 109 251 105"
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 204,
+            "y": 128
           },
           {
-            "id": "future",
+            "id": "revised",
+            "type": "path",
+            "d": "M-28 0 L-26 26 L28 24 L29-1 M-28 0 L0-24 L29-1 M-19 13 L-20-20 L19-21 L20 12 M-12-12 L12-12 M-12-5 L8-5",
+            "x": 300,
+            "y": 127
+          },
+          {
+            "id": "a",
             "type": "text",
-            "x": 199,
-            "y": 212,
-            "text": "still to answer"
+            "text": "first plan",
+            "x": 108,
+            "y": 214,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "revised answer",
+            "x": 298,
+            "y": 214,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14712,77 +16150,182 @@
     "title": "The archive is not a score",
     "statement": "Keeping a past does not turn every event into an achievement.",
     "explanation": "Frankl values completed meaning as something death or transience cannot simply annul. That claim must be distinguished from treating a whole biography as a favourable ledger.",
-    "nuance": "A person may remember providing real care during one part of a relationship and causing real harm during another. The care was not imaginary, and it does not buy cancellation of the harm. This example keeps acknowledgement from becoming moral arithmetic. Saying that a valuable act occurred is a limited historical claim. Deciding what responsibility now follows requires attending to the other events as well.\n\nLikewise, grief for a lost period need not require declaring the period perfect. A friendship can contain misunderstandings and still have mattered. A completed work can be worth remembering while its author continues to learn from its errors. These differences allow the past to remain complex rather than being rewritten as either an uninterrupted success or a complete failure according to the feeling of the present.\n\nThe archive keeps separate marks, not a single total number. Its value lies in preserving differences that a score would flatten. Frankl’s consoling account of having-been can be examined without using it to escape criticism. A meaningful act does not entitle its maker to admiration forever, and an imperfect history does not establish that every generous moment within it was false. The past remains something to understand, not merely grade.",
+    "nuance": "A person may remember providing real care during one part of a relationship and causing real harm during another. The care was not imaginary, and it does not buy cancellation of the harm. This example keeps acknowledgement from becoming moral arithmetic. Saying that a valuable act occurred is a limited historical claim. Deciding what responsibility now follows requires attending to the other events as well.\n\nLikewise, grief for a lost period need not require declaring the period perfect. A friendship can contain misunderstandings and still have mattered. A completed work can be worth remembering while its author continues to learn from its errors. These differences allow the past to remain complex rather than being rewritten as either an uninterrupted success or a complete failure according to the feeling of the present.\n\nA life’s different events deserve separate acknowledgement. Care that happened remains real, and harm that happened retains its claim on responsibility. Frankl’s consoling account of having-been can be examined while keeping this complexity intact. The meaningful act becomes one part of a history, rather than credit to spend against later criticism. Likewise, an imperfect relationship can contain genuinely valuable moments. Understanding the past requires preserving these differences before deciding what response is now owed.",
     "sources": [
       "frankl-past"
     ],
-    "metaphor": "Marks fall from a moving present into a quiet archive rather than disappearing.",
+    "metaphor": "Separate remembered acts of care and harm remain distinct; adding a total would erase responsibility.",
     "scene": {
       "kind": "notebook",
-      "caption": "past and moral judgement",
+      "caption": "Frankl’s kept past can be examined without turning a biography into a score.",
       "variant": "frankl-past",
-      "composition": {
-        "description": "Marks fall from a moving present into a quiet archive rather than disappearing.",
-        "actors": [
+      "lesson": {
+        "description": "Separate remembered acts of care and harm remain distinct; adding a total would erase responsibility.",
+        "beats": [
           {
-            "id": "line",
-            "type": "path",
-            "d": "M85 89 L316 89"
+            "caption": "A relationship’s past contains genuine care.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 94,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "care",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 203,
+                "y": 131
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 308,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "relation",
+                "type": "path",
+                "d": "M124 144 L171 144 M232 144 L280 144",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "care really occurred",
+                "x": 201,
+                "y": 45,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "archive",
-            "type": "path",
-            "d": "M111 135 L111 183 L292 182 L292 133"
+            "caption": "It also contains a harm that deserves acknowledgement.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "care",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 105,
+                "y": 137
+              },
+              {
+                "id": "harm",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 294,
+                "y": 136
+              },
+              {
+                "id": "break",
+                "type": "path",
+                "d": "M278 126 L292 138 L281 151 L307 145",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "care-label",
+                "type": "text",
+                "text": "care",
+                "x": 105,
+                "y": 208,
+                "anchor": "middle",
+                "fontSize": 18
+              },
+              {
+                "id": "harm-label",
+                "type": "text",
+                "text": "harm",
+                "x": 294,
+                "y": 208,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "mark1",
-            "type": "circle",
-            "x": 151,
-            "y": 145,
-            "r": 4,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": 22
-            }
+            "caption": "The care does not cancel the harm; both events keep their histories.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "care",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 105,
+                "y": 137
+              },
+              {
+                "id": "harm",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 294,
+                "y": 136
+              },
+              {
+                "id": "divide",
+                "type": "path",
+                "d": "M199 80 L199 189",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "separate truths about the past",
+                "x": 199,
+                "y": 44,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "mark2",
-            "type": "circle",
-            "x": 204,
-            "y": 136,
-            "r": 4,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": 25,
-              "delay": 2
-            }
-          },
-          {
-            "id": "mark3",
-            "type": "circle",
-            "x": 253,
-            "y": 145,
-            "r": 4,
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "y": 21,
-              "delay": 4
-            }
-          },
-          {
-            "id": "saved",
-            "type": "text",
-            "x": 158.2,
-            "y": 213,
-            "text": "having been",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Frankl’s kept past can be examined without turning a biography into a score.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "care",
+                "type": "path",
+                "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+                "x": 105,
+                "y": 137
+              },
+              {
+                "id": "harm",
+                "type": "path",
+                "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+                "x": 294,
+                "y": 136
+              },
+              {
+                "id": "archive",
+                "type": "path",
+                "d": "M-143.0 -58.0 L143.0 -58.0 L143.0 58.0 L-143.0 58.0 Z",
+                "x": 200,
+                "y": 137
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "understand, then answer for it",
+                "x": 199,
+                "y": 44,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14803,87 +16346,93 @@
     "reflection": "What occurred here, and what does acknowledging it still leave to answer?",
     "readingArt": [
       {
-        "description": "Marks fall from a moving present into a quiet archive rather than disappearing.",
+        "description": "A valuable moment and a damaging moment cannot be added into moral cancellation.",
         "actors": [
           {
-            "id": "line",
+            "id": "good",
             "type": "path",
-            "d": "M85 89 L316 89"
+            "d": "M-28-18 L29-17 L30 20 L-29 21 Z M-28-18 L1 3 L29-17",
+            "x": 102,
+            "y": 132
           },
           {
-            "id": "archive",
+            "id": "harm",
             "type": "path",
-            "d": "M111 135 L111 183 L292 182 L292 133"
+            "d": "M-25-30 L17-29 L26-19 L27 31 L-25 31 Z M17-29 L17-19 L26-19 M-14-10 L14-10 M-14 0 L12 0 M-14 10 L15 10",
+            "x": 298,
+            "y": 132
           },
           {
-            "id": "mark1",
-            "type": "circle",
-            "x": 151,
-            "y": 145,
-            "r": 4
-          },
-          {
-            "id": "mark2",
-            "type": "circle",
-            "x": 204,
-            "y": 136,
-            "r": 4
-          },
-          {
-            "id": "mark3",
-            "type": "circle",
-            "x": 253,
-            "y": 145,
-            "r": 4
-          },
-          {
-            "id": "saved",
+            "id": "plus",
             "type": "text",
-            "x": 158.2,
-            "y": 213,
-            "text": "having been"
+            "text": "+",
+            "x": 200,
+            "y": 137,
+            "anchor": "middle",
+            "fontSize": 28
+          },
+          {
+            "id": "cross",
+            "type": "path",
+            "d": "M181 106 L221 164",
+            "x": 0,
+            "y": 0
+          },
+          {
+            "id": "no-total",
+            "type": "text",
+            "text": "there is no cancelling total",
+            "x": 200,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "A damaged connection remains visible while a second line repairs the break.",
+        "description": "A friendship can matter while its misunderstandings remain part of its history.",
         "actors": [
           {
-            "id": "one",
+            "id": "a",
             "type": "figure",
-            "x": 111,
-            "y": 135
+            "x": 104,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "two",
+            "id": "b",
             "type": "figure",
-            "x": 293,
-            "y": 135
+            "x": 297,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
           },
           {
-            "id": "broken",
+            "id": "history",
             "type": "path",
-            "d": "M144 126 L188 130 M215 135 L259 128",
-            "tone": "faint"
+            "d": "M135 134 Q190 92 261 133 M135 156 Q190 197 261 156",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "repair",
+            "id": "break",
             "type": "path",
-            "d": "M146 142 Q199 174 256 141"
+            "d": "M195 110 L203 127 M196 160 L203 177",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "past",
+            "id": "complex",
             "type": "text",
-            "x": 155.2,
-            "y": 92,
-            "text": "cannot undo"
-          },
-          {
-            "id": "next",
-            "type": "text",
-            "x": 162.2,
-            "y": 206,
-            "text": "can respond"
+            "text": "a complex history",
+            "x": 200,
+            "y": 45,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
@@ -14897,73 +16446,269 @@
     "title": "A possibility is not a plan",
     "statement": "Seeing someone’s capacity does not give you authority over its fulfilment.",
     "explanation": "Frankl describes love as recognising possibilities in another person. A careful reading must distinguish that recognition from deciding what the other person must become.",
-    "nuance": "Imagine encouraging a friend’s musical ability while the friend wants a different life. You may see something real and still be mistaken about what it obliges them to pursue. Recognition can offer a possibility; it cannot make the friend a project owned by the recogniser. This example explores a limit within Frankl’s language of potential, keeping the other person’s judgement present instead of treating hope as privileged knowledge.\n\nThe reverse distinction also matters. A friend may be unable to recognise a capacity during a painful period, and your faith in it may help without becoming control. The question is how the recognition is offered: does refusal remain possible, and can the person surprise you? Love may attend to what is not yet expressed while remaining humble about the relation between a possibility and the life in which it could take shape.\n\nThe two figures share a line but retain separate positions. A faint path remains open beyond the second figure, rather than being drawn from the first person’s hand as a leash. That arrangement makes the ethical limit visible. Seeing potential is not a formula for always knowing better. Care can remain committed while revising its picture, respecting boundaries, and admitting that the other person’s future cannot be fully possessed in advance.",
+    "nuance": "Imagine encouraging a friend’s musical ability while the friend wants a different life. You may see something real and still be mistaken about what it obliges them to pursue. Recognition can offer a possibility; it cannot make the friend a project owned by the recogniser. This example explores a limit within Frankl’s language of potential, keeping the other person’s judgement present instead of treating hope as privileged knowledge.\n\nThe reverse distinction also matters. A friend may be unable to recognise a capacity during a painful period, and your faith in it may help without becoming control. The question is how the recognition is offered: does refusal remain possible, and can the person surprise you? Love may attend to what is not yet expressed while remaining humble about the relation between a possibility and the life in which it could take shape.\n\nCare can revise its understanding of another person while remaining committed to them. A recognised talent may be real, yet its place in the person’s life depends on choices and circumstances still unfolding. The friend can refuse the offered path or reveal an unforeseen possibility. Frankl’s language of potential therefore needs an ethical limit: recognition belongs within a relationship between separate people. Respect gives the other person room to surprise the recogniser and authority over how their own future takes shape.",
     "sources": [
       "frankl-love"
     ],
-    "metaphor": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+    "metaphor": "A friend recognises musical ability but the musician chooses another path; support respects that choice.",
     "scene": {
       "kind": "notebook",
-      "caption": "potential and possession",
+      "caption": "Seeing potential gives no authority to decide how another person must become.",
       "variant": "frankl-encounter",
-      "composition": {
-        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
-        "actors": [
+      "lesson": {
+        "description": "A friend recognises musical ability but the musician chooses another path; support respects that choice.",
+        "beats": [
           {
-            "id": "one",
-            "type": "figure",
-            "x": 128,
-            "y": 135,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
+            "caption": "Someone recognises musical ability in a friend.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 93,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 283,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "music",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "staff",
+                    "type": "path",
+                    "d": "M-45-15 L45-15 M-45-5 L45-5 M-45 5 L45 5 M-45 15 L45 15",
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "id": "notes",
+                    "type": "path",
+                    "d": "M-31 4 Q-39 9-33 13 Q-26 13-26 7 L-26-20 M0-5 Q-9 0-3 4 Q3 4 3-2 L3-26 M29 2 Q22 6 26 10 Q33 10 34 4 L34-20",
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "x": 210,
+                "y": 86
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "a real possibility",
+                "x": 202,
+                "y": 37,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "two",
-            "type": "figure",
-            "x": 278,
-            "y": 135,
-            "motion": {
-              "kind": "drift",
-              "duration": 16,
-              "x": 0,
-              "y": -2
-            }
+            "caption": "The friend is considering a different life.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 93,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 283,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "music",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "staff",
+                    "type": "path",
+                    "d": "M-45-15 L45-15 M-45-5 L45-5 M-45 5 L45 5 M-45 15 L45 15",
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "id": "notes",
+                    "type": "path",
+                    "d": "M-31 4 Q-39 9-33 13 Q-26 13-26 7 L-26-20 M0-5 Q-9 0-3 4 Q3 4 3-2 L3-26 M29 2 Q22 6 26 10 Q33 10 34 4 L34-20",
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "x": 210,
+                "y": 86
+              },
+              {
+                "id": "other-life",
+                "type": "path",
+                "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+                "x": 305,
+                "y": 198
+              },
+              {
+                "id": "choice",
+                "type": "path",
+                "d": "M290 186 L304 177",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "another possibility matters",
+                "x": 202,
+                "y": 37,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "gaze",
-            "type": "path",
-            "d": "M146 85 Q204 54 260 85",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 2
-            }
+            "caption": "Recognition offers support while leaving the choice with the friend.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 93,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 283,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "music",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "staff",
+                    "type": "path",
+                    "d": "M-45-15 L45-15 M-45-5 L45-5 M-45 5 L45 5 M-45 15 L45 15",
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "id": "notes",
+                    "type": "path",
+                    "d": "M-31 4 Q-39 9-33 13 Q-26 13-26 7 L-26-20 M0-5 Q-9 0-3 4 Q3 4 3-2 L3-26 M29 2 Q22 6 26 10 Q33 10 34 4 L34-20",
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "x": 188,
+                "y": 82
+              },
+              {
+                "id": "other-life",
+                "type": "path",
+                "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+                "x": 305,
+                "y": 198
+              },
+              {
+                "id": "relation",
+                "type": "path",
+                "d": "M126 146 Q203 176 255 146",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "support without ownership",
+                "x": 200,
+                "y": 36,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           },
           {
-            "id": "shared",
-            "type": "path",
-            "d": "M168 153 Q201 183 238 153",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 5
-            }
-          },
-          {
-            "id": "between",
-            "type": "text",
-            "x": 169.8,
-            "y": 210,
-            "text": "encounter",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Seeing potential gives no authority to decide how another person must become.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 93,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "friend",
+                "type": "figure",
+                "x": 283,
+                "y": 155,
+                "pose": {
+                  "scale": 0.65
+                },
+                "facing": true
+              },
+              {
+                "id": "other-life",
+                "type": "path",
+                "d": "M-23-24 L21-22 L24 24 L-22 25 Z M-16-23 L-15 24 M-9-10 L11-10 M-9-2 L8-2",
+                "x": 305,
+                "y": 198
+              },
+              {
+                "id": "relation",
+                "type": "path",
+                "d": "M126 146 Q203 176 255 146",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "future",
+                "type": "path",
+                "d": "M289 183 Q323 169 342 117",
+                "x": 0,
+                "y": 0,
+                "dashed": true
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "text": "their future stays open",
+                "x": 200,
+                "y": 36,
+                "anchor": "middle",
+                "fontSize": 18
+              }
+            ]
           }
         ]
       }
@@ -14984,64 +16729,120 @@
     "reflection": "Can your hope for this person remain open to their different answer?",
     "readingArt": [
       {
-        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "description": "An offered possibility differs from a life plan someone else must fulfil.",
         "actors": [
           {
-            "id": "one",
+            "id": "music",
+            "type": "group",
+            "children": [
+              {
+                "id": "staff",
+                "type": "path",
+                "d": "M-45-15 L45-15 M-45-5 L45-5 M-45 5 L45 5 M-45 15 L45 15",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "notes",
+                "type": "path",
+                "d": "M-31 4 Q-39 9-33 13 Q-26 13-26 7 L-26-20 M0-5 Q-9 0-3 4 Q3 4 3-2 L3-26 M29 2 Q22 6 26 10 Q33 10 34 4 L34-20",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "id": "phrase",
+                "type": "path",
+                "d": "M-37-31 Q0-57 38-31",
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "x": 108,
+            "y": 131
+          },
+          {
+            "id": "other",
             "type": "figure",
-            "x": 128,
-            "y": 135
+            "x": 294,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
           },
           {
-            "id": "two",
-            "type": "figure",
-            "x": 278,
-            "y": 135
-          },
-          {
-            "id": "gaze",
+            "id": "choice",
             "type": "path",
-            "d": "M146 85 Q204 54 260 85"
+            "d": "M299 190 Q334 161 339 98",
+            "x": 0,
+            "y": 0,
+            "dashed": true
           },
           {
-            "id": "shared",
-            "type": "path",
-            "d": "M168 153 Q201 183 238 153"
-          },
-          {
-            "id": "between",
+            "id": "offer",
             "type": "text",
-            "x": 169.8,
-            "y": 210,
-            "text": "encounter"
+            "text": "a capacity",
+            "x": 108,
+            "y": 213,
+            "anchor": "middle",
+            "fontSize": 18
+          },
+          {
+            "id": "agency",
+            "type": "text",
+            "text": "their judgement",
+            "x": 292,
+            "y": 213,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       },
       {
-        "description": "A door shows a task ahead; the person retains several possible approaches.",
+        "description": "Care remains open to surprise and revision in its understanding of another person.",
         "actors": [
           {
-            "id": "door",
-            "type": "path",
-            "d": "M260 181 L262 58 L323 60 L322 181"
-          },
-          {
-            "id": "person",
+            "id": "one",
             "type": "figure",
-            "x": 140,
-            "y": 137
+            "x": 99,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "paths",
+            "id": "other",
+            "type": "figure",
+            "x": 297,
+            "y": 155,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
+          },
+          {
+            "id": "relation",
             "type": "path",
-            "d": "M162 173 Q206 163 251 169 M161 173 Q197 109 251 105"
+            "d": "M133 134 Q197 162 264 134",
+            "x": 0,
+            "y": 0
           },
           {
-            "id": "future",
+            "id": "unknown",
+            "type": "path",
+            "d": "M278 76 Q309 52 333 78",
+            "x": 0,
+            "y": 0,
+            "dashed": true
+          },
+          {
+            "id": "open",
             "type": "text",
-            "x": 199,
-            "y": 212,
-            "text": "still to answer"
+            "text": "room for an unforeseen future",
+            "x": 200,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 18
           }
         ]
       }
