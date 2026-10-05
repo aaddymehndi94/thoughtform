@@ -4282,7 +4282,7 @@
     "sources": [
       "gm-III-12"
     ],
-    "metaphor": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+    "metaphor": "Two viewing positions expose different faces of the same object, making situated interpretation visible.",
     "scene": {
       "kind": "notebook",
       "caption": "perspectivism",
@@ -4360,6 +4360,164 @@
             "text": "another aspect",
             "x": 238.40962677001954,
             "y": 223
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Two viewing positions expose different faces of the same object, making situated interpretation visible.",
+        "beats": [
+          {
+            "caption": "From here, one face of the object is visible.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "object",
+                "type": "path",
+                "d": "M186 58 L238 100 L210 165 L163 143 L158 91 Z"
+              },
+              {
+                "id": "eye-a",
+                "type": "circle",
+                "x": 83,
+                "y": 143,
+                "r": 8
+              },
+              {
+                "id": "view-a",
+                "type": "path",
+                "d": "M90 139 L159 91 M91 147 L163 143"
+              }
+            ]
+          },
+          {
+            "caption": "Move to another position and different features become available.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "object",
+                "type": "path",
+                "d": "M186 58 L238 100 L210 165 L163 143 L158 91 Z"
+              },
+              {
+                "id": "eye-a",
+                "type": "circle",
+                "x": 83,
+                "y": 143,
+                "r": 8
+              },
+              {
+                "id": "eye-b",
+                "type": "circle",
+                "x": 307,
+                "y": 103,
+                "r": 8
+              },
+              {
+                "id": "view-b",
+                "type": "path",
+                "d": "M299 101 L237 100 M301 109 L212 164"
+              }
+            ]
+          },
+          {
+            "caption": "Both readings concern the same object, through different selections.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "object",
+                "type": "path",
+                "d": "M186 58 L238 100 L210 165 L163 143 L158 91 Z"
+              },
+              {
+                "id": "eye-a",
+                "type": "circle",
+                "x": 83,
+                "y": 143,
+                "r": 8
+              },
+              {
+                "id": "eye-b",
+                "type": "circle",
+                "x": 307,
+                "y": 103,
+                "r": 8
+              },
+              {
+                "id": "view-a",
+                "type": "path",
+                "d": "M90 139 L159 91 M91 147 L163 143"
+              },
+              {
+                "id": "view-b",
+                "type": "path",
+                "d": "M299 101 L237 100 M301 109 L212 164"
+              },
+              {
+                "id": "same",
+                "type": "text",
+                "text": "one object, situated views",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "A perspective organizes what can be seen; this does not make every reading equally sound.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "object",
+                "type": "path",
+                "d": "M186 58 L238 100 L210 165 L163 143 L158 91 Z"
+              },
+              {
+                "id": "eye-a",
+                "type": "circle",
+                "x": 83,
+                "y": 143,
+                "r": 8
+              },
+              {
+                "id": "eye-b",
+                "type": "circle",
+                "x": 307,
+                "y": 103,
+                "r": 8
+              },
+              {
+                "id": "test",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "test-outline",
+                    "type": "path",
+                    "d": "M-108.5 -21.0 L108.5 -20.0 L107.5 21.0 L-107.5 20.0 Z"
+                  },
+                  {
+                    "id": "test-word0-line0",
+                    "type": "text",
+                    "text": "compare what each",
+                    "x": 0,
+                    "y": -4.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "test-word0-line1",
+                    "type": "text",
+                    "text": "reveals",
+                    "x": 0,
+                    "y": 16.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 202,
+                "y": 214
+              }
+            ]
           }
         ]
       }
@@ -4465,11 +4623,11 @@
     "title": "More than one eye",
     "statement": "Objectivity may require more perspectives, rather than no perspective.",
     "explanation": "Nietzsche suggests that knowledge becomes richer when we can enlist different affects and interpretations. A disciplined plurality can reveal aspects a single settled viewpoint misses.",
-    "nuance": "This is not simply counting opinions or accepting every interpretation. The capacity at issue includes directing and suspending perspectives instead of being involuntarily trapped in one. A historian who considers fear, ambition, loyalty, and material interest can see more than one who insists that only a single motive is real. The goal is an expanded power of interpretation. Nietzsche imagines being able to call upon different ways of seeing, rather than merely standing among many viewpoints without knowing how to use their differences.\n\nImagine reading a political conflict exclusively through one participant's fear. Fear may explain real features, but loyalty, resentment, ambition, and material dependence can disclose others. Nietzsche's image of multiple eyes makes objectivity an acquired capacity: different interpretations become resources one can bring to bear. The observer becomes able to change position rather than demanding that every phenomenon fit a single favored affect.\n\nThe important word is capacity. Merely oscillating between feelings is not yet an achievement of inquiry. One must be able to direct a perspective, recognize what it brings into view, and suspend it when another reveals more. This requires discipline and comparison. Nietzsche's account refuses an impossible purity while retaining an aspiration to richer knowledge: more relations are visible because the knower can inhabit more than one mode of seeing.",
+    "nuance": "This is not simply counting opinions or accepting every interpretation. The capacity at issue includes directing and suspending perspectives instead of being involuntarily trapped in one. A historian who considers fear, ambition, loyalty, and material interest can see more than one who insists that only a single motive is real. The goal is an expanded power of interpretation. Nietzsche imagines being able to call upon different ways of seeing, rather than merely standing among many viewpoints without knowing how to use their differences.\n\nImagine reading a political conflict exclusively through one participant's fear. Fear may explain real features, but loyalty, resentment, ambition, and material dependence can disclose others. Nietzsche's image of multiple eyes makes objectivity an acquired capacity: different interpretations become resources one can bring to bear. The observer acquires more ways of engaging with the phenomenon.\n\nThe important word is capacity. Merely oscillating between feelings is not yet an achievement of inquiry. One must be able to direct a perspective, recognize what it brings into view, and suspend it when another reveals more. This requires discipline and comparison. Nietzsche's account refuses an impossible purity while retaining an aspiration to richer knowledge: more relations are visible because the knower can inhabit more than one mode of seeing.",
     "sources": [
       "gm-III-12"
     ],
-    "metaphor": "An irregular solid is seen from two positions; each beam reveals a different contour of the same object.",
+    "metaphor": "Distinct affective readings are placed around one event and brought into a directed comparison.",
     "scene": {
       "kind": "notebook",
       "caption": "many eyes",
@@ -4554,6 +4712,327 @@
             "text": "interpretation",
             "x": 243.45718078613282,
             "y": 235
+          }
+        ]
+      },
+      "lesson": {
+        "description": "Distinct affective readings are placed around one event and brought into a directed comparison.",
+        "beats": [
+          {
+            "caption": "An anxious observer reads one event as a threat.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-60.5 -37.5 L60.5 -36.5 L59.5 37.5 L-59.5 36.5 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "a criticism",
+                    "x": 0,
+                    "y": -13.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "anxiety",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anxiety-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "anxiety-words-line0",
+                    "type": "text",
+                    "text": "threat",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 83,
+                "y": 50
+              }
+            ]
+          },
+          {
+            "caption": "Pride notices a different feature of the same event.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-60.5 -37.5 L60.5 -36.5 L59.5 37.5 L-59.5 36.5 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "a criticism",
+                    "x": 0,
+                    "y": -13.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "anxiety",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anxiety-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "anxiety-words-line0",
+                    "type": "text",
+                    "text": "threat",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 83,
+                "y": 50
+              },
+              {
+                "id": "pride",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pride-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "pride-words-line0",
+                    "type": "text",
+                    "text": "insult",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 50
+              }
+            ]
+          },
+          {
+            "caption": "Another view becomes available when the observer can use patience.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-60.5 -37.5 L60.5 -36.5 L59.5 37.5 L-59.5 36.5 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "a criticism",
+                    "x": 0,
+                    "y": -13.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "anxiety",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anxiety-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "anxiety-words-line0",
+                    "type": "text",
+                    "text": "threat",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 83,
+                "y": 50
+              },
+              {
+                "id": "pride",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pride-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "pride-words-line0",
+                    "type": "text",
+                    "text": "insult",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 50
+              },
+              {
+                "id": "patience",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "patience-outline",
+                    "type": "path",
+                    "d": "M-74.5 -27 L74.5 -27 L74.5 20 L12 20 L0 33 L-1 20 L-74.5 20 Z"
+                  },
+                  {
+                    "id": "patience-words-line0",
+                    "type": "text",
+                    "text": "information",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 193
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche’s objectivity expands the capacity to use several perspectives deliberately.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "event",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "event-outline",
+                    "type": "path",
+                    "d": "M-60.5 -37.5 L60.5 -36.5 L59.5 37.5 L-59.5 36.5 Z"
+                  },
+                  {
+                    "id": "event-word0-line0",
+                    "type": "text",
+                    "text": "a criticism",
+                    "x": 0,
+                    "y": -13.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 119
+              },
+              {
+                "id": "anxiety",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anxiety-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "anxiety-words-line0",
+                    "type": "text",
+                    "text": "threat",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 83,
+                "y": 50
+              },
+              {
+                "id": "pride",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "pride-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "pride-words-line0",
+                    "type": "text",
+                    "text": "insult",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 307,
+                "y": 50
+              },
+              {
+                "id": "patience",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "patience-outline",
+                    "type": "path",
+                    "d": "M-74.5 -27 L74.5 -27 L74.5 20 L12 20 L0 33 L-1 20 L-74.5 20 Z"
+                  },
+                  {
+                    "id": "patience-words-line0",
+                    "type": "text",
+                    "text": "information",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 193
+              },
+              {
+                "id": "shared",
+                "type": "path",
+                "d": "M142 57 Q204 20 257 57 M100 91 Q73 143 145 184 M299 91 Q332 142 259 185",
+                "tone": "faint"
+              }
+            ]
           }
         ]
       }
@@ -4682,7 +5161,7 @@
     "sources": [
       "bg-6"
     ],
-    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "metaphor": "A philosophy is opened to reveal the author’s ordering of needs beneath its apparently impersonal conclusions.",
     "scene": {
       "kind": "notebook",
       "caption": "philosophy confession",
@@ -4748,6 +5227,243 @@
             "text": "ordering of needs",
             "x": 32.76207580566406,
             "y": 226
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A philosophy is opened to reveal the author’s ordering of needs beneath its apparently impersonal conclusions.",
+        "beats": [
+          {
+            "caption": "A system presents its conclusions as impersonal truth.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "system",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "system-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "system-label",
+                    "type": "text",
+                    "text": "a philosophical system",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 113
+              }
+            ]
+          },
+          {
+            "caption": "Its choices also express what the thinker fears, needs, and ranks highest.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "system",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "system-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "system-label",
+                    "type": "text",
+                    "text": "a philosophical system",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 74
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "need-outline",
+                    "type": "path",
+                    "d": "M-82.0 -29.0 L82.0 -28.0 L81.0 29.0 L-81.0 28.0 Z"
+                  },
+                  {
+                    "id": "need-word0-line0",
+                    "type": "text",
+                    "text": "need for order",
+                    "x": 0,
+                    "y": -5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 202,
+                "y": 182
+              }
+            ]
+          },
+          {
+            "caption": "The hierarchy of needs helps organize the argument’s apparent necessities.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "system",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "system-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "system-label",
+                    "type": "text",
+                    "text": " ",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 62
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "need-outline",
+                    "type": "path",
+                    "d": "M-82.0 -29.0 L82.0 -28.0 L81.0 29.0 L-81.0 28.0 Z"
+                  },
+                  {
+                    "id": "need-word0-line0",
+                    "type": "text",
+                    "text": "order first",
+                    "x": 0,
+                    "y": -5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 202,
+                "y": 170
+              },
+              {
+                "id": "excluded",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "excluded-outline",
+                    "type": "path",
+                    "d": "M-39.0 -32.5 L39.0 -31.5 L38.0 32.5 L-38.0 31.5 Z"
+                  },
+                  {
+                    "id": "excluded-word0-line0",
+                    "type": "text",
+                    "text": "change",
+                    "x": 0,
+                    "y": -8.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 304,
+                "y": 121
+              },
+              {
+                "id": "omit",
+                "type": "path",
+                "d": "M287 104 L321 138 M321 104 L287 138"
+              }
+            ]
+          },
+          {
+            "caption": "A philosophy can disclose its author without becoming merely a private confession.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "system",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "system-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "system-label",
+                    "type": "text",
+                    "text": " ",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 62
+              },
+              {
+                "id": "author",
+                "type": "figure",
+                "x": 113,
+                "y": 163,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "need",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "need-outline",
+                    "type": "path",
+                    "d": "M-77.0 -31.5 L77.0 -30.5 L76.0 31.5 L-76.0 30.5 Z"
+                  },
+                  {
+                    "id": "need-word0-line0",
+                    "type": "text",
+                    "text": "an ordering of",
+                    "x": 0,
+                    "y": -7.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "need-word0-line1",
+                    "type": "text",
+                    "text": "needs",
+                    "x": 0,
+                    "y": 12.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 252,
+                "y": 167
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "who speaks through the argument?",
+                "x": 200,
+                "y": 234,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -4834,11 +5550,11 @@
     "title": "The extra doer",
     "statement": "Grammar can make a process look as though it requires a hidden owner.",
     "explanation": "Because a sentence names a subject, we easily imagine a stable agent behind every act. Nietzsche questions whether saying that I think proves the existence of the I assumed.",
-    "nuance": "The point is not that ordinary pronouns must be forbidden. It is that a convenient linguistic form should not silently become a metaphysical conclusion. Lightning does not need a separate thing that performs lightning. Similarly, the grammar of thought may promise more knowledge of its cause than the event actually supplies. The difficulty begins when a useful sentence becomes a proof. Nietzsche does not merely correct a pronoun; he questions the supposed certainty about a thinker that the sentence appears to announce before inquiry starts.\n\nA familiar sentence places a noun before a verb and presents an event as someone's performance. It is tempting to import that structure directly into reality. Nietzsche asks whether the subject is something discovered in the event or something supplied by language. The question arises most sharply when the subject appears as a pure, transparent I whose existence and powers are supposedly certain before any further inquiry begins.\n\nOrdinary speech can continue to use convenient forms while philosophy examines what they imply. Saying I think may serve communication without establishing an indivisible soul or a self-caused thinker. Nietzsche's example pushes against a transition from grammar to metaphysics. The caution is precise: a language that needs a subject position does not automatically provide knowledge of the entity we place there, its unity, or its relation to the process described.",
+    "nuance": "The point is not that ordinary pronouns must be forbidden. It is that a convenient linguistic form should not silently become a metaphysical conclusion. Lightning does not need a separate thing that performs lightning. Similarly, the grammar of thought may promise more knowledge of its cause than the event actually supplies. The difficulty begins when a useful sentence becomes a proof. Nietzsche questions the certainty about a thinker that grammar seems to announce before inquiry starts.\n\nA familiar sentence places a noun before a verb and presents an event as someone's performance. It is tempting to import that structure directly into reality. Nietzsche asks whether the subject is something discovered in the event or something supplied by language. The question arises most sharply when the subject appears as a pure, transparent I whose existence and powers are supposedly certain before any further inquiry begins.\n\nOrdinary speech can continue to use convenient forms while philosophy examines what they imply. Saying I think may serve communication without establishing an indivisible soul or a self-caused thinker. Nietzsche's example pushes against a transition from grammar to metaphysics. The caution is precise: a language that needs a subject position does not automatically provide knowledge of the entity we place there, its unity, or its relation to the process described.",
     "sources": [
       "bg-16-17"
     ],
-    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "metaphor": "An action is turned into a sentence, then grammar inserts a separate owner whose existence remains to be examined.",
     "scene": {
       "kind": "notebook",
       "caption": "grammar self",
@@ -4894,6 +5610,126 @@
             "y": 223
           }
         ]
+      },
+      "lesson": {
+        "description": "An action is turned into a sentence, then grammar inserts a separate owner whose existence remains to be examined.",
+        "beats": [
+          {
+            "caption": "A flash occurs.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "flash",
+                "type": "path",
+                "d": "M211 49 L168 111 L201 113 L176 186 L237 102 L207 102 Z"
+              }
+            ]
+          },
+          {
+            "caption": "A sentence names it: lightning flashes.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "flash",
+                "type": "path",
+                "d": "M211 49 L168 111 L201 113 L176 186 L237 102 L207 102 Z"
+              },
+              {
+                "id": "sentence",
+                "type": "text",
+                "text": "lightning flashes",
+                "x": 200,
+                "y": 219,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The noun makes a separate doer seem to stand behind the doing.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "flash",
+                "type": "path",
+                "d": "M277 48 L245 98 L269 101 L248 164 L296 91 L273 91 Z"
+              },
+              {
+                "id": "doer",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "doer-outline",
+                    "type": "path",
+                    "d": "M-68.5 -54.0 L68.5 -53.0 L67.5 54.0 L-67.5 53.0 Z"
+                  },
+                  {
+                    "id": "doer-word0-line0",
+                    "type": "text",
+                    "text": "lightning",
+                    "x": 0,
+                    "y": -30.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 126,
+                "y": 111
+              },
+              {
+                "id": "verb",
+                "type": "text",
+                "text": "flashes",
+                "x": 272,
+                "y": 219,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Grammar supplies a subject; it has not thereby proved an independent cause.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "flash",
+                "type": "path",
+                "d": "M277 48 L245 98 L269 101 L248 164 L296 91 L273 91 Z"
+              },
+              {
+                "id": "doer",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "doer-outline",
+                    "type": "path",
+                    "d": "M-68.5 -54.0 L68.5 -53.0 L67.5 54.0 L-67.5 53.0 Z"
+                  },
+                  {
+                    "id": "doer-word0-line0",
+                    "type": "text",
+                    "text": "a doer?",
+                    "x": 0,
+                    "y": -30.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 126,
+                "y": 111
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "a grammatical inference",
+                "x": 200,
+                "y": 223,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -4945,45 +5781,53 @@
         ]
       },
       {
-        "description": "grammar requires it; inquiry discovers it?.",
+        "description": "A grammatical subject in a sentence is different from evidence establishing an independent doer.",
         "actors": [
           {
-            "id": "hook",
-            "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "id": "sentence",
+            "type": "group",
+            "x": 112,
+            "y": 118,
+            "children": [
+              {
+                "id": "sentence-edge",
+                "type": "path",
+                "d": "M-71.5 -49.5 L71.5 -49.5 L71.5 49.5 L-71.5 49.5 Z"
+              }
+            ]
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
-          },
-          {
-            "id": "a-top",
+            "id": "subject",
             "type": "text",
-            "text": "grammar",
-            "x": 67.13822784423829,
-            "y": 209
+            "text": "I think",
+            "x": 112,
+            "y": 119,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "a-bottom",
-            "type": "text",
-            "text": "requires it",
-            "x": 62.34825439453125,
-            "y": 230
+            "id": "inferred",
+            "type": "figure",
+            "x": 293,
+            "y": 145
           },
           {
-            "id": "b-top",
+            "id": "grammatical",
             "type": "text",
-            "text": "inquiry",
-            "x": 263.03017272949216,
-            "y": 209
+            "text": "a sentence",
+            "x": 111,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b-bottom",
+            "id": "empirical",
             "type": "text",
-            "text": "discovers it?",
-            "x": 238.49331817626953,
-            "y": 230
+            "text": "a doer to investigate",
+            "x": 288,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -5001,7 +5845,7 @@
     "sources": [
       "bg-19"
     ],
-    "metaphor": "Several unequal strands enter one knot; one moving strand pulls the bundle while the others resist.",
+    "metaphor": "A pianist’s single feeling of willing is unpacked into hearing, trained movement, and command.",
     "scene": {
       "kind": "notebook",
       "caption": "plural will",
@@ -5069,6 +5913,311 @@
             "y": 223
           }
         ]
+      },
+      "lesson": {
+        "description": "A pianist’s single feeling of willing is unpacked into hearing, trained movement, and command.",
+        "beats": [
+          {
+            "caption": "The pianist experiences a simple intention: play this phrase.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 102,
+                "y": 137
+              },
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "will",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "will-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "will-words-line0",
+                    "type": "text",
+                    "text": "I will.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 38
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          },
+          {
+            "caption": "Hearing, learned movements, attention, and fingers all contribute.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 102,
+                "y": 137
+              },
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "hearing",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hearing-outline",
+                    "type": "path",
+                    "d": "M-63.0 -24.0 L63.0 -23.0 L62.0 24.0 L-62.0 23.0 Z"
+                  },
+                  {
+                    "id": "hearing-word0-line0",
+                    "type": "text",
+                    "text": "hearing",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 44
+              },
+              {
+                "id": "habit",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "habit-outline",
+                    "type": "path",
+                    "d": "M-69.0 -22.5 L69.0 -21.5 L68.0 22.5 L-68.0 21.5 Z"
+                  },
+                  {
+                    "id": "habit-word0-line0",
+                    "type": "text",
+                    "text": "trained",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "habit-word0-line1",
+                    "type": "text",
+                    "text": "movement",
+                    "x": 0,
+                    "y": 17.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 224,
+                "y": 108
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          },
+          {
+            "caption": "The commanding experience identifies itself with the successful result.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 102,
+                "y": 137
+              },
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "hearing",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hearing-outline",
+                    "type": "path",
+                    "d": "M-63.0 -24.0 L63.0 -23.0 L62.0 24.0 L-62.0 23.0 Z"
+                  },
+                  {
+                    "id": "hearing-word0-line0",
+                    "type": "text",
+                    "text": "hearing",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 44
+              },
+              {
+                "id": "habit",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "habit-outline",
+                    "type": "path",
+                    "d": "M-69.0 -22.5 L69.0 -21.5 L68.0 22.5 L-68.0 21.5 Z"
+                  },
+                  {
+                    "id": "habit-word0-line0",
+                    "type": "text",
+                    "text": "trained",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "habit-word0-line1",
+                    "type": "text",
+                    "text": "movement",
+                    "x": 0,
+                    "y": 17.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 224,
+                "y": 108
+              },
+              {
+                "id": "will",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "will-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "will-words-line0",
+                    "type": "text",
+                    "text": "I did it.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 102,
+                "y": 38
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          },
+          {
+            "caption": "A feeling of unity can conceal the coordinated plurality within willing.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "player",
+                "type": "figure",
+                "x": 102,
+                "y": 137
+              },
+              {
+                "id": "keys",
+                "type": "path",
+                "d": "M150 149 L318 149 L319 181 L150 180 Z M175 151 L175 180 M199 151 L199 180 M223 151 L223 180 M247 151 L247 180 M271 151 L271 180 M295 151 L295 180"
+              },
+              {
+                "id": "hearing",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hearing-outline",
+                    "type": "path",
+                    "d": "M-63.0 -24.0 L63.0 -23.0 L62.0 24.0 L-62.0 23.0 Z"
+                  },
+                  {
+                    "id": "hearing-word0-line0",
+                    "type": "text",
+                    "text": "hearing",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 290,
+                "y": 44
+              },
+              {
+                "id": "habit",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "habit-outline",
+                    "type": "path",
+                    "d": "M-69.0 -22.5 L69.0 -21.5 L68.0 22.5 L-68.0 21.5 Z"
+                  },
+                  {
+                    "id": "habit-word0-line0",
+                    "type": "text",
+                    "text": "trained",
+                    "x": 0,
+                    "y": -2.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "habit-word0-line1",
+                    "type": "text",
+                    "text": "movement",
+                    "x": 0,
+                    "y": 17.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 224,
+                "y": 108
+              },
+              {
+                "id": "plural",
+                "type": "text",
+                "text": "one feeling, many activities",
+                "x": 200,
+                "y": 226,
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "fingers",
+                "type": "path",
+                "d": "M117 142 Q134 130 155 151"
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -5086,43 +6235,63 @@
     ],
     "readingArt": [
       {
-        "description": "many processes; one name.",
+        "description": "A single felt intention draws on hearing, learned finger movements, and a directing thought.",
         "actors": [
           {
-            "id": "a",
+            "id": "player",
+            "type": "figure",
+            "x": 102,
+            "y": 151,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
+          },
+          {
+            "id": "keys",
             "type": "path",
-            "d": "M71 79 Q149 66 202 125 L320 122"
+            "d": "M135 162L325 162L325 188L135 187Z M161 163L161 187 M187 163L187 187 M213 163L213 187 M239 163L239 187 M265 163L265 187 M291 163L291 187"
           },
           {
-            "id": "b",
+            "id": "hand",
             "type": "path",
-            "d": "M78 166 Q143 180 202 125"
+            "d": "M115 155Q133 143 155 164"
           },
           {
-            "id": "c",
-            "type": "path",
-            "d": "M168 195 Q203 172 202 125"
-          },
-          {
-            "id": "meeting",
-            "type": "circle",
-            "x": 202,
-            "y": 125,
-            "r": 12
-          },
-          {
-            "id": "a",
+            "id": "ear",
             "type": "text",
-            "text": "many processes",
-            "x": 35.90041809082031,
-            "y": 218
+            "text": "hearing",
+            "x": 242,
+            "y": 50,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "learn",
             "type": "text",
-            "text": "one name",
-            "x": 250.39824829101562,
-            "y": 218
+            "text": "trained fingers",
+            "x": 242,
+            "y": 81,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "thought",
+            "type": "text",
+            "text": "direction",
+            "x": 242,
+            "y": 112,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "felt",
+            "type": "text",
+            "text": "one felt intention",
+            "x": 205,
+            "y": 225,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -5178,7 +6347,7 @@
     "sources": [
       "bg-21"
     ],
-    "metaphor": "A ledger of finite debts keeps growing beyond its frame; obligation becomes something impossible to settle.",
+    "metaphor": "An act’s conditions are removed from a judgment until the person appears as its absolute origin.",
     "scene": {
       "kind": "notebook",
       "caption": "free will blame",
@@ -5232,6 +6401,224 @@
             "text": "absolute guilt",
             "x": 152.35718231201173,
             "y": 227
+          }
+        ]
+      },
+      "lesson": {
+        "description": "An act’s conditions are removed from a judgment until the person appears as its absolute origin.",
+        "beats": [
+          {
+            "caption": "A person acts within a history of training, drives, and circumstances.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "actor",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "history",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "history-outline",
+                    "type": "path",
+                    "d": "M-54.5 -26.0 L54.5 -25.0 L53.5 26.0 L-53.5 25.0 Z"
+                  },
+                  {
+                    "id": "history-word0-line0",
+                    "type": "text",
+                    "text": "history",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 81,
+                "y": 73
+              },
+              {
+                "id": "drives",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "drives-outline",
+                    "type": "path",
+                    "d": "M-47.5 -26.0 L47.5 -25.0 L46.5 26.0 L-46.5 25.0 Z"
+                  },
+                  {
+                    "id": "drives-word0-line0",
+                    "type": "text",
+                    "text": "drives",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 318,
+                "y": 73
+              },
+              {
+                "id": "conditions",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "conditions-outline",
+                    "type": "path",
+                    "d": "M-75.5 -20.0 L75.5 -19.0 L74.5 20.0 L-74.5 19.0 Z"
+                  },
+                  {
+                    "id": "conditions-word0-line0",
+                    "type": "text",
+                    "text": "circumstances",
+                    "x": 0,
+                    "y": 4.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 213
+              }
+            ]
+          },
+          {
+            "caption": "A doctrine of ultimate responsibility treats the person as an absolute beginning.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "actor",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "history",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "history-outline",
+                    "type": "path",
+                    "d": "M-54.5 -26.0 L54.5 -25.0 L53.5 26.0 L-53.5 25.0 Z"
+                  },
+                  {
+                    "id": "history-word0-line0",
+                    "type": "text",
+                    "text": "history",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 81,
+                "y": 73
+              },
+              {
+                "id": "drives",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "drives-outline",
+                    "type": "path",
+                    "d": "M-47.5 -26.0 L47.5 -25.0 L46.5 26.0 L-46.5 25.0 Z"
+                  },
+                  {
+                    "id": "drives-word0-line0",
+                    "type": "text",
+                    "text": "drives",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 318,
+                "y": 73
+              },
+              {
+                "id": "court",
+                "type": "path",
+                "d": "M143 50 L257 50 L257 197 L143 197 Z"
+              }
+            ]
+          },
+          {
+            "caption": "The causal background disappears from the judgment.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "actor",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "court",
+                "type": "path",
+                "d": "M143 50 L257 50 L257 197 L143 197 Z"
+              },
+              {
+                "id": "origin",
+                "type": "text",
+                "text": "absolute origin",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche questions this invented origin and its usefulness for assigning absolute guilt.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "actor",
+                "type": "figure",
+                "x": 200,
+                "y": 144
+              },
+              {
+                "id": "court",
+                "type": "path",
+                "d": "M143 50 L257 50 L257 197 L143 197 Z"
+              },
+              {
+                "id": "verdict",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "verdict-outline",
+                    "type": "path",
+                    "d": "M-98.5 -22.5 L98.5 -21.5 L97.5 22.5 L-97.5 21.5 Z"
+                  },
+                  {
+                    "id": "verdict-word0-line0",
+                    "type": "text",
+                    "text": "absolute guilt?",
+                    "x": 0,
+                    "y": 1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 36
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "what did this judgment remove?",
+                "x": 200,
+                "y": 223,
+                "anchor": "middle",
+                "fontSize": 16
+              }
+            ]
           }
         ]
       }
@@ -5327,7 +6714,7 @@
     "sources": [
       "hh-483"
     ],
-    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "metaphor": "A belief appears secure because its entrance admits only evidence already shaped to fit it.",
     "scene": {
       "kind": "notebook",
       "caption": "convictions",
@@ -5388,6 +6775,173 @@
             "text": "challenge",
             "x": 258.66226654052736,
             "y": 235
+          }
+        ]
+      },
+      "lesson": {
+        "description": "A belief appears secure because its entrance admits only evidence already shaped to fit it.",
+        "beats": [
+          {
+            "caption": "A belief seems secure: the admitted evidence always fits.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M144 49 L309 49 L309 183 L144 183 Z"
+              },
+              {
+                "id": "a",
+                "type": "circle",
+                "x": 203,
+                "y": 93,
+                "r": 15
+              },
+              {
+                "id": "b",
+                "type": "circle",
+                "x": 264,
+                "y": 140,
+                "r": 15
+              },
+              {
+                "id": "rule",
+                "type": "text",
+                "text": "only circles admitted",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "A challenging observation arrives at the threshold.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M144 49 L309 49 L309 183 L144 183 Z"
+              },
+              {
+                "id": "a",
+                "type": "circle",
+                "x": 203,
+                "y": 93,
+                "r": 15
+              },
+              {
+                "id": "b",
+                "type": "circle",
+                "x": 264,
+                "y": 140,
+                "r": 15
+              },
+              {
+                "id": "challenge",
+                "type": "path",
+                "d": "M63 107 L96 84 L120 122 L93 149 Z"
+              }
+            ]
+          },
+          {
+            "caption": "The belief’s rules exclude the challenge before it can be examined.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M144 49 L309 49 L309 183 L144 183 Z"
+              },
+              {
+                "id": "a",
+                "type": "circle",
+                "x": 203,
+                "y": 93,
+                "r": 15
+              },
+              {
+                "id": "b",
+                "type": "circle",
+                "x": 264,
+                "y": 140,
+                "r": 15
+              },
+              {
+                "id": "challenge",
+                "type": "path",
+                "d": "M94 107 L126 84 L142 123 L119 149 Z"
+              },
+              {
+                "id": "blocked",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "blocked-body",
+                    "type": "path",
+                    "d": "M-16 0 L16 0 L16 26 L-16 26 Z M-10 0 L-10 -10 Q0 -29 10 -10 L10 0"
+                  },
+                  {
+                    "id": "blocked-key",
+                    "type": "circle",
+                    "x": 0,
+                    "y": 11,
+                    "r": 2
+                  }
+                ],
+                "x": 145,
+                "y": 112
+              },
+              {
+                "id": "protected",
+                "type": "text",
+                "text": "certainty is protected",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "Confidence earned by testing differs from security manufactured by exclusion.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "room",
+                "type": "path",
+                "d": "M144 49 L309 49 L309 183 L144 183 Z"
+              },
+              {
+                "id": "a",
+                "type": "circle",
+                "x": 203,
+                "y": 93,
+                "r": 15
+              },
+              {
+                "id": "b",
+                "type": "circle",
+                "x": 264,
+                "y": 140,
+                "r": 15
+              },
+              {
+                "id": "challenge",
+                "type": "path",
+                "d": "M178 112 L210 89 L234 127 L207 154 Z"
+              },
+              {
+                "id": "test",
+                "type": "text",
+                "text": "a challenge can enter",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -5495,7 +7049,7 @@
     "sources": [
       "gs-344"
     ],
-    "metaphor": "A searchlight reaches its object, then swings back to illuminate the mechanism producing the beam.",
+    "metaphor": "A tested hypothesis changes while the value attached to truth remains untouched until it becomes a question.",
     "scene": {
       "kind": "notebook",
       "caption": "science faith",
@@ -5570,6 +7124,260 @@
             "y": 238
           }
         ]
+      },
+      "lesson": {
+        "description": "A tested hypothesis changes while the value attached to truth remains untouched until it becomes a question.",
+        "beats": [
+          {
+            "caption": "A scientific hypothesis can be rejected when the evidence contradicts it.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "hypothesis",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hypothesis-outline",
+                    "type": "path",
+                    "d": "M-66.5 -55.0 L66.5 -54.0 L65.5 55.0 L-65.5 54.0 Z"
+                  },
+                  {
+                    "id": "hypothesis-word0-line0",
+                    "type": "text",
+                    "text": "hypothesis",
+                    "x": 0,
+                    "y": -31.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 101
+              },
+              {
+                "id": "data",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "data-outline",
+                    "type": "path",
+                    "d": "M-66.5 -55.0 L66.5 -54.0 L65.5 55.0 L-65.5 54.0 Z"
+                  },
+                  {
+                    "id": "data-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -31.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 101
+              },
+              {
+                "id": "contradiction",
+                "type": "path",
+                "d": "M189 92 L215 118 M215 92 L189 118"
+              }
+            ]
+          },
+          {
+            "caption": "The investigator revises the hypothesis.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "hypothesis",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hypothesis-outline",
+                    "type": "path",
+                    "d": "M-66.5 -55.0 L66.5 -54.0 L65.5 55.0 L-65.5 54.0 Z"
+                  },
+                  {
+                    "id": "hypothesis-word0-line0",
+                    "type": "text",
+                    "text": "revised",
+                    "x": 0,
+                    "y": -31.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 101
+              },
+              {
+                "id": "data",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "data-outline",
+                    "type": "path",
+                    "d": "M-66.5 -55.0 L66.5 -54.0 L65.5 55.0 L-65.5 54.0 Z"
+                  },
+                  {
+                    "id": "data-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -31.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 101
+              }
+            ]
+          },
+          {
+            "caption": "A deeper commitment survives: truth is taken as the highest value.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "hypothesis",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hypothesis-outline",
+                    "type": "path",
+                    "d": "M-66.5 -46.5 L66.5 -45.5 L65.5 46.5 L-65.5 45.5 Z"
+                  },
+                  {
+                    "id": "hypothesis-word0-line0",
+                    "type": "text",
+                    "text": "revised",
+                    "x": 0,
+                    "y": -22.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 124
+              },
+              {
+                "id": "data",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "data-outline",
+                    "type": "path",
+                    "d": "M-66.5 -46.5 L66.5 -45.5 L65.5 46.5 L-65.5 45.5 Z"
+                  },
+                  {
+                    "id": "data-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -22.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 124
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-121.5 -24.0 L121.5 -23.0 L120.5 24.0 L-120.5 23.0 Z"
+                  },
+                  {
+                    "id": "value-word0-line0",
+                    "type": "text",
+                    "text": "truth above all",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 43
+              }
+            ]
+          },
+          {
+            "caption": "Nietzsche asks about that commitment while preserving the distinction from testing a fact.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "hypothesis",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "hypothesis-outline",
+                    "type": "path",
+                    "d": "M-66.5 -46.5 L66.5 -45.5 L65.5 46.5 L-65.5 45.5 Z"
+                  },
+                  {
+                    "id": "hypothesis-word0-line0",
+                    "type": "text",
+                    "text": "revised",
+                    "x": 0,
+                    "y": -22.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 106,
+                "y": 124
+              },
+              {
+                "id": "data",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "data-outline",
+                    "type": "path",
+                    "d": "M-66.5 -46.5 L66.5 -45.5 L65.5 46.5 L-65.5 45.5 Z"
+                  },
+                  {
+                    "id": "data-word0-line0",
+                    "type": "text",
+                    "text": "evidence",
+                    "x": 0,
+                    "y": -22.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 124
+              },
+              {
+                "id": "value",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "value-outline",
+                    "type": "path",
+                    "d": "M-121.5 -24.0 L121.5 -23.0 L120.5 24.0 L-120.5 23.0 Z"
+                  },
+                  {
+                    "id": "value-word0-line0",
+                    "type": "text",
+                    "text": "why this highest value?",
+                    "x": 0,
+                    "y": 0.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 43
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -5635,31 +7443,65 @@
         ]
       },
       {
-        "description": "rules of inquiry; value of inquiry.",
+        "description": "Rules for examining a claim and the value of pursuing truth concern distinct levels of inquiry.",
         "actors": [
           {
-            "id": "hook",
+            "id": "test",
+            "type": "group",
+            "x": 109,
+            "y": 121,
+            "children": [
+              {
+                "id": "test-edge",
+                "type": "path",
+                "d": "M-68.0 -51.5 L68.0 -51.5 L68.0 51.5 L-68.0 51.5 Z"
+              }
+            ]
+          },
+          {
+            "id": "test-lines",
             "type": "path",
-            "d": "M186 74 Q227 69 229 104 Q225 121 201 120 L199 174"
+            "d": "M60 101 L137 101 M60 123 L139 123 M60 146 L123 146"
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M92 163 Q105 126 137 159 M268 156 Q296 128 311 165"
+            "id": "value",
+            "type": "group",
+            "x": 292,
+            "y": 121,
+            "children": [
+              {
+                "id": "value-edge",
+                "type": "path",
+                "d": "M-62.5 -51.5 L62.5 -51.5 L62.5 51.5 L-62.5 51.5 Z"
+              }
+            ]
           },
           {
-            "id": "a",
+            "id": "value-word",
             "type": "text",
-            "text": "rules of inquiry",
-            "x": 42.27138061523438,
-            "y": 218
+            "text": "truth?",
+            "x": 292,
+            "y": 124,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "method",
             "type": "text",
-            "text": "value of inquiry",
-            "x": 227.70538635253905,
-            "y": 218
+            "text": "how to investigate",
+            "x": 106,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "goal",
+            "type": "text",
+            "text": "why investigate",
+            "x": 292,
+            "y": 217,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -5677,7 +7519,7 @@
     "sources": [
       "gs-354"
     ],
-    "metaphor": "A flowing irregular line enters a rigid frame; its outward description becomes a straight standardized mark.",
+    "metaphor": "A singular experience is translated into a shareable word that lets a group communicate while reducing detail.",
     "scene": {
       "kind": "notebook",
       "caption": "consciousness communication",
@@ -5733,6 +7575,220 @@
             "y": 223
           }
         ]
+      },
+      "lesson": {
+        "description": "A singular experience is translated into a shareable word that lets a group communicate while reducing detail.",
+        "beats": [
+          {
+            "caption": "An experience contains more detail than a common word can carry.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 114,
+                "y": 143
+              },
+              {
+                "id": "experience",
+                "type": "path",
+                "d": "M167 95 Q180 43 224 67 Q267 49 285 95 Q320 145 260 160 Q206 202 168 146 Z"
+              },
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "memory-roof",
+                    "type": "path",
+                    "d": "M-17.0 0 L0 -30 L17.0 0"
+                  },
+                  {
+                    "id": "memory-walls",
+                    "type": "path",
+                    "d": "M-13.0 0 L-13.0 48 L13.0 48 L13.0 0 M-8 48 L-8 20 L8 20 L8 48"
+                  }
+                ],
+                "x": 211,
+                "y": 93
+              },
+              {
+                "id": "feeling",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "feeling-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 267,
+                "y": 116
+              }
+            ]
+          },
+          {
+            "caption": "To communicate, the person translates it into a shared sign.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 114,
+                "y": 143
+              },
+              {
+                "id": "sign",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sign-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "sign-words-line0",
+                    "type": "text",
+                    "text": "sad",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 239,
+                "y": 94
+              },
+              {
+                "id": "remainder",
+                "type": "path",
+                "d": "M180 140 Q224 190 287 143",
+                "tone": "faint",
+                "dashed": true
+              }
+            ]
+          },
+          {
+            "caption": "Other people recognize the sign and can respond.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 87,
+                "y": 143
+              },
+              {
+                "id": "sign",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sign-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "sign-words-line0",
+                    "type": "text",
+                    "text": "sad",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 153,
+                "y": 40
+              },
+              {
+                "id": "listener",
+                "type": "figure",
+                "x": 306,
+                "y": 143,
+                "facing": true
+              },
+              {
+                "id": "reply",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "reply-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "reply-words-line0",
+                    "type": "text",
+                    "text": "I hear you.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 294,
+                "y": 40
+              }
+            ]
+          },
+          {
+            "caption": "The report becomes shareable while some singular detail remains outside it.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 87,
+                "y": 143
+              },
+              {
+                "id": "sign",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "sign-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "sign-words-line0",
+                    "type": "text",
+                    "text": "sad",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 199,
+                "y": 52
+              },
+              {
+                "id": "listener",
+                "type": "figure",
+                "x": 306,
+                "y": 143,
+                "facing": true
+              },
+              {
+                "id": "remainder",
+                "type": "path",
+                "d": "M119 150 Q168 186 234 149",
+                "tone": "faint",
+                "dashed": true
+              },
+              {
+                "id": "tradeoff",
+                "type": "text",
+                "text": "communicable, less singular",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -5750,43 +7806,99 @@
     ],
     "readingArt": [
       {
-        "description": "singular experience; a common sign.",
+        "description": "A singular experience contains detail that a common social description selects and compresses.",
         "actors": [
           {
-            "id": "singular",
+            "id": "speaker",
+            "type": "figure",
+            "x": 88,
+            "y": 152,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
+          },
+          {
+            "id": "felt",
+            "type": "group",
+            "children": [
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "growth",
+                    "type": "path",
+                    "d": "M0 32L0-26 M0 4Q-21-3-29-20 M0-5Q25-12 32-34"
+                  }
+                ],
+                "x": 0,
+                "y": 0,
+                "pose": {
+                  "scale": 0.55
+                }
+              },
+              {
+                "id": "bodily",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "phrase",
+                    "type": "path",
+                    "d": "M-52 0 Q-27-38 0 0 Q25 34 54-3"
+                  }
+                ],
+                "x": 4,
+                "y": 15,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "sensation",
+                "type": "circle",
+                "x": -18,
+                "y": -10,
+                "r": 10
+              }
+            ],
+            "x": 209,
+            "y": 111,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "selection",
             "type": "path",
-            "d": "M59 109 Q85 59 104 117 Q133 182 155 101"
+            "d": "M262 87 L349 87 L349 144L298 144L286 157L286 144L263 144Z"
           },
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M173 61 L222 61 L221 185 L175 185 Z"
-          },
-          {
-            "id": "flattened",
-            "type": "path",
-            "d": "M226 121 L332 121"
-          },
-          {
-            "id": "a-top",
+            "id": "word",
             "type": "text",
-            "text": "singular",
-            "x": 72.34419403076171,
-            "y": 209
+            "text": "sad",
+            "x": 306,
+            "y": 116,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "a-bottom",
+            "id": "whole",
             "type": "text",
-            "text": "experience",
-            "x": 58.35728454589844,
-            "y": 230
+            "text": "lived detail",
+            "x": 195,
+            "y": 207,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "shared",
             "type": "text",
-            "text": "a common sign",
-            "x": 227.7743927001953,
-            "y": 218
+            "text": "a shared sign",
+            "x": 307,
+            "y": 207,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -5850,7 +7962,7 @@
     "sources": [
       "bg-4"
     ],
-    "metaphor": "A clear outline gives temporary shape to a restless field; the field remains visible inside and outside the contour.",
+    "metaphor": "Distinct changing leaves are treated as equal units for a practical classification, revealing what the simplification omits.",
     "scene": {
       "kind": "notebook",
       "caption": "useful error",
@@ -5895,6 +8007,175 @@
             "y": 227
           }
         ]
+      },
+      "lesson": {
+        "description": "Distinct changing leaves are treated as equal units for a practical classification, revealing what the simplification omits.",
+        "beats": [
+          {
+            "caption": "These leaves have different shapes and histories.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "leaf1",
+                "type": "path",
+                "d": "M82 138 Q44 91 81 64 Q122 100 82 138 Z M82 138 L79 90"
+              },
+              {
+                "id": "leaf2",
+                "type": "path",
+                "d": "M190 139 Q158 61 201 64 Q225 102 190 139 Z M190 139 L199 81"
+              },
+              {
+                "id": "leaf3",
+                "type": "path",
+                "d": "M300 140 Q254 122 268 80 Q314 52 326 104 Q324 127 300 140 Z M300 140 L300 88"
+              }
+            ]
+          },
+          {
+            "caption": "A common concept treats them as equal units: leaf.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "leaf1",
+                "type": "path",
+                "d": "M82 138 Q44 91 81 64 Q122 100 82 138 Z M82 138 L79 90"
+              },
+              {
+                "id": "leaf2",
+                "type": "path",
+                "d": "M190 139 Q158 61 201 64 Q225 102 190 139 Z M190 139 L199 81"
+              },
+              {
+                "id": "leaf3",
+                "type": "path",
+                "d": "M300 140 Q254 122 268 80 Q314 52 326 104 Q324 127 300 140 Z M300 140 L300 88"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "text": "leaf",
+                "x": 82,
+                "y": 181,
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "text": "leaf",
+                "x": 194,
+                "y": 181,
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "text": "leaf",
+                "x": 300,
+                "y": 181,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          },
+          {
+            "caption": "The simplification makes comparison and counting possible.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "leaf1",
+                "type": "path",
+                "d": "M82 138 Q44 91 81 64 Q122 100 82 138 Z M82 138 L79 90"
+              },
+              {
+                "id": "leaf2",
+                "type": "path",
+                "d": "M190 139 Q158 61 201 64 Q225 102 190 139 Z M190 139 L199 81"
+              },
+              {
+                "id": "leaf3",
+                "type": "path",
+                "d": "M300 140 Q254 122 268 80 Q314 52 326 104 Q324 127 300 140 Z M300 140 L300 88"
+              },
+              {
+                "id": "count",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "count-outline",
+                    "type": "path",
+                    "d": "M-106.0 -20.0 L106.0 -19.0 L105.0 20.0 L-105.0 19.0 Z"
+                  },
+                  {
+                    "id": "count-word0-line0",
+                    "type": "text",
+                    "text": "three equal units",
+                    "x": 0,
+                    "y": 4.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 202
+              }
+            ]
+          },
+          {
+            "caption": "A useful classification can organize life while overlooking real differences.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "leaf1",
+                "type": "path",
+                "d": "M82 138 Q44 91 81 64 Q122 100 82 138 Z M82 138 L79 90"
+              },
+              {
+                "id": "leaf2",
+                "type": "path",
+                "d": "M190 139 Q158 61 201 64 Q225 102 190 139 Z M190 139 L199 81"
+              },
+              {
+                "id": "leaf3",
+                "type": "path",
+                "d": "M300 140 Q254 122 268 80 Q314 52 326 104 Q324 127 300 140 Z M300 140 L300 88"
+              },
+              {
+                "id": "count",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "count-outline",
+                    "type": "path",
+                    "d": "M-123.0 -20.0 L123.0 -19.0 L122.0 20.0 L-122.0 19.0 Z"
+                  },
+                  {
+                    "id": "count-word0-line0",
+                    "type": "text",
+                    "text": "useful equivalence",
+                    "x": 0,
+                    "y": 4.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 202
+              },
+              {
+                "id": "difference",
+                "type": "text",
+                "text": "the differences remain",
+                "x": 200,
+                "y": 33,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
+          }
+        ]
       }
     },
     "tags": [
@@ -5912,31 +8193,51 @@
     ],
     "readingArt": [
       {
-        "description": "changing reality; usable units.",
+        "description": "A navigation map becomes usable by selecting some routes and omitting much of the territory.",
         "actors": [
           {
-            "id": "field",
+            "id": "territory",
             "type": "path",
-            "d": "M61 122 Q99 67 145 123 Q190 187 235 120 Q283 59 336 124"
+            "d": "M33 71Q86 105 142 66 M43 161Q87 91 145 177 M50 117Q86 113 152 133 M73 54L79 181 M121 57Q98 95 133 179"
           },
           {
-            "id": "outline",
+            "id": "map",
+            "type": "group",
+            "children": [
+              {
+                "id": "map-edge",
+                "type": "path",
+                "d": "M-56.0 -56.5 L56.0 -55.5 L55.0 56.5 L-55.0 55.5 Z"
+              }
+            ],
+            "x": 286,
+            "y": 117,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "route",
             "type": "path",
-            "d": "M147 73 Q191 58 236 78 L232 174 Q188 194 148 172 Z"
+            "d": "M250 148L271 128L272 87L324 86 M271 128L319 149"
           },
           {
-            "id": "a",
+            "id": "area",
             "type": "text",
-            "text": "changing reality",
-            "x": 133.18541259765624,
-            "y": 42
+            "text": "many particulars",
+            "x": 94,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "use",
             "type": "text",
-            "text": "usable units",
-            "x": 149.15330352783204,
-            "y": 225
+            "text": "selected routes",
+            "x": 286,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
