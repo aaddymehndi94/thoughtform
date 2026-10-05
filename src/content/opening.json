@@ -2587,38 +2587,54 @@
         ]
       },
       {
-        "description": "A changed frame can preserve relationship while allowing a decision.",
+        "description": "A vocational decision can preserve a relationship while creating a separate place for work.",
         "actors": [
           {
-            "id": "old",
+            "id": "person",
+            "type": "figure",
+            "x": 207,
+            "y": 126
+          },
+          {
+            "id": "family",
+            "type": "figure",
+            "x": 78,
+            "y": 126,
+            "pose": {
+              "scale": 0.85
+            }
+          },
+          {
+            "id": "relation",
             "type": "path",
-            "d": "M70 158h117m-11-5 11 5-11 5",
+            "d": "M102 121 Q142 102 181 121",
             "tone": "faint"
           },
           {
-            "id": "new",
+            "id": "work",
             "type": "path",
-            "d": "M213 158q-2-82 90-88"
+            "d": "M276 96 h81 v31 h-81 Z"
           },
           {
-            "id": "a",
-            "type": "text",
-            "x": 61,
-            "y": 193,
-            "text": "obey / leave"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 209,
-            "y": 202,
-            "text": "choose, and relate"
-          },
-          {
-            "id": "still",
+            "id": "desk",
             "type": "path",
-            "d": "M214 160h91",
-            "tone": "faint"
+            "d": "M284 127 V181 M349 127 V181 M287 96 L306 80 L328 96"
+          },
+          {
+            "id": "family-word",
+            "type": "text",
+            "x": 76,
+            "y": 222,
+            "text": "a relationship",
+            "anchor": "middle"
+          },
+          {
+            "id": "work-word",
+            "type": "text",
+            "x": 285,
+            "y": 222,
+            "text": "a chosen vocation",
+            "anchor": "middle"
           }
         ]
       }
@@ -3186,34 +3202,48 @@
         ]
       },
       {
-        "description": "A repeated pattern invites an inquiry without proving its cause.",
+        "description": "Personal experience leaves a particular path; Jung’s collective layer is a proposed inherited way of forming experience.",
         "actors": [
           {
-            "id": "loops",
+            "id": "terrain",
             "type": "path",
-            "d": "M100 109q-23-4-27 24t28 31 29-29-30-26Zm101 0q-23-4-27 24t28 31 29-29-30-26Zm101 0q-23-4-27 24t28 31 29-29-30-26Z",
+            "d": "M30 119 Q95 75 160 122 T295 119 T371 112 M30 173 Q95 129 160 176 T295 173 T371 166",
             "tone": "faint"
           },
           {
-            "id": "a",
-            "type": "text",
-            "x": 53,
-            "y": 204,
-            "text": "agree"
+            "id": "path",
+            "type": "path",
+            "d": "M40 164 Q76 154 105 123 T194 123 T309 99"
           },
           {
-            "id": "b",
-            "type": "text",
-            "x": 152,
-            "y": 204,
-            "text": "miss"
+            "id": "memory1",
+            "type": "circle",
+            "x": 105,
+            "y": 123,
+            "r": 5
           },
           {
-            "id": "c",
+            "id": "memory2",
+            "type": "circle",
+            "x": 194,
+            "y": 123,
+            "r": 5
+          },
+          {
+            "id": "personal",
             "type": "text",
-            "x": 254,
-            "y": 204,
-            "text": "repeat"
+            "x": 190,
+            "y": 59,
+            "text": "one person’s history",
+            "anchor": "middle"
+          },
+          {
+            "id": "proposed",
+            "type": "text",
+            "x": 201,
+            "y": 221,
+            "text": "proposed inherited dispositions",
+            "anchor": "middle"
           }
         ]
       }
@@ -3474,170 +3504,210 @@
     "sources": [
       "imagination"
     ],
-    "metaphor": "A person lets an image develop, questions it, responds consciously, and considers an ordinary action rather than treating the image as an instruction.",
+    "metaphor": "An imagined figure waits at a closed door, answers a question, and gives the person material to consider in an ordinary decision.",
     "scene": {
       "kind": "dialogue",
-      "caption": "The encounter becomes useful when its meaning is considered in lived reality.",
+      "caption": "The imagined exchange becomes useful through a considered choice in ordinary life.",
       "lesson": {
-        "description": "A person lets an image develop, questions it, responds consciously, and considers an ordinary action rather than treating the image as an instruction.",
+        "description": "An imagined figure waits at a closed door, answers a question, and gives the person material to consider in an ordinary decision.",
         "beats": [
           {
-            "caption": "An image is allowed to develop instead of being immediately explained away.",
+            "caption": "An imagined figure waits at a door. The person allows the image to develop.",
             "duration": 3.2,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 101,
-                "y": 159
+                "x": 75,
+                "y": 164
+              },
+              {
+                "id": "closed-door",
+                "type": "path",
+                "d": "M278 192 V78 H333 V192 M285 82 V192 M318 126 H322"
               },
               {
                 "id": "image",
-                "type": "path",
-                "d": "M282 90 Q263 50 307 50 Q348 63 326 103 Q356 132 315 151 Q281 171 278 133 Q260 114 282 90 Z"
+                "type": "figure",
+                "x": 306,
+                "y": 147,
+                "tone": "shade",
+                "facing": true,
+                "pose": {
+                  "scale": 0.78
+                }
               },
               {
-                "id": "first",
+                "id": "image-word",
                 "type": "text",
-                "x": 304,
-                "y": 214,
-                "text": "an image",
-                "anchor": "middle",
-                "fontSize": 17
+                "x": 306,
+                "y": 226,
+                "text": "an imagined scene",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "The person asks a question and attends to what emerges.",
+            "caption": "The person asks a question and allows the figure an answer of its own.",
             "duration": 3.2,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 101,
-                "y": 159
+                "x": 75,
+                "y": 164
+              },
+              {
+                "id": "closed-door",
+                "type": "path",
+                "d": "M278 192 V78 H333 V192 M285 82 V192 M318 126 H322"
               },
               {
                 "id": "image",
-                "type": "path",
-                "d": "M282 90 Q263 50 307 50 Q348 63 326 103 Q356 132 315 151 Q281 171 278 133 Q260 114 282 90 Z"
-              },
-              {
-                "id": "ask-a",
-                "type": "text",
-                "x": 120,
-                "y": 31,
-                "text": "Why are",
-                "anchor": "middle",
-                "fontSize": 17
-              },
-              {
-                "id": "ask-b",
-                "type": "text",
-                "x": 120,
-                "y": 54,
-                "text": "you here?",
-                "anchor": "middle",
-                "fontSize": 17
-              },
-              {
-                "id": "question",
-                "type": "path",
-                "d": "M141 101 Q193 75 257 95",
-                "tone": "faint"
-              }
-            ]
-          },
-          {
-            "caption": "Conscious judgment enters the exchange: the person also responds.",
-            "duration": 3.2,
-            "actors": [
-              {
-                "id": "person",
                 "type": "figure",
-                "x": 101,
-                "y": 159
+                "x": 306,
+                "y": 147,
+                "tone": "shade",
+                "facing": true,
+                "pose": {
+                  "scale": 0.78
+                }
               },
               {
-                "id": "image",
-                "type": "path",
-                "d": "M282 90 Q263 50 307 50 Q348 63 326 103 Q356 132 315 151 Q281 171 278 133 Q260 114 282 90 Z"
+                "id": "question-a",
+                "type": "text",
+                "x": 100,
+                "y": 28,
+                "text": "Why are you",
+                "anchor": "middle"
               },
               {
-                "id": "reply-a",
+                "id": "answer-a",
                 "type": "text",
                 "x": 292,
-                "y": 31,
-                "text": "What could",
-                "anchor": "middle",
-                "fontSize": 17
+                "y": 28,
+                "text": "You never",
+                "anchor": "middle"
               },
               {
-                "id": "reply-b",
+                "id": "answer-b",
                 "type": "text",
                 "x": 292,
-                "y": 54,
-                "text": "I change?",
-                "anchor": "middle",
-                "fontSize": 17
+                "y": 50,
+                "text": "let me in.",
+                "anchor": "middle"
               },
               {
-                "id": "exchange",
-                "type": "path",
-                "d": "M144 108 Q212 79 262 103 M263 148 Q210 184 143 148"
+                "id": "question-a2",
+                "type": "text",
+                "x": 100,
+                "y": 50,
+                "text": "waiting?",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "The encounter becomes useful when its meaning is considered in lived reality.",
+            "caption": "The reply brings an excluded wish into the exchange. The person still has to judge its meaning.",
+            "duration": 3.2,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 75,
+                "y": 164
+              },
+              {
+                "id": "closed-door",
+                "type": "path",
+                "d": "M278 192 V78 H333 V192 M282 82 L308 106 V192"
+              },
+              {
+                "id": "image",
+                "type": "figure",
+                "x": 280,
+                "y": 147,
+                "tone": "shade",
+                "facing": true,
+                "pose": {
+                  "scale": 0.78
+                }
+              },
+              {
+                "id": "question-b",
+                "type": "text",
+                "x": 92,
+                "y": 28,
+                "text": "What do",
+                "anchor": "middle"
+              },
+              {
+                "id": "answer-c",
+                "type": "text",
+                "x": 292,
+                "y": 28,
+                "text": "Time to make",
+                "anchor": "middle"
+              },
+              {
+                "id": "answer-d",
+                "type": "text",
+                "x": 292,
+                "y": 50,
+                "text": "something.",
+                "anchor": "middle"
+              },
+              {
+                "id": "question-b2",
+                "type": "text",
+                "x": 92,
+                "y": 50,
+                "text": "you need?",
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "The imagined exchange becomes useful through a considered choice in ordinary life.",
             "duration": 4.5,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 110,
-                "y": 155
+                "x": 75,
+                "y": 164
               },
               {
-                "id": "image",
+                "id": "calendar",
                 "type": "path",
-                "d": "M282 90 Q263 50 307 50 Q348 63 326 103 Q356 132 315 151 Q281 171 278 133 Q260 114 282 90 Z",
-                "tone": "faint",
-                "pose": {
-                  "scale": 0.65
-                }
+                "d": "M197 71 h155 v119 h-155 Z"
               },
               {
-                "id": "day",
+                "id": "calendar-lines",
                 "type": "path",
-                "d": "M199 75 h139 v119 h-139 Z"
+                "d": "M197 99 H352 M248 100 V189 M299 100 V189 M197 145 H352"
               },
               {
-                "id": "choice",
-                "type": "text",
-                "x": 268,
-                "y": 110,
-                "text": "a real choice",
-                "anchor": "middle",
-                "fontSize": 17
+                "id": "reserved",
+                "type": "path",
+                "d": "M250 102 h46 v40 h-46 Z",
+                "fill": true
               },
               {
-                "id": "pause",
+                "id": "action-a",
                 "type": "text",
-                "x": 268,
-                "y": 151,
-                "text": "make room",
-                "anchor": "middle",
-                "fontSize": 18
+                "x": 274,
+                "y": 38,
+                "text": "make time",
+                "anchor": "middle"
               },
               {
-                "id": "life",
+                "id": "action-b",
                 "type": "text",
-                "x": 222,
-                "y": 230,
+                "x": 274,
+                "y": 225,
                 "text": "consider, then act",
-                "anchor": "middle",
-                "fontSize": 17
+                "anchor": "middle"
               }
             ]
           }

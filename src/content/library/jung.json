@@ -1399,32 +1399,55 @@
     },
     "readingArt": [
       {
-        "description": "Known skill and a total rescuing image should remain distinct.",
+        "description": "A teacher’s particular expertise can be enlarged into an expectation that the person can answer every kind of question.",
         "actors": [
           {
-            "id": "small",
-            "type": "path",
-            "d": "M98 81h62v67H98Z"
+            "id": "expertise",
+            "type": "group",
+            "x": 38,
+            "y": 90,
+            "children": [
+              {
+                "id": "expertise-frame",
+                "type": "path",
+                "d": "M0 0 h92 v87 h-92 Z"
+              },
+              {
+                "id": "expertise-lines",
+                "type": "path",
+                "d": "M12 25 H80 M12 43 H80 M12 61 H70",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "large",
+            "id": "specific",
+            "type": "text",
+            "x": 84,
+            "y": 66,
+            "text": "this subject",
+            "anchor": "middle"
+          },
+          {
+            "id": "teacher",
+            "type": "figure",
+            "x": 268,
+            "y": 137,
+            "facing": true
+          },
+          {
+            "id": "boundless",
             "type": "path",
-            "d": "M259 42q-48 0-56 76t54 81q69-5 57-77t-55-80Z",
+            "d": "M202 39 h134 v156 h-134 Z",
             "tone": "faint"
           },
           {
-            "id": "skill",
+            "id": "total",
             "type": "text",
-            "x": 88,
-            "y": 183,
-            "text": "a real skill"
-          },
-          {
-            "id": "ideal",
-            "type": "text",
-            "x": 228,
-            "y": 226,
-            "text": "all the answers"
+            "x": 266,
+            "y": 225,
+            "text": "every answer?",
+            "anchor": "middle"
           }
         ]
       },
@@ -1497,181 +1520,194 @@
     "sources": [
       "shadow"
     ],
-    "metaphor": "Observed behavior and an added inner story are separated, allowing a real relationship to remain while the observer questions their contribution.",
+    "metaphor": "One brief reply becomes a total judgment; the observer notices an expectation of rejection and returns to a particular conversation.",
     "scene": {
       "kind": "notebook",
-      "caption": "Separate the observed person from the added picture, then meet them again.",
+      "caption": "A particular question makes room for information the total judgment had hidden.",
       "lesson": {
-        "description": "Observed behavior and an added inner story are separated, allowing a real relationship to remain while the observer questions their contribution.",
+        "description": "One brief reply becomes a total judgment; the observer notices an expectation of rejection and returns to a particular conversation.",
         "beats": [
           {
-            "caption": "Start with what was actually observed.",
+            "caption": "A friend gives a short reply. This is the event available to observation.",
             "duration": 3.2,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 90,
-                "y": 156
+                "x": 81,
+                "y": 151
               },
               {
-                "id": "other",
+                "id": "friend",
                 "type": "figure",
-                "x": 312,
-                "y": 156,
+                "x": 305,
+                "y": 151,
                 "facing": true
               },
               {
-                "id": "fact",
+                "id": "reply",
                 "type": "path",
-                "d": "M155 30 h212 v59 h-212 Z"
+                "d": "M204 25 h177 v51 h-177 Z"
               },
               {
-                "id": "fact-text",
+                "id": "reply-word",
                 "type": "text",
-                "x": 261,
-                "y": 65,
-                "text": "spoke confidently",
-                "anchor": "middle",
-                "fontSize": 18
+                "x": 292,
+                "y": 56,
+                "text": "I’m busy today.",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "Notice the further story that became attached to it.",
+            "caption": "The reply acquires a larger story: “They always reject me.”",
             "duration": 3.2,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 90,
-                "y": 156
+                "x": 81,
+                "y": 151
               },
               {
-                "id": "other",
+                "id": "friend",
                 "type": "figure",
-                "x": 312,
-                "y": 156,
+                "x": 305,
+                "y": 151,
                 "facing": true
               },
               {
-                "id": "fact",
+                "id": "reply",
                 "type": "path",
-                "d": "M155 30 h212 v59 h-212 Z"
+                "d": "M204 25 h177 v51 h-177 Z",
+                "tone": "faint"
               },
               {
-                "id": "fact-text",
+                "id": "reply-word",
                 "type": "text",
-                "x": 261,
-                "y": 65,
-                "text": "spoke confidently",
+                "x": 292,
+                "y": 56,
+                "text": "I’m busy today.",
                 "anchor": "middle",
-                "fontSize": 18
+                "tone": "faint"
               },
               {
                 "id": "story",
                 "type": "path",
-                "d": "M 43 191 L 357 191 L 357 235 L 43 235 Z"
+                "d": "M37 204 h329 v37 h-329 Z"
               },
               {
-                "id": "story-text",
+                "id": "story-word",
                 "type": "text",
                 "x": 200,
-                "y": 218,
-                "text": "must know everything",
-                "anchor": "middle",
-                "fontSize": 17
+                "y": 229,
+                "text": "“They always reject me.”",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "Ask what the added certainty expresses in the observer’s own life.",
+            "caption": "The observer notices an expectation of being unwanted within the judgment.",
             "duration": 3.2,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 90,
-                "y": 156
+                "x": 81,
+                "y": 151
               },
               {
-                "id": "other",
+                "id": "friend",
                 "type": "figure",
-                "x": 312,
-                "y": 156,
+                "x": 305,
+                "y": 151,
                 "facing": true
               },
               {
-                "id": "story",
-                "type": "path",
-                "d": "M164 105 h209 v57 h-209 Z",
-                "tone": "faint"
+                "id": "expectation",
+                "type": "group",
+                "x": 155,
+                "y": 153,
+                "children": [
+                  {
+                    "id": "expectation-line",
+                    "type": "path",
+                    "d": "M-12 -18 C-40 -37 -43 14 -10 24 C21 33 38 -29 3 -20 C-30 -16 -16 33 10 13 C26 -10 -19 -19 -13 8 C-10 22 18 8 4 -4"
+                  }
+                ]
               },
               {
-                "id": "my-need-a",
+                "id": "fear-a",
                 "type": "text",
-                "x": 104,
-                "y": 35,
-                "text": "a wish for",
-                "anchor": "middle",
-                "fontSize": 17
+                "x": 116,
+                "y": 30,
+                "text": "afraid I",
+                "anchor": "middle"
               },
               {
-                "id": "my-need-b",
+                "id": "fear-b",
                 "type": "text",
-                "x": 104,
-                "y": 59,
-                "text": "certainty",
-                "anchor": "middle",
-                "fontSize": 17
+                "x": 116,
+                "y": 54,
+                "text": "don’t matter",
+                "anchor": "middle"
               },
               {
-                "id": "return",
-                "type": "path",
-                "d": "M186 126 Q138 103 105 100",
-                "tone": "faint"
+                "id": "their-day",
+                "type": "text",
+                "x": 305,
+                "y": 226,
+                "text": "their actual day",
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "Separate the observed person from the added picture, then meet them again.",
+            "caption": "A particular question makes room for information the total judgment had hidden.",
             "duration": 4.5,
             "actors": [
               {
                 "id": "person",
                 "type": "figure",
-                "x": 115,
-                "y": 156
+                "x": 81,
+                "y": 151
               },
               {
-                "id": "other",
+                "id": "friend",
                 "type": "figure",
-                "x": 290,
-                "y": 156,
+                "x": 305,
+                "y": 151,
                 "facing": true
               },
               {
-                "id": "a",
+                "id": "question",
                 "type": "text",
-                "x": 113,
-                "y": 38,
-                "text": "my contribution",
-                "anchor": "middle",
-                "fontSize": 16
+                "x": 90,
+                "y": 36,
+                "text": "Later today?",
+                "anchor": "middle"
               },
               {
-                "id": "b",
+                "id": "answer",
                 "type": "text",
-                "x": 290,
-                "y": 38,
-                "text": "their reality",
-                "anchor": "middle",
-                "fontSize": 16
+                "x": 299,
+                "y": 36,
+                "text": "After six.",
+                "anchor": "middle"
               },
               {
-                "id": "encounter",
+                "id": "meeting",
                 "type": "path",
-                "d": "M150 122 H251"
+                "d": "M129 126 Q197 107 258 126",
+                "tone": "faint"
+              },
+              {
+                "id": "meeting-word",
+                "type": "text",
+                "x": 199,
+                "y": 231,
+                "text": "meet the person again",
+                "anchor": "middle"
               }
             ]
           }
@@ -1680,25 +1716,96 @@
     },
     "readingArt": [
       {
-        "description": "An overwhelming judgment can conceal particular details.",
+        "description": "A sweeping interpretation can conceal occasions that do not fit it.",
         "actors": [
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M120 51h159v143H120Z"
+            "id": "day1",
+            "type": "group",
+            "x": 30,
+            "y": 66,
+            "children": [
+              {
+                "id": "day1-frame",
+                "type": "path",
+                "d": "M0 0 h83 v103 h-83 Z"
+              },
+              {
+                "id": "day1-lines",
+                "type": "path",
+                "d": "M12 25 H71 M12 43 H71 M12 61 H61",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "total",
+            "id": "day2",
+            "type": "group",
+            "x": 157,
+            "y": 66,
+            "children": [
+              {
+                "id": "day2-frame",
+                "type": "path",
+                "d": "M0 0 h83 v103 h-83 Z"
+              },
+              {
+                "id": "day2-lines",
+                "type": "path",
+                "d": "M12 25 H71 M12 43 H71 M12 61 H61",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "id": "day3",
+            "type": "group",
+            "x": 285,
+            "y": 66,
+            "children": [
+              {
+                "id": "day3-frame",
+                "type": "path",
+                "d": "M0 0 h83 v103 h-83 Z"
+              },
+              {
+                "id": "day3-lines",
+                "type": "path",
+                "d": "M12 25 H71 M12 43 H71 M12 61 H61",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "id": "one",
             "type": "text",
-            "x": 136,
-            "y": 117,
-            "text": "always rejects me"
+            "x": 70,
+            "y": 202,
+            "text": "declined",
+            "anchor": "middle"
           },
           {
-            "id": "detail",
-            "type": "path",
-            "d": "M76 86h25m185 67h33",
-            "tone": "faint"
+            "id": "two",
+            "type": "text",
+            "x": 198,
+            "y": 202,
+            "text": "listened",
+            "anchor": "middle"
+          },
+          {
+            "id": "three",
+            "type": "text",
+            "x": 326,
+            "y": 202,
+            "text": "helped",
+            "anchor": "middle"
+          },
+          {
+            "id": "all",
+            "type": "text",
+            "x": 200,
+            "y": 36,
+            "text": "“always rejects me”",
+            "anchor": "middle"
           }
         ]
       },
@@ -1983,95 +2090,157 @@
     },
     "readingArt": [
       {
-        "description": "Separate events become connected around a shared emotional center.",
+        "description": "Several emotionally charged experiences can become organized around a shared expectation of judgment.",
         "actors": [
           {
-            "id": "center",
-            "type": "circle",
-            "x": 195,
-            "y": 126,
-            "r": 18
+            "id": "school",
+            "type": "group",
+            "x": 38,
+            "y": 60,
+            "children": [
+              {
+                "id": "school-frame",
+                "type": "path",
+                "d": "M0 0 h80 v70 h-80 Z"
+              },
+              {
+                "id": "school-lines",
+                "type": "path",
+                "d": "M12 25 H68 M12 43 H68 M12 61 H58",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "circle",
-            "x": 104,
-            "y": 75,
-            "r": 9
-          },
-          {
-            "id": "b",
-            "type": "circle",
-            "x": 292,
-            "y": 81,
-            "r": 9
-          },
-          {
-            "id": "c",
-            "type": "circle",
-            "x": 95,
-            "y": 175,
-            "r": 9
-          },
-          {
-            "id": "d",
-            "type": "circle",
-            "x": 292,
-            "y": 175,
-            "r": 9
-          },
-          {
-            "id": "ties",
-            "type": "path",
-            "d": "M114 80 L177 117 M280 85 L212 120 M107 170 L178 134 M281 170 L212 137"
-          },
-          {
-            "id": "caption",
+            "id": "school-word",
             "type": "text",
-            "x": 104,
-            "y": 224,
-            "text": "a feeling organizes memories"
+            "x": 78,
+            "y": 48,
+            "text": "a report",
+            "anchor": "middle"
+          },
+          {
+            "id": "review",
+            "type": "group",
+            "x": 282,
+            "y": 60,
+            "children": [
+              {
+                "id": "review-frame",
+                "type": "path",
+                "d": "M0 0 h80 v70 h-80 Z"
+              },
+              {
+                "id": "review-lines",
+                "type": "path",
+                "d": "M12 25 H68 M12 43 H68 M12 61 H58",
+                "tone": "faint"
+              }
+            ]
+          },
+          {
+            "id": "review-word",
+            "type": "text",
+            "x": 322,
+            "y": 48,
+            "text": "a review",
+            "anchor": "middle"
+          },
+          {
+            "id": "center",
+            "type": "group",
+            "x": 198,
+            "y": 160,
+            "children": [
+              {
+                "id": "center-line",
+                "type": "path",
+                "d": "M-12 -18 C-40 -37 -43 14 -10 24 C21 33 38 -29 3 -20 C-30 -16 -16 33 10 13 C26 -10 -19 -19 -13 8 C-10 22 18 8 4 -4"
+              }
+            ]
+          },
+          {
+            "id": "links",
+            "type": "path",
+            "d": "M109 132 L178 154 M291 132 L223 154",
+            "tone": "faint"
+          },
+          {
+            "id": "charge",
+            "type": "text",
+            "x": 199,
+            "y": 226,
+            "text": "being inspected",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "Present evidence and older expectations need to be distinguished.",
+        "description": "A present question about a draft and an older expectation of having to prove oneself can become entangled.",
         "actors": [
           {
-            "id": "divide",
+            "id": "question",
             "type": "path",
-            "d": "M200 49 V188"
+            "d": "M28 71 h150 v88 h-150 Z"
           },
           {
-            "id": "a",
+            "id": "q1",
             "type": "text",
-            "x": 45,
-            "y": 88,
-            "text": "what was said"
+            "x": 103,
+            "y": 107,
+            "text": "Is the draft",
+            "anchor": "middle"
           },
           {
-            "id": "b",
+            "id": "q2",
             "type": "text",
-            "x": 231,
-            "y": 88,
-            "text": "what I heard"
+            "x": 103,
+            "y": 133,
+            "text": "finished?",
+            "anchor": "middle"
           },
           {
-            "id": "small",
+            "id": "expectation",
             "type": "path",
-            "d": "M72 130 H140"
+            "d": "M221 71 h153 v88 h-153 Z"
           },
           {
-            "id": "large",
-            "type": "path",
-            "d": "M241 121 Q284 75 330 131 Q292 176 241 121"
-          },
-          {
-            "id": "caption",
+            "id": "e1",
             "type": "text",
-            "x": 81,
-            "y": 223,
-            "text": "two different questions"
+            "x": 298,
+            "y": 107,
+            "text": "Prove you are",
+            "anchor": "middle"
+          },
+          {
+            "id": "e2",
+            "type": "text",
+            "x": 298,
+            "y": 133,
+            "text": "good enough.",
+            "anchor": "middle"
+          },
+          {
+            "id": "join",
+            "type": "path",
+            "d": "M179 115 Q199  91 221 115",
+            "tone": "faint"
+          },
+          {
+            "id": "now",
+            "type": "text",
+            "x": 103,
+            "y": 199,
+            "text": "today’s question",
+            "anchor": "middle"
+          },
+          {
+            "id": "then",
+            "type": "text",
+            "x": 298,
+            "y": 199,
+            "text": "an older expectation",
+            "anchor": "middle"
           }
         ]
       }
@@ -2669,7 +2838,7 @@
     "metaphor": "A recurring door changes in successive dreams; the dreamer’s changing participation is compared with waking circumstances rather than assigned a predetermined progress story.",
     "scene": {
       "kind": "notebook",
-      "caption": "A series gives more context for asking what is changing in the person’s life.",
+      "caption": "A later dream may close the door again. Ask what changed in the dreamer’s life.",
       "lesson": {
         "description": "A recurring door changes in successive dreams; the dreamer’s changing participation is compared with waking circumstances rather than assigned a predetermined progress story.",
         "beats": [
@@ -2758,56 +2927,42 @@
             ]
           },
           {
-            "caption": "A series gives more context for asking what is changing in the person’s life.",
+            "caption": "A later dream may close the door again. Ask what changed in the dreamer’s life.",
             "duration": 4.5,
             "actors": [
               {
-                "id": "doors",
+                "id": "small-open",
                 "type": "path",
-                "d": "M39 165 V67 H94 V165 M171 165 V67 H226 V165 M303 165 V67 H358 V165"
+                "d": "M39 178 V65 H100 V178 M42 70 L80 92 V174"
               },
               {
-                "id": "one",
-                "type": "path",
-                "d": "M43 72 L90 160 M90 72 L43 160"
-              },
-              {
-                "id": "two",
-                "type": "path",
-                "d": "M175 72 L209 90 V160"
-              },
-              {
-                "id": "a",
+                "id": "entry-word",
                 "type": "text",
-                "x": 66,
-                "y": 204,
-                "text": "watch",
+                "x": 73,
+                "y": 213,
+                "text": "approachable",
                 "anchor": "middle"
               },
               {
-                "id": "b",
-                "type": "text",
-                "x": 198,
-                "y": 204,
-                "text": "approach",
-                "anchor": "middle"
+                "id": "small-closed",
+                "type": "path",
+                "d": "M251 178 V65 H313 V178 M255 69 L307 173 M308 69 L255 173"
               },
               {
-                "id": "d",
+                "id": "closed-word",
                 "type": "text",
-                "x": 331,
-                "y": 204,
-                "text": "enter",
+                "x": 282,
+                "y": 213,
+                "text": "closed again",
                 "anchor": "middle"
               },
               {
                 "id": "question",
                 "type": "text",
                 "x": 200,
-                "y": 238,
-                "text": "what changed outside the dream?",
-                "anchor": "middle",
-                "fontSize": 16
+                "y": 38,
+                "text": "what changed in waking life?",
+                "anchor": "middle"
               }
             ]
           }
@@ -2816,59 +2971,132 @@
     },
     "readingArt": [
       {
-        "description": "A repeated image can change in its relation to the dreamer.",
+        "description": "A repeated water image changes from a sealed view to a shore and then an offered boat.",
         "actors": [
           {
-            "id": "water",
+            "id": "window",
             "type": "path",
-            "d": "M40 167 Q95 153 148 168 T254 167 T362 169"
+            "d": "M39 59 h74 v95 h-74 Z"
           },
           {
-            "id": "a",
+            "id": "pane",
+            "type": "path",
+            "d": "M76 59 V154 M39 106 H113"
+          },
+          {
+            "id": "water1",
+            "type": "path",
+            "d": "M45 123 Q64 112 81 125 T107 124",
+            "tone": "faint"
+          },
+          {
+            "id": "shore-person",
             "type": "figure",
-            "x": 84,
-            "y": 55
+            "x": 205,
+            "y": 125,
+            "pose": {
+              "scale": 0.6
+            }
           },
           {
-            "id": "b",
-            "type": "figure",
-            "x": 197,
-            "y": 85
+            "id": "shore",
+            "type": "path",
+            "d": "M164 153 Q190 151 210 167 M214 168 Q237 158 246 168",
+            "tone": "faint"
           },
           {
-            "id": "c",
-            "type": "figure",
-            "x": 310,
-            "y": 111
+            "id": "boat",
+            "type": "group",
+            "x": 326,
+            "y": 133,
+            "children": [
+              {
+                "id": "boat-hull",
+                "type": "path",
+                "d": "M-22 4 H25 L14 20 H-10 Z M0 0 V-30 L19 0 Z"
+              }
+            ]
           },
           {
-            "id": "caption",
+            "id": "sealed",
             "type": "text",
-            "x": 85,
-            "y": 223,
-            "text": "distance is part of the image"
+            "x": 76,
+            "y": 219,
+            "text": "sealed",
+            "anchor": "middle"
+          },
+          {
+            "id": "shore-word",
+            "type": "text",
+            "x": 202,
+            "y": 219,
+            "text": "a shore",
+            "anchor": "middle"
+          },
+          {
+            "id": "offered",
+            "type": "text",
+            "x": 326,
+            "y": 219,
+            "text": "a boat",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "Later dreams can revise an earlier interpretation.",
+        "description": "Later dream images can bring vulnerability back into an account that seemed settled.",
         "actors": [
           {
-            "id": "pages",
-            "type": "path",
-            "d": "M58 67 H128 V160 H58 Z M165 67 H235 V160 H165 Z M272 67 H342 V160 H272 Z"
+            "id": "dreamer",
+            "type": "figure",
+            "x": 90,
+            "y": 136,
+            "pose": {
+              "scale": 0.85
+            }
           },
           {
-            "id": "thread",
-            "type": "path",
-            "d": "M94 126 C147 35 229 195 305 112"
+            "id": "secure",
+            "type": "group",
+            "x": 190,
+            "y": 160,
+            "children": [
+              {
+                "id": "secure-hull",
+                "type": "path",
+                "d": "M-22 4 H25 L14 20 H-10 Z M0 0 V-30 L19 0 Z"
+              }
+            ]
           },
           {
-            "id": "caption",
+            "id": "water",
+            "type": "path",
+            "d": "M239 157 Q268 146 287 160 T364 158 M240 181 Q277 169 297 182 T364 180",
+            "tone": "faint"
+          },
+          {
+            "id": "safe",
             "type": "text",
-            "x": 91,
-            "y": 215,
-            "text": "read the changing relation"
+            "x": 105,
+            "y": 219,
+            "text": "a secure crossing",
+            "anchor": "middle"
+          },
+          {
+            "id": "return",
+            "type": "text",
+            "x": 295,
+            "y": 219,
+            "text": "water returns",
+            "anchor": "middle"
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "x": 211,
+            "y": 46,
+            "text": "what has changed in waking life?",
+            "anchor": "middle"
           }
         ]
       }
@@ -2903,7 +3131,7 @@
     "metaphor": "An architectural analogy distinguishes an organizing form from its particular realization, then relates that difference to archetype and archetypal image.",
     "scene": {
       "kind": "notebook",
-      "caption": "Jung distinguished the proposed archetypal disposition from the image that appears.",
+      "caption": "The same organizing relation can take different material forms, each with its own details.",
       "lesson": {
         "description": "An architectural analogy distinguishes an organizing form from its particular realization, then relates that difference to archetype and archetypal image.",
         "beats": [
@@ -2983,49 +3211,53 @@
             ]
           },
           {
-            "caption": "Jung distinguished the proposed archetypal disposition from the image that appears.",
+            "caption": "The same organizing relation can take different material forms, each with its own details.",
             "duration": 4.5,
             "actors": [
               {
-                "id": "patterns",
+                "id": "wood",
                 "type": "path",
-                "d": "M40 155 V103 Q79 41 119 103 V155 M160 155 V87 H239 V155 M280 155 Q320 50 359 155"
+                "d": "M34 176 V124 Q71 64 108 124 V176 M45 176 V129 Q71 85 97 129 V176"
               },
               {
-                "id": "a",
+                "id": "wood-grain",
+                "type": "path",
+                "d": "M37 139 V172 M103 139 V171",
+                "tone": "faint"
+              },
+              {
+                "id": "stone",
+                "type": "path",
+                "d": "M164 176 V124 Q200 64 236 124 V176 M175 176 V129 Q200 85 225 129 V176 M164 151 H175 M225 151 H236 M171 112 L179 122 M191 89 V105 M213 94 L209 109"
+              },
+              {
+                "id": "metal",
+                "type": "path",
+                "d": "M292 176 V124 Q327 64 362 124 V176 M303 176 V129 Q327 85 351 129 V176 M292 170 H303 M351 170 H362"
+              },
+              {
+                "id": "wood-word",
                 "type": "text",
-                "x": 80,
-                "y": 194,
-                "text": "one image",
-                "anchor": "middle",
-                "fontSize": 16
+                "x": 71,
+                "y": 216,
+                "text": "wood",
+                "anchor": "middle"
               },
               {
-                "id": "b",
-                "type": "text",
-                "x": 200,
-                "y": 194,
-                "text": "another",
-                "anchor": "middle",
-                "fontSize": 16
-              },
-              {
-                "id": "d",
-                "type": "text",
-                "x": 320,
-                "y": 194,
-                "text": "another",
-                "anchor": "middle",
-                "fontSize": 16
-              },
-              {
-                "id": "relation",
+                "id": "stone-word",
                 "type": "text",
                 "x": 200,
-                "y": 232,
-                "text": "a pattern takes particular forms",
-                "anchor": "middle",
-                "fontSize": 16
+                "y": 216,
+                "text": "stone",
+                "anchor": "middle"
+              },
+              {
+                "id": "metal-word",
+                "type": "text",
+                "x": 328,
+                "y": 216,
+                "text": "metal",
+                "anchor": "middle"
               }
             ]
           }
@@ -3061,24 +3293,20 @@
         ]
       },
       {
-        "description": "A category should not erase the particulars of an image.",
+        "description": "Calling an opening an arch still leaves its particular material and construction to understand.",
         "actors": [
           {
-            "id": "frame",
+            "id": "arch",
             "type": "path",
-            "d": "M140 44 H264 V191 H140 Z"
+            "d": "M105 187 V107 Q199 13 291 107 V187 M125 187 V114 Q200 40 272 114 V187 M105 157 H125 M272 157 H291 M116 92 L137 108 M154 58 L165 80 M201 41 V64 M248 58 L236 79 M282 92 L262 106"
           },
           {
-            "id": "details",
-            "type": "path",
-            "d": "M160 164 Q203 68 247 163 M166 136 L219 105 M201 165 V85"
-          },
-          {
-            "id": "caption",
+            "id": "material",
             "type": "text",
-            "x": 109,
-            "y": 223,
-            "text": "keep the particular details"
+            "x": 200,
+            "y": 228,
+            "text": "this material, this construction",
+            "anchor": "middle"
           }
         ]
       }
@@ -3347,26 +3575,69 @@
     },
     "readingArt": [
       {
-        "description": "Personal memories and proposed inherited forms are different claims.",
+        "description": "Personal events make a unique path; an inherited disposition is a different proposed explanation of its possible forms.",
         "actors": [
           {
-            "id": "layers",
+            "id": "life",
             "type": "path",
-            "d": "M54 71 H347 M54 134 H347 M54 197 H347"
+            "d": "M35 153 Q65 101 105 143 T174 119"
           },
           {
-            "id": "a",
-            "type": "text",
-            "x": 107,
-            "y": 111,
-            "text": "events in one life"
+            "id": "event1",
+            "type": "circle",
+            "x": 70,
+            "y": 125,
+            "r": 5
           },
           {
-            "id": "b",
+            "id": "event2",
+            "type": "circle",
+            "x": 144,
+            "y": 150,
+            "r": 5
+          },
+          {
+            "id": "life-word",
             "type": "text",
-            "x": 86,
-            "y": 175,
-            "text": "a proposed shared basis"
+            "x": 103,
+            "y": 208,
+            "text": "a personal history",
+            "anchor": "middle"
+          },
+          {
+            "id": "terrain1",
+            "type": "path",
+            "d": "M229 136 Q271 101 310 136 T374 139"
+          },
+          {
+            "id": "terrain2",
+            "type": "path",
+            "d": "M229 160 Q271 125 310 160 T374 163",
+            "tone": "faint"
+          },
+          {
+            "id": "basis1",
+            "type": "text",
+            "x": 303,
+            "y": 57,
+            "text": "a proposed",
+            "anchor": "middle"
+          },
+          {
+            "id": "basis2",
+            "type": "text",
+            "x": 303,
+            "y": 80,
+            "text": "disposition",
+            "anchor": "middle"
+          },
+          {
+            "id": "basis3",
+            "type": "text",
+            "x": 302,
+            "y": 208,
+            "text": "a way of forming",
+            "anchor": "middle"
           }
         ]
       },
@@ -3637,60 +3908,105 @@
     },
     "readingArt": [
       {
-        "description": "Perception can attend to actuality or possibility.",
+        "description": "The same room supplies immediate facts and possible future uses.",
         "actors": [
           {
-            "id": "actual",
+            "id": "current",
             "type": "path",
-            "d": "M59 82 H144 V165 H59 Z"
+            "d": "M30 56 h145 v132 h-145 Z"
+          },
+          {
+            "id": "lamp1",
+            "type": "path",
+            "d": "M94 77 L82 101 H108 Z M94 101 V133 M54 150 H149 M65 150 V181 M138 150 V181"
+          },
+          {
+            "id": "actual",
+            "type": "text",
+            "x": 103,
+            "y": 223,
+            "text": "light and a table",
+            "anchor": "middle"
+          },
+          {
+            "id": "future",
+            "type": "path",
+            "d": "M225 56 h145 v132 h-145 Z"
+          },
+          {
+            "id": "easel",
+            "type": "path",
+            "d": "M264 180 L286 92 L309 180 M274 129 H299 M277 90 H312 V137 H277 Z"
           },
           {
             "id": "possible",
-            "type": "path",
-            "d": "M259 82 H344 V165 H259 Z M269 72 H354 V155"
-          },
-          {
-            "id": "a",
             "type": "text",
-            "x": 65,
-            "y": 211,
-            "text": "actuality"
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "x": 255,
-            "y": 211,
-            "text": "possibility"
+            "x": 297,
+            "y": 223,
+            "text": "a possible studio",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "Judgment can ask about conceptual relations or value.",
+        "description": "Thinking examines how a lamp lights a work surface; feeling asks whether the place matters to the person.",
         "actors": [
           {
-            "id": "logic",
+            "id": "lamp",
             "type": "path",
-            "d": "M63 129 L97 91 L133 129 L97 167 Z"
+            "d": "M83  63 L70 86 H98 Z M84 86 V131 M39 153 H165 M 51 153 V192 M151 153 V192"
+          },
+          {
+            "id": "rays",
+            "type": "path",
+            "d": "M76 88 L52 149 M94 88 L133 149",
+            "tone": "faint"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 278,
+            "y": 123,
+            "pose": {
+              "scale": 0.68
+            }
           },
           {
             "id": "value",
             "type": "path",
-            "d": "M266 126 H338 M302 92 V167 M269 92 V103 M335 151 V167"
+            "d": "M223 159 h112 v55 h-112 Z"
           },
           {
-            "id": "a",
+            "id": "value-word",
             "type": "text",
-            "x": 51,
-            "y": 214,
-            "text": "how it relates"
+            "x": 279,
+            "y": 180,
+            "text": "worth",
+            "anchor": "middle"
           },
           {
-            "id": "b",
+            "id": "relation-word",
             "type": "text",
-            "x": 258,
-            "y": 214,
-            "text": "what it is worth"
+            "x": 103,
+            "y": 230,
+            "text": "how things relate",
+            "anchor": "middle"
+          },
+          {
+            "id": "value-label",
+            "type": "text",
+            "x": 280,
+            "y": 230,
+            "text": "what it is worth",
+            "anchor": "middle"
+          },
+          {
+            "id": "value-word-2",
+            "type": "text",
+            "x": 279,
+            "y": 202,
+            "text": "keeping",
+            "anchor": "middle"
           }
         ]
       }
@@ -3959,81 +4275,90 @@
     },
     "readingArt": [
       {
-        "description": "The subjective factor mediates an encounter.",
+        "description": "At a shared encounter the person gives an inward conviction the deciding weight.",
         "actors": [
           {
-            "id": "event",
-            "type": "circle",
-            "x": 84,
-            "y": 125,
-            "r": 20
+            "id": "person",
+            "type": "figure",
+            "x": 111,
+            "y": 136
           },
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M178 62 H305 V181 H178 Z"
+            "id": "other",
+            "type": "figure",
+            "x": 298,
+            "y": 136,
+            "facing": true,
+            "tone": "faint"
           },
           {
             "id": "inner",
-            "type": "circle",
-            "x": 241,
-            "y": 125,
-            "r": 29
-          },
-          {
-            "id": "relation",
             "type": "path",
-            "d": "M108 125 H210"
+            "d": "M32 57 h156 v137 h-156 Z"
           },
           {
-            "id": "a",
+            "id": "conviction",
             "type": "text",
-            "x": 48,
-            "y": 216,
-            "text": "an object"
+            "x": 110,
+            "y": 36,
+            "text": "an inward conviction",
+            "anchor": "middle"
           },
           {
-            "id": "b",
+            "id": "conversation",
+            "type": "path",
+            "d": "M153 124 Q204 107 251 127",
+            "tone": "faint"
+          },
+          {
+            "id": "shared",
             "type": "text",
-            "x": 181,
-            "y": 216,
-            "text": "experienced within"
+            "x": 299,
+            "y": 222,
+            "text": "the encounter",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "Outward sociability and inward orientation can coexist.",
+        "description": "Lively conversation can coexist with referring an experience back to an inward conviction.",
         "actors": [
           {
-            "id": "a",
+            "id": "person",
             "type": "figure",
-            "x": 115,
-            "y": 103
+            "x": 105,
+            "y": 143
           },
           {
-            "id": "b",
+            "id": "other",
             "type": "figure",
-            "x": 292,
-            "y": 103
-          },
-          {
-            "id": "speech",
-            "type": "path",
-            "d": "M143 92 Q199 47 264 92"
+            "x": 296,
+            "y": 143,
+            "facing": true
           },
           {
             "id": "inner",
-            "type": "circle",
-            "x": 115,
-            "y": 104,
-            "r": 27
+            "type": "path",
+            "d": "M61 90 h87 v112 h-87 Z",
+            "tone": "faint"
           },
           {
-            "id": "caption",
+            "id": "speech-left",
+            "type": "path",
+            "d": "M60 25 H161 V53 H140 L129 64 V53 H60 Z"
+          },
+          {
+            "id": "speech-right",
+            "type": "path",
+            "d": "M234 25 H357 V53 H279 L267 64 V53 H234 Z"
+          },
+          {
+            "id": "same",
             "type": "text",
-            "x": 76,
-            "y": 224,
-            "text": "orientation is not social volume"
+            "x": 201,
+            "y": 234,
+            "text": "similar conversation, different bearings",
+            "anchor": "middle"
           }
         ]
       }
@@ -4060,7 +4385,7 @@
     "title": "The situation sets the terms",
     "statement": "An outward orientation gives the object a stronger vote.",
     "explanation": "Jung’s extraverted attitude takes its bearings chiefly from external conditions. It is broader than being talkative, popular, or energized by a room.",
-    "nuance": "An extraverted attitude, for Jung, places greater determining weight on the object and the external situation. What is occurring, what is available, and what the circumstances require strongly organize the person’s response. This orientation can belong to a careful scientist, an attentive craftsperson, or a socially outgoing person. The label describes where a psychological activity takes its bearings, not how much noise its owner makes.\n\nImagine a musician changing an interpretation in response to the room’s acoustics and the ensemble’s playing. The illustration is not a personality diagnosis. It shows how external conditions can become the primary reference for a decision. Another musician might give more determining weight to an inward conception, even while hearing the same acoustics. Both musicians can listen well; the distinction concerns the relative authority of the situation and the subjective factor.\n\nExtraversion can bring responsiveness and contact with actuality. When it becomes one-sided, adaptation to circumstances can crowd out an inward need or judgment that has not disappeared merely because it is inconvenient. Jung’s account treats such neglected material as capable of returning indirectly. The remedy is not to reverse your personality overnight. It is to notice when answering the world has become so automatic that you no longer recognize what happens within you while answering it.",
+    "nuance": "An extraverted attitude, for Jung, places greater determining weight on the object and the external situation. What is occurring, what is available, and what the circumstances require strongly organize the person’s response. This orientation can belong to a careful scientist, an attentive craftsperson, or a socially outgoing person. The label describes where a psychological activity takes its bearings, not how much noise its owner makes.\n\nImagine a musician changing an interpretation in response to the room’s acoustics and the ensemble’s playing. External conditions become the primary reference for a decision. Another musician might give more determining weight to an inward conception, even while hearing the same acoustics. Both musicians can listen well; the distinction concerns the relative authority of the situation and the subjective factor.\n\nExtraversion can bring responsiveness and contact with actuality. When it becomes one-sided, adaptation to circumstances can crowd out an inward need or judgment that has not disappeared merely because it is inconvenient. Jung’s account treats such neglected material as capable of returning indirectly. This makes it useful to notice when answering the world has become so automatic that you lose contact with what happens within you while answering it.",
     "reflection": "Which external conditions do you treat as decisive before noticing your own response?",
     "sources": [
       "jung-extraversion-reading"
@@ -4212,58 +4537,106 @@
     },
     "readingArt": [
       {
-        "description": "The object gives an orientation its principal reference.",
+        "description": "A musician adjusts playing to the sound arriving from the room and another instrument.",
         "actors": [
           {
-            "id": "p",
+            "id": "player",
             "type": "figure",
-            "x": 121,
-            "y": 111
+            "x": 107,
+            "y": 142,
+            "pose": {
+              "scale": 0.75
+            }
           },
           {
-            "id": "room",
+            "id": "instrument",
+            "type": "group",
+            "x": 139,
+            "y": 143,
+            "children": [
+              {
+                "id": "instrument-body",
+                "type": "path",
+                "d": "M-6 -22 C-29 -28 -29 -9 -17 0 Q-8 6 -20 12 C-31 30 -11 43 2 37 C29 31 28 17 18 9 Q9 4 19 -5 C29 -20 13 -30 6 -22 M-5 -22 L-4 -62 H5 L6 -22 M0 -57 V29 M-9 2 Q-16 7 -9 13 M11 2 Q18 7 11 13"
+              },
+              {
+                "id": "instrument-bow",
+                "type": "path",
+                "d": "M28 -43 L-23 28"
+              }
+            ]
+          },
+          {
+            "id": "ensemble",
+            "type": "figure",
+            "x": 303,
+            "y": 142,
+            "pose": {
+              "scale": 0.75
+            },
+            "facing": true
+          },
+          {
+            "id": "sound",
             "type": "path",
-            "d": "M256 73 H328 V170 H256 Z"
+            "d": "M236 103 Q221 122 236 145 M222 94 Q201 121 222 154",
+            "tone": "faint"
           },
           {
-            "id": "arrow",
-            "type": "path",
-            "d": "M149 124 H238 M228 114 L239 124 L228 134"
-          },
-          {
-            "id": "caption",
+            "id": "conditions",
             "type": "text",
-            "x": 84,
-            "y": 218,
-            "text": "taking bearings from the object"
+            "x": 199,
+            "y": 43,
+            "text": "listen to the room",
+            "anchor": "middle"
+          },
+          {
+            "id": "adjust",
+            "type": "text",
+            "x": 202,
+            "y": 227,
+            "text": "adjust to what is heard",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "An outwardly quiet activity can still be extraverted.",
+        "description": "Quiet craftsmanship can take its bearings from the grain and condition of the actual wood.",
         "actors": [
+          {
+            "id": "craftsperson",
+            "type": "figure",
+            "x": 92,
+            "y": 137,
+            "pose": {
+              "scale": 0.8
+            }
+          },
+          {
+            "id": "board",
+            "type": "path",
+            "d": "M179 88 L328 68 L345 147 L195 168 Z M186 105 Q253 89 333 88 M192 130 Q269 109 338 112"
+          },
           {
             "id": "table",
             "type": "path",
-            "d": "M76 150 H321 M105 150 V185 M292 150 V185"
+            "d": "M177 182 H353 M190 182 V215 M339 182 V215"
           },
           {
-            "id": "observer",
-            "type": "figure",
-            "x": 160,
-            "y": 90
-          },
-          {
-            "id": "object",
-            "type": "path",
-            "d": "M245 109 L269 84 L292 108 L269 132 Z"
-          },
-          {
-            "id": "caption",
+            "id": "quiet",
             "type": "text",
-            "x": 94,
-            "y": 226,
-            "text": "orientation is not loudness"
+            "x": 114,
+            "y": 221,
+            "text": "quiet attention",
+            "anchor": "middle"
+          },
+          {
+            "id": "grain",
+            "type": "text",
+            "x": 267,
+            "y": 39,
+            "text": "the grain matters",
+            "anchor": "middle"
           }
         ]
       }
@@ -4290,7 +4663,7 @@
     "title": "The unpracticed instrument",
     "statement": "What you neglect does not necessarily remain quiet.",
     "explanation": "Jung called the least differentiated function inferior. The word concerns its relation to conscious development, not the person’s intelligence or moral worth.",
-    "nuance": "In Jung’s theory of types, the inferior function is the function least available for differentiated conscious use. It is not an inferior human being hiding inside you. The term describes an uneven development of ways of orienting yourself. A person who relies on precise analysis, for example, may find considered valuation difficult or emotionally entangled. This is a possibility within the theory, not a rule that every analytical person lacks feeling.\n\nAn unpracticed instrument offers a useful metaphor. You can hear that it belongs in the ensemble, yet when you try to play it, the sound is uncertain and difficult to regulate. The neglected function may appear in exaggerated or awkward forms, especially under strain. A normally measured person can suddenly make sweeping judgments about what matters. Those judgments need attention without being treated as either pure truth or meaningless interference.\n\nDeveloping the inferior function is not simply applying the same technique that made the dominant one successful. If valuation is the neglected activity, another clever argument may keep avoiding it. If concrete perception is neglected, imagining a richer possibility may still miss the actual details. Jung’s point is to meet a different kind of demand with patience. Greater balance need not mean that every function becomes equally skilled, or that a typological system can prescribe the right life.",
+    "nuance": "In Jung’s theory of types, the inferior function is the function least available for differentiated conscious use. The term describes an uneven development of ways of orienting yourself. A person who relies on precise analysis, for example, may find considered valuation difficult or emotionally entangled. This is a possibility within the theory, not a rule that every analytical person lacks feeling.\n\nAn unpracticed instrument offers a useful metaphor. You can hear that it belongs in the ensemble, yet when you try to play it, the sound is uncertain and difficult to regulate. The neglected function may appear in exaggerated or awkward forms, especially under strain. A normally measured person can suddenly make sweeping judgments about what matters. Those judgments need attention without being treated as either pure truth or meaningless interference.\n\nDeveloping the inferior function calls for meeting the activity on its own terms. If valuation is the neglected activity, another clever argument may keep avoiding it. If concrete perception is neglected, imagining a richer possibility may still miss the actual details. Jung’s point is to meet a different kind of demand with patience. Greater balance need not mean that every function becomes equally skilled, or that a typological system can prescribe the right life.",
     "reflection": "Where do you feel unusually clumsy even though you are competent elsewhere?",
     "sources": [
       "jung-inferior-function-reading"
@@ -4478,51 +4851,128 @@
     },
     "readingArt": [
       {
-        "description": "Differentiation can be uneven across several capacities.",
+        "description": "Two instruments belong in an ensemble while requiring different practiced skills.",
         "actors": [
           {
-            "id": "base",
-            "type": "path",
-            "d": "M61 181 H346"
+            "id": "piano",
+            "type": "group",
+            "x": 35,
+            "y": 98,
+            "children": [
+              {
+                "id": "piano-keys",
+                "type": "path",
+                "d": "M0 0 h130 v42 h-130 Z"
+              },
+              {
+                "id": "piano-cuts",
+                "type": "path",
+                "d": "M21.6667 0 V42 M43.3333 0 V42 M65 0 V42 M86.6667 0 V42 M108.333 0 V42 M8 42 V67 M122 42 V67"
+              }
+            ]
           },
           {
-            "id": "bars",
-            "type": "path",
-            "d": "M86 181 V74 H119 V181 M166 181 V88 H199 V181 M246 181 V148 H279 V181"
+            "id": "violin",
+            "type": "group",
+            "x": 286,
+            "y": 142,
+            "children": [
+              {
+                "id": "violin-body",
+                "type": "path",
+                "d": "M-6 -22 C-29 -28 -29 -9 -17 0 Q-8 6 -20 12 C-31 30 -11 43 2 37 C29 31 28 17 18 9 Q9 4 19 -5 C29 -20 13 -30 6 -22 M-5 -22 L-4 -62 H5 L6 -22 M0 -57 V29 M-9 2 Q-16 7 -9 13 M11 2 Q18 7 11 13"
+              },
+              {
+                "id": "violin-bow",
+                "type": "path",
+                "d": "M28 -43 L-23 28"
+              }
+            ]
           },
           {
-            "id": "caption",
+            "id": "practiced",
             "type": "text",
-            "x": 86,
-            "y": 223,
-            "text": "uneven development, not worth"
+            "x": 102,
+            "y": 50,
+            "text": "practiced analysis",
+            "anchor": "middle"
+          },
+          {
+            "id": "different",
+            "type": "text",
+            "x": 284,
+            "y": 50,
+            "text": "less-practiced",
+            "anchor": "middle"
+          },
+          {
+            "id": "valuation",
+            "type": "text",
+            "x": 285,
+            "y": 225,
+            "text": "valuation",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "A neglected activity cannot always be mastered with the preferred tool.",
+        "description": "Further analysis can avoid the different task of making a considered judgment of value.",
         "actors": [
           {
-            "id": "square",
-            "type": "path",
-            "d": "M80 81 H146 V157 H80 Z"
+            "id": "argument",
+            "type": "group",
+            "x": 38,
+            "y": 73,
+            "children": [
+              {
+                "id": "argument-frame",
+                "type": "path",
+                "d": "M0 0 h127 v111 h-127 Z"
+              },
+              {
+                "id": "argument-lines",
+                "type": "path",
+                "d": "M12 25 H115 M12 43 H115 M12 61 H105",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "round",
-            "type": "path",
-            "d": "M260 119 C259 80 322 74 330 116 C340 161 267 167 260 119"
-          },
-          {
-            "id": "fit",
-            "type": "path",
-            "d": "M150 120 H237"
-          },
-          {
-            "id": "caption",
+            "id": "argument1",
             "type": "text",
-            "x": 72,
-            "y": 220,
-            "text": "a different demand needs attention"
+            "x": 102,
+            "y": 55,
+            "text": "another argument",
+            "anchor": "middle"
+          },
+          {
+            "id": "value",
+            "type": "path",
+            "d": "M228 73 h143 v111 h-143 Z"
+          },
+          {
+            "id": "question1",
+            "type": "text",
+            "x": 299,
+            "y": 112,
+            "text": "What matters",
+            "anchor": "middle"
+          },
+          {
+            "id": "question2",
+            "type": "text",
+            "x": 299,
+            "y": 139,
+            "text": "in this choice?",
+            "anchor": "middle"
+          },
+          {
+            "id": "different",
+            "type": "text",
+            "x": 200,
+            "y": 226,
+            "text": "give the other question time",
+            "anchor": "middle"
           }
         ]
       }
@@ -4756,36 +5206,42 @@
         ]
       },
       {
-        "description": "The subjective level asks about an inner relation.",
+        "description": "A demanding figure in a dream can express the dreamer’s own standards; the actual situation must guide this interpretation.",
         "actors": [
+          {
+            "id": "dreamer",
+            "type": "figure",
+            "x": 90,
+            "y": 145
+          },
+          {
+            "id": "teacher",
+            "type": "figure",
+            "x": 291,
+            "y": 145,
+            "facing": true
+          },
           {
             "id": "frame",
             "type": "path",
-            "d": "M64 49 H340 V190 H64 Z"
+            "d": "M37 66 h315 v146 h-315 Z",
+            "tone": "faint"
           },
           {
-            "id": "one",
-            "type": "figure",
-            "x": 139,
-            "y": 101
-          },
-          {
-            "id": "two",
-            "type": "figure",
-            "x": 270,
-            "y": 101
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M168 131 H241"
-          },
-          {
-            "id": "caption",
+            "id": "inner",
             "type": "text",
-            "x": 83,
-            "y": 228,
-            "text": "what position might this figure hold?"
+            "x": 199,
+            "y": 41,
+            "text": "an inner demand",
+            "anchor": "middle"
+          },
+          {
+            "id": "particular",
+            "type": "text",
+            "x": 200,
+            "y": 239,
+            "text": "does this reading fit this dream?",
+            "anchor": "middle"
           }
         ]
       }
@@ -5024,57 +5480,104 @@
     },
     "readingArt": [
       {
-        "description": "The conscious center belongs within a larger field.",
+        "description": "A conscious center has a useful structure while remaining open to a wider field.",
         "actors": [
           {
-            "id": "whole",
-            "type": "circle",
-            "x": 202,
-            "y": 124,
-            "r": 77
+            "id": "harbor",
+            "type": "path",
+            "d": "M87  65 H239 V106 M239 148 V190 H87 V65"
           },
           {
-            "id": "ego",
-            "type": "circle",
-            "x": 176,
-            "y": 124,
-            "r": 23
+            "id": "home",
+            "type": "group",
+            "x": 160,
+            "y": 123,
+            "children": [
+              {
+                "id": "home-hull",
+                "type": "path",
+                "d": "M-22 4 H25 L14 20 H-10 Z M0 0 V-30 L19 0 Z"
+              }
+            ]
           },
           {
-            "id": "ego-label",
+            "id": "arrival",
+            "type": "group",
+            "x": 313,
+            "y": 123,
+            "children": [
+              {
+                "id": "arrival-hull",
+                "type": "path",
+                "d": "M-22 4 H25 L14 20 H-10 Z M0 0 V-30 L19 0 Z"
+              }
+            ]
+          },
+          {
+            "id": "water",
+            "type": "path",
+            "d": "M 30   40 Q 90  20 155   40 T373  40",
+            "tone": "faint"
+          },
+          {
+            "id": "center",
             "type": "text",
-            "x": 165,
-            "y": 129,
-            "text": "I"
-          },
-          {
-            "id": "caption",
-            "type": "text",
-            "x": 116,
-            "y": 226,
-            "text": "a part, and a necessary part"
+            "x": 169,
+            "y": 225,
+            "text": "a conscious center",
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "A boundary can admit a relation without disappearing.",
+        "description": "A harbor receives an unfamiliar boat through an opening while preserving the structure that lets it handle arrivals.",
         "actors": [
           {
-            "id": "boundary",
+            "id": "harbor",
             "type": "path",
-            "d": "M95 71 V182 H251 V150 M95 71 H251 V104"
+            "d": "M89 68 H286 V104 M286 150 V194 H89 V68"
           },
           {
-            "id": "entry",
-            "type": "path",
-            "d": "M316 126 H195 M206 116 L195 126 L206 136"
+            "id": "home",
+            "type": "group",
+            "x": 163,
+            "y": 127,
+            "children": [
+              {
+                "id": "home-hull",
+                "type": "path",
+                "d": "M-22 4 H25 L14 20 H-10 Z M0 0 V-30 L19 0 Z"
+              }
+            ]
           },
           {
-            "id": "caption",
+            "id": "arrival",
+            "type": "group",
+            "x": 255,
+            "y": 127,
+            "children": [
+              {
+                "id": "arrival-hull",
+                "type": "path",
+                "d": "M-22 4 H25 L14 20 H-10 Z M0 0 V-30 L19 0 Z"
+              }
+            ]
+          },
+          {
+            "id": "open",
             "type": "text",
-            "x": 81,
-            "y": 226,
-            "text": "an opening with a structure"
+            "x": 192,
+            "y": 40,
+            "text": "receive and discriminate",
+            "anchor": "middle"
+          },
+          {
+            "id": "structure",
+            "type": "text",
+            "x": 200,
+            "y": 232,
+            "text": "an opening, a usable boundary",
+            "anchor": "middle"
           }
         ]
       }
