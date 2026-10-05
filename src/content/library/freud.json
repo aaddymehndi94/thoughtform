@@ -2293,33 +2293,39 @@
         "description": "A beam tilts between two suspended weights without dropping either side.",
         "actors": [
           {
-            "id": "arm",
-            "type": "path",
-            "d": "M84 101 Q188 100 307 101",
-            "tone": "normal",
+            "id": "opposed-feelings",
+            "type": "group",
             "motion": {
               "kind": "turn",
               "duration": 14,
               "delay": 0,
               "angle": 9
-            }
+            },
+            "children": [
+              {
+                "id": "arm",
+                "type": "path",
+                "d": "M84 101 Q188 100 307 101",
+                "tone": "normal"
+              },
+              {
+                "id": "left",
+                "type": "path",
+                "d": "M89 104 L76 151 L112 151 L103 104",
+                "tone": "normal"
+              },
+              {
+                "id": "right",
+                "type": "path",
+                "d": "M288 104 L273 151 L310 151 L299 104",
+                "tone": "normal"
+              }
+            ]
           },
           {
             "id": "support",
             "type": "path",
             "d": "M194 111 L178 187 L219 185 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "left",
-            "type": "path",
-            "d": "M89 104 L76 151 L112 151 L103 104",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
-            "type": "path",
-            "d": "M288 104 L273 151 L310 151 L299 104",
             "tone": "normal"
           },
           {
@@ -6595,6 +6601,16 @@
               "duration": 16,
               "delay": 7
             }
+          },
+          {
+            "id": "channel-knot",
+            "type": "path",
+            "d": "M184 146 Q174 160 194 165 Q220 171 216 153 Q211 135 196 140 Q182 140 184 146",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 3
+            }
           }
         ]
       }
@@ -8060,6 +8076,17 @@
               "duration": 14,
               "delay": 6
             }
+          },
+          {
+            "id": "returning-resistance",
+            "type": "path",
+            "d": "M156 78 Q230 70 256 116 Q270 163 218 175 Q152 182 137 133 Q123 100 156 78",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 4
+            }
           }
         ]
       }
@@ -8992,17 +9019,6 @@
             }
           },
           {
-            "id": "exit",
-            "type": "path",
-            "d": "M261 182 Q300 181 330 199",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 5
-            }
-          },
-          {
             "id": "again",
             "type": "text",
             "text": "again",
@@ -9017,8 +9033,8 @@
           {
             "id": "change",
             "type": "text",
-            "text": "notice the pattern",
-            "x": 138.97,
+            "text": "the same outcome",
+            "x": 139,
             "y": 224,
             "motion": {
               "kind": "reveal",
