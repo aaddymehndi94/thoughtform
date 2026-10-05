@@ -81,7 +81,7 @@
       "order": 1
     },
     "related": [
-      "freud-wish-fulfilment",
+      "freud-dream-limits",
       "freud-repression"
     ]
   },
@@ -907,6 +907,859 @@
     },
     "related": [
       "freud-secondary-revision",
+      "freud-resistance"
+    ]
+  },
+  {
+    "id": "freud-resistance",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "resistance",
+    "title": "The pause has a history",
+    "statement": "The difficulty of saying something may belong to the thing being approached.",
+    "explanation": "Freud called the forces opposing analytic work resistance. Silence, forgetting or dismissing an association could matter because they occurred near material that was difficult to acknowledge.",
+    "nuance": "A person may remember many details yet find one topic abruptly uninteresting. Freud would explore that shift rather than insist that reluctance proves guilt. Resistance is an interpretation of a relation to painful material, not permission to disregard a person's boundaries. Fatigue, disagreement and mistrust also have ordinary explanations.\n\nThe useful question is what becomes difficult here, and why. Calling every objection resistance would make the theory impossible to challenge.",
+    "sources": [
+      "freud-lectures-3"
+    ],
+    "metaphor": "An open gate swings partly shut as a thought approaches, showing interference rather than simple absence.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the pause has a history",
+      "variant": "resistance",
+      "composition": {
+        "description": "An open gate swings partly shut as a thought approaches, showing interference rather than simple absence.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M194 43 L193 99 M193 151 L194 210",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M193 101 L213 131 L193 153",
+            "tone": "normal",
+            "motion": {
+              "kind": "turn",
+              "duration": 14,
+              "delay": 0,
+              "angle": -32
+            }
+          },
+          {
+            "id": "idea",
+            "type": "circle",
+            "x": 139,
+            "y": 126,
+            "r": 10,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": 122
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "available",
+            "x": 286,
+            "y": 188,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-hidden-life",
+      "order": 1
+    },
+    "related": [
+      "freud-wish-fulfilment",
+      "freud-ambivalence"
+    ]
+  },
+  {
+    "id": "freud-ambivalence",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "ambivalence",
+    "title": "Both at once",
+    "statement": "Love and hostility can concern the same person.",
+    "explanation": "Freud used ambivalence to describe opposed emotional tendencies toward one object. Affection does not necessarily cancel anger, and anger does not prove that affection was false.",
+    "nuance": "Someone can miss a parent while also feeling relieved by their absence. The feelings concern different aspects of one relationship. Freud treated such conflict as important in symptoms and mourning; it is not a diagnosis in itself.\n\nAmbivalence differs from indecision between two alternatives. The issue is that the same person is loved and resented, sometimes with one tendency kept out of awareness. A single emotional label may be less accurate than acknowledging the contradiction.",
+    "sources": [
+      "freud-lectures-3"
+    ],
+    "metaphor": "A beam tilts between two suspended weights without dropping either side.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "both at once",
+      "variant": "ambivalence",
+      "composition": {
+        "description": "A beam tilts between two suspended weights without dropping either side.",
+        "actors": [
+          {
+            "id": "arm",
+            "type": "path",
+            "d": "M84 101 Q188 100 307 101",
+            "tone": "normal",
+            "motion": {
+              "kind": "turn",
+              "duration": 14,
+              "delay": 0,
+              "angle": 9
+            }
+          },
+          {
+            "id": "support",
+            "type": "path",
+            "d": "M194 111 L178 187 L219 185 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M89 104 L76 151 L112 151 L103 104",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M288 104 L273 151 L310 151 L299 104",
+            "tone": "normal"
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "text": "approach",
+            "x": 99,
+            "y": 206
+          },
+          {
+            "id": "two",
+            "type": "text",
+            "text": "avoid",
+            "x": 291,
+            "y": 206
+          }
+        ]
+      }
+    },
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-hidden-life",
+      "order": 2
+    },
+    "related": [
+      "freud-resistance",
+      "freud-unconscious-conflict"
+    ]
+  },
+  {
+    "id": "freud-unconscious-conflict",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "unconscious conflict",
+    "title": "A divided intention",
+    "statement": "An action can have more than one psychological purpose.",
+    "explanation": "Freud sought conflicting motives behind behavior that appeared pointless or inconsistent. In his account, an act can express one intention while frustrating another, without either being fully conscious.",
+    "nuance": "A person who longs for closeness may repeatedly arrive late to the meeting that could provide it. Freud might investigate whether attachment also brings feared dependence. That hypothesis would require context, not just the lateness.\n\nThe point is not that people secretly want every bad outcome they encounter. Conflict can shape a response without explaining the external circumstances. Harm and misfortune should not be translated automatically into unconscious consent.",
+    "sources": [
+      "freud-lectures-3"
+    ],
+    "metaphor": "A single route divides into two paths that pull in different directions.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a divided intention",
+      "variant": "unconscious-conflict",
+      "composition": {
+        "description": "A single route divides into two paths that pull in different directions.",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M80 127 Q128 115 167 126",
+            "tone": "normal"
+          },
+          {
+            "id": "branch1",
+            "type": "path",
+            "d": "M167 126 Q209 69 294 68",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "branch2",
+            "type": "path",
+            "d": "M167 126 Q221 134 304 176",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 3
+            }
+          },
+          {
+            "id": "yes",
+            "type": "text",
+            "text": "one tendency",
+            "x": 285,
+            "y": 48
+          },
+          {
+            "id": "no",
+            "type": "text",
+            "text": "another tendency",
+            "x": 280,
+            "y": 210
+          }
+        ]
+      }
+    },
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-hidden-life",
+      "order": 3
+    },
+    "related": [
+      "freud-ambivalence",
+      "freud-psychic-determinism"
+    ]
+  },
+  {
+    "id": "freud-psychic-determinism",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "psychic determinism",
+    "title": "The apparently accidental",
+    "statement": "Freud asked whether an ordinary mistake might be psychologically connected.",
+    "explanation": "His study of everyday errors extends psychoanalytic inquiry beyond obvious illness. Forgetting a name, losing an object or misspeaking may, he argued, be related to other thoughts and intentions.",
+    "nuance": "An unwanted appointment might be forgotten while a pleasant one is remembered. Freud looks for a pattern and the person's associations; one isolated lapse proves little. Attention, language habits and chance remain relevant explanations.\n\nPsychic determinism is stronger than the everyday observation that motives sometimes influence mistakes. It belongs to Freud's historical explanatory program. Reading significance into an event does not independently demonstrate the proposed cause.",
+    "sources": [
+      "freud-lectures-3"
+    ],
+    "metaphor": "An apparently isolated dot becomes connected to a winding chain of remembered associations.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the apparently accidental",
+      "variant": "psychic-determinism",
+      "composition": {
+        "description": "An apparently isolated dot becomes connected to a winding chain of remembered associations.",
+        "actors": [
+          {
+            "id": "word",
+            "type": "circle",
+            "x": 78,
+            "y": 128,
+            "r": 5,
+            "tone": "normal"
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M83 128 Q128 73 165 117 Q203 169 240 116 Q279 72 320 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "detail",
+            "x": 80,
+            "y": 191
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "memory",
+            "x": 181,
+            "y": 85,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "text": "another thought",
+            "x": 291,
+            "y": 191,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-hidden-life",
+      "order": 4
+    },
+    "related": [
+      "freud-unconscious-conflict",
+      "freud-multiple-determination"
+    ]
+  },
+  {
+    "id": "freud-multiple-determination",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "multiple determination",
+    "title": "More than one cause",
+    "statement": "One symptom can gather several histories.",
+    "explanation": "Freud described symptoms and dream elements as overdetermined: more than one chain of association contributes to them. Interpretation therefore need not end when the first plausible connection is found.",
+    "nuance": "A fear surrounding travel might be connected with separation, an earlier fright and a current conflict about leaving someone behind. These connections can coexist in Freud's account. They are not interchangeable with proof of medical causation.\n\nOverdetermination also complicates the idea of a single hidden key. A compelling story can be incomplete. The same pattern may have different meanings in different lives, and an interpretation needs to remain open to revision.",
+    "sources": [
+      "freud-lectures-3"
+    ],
+    "metaphor": "Several independently drawn paths meet in one knot, each retaining its own entry point.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "more than one cause",
+      "variant": "multiple-determination",
+      "composition": {
+        "description": "Several independently drawn paths meet in one knot, each retaining its own entry point.",
+        "actors": [
+          {
+            "id": "input1",
+            "type": "path",
+            "d": "M75 62 Q150 67 198 117",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "input2",
+            "type": "path",
+            "d": "M71 122 Q155 108 199 119",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "input3",
+            "type": "path",
+            "d": "M83 184 Q156 177 200 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "merged",
+            "type": "path",
+            "d": "M197 121 Q228 90 256 121 Q275 156 236 164 Q209 169 197 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.07
+            }
+          },
+          {
+            "id": "many",
+            "type": "text",
+            "text": "several thoughts",
+            "x": 102,
+            "y": 211
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "text": "one image",
+            "x": 279,
+            "y": 178,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-hidden-life",
+      "order": 5
+    },
+    "related": [
+      "freud-psychic-determinism",
+      "freud-fantasy-reality"
+    ]
+  },
+  {
+    "id": "freud-fantasy-reality",
+    "thinker": "freud",
+    "collection": "Hidden life",
+    "concept": "fantasy reality",
+    "title": "A real effect, an imagined scene",
+    "statement": "An imagined event can matter without having happened.",
+    "explanation": "Freud distinguished psychical reality from material reality. Fantasies can organize desire, fear and guilt even when the events depicted are not historical occurrences.",
+    "nuance": "Someone can feel guilty about a hostile wish without having harmed the person involved. The feeling has psychological reality; it does not turn the imagined action into an actual event.\n\nThis distinction is essential when discussing memory and interpretation. An emotionally convincing account is not, by itself, evidence that a particular event occurred. Freud's changing views on fantasy and trauma are part of the history of psychoanalysis, rather than a reason to dismiss real experiences of abuse.",
+    "sources": [
+      "freud-lectures-3"
+    ],
+    "metaphor": "A faint imagined figure leaves a visible mark inside a present figure while the two remain spatially separate.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a real effect, an imagined scene",
+      "variant": "fantasy-reality",
+      "composition": {
+        "description": "A faint imagined figure leaves a visible mark inside a present figure while the two remain spatially separate.",
+        "actors": [
+          {
+            "id": "earlier",
+            "type": "figure",
+            "x": 103,
+            "y": 133,
+            "tone": "faint"
+          },
+          {
+            "id": "present",
+            "type": "figure",
+            "x": 273,
+            "y": 140,
+            "tone": "normal"
+          },
+          {
+            "id": "trace",
+            "type": "path",
+            "d": "M132 103 Q188 58 245 104",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "interior",
+            "type": "path",
+            "d": "M263 122 Q286 114 291 136 Q281 153 264 143 Z",
+            "tone": "shade",
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "before",
+            "type": "text",
+            "text": "an attachment",
+            "x": 105,
+            "y": 206
+          },
+          {
+            "id": "after",
+            "type": "text",
+            "text": "a lasting pattern",
+            "x": 281,
+            "y": 212
+          }
+        ]
+      }
+    },
+    "tags": [
+      "hidden life",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-hidden-life",
+      "order": 6
+    },
+    "related": [
+      "freud-multiple-determination",
+      "freud-day-residue"
+    ]
+  },
+  {
+    "id": "freud-day-residue",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "day residue",
+    "title": "Yesterday remains",
+    "statement": "Recent impressions give a dream material to work with.",
+    "explanation": "Freud noticed that dreams often incorporate details from the preceding day. He called these day-residues: recent thoughts or impressions that connect with other concerns during dream formation.",
+    "nuance": "A passing advertisement can furnish a dream's setting while an older worry supplies its emotional force. In Freud's account, recent material and earlier wishes become linked; the visible reference to yesterday need not explain everything.\n\nThis is different from claiming that each dream is a coded prediction. The detail belongs to remembered experience. Freud's theory concerns how memories are selected and transformed, not supernatural information received during sleep.",
+    "sources": [
+      "freud-dreams-4"
+    ],
+    "metaphor": "A recent small detail passes through a gate and connects with branching older associations.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "yesterday remains",
+      "variant": "day-residue",
+      "composition": {
+        "description": "A recent small detail passes through a gate and connects with branching older associations.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M194 43 L193 99 M193 151 L194 210",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M193 101 L213 131 L193 153",
+            "tone": "normal",
+            "motion": {
+              "kind": "turn",
+              "duration": 14,
+              "delay": 0,
+              "angle": -32
+            }
+          },
+          {
+            "id": "idea",
+            "type": "circle",
+            "x": 139,
+            "y": 126,
+            "r": 10,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": 122
+            }
+          },
+          {
+            "id": "word",
+            "type": "text",
+            "text": "available",
+            "x": 286,
+            "y": 188,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-dream-work",
+      "order": 1
+    },
+    "related": [
+      "freud-fantasy-reality",
+      "freud-dream-association"
+    ]
+  },
+  {
+    "id": "freud-dream-association",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "dream association",
+    "title": "Start with the detail",
+    "statement": "A dream image means more when the dreamer speaks around it.",
+    "explanation": "Freud asked people to report associations to separate dream elements. His method differs from assigning each image one universal meaning before hearing about the person's life.",
+    "nuance": "A bridge might lead to a childhood walk, an argument or a phrase heard yesterday. These associations matter because they connect this image to this dreamer's concerns. An interpreter should not simply announce what bridges mean.\n\nFreud also proposed recurring symbols, so his practice was not purely individual association. The tension between those approaches remains worth noticing. A plausible interpretation should explain its route through the material rather than rely on the interpreter's authority.",
+    "sources": [
+      "freud-dreams-4"
+    ],
+    "metaphor": "A small dream detail begins a winding thread on which memories appear in sequence.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "start with the detail",
+      "variant": "dream-association",
+      "composition": {
+        "description": "A small dream detail begins a winding thread on which memories appear in sequence.",
+        "actors": [
+          {
+            "id": "word",
+            "type": "circle",
+            "x": 78,
+            "y": 128,
+            "r": 5,
+            "tone": "normal"
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M83 128 Q128 73 165 117 Q203 169 240 116 Q279 72 320 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "detail",
+            "x": 80,
+            "y": 191
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "memory",
+            "x": 181,
+            "y": 85,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "text": "another thought",
+            "x": 291,
+            "y": 191,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-dream-work",
+      "order": 2
+    },
+    "related": [
+      "freud-day-residue",
+      "freud-dream-censorship"
+    ]
+  },
+  {
+    "id": "freud-dream-censorship",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "dream censorship",
+    "title": "Why the disguise?",
+    "statement": "Freud treated distortion as the trace of a conflict.",
+    "explanation": "Dream-censorship is Freud's name for forces that prevent certain wishes from appearing plainly. His theory explains an obscure dream as a transformed compromise, rather than a wish stated directly.",
+    "nuance": "A hostile feeling toward someone valued might appear through an unrelated character or an altered situation. Freud would connect the disguise with conflict, using the dreamer's associations.\n\nCensorship is a metaphor for mental processes, not an actual guard inspecting thoughts. It is also a contested explanation, especially when any counterexample can be redescribed as further disguise. The useful distinction is between what appears in the dream and the argument offered for why it appears that way.",
+    "sources": [
+      "freud-dreams-4"
+    ],
+    "metaphor": "A direct line meets a narrow doorway and finds a curved route beneath it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "why the disguise?",
+      "variant": "dream-censorship",
+      "composition": {
+        "description": "A direct line meets a narrow doorway and finds a curved route beneath it.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M191 55 L194 179 M209 54 L211 178",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0,
+              "x": 3
+            }
+          },
+          {
+            "id": "pressure",
+            "type": "path",
+            "d": "M95 155 Q82 103 126 86 Q161 71 182 113 Q161 147 131 140 Q122 108 163 112",
+            "tone": "shade",
+            "motion": {
+              "kind": "pulse",
+              "duration": 12,
+              "delay": 0,
+              "scale": 1.08
+            }
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M166 141 Q183 211 244 190 Q291 171 280 114",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "label",
+            "type": "text",
+            "text": "another way through",
+            "x": 260,
+            "y": 215,
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-dream-work",
+      "order": 3
+    },
+    "related": [
+      "freud-dream-association",
+      "freud-dream-limits"
+    ]
+  },
+  {
+    "id": "freud-dream-limits",
+    "thinker": "freud",
+    "collection": "Dream-work",
+    "concept": "dream limits",
+    "title": "The unfinished interpretation",
+    "statement": "A dream need not become completely transparent.",
+    "explanation": "Freud acknowledged a point in dreams where associations become tangled and interpretation reaches a limit. A network of thoughts can extend beyond anything a single account fully reconstructs.",
+    "nuance": "The last unresolved detail is not necessarily a failure of effort. Freud described a dream's connections as branching into the larger life of thought. Interpretation can illuminate some relations without producing a final translation.\n\nThis restraint matters because a confident explanation can be mistaken for exhaustive knowledge. The dreamer may find a connection useful while still questioning the theory used to explain it. Understanding is partial, and unresolved material need not be forced into a neat ending.",
+    "sources": [
+      "freud-dreams-4"
+    ],
+    "metaphor": "Several roots disappear beyond the lower edge beneath one remembered dream image.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the unfinished interpretation",
+      "variant": "dream-limits",
+      "composition": {
+        "description": "Several roots disappear beyond the lower edge beneath one remembered dream image.",
+        "actors": [
+          {
+            "id": "water",
+            "type": "path",
+            "d": "M60 108 Q105 103 147 109 T235 108 T340 107",
+            "tone": "normal"
+          },
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M155 83 L184 57 L226 84 L249 77 L260 103 L154 103 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": -4
+            }
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M169 111 Q137 156 96 171 M190 110 Q180 174 169 194 M220 110 Q240 167 294 192 M242 111 Q278 152 320 158",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 3
+            }
+          },
+          {
+            "id": "surfaceword",
+            "type": "text",
+            "text": "remembered",
+            "x": 297,
+            "y": 76
+          },
+          {
+            "id": "rootsword",
+            "type": "text",
+            "text": "associations",
+            "x": 110,
+            "y": 209,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "dream-work",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-dream-work",
+      "order": 4
+    },
+    "related": [
+      "freud-dream-censorship",
       "freud-unconscious"
     ]
   }
