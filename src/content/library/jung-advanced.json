@@ -3350,74 +3350,257 @@
       "jung-advanced-anima",
       "jung-advanced-types-soul"
     ],
-    "metaphor": "A composed outer outline encloses a different, more fluid form; a dream figure makes the neglected relation visible without fixing the person’s identity.",
+    "metaphor": "An inner dream figure carries a neglected capacity, then the historical gender labels used to explain it are held apart from the actual person.",
     "scene": {
       "kind": "notebook",
       "variant": "anima-animus",
       "caption": "Anima and animus",
-      "composition": {
-        "description": "A composed outer outline encloses a different, more fluid form; a dream figure makes the neglected relation visible without fixing the person’s identity.",
-        "actors": [
+      "lesson": {
+        "description": "An inner dream figure carries a neglected capacity, then the historical gender labels used to explain it are held apart from the actual person.",
+        "beats": [
           {
-            "id": "outer",
-            "type": "path",
-            "d": "M125 187 L128 71 L200 44 L270 74 L274 187 Z"
+            "caption": "A practical identity leaves little room for imaginative or emotional life.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 102,
+                "y": 145
+              },
+              {
+                "id": "identity",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "identity-outline",
+                    "type": "path",
+                    "d": "M-71.5 -61.5 L71.5 -60.5 L70.5 61.5 L-70.5 60.5 Z"
+                  },
+                  {
+                    "id": "identity-word0-line0",
+                    "type": "text",
+                    "text": "only practical",
+                    "x": 0,
+                    "y": -37.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 278,
+                "y": 111
+              }
+            ]
           },
           {
-            "id": "inner",
-            "type": "path",
-            "d": "M153 149 Q126 115 171 102 Q203 65 238 108 Q279 158 222 166 Q177 196 153 149 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A compelling musician appears in dreams.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 102,
+                "y": 145
+              },
+              {
+                "id": "dreamfigure",
+                "type": "figure",
+                "x": 286,
+                "y": 141,
+                "facing": true
+              },
+              {
+                "id": "instrument",
+                "type": "path",
+                "d": "M267 142 Q279 117 298 142 Q314 171 289 180 Q267 174 267 142 Z M288 129 L289 92"
+              },
+              {
+                "id": "inner",
+                "type": "text",
+                "text": "a neglected imaginative life",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "outer identity",
-            "x": 57,
-            "y": 222
+            "caption": "Jung read such inner counterparts through his gendered anima and animus model.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 102,
+                "y": 145
+              },
+              {
+                "id": "dreamfigure",
+                "type": "figure",
+                "x": 286,
+                "y": 141,
+                "facing": true
+              },
+              {
+                "id": "theory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "theory-outline",
+                    "type": "path",
+                    "d": "M-146.5 -25.5 L146.5 -24.5 L145.5 25.5 L-145.5 24.5 Z"
+                  },
+                  {
+                    "id": "theory-word0-line0",
+                    "type": "text",
+                    "text": "Jung’s historical gender model",
+                    "x": 0,
+                    "y": -1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 35
+              }
+            ]
           },
           {
-            "id": "b",
-            "type": "text",
-            "text": "inner relation",
-            "x": 242,
-            "y": 222
+            "caption": "The excluded capacity can be explored while the model’s binary stereotypes are criticized.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 102,
+                "y": 145
+              },
+              {
+                "id": "dreamfigure",
+                "type": "figure",
+                "x": 286,
+                "y": 141,
+                "facing": true
+              },
+              {
+                "id": "theory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "theory-outline",
+                    "type": "path",
+                    "d": "M-146.5 -25.5 L146.5 -24.5 L145.5 25.5 L-145.5 24.5 Z"
+                  },
+                  {
+                    "id": "theory-word0-line0",
+                    "type": "text",
+                    "text": "Jung’s historical gender model",
+                    "x": 0,
+                    "y": -1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 35
+              },
+              {
+                "id": "critique",
+                "type": "text",
+                "text": "the person exceeds the categories",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "The inner figure gives a neglected capacity an image through which it can be considered.",
+        "description": "A dream musician can give form to an imaginative capacity excluded by an entirely practical self-image.",
         "actors": [
           {
             "id": "person",
             "type": "figure",
-            "x": 119,
-            "y": 139
+            "x": 110,
+            "y": 157,
+            "pose": {
+              "scale": 0.75
+            },
+            "facing": false
           },
           {
-            "id": "image",
-            "type": "path",
-            "d": "M245 142 Q217 102 257 72 Q301 98 275 143 Z"
+            "id": "identity",
+            "type": "group",
+            "children": [
+              {
+                "id": "identity-edge",
+                "type": "path",
+                "d": "M-64.5 -17.5 L64.5 -16.5 L63.5 17.5 L-63.5 16.5 Z"
+              },
+              {
+                "id": "identity-text0",
+                "type": "text",
+                "text": "only practical",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 109,
+            "y": 66,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "a",
+            "id": "counterpart",
+            "type": "figure",
+            "x": 288,
+            "y": 157,
+            "pose": {
+              "scale": 0.75
+            },
+            "facing": true
+          },
+          {
+            "id": "music",
+            "type": "group",
+            "children": [
+              {
+                "id": "phrase",
+                "type": "path",
+                "d": "M-52 0 Q-27-38 0 0 Q25 34 54-3"
+              }
+            ],
+            "x": 290,
+            "y": 104,
+            "pose": {
+              "scale": 0.6
+            }
+          },
+          {
+            "id": "one-label",
             "type": "text",
             "text": "known identity",
-            "x": 47,
-            "y": 222
+            "x": 110,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
-            "id": "b",
+            "id": "two-label",
             "type": "text",
-            "text": "neglected qualities",
-            "x": 211,
-            "y": 222
+            "text": "neglected capacity",
+            "x": 288,
+            "y": 224,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -3478,49 +3661,191 @@
     "sources": [
       "jung-advanced-types-image"
     ],
-    "metaphor": "A thought of a closed door forms beside an actually open doorway; the person’s path still stops before the open passage.",
+    "metaphor": "A person’s unverified belief about colleagues changes their actual participation, separating psychological effects from external evidence.",
     "scene": {
       "kind": "notebook",
       "variant": "psychic-reality",
       "caption": "Psychic reality",
-      "composition": {
-        "description": "A thought of a closed door forms beside an actually open doorway; the person’s path still stops before the open passage.",
-        "actors": [
+      "lesson": {
+        "description": "A person’s unverified belief about colleagues changes their actual participation, separating psychological effects from external evidence.",
+        "beats": [
           {
-            "id": "door",
-            "type": "path",
-            "d": "M257 185 L257 57 L326 57 L326 184"
+            "caption": "A person believes their colleagues despise them.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 104,
+                "y": 144
+              },
+              {
+                "id": "colleague",
+                "type": "figure",
+                "x": 291,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "belief",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "belief-outline",
+                    "type": "path",
+                    "d": "M-72.5 -27 L72.5 -27 L72.5 20 L12 20 L0 33 L-1 20 L-72.5 20 Z"
+                  },
+                  {
+                    "id": "belief-words-line0",
+                    "type": "text",
+                    "text": "they hate me",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 111,
+                "y": 40
+              }
+            ]
           },
           {
-            "id": "imagined",
-            "type": "path",
-            "d": "M78 111 L78 59 L132 59 L132 111 Z M120 84 L121 85",
-            "dashed": true
+            "caption": "The belief produces real fear and withdrawal from meetings.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 61,
+                "y": 144
+              },
+              {
+                "id": "colleague",
+                "type": "figure",
+                "x": 291,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "belief",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "belief-outline",
+                    "type": "path",
+                    "d": "M-72.5 -27 L72.5 -27 L72.5 20 L12 20 L0 33 L-1 20 L-72.5 20 Z"
+                  },
+                  {
+                    "id": "belief-words-line0",
+                    "type": "text",
+                    "text": "they hate me",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 91,
+                "y": 40
+              },
+              {
+                "id": "table",
+                "type": "path",
+                "d": "M144 147 L335 147 M177 148 L177 190 M305 148 L305 190"
+              }
+            ]
           },
           {
-            "id": "person",
-            "type": "figure",
-            "x": 173,
-            "y": 137
+            "caption": "The claim about the colleagues still requires external evidence.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 61,
+                "y": 144
+              },
+              {
+                "id": "colleague",
+                "type": "figure",
+                "x": 291,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "evidence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evidence-outline",
+                    "type": "path",
+                    "d": "M-73.0 -49.0 L73.0 -48.0 L72.0 49.0 L-72.0 48.0 Z"
+                  },
+                  {
+                    "id": "evidence-word0-line0",
+                    "type": "text",
+                    "text": "what evidence?",
+                    "x": 0,
+                    "y": -25.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 199,
+                "y": 108
+              }
+            ]
           },
           {
-            "id": "stop",
-            "type": "path",
-            "d": "M155 191 L189 191 M172 182 L173 199"
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "an inner image",
-            "x": 42,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "an actual situation",
-            "x": 220,
-            "y": 222
+            "caption": "The fear and withdrawal are real effects. The accusation still requires evidence.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 61,
+                "y": 144
+              },
+              {
+                "id": "colleague",
+                "type": "figure",
+                "x": 291,
+                "y": 144,
+                "facing": true
+              },
+              {
+                "id": "evidence",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "evidence-outline",
+                    "type": "path",
+                    "d": "M-73.0 -49.0 L73.0 -48.0 L72.0 49.0 L-72.0 48.0 Z"
+                  },
+                  {
+                    "id": "evidence-word0-line0",
+                    "type": "text",
+                    "text": "what evidence?",
+                    "x": 0,
+                    "y": -25.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 199,
+                "y": 108
+              },
+              {
+                "id": "real",
+                "type": "text",
+                "text": "the withdrawal is an actual effect",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -3556,33 +3881,45 @@
         ]
       },
       {
-        "description": "The experience and its external explanation can be investigated separately.",
+        "description": "The nightmare room may have no historical counterpart while its remembered enclosure has real effects.",
         "actors": [
           {
-            "id": "split",
+            "id": "room",
             "type": "path",
-            "d": "M198 60 L198 176"
+            "d": "M53 78L166 78L166 166L53 166Z M90 166L90 107L132 107L132 166"
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "felt experience",
-            "x": 55,
-            "y": 112
+            "id": "person",
+            "type": "figure",
+            "x": 288,
+            "y": 152,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": false
           },
           {
-            "id": "b",
-            "type": "text",
-            "text": "external evidence",
-            "x": 211,
-            "y": 112
+            "id": "fear",
+            "type": "path",
+            "d": "M275 88Q252 120 277 147 M268 90L247 80 M269 141L250 151"
           },
           {
-            "id": "c",
+            "id": "image",
             "type": "text",
-            "text": "two questions",
-            "x": 125,
-            "y": 222
+            "text": "remembered room",
+            "x": 107,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "effect",
+            "type": "text",
+            "text": "present fear",
+            "x": 288,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       }
@@ -3614,68 +3951,142 @@
     "sources": [
       "jung-advanced-alchemy"
     ],
-    "metaphor": "A laboratory vessel changes while a matching interior fragment becomes visible in the observer; both processes remain separately drawn.",
+    "metaphor": "An observer’s hope of inner unity is experienced through a material reaction in an alchemical vessel.",
     "scene": {
       "kind": "notebook",
       "variant": "alchemy-projection",
       "caption": "Alchemy and projection",
-      "composition": {
-        "description": "A laboratory vessel changes while a matching interior fragment becomes visible in the observer; both processes remain separately drawn.",
-        "actors": [
+      "lesson": {
+        "description": "An observer’s hope of inner unity is experienced through a material reaction in an alchemical vessel.",
+        "beats": [
           {
-            "id": "observer",
-            "type": "figure",
-            "x": 91,
-            "y": 140
+            "caption": "An alchemist watches substances change inside a vessel.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 94,
+                "y": 145
+              },
+              {
+                "id": "vessel",
+                "type": "path",
+                "d": "M261 63 L290 63 L290 99 Q339 153 307 181 L243 181 Q213 153 261 100 Z"
+              },
+              {
+                "id": "matter",
+                "type": "path",
+                "d": "M239 153 Q274 134 314 155"
+              }
+            ]
           },
           {
-            "id": "vessel",
-            "type": "path",
-            "d": "M244 65 L276 65 L276 108 Q326 154 295 180 Q258 205 225 178 Q203 153 244 108 Z"
+            "caption": "The reaction is also described through images of conflict, death, and union.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 94,
+                "y": 145
+              },
+              {
+                "id": "vessel",
+                "type": "path",
+                "d": "M261 63 L290 63 L290 99 Q339 153 307 181 L243 181 Q213 153 261 100 Z"
+              },
+              {
+                "id": "matter",
+                "type": "path",
+                "d": "M239 153 Q274 134 314 155"
+              },
+              {
+                "id": "union",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "union-outline",
+                    "type": "path",
+                    "d": "M-57.5 -27 L57.5 -27 L57.5 20 L12 20 L0 33 L-1 20 L-57.5 20 Z"
+                  },
+                  {
+                    "id": "union-words-line0",
+                    "type": "text",
+                    "text": "a union",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 38
+              }
+            ]
           },
           {
-            "id": "matter",
-            "type": "path",
-            "d": "M228 163 Q255 137 296 164",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Jung reads a possible inner drama projected into unknown matter.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 94,
+                "y": 145
+              },
+              {
+                "id": "inner",
+                "type": "path",
+                "d": "M80 113 L95 96 L110 114 L95 135 Z"
+              },
+              {
+                "id": "vessel",
+                "type": "path",
+                "d": "M261 63 L290 63 L290 99 Q339 153 307 181 L243 181 Q213 153 261 100 Z"
+              },
+              {
+                "id": "material-image",
+                "type": "path",
+                "d": "M262 151 L276 134 L291 152 L276 173 Z"
+              }
+            ]
           },
           {
-            "id": "inner",
-            "type": "path",
-            "d": "M78 135 L91 116 L104 136 L91 149 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "matched",
-            "type": "path",
-            "d": "M247 164 L259 145 L272 165 L259 179 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "inner meaning",
-            "x": 45,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "material experiment",
-            "x": 222,
-            "y": 222
+            "caption": "The psychological reading is one interpretation of a wider historical practice.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "observer",
+                "type": "figure",
+                "x": 94,
+                "y": 145
+              },
+              {
+                "id": "inner",
+                "type": "path",
+                "d": "M80 113 L95 96 L110 114 L95 135 Z"
+              },
+              {
+                "id": "vessel",
+                "type": "path",
+                "d": "M261 63 L290 63 L290 99 Q339 153 307 181 L243 181 Q213 153 261 100 Z"
+              },
+              {
+                "id": "material-image",
+                "type": "path",
+                "d": "M262 151 L276 134 L291 152 L276 173 Z"
+              },
+              {
+                "id": "levels",
+                "type": "text",
+                "text": "material event, psychological meaning",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -3707,28 +4118,30 @@
         "description": "Symbolic parallels compare two processes while retaining the distinction between them.",
         "actors": [
           {
-            "id": "a",
+            "id": "a-path-0",
             "type": "path",
             "d": "M82 116 Q112 75 146 113 Q179 150 202 117"
           },
           {
-            "id": "b",
+            "id": "b-path-1",
             "type": "path",
             "d": "M220 116 Q247 76 279 113 Q311 149 336 117"
           },
           {
-            "id": "a",
+            "id": "a-text-2",
             "type": "text",
             "text": "historical process",
             "x": 49,
-            "y": 222
+            "y": 222,
+            "fontSize": 15
           },
           {
-            "id": "b",
+            "id": "b-text-3",
             "type": "text",
             "text": "Jung’s interpretation",
             "x": 205,
-            "y": 222
+            "y": 222,
+            "fontSize": 15
           }
         ]
       }
@@ -3760,93 +4173,292 @@
     "sources": [
       "jung-advanced-transcendent"
     ],
-    "metaphor": "Two distinct speech-shaped spaces exchange different marks; a shared work surface receives their contributions without either space disappearing.",
+    "metaphor": "An inner figure’s demand is given a conscious answer that preserves neglected freedom while considering actual commitments.",
     "scene": {
       "kind": "notebook",
       "variant": "inner-dialogue",
       "caption": "Conscious–unconscious dialogue",
-      "composition": {
-        "description": "Two distinct speech-shaped spaces exchange different marks; a shared work surface receives their contributions without either space disappearing.",
-        "actors": [
+      "lesson": {
+        "description": "An inner figure’s demand is given a conscious answer that preserves neglected freedom while considering actual commitments.",
+        "beats": [
           {
-            "id": "speech-a",
-            "type": "path",
-            "d": "M59 68 L163 68 L163 121 L130 121 L112 144 L111 121 L59 121 Z"
+            "caption": "An inner figure demands that the person abandon every commitment and travel.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 105,
+                "y": 145
+              },
+              {
+                "id": "image",
+                "type": "figure",
+                "x": 291,
+                "y": 145,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "demand",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "demand-outline",
+                    "type": "path",
+                    "d": "M-83.0 -27 L83.0 -27 L83.0 20 L12 20 L0 33 L-1 20 L-83.0 20 Z"
+                  },
+                  {
+                    "id": "demand-words-line0",
+                    "type": "text",
+                    "text": "leave everything",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 284,
+                "y": 40
+              }
+            ]
           },
           {
-            "id": "speech-b",
-            "type": "path",
-            "d": "M237 68 L341 68 L341 121 L291 121 L291 142 L271 121 L237 121 Z"
+            "caption": "The person asks what missing freedom the demand expresses.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 105,
+                "y": 145
+              },
+              {
+                "id": "image",
+                "type": "figure",
+                "x": 291,
+                "y": 145,
+                "tone": "faint",
+                "facing": true
+              },
+              {
+                "id": "question",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "question-outline",
+                    "type": "path",
+                    "d": "M-80.0 -27 L80.0 -27 L80.0 20 L12 20 L0 33 L-1 20 L-80.0 20 Z"
+                  },
+                  {
+                    "id": "question-words-line0",
+                    "type": "text",
+                    "text": "what freedom?",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 111,
+                "y": 40
+              }
+            ]
           },
           {
-            "id": "question",
-            "type": "path",
-            "d": "M86 91 Q104 74 118 94 Q123 108 106 111 M106 118 L107 119"
+            "caption": "A conscious answer considers obligations and possible changes.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 105,
+                "y": 145
+              },
+              {
+                "id": "response",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "response-outline",
+                    "type": "path",
+                    "d": "M-77.5 -59.0 L77.5 -58.0 L76.5 59.0 L-76.5 58.0 Z"
+                  },
+                  {
+                    "id": "response-word0-line0",
+                    "type": "text",
+                    "text": "more freedom",
+                    "x": 0,
+                    "y": -35.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "response-word1-line0",
+                    "type": "text",
+                    "text": "real",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "response-word1-line1",
+                    "type": "text",
+                    "text": "commitments",
+                    "x": 0,
+                    "y": 5.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 275,
+                "y": 111
+              }
+            ]
           },
           {
-            "id": "reply",
-            "type": "path",
-            "d": "M265 92 L313 94 M265 105 L301 105",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "surface",
-            "type": "path",
-            "d": "M127 177 Q201 164 274 177 M145 174 L145 194 M259 174 L259 194",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "an inner demand",
-            "x": 45,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "a conscious answer",
-            "x": 224,
-            "y": 222
+            "caption": "Dialogue makes a demand available for judgment instead of granting it exclusive authority.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 105,
+                "y": 145
+              },
+              {
+                "id": "response",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "response-outline",
+                    "type": "path",
+                    "d": "M-77.5 -59.0 L77.5 -58.0 L76.5 59.0 L-76.5 58.0 Z"
+                  },
+                  {
+                    "id": "response-word0-line0",
+                    "type": "text",
+                    "text": "a considered",
+                    "x": 0,
+                    "y": -35.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "response-word0-line1",
+                    "type": "text",
+                    "text": "change",
+                    "x": 0,
+                    "y": -15.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 275,
+                "y": 111
+              },
+              {
+                "id": "answer",
+                "type": "text",
+                "text": "a responding consciousness remains",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "Recording an image and deciding how to respond are successive responsibilities.",
+        "description": "An inner demand is heard by a responding consciousness that still asks how to act.",
         "actors": [
           {
-            "id": "image",
+            "id": "person",
+            "type": "figure",
+            "x": 106,
+            "y": 158,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": false
+          },
+          {
+            "id": "inner",
+            "type": "figure",
+            "x": 294,
+            "y": 158,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": true
+          },
+          {
+            "id": "demand",
+            "type": "group",
+            "children": [
+              {
+                "id": "demand-edge",
+                "type": "path",
+                "d": "M-69 -19 L69 -18 L68 19 L-68 18 Z"
+              },
+              {
+                "id": "demand-text0",
+                "type": "text",
+                "text": "leave everything",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 292,
+            "y": 52,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "reply",
+            "type": "group",
+            "children": [
+              {
+                "id": "reply-edge",
+                "type": "path",
+                "d": "M-64.5 -19.0 L64.5 -18.0 L63.5 19.0 L-63.5 18.0 Z"
+              },
+              {
+                "id": "reply-text0",
+                "type": "text",
+                "text": "what freedom?",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 108,
+            "y": 52,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "relation",
             "type": "path",
-            "d": "M95 113 L117 83 L141 115 L117 147 Z"
+            "d": "M124 178Q200 200 274 177"
           },
           {
-            "id": "page",
-            "type": "path",
-            "d": "M231 73 L303 73 L303 168 L231 168 Z M243 95 L290 95 M243 119 L283 119"
-          },
-          {
-            "id": "a",
+            "id": "remain",
             "type": "text",
-            "text": "express",
-            "x": 79,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "consider",
-            "x": 231,
-            "y": 222
+            "text": "two positions remain in relation",
+            "x": 200,
+            "y": 232,
+            "anchor": "middle",
+            "fontSize": 14
           }
         ]
       },
@@ -3854,7 +4466,7 @@
         "description": "A dialogue preserves two positions while developing an action accountable to present life.",
         "actors": [
           {
-            "id": "a",
+            "id": "a-circle-0",
             "type": "circle",
             "x": 111,
             "y": 111,
@@ -3871,7 +4483,7 @@
             "d": "M135 123 Q204 172 263 123 M173 175 L232 175"
           },
           {
-            "id": "a",
+            "id": "a-text-3",
             "type": "text",
             "text": "a shared decision",
             "x": 119,
@@ -3907,112 +4519,566 @@
     "sources": [
       "jung-advanced-mandala"
     ],
-    "metaphor": "Four displaced forms approach four places around an empty courtyard; the courtyard gives them an arrangement while their outlines remain different.",
+    "metaphor": "Disconnected commitments are placed around a courtyard that makes their relationships visible while their distinct rooms remain.",
     "scene": {
       "kind": "notebook",
       "variant": "mandala-ordering",
       "caption": "Mandala and ordering",
-      "composition": {
-        "description": "Four displaced forms approach four places around an empty courtyard; the courtyard gives them an arrangement while their outlines remain different.",
-        "actors": [
+      "lesson": {
+        "description": "Disconnected commitments are placed around a courtyard that makes their relationships visible while their distinct rooms remain.",
+        "beats": [
           {
-            "id": "centre",
-            "type": "path",
-            "d": "M162 89 L238 90 L237 164 L163 162 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Work, affection, solitude, and bodily life feel scattered.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "work-word0-line0",
+                    "type": "text",
+                    "text": "work",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 93,
+                "y": 65
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "love-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "love-word0-line0",
+                    "type": "text",
+                    "text": "affection",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 303,
+                "y": 89
+              },
+              {
+                "id": "alone",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "alone-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "alone-word0-line0",
+                    "type": "text",
+                    "text": "solitude",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 97,
+                "y": 175
+              },
+              {
+                "id": "body",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "body-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "body-word0-line0",
+                    "type": "text",
+                    "text": "body",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 284,
+                "y": 181
+              }
+            ]
           },
           {
-            "id": "north",
-            "type": "circle",
-            "x": 200,
-            "y": 57,
-            "r": 15
+            "caption": "An image arranges these different areas around a shared centre.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "work-word0-line0",
+                    "type": "text",
+                    "text": "work",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 43
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "love-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "love-word0-line0",
+                    "type": "text",
+                    "text": "affection",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 313,
+                "y": 123
+              },
+              {
+                "id": "alone",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "alone-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "alone-word0-line0",
+                    "type": "text",
+                    "text": "solitude",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 87,
+                "y": 123
+              },
+              {
+                "id": "body",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "body-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "body-word0-line0",
+                    "type": "text",
+                    "text": "body",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 205
+              },
+              {
+                "id": "court",
+                "type": "path",
+                "d": "M162 83 L238 83 L238 163 L162 163 Z"
+              }
+            ]
           },
           {
-            "id": "west",
-            "type": "path",
-            "d": "M84 126 L108 105 L130 129 L107 148 Z"
+            "caption": "Each area keeps a place within the wider relation.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "work-word0-line0",
+                    "type": "text",
+                    "text": "work",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 43
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "love-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "love-word0-line0",
+                    "type": "text",
+                    "text": "affection",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 313,
+                "y": 123
+              },
+              {
+                "id": "alone",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "alone-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "alone-word0-line0",
+                    "type": "text",
+                    "text": "solitude",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 87,
+                "y": 123
+              },
+              {
+                "id": "body",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "body-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "body-word0-line0",
+                    "type": "text",
+                    "text": "body",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 205
+              },
+              {
+                "id": "court",
+                "type": "path",
+                "d": "M162 83 L238 83 L238 163 L162 163 Z"
+              },
+              {
+                "id": "centre",
+                "type": "circle",
+                "x": 200,
+                "y": 123,
+                "r": 5
+              }
+            ]
           },
           {
-            "id": "east",
-            "type": "path",
-            "d": "M275 111 L308 111 L308 143 L275 143 Z"
-          },
-          {
-            "id": "south",
-            "type": "path",
-            "d": "M184 209 Q182 174 201 174 Q222 176 219 209 Z"
-          },
-          {
-            "id": "relations",
-            "type": "path",
-            "d": "M200 72 L200 86 M132 126 L157 126 M242 126 L272 126 M201 168 L201 173",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "distinct elements",
-            "x": 34,
-            "y": 235
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "one relation",
-            "x": 270,
-            "y": 235
+            "caption": "The image expresses a search for order; it does not certify lasting psychological balance.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "work",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "work-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "work-word0-line0",
+                    "type": "text",
+                    "text": "work",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 43
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "love-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "love-word0-line0",
+                    "type": "text",
+                    "text": "affection",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 313,
+                "y": 123
+              },
+              {
+                "id": "alone",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "alone-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "alone-word0-line0",
+                    "type": "text",
+                    "text": "solitude",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 87,
+                "y": 123
+              },
+              {
+                "id": "body",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "body-outline",
+                    "type": "path",
+                    "d": "M-45.5 -26.0 L45.5 -25.0 L44.5 26.0 L-44.5 25.0 Z"
+                  },
+                  {
+                    "id": "body-word0-line0",
+                    "type": "text",
+                    "text": "body",
+                    "x": 0,
+                    "y": -2.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 205
+              },
+              {
+                "id": "court",
+                "type": "path",
+                "d": "M162 83 L238 83 L238 163 L162 163 Z"
+              },
+              {
+                "id": "centre-word",
+                "type": "text",
+                "text": "shared",
+                "x": 200,
+                "y": 116,
+                "anchor": "middle",
+                "fontSize": 13
+              },
+              {
+                "id": "centre-word2",
+                "type": "text",
+                "text": "centre",
+                "x": 200,
+                "y": 136,
+                "anchor": "middle",
+                "fontSize": 13
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "A centre organizes differences into a shared field without erasing their identities.",
+        "description": "Four distinct rooms receive places around a shared courtyard; their different functions remain legible.",
         "actors": [
           {
+            "id": "work",
+            "type": "group",
+            "children": [
+              {
+                "id": "work-edge",
+                "type": "path",
+                "d": "M-44.0 -28.0 L44.0 -27.0 L43.0 28.0 L-43.0 27.0 Z"
+              },
+              {
+                "id": "work-text0",
+                "type": "text",
+                "text": "work",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 112,
+            "y": 95,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "affection",
+            "type": "group",
+            "children": [
+              {
+                "id": "affection-edge",
+                "type": "path",
+                "d": "M-50.5 -28.0 L50.5 -27.0 L49.5 28.0 L-49.5 27.0 Z"
+              },
+              {
+                "id": "affection-text0",
+                "type": "text",
+                "text": "affection",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 290,
+            "y": 95,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "body",
+            "type": "group",
+            "children": [
+              {
+                "id": "body-edge",
+                "type": "path",
+                "d": "M-50.5 -28.0 L50.5 -27.0 L49.5 28.0 L-49.5 27.0 Z"
+              },
+              {
+                "id": "body-text0",
+                "type": "text",
+                "text": "body",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 289,
+            "y": 174,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "solitude",
+            "type": "group",
+            "children": [
+              {
+                "id": "solitude-edge",
+                "type": "path",
+                "d": "M-44.0 -28.0 L44.0 -27.0 L43.0 28.0 L-43.0 27.0 Z"
+              },
+              {
+                "id": "solitude-text0",
+                "type": "text",
+                "text": "solitude",
+                "x": 0,
+                "y": 5,
+                "anchor": "middle",
+                "fontSize": 14
+              }
+            ],
+            "x": 112,
+            "y": 174,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
             "id": "centre",
-            "type": "circle",
-            "x": 200,
-            "y": 126,
-            "r": 7
+            "type": "group",
+            "children": [
+              {
+                "id": "centre-edge",
+                "type": "path",
+                "d": "M-24.5 -17.5 L24.5 -16.5 L23.5 17.5 L-23.5 16.5 Z"
+              }
+            ],
+            "x": 201,
+            "y": 135,
+            "pose": {
+              "scale": 1
+            }
           },
           {
-            "id": "axis",
+            "id": "paths",
             "type": "path",
-            "d": "M200 82 L200 117 M200 135 L200 169 M151 126 L191 126 M209 126 L249 126"
+            "d": "M157 97L176 123 M240 97L225 123 M156 173L176 147 M239 172L226 147"
           },
           {
-            "id": "a",
-            "type": "circle",
-            "x": 200,
-            "y": 69,
-            "r": 11
-          },
-          {
-            "id": "b",
-            "type": "path",
-            "d": "M261 113 L283 113 L283 138 L261 138 Z"
-          },
-          {
-            "id": "c",
-            "type": "path",
-            "d": "M184 187 L201 172 L216 192 Z"
-          },
-          {
-            "id": "a",
+            "id": "courtyard",
             "type": "text",
-            "text": "relationship creates order",
-            "x": 91,
-            "y": 222
+            "text": "a shared courtyard",
+            "x": 200,
+            "y": 227,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -4080,48 +5146,205 @@
     "sources": [
       "jung-advanced-wholeness"
     ],
-    "metaphor": "A flawless-looking outer contour leaves a difficult fragment outside; an enlarged irregular contour brings the fragment into relation with the rest without smoothing it away.",
+    "metaphor": "A parent’s ideal of endless consideration excludes anger; admitting the feeling makes restraint and responsibility more available.",
     "scene": {
       "kind": "notebook",
       "variant": "wholeness",
       "caption": "Wholeness and perfection",
-      "composition": {
-        "description": "A flawless-looking outer contour leaves a difficult fragment outside; an enlarged irregular contour brings the fragment into relation with the rest without smoothing it away.",
-        "actors": [
+      "lesson": {
+        "description": "A parent’s ideal of endless consideration excludes anger; admitting the feeling makes restraint and responsibility more available.",
+        "beats": [
           {
-            "id": "ideal",
-            "type": "path",
-            "d": "M115 87 Q198 41 276 91 Q301 155 265 183 Q198 213 126 182 Q91 150 115 87 Z",
-            "tone": "faint"
+            "caption": "A parent wants to be considerate at every moment.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 197,
+                "y": 146
+              },
+              {
+                "id": "ideal",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ideal-outline",
+                    "type": "path",
+                    "d": "M-105.0 -27 L105.0 -27 L105.0 20 L12 20 L0 33 L-1 20 L-105.0 20 Z"
+                  },
+                  {
+                    "id": "ideal-words-line0",
+                    "type": "text",
+                    "text": "always considerate",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 39
+              }
+            ]
           },
           {
-            "id": "difficult",
-            "type": "path",
-            "d": "M287 149 L308 129 L331 152 L310 176 Z"
+            "caption": "Anger is excluded from the acceptable self-image.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 197,
+                "y": 146
+              },
+              {
+                "id": "ideal",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ideal-outline",
+                    "type": "path",
+                    "d": "M-105.0 -27 L105.0 -27 L105.0 20 L12 20 L0 33 L-1 20 L-105.0 20 Z"
+                  },
+                  {
+                    "id": "ideal-words-line0",
+                    "type": "text",
+                    "text": "always considerate",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 39
+              },
+              {
+                "id": "anger",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "anger-outline",
+                    "type": "path",
+                    "d": "M-41.0 -32.0 L41.0 -31.0 L40.0 32.0 L-40.0 31.0 Z"
+                  },
+                  {
+                    "id": "anger-word0-line0",
+                    "type": "text",
+                    "text": "anger",
+                    "x": 0,
+                    "y": -8.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 314,
+                "y": 125
+              },
+              {
+                "id": "excluded",
+                "type": "path",
+                "d": "M292 102 L336 146 M336 102 L292 146"
+              }
+            ]
           },
           {
-            "id": "whole",
-            "type": "path",
-            "d": "M113 88 Q191 41 276 86 Q306 100 341 128 Q362 166 328 183 Q288 206 263 188 Q190 223 116 184 Q88 152 113 88 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "It still influences behavior through withdrawal or rigid control.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 197,
+                "y": 146
+              },
+              {
+                "id": "effect",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "effect-outline",
+                    "type": "path",
+                    "d": "M-50.0 -36.5 L50.0 -35.5 L49.0 36.5 L-49.0 35.5 Z"
+                  },
+                  {
+                    "id": "effect-word0-line0",
+                    "type": "text",
+                    "text": "control",
+                    "x": 0,
+                    "y": -12.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 83,
+                "y": 119
+              },
+              {
+                "id": "anger-mark",
+                "type": "path",
+                "d": "M194 106 Q207 112 201 120 Q192 127 207 133"
+              },
+              {
+                "id": "anger-label",
+                "type": "text",
+                "text": "anger",
+                "x": 295,
+                "y": 127,
+                "anchor": "middle",
+                "fontSize": 17
+              },
+              {
+                "id": "anger-link",
+                "type": "path",
+                "d": "M214 119 L260 119",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "a known limit",
-            "x": 45,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "a wider responsibility",
-            "x": 210,
-            "y": 222
+            "caption": "Recognizing anger makes it available for restraint, understanding, and responsibility.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 197,
+                "y": 146
+              },
+              {
+                "id": "recognition",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "recognition-outline",
+                    "type": "path",
+                    "d": "M-85.0 -27 L85.0 -27 L85.0 20 L12 20 L0 33 L-1 20 L-85.0 20 Z"
+                  },
+                  {
+                    "id": "recognition-words-line0",
+                    "type": "text",
+                    "text": "I am angry.",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 39
+              },
+              {
+                "id": "responsibility",
+                "type": "text",
+                "text": "a feeling to understand and restrain",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
@@ -4159,29 +5382,64 @@
         ]
       },
       {
-        "description": "An admitted difficulty becomes available for judgment and restraint.",
+        "description": "A parent can recognize anger while placing a limit on its enactment toward the child.",
         "actors": [
           {
-            "id": "field",
-            "type": "path",
-            "d": "M90 73 L306 73 L306 166 L90 166 Z"
+            "id": "parent",
+            "type": "figure",
+            "x": 112,
+            "y": 158,
+            "pose": {
+              "scale": 0.85
+            },
+            "facing": false
           },
           {
-            "id": "difficulty",
-            "type": "path",
-            "d": "M175 112 L197 91 L220 117 L197 143 Z"
+            "id": "child",
+            "type": "figure",
+            "x": 302,
+            "y": 159,
+            "pose": {
+              "scale": 0.5
+            },
+            "facing": true
           },
           {
-            "id": "response",
+            "id": "feeling",
             "type": "path",
-            "d": "M247 93 L247 149"
+            "d": "M121 108Q132 120 120 133"
           },
           {
-            "id": "a",
+            "id": "limit",
+            "type": "path",
+            "d": "M218 91L218 177"
+          },
+          {
+            "id": "anger",
             "type": "text",
-            "text": "recognition and responsibility",
-            "x": 65,
-            "y": 222
+            "text": "anger recognized",
+            "x": 112,
+            "y": 45,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "restraint",
+            "type": "text",
+            "text": "conduct restrained",
+            "x": 291,
+            "y": 45,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "responsibility",
+            "type": "text",
+            "text": "recognition makes response possible",
+            "x": 200,
+            "y": 228,
+            "anchor": "middle",
+            "fontSize": 14
           }
         ]
       }
@@ -4213,101 +5471,388 @@
     "sources": [
       "jung-advanced-synchronicity"
     ],
-    "metaphor": "Two independent timelines show a matching bird-shaped mark at the same moment; an enclosing bracket names the experienced meaning while no causal line connects the events.",
+    "metaphor": "A remembered thought about a friend coincides with a message, while matching and nonmatching occasions remain available for evaluation.",
     "scene": {
       "kind": "notebook",
       "variant": "synchronicity",
       "caption": "Synchronicity",
-      "composition": {
-        "description": "Two independent timelines show a matching bird-shaped mark at the same moment; an enclosing bracket names the experienced meaning while no causal line connects the events.",
-        "actors": [
+      "lesson": {
+        "description": "A remembered thought about a friend coincides with a message, while matching and nonmatching occasions remain available for evaluation.",
+        "beats": [
           {
-            "id": "time-a",
-            "type": "path",
-            "d": "M69 89 L329 89"
+            "caption": "A person thinks about an old friend.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 103,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thought-outline",
+                    "type": "path",
+                    "d": "M-78.5 -27 L78.5 -27 L78.5 20 L12 20 L0 33 L-1 20 L-78.5 20 Z"
+                  },
+                  {
+                    "id": "thought-words-line0",
+                    "type": "text",
+                    "text": "an old friend",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 107,
+                "y": 42
+              },
+              {
+                "id": "phone",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "phone-outline",
+                    "type": "path",
+                    "d": "M-30.5 -56.0 L30.5 -55.0 L29.5 56.0 L-29.5 55.0 Z"
+                  },
+                  {
+                    "id": "phone-lines",
+                    "type": "path",
+                    "d": "M-17.5 -24 L15.5 -24 M-17.5 -5 L17.5 -5 M-17.5 15 L8.5 15",
+                    "tone": "faint"
+                  }
+                ],
+                "x": 287,
+                "y": 113
+              }
+            ]
           },
           {
-            "id": "time-b",
-            "type": "path",
-            "d": "M69 161 L329 161"
+            "caption": "A message arrives at that moment. The coincidence feels meaningful.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 103,
+                "y": 145
+              },
+              {
+                "id": "thought",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thought-outline",
+                    "type": "path",
+                    "d": "M-78.5 -27 L78.5 -27 L78.5 20 L12 20 L0 33 L-1 20 L-78.5 20 Z"
+                  },
+                  {
+                    "id": "thought-words-line0",
+                    "type": "text",
+                    "text": "an old friend",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 107,
+                "y": 42
+              },
+              {
+                "id": "phone",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "phone-outline",
+                    "type": "path",
+                    "d": "M-46.5 -56.0 L46.5 -55.0 L45.5 56.0 L-45.5 55.0 Z"
+                  },
+                  {
+                    "id": "phone-word0-line0",
+                    "type": "text",
+                    "text": "a",
+                    "x": 0,
+                    "y": -32.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "phone-word0-line1",
+                    "type": "text",
+                    "text": "message",
+                    "x": 0,
+                    "y": -12.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 287,
+                "y": 113
+              },
+              {
+                "id": "match",
+                "type": "text",
+                "text": "a striking match",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           },
           {
-            "id": "inner-bird",
-            "type": "path",
-            "d": "M183 82 Q199 62 207 78 Q222 64 236 80 M207 78 L209 90",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Many other thoughts had no matching message.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "thoughts",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thoughts-outline",
+                    "type": "path",
+                    "d": "M-69.5 -62.5 L69.5 -61.5 L68.5 62.5 L-68.5 61.5 Z"
+                  },
+                  {
+                    "id": "thoughts-word0-line0",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": -38.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "thoughts-word1-line0",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": -18.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "thoughts-word2-line0",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": 1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 126,
+                "y": 111
+              },
+              {
+                "id": "messages",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "messages-outline",
+                    "type": "path",
+                    "d": "M-61.5 -62.5 L61.5 -61.5 L60.5 62.5 L-60.5 61.5 Z"
+                  },
+                  {
+                    "id": "messages-word0-line0",
+                    "type": "text",
+                    "text": "—",
+                    "x": 0,
+                    "y": -38.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "messages-word1-line0",
+                    "type": "text",
+                    "text": "message",
+                    "x": 0,
+                    "y": -18.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "messages-word2-line0",
+                    "type": "text",
+                    "text": "—",
+                    "x": 0,
+                    "y": 1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 111
+              }
+            ]
           },
           {
-            "id": "outer-bird",
-            "type": "path",
-            "d": "M183 154 Q199 134 207 150 Q222 136 236 152 M207 150 L209 162",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "bracket",
-            "type": "path",
-            "d": "M169 54 L154 54 L154 187 L169 187 M250 54 L265 54 L265 187 L250 187",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "a",
-            "type": "text",
-            "text": "inner event",
-            "x": 54,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "outer event",
-            "x": 255,
-            "y": 222
+            "caption": "Personal meaning and evidence for Jung’s acausal explanation are different questions.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "thoughts",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "thoughts-outline",
+                    "type": "path",
+                    "d": "M-69.5 -62.5 L69.5 -61.5 L68.5 62.5 L-68.5 61.5 Z"
+                  },
+                  {
+                    "id": "thoughts-word0-line0",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": -38.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "thoughts-word1-line0",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": -18.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "thoughts-word2-line0",
+                    "type": "text",
+                    "text": "thought",
+                    "x": 0,
+                    "y": 1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 126,
+                "y": 111
+              },
+              {
+                "id": "messages",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "messages-outline",
+                    "type": "path",
+                    "d": "M-61.5 -62.5 L61.5 -61.5 L60.5 62.5 L-60.5 61.5 Z"
+                  },
+                  {
+                    "id": "messages-word0-line0",
+                    "type": "text",
+                    "text": "—",
+                    "x": 0,
+                    "y": -38.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "messages-word1-line0",
+                    "type": "text",
+                    "text": "message",
+                    "x": 0,
+                    "y": -18.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "messages-word2-line0",
+                    "type": "text",
+                    "text": "—",
+                    "x": 0,
+                    "y": 1.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 111
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "text": "meaning and explanation need separating",
+                "x": 200,
+                "y": 234,
+                "anchor": "middle",
+                "fontSize": 15
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "Temporal coincidence joins two observations without demonstrating that one caused the other.",
+        "description": "A bird in a dream and a bird later encountered may form a striking resemblance; similarity leaves causation open.",
         "actors": [
           {
-            "id": "times",
+            "id": "dream",
+            "type": "group",
+            "children": [
+              {
+                "id": "dream-edge",
+                "type": "path",
+                "d": "M-52.5 -50.0 L52.5 -49.0 L51.5 50.0 L-51.5 49.0 Z"
+              }
+            ],
+            "x": 111,
+            "y": 118,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "event",
+            "type": "group",
+            "children": [
+              {
+                "id": "event-edge",
+                "type": "path",
+                "d": "M-52.5 -50.0 L52.5 -49.0 L51.5 50.0 L-51.5 49.0 Z"
+              }
+            ],
+            "x": 292,
+            "y": 118,
+            "pose": {
+              "scale": 1
+            }
+          },
+          {
+            "id": "bird1",
             "type": "path",
-            "d": "M79 96 L322 96 M79 159 L322 159 M201 82 L201 174",
-            "dashed": true
+            "d": "M78 126Q95 110 111 130Q124 110 145 126 M110 130L110 140"
+          },
+          {
+            "id": "bird2",
+            "type": "path",
+            "d": "M262 126Q278 110 294 130Q307 110 328 126 M293 130L293 140"
           },
           {
             "id": "one",
-            "type": "circle",
-            "x": 201,
-            "y": 96,
-            "r": 7
+            "type": "text",
+            "text": "a dream image",
+            "x": 111,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 16
           },
           {
             "id": "two",
-            "type": "circle",
-            "x": 201,
-            "y": 159,
-            "r": 7
-          },
-          {
-            "id": "a",
             "type": "text",
-            "text": "same time",
-            "x": 148,
-            "y": 222
+            "text": "a later encounter",
+            "x": 292,
+            "y": 218,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -4392,77 +5937,238 @@
     "title": "The experience and its form",
     "statement": "A living experience of meaning and a doctrine about it can have different histories.",
     "explanation": "Jung distinguished religious experience from the creeds that organize and preserve it. He studied their psychological effects while often insisting that psychology cannot settle their ultimate metaphysical truth.",
-    "nuance": "A ritual or encounter can alter how a person experiences suffering, obligation, or belonging. A creed gives such experiences an inherited form: words, images, practices, and institutions through which their meaning is shared. Jung treats these as related but distinguishable. Someone can repeat a doctrine while feeling little of the experience it organizes; another can undergo a compelling experience while lacking a doctrine that explains it. His psychological inquiry asks what each does in the person’s life and how they relate.\n\nImagine returning to a childhood ceremony after a bereavement. Familiar words may become significant in a new way, although the words themselves have not changed. Alternatively, an inherited statement may cease to carry the meaning it once had. This is an example of a changing relation to symbolic form, rather than an argument for abandoning tradition. Religious communities have intellectual, ethical, and social histories as well as psychological effects, and their members may understand the ceremony differently from an analyst.\n\nJung’s writing moves between careful limits and broader speculations, so his position should not be flattened into either atheism or a proof of religion. Describing the psychological actuality of a God-image leaves the existence of God as another question. A doctrine’s emotional usefulness also does not establish its truth or its moral adequacy. The valuable distinction is between attending to an experience of meaning and deciding which claims about that experience one has reason to accept.",
+    "nuance": "A ritual or encounter can alter how a person experiences suffering, obligation, or belonging. A creed gives such experiences an inherited form: words, images, practices, and institutions through which their meaning is shared. Jung treats these as related but distinguishable. Someone can repeat a doctrine while feeling little of the experience it organizes; another can undergo a compelling experience while lacking a doctrine that explains it. His psychological inquiry asks what each does in the person’s life and how they relate.\n\nImagine returning to a childhood ceremony after a bereavement. Familiar words may become significant in a new way, although the words themselves have not changed. Alternatively, an inherited statement may cease to carry the meaning it once had. The example concerns a changing relation to an inherited symbolic form. Religious communities have intellectual, ethical, and social histories as well as psychological effects, and their members may understand the ceremony differently from an analyst.\n\nJung’s writing moves between careful limits and broader speculations, so his position should not be flattened into either atheism or a proof of religion. Describing the psychological actuality of a God-image leaves the existence of God as another question. A doctrine’s emotional usefulness also does not establish its truth or its moral adequacy. The valuable distinction is between attending to an experience of meaning and deciding which claims about that experience one has reason to accept.",
     "reflection": "Have the words changed, or has the experience they carry changed?",
     "sources": [
       "jung-advanced-religion"
     ],
-    "metaphor": "An inherited frame remains stable while the living mark within it changes shape, separating continuity of doctrine from change in experience.",
+    "metaphor": "The same inherited ceremony is encountered after grief and acquires new psychological significance while its words remain unchanged.",
     "scene": {
       "kind": "notebook",
       "variant": "meaning-belief",
       "caption": "Experience and creed",
-      "composition": {
-        "description": "An inherited frame remains stable while the living mark within it changes shape, separating continuity of doctrine from change in experience.",
-        "actors": [
+      "lesson": {
+        "description": "The same inherited ceremony is encountered after grief and acquires new psychological significance while its words remain unchanged.",
+        "beats": [
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M111 62 L289 63 L289 182 L111 182 Z"
+            "caption": "A familiar ceremony once carried little personal force.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "ceremony",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ceremony-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "ceremony-label",
+                    "type": "text",
+                    "text": "familiar words",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 111
+              }
+            ]
           },
           {
-            "id": "words",
-            "type": "path",
-            "d": "M134 79 L266 79 M134 167 L266 167",
-            "tone": "faint"
+            "caption": "After a bereavement, the person returns to the same words.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "ceremony",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ceremony-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "ceremony-label",
+                    "type": "text",
+                    "text": "the same words",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 111
+              },
+              {
+                "id": "grief",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "grief-rays",
+                    "type": "path",
+                    "d": "M-20 0 L-10 0 M10 0 L20 0 M0 -20 L0 -10 M0 10 L0 20 M-15 -15 L-8 -8 M8 8 L15 15 M-15 15 L-8 8 M8 -8 L15 -15"
+                  }
+                ],
+                "x": 96,
+                "y": 121
+              }
+            ]
           },
           {
-            "id": "experience",
-            "type": "path",
-            "d": "M160 121 Q184 86 207 122 Q230 155 251 120",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "The words now carry a changed experience of meaning.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "ceremony",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ceremony-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "ceremony-label",
+                    "type": "text",
+                    "text": "new significance",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 111
+              },
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M55 70 Q200 20 348 71 L348 186 Q200 222 55 185",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "inherited form",
-            "x": 53,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "living experience",
-            "x": 228,
-            "y": 222
+            "caption": "Jung distinguishes living experience, inherited creed, and claims about ultimate truth.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "person",
+                "type": "figure",
+                "x": 95,
+                "y": 145
+              },
+              {
+                "id": "ceremony",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "ceremony-pages",
+                    "type": "path",
+                    "d": "M-53 -38 Q-27 -51 0 -35 Q26 -49 53 -38 L53 38 Q25 24 0 38 Q-27 25 -53 38 Z M0 -35 L0 38"
+                  },
+                  {
+                    "id": "ceremony-label",
+                    "type": "text",
+                    "text": "new significance",
+                    "x": 0,
+                    "y": 64,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 280,
+                "y": 111
+              },
+              {
+                "id": "questions",
+                "type": "text",
+                "text": "experience, form, and truth differ",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "An unchanged form can carry a newly significant experience.",
+        "description": "An inherited ceremony supplies a form through which a changed lived experience can become significant.",
         "actors": [
           {
-            "id": "frame",
-            "type": "path",
-            "d": "M105 71 L294 71 L294 159 L105 159 Z"
+            "id": "words",
+            "type": "group",
+            "children": [
+              {
+                "id": "book-edge",
+                "type": "path",
+                "d": "M-45-30 Q-23-43 0-30 Q22-42 46-31 L46 35 Q23 24 0 34 Q-23 25-45 35 Z M0-30L0 34"
+              }
+            ],
+            "x": 111,
+            "y": 117,
+            "pose": {
+              "scale": 0.9
+            }
           },
           {
-            "id": "alive",
-            "type": "path",
-            "d": "M126 116 Q158 74 195 116 Q231 155 275 113"
+            "id": "person",
+            "type": "figure",
+            "x": 288,
+            "y": 153,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": false
           },
           {
-            "id": "a",
+            "id": "held",
+            "type": "path",
+            "d": "M307 112Q328 113 334 136Q328 157 305 157 M288 88L288 105"
+          },
+          {
+            "id": "form",
             "type": "text",
-            "text": "same words, new relation",
-            "x": 82,
-            "y": 222
+            "text": "inherited words",
+            "x": 111,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 16
+          },
+          {
+            "id": "lived",
+            "type": "text",
+            "text": "a changed experience",
+            "x": 288,
+            "y": 219,
+            "anchor": "middle",
+            "fontSize": 15
           }
         ]
       },
@@ -4525,76 +6231,212 @@
     "sources": [
       "jung-advanced-types-concretism"
     ],
-    "metaphor": "A ring and its memory initially share one outline; the memory lifts into a separate frame, leaving both the object and its significance visible.",
+    "metaphor": "A ring carries a relationship’s meaning until losing the ring seems identical with erasing the relationship itself.",
     "scene": {
       "kind": "notebook",
       "variant": "concretism",
       "caption": "Concretism",
-      "composition": {
-        "description": "A ring and its memory initially share one outline; the memory lifts into a separate frame, leaving both the object and its significance visible.",
-        "actors": [
+      "lesson": {
+        "description": "A ring carries a relationship’s meaning until losing the ring seems identical with erasing the relationship itself.",
+        "beats": [
           {
-            "id": "ring",
-            "type": "circle",
-            "x": 163,
-            "y": 130,
-            "r": 37
+            "caption": "A ring carries memories of a relationship.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "ring",
+                "type": "circle",
+                "x": 200,
+                "y": 118,
+                "r": 41
+              },
+              {
+                "id": "memory",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "memory-outline",
+                    "type": "path",
+                    "d": "M-95.5 -27 L95.5 -27 L95.5 20 L12 20 L0 33 L-1 20 L-95.5 20 Z"
+                  },
+                  {
+                    "id": "memory-words-line0",
+                    "type": "text",
+                    "text": "our relationship",
+                    "x": 0,
+                    "y": -3.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 41
+              }
+            ]
           },
           {
-            "id": "memory",
-            "type": "path",
-            "d": "M177 101 L204 74 L233 105 L221 149 L185 157 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "The thing and its psychological significance become fused.",
+            "duration": 3.5,
+            "actors": [
+              {
+                "id": "ring",
+                "type": "circle",
+                "x": 200,
+                "y": 118,
+                "r": 41
+              },
+              {
+                "id": "meaning",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "meaning-outline",
+                    "type": "path",
+                    "d": "M-57.5 -25.0 L57.5 -24.0 L56.5 25.0 L-56.5 24.0 Z"
+                  },
+                  {
+                    "id": "meaning-word0-line0",
+                    "type": "text",
+                    "text": "the",
+                    "x": 0,
+                    "y": -1.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "meaning-word0-line1",
+                    "type": "text",
+                    "text": "relationship",
+                    "x": 0,
+                    "y": 19.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 118
+              }
+            ]
           },
           {
-            "id": "separation",
-            "type": "path",
-            "d": "M244 75 L317 75 L317 160 L245 161",
-            "tone": "faint"
+            "caption": "Losing the ring is felt as though the relationship itself were erased.",
+            "duration": 3.8,
+            "actors": [
+              {
+                "id": "ring",
+                "type": "circle",
+                "x": 200,
+                "y": 118,
+                "r": 41,
+                "tone": "faint"
+              },
+              {
+                "id": "lost",
+                "type": "path",
+                "d": "M156 74 L244 162 M244 74 L156 162"
+              },
+              {
+                "id": "meaning",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "meaning-outline",
+                    "type": "path",
+                    "d": "M-116.0 -25.0 L116.0 -24.0 L115.0 25.0 L-115.0 24.0 Z"
+                  },
+                  {
+                    "id": "meaning-word0-line0",
+                    "type": "text",
+                    "text": "the relationship is erased?",
+                    "x": 0,
+                    "y": -1.0,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 200,
+                "y": 37
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "material object",
-            "x": 50,
-            "y": 222
-          },
-          {
-            "id": "b",
-            "type": "text",
-            "text": "felt significance",
-            "x": 234,
-            "y": 222
+            "caption": "Differentiation preserves the material object and its meaning as distinct questions.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "ring",
+                "type": "circle",
+                "x": 105,
+                "y": 120,
+                "r": 31
+              },
+              {
+                "id": "meaning",
+                "type": "group",
+                "children": [
+                  {
+                    "id": "meaning-outline",
+                    "type": "path",
+                    "d": "M-79.5 -47.5 L79.5 -46.5 L78.5 47.5 L-78.5 46.5 Z"
+                  },
+                  {
+                    "id": "meaning-word0-line0",
+                    "type": "text",
+                    "text": "its meaning for",
+                    "x": 0,
+                    "y": -23.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  },
+                  {
+                    "id": "meaning-word0-line1",
+                    "type": "text",
+                    "text": "me",
+                    "x": 0,
+                    "y": -3.5,
+                    "anchor": "middle",
+                    "fontSize": 16
+                  }
+                ],
+                "x": 287,
+                "y": 120
+              },
+              {
+                "id": "separate",
+                "type": "text",
+                "text": "the thing and its significance",
+                "x": 200,
+                "y": 218,
+                "anchor": "middle",
+                "fontSize": 17
+              }
+            ]
           }
         ]
       }
     },
     "readingArt": [
       {
-        "description": "The object and the meaning attached to it may initially be experienced as one.",
+        "description": "The felt threat of a house can fuse the place itself with the fear experienced around it.",
         "actors": [
           {
-            "id": "object",
-            "type": "circle",
-            "x": 192,
-            "y": 123,
-            "r": 41
-          },
-          {
-            "id": "meaning",
+            "id": "house",
             "type": "path",
-            "d": "M179 90 L207 75 L231 123 L205 157 L172 142 Z"
+            "d": "M117 114L194 41L279 114 M137 97L137 187L260 187L260 97 M174 187L174 131L216 131L216 187"
           },
           {
-            "id": "a",
+            "id": "fear",
+            "type": "path",
+            "d": "M108 114Q67 148 113 176 M284 114Q328 148 284 176"
+          },
+          {
+            "id": "fused",
             "type": "text",
-            "text": "a fused experience",
-            "x": 115,
-            "y": 222
+            "text": "place and feeling fused",
+            "x": 199,
+            "y": 226,
+            "anchor": "middle",
+            "fontSize": 16
           }
         ]
       },
@@ -4641,7 +6483,7 @@
     },
     "related": [
       "jung-meaning-belief",
-      "jung-dream-levels"
+      "jung-amplification"
     ]
   },
   {
