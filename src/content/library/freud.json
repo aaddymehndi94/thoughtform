@@ -14262,44 +14262,198 @@
     "sources": [
       "freud-source-pleasure-principle"
     ],
-    "metaphor": "A jagged tense line slowly relaxes into a less strained course.",
+    "metaphor": "A thirsty person seeks water and tension decreases after drinking; Freud describes a tendency toward relief rather than a demand for constant delight.",
     "scene": {
       "kind": "notebook",
       "caption": "the search for relief",
       "variant": "pleasure-principle",
-      "composition": {
-        "description": "A jagged tense line slowly relaxes into a less strained course.",
-        "actors": [
+      "lesson": {
+        "description": "A thirsty person seeks water and tension decreases after drinking; Freud describes a tendency toward relief rather than a demand for constant delight.",
+        "beats": [
           {
-            "id": "tension",
-            "type": "path",
-            "d": "M80 138 L110 92 L138 149 L169 99 L198 138 L228 119 L261 131 L299 126",
-            "tone": "normal",
-            "motion": {
-              "kind": "stretch",
-              "duration": 14,
-              "delay": 0,
-              "scale": 0.72
-            }
+            "caption": "Thirst creates an unpleasant tension.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 99,
+                "y": 145
+              },
+              {
+                "id": "tension",
+                "type": "path",
+                "d": "M39 102q-12 25 0 50 M28 89q-20 39 0 78 M161 102q12 25 0 50"
+              },
+              {
+                "id": "water",
+                "type": "group",
+                "x": 291,
+                "y": 142,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 36,
+                "text": "unpleasant tension",
+                "fontSize": 18,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "before",
-            "type": "text",
-            "text": "tension",
-            "x": 86.98,
-            "y": 194
+            "caption": "The person seeks a way to lower it.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 172,
+                "y": 145
+              },
+              {
+                "id": "tension",
+                "type": "path",
+                "d": "M115 102q-12 25 0 50 M103 89q-20 39 0 78"
+              },
+              {
+                "id": "water",
+                "type": "group",
+                "x": 230,
+                "y": 136,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 36,
+                "text": "seeking relief",
+                "fontSize": 18,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "after",
-            "type": "text",
-            "text": "relief",
-            "x": 268.57,
-            "y": 194,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "Drinking provides relief; the pressure decreases.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 172,
+                "y": 145
+              },
+              {
+                "id": "water",
+                "type": "group",
+                "x": 195,
+                "y": 90,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8,
+                  "rotate": -27
+                }
+              },
+              {
+                "id": "tension",
+                "type": "path",
+                "d": "M115 108q-5 17 0 31",
+                "tone": "faint"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 36,
+                "text": "lower tension",
+                "fontSize": 18,
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "The pleasure principle names this tendency toward relief, not endless happiness.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 172,
+                "y": 145
+              },
+              {
+                "id": "water",
+                "type": "group",
+                "x": 236,
+                "y": 148,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 36,
+                "text": "relief",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 200,
+                "y": 230,
+                "text": "less unpleasure is one kind of pleasure",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -14319,124 +14473,106 @@
     ],
     "readingArt": [
       {
-        "description": "unpleasant tension / possible discharge / relief",
+        "description": "Relief from thirst illustrates a reduction of unpleasure rather than an increase in excitement.",
         "actors": [
           {
-            "id": "a",
+            "id": "before",
+            "type": "figure",
+            "x": 94,
+            "y": 145
+          },
+          {
+            "id": "tension",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M40 95q-16 33 0 65 M149 95q16 33 0 65"
+          },
+          {
+            "id": "after",
+            "type": "figure",
+            "x": 310,
+            "y": 145,
+            "facing": true
+          },
+          {
+            "id": "water",
+            "type": "group",
+            "x": 343,
+            "y": 145,
+            "children": [
+              {
+                "id": "cup",
+                "type": "path",
+                "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+              },
+              {
+                "id": "rim",
+                "type": "path",
+                "d": "M-17-18 Q0-24 17-18"
+              }
+            ],
+            "pose": {
+              "scale": 0.7
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 94,
+            "y": 223,
+            "text": "tension",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "c",
-            "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
             "type": "text",
-            "text": "unpleasant",
-            "x": 55.5,
-            "y": 75
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "tension",
-            "x": 67.84,
-            "y": 95
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "possible discharge",
-            "x": 122.12,
-            "y": 194
-          },
-          {
-            "id": "label2",
-            "type": "text",
+            "x": 309,
+            "y": 223,
             "text": "relief",
-            "x": 281.14,
-            "y": 85
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "a recurring process / seeks satisfaction / repeats distress",
+        "description": "The tendency to seek relief does not claim that all mental activity succeeds in obtaining it.",
         "actors": [
           {
-            "id": "trunk",
+            "id": "line",
             "type": "path",
-            "d": "M78 122 Q118 119 154 122",
-            "tone": "normal"
+            "d": "M55 174Q103 74 150 132T239 117T344 163"
           },
           {
-            "id": "upper",
-            "type": "path",
-            "d": "M154 122 Q206 63 306 73",
-            "tone": "normal"
+            "id": "a",
+            "type": "circle",
+            "x": 151,
+            "y": 132,
+            "r": 5
           },
           {
-            "id": "lower",
-            "type": "path",
-            "d": "M154 123 Q210 188 306 177",
-            "tone": "normal"
+            "id": "b",
+            "type": "circle",
+            "x": 240,
+            "y": 117,
+            "r": 5
           },
           {
-            "id": "label0-line0",
+            "id": "top",
             "type": "text",
-            "text": "a recurring",
-            "x": 43.74,
-            "y": 86
+            "x": 200,
+            "y": 40,
+            "text": "a tendency, not a guaranteed result",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "process",
-            "x": 61.14,
-            "y": 106
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "seeks",
-            "x": 251.25,
-            "y": 37
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "satisfaction",
-            "x": 220.8,
-            "y": 57
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "repeats",
-            "x": 245.55,
-            "y": 208
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "distress",
-            "x": 241.2,
-            "y": 228
+            "x": 200,
+            "y": 231,
+            "text": "mental life contains other forces too",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -14455,60 +14591,156 @@
     "sources": [
       "freud-source-reality-principle"
     ],
-    "metaphor": "A direct route meets a closed passage; a longer path curves around it toward the same destination.",
+    "metaphor": "A desired meal is unavailable now, so the person holds the wish while preparing and waiting; delay protects later satisfaction.",
     "scene": {
       "kind": "notebook",
       "caption": "the necessary delay",
       "variant": "reality-principle",
-      "composition": {
-        "description": "A direct route meets a closed passage; a longer path curves around it toward the same destination.",
-        "actors": [
+      "lesson": {
+        "description": "A desired meal is unavailable now, so the person holds the wish while preparing and waiting; delay protects later satisfaction.",
+        "beats": [
           {
-            "id": "door",
-            "type": "path",
-            "d": "M191 55 L194 179 M209 54 L211 178",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "delay": 0,
-              "x": 3
-            }
+            "caption": "A person wants a meal immediately.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 91,
+                "y": 145
+              },
+              {
+                "id": "plate",
+                "type": "path",
+                "d": "M246 136q45-32 89 0q-43 29-89 0Z"
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 93,
+                "y": 40,
+                "text": "I am hungry.",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "meal",
+                "type": "text",
+                "x": 293,
+                "y": 218,
+                "text": "the meal",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "pressure",
-            "type": "path",
-            "d": "M95 155 Q82 103 126 86 Q161 71 182 113 Q161 147 131 140 Q122 108 163 112",
-            "tone": "shade",
-            "motion": {
-              "kind": "pulse",
-              "duration": 12,
-              "delay": 0,
-              "scale": 1.08
-            }
+            "caption": "The meal is not ready. The outside situation cannot simply be wished away.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 91,
+                "y": 145
+              },
+              {
+                "id": "plate",
+                "type": "path",
+                "d": "M246 136q45-32 89 0q-43 29-89 0Z",
+                "tone": "faint"
+              },
+              {
+                "id": "pot",
+                "type": "path",
+                "d": "M240 83h101v55q-50 27-101 0Z M233 83h115 M266 70h46"
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 93,
+                "y": 40,
+                "text": "not yet",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "detour",
-            "type": "path",
-            "d": "M166 141 Q183 211 244 190 Q291 171 280 114",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 2
-            }
+            "caption": "Preparing and waiting keep the wish while changing its timing.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 194,
+                "y": 145
+              },
+              {
+                "id": "pot",
+                "type": "path",
+                "d": "M240 83h101v55q-50 27-101 0Z M233 83h115 M266 70h46"
+              },
+              {
+                "id": "steam",
+                "type": "path",
+                "d": "M279 70 q-7-10 0-20 t0-20 M292 73 q-6-10 0-20 t0-20"
+              },
+              {
+                "id": "clock",
+                "type": "path",
+                "d": "M73 106q-26-2-26 24t26 26q26-1 26-26t-26-24 M73 114v16l15 7"
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 95,
+                "y": 40,
+                "text": "later, not erased",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "label",
-            "type": "text",
-            "text": "another way through",
-            "x": 187.29,
-            "y": 215,
-            "motion": {
-              "kind": "reveal",
-              "duration": 12,
-              "delay": 5
-            }
+            "caption": "For Freud, reality modifies the route to satisfaction rather than abolishing desire.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 194,
+                "y": 145
+              },
+              {
+                "id": "plate",
+                "type": "path",
+                "d": "M246 151q45-32 89 0q-43 29-89 0Z"
+              },
+              {
+                "id": "food",
+                "type": "path",
+                "d": "M267 134q20-19 40 0"
+              },
+              {
+                "id": "wish",
+                "type": "text",
+                "x": 200,
+                "y": 40,
+                "text": "a possible satisfaction",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "meal",
+                "type": "text",
+                "x": 200,
+                "y": 230,
+                "text": "the wish survives the delay",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -14528,111 +14760,100 @@
     ],
     "readingArt": [
       {
-        "description": "a desire / later satisfaction / a route shaped by reality",
+        "description": "Preparing food retains the wish for a meal while accepting that satisfaction must be delayed.",
         "actors": [
           {
-            "id": "direct",
+            "id": "self",
+            "type": "figure",
+            "x": 111,
+            "y": 145
+          },
+          {
+            "id": "pot",
             "type": "path",
-            "d": "M77 84 L322 84",
-            "tone": "faint",
-            "dashed": true
+            "d": "M256 102h85v48q-43 20-85 0Z M247 101h104 M280 87h38"
           },
           {
-            "id": "detour",
+            "id": "steam",
             "type": "path",
-            "d": "M79 149 Q125 130 156 155 Q208 188 249 140 Q286 116 323 135",
-            "tone": "normal"
+            "d": "M294 85 q-7-10 0-20 t0-20 M307 88 q-6-10 0-20 t0-20"
           },
           {
-            "id": "start",
-            "type": "circle",
-            "x": 80,
-            "y": 151,
-            "r": 7,
-            "tone": "normal"
-          },
-          {
-            "id": "end",
-            "type": "circle",
-            "x": 324,
-            "y": 135,
-            "r": 11,
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "a",
             "type": "text",
-            "text": "a desire",
-            "x": 66.66,
-            "y": 211
+            "x": 111,
+            "y": 222,
+            "text": "wish kept",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "b",
             "type": "text",
-            "text": "later",
-            "x": 263.25,
-            "y": 212
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "satisfaction",
-            "x": 232.8,
-            "y": 232
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "a route shaped by reality",
-            "x": 98.04,
-            "y": 59
+            "x": 300,
+            "y": 222,
+            "text": "preparation",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "postponement / renunciation / the aim may remain",
+        "description": "Delay differs from simply abolishing a wish: the desired meal remains part of the plan.",
         "actors": [
           {
-            "id": "divider",
+            "id": "wish",
+            "type": "group",
+            "x": 93,
+            "y": 127,
+            "children": [
+              {
+                "id": "food",
+                "type": "path",
+                "d": "M-30 0q30-25 60 0q-30 25-60 0Z"
+              }
+            ]
+          },
+          {
+            "id": "clock",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M210 95q-27-2-27 27t27 29q27-1 27-29t-27-27 M210 103v19l15 7"
           },
           {
-            "id": "left",
+            "id": "meal",
+            "type": "group",
+            "x": 318,
+            "y": 127,
+            "children": [
+              {
+                "id": "food",
+                "type": "path",
+                "d": "M-30 0q30-25 60 0q-30 25-60 0Z"
+              }
+            ]
+          },
+          {
+            "id": "time",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M131 178h144"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "a",
             "type": "text",
-            "text": "postponement",
-            "x": 53.56,
-            "y": 79
+            "x": 93,
+            "y": 221,
+            "text": "now",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
+            "id": "b",
             "type": "text",
-            "text": "renunciation",
-            "x": 229.42,
-            "y": 79
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the aim may remain",
-            "x": 116.78,
-            "y": 217
+            "x": 317,
+            "y": 221,
+            "text": "later",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -14651,53 +14872,157 @@
     "sources": [
       "freud-source-traumatic-dreams"
     ],
-    "metaphor": "An irregular incoming line breaches a boundary and returns across the interior instead of settling.",
+    "metaphor": "A frightening scene returns during sleep instead of delivering an obvious wished-for satisfaction; Freud treats this recurrence as a difficulty for a simple pleasure model.",
     "scene": {
       "kind": "notebook",
       "caption": "returning to the fright",
       "variant": "traumatic-dreams",
-      "composition": {
-        "description": "An irregular incoming line breaches a boundary and returns across the interior instead of settling.",
-        "actors": [
+      "lesson": {
+        "description": "A frightening scene returns during sleep instead of delivering an obvious wished-for satisfaction; Freud treats this recurrence as a difficulty for a simple pleasure model.",
+        "beats": [
           {
-            "id": "border",
-            "type": "path",
-            "d": "M153 57 Q258 36 291 111 Q318 183 222 200 Q122 202 112 125 Q104 78 153 57",
-            "tone": "faint"
+            "caption": "A frightening event overwhelms the person.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 85,
+                "y": 145
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M141 43 l211 1 -1 159 -210 -1 Z"
+              },
+              {
+                "id": "rupture",
+                "type": "path",
+                "d": "M192 44 214 88 194 119 229 151 214 201 M195 119 152 134 140 180 M215 89 264 63"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 250,
+                "y": 230,
+                "text": "the frightening scene",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "impact",
-            "type": "path",
-            "d": "M66 89 L94 108 L79 125 L113 128",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "During sleep, the same scene returns.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 85,
+                "y": 145
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M141 43 l211 1 -1 159 -210 -1 Z"
+              },
+              {
+                "id": "rupture",
+                "type": "path",
+                "d": "M192 44 214 88 194 119 229 151 214 201 M195 119 152 134 140 180 M215 89 264 63"
+              },
+              {
+                "id": "dream",
+                "type": "path",
+                "d": "M39 67Q82 34 119 65Q153 144 115 198Q64 210 39 159Z"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 250,
+                "y": 230,
+                "text": "the dream repeats it",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "breach",
-            "type": "path",
-            "d": "M112 125 Q179 140 212 123 Q260 95 294 151",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "There is no obvious relief or pleasant ending in the repeated scene.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 85,
+                "y": 145
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M141 43 l211 1 -1 159 -210 -1 Z"
+              },
+              {
+                "id": "rupture",
+                "type": "path",
+                "d": "M192 44 214 88 194 119 229 151 214 201 M195 119 152 134 140 180 M215 89 264 63"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 250,
+                "y": 230,
+                "text": "why repeat the fright?",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "echo",
+                "type": "path",
+                "d": "M164 54 186 98 166 129",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "outside",
-            "type": "text",
-            "text": "too much, too quickly",
-            "x": 122.89,
-            "y": 225,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 7
-            }
+            "caption": "These dreams lead Freud to reconsider how pleasure, repetition and preparation relate.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 85,
+                "y": 145
+              },
+              {
+                "id": "window",
+                "type": "path",
+                "d": "M141 43 l211 1 -1 159 -210 -1 Z"
+              },
+              {
+                "id": "rupture",
+                "type": "path",
+                "d": "M192 44 214 88 194 119 229 151 214 201 M195 119 152 134 140 180 M215 89 264 63"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 200,
+                "y": 230,
+                "text": "a limit for the easiest explanation",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 250,
+                "y": 28,
+                "text": "the theory must account for this",
+                "fontSize": 15,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -14717,101 +15042,92 @@
     ],
     "readingArt": [
       {
-        "description": "an overwhelming scene / its return in a dream / repetition creates a problem",
+        "description": "The recurring frightening scene challenges the simple picture of a dream staging pleasant satisfaction.",
         "actors": [
           {
-            "id": "loop",
+            "id": "scene",
             "type": "path",
-            "d": "M128 72 Q223 31 281 95 Q322 163 246 192 Q154 220 113 147 Q84 100 128 72",
-            "tone": "normal"
+            "d": "M79 50 l241 1 -1 150 -240 -1 Z"
           },
           {
-            "id": "arrow",
+            "id": "crack",
             "type": "path",
-            "d": "M119 74 L130 71 L127 86",
-            "tone": "normal"
+            "d": "M192 44 214 88 194 119 229 151 214 201 M195 119 152 134 140 180 M215 89 264 63"
           },
           {
-            "id": "label0",
+            "id": "bottom",
             "type": "text",
-            "text": "an overwhelming scene",
-            "x": 101.49,
-            "y": 109
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "its return in a dream",
-            "x": 113.87,
-            "y": 137
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "repetition creates a problem",
-            "x": 88.71,
-            "y": 228
+            "x": 200,
+            "y": 234,
+            "text": "the fright returns during sleep",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "observed recurrence / proposed binding / the mechanism is inferred",
+        "description": "Freud proposes preparation and binding as possible functions; the proposal is distinguished from a settled mechanism.",
         "actors": [
           {
-            "id": "divider",
+            "id": "case",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
+            "d": "M29 79 l146 1 -1 87 -145 -1 Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 102,
+            "y": 112,
+            "text": "repeated fright",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 102,
+            "y": 141,
+            "text": "observed",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "proposal",
+            "type": "path",
+            "d": "M224 79 l146 1 -1 87 -145 -1 Z"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 297,
+            "y": 112,
+            "text": "preparation",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "d",
+            "type": "text",
+            "x": 297,
+            "y": 141,
+            "text": "proposed",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "between",
+            "type": "path",
+            "d": "M175 122h49",
             "dashed": true
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "observed",
-            "x": 81.2,
-            "y": 69
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "recurrence",
-            "x": 72.5,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "proposed",
-            "x": 247.2,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "binding",
-            "x": 251.55,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the mechanism is inferred",
-            "x": 90.35,
-            "y": 217
+            "x": 200,
+            "y": 229,
+            "text": "a theory prompted by a difficult case",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -14830,75 +15146,224 @@
     "sources": [
       "freud-source-fort-da"
     ],
-    "metaphor": "A child sends a spool across a boundary on a curved thread; the thread preserves a route for return.",
+    "metaphor": "An absent parent cannot be controlled; a child casts a reel out of sight and retrieves it, giving departure and return an action the child can perform.",
     "scene": {
       "kind": "notebook",
       "caption": "making absence move",
       "variant": "fort-da",
-      "composition": {
-        "description": "A child sends a spool across a boundary on a curved thread; the thread preserves a route for return.",
-        "actors": [
+      "lesson": {
+        "description": "An absent parent cannot be controlled; a child casts a reel out of sight and retrieves it, giving departure and return an action the child can perform.",
+        "beats": [
           {
-            "id": "child",
-            "type": "figure",
-            "x": 103,
-            "y": 137,
-            "tone": "normal"
+            "caption": "A parent leaves. The child does not control the departure.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 89,
+                "y": 150,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 314,
+                "y": 145,
+                "facing": false
+              },
+              {
+                "id": "exitframe",
+                "type": "path",
+                "d": "M285 196 v-140 l62 1 v139"
+              },
+              {
+                "id": "exitleaf",
+                "type": "path",
+                "d": "M289 59 l48 -13 v146 l-48 6 Z"
+              },
+              {
+                "id": "exitknob",
+                "type": "circle",
+                "x": 330,
+                "y": 126.0,
+                "r": 2
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 115,
+                "y": 224,
+                "text": "departure happens to me",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "reel",
+                "type": "group",
+                "x": 150,
+                "y": 150,
+                "children": [
+                  {
+                    "id": "spool",
+                    "type": "path",
+                    "d": "M-13-11h26v7h-5v9h5v7h-26v-7h5v-9h-5Z"
+                  }
+                ]
+              },
+              {
+                "id": "string",
+                "type": "path",
+                "d": "M106 146Q129 160 143 148"
+              }
+            ]
           },
           {
-            "id": "string",
-            "type": "path",
-            "d": "M122 151 Q201 198 280 151",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "The child casts a reel beyond the edge of the cot: gone.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 89,
+                "y": 150,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "cot",
+                "type": "path",
+                "d": "M210 78h140v118h-140Z M228 95v101m28-101v101m28-101v101m28-101v101m28-101v101"
+              },
+              {
+                "id": "reel",
+                "type": "group",
+                "x": 302,
+                "y": 151,
+                "children": [
+                  {
+                    "id": "spool",
+                    "type": "path",
+                    "d": "M-13-11h26v7h-5v9h5v7h-26v-7h5v-9h-5Z"
+                  }
+                ],
+                "tone": "faint",
+                "pose": {
+                  "opacity": 0
+                }
+              },
+              {
+                "id": "string",
+                "type": "path",
+                "d": "M106 146Q204 56 300 150"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 105,
+                "y": 224,
+                "text": "gone",
+                "fontSize": 18,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "object",
-            "type": "circle",
-            "x": 268,
-            "y": 134,
-            "r": 14,
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "delay": 0,
-              "x": 46
-            }
+            "caption": "The reel is pulled back: here. The child performs the return.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 89,
+                "y": 150,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "cot",
+                "type": "path",
+                "d": "M210 78h140v118h-140Z M228 95v101m28-101v101m28-101v101m28-101v101m28-101v101"
+              },
+              {
+                "id": "reel",
+                "type": "group",
+                "x": 150,
+                "y": 150,
+                "children": [
+                  {
+                    "id": "spool",
+                    "type": "path",
+                    "d": "M-13-11h26v7h-5v9h5v7h-26v-7h5v-9h-5Z"
+                  }
+                ]
+              },
+              {
+                "id": "string",
+                "type": "path",
+                "d": "M106 146Q129 160 143 148"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 105,
+                "y": 224,
+                "text": "here",
+                "fontSize": 18,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "edge",
-            "type": "path",
-            "d": "M317 68 L319 191",
-            "tone": "normal"
-          },
-          {
-            "id": "gone",
-            "type": "text",
-            "text": "gone",
-            "x": 266.8,
-            "y": 84,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 3
-            }
-          },
-          {
-            "id": "back",
-            "type": "text",
-            "text": "back",
-            "x": 175.0,
-            "y": 211,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 8
-            }
+            "caption": "Freud reads a possible shift from undergoing absence to staging it through play.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "child",
+                "type": "figure",
+                "x": 89,
+                "y": 150,
+                "pose": {
+                  "scale": 0.65
+                }
+              },
+              {
+                "id": "cot",
+                "type": "path",
+                "d": "M210 78h140v118h-140Z M228 95v101m28-101v101m28-101v101m28-101v101m28-101v101"
+              },
+              {
+                "id": "reel",
+                "type": "group",
+                "x": 150,
+                "y": 150,
+                "children": [
+                  {
+                    "id": "spool",
+                    "type": "path",
+                    "d": "M-13-11h26v7h-5v9h5v7h-26v-7h5v-9h-5Z"
+                  }
+                ]
+              },
+              {
+                "id": "string",
+                "type": "path",
+                "d": "M106 146Q129 160 143 148"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 200,
+                "y": 224,
+                "text": "an action the child can perform",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -14918,116 +15383,130 @@
     ],
     "readingArt": [
       {
-        "description": "the child / the object / sending away and retrieving",
+        "description": "The same reel is cast away and retrieved by its string; the child performs disappearance and return.",
         "actors": [
           {
-            "id": "a",
+            "id": "child",
             "type": "figure",
-            "x": 104,
-            "y": 145,
-            "tone": "normal"
+            "x": 91,
+            "y": 151,
+            "pose": {
+              "scale": 0.65
+            }
           },
           {
-            "id": "object",
-            "type": "circle",
-            "x": 279,
-            "y": 123,
-            "r": 15,
-            "tone": "normal"
+            "id": "near",
+            "type": "group",
+            "x": 156,
+            "y": 146,
+            "children": [
+              {
+                "id": "reel",
+                "type": "path",
+                "d": "M-12-10h24v20h-24Z"
+              }
+            ]
           },
           {
-            "id": "out",
+            "id": "far",
+            "type": "group",
+            "x": 310,
+            "y": 146,
+            "children": [
+              {
+                "id": "reel",
+                "type": "path",
+                "d": "M-12-10h24v20h-24Z"
+              }
+            ],
+            "tone": "faint"
+          },
+          {
+            "id": "string",
             "type": "path",
-            "d": "M131 93 Q197 56 258 94",
-            "tone": "normal"
+            "d": "M105 143Q196 74 306 143"
           },
           {
-            "id": "back",
-            "type": "path",
-            "d": "M260 159 Q203 196 131 158",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "a",
             "type": "text",
-            "text": "the child",
-            "x": 66.26,
-            "y": 217
+            "x": 155,
+            "y": 224,
+            "text": "here",
+            "fontSize": 18,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
+            "id": "b",
             "type": "text",
-            "text": "the object",
-            "x": 237.52,
-            "y": 217
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "sending away and retrieving",
-            "x": 78.59,
-            "y": 45
+            "x": 310,
+            "y": 224,
+            "text": "gone",
+            "fontSize": 18,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "absence undergone / absence performed / the relation to agency changes",
+        "description": "A parent’s actual departure and a reel’s performed disappearance are different relations to absence.",
         "actors": [
           {
-            "id": "divider",
-            "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "id": "parent",
+            "type": "figure",
+            "x": 91,
+            "y": 145
           },
           {
-            "id": "left",
+            "id": "exitframe",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M58 196 v-137 l59 1 v136"
           },
           {
-            "id": "right",
+            "id": "exitleaf",
+            "type": "path",
+            "d": "M62 62 l45 -13 v143 l-45 6 Z"
+          },
+          {
+            "id": "exitknob",
             "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
+            "x": 100,
+            "y": 127.5,
+            "r": 2
           },
           {
-            "id": "label0-line0",
-            "type": "text",
-            "text": "absence",
-            "x": 85.55,
-            "y": 69
+            "id": "reel",
+            "type": "group",
+            "x": 291,
+            "y": 130,
+            "children": [
+              {
+                "id": "reel",
+                "type": "path",
+                "d": "M-14-11h28v22h-28Z"
+              }
+            ]
           },
           {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "undergone",
-            "x": 76.85,
-            "y": 89
+            "id": "string",
+            "type": "path",
+            "d": "M285 132Q242 89 218 143"
           },
           {
-            "id": "label1-line0",
+            "id": "a",
             "type": "text",
-            "text": "absence",
-            "x": 251.55,
-            "y": 69
+            "x": 92,
+            "y": 224,
+            "text": "undergoing absence",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line1",
+            "id": "b",
             "type": "text",
-            "text": "performed",
-            "x": 242.85,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the relation to agency changes",
-            "x": 70.16,
-            "y": 217
+            "x": 292,
+            "y": 224,
+            "text": "staging absence",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -15046,48 +15525,229 @@
     "sources": [
       "freud-source-repetition-compulsion"
     ],
-    "metaphor": "A route returns to its beginning, with an outward path present but not yet taken.",
+    "metaphor": "A person repeatedly approaches different closed relations and meets the same painful outcome; the repeated pattern is distinguished from simple pleasure-seeking.",
     "scene": {
       "kind": "notebook",
       "caption": "the costly return",
       "variant": "repetition-compulsion",
-      "composition": {
-        "description": "A route returns to its beginning, with an outward path present but not yet taken.",
-        "actors": [
+      "lesson": {
+        "description": "A person repeatedly approaches different closed relations and meets the same painful outcome; the repeated pattern is distinguished from simple pleasure-seeking.",
+        "beats": [
           {
-            "id": "cycle",
-            "type": "path",
-            "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "An approach ends in an unavailable relationship.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 101,
+                "y": 145
+              },
+              {
+                "id": "oneframe",
+                "type": "path",
+                "d": "M284 198 v-139 l60 1 v138"
+              },
+              {
+                "id": "oneleaf",
+                "type": "path",
+                "d": "M288 62 h52 v133 h-52 Z"
+              },
+              {
+                "id": "oneknob",
+                "type": "circle",
+                "x": 327,
+                "y": 128.5,
+                "r": 2
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 305,
+                "y": 224,
+                "text": "unavailable",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "x": 105,
+                "y": 38,
+                "text": "one relation",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "again",
-            "type": "text",
-            "text": "again",
-            "x": 181.35,
-            "y": 119,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "A new relation begins with different details.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 205,
+                "y": 145
+              },
+              {
+                "id": "twoframe",
+                "type": "path",
+                "d": "M284 198 v-139 l60 1 v138"
+              },
+              {
+                "id": "twoleaf",
+                "type": "path",
+                "d": "M288 62 h52 v133 h-52 Z"
+              },
+              {
+                "id": "twoknob",
+                "type": "circle",
+                "x": 327,
+                "y": 128.5,
+                "r": 2
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 310,
+                "y": 224,
+                "text": "a new person",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "x": 105,
+                "y": 38,
+                "text": "another relation",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "old-door",
+                "type": "path",
+                "d": "M53 197V61h59v136",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "change",
-            "type": "text",
-            "text": "the same outcome",
-            "x": 139,
-            "y": 224,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 6
-            }
+            "caption": "The familiar painful outcome appears again.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 237,
+                "y": 145
+              },
+              {
+                "id": "old-door",
+                "type": "path",
+                "d": "M53 197V61h59v136",
+                "tone": "faint"
+              },
+              {
+                "id": "twoframe",
+                "type": "path",
+                "d": "M284 198 v-139 l60 1 v138"
+              },
+              {
+                "id": "twoleaf",
+                "type": "path",
+                "d": "M288 62 h52 v133 h-52 Z"
+              },
+              {
+                "id": "twoknob",
+                "type": "circle",
+                "x": 327,
+                "y": 128.5,
+                "r": 2
+              },
+              {
+                "id": "marks",
+                "type": "path",
+                "d": "M79 145l20 21m0-21-20 21 M302 145l20 21m0-21-20 21"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 310,
+                "y": 224,
+                "text": "unavailable",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "x": 105,
+                "y": 38,
+                "text": "same outcome",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "Freud investigates a recurrence that persists despite its painful cost.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 205,
+                "y": 145
+              },
+              {
+                "id": "old-door",
+                "type": "path",
+                "d": "M53 197V61h59v136",
+                "tone": "faint"
+              },
+              {
+                "id": "twoframe",
+                "type": "path",
+                "d": "M284 198 v-139 l60 1 v138"
+              },
+              {
+                "id": "twoleaf",
+                "type": "path",
+                "d": "M288 62 h52 v133 h-52 Z"
+              },
+              {
+                "id": "twoknob",
+                "type": "circle",
+                "x": 327,
+                "y": 128.5,
+                "r": 2
+              },
+              {
+                "id": "marks",
+                "type": "path",
+                "d": "M79 145l20 21m0-21-20 21 M302 145l20 21m0-21-20 21"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 200,
+                "y": 231,
+                "text": "different people · a costly pattern",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "x": 200,
+                "y": 36,
+                "text": "what keeps returning?",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -15107,101 +15767,106 @@
     ],
     "readingArt": [
       {
-        "description": "a familiar relation / another occasion / a form recurs",
+        "description": "Different unavailable relationships can lead to the same painful outcome without looking identical in every detail.",
         "actors": [
           {
-            "id": "loop",
+            "id": "firstframe",
             "type": "path",
-            "d": "M128 72 Q223 31 281 95 Q322 163 246 192 Q154 220 113 147 Q84 100 128 72",
-            "tone": "normal"
+            "d": "M60 195 v-135 l51 1 v134"
           },
           {
-            "id": "arrow",
+            "id": "firstleaf",
             "type": "path",
-            "d": "M119 74 L130 71 L127 86",
-            "tone": "normal"
+            "d": "M64 63 h43 v129 h-43 Z"
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "a familiar relation",
-            "x": 127.83,
-            "y": 109
+            "id": "firstknob",
+            "type": "circle",
+            "x": 94,
+            "y": 127.5,
+            "r": 2
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "another occasion",
-            "x": 125.78,
-            "y": 137
+            "id": "secondframe",
+            "type": "path",
+            "d": "M176 195 v-124 l53 1 v123"
           },
           {
-            "id": "label2",
+            "id": "secondleaf",
+            "type": "path",
+            "d": "M180 74 h45 v118 h-45 Z"
+          },
+          {
+            "id": "secondknob",
+            "type": "circle",
+            "x": 212,
+            "y": 133.0,
+            "r": 2
+          },
+          {
+            "id": "thirdframe",
+            "type": "path",
+            "d": "M292 195 v-141 l53 1 v140"
+          },
+          {
+            "id": "thirdleaf",
+            "type": "path",
+            "d": "M296 57 h45 v135 h-45 Z"
+          },
+          {
+            "id": "thirdknob",
+            "type": "circle",
+            "x": 328,
+            "y": 124.5,
+            "r": 2
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M73 123l24 25m0-25-24 25 M190 123l24 25m0-25-24 25 M306 123l24 25m0-25-24 25"
+          },
+          {
+            "id": "bottom",
             "type": "text",
-            "text": "a form recurs",
-            "x": 152.73,
-            "y": 228
+            "x": 200,
+            "y": 231,
+            "text": "new situations · familiar outcome",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "the pattern observed / a drive hypothesized / repetition alone does not prove it",
+        "description": "Recognizing a costly pattern is different from concluding that someone willingly chose its suffering.",
         "actors": [
           {
-            "id": "divider",
+            "id": "self",
+            "type": "figure",
+            "x": 104,
+            "y": 145
+          },
+          {
+            "id": "repeat",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M133 182Q217 221 290 170Q291 94 219 94Q166 111 196 150Q217 176 262 166"
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "top",
             "type": "text",
-            "text": "the pattern",
-            "x": 68.15,
-            "y": 69
+            "x": 200,
+            "y": 36,
+            "text": "a pattern that recurs",
+            "fontSize": 17,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "observed",
-            "x": 81.2,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "a drive",
-            "x": 251.55,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "hypothesized",
-            "x": 229.8,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "repetition alone does not prove it",
-            "x": 59.44,
-            "y": 217
+            "x": 200,
+            "y": 231,
+            "text": "the cost is part of the question",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -15220,58 +15885,124 @@
     "sources": [
       "freud-source-binding"
     ],
-    "metaphor": "A disorderly incoming line reaches a loose mesh and becomes a contained repeating pattern.",
+    "metaphor": "A mass of excitation initially floods a mental field; connections and boundaries give it a form that can be held before it can be managed.",
     "scene": {
       "kind": "notebook",
       "caption": "before relief",
       "variant": "binding",
-      "composition": {
-        "description": "A disorderly incoming line reaches a loose mesh and becomes a contained repeating pattern.",
-        "actors": [
+      "lesson": {
+        "description": "A mass of excitation initially floods a mental field; connections and boundaries give it a form that can be held before it can be managed.",
+        "beats": [
           {
-            "id": "surge",
-            "type": "path",
-            "d": "M62 134 Q89 86 111 136 Q141 191 166 128 Q185 96 210 132",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "An overwhelming quantity arrives without a manageable form.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "surge",
+                "type": "path",
+                "d": "M32 74 C80 48 128 194 180 130 S270 51 366 113 M32 152 C85 179 124 57 194 91 S287 185 366 147 M35 117 C124 189 227 98 365 174"
+              },
+              {
+                "id": "label",
+                "type": "text",
+                "x": 200,
+                "y": 235,
+                "text": "unbound excitation",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "mesh1",
-            "type": "path",
-            "d": "M200 66 L300 183 M220 56 L321 173 M197 109 L266 190 M201 174 L298 74 M211 190 L317 91 M194 149 L277 65",
-            "tone": "faint",
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 3
-            }
+            "caption": "The first task is to establish a form that can hold what has arrived.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "surge",
+                "type": "path",
+                "d": "M32 74 C80 48 128 194 180 130 S270 51 366 113 M32 152 C85 179 124 57 194 91 S287 185 366 147 M35 117 C124 189 227 98 365 174",
+                "tone": "faint"
+              },
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M90 55 l219 1 -1 148 -218 -1 Z"
+              },
+              {
+                "id": "links",
+                "type": "path",
+                "d": "M90 132h219 M201 55v148"
+              },
+              {
+                "id": "label",
+                "type": "text",
+                "x": 200,
+                "y": 235,
+                "text": "boundaries and connections",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "held",
-            "type": "path",
-            "d": "M217 126 Q240 97 255 128 Q280 153 294 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Excitation is organized into relations instead of crossing the whole field at once.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M90 55 l219 1 -1 148 -218 -1 Z"
+              },
+              {
+                "id": "links",
+                "type": "path",
+                "d": "M90 132h219 M201 55v148"
+              },
+              {
+                "id": "surge",
+                "type": "path",
+                "d": "M104 99Q129 69 153 100T185 99 M218 98Q241 81 262 100T294 99 M105 170Q127 149 151 169T185 170 M218 171Q241 153 263 170T294 171"
+              },
+              {
+                "id": "label",
+                "type": "text",
+                "x": 200,
+                "y": 235,
+                "text": "held in a form",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "word",
-            "type": "text",
-            "text": "bound into a pattern",
-            "x": 174.36,
-            "y": 216,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 8
-            }
+            "caption": "In Freud’s speculative account, binding can precede the ordinary search for relief.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "field",
+                "type": "path",
+                "d": "M90 55 l219 1 -1 148 -218 -1 Z"
+              },
+              {
+                "id": "links",
+                "type": "path",
+                "d": "M90 132h219 M201 55v148"
+              },
+              {
+                "id": "surge",
+                "type": "path",
+                "d": "M104 99Q129 69 153 100T185 99 M218 98Q241 81 262 100T294 99 M105 170Q127 149 151 169T185 170 M218 171Q241 153 263 170T294 171"
+              },
+              {
+                "id": "label",
+                "type": "text",
+                "x": 200,
+                "y": 235,
+                "text": "holding comes before lowering",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -15291,111 +16022,94 @@
     ],
     "readingArt": [
       {
-        "description": "unbound movement / linked pattern / organization precedes regulation",
-        "actors": [
-          {
-            "id": "loose",
-            "type": "path",
-            "d": "M72 130 Q101 78 122 137 Q146 180 165 126",
-            "tone": "normal"
-          },
-          {
-            "id": "web",
-            "type": "path",
-            "d": "M198 70 L290 180 M220 59 L314 174 M192 118 L255 190 M201 167 L288 72 M209 190 L311 90 M193 143 L268 62",
-            "tone": "faint"
-          },
-          {
-            "id": "label0-line0",
-            "type": "text",
-            "text": "unbound",
-            "x": 74.55,
-            "y": 46
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "movement",
-            "x": 70.2,
-            "y": 66
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "linked pattern",
-            "x": 200.71,
-            "y": 42
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "organization precedes regulation",
-            "x": 68.95,
-            "y": 227
-          }
-        ]
-      },
-      {
-        "description": "overwhelming input / binding proposed / ordinary regulation",
+        "description": "Excitation crossing a whole field differs from excitation held within connected areas.",
         "actors": [
           {
             "id": "a",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M31 77 l148 1 -1 116 -147 -1 Z"
+          },
+          {
+            "id": "unbound",
+            "type": "path",
+            "d": "M42 96Q98 185 163 91 M39 166Q93 83 170 160"
           },
           {
             "id": "b",
             "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
+            "d": "M221 77 l148 1 -1 116 -147 -1 Z"
           },
           {
-            "id": "c",
+            "id": "cells",
             "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
+            "d": "M221 135h148 M294 78v115"
           },
           {
-            "id": "link",
+            "id": "bound",
             "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
+            "d": "M233 109q21-26 47 0 M307 109q18-22 47 0 M233 167q21-26 47 0 M307 167q18-22 47 0"
           },
           {
-            "id": "label0-line0",
+            "id": "a-label",
             "type": "text",
-            "text": "overwhelming",
-            "x": 46.8,
-            "y": 75
+            "x": 106,
+            "y": 230,
+            "text": "unbound",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "b-label",
             "type": "text",
-            "text": "input",
-            "x": 77.25,
-            "y": 95
+            "x": 296,
+            "y": 230,
+            "text": "held in relations",
+            "fontSize": 16,
+            "anchor": "middle"
+          }
+        ]
+      },
+      {
+        "description": "Holding excitation in a form precedes reducing its intensity in Freud’s proposed account.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M63 68 l110 1 -1 124 -109 -1 Z"
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "binding proposed",
-            "x": 126.53,
-            "y": 194
+            "id": "held",
+            "type": "path",
+            "d": "M63 131h110 M121 68v124 M78 103q15-23 32 0 M135 103q12-20 24 0 M78 165q15-23 32 0 M135 165q12-20 24 0"
           },
           {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "ordinary",
-            "x": 267.2,
-            "y": 75
+            "id": "lower",
+            "type": "path",
+            "d": "M244 168q20-12 40 0t51 0"
           },
           {
-            "id": "label2-line1",
+            "id": "a",
             "type": "text",
-            "text": "regulation",
-            "x": 258.5,
-            "y": 95
+            "x": 118,
+            "y": 231,
+            "text": "first hold it",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 291,
+            "y": 231,
+            "text": "then lower it",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "sequence",
+            "type": "path",
+            "d": "M187 134h46",
+            "dashed": true
           }
         ]
       }
@@ -15414,53 +16128,156 @@
     "sources": [
       "freud-source-stimulus-shield"
     ],
-    "metaphor": "An uneven surrounding line admits small movement but is crossed by a larger disruptive surge.",
+    "metaphor": "A boundary reduces the quantity of stimulation entering a living system; a strong breach sends an overwhelming amount across it.",
     "scene": {
       "kind": "notebook",
       "caption": "a boundary for exposure",
       "variant": "stimulus-shield",
-      "composition": {
-        "description": "An uneven surrounding line admits small movement but is crossed by a larger disruptive surge.",
-        "actors": [
+      "lesson": {
+        "description": "A boundary reduces the quantity of stimulation entering a living system; a strong breach sends an overwhelming amount across it.",
+        "beats": [
           {
-            "id": "border",
-            "type": "path",
-            "d": "M153 57 Q258 36 291 111 Q318 183 222 200 Q122 202 112 125 Q104 78 153 57",
-            "tone": "faint"
+            "caption": "Stimulation arrives from the surrounding world.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 275,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "stimuli",
+                "type": "path",
+                "d": "M35 65h89m-72 39h107m-130 42h110m-82 41h93"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 85,
+                "y": 229,
+                "text": "incoming",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "impact",
-            "type": "path",
-            "d": "M66 89 L94 108 L79 125 L113 128",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "A protective boundary limits how much crosses.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 275,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "stimuli",
+                "type": "path",
+                "d": "M35 65h89m-72 39h107m-130 42h110m-82 41h93"
+              },
+              {
+                "id": "shield",
+                "type": "path",
+                "d": "M198 39Q169 123 198 207"
+              },
+              {
+                "id": "inside",
+                "type": "path",
+                "d": "M214 105h31m-26 46h31",
+                "tone": "faint"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 95,
+                "y": 229,
+                "text": "most held outside",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "breach",
-            "type": "path",
-            "d": "M112 125 Q179 140 212 123 Q260 95 294 151",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 4
-            }
+            "caption": "A sufficiently strong event can breach that protection.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 275,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "stimuli",
+                "type": "path",
+                "d": "M35 65h89m-72 39h107m-130 42h110m-82 41h93"
+              },
+              {
+                "id": "shield",
+                "type": "path",
+                "d": "M198 39Q182 83 184 97 M184 146Q184 171 198 207"
+              },
+              {
+                "id": "inside",
+                "type": "path",
+                "d": "M126 108h205 M110 148h223"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 95,
+                "y": 229,
+                "text": "a breach",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "outside",
-            "type": "text",
-            "text": "too much, too quickly",
-            "x": 122.89,
-            "y": 225,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 7
-            }
+            "caption": "Freud uses the shield as a model of overwhelm, not a literal anatomical membrane.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 275,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "shield",
+                "type": "path",
+                "d": "M198 39Q182 83 184 97 M184 146Q184 171 198 207"
+              },
+              {
+                "id": "inside",
+                "type": "path",
+                "d": "M126 108h205 M110 148h223"
+              },
+              {
+                "id": "outside",
+                "type": "text",
+                "x": 200,
+                "y": 229,
+                "text": "too much arrives at once",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 32,
+                "text": "a theoretical model",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -15480,108 +16297,78 @@
     ],
     "readingArt": [
       {
-        "description": "a protected field / limited reception / contact and capacity",
+        "description": "A protective boundary reduces what crosses rather than preventing all contact with the world.",
         "actors": [
           {
-            "id": "outer",
+            "id": "incoming",
             "type": "path",
-            "d": "M143 58 Q243 30 288 104 Q321 185 226 204 Q119 206 112 121 Q106 76 143 58",
-            "tone": "normal"
+            "d": "M39 70h102m-102 31h102m-102 31h102m-102 31h102m-102 31h102"
           },
           {
-            "id": "surface",
+            "id": "shield",
             "type": "path",
-            "d": "M122 112 Q194 125 277 111",
-            "tone": "normal"
+            "d": "M185 45Q155 124 185 203"
           },
           {
-            "id": "person",
+            "id": "inside",
+            "type": "path",
+            "d": "M215 103h63 M215 166h48"
+          },
+          {
+            "id": "self",
             "type": "figure",
-            "x": 199,
-            "y": 144,
-            "tone": "normal"
+            "x": 310,
+            "y": 145,
+            "facing": true
           },
           {
-            "id": "label0",
+            "id": "bottom",
             "type": "text",
-            "text": "a protected field",
-            "x": 132.04,
-            "y": 45
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "limited reception",
-            "x": 138.13,
-            "y": 70
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "contact and capacity",
-            "x": 112.52,
-            "y": 227
+            "x": 200,
+            "y": 232,
+            "text": "less reaches the inner system",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "external stimulation / internal pressure / not equally escapable",
+        "description": "A breach concerns overwhelming quantity; the model does not imply that avoiding every stimulus is desirable.",
         "actors": [
           {
-            "id": "divider",
+            "id": "shield",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M165 44Q150 78 151 99 M151 151Q151 181 165 203"
           },
           {
-            "id": "left",
+            "id": "surge",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M39 110h275 M39 133h291 M39 151h275"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
+            "id": "self",
+            "type": "figure",
+            "x": 320,
+            "y": 145,
+            "facing": true
           },
           {
-            "id": "label0-line0",
+            "id": "top",
             "type": "text",
-            "text": "external",
-            "x": 81.2,
-            "y": 69
+            "x": 200,
+            "y": 27,
+            "text": "too much at once",
+            "fontSize": 17,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "stimulation",
-            "x": 68.15,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "internal",
-            "x": 247.2,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "pressure",
-            "x": 247.2,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "not equally escapable",
-            "x": 107.58,
-            "y": 217
+            "x": 200,
+            "y": 232,
+            "text": "a model for overwhelm",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -15600,108 +16387,173 @@
     "sources": [
       "freud-source-death-drive"
     ],
-    "metaphor": "A once-connected mesh is shown with several threads drawing back into isolated strands.",
+    "metaphor": "Four linked elements form a coherent arrangement; the links disappear and the arrangement comes apart, illustrating Freud’s speculative idea of a tendency against binding.",
     "scene": {
       "kind": "notebook",
       "caption": "a difficult speculation",
       "variant": "death-drive",
-      "composition": {
-        "description": "A once-connected mesh is shown with several threads drawing back into isolated strands.",
-        "actors": [
+      "lesson": {
+        "description": "Four linked elements form a coherent arrangement; the links disappear and the arrangement comes apart, illustrating Freud’s speculative idea of a tendency against binding.",
+        "beats": [
           {
-            "id": "link1",
-            "type": "path",
-            "d": "M140 109 Q199 128 256 109",
-            "tone": "faint",
-            "motion": {
-              "kind": "stretch",
-              "duration": 16,
-              "delay": 0,
-              "scale": 0.12
-            }
+            "caption": "Some tendencies make and sustain connections.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "path",
+                "d": "M95 78h51v42H95Z"
+              },
+              {
+                "id": "two",
+                "type": "path",
+                "d": "M254 80h46v42h-46Z"
+              },
+              {
+                "id": "three",
+                "type": "path",
+                "d": "M100 169l25-42 28 42Z"
+              },
+              {
+                "id": "four",
+                "type": "path",
+                "d": "M269 132q-25-3-26 20t27 23q26-2 26-22t-27-21"
+              },
+              {
+                "id": "links",
+                "type": "path",
+                "d": "M146 100H253 M126 120v14 M277 122v10 M153 155h90"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "a bound arrangement",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "link2",
-            "type": "path",
-            "d": "M149 163 Q200 140 249 163",
-            "tone": "faint",
-            "motion": {
-              "kind": "stretch",
-              "duration": 16,
-              "delay": 0,
-              "scale": 0.12
-            }
+            "caption": "Freud speculates about an opposing tendency toward undoing bonds.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "path",
+                "d": "M95 78h51v42H95Z"
+              },
+              {
+                "id": "two",
+                "type": "path",
+                "d": "M254 80h46v42h-46Z"
+              },
+              {
+                "id": "three",
+                "type": "path",
+                "d": "M100 169l25-42 28 42Z"
+              },
+              {
+                "id": "four",
+                "type": "path",
+                "d": "M269 132q-25-3-26 20t27 23q26-2 26-22t-27-21"
+              },
+              {
+                "id": "links",
+                "type": "path",
+                "d": "M146 100H190 M219 100h34 M153 155h32 M213 155h30",
+                "tone": "faint"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "connections loosen",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "left-upper",
-            "type": "path",
-            "d": "M140 109 L131 77 L168 64",
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "delay": 0,
-              "x": -24,
-              "y": -9
-            }
+            "caption": "The same elements remain, but the larger arrangement loses coherence.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "path",
+                "d": "M57 61h51v42H57Z"
+              },
+              {
+                "id": "two",
+                "type": "path",
+                "d": "M292 65h46v42h-46Z"
+              },
+              {
+                "id": "three",
+                "type": "path",
+                "d": "M59 198l25-42 28 42Z"
+              },
+              {
+                "id": "four",
+                "type": "path",
+                "d": "M315 169q-25-3-26 20t27 23q26-2 26-22t-27-21"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "unbinding",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "right-upper",
-            "type": "path",
-            "d": "M256 109 L263 76 L229 64",
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "delay": 0,
-              "x": 24,
-              "y": -9
-            }
-          },
-          {
-            "id": "left-lower",
-            "type": "path",
-            "d": "M149 163 L139 192 L178 197",
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "delay": 0,
-              "x": -24,
-              "y": 7
-            }
-          },
-          {
-            "id": "right-lower",
-            "type": "path",
-            "d": "M249 163 L257 192 L224 197",
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 16,
-              "delay": 0,
-              "x": 24,
-              "y": 7
-            }
-          },
-          {
-            "id": "meaning",
-            "type": "text",
-            "text": "unbinding",
-            "x": 164.3,
-            "y": 224,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 2
-            }
-          },
-          {
-            "id": "status",
-            "type": "text",
-            "text": "a hypothesis",
-            "x": 150.4,
-            "y": 40
+            "caption": "The death drive is a contested theoretical proposal, not a diagnosis or wish to die.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "one",
+                "type": "path",
+                "d": "M57 61h51v42H57Z"
+              },
+              {
+                "id": "two",
+                "type": "path",
+                "d": "M292 65h46v42h-46Z"
+              },
+              {
+                "id": "three",
+                "type": "path",
+                "d": "M59 198l25-42 28 42Z"
+              },
+              {
+                "id": "four",
+                "type": "path",
+                "d": "M315 169q-25-3-26 20t27 23q26-2 26-22t-27-21"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "a speculative tendency",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 200,
+                "y": 239,
+                "text": "not a conscious wish",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -15721,113 +16573,99 @@
     ],
     "readingArt": [
       {
-        "description": "The death-drive hypothesis proposes a direction of unbinding, rather than proving itself through repetition.",
+        "description": "Theoretical unbinding concerns relations between elements: the parts remain while the coherence of the whole loosens.",
         "actors": [
           {
-            "id": "connected",
+            "id": "a",
             "type": "path",
-            "d": "M67 92 L148 166 M82 173 L149 88 M69 128 L150 128",
-            "tone": "faint"
+            "d": "M48 75 l48 1 -1 46 -47 -1 Z"
           },
           {
-            "id": "direction",
+            "id": "b",
             "type": "path",
-            "d": "M172 126 L218 126 M210 120 L218 126 L210 132",
-            "tone": "normal"
+            "d": "M137 75 l48 1 -1 46 -47 -1 Z"
           },
           {
-            "id": "fragment1",
+            "id": "link",
             "type": "path",
-            "d": "M254 94 L276 106 M296 122 L319 141",
-            "tone": "normal"
+            "d": "M96 98h41"
           },
           {
-            "id": "fragment2",
+            "id": "c",
             "type": "path",
-            "d": "M251 162 L270 146 M299 104 L318 88",
-            "tone": "normal"
+            "d": "M244 64 l48 1 -1 46 -47 -1 Z"
           },
           {
-            "id": "bound",
+            "id": "d",
+            "type": "path",
+            "d": "M324 136 l48 1 -1 46 -47 -1 Z"
+          },
+          {
+            "id": "divide",
+            "type": "path",
+            "d": "M213 52v145",
+            "dashed": true
+          },
+          {
+            "id": "a-label",
             "type": "text",
-            "text": "connected",
-            "x": 71.3,
-            "y": 63
+            "x": 116,
+            "y": 229,
+            "text": "bound",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "apart",
+            "id": "b-label",
             "type": "text",
+            "x": 309,
+            "y": 229,
             "text": "unbound",
-            "x": 255.9,
-            "y": 63
-          },
-          {
-            "id": "hypothesis",
-            "type": "text",
-            "text": "a proposed tendency",
-            "x": 119.3,
-            "y": 211
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "repetition observed / death drive inferred / a substantial theoretical step",
+        "description": "A speculative theory of a drive and a conscious wish to die are different concepts.",
         "actors": [
           {
-            "id": "divider",
+            "id": "a",
+            "type": "text",
+            "x": 200,
+            "y": 74,
+            "text": "a proposed tendency toward unbinding",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "line",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
+            "d": "M43 103h314"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 200,
+            "y": 163,
+            "text": "a person’s expressed wish",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "line2",
+            "type": "path",
+            "d": "M70 191h259",
             "dashed": true
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "repetition",
-            "x": 72.5,
-            "y": 69
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "observed",
-            "x": 81.2,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "death drive",
-            "x": 234.15,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "inferred",
-            "x": 247.2,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "a substantial theoretical step",
-            "x": 77.19,
-            "y": 217
+            "x": 200,
+            "y": 234,
+            "text": "one does not establish the other",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -15846,77 +16684,193 @@
     "sources": [
       "freud-source-eros"
     ],
-    "metaphor": "Separate streams establish a connected mesh while their original strands remain distinguishable.",
+    "metaphor": "Distinct people establish reciprocal ties, making a larger relationship that preserves their difference; Freud’s Eros names a theoretical tendency to bind.",
     "scene": {
       "kind": "notebook",
       "caption": "the work of connection",
       "variant": "eros",
-      "composition": {
-        "description": "Separate streams establish a connected mesh while their original strands remain distinguishable.",
-        "actors": [
+      "lesson": {
+        "description": "Distinct people establish reciprocal ties, making a larger relationship that preserves their difference; Freud’s Eros names a theoretical tendency to bind.",
+        "beats": [
           {
-            "id": "input1",
-            "type": "path",
-            "d": "M75 62 Q150 67 198 117",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "Distinct lives stand apart.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 79,
+                "y": 145
+              },
+              {
+                "id": "two",
+                "type": "figure",
+                "x": 201,
+                "y": 145
+              },
+              {
+                "id": "three",
+                "type": "figure",
+                "x": 322,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "separate lives",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "input2",
-            "type": "path",
-            "d": "M71 122 Q155 108 199 119",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 1
-            }
+            "caption": "A relation establishes a connection between two.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 79,
+                "y": 145
+              },
+              {
+                "id": "two",
+                "type": "figure",
+                "x": 201,
+                "y": 145
+              },
+              {
+                "id": "three",
+                "type": "figure",
+                "x": 322,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "tie-one",
+                "type": "path",
+                "d": "M104 162Q140 186 175 162 M175 181Q140 209 104 181"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "a reciprocal tie",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "input3",
-            "type": "path",
-            "d": "M83 184 Q156 177 200 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "Further ties create a larger arrangement.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 79,
+                "y": 145
+              },
+              {
+                "id": "two",
+                "type": "figure",
+                "x": 201,
+                "y": 145
+              },
+              {
+                "id": "three",
+                "type": "figure",
+                "x": 322,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "tie-one",
+                "type": "path",
+                "d": "M104 162Q140 186 175 162 M175 181Q140 209 104 181"
+              },
+              {
+                "id": "tie-two",
+                "type": "path",
+                "d": "M226 163Q263 185 297 162 M297 181Q263 209 226 181"
+              },
+              {
+                "id": "tie-three",
+                "type": "path",
+                "d": "M99 77Q204 22 304 77"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "connections form a whole",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "merged",
-            "type": "path",
-            "d": "M197 121 Q228 90 256 121 Q275 156 236 164 Q209 169 197 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "delay": 0,
-              "scale": 1.07
-            }
-          },
-          {
-            "id": "many",
-            "type": "text",
-            "text": "separate units",
-            "x": 51.61,
-            "y": 211
-          },
-          {
-            "id": "one",
-            "type": "text",
-            "text": "a larger relation",
-            "x": 224.58,
-            "y": 178,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "Eros names binding in Freud’s later theory; the connected elements stay different.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "one",
+                "type": "figure",
+                "x": 79,
+                "y": 145
+              },
+              {
+                "id": "two",
+                "type": "figure",
+                "x": 201,
+                "y": 145
+              },
+              {
+                "id": "three",
+                "type": "figure",
+                "x": 322,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "tie-one",
+                "type": "path",
+                "d": "M104 162Q140 186 175 162 M175 181Q140 209 104 181"
+              },
+              {
+                "id": "tie-two",
+                "type": "path",
+                "d": "M226 163Q263 185 297 162 M297 181Q263 209 226 181"
+              },
+              {
+                "id": "tie-three",
+                "type": "path",
+                "d": "M99 77Q204 22 304 77"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 35,
+                "text": "binding, not sameness",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "result",
+                "type": "text",
+                "x": 200,
+                "y": 237,
+                "text": "a theoretical tendency toward relation",
+                "fontSize": 15,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -15936,127 +16890,97 @@
     ],
     "readingArt": [
       {
-        "description": "separate units / a larger relation / combination",
+        "description": "Binding makes a larger arrangement from distinct elements without making them identical.",
         "actors": [
           {
             "id": "a",
-            "type": "path",
-            "d": "M80 72 Q158 68 218 124",
-            "tone": "normal"
+            "type": "figure",
+            "x": 88,
+            "y": 147,
+            "pose": {
+              "scale": 0.8
+            }
           },
           {
             "id": "b",
-            "type": "path",
-            "d": "M78 123 Q157 124 218 125",
-            "tone": "normal"
+            "type": "figure",
+            "x": 207,
+            "y": 147,
+            "pose": {
+              "scale": 0.8
+            }
           },
           {
             "id": "c",
+            "type": "figure",
+            "x": 321,
+            "y": 147,
+            "pose": {
+              "scale": 0.8
+            },
+            "facing": true
+          },
+          {
+            "id": "ties",
             "type": "path",
-            "d": "M81 177 Q157 181 218 126",
-            "tone": "normal"
+            "d": "M113 168Q153 202 181 168 M232 168Q267 202 295 168 M108 79Q203 30 307 79"
           },
           {
-            "id": "result",
-            "type": "path",
-            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "separate",
-            "x": 62.2,
-            "y": 34
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "units",
-            "x": 75.25,
-            "y": 54
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "a larger",
-            "x": 240.2,
-            "y": 61
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "relation",
-            "x": 240.2,
-            "y": 81
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "combination",
-            "x": 161.08,
-            "y": 219
+            "x": 200,
+            "y": 232,
+            "text": "the differences remain within the relation",
+            "fontSize": 15,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "life-preserving bonds / romantic feeling / the theory uses a broader term",
+        "description": "Freud’s Eros concerns theoretical binding across different kinds of attachment, not simply pleasant romantic feeling.",
         "actors": [
           {
-            "id": "divider",
-            "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "id": "a",
+            "type": "text",
+            "x": 200,
+            "y": 48,
+            "text": "attachment",
+            "fontSize": 18,
+            "anchor": "middle"
           },
           {
-            "id": "left",
+            "id": "threads",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M57 139Q122 80 184 126T345 146 M63 175Q131 215 199 173T337 177"
           },
           {
-            "id": "right",
+            "id": "different",
+            "type": "group",
+            "x": 104,
+            "y": 121,
+            "children": [
+              {
+                "id": "piece",
+                "type": "path",
+                "d": "M-17-15h34v30h-34Z"
+              }
+            ]
+          },
+          {
+            "id": "round",
             "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
+            "x": 277,
+            "y": 137,
+            "r": 19
           },
           {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "life-preserving",
-            "x": 50.75,
-            "y": 69
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "bonds",
-            "x": 94.25,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "romantic",
-            "x": 247.2,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "feeling",
-            "x": 251.55,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the theory uses a broader term",
-            "x": 68.1,
-            "y": 217
+            "x": 200,
+            "y": 233,
+            "text": "different elements establish bonds",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -16075,55 +16999,209 @@
     "sources": [
       "freud-source-theory-in-revision"
     ],
-    "metaphor": "A single route branches into an observed path and a more tentative continuation drawn faintly beyond it.",
+    "metaphor": "A model explaining dreams through wished-for satisfaction meets a repeating fright it cannot easily explain; the model is revised to include further tasks and tensions.",
     "scene": {
       "kind": "notebook",
       "caption": "when the model meets its limit",
       "variant": "theory-in-revision",
-      "composition": {
-        "description": "A single route branches into an observed path and a more tentative continuation drawn faintly beyond it.",
-        "actors": [
+      "lesson": {
+        "description": "A model explaining dreams through wished-for satisfaction meets a repeating fright it cannot easily explain; the model is revised to include further tasks and tensions.",
+        "beats": [
           {
-            "id": "trunk",
-            "type": "path",
-            "d": "M80 127 Q128 115 167 126",
-            "tone": "normal"
+            "caption": "A model explains dreams by their relation to a wish.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "model",
+                "type": "path",
+                "d": "M63 60 l274 1 -1 140 -273 -1 Z"
+              },
+              {
+                "id": "theory",
+                "type": "text",
+                "x": 200,
+                "y": 105,
+                "text": "dreams",
+                "fontSize": 20,
+                "anchor": "middle"
+              },
+              {
+                "id": "explain",
+                "type": "text",
+                "x": 200,
+                "y": 155,
+                "text": "wish satisfaction",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 34,
+                "text": "an explanatory model",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "branch1",
-            "type": "path",
-            "d": "M167 126 Q209 69 294 68",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "A repeated traumatic scene is difficult to fit into the easy version.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "model",
+                "type": "path",
+                "d": "M63 60 l274 1 -1 140 -273 -1 Z"
+              },
+              {
+                "id": "theory",
+                "type": "text",
+                "x": 200,
+                "y": 105,
+                "text": "dreams",
+                "fontSize": 20,
+                "anchor": "middle"
+              },
+              {
+                "id": "explain",
+                "type": "text",
+                "x": 200,
+                "y": 155,
+                "text": "wish satisfaction",
+                "fontSize": 18,
+                "anchor": "middle",
+                "tone": "faint"
+              },
+              {
+                "id": "problem",
+                "type": "group",
+                "x": 289,
+                "y": 112,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.9
+                }
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 34,
+                "text": "an awkward case",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "branch2",
-            "type": "path",
-            "d": "M167 126 Q221 134 304 176",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "Freud revises the account around repetition, preparation and binding.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "model",
+                "type": "path",
+                "d": "M63 60 l274 1 -1 140 -273 -1 Z"
+              },
+              {
+                "id": "theory",
+                "type": "text",
+                "x": 200,
+                "y": 95,
+                "text": "dreams",
+                "fontSize": 20,
+                "anchor": "middle"
+              },
+              {
+                "id": "explain",
+                "type": "text",
+                "x": 200,
+                "y": 139,
+                "text": "wish · repetition",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "explain2",
+                "type": "text",
+                "x": 200,
+                "y": 172,
+                "text": "preparation · binding",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 34,
+                "text": "a changed account",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "yes",
-            "type": "text",
-            "text": "observation",
-            "x": 243.32,
-            "y": 48
-          },
-          {
-            "id": "no",
-            "type": "text",
-            "text": "speculation",
-            "x": 239.85,
-            "y": 210
+            "caption": "A revision asks more of the theory; it does not automatically establish the new claims.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "model",
+                "type": "path",
+                "d": "M63 60 l274 1 -1 140 -273 -1 Z"
+              },
+              {
+                "id": "theory",
+                "type": "text",
+                "x": 200,
+                "y": 95,
+                "text": "dreams",
+                "fontSize": 20,
+                "anchor": "middle"
+              },
+              {
+                "id": "explain",
+                "type": "text",
+                "x": 200,
+                "y": 139,
+                "text": "wish · repetition",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "explain2",
+                "type": "text",
+                "x": 200,
+                "y": 172,
+                "text": "preparation · binding",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "top",
+                "type": "text",
+                "x": 200,
+                "y": 34,
+                "text": "new claims need examination",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "bottom",
+                "type": "text",
+                "x": 200,
+                "y": 232,
+                "text": "retain the case that changed the model",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -16143,124 +17221,127 @@
     ],
     "readingArt": [
       {
-        "description": "observation / mechanism inferred / broad hypothesis",
+        "description": "A difficult case belongs beside the original model rather than being erased to preserve the easiest explanation.",
         "actors": [
           {
-            "id": "a",
+            "id": "model",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M37 79 l146 1 -1 91 -145 -1 Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 110,
+            "y": 113,
+            "text": "wish satisfaction",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
+            "type": "text",
+            "x": 110,
+            "y": 143,
+            "text": "original account",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "case",
             "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
+            "d": "M222 79 l146 1 -1 91 -145 -1 Z"
+          },
+          {
+            "id": "fright",
+            "type": "group",
+            "x": 295,
+            "y": 123,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.7
+            }
           },
           {
             "id": "c",
-            "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
             "type": "text",
-            "text": "observation",
-            "x": 49.09,
-            "y": 85
+            "x": 295,
+            "y": 219,
+            "text": "repeated fright",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1",
+            "id": "top",
             "type": "text",
-            "text": "mechanism inferred",
-            "x": 116.98,
-            "y": 194
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "broad",
-            "x": 280.25,
-            "y": 75
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "hypothesis",
-            "x": 258.5,
-            "y": 95
+            "x": 200,
+            "y": 40,
+            "text": "keep both visible",
+            "fontSize": 17,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "a difficult finding / one possible account / other explanations remain",
+        "description": "A revised account adds claims about repetition and binding; those claims still require scrutiny.",
         "actors": [
           {
-            "id": "trunk",
+            "id": "paper",
             "type": "path",
-            "d": "M78 122 Q118 119 154 122",
-            "tone": "normal"
+            "d": "M85 50 l230 1 -1 147 -229 -1 Z"
           },
           {
-            "id": "upper",
+            "id": "a",
+            "type": "text",
+            "x": 200,
+            "y": 86,
+            "text": "wish satisfaction",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 200,
+            "y": 128,
+            "text": "repetition",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 200,
+            "y": 169,
+            "text": "binding",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "added",
             "type": "path",
-            "d": "M154 122 Q206 63 306 73",
-            "tone": "normal"
+            "d": "M103 108h194",
+            "dashed": true
           },
           {
-            "id": "lower",
+            "id": "bottom",
+            "type": "text",
+            "x": 200,
+            "y": 232,
+            "text": "revision creates new questions",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "added-bottom",
             "type": "path",
-            "d": "M154 123 Q210 188 306 177",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
-            "type": "text",
-            "text": "a difficult",
-            "x": 42.15,
-            "y": 86
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "finding",
-            "x": 59.55,
-            "y": 106
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "one possible",
-            "x": 220.8,
-            "y": 37
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "account",
-            "x": 242.55,
-            "y": 57
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "other explanations",
-            "x": 197.7,
-            "y": 208
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "remain",
-            "x": 249.9,
-            "y": 228
+            "d": "M103 149h194",
+            "dashed": true
           }
         ]
       }
