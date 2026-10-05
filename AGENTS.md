@@ -12,7 +12,7 @@ These are the user's explicit preferences for this project. Preserve them in fut
 - Swipe left for next, right for previous. Support mouse/trackpad drag, arrow keys, and subtle navigation.
 - Tap anywhere on a card to expand or collapse its deeper reading. A larger visible reading control provides the same action. Exclude independent controls, bookmarks, and source links.
 - Expand inline within the same card, never in a separate details modal. Scroll vertically to read. Distinguish taps, horizontal swipes, and vertical scroll; use velocity, resistance, restrained springs, and depth.
-- Deeper readings may have 2–3 short paragraphs totaling around 1,500 characters across three paragraphs, with two static explanatory drawings between paragraphs on every card. Include small static explanatory art between paragraphs when useful. Keep the opening view succinct.
+- Every card has exactly three deeper-reading paragraphs totaling around 1,500 characters, with two static explanatory drawings between the paragraphs. Preserve the question to sit with and source reading beneath. Keep the opening view succinct.
 
 ## Illustration quality
 - The animation is the medium, not decoration. It should communicate the idea before the text is read.

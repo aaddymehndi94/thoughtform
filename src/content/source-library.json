@@ -515,6 +515,66 @@
     "reference": "CW 9i, “Psychological Aspects of the Mother Archetype,” §155, archetype as form rather than determinate content; compare CW 8, “On the Nature of the Psyche,” archetype and representation. IAAP institutional work/section abstracts.",
     "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
   },
+  "jung-association-reading": {
+    "title": "Experimental Researches",
+    "author": "C. G. Jung",
+    "reference": "CW 2, “The Associations of Normal Subjects” and “The Association Method”; reaction times and disturbances in association experiments. Institutional abstracts of the primary work.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-2-experimental-researches/"
+  },
+  "jung-dream-context-reading": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “General Aspects of Dream Psychology” and “On the Nature of Dreams”; individual context, associations, and interpretation.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-dream-series-reading": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On the Nature of Dreams,” §§530–569; dream series and the testing of interpretations over time.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-archetype-pattern-reading": {
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "C. G. Jung",
+    "reference": "CW 9i, “Psychological Aspects of the Mother Archetype,” §155; archetype as form rather than a fixed inherited picture.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
+  },
+  "jung-collective-unconscious-reading": {
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "C. G. Jung",
+    "reference": "CW 9i, “The Concept of the Collective Unconscious,” §§87–110. Inherited dispositions distinguished from personal recollections.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
+  },
+  "jung-four-functions-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, “General Description of the Types,” and chapter XI, definitions Feeling, Function, Intuition, Sensation, Thinking. Historical theory of orientation.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
+  },
+  "jung-introversion-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, “The Introverted Type”; chapter XI, definition Introversion. Subjective orientation distinguished from social shyness.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
+  },
+  "jung-extraversion-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, “The Extraverted Type”; chapter XI, definition Extraversion. Object-oriented attitude distinguished from social volume.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
+  },
+  "jung-inferior-function-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, differentiation of conscious and unconscious functions; chapter XI, definitions Function and Inferior Function.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
+  },
+  "jung-dream-levels-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter XI, definitions Objective Level and Subjective Level. Compare CW 8, “General Aspects of Dream Psychology.”",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
+  },
   "gm-Preface-6": {
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
