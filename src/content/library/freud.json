@@ -4193,57 +4193,168 @@
     "sources": [
       "freud-source-resistance"
     ],
-    "metaphor": "An open gate swings partly shut as a thought approaches, showing interference rather than simple absence.",
+    "metaphor": "A patient’s fluent recollection pauses at a particular relationship; the difficulty of speaking becomes part of the material.",
     "scene": {
       "kind": "notebook",
       "caption": "the pause has a history",
       "variant": "resistance",
-      "composition": {
-        "description": "An open gate swings partly shut as a thought approaches, showing interference rather than simple absence.",
-        "actors": [
+      "lesson": {
+        "description": "A patient’s fluent recollection pauses at a particular relationship; the difficulty of speaking becomes part of the material.",
+        "beats": [
           {
-            "id": "wall",
-            "type": "path",
-            "d": "M194 43 L193 99 M193 151 L194 210",
-            "tone": "normal"
+            "caption": "Conversation flows through ordinary memories.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "speaker",
+                "type": "figure",
+                "x": 72,
+                "y": 145
+              },
+              {
+                "id": "line-a",
+                "type": "text",
+                "x": 252,
+                "y": 67,
+                "text": "the journey · the room",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "line-b",
+                "type": "text",
+                "x": 252,
+                "y": 108,
+                "text": "the meal · the weather",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M113 142 Q142 134 159 130"
+              }
+            ]
           },
           {
-            "id": "gate",
-            "type": "path",
-            "d": "M193 101 L213 131 L193 153",
-            "tone": "normal",
-            "motion": {
-              "kind": "turn",
-              "duration": 14,
-              "delay": 0,
-              "angle": -32
-            }
+            "caption": "A question approaches a painful relationship.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "speaker",
+                "type": "figure",
+                "x": 72,
+                "y": 145
+              },
+              {
+                "id": "line-a",
+                "type": "text",
+                "x": 252,
+                "y": 67,
+                "text": "the journey · the room",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "line-b",
+                "type": "text",
+                "x": 252,
+                "y": 108,
+                "text": "the meal · my father",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M113 142 Q142 134 159 130"
+              },
+              {
+                "id": "underline",
+                "type": "path",
+                "d": "M271 118h73"
+              }
+            ]
           },
           {
-            "id": "idea",
-            "type": "circle",
-            "x": 139,
-            "y": 126,
-            "r": 10,
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "delay": 0,
-              "x": 46
-            }
+            "caption": "The sentence stops at that point. Silence, a joke, or a new topic follows.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "speaker",
+                "type": "figure",
+                "x": 72,
+                "y": 145
+              },
+              {
+                "id": "line-a",
+                "type": "text",
+                "x": 252,
+                "y": 67,
+                "text": "the journey · the room",
+                "fontSize": 17,
+                "anchor": "middle",
+                "tone": "faint"
+              },
+              {
+                "id": "line-b",
+                "type": "text",
+                "x": 252,
+                "y": 108,
+                "text": "the meal · my…",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "speech",
+                "type": "path",
+                "d": "M113 142 Q142 134 159 130"
+              },
+              {
+                "id": "change",
+                "type": "text",
+                "x": 248,
+                "y": 180,
+                "text": "Anyway, the weather…",
+                "fontSize": 17,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "word",
-            "type": "text",
-            "text": "not yet said",
-            "x": 242.2,
-            "y": 188,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "Freud investigates the pause with the patient; it is not proof of a hidden answer.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "speaker",
+                "type": "figure",
+                "x": 72,
+                "y": 145
+              },
+              {
+                "id": "line-b",
+                "type": "text",
+                "x": 252,
+                "y": 108,
+                "text": "the meal · my…",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "space",
+                "type": "path",
+                "d": "M330 87v42m-7-42h14m-14 42h14"
+              },
+              {
+                "id": "question",
+                "type": "text",
+                "x": 235,
+                "y": 180,
+                "text": "What became difficult here?",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -4263,122 +4374,93 @@
     ],
     "readingArt": [
       {
-        "description": "approaching material / difficulty speaking / the timing matters",
+        "description": "A pause attached to a particular subject differs from silence that occurs throughout a conversation.",
         "actors": [
           {
-            "id": "border",
+            "id": "a",
+            "type": "text",
+            "x": 200,
+            "y": 57,
+            "text": "the room · the journey · my…",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "pause",
             "type": "path",
-            "d": "M195 42 L195 97 M195 145 L195 203",
-            "tone": "normal"
+            "d": "M331 37v33m-7-33h14m-14 33h14"
           },
           {
-            "id": "gate",
+            "id": "b",
+            "type": "text",
+            "x": 200,
+            "y": 128,
+            "text": "father",
+            "fontSize": 17,
+            "anchor": "middle",
+            "tone": "shade"
+          },
+          {
+            "id": "thread",
             "type": "path",
-            "d": "M195 98 L216 122 L195 145",
-            "tone": "normal"
+            "d": "M307 81 Q328 145 238 139"
           },
           {
-            "id": "left",
-            "type": "circle",
-            "x": 113,
-            "y": 123,
-            "r": 16,
-            "tone": "normal"
-          },
-          {
-            "id": "detour",
-            "type": "path",
-            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "approaching",
-            "x": 61.15,
-            "y": 68
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "material",
-            "x": 74.2,
-            "y": 88
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "difficulty",
-            "x": 235.5,
-            "y": 68
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "speaking",
-            "x": 244.2,
-            "y": 88
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "the timing matters",
-            "x": 126.81,
-            "y": 224
+            "x": 200,
+            "y": 220,
+            "text": "why does speech stop here?",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "an objection / an interpretation / disagreement is not proof",
+        "description": "The analyst follows a difficulty with the patient rather than filling the gap with a predetermined answer.",
         "actors": [
           {
-            "id": "divider",
+            "id": "patient",
+            "type": "figure",
+            "x": 97,
+            "y": 142,
+            "pose": {
+              "scale": 0.7
+            }
+          },
+          {
+            "id": "listener",
+            "type": "figure",
+            "x": 303,
+            "y": 142,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": true
+          },
+          {
+            "id": "gap",
+            "type": "text",
+            "x": 200,
+            "y": 112,
+            "text": "…",
+            "fontSize": 23,
+            "anchor": "middle"
+          },
+          {
+            "id": "link",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
+            "d": "M125 171 Q200 204 276 171",
             "dashed": true
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "bottom",
             "type": "text",
-            "text": "an objection",
-            "x": 63.51,
-            "y": 79
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "an",
-            "x": 273.3,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "interpretation",
-            "x": 223.94,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "disagreement is not proof",
-            "x": 91.12,
-            "y": 217
+            "x": 200,
+            "y": 228,
+            "text": "a difficulty explored together",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -4397,63 +4479,258 @@
     "sources": [
       "freud-source-ambivalence"
     ],
-    "metaphor": "A beam tilts between two suspended weights without dropping either side.",
+    "metaphor": "A person approaches a loved parent and also wants distance; both feelings concern the same person and coexist.",
     "scene": {
       "kind": "notebook",
       "caption": "both at once",
       "variant": "ambivalence",
-      "composition": {
-        "description": "A beam tilts between two suspended weights without dropping either side.",
-        "actors": [
+      "lesson": {
+        "description": "A person approaches a loved parent and also wants distance; both feelings concern the same person and coexist.",
+        "beats": [
           {
-            "id": "opposed-feelings",
-            "type": "group",
-            "motion": {
-              "kind": "turn",
-              "duration": 14,
-              "delay": 0,
-              "angle": 9
-            },
-            "children": [
+            "caption": "Affection concerns a particular person.",
+            "duration": 3.6,
+            "actors": [
               {
-                "id": "arm",
-                "type": "path",
-                "d": "M84 101 Q188 100 307 101",
-                "tone": "normal"
+                "id": "self",
+                "type": "figure",
+                "x": 89,
+                "y": 145
               },
               {
-                "id": "left",
-                "type": "path",
-                "d": "M89 104 L76 151 L112 151 L103 104",
-                "tone": "normal"
+                "id": "parent",
+                "type": "figure",
+                "x": 289,
+                "y": 145,
+                "facing": true
               },
               {
-                "id": "right",
+                "id": "love",
+                "type": "group",
+                "x": 197,
+                "y": 90,
+                "children": [
+                  {
+                    "id": "heart",
+                    "type": "path",
+                    "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "approach",
                 "type": "path",
-                "d": "M288 104 L273 151 L310 151 L299 104",
-                "tone": "normal"
+                "d": "M116 166 Q195 142 260 169"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 289,
+                "y": 223,
+                "text": "the same person",
+                "fontSize": 16,
+                "anchor": "middle"
               }
             ]
           },
           {
-            "id": "support",
-            "type": "path",
-            "d": "M194 111 L178 187 L219 185 Z",
-            "tone": "normal"
+            "caption": "Hostility concerns that very same person.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 89,
+                "y": 145
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 289,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "x": 197,
+                "y": 90,
+                "children": [
+                  {
+                    "id": "heart",
+                    "type": "path",
+                    "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "hostility",
+                "type": "group",
+                "x": 197,
+                "y": 174,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "approach",
+                "type": "path",
+                "d": "M116 166 Q195 142 260 169"
+              },
+              {
+                "id": "anger",
+                "type": "text",
+                "x": 200,
+                "y": 223,
+                "text": "also angry",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "one",
-            "type": "text",
-            "text": "affection",
-            "x": 67.64,
-            "y": 206
+            "caption": "One feeling does not erase the other. The relationship carries both.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 89,
+                "y": 145
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 289,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "x": 197,
+                "y": 90,
+                "children": [
+                  {
+                    "id": "heart",
+                    "type": "path",
+                    "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "hostility",
+                "type": "group",
+                "x": 197,
+                "y": 174,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "two-threads",
+                "type": "path",
+                "d": "M115 143 Q153 57 263 121 M115 145 Q160 207 263 159"
+              },
+              {
+                "id": "anger",
+                "type": "text",
+                "x": 200,
+                "y": 223,
+                "text": "affection + hostility",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "two",
-            "type": "text",
-            "text": "hostility",
-            "x": 262.92,
-            "y": 206
+            "caption": "Ambivalence is simultaneous conflict, even when only one feeling is acknowledged.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 89,
+                "y": 145
+              },
+              {
+                "id": "parent",
+                "type": "figure",
+                "x": 289,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "love",
+                "type": "group",
+                "x": 197,
+                "y": 90,
+                "children": [
+                  {
+                    "id": "heart",
+                    "type": "path",
+                    "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "hostility",
+                "type": "group",
+                "x": 197,
+                "y": 174,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                },
+                "tone": "shade"
+              },
+              {
+                "id": "two-threads",
+                "type": "path",
+                "d": "M115 143 Q153 57 263 121 M115 145 Q160 207 263 159"
+              },
+              {
+                "id": "anger",
+                "type": "text",
+                "x": 200,
+                "y": 223,
+                "text": "both belong to the relation",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -4473,107 +4750,163 @@
     ],
     "readingArt": [
       {
-        "description": "affection / hostility / one relationship",
+        "description": "Love and hostility concern one person rather than different people.",
         "actors": [
           {
-            "id": "left",
+            "id": "parent",
+            "type": "figure",
+            "x": 200,
+            "y": 145
+          },
+          {
+            "id": "love",
+            "type": "group",
+            "x": 85,
+            "y": 126,
+            "children": [
+              {
+                "id": "heart",
+                "type": "path",
+                "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.8
+            }
+          },
+          {
+            "id": "anger",
+            "type": "group",
+            "x": 314,
+            "y": 126,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ]
+          },
+          {
+            "id": "both",
             "type": "path",
-            "d": "M75 124 Q135 120 172 125",
-            "tone": "normal"
+            "d": "M106 141 Q146 176 175 157 M293 142 Q252 177 224 157"
+          },
+          {
+            "id": "left",
+            "type": "text",
+            "x": 84,
+            "y": 221,
+            "text": "affection",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "right",
-            "type": "path",
-            "d": "M226 126 Q275 121 326 125",
-            "tone": "normal"
-          },
-          {
-            "id": "center",
-            "type": "path",
-            "d": "M175 105 Q153 138 190 152 Q224 166 229 128 Q234 91 201 89 Q177 85 175 105",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
             "type": "text",
-            "text": "affection",
-            "x": 51.44,
-            "y": 90
-          },
-          {
-            "id": "label1",
-            "type": "text",
+            "x": 316,
+            "y": 221,
             "text": "hostility",
-            "x": 271.38,
-            "y": 90
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "one relationship",
-            "x": 133.52,
-            "y": 211
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "mixed feelings / an either-or account / coexistence can be accurate",
+        "description": "Simultaneous ambivalence differs from feelings that merely change over time.",
         "actors": [
+          {
+            "id": "h1",
+            "type": "group",
+            "x": 92,
+            "y": 103,
+            "children": [
+              {
+                "id": "heart",
+                "type": "path",
+                "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.6
+            }
+          },
+          {
+            "id": "j1",
+            "type": "group",
+            "x": 92,
+            "y": 156,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.7
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 93,
+            "y": 226,
+            "text": "together",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
           {
             "id": "divider",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
+            "d": "M181 58v126",
             "dashed": true
           },
           {
-            "id": "left",
+            "id": "h2",
+            "type": "group",
+            "x": 256,
+            "y": 116,
+            "children": [
+              {
+                "id": "heart",
+                "type": "path",
+                "d": "M0 17 C-35-6-21-34 0-17 C21-35 35-6 0 17 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.6
+            }
+          },
+          {
+            "id": "j2",
+            "type": "group",
+            "x": 332,
+            "y": 116,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ],
+            "pose": {
+              "scale": 0.7
+            }
+          },
+          {
+            "id": "time",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M241 171h107"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "b",
             "type": "text",
-            "text": "mixed",
-            "x": 94.25,
-            "y": 69
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "feelings",
-            "x": 81.2,
-            "y": 89
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "an either-or",
-            "x": 229.8,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "account",
-            "x": 251.55,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "coexistence can be accurate",
-            "x": 78.33,
-            "y": 217
+            "x": 297,
+            "y": 226,
+            "text": "one, then the other",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -4592,55 +4925,240 @@
     "sources": [
       "freud-source-unconscious-conflict"
     ],
-    "metaphor": "A single route divides into two paths that pull in different directions.",
+    "metaphor": "A person accepts an invitation but repeatedly delays preparing to go; the intended action and reluctance organize the same conduct.",
     "scene": {
       "kind": "notebook",
       "caption": "a divided intention",
       "variant": "unconscious-conflict",
-      "composition": {
-        "description": "A single route divides into two paths that pull in different directions.",
-        "actors": [
+      "lesson": {
+        "description": "A person accepts an invitation but repeatedly delays preparing to go; the intended action and reluctance organize the same conduct.",
+        "beats": [
           {
-            "id": "trunk",
-            "type": "path",
-            "d": "M80 127 Q128 115 167 126",
-            "tone": "normal"
+            "caption": "An invitation is consciously welcomed.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 85,
+                "y": 145
+              },
+              {
+                "id": "invite",
+                "type": "path",
+                "d": "M195 66 l156 1 -1 102 -155 -1 Z"
+              },
+              {
+                "id": "invitation",
+                "type": "text",
+                "x": 273,
+                "y": 101,
+                "text": "Come tonight?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "reply",
+                "type": "text",
+                "x": 273,
+                "y": 139,
+                "text": "Yes.",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "self-word",
+                "type": "text",
+                "x": 86,
+                "y": 224,
+                "text": "I want to go.",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "branch1",
-            "type": "path",
-            "d": "M167 126 Q209 69 294 68",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "A competing reluctance is harder to recognize.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 85,
+                "y": 145
+              },
+              {
+                "id": "invite",
+                "type": "path",
+                "d": "M195 66 l156 1 -1 102 -155 -1 Z"
+              },
+              {
+                "id": "invitation",
+                "type": "text",
+                "x": 273,
+                "y": 101,
+                "text": "Come tonight?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "reply",
+                "type": "text",
+                "x": 273,
+                "y": 139,
+                "text": "Yes.",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "reluctance",
+                "type": "group",
+                "x": 137,
+                "y": 166,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "self-word",
+                "type": "text",
+                "x": 86,
+                "y": 224,
+                "text": "hesitation",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "branch2",
-            "type": "path",
-            "d": "M167 126 Q221 134 304 176",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "Preparations keep stalling: the person remains between going and staying.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 169,
+                "y": 145
+              },
+              {
+                "id": "exitframe",
+                "type": "path",
+                "d": "M264 200 v-145 l62 1 v144"
+              },
+              {
+                "id": "exitleaf",
+                "type": "path",
+                "d": "M268 58 l48 -13 v151 l-48 6 Z"
+              },
+              {
+                "id": "exitknob",
+                "type": "circle",
+                "x": 309,
+                "y": 127.5,
+                "r": 2
+              },
+              {
+                "id": "reluctance",
+                "type": "group",
+                "x": 137,
+                "y": 166,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "ground",
+                "type": "path",
+                "d": "M58 201h293"
+              },
+              {
+                "id": "foot-loop",
+                "type": "path",
+                "d": "M173 196 Q224 229 240 193 Q217 165 173 196"
+              },
+              {
+                "id": "self-word",
+                "type": "text",
+                "x": 118,
+                "y": 39,
+                "text": "getting ready…",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "yes",
-            "type": "text",
-            "text": "one tendency",
-            "x": 236.31,
-            "y": 48
-          },
-          {
-            "id": "no",
-            "type": "text",
-            "text": "another tendency",
-            "x": 217.16,
-            "y": 210
+            "caption": "Freud asks how both purposes enter the action, rather than assuming one simple motive.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 169,
+                "y": 145
+              },
+              {
+                "id": "exitframe",
+                "type": "path",
+                "d": "M264 200 v-145 l62 1 v144"
+              },
+              {
+                "id": "exitleaf",
+                "type": "path",
+                "d": "M268 58 l48 -13 v151 l-48 6 Z"
+              },
+              {
+                "id": "exitknob",
+                "type": "circle",
+                "x": 309,
+                "y": 127.5,
+                "r": 2
+              },
+              {
+                "id": "reluctance",
+                "type": "group",
+                "x": 137,
+                "y": 166,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "foot-loop",
+                "type": "path",
+                "d": "M173 196 Q224 229 240 193 Q217 165 173 196"
+              },
+              {
+                "id": "self-word",
+                "type": "text",
+                "x": 200,
+                "y": 231,
+                "text": "going and avoiding",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -4660,97 +5178,123 @@
     ],
     "readingArt": [
       {
-        "description": "one action / approach / avoidance",
+        "description": "A welcomed invitation and delayed preparation can be organized by competing intentions.",
         "actors": [
           {
-            "id": "trunk",
+            "id": "invite",
             "type": "path",
-            "d": "M78 122 Q118 119 154 122",
-            "tone": "normal"
+            "d": "M29 76 l116 1 -1 78 -115 -1 Z"
           },
           {
-            "id": "upper",
+            "id": "yes",
+            "type": "text",
+            "x": 87,
+            "y": 122,
+            "text": "Yes, tonight.",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 241,
+            "y": 145
+          },
+          {
+            "id": "exitframe",
             "type": "path",
-            "d": "M154 122 Q206 63 306 73",
-            "tone": "normal"
+            "d": "M302 192 v-122 l43 1 v121"
           },
           {
-            "id": "lower",
+            "id": "exitleaf",
             "type": "path",
-            "d": "M154 123 Q210 188 306 177",
-            "tone": "normal"
+            "d": "M306 73 l29 -13 v128 l-29 6 Z"
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "one action",
-            "x": 45.43,
-            "y": 96
+            "id": "exitknob",
+            "type": "circle",
+            "x": 328,
+            "y": 131.0,
+            "r": 2
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "approach",
-            "x": 232.77,
-            "y": 47
+            "id": "hesitation",
+            "type": "path",
+            "d": "M238 192 Q291 207 276 175 Q256 159 238 192"
           },
           {
-            "id": "label2",
+            "id": "bottom",
             "type": "text",
-            "text": "avoidance",
-            "x": 232.9,
-            "y": 207
+            "x": 200,
+            "y": 227,
+            "text": "accepted · still not leaving",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "closeness / dependence feared / two genuine tendencies",
+        "description": "Conscious endorsement and an inferred interfering intention have different evidential status.",
         "actors": [
           {
-            "id": "left",
+            "id": "a",
+            "type": "text",
+            "x": 105,
+            "y": 81,
+            "text": "I want to go.",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "known",
             "type": "path",
-            "d": "M75 124 Q135 120 172 125",
-            "tone": "normal"
+            "d": "M35 105h141"
           },
           {
-            "id": "right",
+            "id": "a2",
+            "type": "text",
+            "x": 105,
+            "y": 150,
+            "text": "stated intention",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "other",
+            "type": "group",
+            "x": 302,
+            "y": 93,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ]
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 302,
+            "y": 150,
+            "text": "possible reluctance",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "unknown",
             "type": "path",
-            "d": "M226 126 Q275 121 326 125",
-            "tone": "normal"
+            "d": "M234 167h136",
+            "dashed": true
           },
           {
-            "id": "center",
-            "type": "path",
-            "d": "M175 105 Q153 138 190 152 Q224 166 229 128 Q234 91 201 89 Q177 85 175 105",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "bottom",
             "type": "text",
-            "text": "closeness",
-            "x": 47.16,
-            "y": 90
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "dependence",
-            "x": 261.5,
-            "y": 80
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "feared",
-            "x": 278.9,
-            "y": 100
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "two genuine tendencies",
-            "x": 100.35,
-            "y": 211
+            "x": 200,
+            "y": 225,
+            "text": "investigate how both enter the action",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -4769,63 +5313,194 @@
     "sources": [
       "freud-source-psychic-determinism"
     ],
-    "metaphor": "An apparently isolated dot becomes connected to a winding chain of remembered associations.",
+    "metaphor": "A misplaced invitation is investigated alongside the person’s associations to the gathering; psychological connection is a question requiring evidence.",
     "scene": {
       "kind": "notebook",
       "caption": "the apparently accidental",
       "variant": "psychic-determinism",
-      "composition": {
-        "description": "An apparently isolated dot becomes connected to a winding chain of remembered associations.",
-        "actors": [
+      "lesson": {
+        "description": "A misplaced invitation is investigated alongside the person’s associations to the gathering; psychological connection is a question requiring evidence.",
+        "beats": [
           {
-            "id": "word",
-            "type": "circle",
-            "x": 78,
-            "y": 128,
-            "r": 5,
-            "tone": "normal"
+            "caption": "An invitation has been misplaced.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M63 90 l270 1 -1 88 -269 -1 Z"
+              },
+              {
+                "id": "handle",
+                "type": "path",
+                "d": "M170 127h52"
+              },
+              {
+                "id": "fact",
+                "type": "text",
+                "x": 200,
+                "y": 45,
+                "text": "Where did I put it?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M101 112 l66 1 -1 41 -65 -1 Z",
+                "tone": "faint"
+              }
+            ]
           },
           {
-            "id": "thread",
-            "type": "path",
-            "d": "M83 128 Q128 73 165 117 Q203 169 240 116 Q279 72 320 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "Freud asks about this particular gathering and its associations.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "drawer",
+                "type": "path",
+                "d": "M63 90 l270 1 -1 88 -269 -1 Z"
+              },
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M101 112 l66 1 -1 41 -65 -1 Z"
+              },
+              {
+                "id": "fact",
+                "type": "text",
+                "x": 200,
+                "y": 45,
+                "text": "Which gathering?",
+                "fontSize": 18,
+                "anchor": "middle"
+              },
+              {
+                "id": "association",
+                "type": "text",
+                "x": 249,
+                "y": 119,
+                "text": "awkward",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "association-tail",
+                "type": "text",
+                "x": 249,
+                "y": 145,
+                "text": "reunion",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "detail",
-            "x": 60.42,
-            "y": 191
+            "caption": "A connection may emerge: not wanting to meet someone there.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M51 83 l98 1 -1 70 -97 -1 Z"
+              },
+              {
+                "id": "letter-label",
+                "type": "text",
+                "x": 99,
+                "y": 124,
+                "text": "invitation",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 226,
+                "y": 154,
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 322,
+                "y": 154,
+                "pose": {
+                  "scale": 0.7
+                },
+                "tone": "shade",
+                "facing": true
+              },
+              {
+                "id": "distance",
+                "type": "path",
+                "d": "M252 162h36",
+                "dashed": true
+              },
+              {
+                "id": "association",
+                "type": "text",
+                "x": 268,
+                "y": 221,
+                "text": "reluctance to meet",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "b",
-            "type": "text",
-            "text": "memory",
-            "x": 151.73,
-            "y": 85,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 3
-            }
-          },
-          {
-            "id": "c",
-            "type": "text",
-            "text": "another thought",
-            "x": 233.9,
-            "y": 191,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "The mistake starts an investigation. It does not select its own explanation.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "letter",
+                "type": "path",
+                "d": "M51 83 l98 1 -1 70 -97 -1 Z"
+              },
+              {
+                "id": "letter-label",
+                "type": "text",
+                "x": 99,
+                "y": 124,
+                "text": "invitation",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 277,
+                "y": 78,
+                "text": "distraction?",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 277,
+                "y": 127,
+                "text": "reluctance?",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 277,
+                "y": 176,
+                "text": "both?",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "questions",
+                "type": "path",
+                "d": "M149 119 H186 M186 78v98 M186 78h32 M186 127h32 M186 176h32"
+              }
+            ]
           }
         ]
       }
@@ -4845,117 +5520,103 @@
     ],
     "readingArt": [
       {
-        "description": "ordinary error / associations / proposed connection",
+        "description": "A mislaid letter is an observation; the link to an awkward reunion comes from associated material.",
         "actors": [
           {
-            "id": "a",
+            "id": "letter",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M45 79 l95 1 -1 70 -94 -1 Z"
+          },
+          {
+            "id": "letter-label",
+            "type": "text",
+            "x": 92,
+            "y": 123,
+            "text": "invitation",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 266,
+            "y": 151,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
           },
           {
             "id": "b",
+            "type": "figure",
+            "x": 326,
+            "y": 151,
+            "pose": {
+              "scale": 0.65
+            },
+            "facing": true
+          },
+          {
+            "id": "bridge",
             "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
+            "d": "M140 113 H215",
+            "dashed": true
           },
           {
-            "id": "c",
-            "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "bottom",
             "type": "text",
-            "text": "ordinary error",
-            "x": 40.99,
-            "y": 85
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "associations",
-            "x": 148.39,
-            "y": 194
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "proposed",
-            "x": 264.39,
-            "y": 75
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "connection",
-            "x": 255.69,
-            "y": 95
+            "x": 200,
+            "y": 225,
+            "text": "a connection to investigate",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "forgetting / attention mechanism / possible personal meaning",
+        "description": "Careful inquiry considers ordinary distraction alongside possible conflict.",
         "actors": [
           {
-            "id": "trunk",
+            "id": "drawer",
             "type": "path",
-            "d": "M78 122 Q118 119 154 122",
-            "tone": "normal"
+            "d": "M140 81 l119 1 -1 74 -118 -1 Z"
           },
           {
-            "id": "upper",
+            "id": "handle",
             "type": "path",
-            "d": "M154 122 Q206 63 306 73",
-            "tone": "normal"
+            "d": "M183 119h35"
           },
           {
-            "id": "lower",
+            "id": "branches",
             "type": "path",
-            "d": "M154 123 Q210 188 306 177",
-            "tone": "normal"
+            "d": "M145 168 Q114 185 80 185 M255 168 Q285 185 319 185"
           },
           {
-            "id": "label0",
+            "id": "a",
             "type": "text",
-            "text": "forgetting",
-            "x": 48.91,
-            "y": 96
+            "x": 82,
+            "y": 222,
+            "text": "distraction",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "b",
             "type": "text",
-            "text": "attention",
-            "x": 233.85,
-            "y": 37
+            "x": 315,
+            "y": 222,
+            "text": "conflict",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line1",
+            "id": "top",
             "type": "text",
-            "text": "mechanism",
-            "x": 233.85,
-            "y": 57
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "possible",
-            "x": 241.2,
-            "y": 208
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "personal meaning",
-            "x": 206.4,
-            "y": 228
+            "x": 200,
+            "y": 45,
+            "text": "one lapse · several possibilities",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -4974,77 +5635,290 @@
     "sources": [
       "freud-source-multiple-determination"
     ],
-    "metaphor": "Several independently drawn paths meet in one knot, each retaining its own entry point.",
+    "metaphor": "One ritual draws on an early fear, a later conflict and current pressure; several histories contribute to one symptom.",
     "scene": {
       "kind": "notebook",
       "caption": "more than one cause",
       "variant": "multiple-determination",
-      "composition": {
-        "description": "Several independently drawn paths meet in one knot, each retaining its own entry point.",
-        "actors": [
+      "lesson": {
+        "description": "One ritual draws on an early fear, a later conflict and current pressure; several histories contribute to one symptom.",
+        "beats": [
           {
-            "id": "input1",
-            "type": "path",
-            "d": "M75 62 Q150 67 198 117",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "One repeated ritual is visible in the present.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "ritualframe",
+                "type": "path",
+                "d": "M172 198 v-132 l53 1 v131"
+              },
+              {
+                "id": "ritualleaf",
+                "type": "path",
+                "d": "M176 69 h45 v126 h-45 Z"
+              },
+              {
+                "id": "ritualknob",
+                "type": "circle",
+                "x": 208,
+                "y": 132.0,
+                "r": 2
+              },
+              {
+                "id": "check",
+                "type": "path",
+                "d": "M174 211v11m12-11v11m12-11v11m12-11v11"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 37,
+                "text": "repeated checking",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "input2",
-            "type": "path",
-            "d": "M71 122 Q155 108 199 119",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 1
-            }
+            "caption": "An earlier fear can contribute a familiar form.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "ritualframe",
+                "type": "path",
+                "d": "M172 198 v-132 l53 1 v131"
+              },
+              {
+                "id": "ritualleaf",
+                "type": "path",
+                "d": "M176 69 h45 v126 h-45 Z"
+              },
+              {
+                "id": "ritualknob",
+                "type": "circle",
+                "x": 208,
+                "y": 132.0,
+                "r": 2
+              },
+              {
+                "id": "past",
+                "type": "text",
+                "x": 78,
+                "y": 65,
+                "text": "early fear",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "old-trace",
+                "type": "path",
+                "d": "M64 95 Q127 96 176 157",
+                "tone": "shade"
+              },
+              {
+                "id": "old-fear",
+                "type": "group",
+                "x": 63,
+                "y": 128,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 37,
+                "text": "one symptom",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "input3",
-            "type": "path",
-            "d": "M83 184 Q156 177 200 122",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 2
-            }
+            "caption": "A current conflict supplies another pressure.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "ritualframe",
+                "type": "path",
+                "d": "M172 198 v-132 l53 1 v131"
+              },
+              {
+                "id": "ritualleaf",
+                "type": "path",
+                "d": "M176 69 h45 v126 h-45 Z"
+              },
+              {
+                "id": "ritualknob",
+                "type": "circle",
+                "x": 208,
+                "y": 132.0,
+                "r": 2
+              },
+              {
+                "id": "past",
+                "type": "text",
+                "x": 78,
+                "y": 65,
+                "text": "early fear",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "old-trace",
+                "type": "path",
+                "d": "M64 95 Q127 96 176 157",
+                "tone": "shade"
+              },
+              {
+                "id": "old-fear",
+                "type": "group",
+                "x": 63,
+                "y": 128,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "now",
+                "type": "text",
+                "x": 306,
+                "y": 82,
+                "text": "current conflict",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "new-trace",
+                "type": "path",
+                "d": "M324 116 Q268 112 225 163"
+              },
+              {
+                "id": "new-fear",
+                "type": "group",
+                "x": 327,
+                "y": 148,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              }
+            ]
           },
           {
-            "id": "merged",
-            "type": "path",
-            "d": "M197 121 Q228 90 256 121 Q275 156 236 164 Q209 169 197 121",
-            "tone": "normal",
-            "motion": {
-              "kind": "pulse",
-              "duration": 14,
-              "delay": 0,
-              "scale": 1.07
-            }
-          },
-          {
-            "id": "many",
-            "type": "text",
-            "text": "several histories",
-            "x": 45.19,
-            "y": 211
-          },
-          {
-            "id": "one",
-            "type": "text",
-            "text": "one pattern",
-            "x": 237.7,
-            "y": 178,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "Several histories converge. Finding one connection need not complete the account.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "ritualframe",
+                "type": "path",
+                "d": "M172 198 v-132 l53 1 v131"
+              },
+              {
+                "id": "ritualleaf",
+                "type": "path",
+                "d": "M176 69 h45 v126 h-45 Z"
+              },
+              {
+                "id": "ritualknob",
+                "type": "circle",
+                "x": 208,
+                "y": 132.0,
+                "r": 2
+              },
+              {
+                "id": "past",
+                "type": "text",
+                "x": 78,
+                "y": 65,
+                "text": "early fear",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "old-trace",
+                "type": "path",
+                "d": "M64 95 Q127 96 176 157",
+                "tone": "shade"
+              },
+              {
+                "id": "old-fear",
+                "type": "group",
+                "x": 63,
+                "y": 128,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "now",
+                "type": "text",
+                "x": 306,
+                "y": 82,
+                "text": "current conflict",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "new-trace",
+                "type": "path",
+                "d": "M324 116 Q268 112 225 163"
+              },
+              {
+                "id": "new-fear",
+                "type": "group",
+                "x": 327,
+                "y": 148,
+                "children": [
+                  {
+                    "id": "shape",
+                    "type": "path",
+                    "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+                  }
+                ],
+                "pose": {
+                  "scale": 0.7
+                }
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 232,
+                "text": "more than one contribution",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -5064,120 +5938,128 @@
     ],
     "readingArt": [
       {
-        "description": "several histories / one pattern / relations can reinforce",
+        "description": "An early fear and current circumstances can meet in one ritual, without being the same cause.",
         "actors": [
           {
-            "id": "a",
+            "id": "early",
+            "type": "group",
+            "x": 74,
+            "y": 86,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ]
+          },
+          {
+            "id": "now",
+            "type": "group",
+            "x": 324,
+            "y": 86,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ]
+          },
+          {
+            "id": "ritualframe",
             "type": "path",
-            "d": "M80 72 Q158 68 218 124",
-            "tone": "normal"
+            "d": "M174 193 v-101 l51 1 v100"
+          },
+          {
+            "id": "ritualleaf",
+            "type": "path",
+            "d": "M178 95 h43 v95 h-43 Z"
+          },
+          {
+            "id": "ritualknob",
+            "type": "circle",
+            "x": 208,
+            "y": 142.5,
+            "r": 2
+          },
+          {
+            "id": "converge",
+            "type": "path",
+            "d": "M84 111 Q129 160 176 170 M310 111 Q273 160 224 170"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 74,
+            "y": 43,
+            "text": "earlier fear",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "path",
-            "d": "M78 123 Q157 124 218 125",
-            "tone": "normal"
-          },
-          {
-            "id": "c",
-            "type": "path",
-            "d": "M81 177 Q157 181 218 126",
-            "tone": "normal"
+            "type": "text",
+            "x": 324,
+            "y": 43,
+            "text": "current conflict",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "result",
-            "type": "path",
-            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
             "type": "text",
-            "text": "several",
-            "x": 66.55,
-            "y": 34
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "histories",
-            "x": 57.85,
-            "y": 54
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "one pattern",
-            "x": 225.55,
-            "y": 71
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "relations can reinforce",
-            "x": 119.91,
-            "y": 219
+            "x": 200,
+            "y": 231,
+            "text": "one repeated check",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "one connection / the whole account / plausible is not exhaustive",
+        "description": "Finding a psychological connection need not rule out bodily or situational contributors to a symptom.",
         "actors": [
           {
-            "id": "divider",
+            "id": "a",
+            "type": "text",
+            "x": 200,
+            "y": 48,
+            "text": "one symptom",
+            "fontSize": 18,
+            "anchor": "middle"
+          },
+          {
+            "id": "traces",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M85 189 Q86 100 183 90 M200 194V92 M315 189 Q316 100 217 90"
           },
           {
-            "id": "left",
-            "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "b",
             "type": "text",
-            "text": "one",
-            "x": 102.95,
-            "y": 69
+            "x": 76,
+            "y": 221,
+            "text": "bodily",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "c",
             "type": "text",
-            "text": "connection",
-            "x": 72.5,
-            "y": 89
+            "x": 200,
+            "y": 221,
+            "text": "situational",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
+            "id": "d",
             "type": "text",
-            "text": "the whole",
-            "x": 242.85,
-            "y": 69
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "account",
-            "x": 251.55,
-            "y": 89
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "plausible is not exhaustive",
-            "x": 89.63,
-            "y": 217
+            "x": 325,
+            "y": 221,
+            "text": "psychological",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -5196,63 +6078,202 @@
     "sources": [
       "freud-source-fantasy-reality"
     ],
-    "metaphor": "A faint imagined figure leaves a visible mark inside a present figure while the two remain spatially separate.",
+    "metaphor": "An imagined rejection affects a real decision: the person withdraws before the other person has responded.",
     "scene": {
       "kind": "notebook",
       "caption": "a real effect, an imagined scene",
       "variant": "fantasy-reality",
-      "composition": {
-        "description": "A faint imagined figure leaves a visible mark inside a present figure while the two remain spatially separate.",
-        "actors": [
+      "lesson": {
+        "description": "An imagined rejection affects a real decision: the person withdraws before the other person has responded.",
+        "beats": [
           {
-            "id": "earlier",
-            "type": "figure",
-            "x": 103,
-            "y": 133,
-            "tone": "faint"
+            "caption": "A conversation is possible. The other person has not answered.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 88,
+                "y": 164,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 309,
+                "y": 164,
+                "facing": true,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "question",
+                "type": "path",
+                "d": "M134 50 h116 v57 h-91 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "words",
+                "type": "text",
+                "x": 192,
+                "y": 83,
+                "text": "May I ask?",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "present",
-            "type": "figure",
-            "x": 273,
-            "y": 140,
-            "tone": "normal"
+            "caption": "An imagined rejection fills the empty space.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 88,
+                "y": 164,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 309,
+                "y": 164,
+                "tone": "faint",
+                "facing": true,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "fantasy",
+                "type": "path",
+                "d": "M137 40 h214 v58 h-189 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "words",
+                "type": "text",
+                "x": 244,
+                "y": 76,
+                "text": "They will laugh at me.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "kind",
+                "type": "text",
+                "x": 215,
+                "y": 225,
+                "text": "imagined response",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "trace",
-            "type": "path",
-            "d": "M132 103 Q188 58 245 104",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 0
-            }
+            "caption": "The person withdraws without beginning the real conversation.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 53,
+                "y": 164,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 309,
+                "y": 164,
+                "facing": true,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "fantasy",
+                "type": "path",
+                "d": "M137 40 h214 v58 h-189 l-15 16 2-16 h-12 Z"
+              },
+              {
+                "id": "words",
+                "type": "text",
+                "x": 244,
+                "y": 76,
+                "text": "They will laugh at me.",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "closed",
+                "type": "path",
+                "d": "M190 151v43 M210 151v43"
+              },
+              {
+                "id": "kind",
+                "type": "text",
+                "x": 229,
+                "y": 226,
+                "text": "no conversation",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "interior",
-            "type": "path",
-            "d": "M263 122 Q286 114 291 136 Q281 153 264 143 Z",
-            "tone": "shade",
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
-          },
-          {
-            "id": "before",
-            "type": "text",
-            "text": "an attachment",
-            "x": 53.29,
-            "y": 206
-          },
-          {
-            "id": "after",
-            "type": "text",
-            "text": "a lasting pattern",
-            "x": 223.76,
-            "y": 212
+            "caption": "The fantasy has a real effect. It does not establish that rejection occurred.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 53,
+                "y": 164,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "other",
+                "type": "figure",
+                "x": 309,
+                "y": 164,
+                "facing": true,
+                "pose": {
+                  "scale": 0.85
+                }
+              },
+              {
+                "id": "words",
+                "type": "text",
+                "x": 213,
+                "y": 89,
+                "text": "imagined rejection",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "closed",
+                "type": "path",
+                "d": "M190 151v43 M210 151v43"
+              },
+              {
+                "id": "kind",
+                "type": "text",
+                "x": 215,
+                "y": 226,
+                "text": "real withdrawal",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -5272,116 +6293,120 @@
     ],
     "readingArt": [
       {
-        "description": "imagined event / external event / not the same kind of claim",
+        "description": "An imagined rejection can produce actual withdrawal before any response has occurred.",
         "actors": [
           {
-            "id": "divider",
+            "id": "self",
+            "type": "figure",
+            "x": 84,
+            "y": 164,
+            "pose": {
+              "scale": 0.85
+            }
+          },
+          {
+            "id": "other",
+            "type": "figure",
+            "x": 314,
+            "y": 164,
+            "facing": true,
+            "pose": {
+              "scale": 0.85
+            }
+          },
+          {
+            "id": "imagined",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M143 40 h208 v58 h-183 l-15 16 2-16 h-12 Z"
           },
           {
-            "id": "left",
+            "id": "words",
+            "type": "text",
+            "x": 247,
+            "y": 77,
+            "text": "They will refuse.",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "barrier",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M189 147v48 M207 147v48"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "a",
             "type": "text",
-            "text": "imagined",
-            "x": 81.2,
-            "y": 69
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "event",
-            "x": 94.25,
-            "y": 89
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "external event",
-            "x": 222.42,
-            "y": 79
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "not the same kind of claim",
-            "x": 88.44,
-            "y": 217
+            "x": 200,
+            "y": 224,
+            "text": "the reply has not happened",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "an imagined scene / a present feeling / a real psychological effect",
+        "description": "The effect of a mental scene and the factual status of the imagined event are separate questions.",
         "actors": [
           {
+            "id": "scene",
+            "type": "path",
+            "d": "M36 73 l142 1 -1 74 -141 -1 Z"
+          },
+          {
             "id": "a",
-            "type": "figure",
-            "x": 103,
-            "y": 142,
-            "tone": "normal"
+            "type": "text",
+            "x": 107,
+            "y": 108,
+            "text": "imagined scene",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
             "id": "b",
-            "type": "figure",
-            "x": 294,
-            "y": 143,
-            "tone": "normal"
+            "type": "text",
+            "x": 107,
+            "y": 134,
+            "text": "psychical effect",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "link",
+            "id": "event",
             "type": "path",
-            "d": "M127 105 Q198 65 270 107",
-            "tone": "normal"
+            "d": "M223 73 l142 1 -1 74 -141 -1 Z"
           },
           {
-            "id": "label0-line0",
+            "id": "c",
             "type": "text",
-            "text": "an imagined",
-            "x": 53.15,
-            "y": 208
+            "x": 294,
+            "y": 108,
+            "text": "external event",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "d",
             "type": "text",
-            "text": "scene",
-            "x": 79.25,
-            "y": 228
+            "x": 294,
+            "y": 134,
+            "text": "requires evidence",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "a present",
-            "x": 254.85,
-            "y": 208
+            "id": "divide",
+            "type": "path",
+            "d": "M201 54v132",
+            "dashed": true
           },
           {
-            "id": "label1-line1",
+            "id": "bottom",
             "type": "text",
-            "text": "feeling",
-            "x": 263.55,
-            "y": 228
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "a real psychological effect",
-            "x": 88.14,
-            "y": 61
+            "x": 200,
+            "y": 229,
+            "text": "one does not establish the other",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -5400,57 +6425,206 @@
     "sources": [
       "freud-source-day-residue"
     ],
-    "metaphor": "A recent small detail passes through a gate and connects with branching older associations.",
+    "metaphor": "Yesterday’s railway ticket reappears inside a dream with older concerns; a recent impression gives the dream material without explaining everything.",
     "scene": {
       "kind": "notebook",
       "caption": "yesterday remains",
       "variant": "day-residue",
-      "composition": {
-        "description": "A recent small detail passes through a gate and connects with branching older associations.",
-        "actors": [
+      "lesson": {
+        "description": "Yesterday’s railway ticket reappears inside a dream with older concerns; a recent impression gives the dream material without explaining everything.",
+        "beats": [
           {
-            "id": "wall",
-            "type": "path",
-            "d": "M194 43 L193 99 M193 151 L194 210",
-            "tone": "normal"
+            "caption": "Yesterday: a ticket, a journey, a brief impression.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "ticket",
+                "type": "path",
+                "d": "M118 82h165v83h-165Z M237 84v79"
+              },
+              {
+                "id": "ticket-label",
+                "type": "text",
+                "x": 177,
+                "y": 129,
+                "text": "TICKET",
+                "fontSize": 17,
+                "anchor": "middle"
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 200,
+                "y": 218,
+                "text": "yesterday",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "gate",
-            "type": "path",
-            "d": "M193 101 L213 131 L193 153",
-            "tone": "normal",
-            "motion": {
-              "kind": "turn",
-              "duration": 14,
-              "delay": 0,
-              "angle": -32
-            }
+            "caption": "The same ticket enters a dream scene.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "ticket",
+                "type": "path",
+                "d": "M160 91h90v49h-90Z M227 93v46"
+              },
+              {
+                "id": "ticket-label",
+                "type": "text",
+                "x": 195,
+                "y": 122,
+                "text": "TICKET",
+                "fontSize": 14,
+                "anchor": "middle"
+              },
+              {
+                "id": "stationframe",
+                "type": "path",
+                "d": "M75 196 v-136 l66 1 v135"
+              },
+              {
+                "id": "stationleaf",
+                "type": "path",
+                "d": "M79 63 h58 v130 h-58 Z"
+              },
+              {
+                "id": "stationknob",
+                "type": "circle",
+                "x": 124,
+                "y": 128.0,
+                "r": 2
+              },
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 294,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 200,
+                "y": 218,
+                "text": "dream material",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "idea",
-            "type": "circle",
-            "x": 139,
-            "y": 126,
-            "r": 10,
-            "tone": "normal",
-            "motion": {
-              "kind": "travel",
-              "duration": 14,
-              "delay": 0,
-              "x": 122
-            }
+            "caption": "It joins a more enduring concern: missing a departure.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "ticket",
+                "type": "path",
+                "d": "M160 91h90v49h-90Z M227 93v46"
+              },
+              {
+                "id": "ticket-label",
+                "type": "text",
+                "x": 195,
+                "y": 122,
+                "text": "TICKET",
+                "fontSize": 14,
+                "anchor": "middle"
+              },
+              {
+                "id": "stationframe",
+                "type": "path",
+                "d": "M75 196 v-136 l66 1 v135"
+              },
+              {
+                "id": "stationleaf",
+                "type": "path",
+                "d": "M79 63 h58 v130 h-58 Z"
+              },
+              {
+                "id": "stationknob",
+                "type": "circle",
+                "x": 124,
+                "y": 128.0,
+                "r": 2
+              },
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 294,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "rails",
+                "type": "path",
+                "d": "M171 177 H340 M171 190 H340 m-153-19v24m30-24v24m30-24v24m30-24v24m30-24v24"
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 200,
+                "y": 231,
+                "text": "a familiar worry about leaving",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "word",
-            "type": "text",
-            "text": "a recent impression",
-            "x": 216.65,
-            "y": 188,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 4
-            }
+            "caption": "Recent impressions supply material; the dream’s other connections still matter.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "ticket",
+                "type": "path",
+                "d": "M160 91h90v49h-90Z M227 93v46"
+              },
+              {
+                "id": "ticket-label",
+                "type": "text",
+                "x": 195,
+                "y": 122,
+                "text": "TICKET",
+                "fontSize": 14,
+                "anchor": "middle"
+              },
+              {
+                "id": "stationframe",
+                "type": "path",
+                "d": "M75 196 v-136 l66 1 v135"
+              },
+              {
+                "id": "stationleaf",
+                "type": "path",
+                "d": "M79 63 h58 v130 h-58 Z"
+              },
+              {
+                "id": "stationknob",
+                "type": "circle",
+                "x": 124,
+                "y": 128.0,
+                "r": 2
+              },
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 294,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "time",
+                "type": "text",
+                "x": 200,
+                "y": 231,
+                "text": "recent + older connections",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -5470,124 +6644,114 @@
     ],
     "readingArt": [
       {
-        "description": "recent impression / association / dream element",
+        "description": "A railway ticket recently seen becomes available as material for the dream.",
         "actors": [
           {
+            "id": "ticket",
+            "type": "path",
+            "d": "M57 84h120v78H57Z M145 86v74"
+          },
+          {
             "id": "a",
+            "type": "text",
+            "x": 103,
+            "y": 127,
+            "text": "TICKET",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "dreamframe",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M252 191 v-122 l61 1 v121"
           },
           {
-            "id": "b",
+            "id": "dreamleaf",
             "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
+            "d": "M256 72 h53 v116 h-53 Z"
           },
           {
-            "id": "c",
+            "id": "dreamknob",
+            "type": "circle",
+            "x": 296,
+            "y": 130.0,
+            "r": 2
+          },
+          {
+            "id": "thread",
             "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
+            "d": "M176 119 Q214 91 251 124"
           },
           {
-            "id": "link",
-            "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "left",
             "type": "text",
-            "text": "recent",
-            "x": 72.9,
-            "y": 75
+            "x": 117,
+            "y": 222,
+            "text": "yesterday",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "right",
             "type": "text",
-            "text": "impression",
-            "x": 55.5,
-            "y": 95
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "association",
-            "x": 152.96,
-            "y": 194
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "dream",
-            "x": 280.25,
-            "y": 75
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "element",
-            "x": 271.55,
-            "y": 95
+            "x": 285,
+            "y": 222,
+            "text": "in the dream",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "visible detail / recent concern / older connection",
+        "description": "A recent impression and an older concern are separate contributors: the ticket alone does not explain the dream.",
         "actors": [
           {
-            "id": "line",
+            "id": "ticket",
             "type": "path",
-            "d": "M61 107 Q117 104 167 110 T275 108 L338 106",
-            "tone": "normal"
+            "d": "M40 99h95v59H40Z"
           },
           {
-            "id": "image",
+            "id": "a",
+            "type": "text",
+            "x": 87,
+            "y": 135,
+            "text": "ticket",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "family",
+            "type": "figure",
+            "x": 310,
+            "y": 142,
+            "pose": {
+              "scale": 0.7
+            },
+            "tone": "shade",
+            "facing": true
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 307,
+            "y": 216,
+            "text": "fear of parting",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "links",
             "type": "path",
-            "d": "M169 82 L198 55 L229 81 L229 107 L166 107 Z",
-            "tone": "normal"
+            "d": "M135 131Q183 133 200 177 M291 168Q240 145 200 177"
           },
           {
-            "id": "roots",
-            "type": "path",
-            "d": "M180 109 Q142 159 94 174 M198 110 Q199 161 208 188 M220 109 Q265 154 307 180",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "c",
             "type": "text",
-            "text": "visible detail",
-            "x": 228.43,
-            "y": 78
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "recent",
-            "x": 84.9,
-            "y": 209
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "concern",
-            "x": 80.55,
-            "y": 229
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "older",
-            "x": 265.25,
-            "y": 209
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "connection",
-            "x": 243.5,
-            "y": 229
+            "x": 200,
+            "y": 234,
+            "text": "recent material + older concern",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -5606,63 +6770,223 @@
     "sources": [
       "freud-source-dream-association"
     ],
-    "metaphor": "A small dream detail begins a winding thread on which memories appear in sequence.",
+    "metaphor": "A dreamed bicycle leads the dreamer to a sibling’s gift and an earlier departure; the associations belong to that dreamer, not a symbol dictionary.",
     "scene": {
       "kind": "notebook",
       "caption": "start with the detail",
       "variant": "dream-association",
-      "composition": {
-        "description": "A small dream detail begins a winding thread on which memories appear in sequence.",
-        "actors": [
+      "lesson": {
+        "description": "A dreamed bicycle leads the dreamer to a sibling’s gift and an earlier departure; the associations belong to that dreamer, not a symbol dictionary.",
+        "beats": [
           {
-            "id": "word",
-            "type": "circle",
-            "x": 78,
-            "y": 128,
-            "r": 5,
-            "tone": "normal"
+            "caption": "A bicycle is one detail in a remembered dream.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "bike",
+                "type": "group",
+                "x": 157,
+                "y": 147,
+                "children": [
+                  {
+                    "id": "bike-shape",
+                    "type": "path",
+                    "d": "M0 0 a21 21 0 1 0 .1 0 M72 0 a21 21 0 1 0 .1 0 M0 0 25-35 50 0 H0 M25-35h30L72 0 M53-35l4-14h15 M21-41h14"
+                  }
+                ]
+              },
+              {
+                "id": "detail",
+                "type": "text",
+                "x": 200,
+                "y": 46,
+                "text": "the dream detail",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "thread",
-            "type": "path",
-            "d": "M83 128 Q128 73 165 117 Q203 169 240 116 Q279 72 320 125",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
+            "caption": "The dreamer remembers who gave them their first bicycle.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "bike",
+                "type": "group",
+                "x": 157,
+                "y": 147,
+                "children": [
+                  {
+                    "id": "bike-shape",
+                    "type": "path",
+                    "d": "M0 0 a21 21 0 1 0 .1 0 M72 0 a21 21 0 1 0 .1 0 M0 0 25-35 50 0 H0 M25-35h30L72 0 M53-35l4-14h15 M21-41h14"
+                  }
+                ]
+              },
+              {
+                "id": "sibling",
+                "type": "figure",
+                "x": 78,
+                "y": 140,
+                "pose": {
+                  "scale": 0.6
+                }
+              },
+              {
+                "id": "giver",
+                "type": "text",
+                "x": 81,
+                "y": 221,
+                "text": "my sister’s gift",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "association",
+                "type": "path",
+                "d": "M99 169 Q123 175 153 158"
+              }
+            ]
           },
           {
-            "id": "a",
-            "type": "text",
-            "text": "detail",
-            "x": 60.42,
-            "y": 191
+            "caption": "That memory leads to leaving home together.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "bike",
+                "type": "group",
+                "x": 157,
+                "y": 147,
+                "children": [
+                  {
+                    "id": "bike-shape",
+                    "type": "path",
+                    "d": "M0 0 a21 21 0 1 0 .1 0 M72 0 a21 21 0 1 0 .1 0 M0 0 25-35 50 0 H0 M25-35h30L72 0 M53-35l4-14h15 M21-41h14"
+                  }
+                ]
+              },
+              {
+                "id": "sibling",
+                "type": "figure",
+                "x": 78,
+                "y": 140,
+                "pose": {
+                  "scale": 0.6
+                }
+              },
+              {
+                "id": "homeframe",
+                "type": "path",
+                "d": "M303 180 v-108 l48 1 v107"
+              },
+              {
+                "id": "homeleaf",
+                "type": "path",
+                "d": "M307 75 l34 -13 v114 l-34 6 Z"
+              },
+              {
+                "id": "homeknob",
+                "type": "circle",
+                "x": 334,
+                "y": 126.0,
+                "r": 2
+              },
+              {
+                "id": "giver",
+                "type": "text",
+                "x": 81,
+                "y": 221,
+                "text": "my sister’s gift",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "departure",
+                "type": "text",
+                "x": 315,
+                "y": 221,
+                "text": "leaving home",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "association",
+                "type": "path",
+                "d": "M99 169 Q123 175 153 158 M250 143 Q273 142 303 142"
+              }
+            ]
           },
           {
-            "id": "b",
-            "type": "text",
-            "text": "memory",
-            "x": 151.73,
-            "y": 85,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 3
-            }
-          },
-          {
-            "id": "c",
-            "type": "text",
-            "text": "another thought",
-            "x": 233.9,
-            "y": 191,
-            "motion": {
-              "kind": "reveal",
-              "duration": 16,
-              "delay": 6
-            }
+            "caption": "Freud follows the person’s associations instead of assigning “bicycle” a fixed meaning.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "bike",
+                "type": "group",
+                "x": 157,
+                "y": 147,
+                "children": [
+                  {
+                    "id": "bike-shape",
+                    "type": "path",
+                    "d": "M0 0 a21 21 0 1 0 .1 0 M72 0 a21 21 0 1 0 .1 0 M0 0 25-35 50 0 H0 M25-35h30L72 0 M53-35l4-14h15 M21-41h14"
+                  }
+                ]
+              },
+              {
+                "id": "sibling",
+                "type": "figure",
+                "x": 78,
+                "y": 140,
+                "pose": {
+                  "scale": 0.6
+                }
+              },
+              {
+                "id": "homeframe",
+                "type": "path",
+                "d": "M303 180 v-108 l48 1 v107"
+              },
+              {
+                "id": "homeleaf",
+                "type": "path",
+                "d": "M307 75 l34 -13 v114 l-34 6 Z"
+              },
+              {
+                "id": "homeknob",
+                "type": "circle",
+                "x": 334,
+                "y": 126.0,
+                "r": 2
+              },
+              {
+                "id": "giver",
+                "type": "text",
+                "x": 81,
+                "y": 221,
+                "text": "my sister’s gift",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "departure",
+                "type": "text",
+                "x": 315,
+                "y": 221,
+                "text": "leaving home",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "heading",
+                "type": "text",
+                "x": 200,
+                "y": 39,
+                "text": "this dreamer’s connections",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -5682,117 +7006,97 @@
     ],
     "readingArt": [
       {
-        "description": "image detail / reported associations / an argued account",
+        "description": "A bicycle given by a sibling links a dream detail to that particular relationship.",
         "actors": [
           {
-            "id": "a",
+            "id": "bike",
+            "type": "group",
+            "x": 105,
+            "y": 145,
+            "children": [
+              {
+                "id": "bike-shape",
+                "type": "path",
+                "d": "M0 0 a21 21 0 1 0 .1 0 M72 0 a21 21 0 1 0 .1 0 M0 0 25-35 50 0 H0 M25-35h30L72 0 M53-35l4-14h15 M21-41h14"
+              }
+            ]
+          },
+          {
+            "id": "sister",
+            "type": "figure",
+            "x": 289,
+            "y": 140,
+            "pose": {
+              "scale": 0.7
+            },
+            "facing": true
+          },
+          {
+            "id": "connection",
             "type": "path",
-            "d": "M73 109 L124 108 L126 161 L74 161 Z",
-            "tone": "normal"
+            "d": "M193 149 Q232 170 266 154"
           },
           {
-            "id": "b",
-            "type": "path",
-            "d": "M175 109 L226 110 L227 161 L174 160 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "c",
-            "type": "path",
-            "d": "M277 109 L328 108 L326 161 L276 161 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "link",
-            "type": "path",
-            "d": "M126 136 L172 135 M230 135 L273 135",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
+            "id": "bottom",
             "type": "text",
-            "text": "image detail",
-            "x": 47.83,
-            "y": 85
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "reported associations",
-            "x": 108.82,
-            "y": 194
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "an argued",
-            "x": 262.85,
-            "y": 75
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "account",
-            "x": 271.55,
-            "y": 95
+            "x": 200,
+            "y": 225,
+            "text": "my sister gave it to me",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "one bridge / a family memory / a recent journey",
+        "description": "A universal definition for bicycle is replaced by the dreamer’s own sequence of memories.",
         "actors": [
           {
-            "id": "trunk",
+            "id": "bike",
+            "type": "group",
+            "x": 64,
+            "y": 151,
+            "children": [
+              {
+                "id": "bike-shape",
+                "type": "path",
+                "d": "M0 0 a21 21 0 1 0 .1 0 M72 0 a21 21 0 1 0 .1 0 M0 0 25-35 50 0 H0 M25-35h30L72 0 M53-35l4-14h15 M21-41h14"
+              }
+            ],
+            "pose": {
+              "scale": 0.75
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "x": 270,
+            "y": 84,
+            "text": "a gift",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "x": 270,
+            "y": 134,
+            "text": "my sister",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "x": 270,
+            "y": 184,
+            "text": "leaving home",
+            "fontSize": 17,
+            "anchor": "middle"
+          },
+          {
+            "id": "connections",
             "type": "path",
-            "d": "M78 122 Q118 119 154 122",
-            "tone": "normal"
-          },
-          {
-            "id": "upper",
-            "type": "path",
-            "d": "M154 122 Q206 63 306 73",
-            "tone": "normal"
-          },
-          {
-            "id": "lower",
-            "type": "path",
-            "d": "M154 123 Q210 188 306 177",
-            "tone": "normal"
-          },
-          {
-            "id": "label0",
-            "type": "text",
-            "text": "one bridge",
-            "x": 44.82,
-            "y": 96
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "a family",
-            "x": 238.2,
-            "y": 37
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "memory",
-            "x": 237.93,
-            "y": 57
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "a recent",
-            "x": 241.2,
-            "y": 208
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "journey",
-            "x": 245.55,
-            "y": 228
+            "d": "M137 147 Q168 86 211 84 M137 147 H211 M137 147 Q167 182 211 184"
           }
         ]
       }
@@ -5811,60 +7115,171 @@
     "sources": [
       "freud-source-dream-censorship"
     ],
-    "metaphor": "A direct line meets a narrow doorway and finds a curved route beneath it.",
+    "metaphor": "A rival-directed wish is hard to acknowledge; the dream changes the person and setting while traces of the conflict remain.",
     "scene": {
       "kind": "notebook",
       "caption": "why the disguise?",
       "variant": "dream-censorship",
-      "composition": {
-        "description": "A direct line meets a narrow doorway and finds a curved route beneath it.",
-        "actors": [
+      "lesson": {
+        "description": "A rival-directed wish is hard to acknowledge; the dream changes the person and setting while traces of the conflict remain.",
+        "beats": [
           {
-            "id": "door",
-            "type": "path",
-            "d": "M191 55 L194 179 M209 54 L211 178",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "delay": 0,
-              "x": 3
-            }
+            "caption": "A wish concerns defeating a familiar rival.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 88,
+                "y": 145
+              },
+              {
+                "id": "rival",
+                "type": "figure",
+                "x": 303,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "prize",
+                "type": "path",
+                "d": "M178 79h42v26q-21 30-42 0Z M179 87q-25-8-20 15q7 12 24 4m36-19q25-8 20 15q-7 12-24 4 M200 122v28m-17 0h34"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 302,
+                "y": 221,
+                "text": "a rival",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "pressure",
-            "type": "path",
-            "d": "M95 155 Q82 103 126 86 Q161 71 182 113 Q161 147 131 140 Q122 108 163 112",
-            "tone": "shade",
-            "motion": {
-              "kind": "pulse",
-              "duration": 12,
-              "delay": 0,
-              "scale": 1.08
-            }
+            "caption": "The wish is difficult to acknowledge alongside the person’s standards.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 88,
+                "y": 145
+              },
+              {
+                "id": "rival",
+                "type": "figure",
+                "x": 303,
+                "y": 145,
+                "facing": true
+              },
+              {
+                "id": "prize",
+                "type": "path",
+                "d": "M178 79h42v26q-21 30-42 0Z M200 122v28m-17 0h34"
+              },
+              {
+                "id": "screen",
+                "type": "path",
+                "d": "M155 53v151"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 295,
+                "y": 221,
+                "text": "unacceptable wish",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "standard",
+                "type": "text",
+                "x": 83,
+                "y": 38,
+                "text": "I should be fair.",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "detour",
-            "type": "path",
-            "d": "M166 141 Q183 211 244 190 Q291 171 280 114",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 2
-            }
+            "caption": "In the dream, a stranger replaces the rival and the contest changes its setting.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 88,
+                "y": 145
+              },
+              {
+                "id": "rival",
+                "type": "figure",
+                "x": 303,
+                "y": 145,
+                "tone": "shade",
+                "facing": true
+              },
+              {
+                "id": "prize",
+                "type": "path",
+                "d": "M190 99 l16-10 16 10-4 27-26 1Z"
+              },
+              {
+                "id": "setting",
+                "type": "path",
+                "d": "M241 45h127v151h-127Z M257 65h32m20 0h39"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 302,
+                "y": 221,
+                "text": "a stranger",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "label",
-            "type": "text",
-            "text": "another way through",
-            "x": 187.29,
-            "y": 215,
-            "motion": {
-              "kind": "reveal",
-              "duration": 12,
-              "delay": 5
-            }
+            "caption": "Freud treats distortion as a trace of conflict, to be explored through associations.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "self",
+                "type": "figure",
+                "x": 88,
+                "y": 145
+              },
+              {
+                "id": "rival",
+                "type": "figure",
+                "x": 303,
+                "y": 145,
+                "tone": "shade",
+                "facing": true
+              },
+              {
+                "id": "prize",
+                "type": "path",
+                "d": "M190 99 l16-10 16 10-4 27-26 1Z"
+              },
+              {
+                "id": "setting",
+                "type": "path",
+                "d": "M241 45h127v151h-127Z M257 65h32m20 0h39"
+              },
+              {
+                "id": "name",
+                "type": "text",
+                "x": 200,
+                "y": 225,
+                "text": "changed form · possible connection",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -5884,125 +7299,109 @@
     ],
     "readingArt": [
       {
-        "description": "unacceptable wish / altered presentation / a transformed route",
+        "description": "A recognizable rival becomes a stranger in a changed setting, preserving a possible relationship to the original wish.",
         "actors": [
           {
-            "id": "border",
-            "type": "path",
-            "d": "M195 42 L195 97 M195 145 L195 203",
-            "tone": "normal"
+            "id": "rival",
+            "type": "figure",
+            "x": 90,
+            "y": 145
           },
           {
-            "id": "gate",
-            "type": "path",
-            "d": "M195 98 L216 122 L195 145",
-            "tone": "normal"
+            "id": "stranger",
+            "type": "figure",
+            "x": 305,
+            "y": 145,
+            "tone": "shade",
+            "facing": true
           },
           {
             "id": "left",
-            "type": "circle",
-            "x": 113,
-            "y": 123,
-            "r": 16,
-            "tone": "normal"
+            "type": "text",
+            "x": 90,
+            "y": 224,
+            "text": "familiar rival",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "detour",
+            "id": "right",
+            "type": "text",
+            "x": 305,
+            "y": 224,
+            "text": "dream stranger",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "changed",
             "type": "path",
-            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
-            "tone": "normal"
+            "d": "M143 129 Q200 72 256 129",
+            "dashed": true
           },
           {
-            "id": "label0-line0",
+            "id": "top",
             "type": "text",
-            "text": "unacceptable",
-            "x": 56.8,
-            "y": 68
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "wish",
-            "x": 90.13,
-            "y": 88
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "altered",
-            "x": 248.55,
-            "y": 68
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "presentation",
-            "x": 226.8,
-            "y": 88
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "a transformed route",
-            "x": 120.49,
-            "y": 224
+            "x": 200,
+            "y": 44,
+            "text": "identity is altered",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "several transformations / one scene / disguise is not one-to-one",
+        "description": "An uncomfortable wish and a standard opposing it make a conflict; disguise is Freud’s proposed effect of this tension.",
         "actors": [
           {
+            "id": "wish",
+            "type": "group",
+            "x": 95,
+            "y": 120,
+            "children": [
+              {
+                "id": "shape",
+                "type": "path",
+                "d": "M-18-11 -7-22 3-9 19-15 11 2 19 15 -2 11 -15 20 -12 1 Z"
+              }
+            ]
+          },
+          {
             "id": "a",
+            "type": "text",
+            "x": 95,
+            "y": 52,
+            "text": "wish to win",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "standard",
             "type": "path",
-            "d": "M80 72 Q158 68 218 124",
-            "tone": "normal"
+            "d": "M282 75v95m-38-78h76m-60 36h44m-35 36h26"
           },
           {
             "id": "b",
+            "type": "text",
+            "x": 282,
+            "y": 52,
+            "text": "be fair",
+            "fontSize": 16,
+            "anchor": "middle"
+          },
+          {
+            "id": "connection",
             "type": "path",
-            "d": "M78 123 Q157 124 218 125",
-            "tone": "normal"
+            "d": "M127 135 Q194 190 267 135"
           },
           {
-            "id": "c",
-            "type": "path",
-            "d": "M81 177 Q157 181 218 126",
-            "tone": "normal"
-          },
-          {
-            "id": "result",
-            "type": "path",
-            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "bottom",
             "type": "text",
-            "text": "several",
-            "x": 78.84,
-            "y": 34
-          },
-          {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "transformations",
-            "x": 44.04,
-            "y": 54
-          },
-          {
-            "id": "label1",
-            "type": "text",
-            "text": "one scene",
-            "x": 231.54,
-            "y": 71
-          },
-          {
-            "id": "label2",
-            "type": "text",
-            "text": "disguise is not one-to-one",
-            "x": 101.04,
-            "y": 219
+            "x": 200,
+            "y": 225,
+            "text": "a conflict within the person",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
@@ -6021,61 +7420,249 @@
     "sources": [
       "freud-source-dream-limits"
     ],
-    "metaphor": "Several roots disappear beyond the lower edge beneath one remembered dream image.",
+    "metaphor": "An interpreted dream has several accessible connections, but one association trail branches into material that cannot be fully followed.",
     "scene": {
       "kind": "notebook",
       "caption": "the unfinished interpretation",
       "variant": "dream-limits",
-      "composition": {
-        "description": "Several roots disappear beyond the lower edge beneath one remembered dream image.",
-        "actors": [
+      "lesson": {
+        "description": "An interpreted dream has several accessible connections, but one association trail branches into material that cannot be fully followed.",
+        "beats": [
           {
-            "id": "water",
-            "type": "path",
-            "d": "M60 108 Q105 103 147 109 T235 108 T340 107",
-            "tone": "normal"
+            "caption": "One dream image opens several lines of association.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "image",
+                "type": "group",
+                "x": 81,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "branches",
+                "type": "path",
+                "d": "M120 124 Q149 101 162 78 M120 124 H162 M120 124 Q146 160 162 178"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 257,
+                "y": 82,
+                "text": "a recent meal",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 257,
+                "y": 129,
+                "text": "a remembered voice",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 257,
+                "y": 183,
+                "text": "an unfamiliar room",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "image",
-            "type": "path",
-            "d": "M155 83 L184 57 L226 84 L249 77 L260 103 L154 103 Z",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": -4
-            }
+            "caption": "Some lines become clearer through further recollection.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "image",
+                "type": "group",
+                "x": 81,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "branches",
+                "type": "path",
+                "d": "M120 124 Q149 101 162 78 M120 124 H162 M120 124 Q146 160 162 178"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 257,
+                "y": 82,
+                "text": "a recent meal",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 257,
+                "y": 129,
+                "text": "a parent’s voice",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 257,
+                "y": 183,
+                "text": "an unfamiliar room",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "roots",
-            "type": "path",
-            "d": "M169 111 Q137 156 96 171 M190 110 Q180 174 169 194 M220 110 Q240 167 294 192 M242 111 Q278 152 320 158",
-            "tone": "faint",
-            "motion": {
-              "kind": "draw",
-              "duration": 14,
-              "delay": 3
-            }
+            "caption": "One connection branches again and is not fully recoverable.",
+            "duration": 3.6,
+            "actors": [
+              {
+                "id": "image",
+                "type": "group",
+                "x": 81,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "branches",
+                "type": "path",
+                "d": "M120 124 Q149 101 162 78 M120 124 H162 M120 124 Q146 160 162 178"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 257,
+                "y": 82,
+                "text": "a recent meal",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 257,
+                "y": 129,
+                "text": "a parent’s voice",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "unresolved",
+                "type": "path",
+                "d": "M162 178 Q234 147 271 175 Q307 160 322 186 M256 173q-7 29 25 38 M299 174q17-23 45-12",
+                "dashed": true
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 231,
+                "y": 233,
+                "text": "not fully traced",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           },
           {
-            "id": "surfaceword",
-            "type": "text",
-            "text": "remembered",
-            "x": 251.48,
-            "y": 76
-          },
-          {
-            "id": "rootsword",
-            "type": "text",
-            "text": "associations",
-            "x": 66.07,
-            "y": 209,
-            "motion": {
-              "kind": "reveal",
-              "duration": 14,
-              "delay": 5
-            }
+            "caption": "An interpretation can be useful while part of the dream remains unresolved.",
+            "duration": 4.8,
+            "actors": [
+              {
+                "id": "image",
+                "type": "group",
+                "x": 81,
+                "y": 123,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+                  },
+                  {
+                    "id": "rim",
+                    "type": "path",
+                    "d": "M-17-18 Q0-24 17-18"
+                  }
+                ]
+              },
+              {
+                "id": "branches",
+                "type": "path",
+                "d": "M120 124 Q149 101 162 78 M120 124 H162 M120 124 Q146 160 162 178"
+              },
+              {
+                "id": "a",
+                "type": "text",
+                "x": 257,
+                "y": 82,
+                "text": "a recent meal",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "b",
+                "type": "text",
+                "x": 257,
+                "y": 129,
+                "text": "a parent’s voice",
+                "fontSize": 16,
+                "anchor": "middle"
+              },
+              {
+                "id": "unresolved",
+                "type": "path",
+                "d": "M162 178 Q234 147 271 175 Q307 160 322 186 M256 173q-7 29 25 38 M299 174q17-23 45-12",
+                "dashed": true
+              },
+              {
+                "id": "c",
+                "type": "text",
+                "x": 231,
+                "y": 233,
+                "text": "a limit, not a forced answer",
+                "fontSize": 16,
+                "anchor": "middle"
+              }
+            ]
           }
         ]
       }
@@ -6095,128 +7682,107 @@
     ],
     "readingArt": [
       {
-        "description": "a remembered dream / supported connection / unresolved network",
+        "description": "One line of dream associations reaches remembered material while another remains partly untraced.",
         "actors": [
           {
-            "id": "line",
-            "type": "path",
-            "d": "M61 107 Q117 104 167 110 T275 108 L338 106",
-            "tone": "normal"
-          },
-          {
             "id": "image",
+            "type": "group",
+            "x": 84,
+            "y": 121,
+            "children": [
+              {
+                "id": "cup",
+                "type": "path",
+                "d": "M-18-20 h36 l-4 40 h-28 Z M18-15 q26-5 23 12 q-1 11-25 9"
+              },
+              {
+                "id": "rim",
+                "type": "path",
+                "d": "M-17-18 Q0-24 17-18"
+              }
+            ]
+          },
+          {
+            "id": "known",
             "type": "path",
-            "d": "M169 82 L198 55 L229 81 L229 107 L166 107 Z",
-            "tone": "normal"
+            "d": "M121 121 Q180 72 269 85"
           },
           {
-            "id": "roots",
+            "id": "unknown",
             "type": "path",
-            "d": "M180 109 Q142 159 94 174 M198 110 Q199 161 208 188 M220 109 Q265 154 307 180",
-            "tone": "normal"
+            "d": "M121 121 Q188 191 254 171 Q305 146 348 184",
+            "dashed": true
           },
           {
-            "id": "label0-line0",
+            "id": "a",
             "type": "text",
-            "text": "a remembered",
-            "x": 228.8,
-            "y": 68
+            "x": 285,
+            "y": 70,
+            "text": "remembered",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
+            "id": "b",
             "type": "text",
-            "text": "dream",
-            "x": 259.25,
-            "y": 88
-          },
-          {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "supported",
-            "x": 71.85,
-            "y": 209
-          },
-          {
-            "id": "label1-line1",
-            "type": "text",
-            "text": "connection",
-            "x": 67.5,
-            "y": 229
-          },
-          {
-            "id": "label2-line0",
-            "type": "text",
-            "text": "unresolved",
-            "x": 243.5,
-            "y": 209
-          },
-          {
-            "id": "label2-line1",
-            "type": "text",
-            "text": "network",
-            "x": 256.55,
-            "y": 229
+            "x": 284,
+            "y": 221,
+            "text": "partly untraced",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       },
       {
-        "description": "partial understanding / total explanation / a limit can be named",
+        "description": "A useful partial account is distinct from a forced complete answer.",
         "actors": [
           {
-            "id": "divider",
+            "id": "known",
             "type": "path",
-            "d": "M199 54 L200 186",
-            "tone": "faint",
-            "dashed": true
+            "d": "M53 73 l118 1 -1 110 -117 -1 Z"
           },
           {
-            "id": "left",
+            "id": "lines",
             "type": "path",
-            "d": "M93 109 L144 108 L147 158 L94 160 Z",
-            "tone": "normal"
+            "d": "M70 101h85m-85 23h66m-66 23h75"
           },
           {
-            "id": "right",
-            "type": "circle",
-            "x": 283,
-            "y": 134,
-            "r": 26,
-            "tone": "normal"
-          },
-          {
-            "id": "label0-line0",
+            "id": "a",
             "type": "text",
-            "text": "partial",
-            "x": 85.55,
-            "y": 69
+            "x": 113,
+            "y": 223,
+            "text": "partial account",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label0-line1",
-            "type": "text",
-            "text": "understanding",
-            "x": 59.45,
-            "y": 89
+            "id": "forced",
+            "type": "path",
+            "d": "M232 73 l118 1 -1 110 -117 -1 Z"
           },
           {
-            "id": "label1-line0",
-            "type": "text",
-            "text": "total",
-            "x": 260.25,
-            "y": 69
+            "id": "filled",
+            "type": "path",
+            "d": "M249 99h83m-83 15h83m-83 15h83m-83 15h83m-83 15h83m-83 15h83",
+            "tone": "faint"
           },
           {
-            "id": "label1-line1",
+            "id": "b",
             "type": "text",
-            "text": "explanation",
-            "x": 234.15,
-            "y": 89
+            "x": 291,
+            "y": 223,
+            "text": "invented completion",
+            "fontSize": 16,
+            "anchor": "middle"
           },
           {
-            "id": "label2",
+            "id": "top",
             "type": "text",
-            "text": "a limit can be named",
-            "x": 111.91,
-            "y": 217
+            "x": 200,
+            "y": 42,
+            "text": "leave a real limit visible",
+            "fontSize": 16,
+            "anchor": "middle"
           }
         ]
       }
