@@ -1877,7 +1877,7 @@
     "title": "The pause has a history",
     "statement": "The difficulty of saying something may belong to the thing being approached.",
     "explanation": "Freud called the forces opposing analytic work resistance. Silence, forgetting or dismissing an association could matter because they occurred near material that was difficult to acknowledge.",
-    "nuance": "A person may remember many details yet find one topic abruptly uninteresting. Freud would explore that shift rather than insist that reluctance proves guilt. Resistance is an interpretation of a relation to painful material, not permission to disregard a person's boundaries. Fatigue, disagreement and mistrust also have ordinary explanations.\n\nThe useful question is what becomes difficult here, and why. Calling every objection resistance would make the theory impossible to challenge.",
+    "nuance": "A person may remember many details yet find one topic abruptly uninteresting. Freud would explore that shift rather than insist that reluctance proves guilt. Resistance is an interpretation of a relation to painful material, not permission to disregard a person's boundaries. Fatigue, disagreement and mistrust also have ordinary explanations. The timing matters more than the outward form. Silence at one moment can have a different meaning from silence elsewhere. Freud therefore relates the difficulty to the developing material, rather than treating a particular behavior as resistant in every setting.\n\nThe useful question is what becomes difficult here, and why. Calling every objection resistance would make the theory impossible to challenge.\n\nThe gate represents access becoming difficult as a particular thought approaches. To infer resistance, Freud listens for what precedes the interruption and what associations emerge around it. A person may agree with an interpretation intellectually yet find the related feeling intolerable; that difference helps explain why verbal agreement is insufficient. At the same time, the interpretation must remain answerable to the relationship itself. A hostile listener can make speaking genuinely unsafe. The diagram should invite inquiry into the obstruction, not turn the obstruction into automatic evidence that the speaker secretly confirms the listener's theory.",
     "sources": [
       "freud-lectures-3"
     ],
@@ -1948,6 +1948,107 @@
     "related": [
       "freud-wish-fulfilment",
       "freud-ambivalence"
+    ],
+    "readingArt": [
+      {
+        "description": "approaching material / difficulty speaking / the timing matters",
+        "actors": [
+          {
+            "id": "border",
+            "type": "path",
+            "d": "M195 42 L195 97 M195 145 L195 203",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M195 98 L216 122 L195 145",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "circle",
+            "x": 113,
+            "y": 123,
+            "r": 16,
+            "tone": "normal"
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "approaching material",
+            "x": 109,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "difficulty speaking",
+            "x": 279,
+            "y": 78
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "the timing matters",
+            "x": 205,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "an objection / an interpretation / disagreement is not proof",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an objection",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "an interpretation",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "disagreement is not proof",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -1958,7 +2059,7 @@
     "title": "Both at once",
     "statement": "Love and hostility can concern the same person.",
     "explanation": "Freud used ambivalence to describe opposed emotional tendencies toward one object. Affection does not necessarily cancel anger, and anger does not prove that affection was false.",
-    "nuance": "Someone can miss a parent while also feeling relieved by their absence. The feelings concern different aspects of one relationship. Freud treated such conflict as important in symptoms and mourning; it is not a diagnosis in itself.\n\nAmbivalence differs from indecision between two alternatives. The issue is that the same person is loved and resented, sometimes with one tendency kept out of awareness. A single emotional label may be less accurate than acknowledging the contradiction.",
+    "nuance": "Someone can miss a parent while also feeling relieved by their absence. The feelings concern different aspects of one relationship. Freud treated such conflict as important in symptoms and mourning; it is not a diagnosis in itself. The tendencies need not be equally strong or consciously accessible at the same time. A relationship can contain an enduring conflict even when the person reports only one side on a particular day. Freud's interest is how the opposing feelings relate and what follows from that relation.\n\nAmbivalence differs from indecision between two alternatives. The issue is that the same person is loved and resented, sometimes with one tendency kept out of awareness. A single emotional label may be less accurate than acknowledging the contradiction.\n\nConsider someone grieving a demanding parent. Sorrow, gratitude, anger and relief can concern different experiences of the same person. Reducing the relation to pure love or pure resentment removes important material. Freud connects ambivalence with several clinical problems, but its basic structure can be understood without assigning pathology to mixed feelings. The two weights remain attached to the same beam because the issue is their coexistence, not choosing the supposedly honest one. Interpretation asks whether one side must be denied to preserve a particular account of the relationship, and how that denial might affect the person.",
     "sources": [
       "freud-lectures-3"
     ],
@@ -2029,6 +2130,99 @@
     "related": [
       "freud-resistance",
       "freud-unconscious-conflict"
+    ],
+    "readingArt": [
+      {
+        "description": "affection / hostility / one relationship",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M75 124 Q135 120 172 125",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M226 126 Q275 121 326 125",
+            "tone": "normal"
+          },
+          {
+            "id": "center",
+            "type": "path",
+            "d": "M175 105 Q153 138 190 152 Q224 166 229 128 Q234 91 201 89 Q177 85 175 105",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "affection",
+            "x": 89,
+            "y": 90
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "hostility",
+            "x": 305,
+            "y": 90
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "one relationship",
+            "x": 201,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "description": "mixed feelings / an either-or account / coexistence can be accurate",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "mixed feelings",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "an either-or account",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "coexistence can be accurate",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -2039,7 +2233,7 @@
     "title": "A divided intention",
     "statement": "An action can have more than one psychological purpose.",
     "explanation": "Freud sought conflicting motives behind behavior that appeared pointless or inconsistent. In his account, an act can express one intention while frustrating another, without either being fully conscious.",
-    "nuance": "A person who longs for closeness may repeatedly arrive late to the meeting that could provide it. Freud might investigate whether attachment also brings feared dependence. That hypothesis would require context, not just the lateness.\n\nThe point is not that people secretly want every bad outcome they encounter. Conflict can shape a response without explaining the external circumstances. Harm and misfortune should not be translated automatically into unconscious consent.",
+    "nuance": "A person who longs for closeness may repeatedly arrive late to the meeting that could provide it. Freud might investigate whether attachment also brings feared dependence. That hypothesis would require context, not just the lateness. The relevant contradiction is not always between what the person says and what they secretly mean. Two genuine tendencies may be active together. A conscious account can express one accurately while failing to include the other, leaving the resulting action difficult to explain.\n\nThe point is not that people secretly want every bad outcome they encounter. Conflict can shape a response without explaining the external circumstances. Harm and misfortune should not be translated automatically into unconscious consent.\n\nThe branching drawing makes that structure visible. One route approaches something desired; the other avoids a feared implication of approaching it. A request for reassurance might offer closeness while also provoking resentment about dependence. Neither effect has to be the person's fully deliberate project. Freud interprets such arrangements through the relations among wishes, defenses and history. A useful account would connect several features of the situation, while a thin account merely names an unconscious motive after the result is known. The difference matters: conflict can explain an action only when its proposed forces have some support in the person's material.",
     "sources": [
       "freud-lectures-3"
     ],
@@ -2108,6 +2302,96 @@
     "related": [
       "freud-ambivalence",
       "freud-psychic-determinism"
+    ],
+    "readingArt": [
+      {
+        "description": "one action / approach / avoidance",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one action",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "approach",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "avoidance",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "description": "closeness / dependence feared / two genuine tendencies",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M75 124 Q135 120 172 125",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M226 126 Q275 121 326 125",
+            "tone": "normal"
+          },
+          {
+            "id": "center",
+            "type": "path",
+            "d": "M175 105 Q153 138 190 152 Q224 166 229 128 Q234 91 201 89 Q177 85 175 105",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "closeness",
+            "x": 89,
+            "y": 90
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "dependence feared",
+            "x": 305,
+            "y": 90
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "two genuine tendencies",
+            "x": 201,
+            "y": 211
+          }
+        ]
+      }
     ]
   },
   {
@@ -2118,7 +2402,7 @@
     "title": "The apparently accidental",
     "statement": "Freud asked whether an ordinary mistake might be psychologically connected.",
     "explanation": "His study of everyday errors extends psychoanalytic inquiry beyond obvious illness. Forgetting a name, losing an object or misspeaking may, he argued, be related to other thoughts and intentions.",
-    "nuance": "An unwanted appointment might be forgotten while a pleasant one is remembered. Freud looks for a pattern and the person's associations; one isolated lapse proves little. Attention, language habits and chance remain relevant explanations.\n\nPsychic determinism is stronger than the everyday observation that motives sometimes influence mistakes. It belongs to Freud's historical explanatory program. Reading significance into an event does not independently demonstrate the proposed cause.",
+    "nuance": "An unwanted appointment might be forgotten while a pleasant one is remembered. Freud looks for a pattern and the person's associations; one isolated lapse proves little. Attention, language habits and chance remain relevant explanations. A psychologically connected event can still involve ordinary mechanisms such as divided attention. Freud's distinctive move is to ask whether the division is related to an intention or conflict. The mechanism of the mistake and its possible meaning need not be competing questions.\n\nPsychic determinism is stronger than the everyday observation that motives sometimes influence mistakes. It belongs to Freud's historical explanatory program. Reading significance into an event does not independently demonstrate the proposed cause.\n\nConsider a forgotten name that resembles a name associated with an uncomfortable encounter. Freud would follow that associative connection rather than stop at the claim that names are sometimes hard to retrieve. The connection may provide an intelligible account, but intelligibility alone is weaker than demonstrating that the conflict caused this particular lapse. That distinction helps make sense of both the attraction and the controversy of his everyday-life studies. He treats minor errors as continuous with other mental processes, rather than as isolated accidents outside psychology. The diagram traces a possibility of connection while leaving interpretation distinct from the event observed.",
     "sources": [
       "freud-lectures-3"
     ],
@@ -2195,6 +2479,102 @@
     "related": [
       "freud-unconscious-conflict",
       "freud-multiple-determination"
+    ],
+    "readingArt": [
+      {
+        "description": "ordinary error / associations / proposed connection",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "ordinary error",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "associations",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "proposed connection",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "forgetting / attention mechanism / possible personal meaning",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "forgetting",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "attention mechanism",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "possible personal meaning",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -2205,7 +2585,7 @@
     "title": "More than one cause",
     "statement": "One symptom can gather several histories.",
     "explanation": "Freud described symptoms and dream elements as overdetermined: more than one chain of association contributes to them. Interpretation therefore need not end when the first plausible connection is found.",
-    "nuance": "A fear surrounding travel might be connected with separation, an earlier fright and a current conflict about leaving someone behind. These connections can coexist in Freud's account. They are not interchangeable with proof of medical causation.\n\nOverdetermination also complicates the idea of a single hidden key. A compelling story can be incomplete. The same pattern may have different meanings in different lives, and an interpretation needs to remain open to revision.",
+    "nuance": "A fear surrounding travel might be connected with separation, an earlier fright and a current conflict about leaving someone behind. These connections can coexist in Freud's account. They are not interchangeable with proof of medical causation. Different contributing histories may support the same visible outcome. They can reinforce one another without being identical, and a particular feature may connect with more than one chain of thought. This complicates any interpretation that claims to have discovered the single real reason.\n\nOverdetermination also complicates the idea of a single hidden key. A compelling story can be incomplete. The same pattern may have different meanings in different lives, and an interpretation needs to remain open to revision.\n\nThe converging paths do not collapse their origins into one. Suppose a ritual is related both to an earlier conflict and to a current demand for certainty. Freud's account allows both connections to participate in its formation. The interpretation then has to describe their relation, not collect unlimited associations without an organizing argument. Overdetermination makes a simple key inadequate, but it does not make every speculative connection equally good. A reader can ask whether an added determinant explains a specific feature or merely repeats what is already covered. More causes in the story do not automatically mean a better explanation of the experience.",
     "sources": [
       "freud-lectures-3"
     ],
@@ -2296,6 +2676,105 @@
     "related": [
       "freud-psychic-determinism",
       "freud-fantasy-reality"
+    ],
+    "readingArt": [
+      {
+        "description": "several histories / one pattern / relations can reinforce",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "several histories",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one pattern",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "relations can reinforce",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "description": "one connection / the whole account / plausible is not exhaustive",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one connection",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "the whole account",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "plausible is not exhaustive",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
@@ -2306,7 +2785,7 @@
     "title": "A real effect, an imagined scene",
     "statement": "An imagined event can matter without having happened.",
     "explanation": "Freud distinguished psychical reality from material reality. Fantasies can organize desire, fear and guilt even when the events depicted are not historical occurrences.",
-    "nuance": "Someone can feel guilty about a hostile wish without having harmed the person involved. The feeling has psychological reality; it does not turn the imagined action into an actual event.\n\nThis distinction is essential when discussing memory and interpretation. An emotionally convincing account is not, by itself, evidence that a particular event occurred. Freud's changing views on fantasy and trauma are part of the history of psychoanalysis, rather than a reason to dismiss real experiences of abuse.",
+    "nuance": "Someone can feel guilty about a hostile wish without having harmed the person involved. The feeling has psychological reality; it does not turn the imagined action into an actual event. A wish, imagined scene or expectation can have effects through the meaning it carries. Those effects belong to the person's present mental life. Freud's distinction prevents the inquiry into meaning from being mistaken for a procedure that establishes external events simply by interpreting feelings.\n\nThis distinction is essential when discussing memory and interpretation. An emotionally convincing account is not, by itself, evidence that a particular event occurred. Freud's changing views on fantasy and trauma are part of the history of psychoanalysis, rather than a reason to dismiss real experiences of abuse.\n\nSuppose someone imagined a relative disappearing, then felt responsible when the relative later became ill. The imagined event, actual illness and feeling of responsibility are different things. Freud might investigate how guilt joins them without accepting the guilt as evidence of causation. The distinction also matters when listening to accounts of childhood: an emotionally important fantasy should not be promoted to a verified occurrence, and a verified harmful event should not be dismissed as merely fantasy. The diagram keeps the earlier or imagined figure separate from the trace in the present. Psychological reality concerns an effect and a meaning, not a shortcut around questions of evidence.",
     "sources": [
       "freud-lectures-3"
     ],
@@ -2383,6 +2862,101 @@
     "related": [
       "freud-multiple-determination",
       "freud-day-residue"
+    ],
+    "readingArt": [
+      {
+        "description": "imagined event / external event / not the same kind of claim",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "imagined event",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "external event",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "not the same kind of claim",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      },
+      {
+        "description": "an imagined scene / a present feeling / a real psychological effect",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 103,
+            "y": 142,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 294,
+            "y": 143,
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M127 105 Q198 65 270 107",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "an imagined scene",
+            "x": 101,
+            "y": 207
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a present feeling",
+            "x": 294,
+            "y": 207
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a real psychological effect",
+            "x": 198,
+            "y": 61
+          }
+        ]
+      }
     ]
   },
   {
@@ -2393,7 +2967,7 @@
     "title": "Yesterday remains",
     "statement": "Recent impressions give a dream material to work with.",
     "explanation": "Freud noticed that dreams often incorporate details from the preceding day. He called these day-residues: recent thoughts or impressions that connect with other concerns during dream formation.",
-    "nuance": "A passing advertisement can furnish a dream's setting while an older worry supplies its emotional force. In Freud's account, recent material and earlier wishes become linked; the visible reference to yesterday need not explain everything.\n\nThis is different from claiming that each dream is a coded prediction. The detail belongs to remembered experience. Freud's theory concerns how memories are selected and transformed, not supernatural information received during sleep.",
+    "nuance": "A passing advertisement can furnish a dream's setting while an older worry supplies its emotional force. In Freud's account, recent material and earlier wishes become linked; the visible reference to yesterday need not explain everything. The dream's recent detail can be significant in its own right or apparently indifferent. In Freud's theory it becomes linked with other material through associations. Its recency helps account for its presence without requiring that its obvious waking meaning be the dream's entire concern.\n\nThis is different from claiming that each dream is a coded prediction. The detail belongs to remembered experience. Freud's theory concerns how memories are selected and transformed, not supernatural information received during sleep.\n\nImagine a notice seen briefly on the way home appearing as the central image in a dream. It may provide a convenient visible form for an older worry, or simply connect with the day's unfinished thoughts. Freud investigates that linkage rather than deciding that the freshest detail must also be the most important. The sequence distinguishes when the material was encountered from how it is used in the dream. That is a small but useful distinction: chronology is one relation among the elements, while significance is another. The presence of yesterday can therefore be an entry into interpretation without turning the dream into a literal replay of the day.",
     "sources": [
       "freud-dreams-4"
     ],
@@ -2464,6 +3038,102 @@
     "related": [
       "freud-fantasy-reality",
       "freud-dream-association"
+    ],
+    "readingArt": [
+      {
+        "description": "recent impression / association / dream element",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "recent impression",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "association",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "dream element",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "visible detail / recent concern / older connection",
+        "actors": [
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M61 107 Q117 104 167 110 T275 108 L338 106",
+            "tone": "normal"
+          },
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M169 82 L198 55 L229 81 L229 107 L166 107 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M180 109 Q142 159 94 174 M198 110 Q199 161 208 188 M220 109 Q265 154 307 180",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "visible detail",
+            "x": 281,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "recent concern",
+            "x": 111,
+            "y": 208
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "older connection",
+            "x": 287,
+            "y": 208
+          }
+        ]
+      }
     ]
   },
   {
@@ -2474,7 +3144,7 @@
     "title": "Start with the detail",
     "statement": "A dream image means more when the dreamer speaks around it.",
     "explanation": "Freud asked people to report associations to separate dream elements. His method differs from assigning each image one universal meaning before hearing about the person's life.",
-    "nuance": "A bridge might lead to a childhood walk, an argument or a phrase heard yesterday. These associations matter because they connect this image to this dreamer's concerns. An interpreter should not simply announce what bridges mean.\n\nFreud also proposed recurring symbols, so his practice was not purely individual association. The tension between those approaches remains worth noticing. A plausible interpretation should explain its route through the material rather than rely on the interpreter's authority.",
+    "nuance": "A bridge might lead to a childhood walk, an argument or a phrase heard yesterday. These associations matter because they connect this image to this dreamer's concerns. An interpreter should not simply announce what bridges mean. The apparently irrelevant association is often the point of the method. If only clearly relevant thoughts were allowed, the dreamer's existing explanation would already determine the result. Freud asks for a less selected route while treating the objections along that route as material too.\n\nFreud also proposed recurring symbols, so his practice was not purely individual association. The tension between those approaches remains worth noticing. A plausible interpretation should explain its route through the material rather than rely on the interpreter's authority.\n\nThe thread can begin with a detail as ordinary as a color or name. Following it does not establish that every memory appearing afterward caused the dream. Association provides material, and interpretation makes a further claim about the relations among that material. This distinction preserves room for criticism as well as curiosity. A persuasive account should connect particular features and acknowledge alternatives; it should not rely solely on the fact that the analyst can tell a compelling story. The drawing is deliberately not a straight arrow toward one answer: several thoughts may become relevant, and their significance can change as the exploration develops.",
     "sources": [
       "freud-dreams-4"
     ],
@@ -2551,6 +3221,102 @@
     "related": [
       "freud-day-residue",
       "freud-dream-censorship"
+    ],
+    "readingArt": [
+      {
+        "description": "image detail / reported associations / an argued account",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M73 109 L124 108 L126 161 L74 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M175 109 L226 110 L227 161 L174 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M277 109 L328 108 L326 161 L276 161 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M126 136 L172 135 M230 135 L273 135",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "image detail",
+            "x": 99,
+            "y": 85
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "reported associations",
+            "x": 201,
+            "y": 85
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "an argued account",
+            "x": 302,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "description": "one bridge / a family memory / a recent journey",
+        "actors": [
+          {
+            "id": "trunk",
+            "type": "path",
+            "d": "M78 122 Q118 119 154 122",
+            "tone": "normal"
+          },
+          {
+            "id": "upper",
+            "type": "path",
+            "d": "M154 122 Q206 63 306 73",
+            "tone": "normal"
+          },
+          {
+            "id": "lower",
+            "type": "path",
+            "d": "M154 123 Q210 188 306 177",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "one bridge",
+            "x": 90,
+            "y": 96
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "a family memory",
+            "x": 273,
+            "y": 47
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a recent journey",
+            "x": 276,
+            "y": 207
+          }
+        ]
+      }
     ]
   },
   {
@@ -2561,7 +3327,7 @@
     "title": "Why the disguise?",
     "statement": "Freud treated distortion as the trace of a conflict.",
     "explanation": "Dream-censorship is Freud's name for forces that prevent certain wishes from appearing plainly. His theory explains an obscure dream as a transformed compromise, rather than a wish stated directly.",
-    "nuance": "A hostile feeling toward someone valued might appear through an unrelated character or an altered situation. Freud would connect the disguise with conflict, using the dreamer's associations.\n\nCensorship is a metaphor for mental processes, not an actual guard inspecting thoughts. It is also a contested explanation, especially when any counterexample can be redescribed as further disguise. The useful distinction is between what appears in the dream and the argument offered for why it appears that way.",
+    "nuance": "A hostile feeling toward someone valued might appear through an unrelated character or an altered situation. Freud would connect the disguise with conflict, using the dreamer's associations. The disguise can involve omission, displacement and combinations rather than a simple substitution cipher. Different transformations can work together. This means the remembered scene need not contain a transparent version of the proposed wish waiting to be uncovered by one clever decoding rule.\n\nCensorship is a metaphor for mental processes, not an actual guard inspecting thoughts. It is also a contested explanation, especially when any counterexample can be redescribed as further disguise. The useful distinction is between what appears in the dream and the argument offered for why it appears that way.\n\nA forbidden hostile wish might enter a scene through several small shifts rather than through a single villainous dream figure. Freud would investigate how those shifts connect with the person's associations and prohibitions. The detour represents this transformed access, not an external censor consciously choosing each edit. The hypothesis explains the obscure presentation by invoking conflict, but it faces an evidential difficulty: obscurity itself cannot confirm which conflict caused it. The interpreter needs to show the connections they propose. Keeping the metaphor at the level of relationship helps avoid imagining an inner official whose decisions conveniently explain every puzzling image.",
     "sources": [
       "freud-dreams-4"
     ],
@@ -2635,6 +3401,110 @@
     "related": [
       "freud-dream-association",
       "freud-dream-limits"
+    ],
+    "readingArt": [
+      {
+        "description": "unacceptable wish / altered presentation / a transformed route",
+        "actors": [
+          {
+            "id": "border",
+            "type": "path",
+            "d": "M195 42 L195 97 M195 145 L195 203",
+            "tone": "normal"
+          },
+          {
+            "id": "gate",
+            "type": "path",
+            "d": "M195 98 L216 122 L195 145",
+            "tone": "normal"
+          },
+          {
+            "id": "left",
+            "type": "circle",
+            "x": 113,
+            "y": 123,
+            "r": 16,
+            "tone": "normal"
+          },
+          {
+            "id": "detour",
+            "type": "path",
+            "d": "M130 129 Q150 200 218 190 Q275 176 284 127",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "unacceptable wish",
+            "x": 109,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "altered presentation",
+            "x": 279,
+            "y": 78
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a transformed route",
+            "x": 205,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "description": "several transformations / one scene / disguise is not one-to-one",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 72 Q158 68 218 124",
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M78 123 Q157 124 218 125",
+            "tone": "normal"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M81 177 Q157 181 218 126",
+            "tone": "normal"
+          },
+          {
+            "id": "result",
+            "type": "path",
+            "d": "M221 99 Q259 82 279 117 Q299 153 263 166 Q220 172 219 126 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "several transformations",
+            "x": 97,
+            "y": 44
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "one scene",
+            "x": 275,
+            "y": 71
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "disguise is not one-to-one",
+            "x": 214,
+            "y": 219
+          }
+        ]
+      }
     ]
   },
   {
@@ -2645,7 +3515,7 @@
     "title": "The unfinished interpretation",
     "statement": "A dream need not become completely transparent.",
     "explanation": "Freud acknowledged a point in dreams where associations become tangled and interpretation reaches a limit. A network of thoughts can extend beyond anything a single account fully reconstructs.",
-    "nuance": "The last unresolved detail is not necessarily a failure of effort. Freud described a dream's connections as branching into the larger life of thought. Interpretation can illuminate some relations without producing a final translation.\n\nThis restraint matters because a confident explanation can be mistaken for exhaustive knowledge. The dreamer may find a connection useful while still questioning the theory used to explain it. Understanding is partial, and unresolved material need not be forced into a neat ending.",
+    "nuance": "The last unresolved detail is not necessarily a failure of effort. Freud described a dream's connections as branching into the larger life of thought. Interpretation can illuminate some relations without producing a final translation. An unfinished interpretation can still be more precise than an account that pretends to explain everything. Freud's image of tangled associations acknowledges that a dream belongs to a larger network of thought. The boundary of one explanation is not necessarily the boundary of the mind's activity.\n\nThis restraint matters because a confident explanation can be mistaken for exhaustive knowledge. The dreamer may find a connection useful while still questioning the theory used to explain it. Understanding is partial, and unresolved material need not be forced into a neat ending.\n\nSuppose several details connect with a current separation while another leads into a dense chain that remains unresolved. The account can name the supported connections and leave the rest open. That is different from replacing the unresolved element with an impressive abstract word that makes the narrative seem complete. The roots running past the frame make this incompleteness visible. A limit can concern missing material, ambiguous relations or the scope of the theory itself. Freud's acknowledgment does not solve every objection to dream interpretation, but it gives a reason to distinguish a useful partial reading from an authoritative final translation.",
     "sources": [
       "freud-dreams-4"
     ],
@@ -2720,6 +3590,99 @@
     "related": [
       "freud-dream-censorship",
       "freud-id"
+    ],
+    "readingArt": [
+      {
+        "description": "a remembered dream / supported connection / unresolved network",
+        "actors": [
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M61 107 Q117 104 167 110 T275 108 L338 106",
+            "tone": "normal"
+          },
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M169 82 L198 55 L229 81 L229 107 L166 107 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M180 109 Q142 159 94 174 M198 110 Q199 161 208 188 M220 109 Q265 154 307 180",
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "a remembered dream",
+            "x": 281,
+            "y": 78
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "supported connection",
+            "x": 111,
+            "y": 208
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "unresolved network",
+            "x": 287,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "description": "partial understanding / total explanation / a limit can be named",
+        "actors": [
+          {
+            "id": "divider",
+            "type": "path",
+            "d": "M199 54 L200 186",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M93 109 L144 108 L147 158 L94 160 Z",
+            "tone": "normal"
+          },
+          {
+            "id": "right",
+            "type": "circle",
+            "x": 283,
+            "y": 134,
+            "r": 26,
+            "tone": "normal"
+          },
+          {
+            "id": "label0",
+            "type": "text",
+            "text": "partial understanding",
+            "x": 116,
+            "y": 79
+          },
+          {
+            "id": "label1",
+            "type": "text",
+            "text": "total explanation",
+            "x": 282,
+            "y": 79
+          },
+          {
+            "id": "label2",
+            "type": "text",
+            "text": "a limit can be named",
+            "x": 200,
+            "y": 217
+          }
+        ]
+      }
     ]
   },
   {
