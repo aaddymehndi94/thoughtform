@@ -1,56 +1,302 @@
 {
-  "freud-lectures-1": {
+  "freud-source-unconscious": {
     "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
     "author": "Sigmund Freud",
-    "reference": "Lectures II–IV, XVII–XIX: errors, symptoms, resistance and repression",
+    "reference": "Lectures I and XVIII: the unconscious and the limits of consciousness",
     "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
   },
-  "freud-dreams-2": {
-    "title": "The Interpretation of Dreams (1900)",
-    "author": "Sigmund Freud",
-    "reference": "Chapters III–VI: wish-fulfilment, distortion and the dream-work",
-    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
-  },
-  "freud-lectures-3": {
+  "freud-source-repression": {
     "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
     "author": "Sigmund Freud",
-    "reference": "Lectures IV, XVII, XIX and XXIII: errors, resistance, conflict and symptom-formation",
+    "reference": "Lecture XIX: Resistance and Repression",
     "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
   },
-  "freud-dreams-4": {
+  "freud-source-slips": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures II–IV: The Psychology of Errors",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-symptom-compromise": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures XVII and XXIII: The Meaning of Symptoms and The Paths of Symptom-Formation",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-manifest-latent": {
     "title": "The Interpretation of Dreams (1900)",
     "author": "Sigmund Freud",
-    "reference": "Chapters II, IV, V.A and VII.A: associations, distortion, recent material and the limits of interpretation",
+    "reference": "Chapter II: Method of Dream Interpretation; Chapter VI: The Dream-Work",
     "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
   },
-  "freud-ego-5": {
+  "freud-source-condensation": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter VI.A: The Condensation Work",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-displacement": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter VI.B: The Displacement Work",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-representability": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter VI.C–D: The Means of Representation in the Dream and Regard for Representability",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-secondary-revision": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter VI.I: The Secondary Elaboration",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-wish-fulfilment": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapters III–IV: Wish-Fulfilment and Distortion in Dreams",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-resistance": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lecture XIX: Resistance and Repression",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-ambivalence": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures XVII and XXIII: conflict in symptoms and symptom-formation",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-unconscious-conflict": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures XVII and XXIII: the meaning and formation of symptoms",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-psychic-determinism": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures II–IV: The Psychology of Errors",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-multiple-determination": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lecture XXIII: The Paths of Symptom-Formation",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-fantasy-reality": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lecture XXIII: fantasy, psychical reality and material reality",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-day-residue": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter V.A: The Recent and the Indifferent in the Dream",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-dream-association": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter II: Method of Dream Interpretation",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-dream-censorship": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter IV: Distortion in Dreams; Chapter VI: The Dream-Work",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-dream-limits": {
+    "title": "The Interpretation of Dreams (1900)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter VII.A: The Forgetting of Dreams; the navel of the dream",
+    "url": "https://www.gutenberg.org/cache/epub/66048/pg66048-images.html"
+  },
+  "freud-source-id": {
     "title": "The Ego and the Id (1923)",
     "author": "Sigmund Freud",
-    "reference": "Chapters I–III and V: consciousness, ego, id, super-ego, identification and the ego’s subordinate relationships",
+    "reference": "Chapter II: The Ego and the Id",
     "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
   },
-  "freud-lectures-6": {
+  "freud-source-ego": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapters II and V: the ego and its subordinate relationships",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-superego": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapters III and V: super-ego, guilt and the ego's relations",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-ego-ideal": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter III: The Ego and the Super-Ego (Ego-Ideal)",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-unconscious-ego": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter I: Consciousness and the Unconscious; Chapter II: The Ego and the Id",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-preconscious": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter I: Consciousness and the Unconscious",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-body-ego": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter II: the bodily ego and the projection of a surface",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-identification": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter III: identification and the formation of the ego",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-unconscious-guilt": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter V: the negative therapeutic reaction and unconscious guilt",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-three-masters": {
+    "title": "The Ego and the Id (1923)",
+    "author": "Sigmund Freud",
+    "reference": "Chapter V: The Subordinate Relationships of the Ego",
+    "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-source-free-association": {
     "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
     "author": "Sigmund Freud",
-    "reference": "Lectures VI, XIX, XXVII–XXVIII: analytic technique, interpretation, transference and suggestion",
+    "reference": "Lectures VI and XIX: associations and resistance",
     "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
   },
-  "freud-technique-7": {
+  "freud-source-transference": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lecture XXVII: Transference",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-transference-resistance": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures XXVII–XXVIII: transference and analytic treatment",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-suggestion-analysis": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lecture XXVIII: suggestion, transference and analytic treatment",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-interpretation": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures XIX and XXVIII: interpretation, resistance and treatment",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-source-even-attention": {
     "title": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
     "author": "Sigmund Freud",
-    "reference": "Sections a, f and h: attention, the analyst’s own analysis and limits on therapeutic ambition",
+    "reference": "Sections a–d: evenly suspended attention and premature selection",
     "url": "https://www.freudedition.net/en/werke/ratschlage-fur-den-arzt-bei-der-psychoanalytischen-behandlung/druckschrift"
   },
-  "freud-working-8": {
+  "freud-source-analyst-blind-spots": {
+    "title": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+    "author": "Sigmund Freud",
+    "reference": "Section f: the analyst's blind spots and personal analysis",
+    "url": "https://www.freudedition.net/en/werke/ratschlage-fur-den-arzt-bei-der-psychoanalytischen-behandlung/druckschrift"
+  },
+  "freud-source-therapeutic-ambition": {
+    "title": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+    "author": "Sigmund Freud",
+    "reference": "Sections e and h: therapeutic ambition and imposed ideals",
+    "url": "https://www.freudedition.net/en/werke/ratschlage-fur-den-arzt-bei-der-psychoanalytischen-behandlung/druckschrift"
+  },
+  "freud-source-remembering-repeating": {
     "title": "Remembering, Repeating and Working-Through (1914)",
     "author": "Sigmund Freud",
-    "reference": "Remembering, Repeating and Working-Through: repetition in transference and the concluding discussion of working-through",
+    "reference": "The discussion of enactment, repetition and transference",
     "url": "https://www.freudedition.net/werke/erinnern-wiederholen-und-durcharbeiten/reinschrift"
   },
-  "freud-beyond-9": {
+  "freud-source-working-through": {
+    "title": "Remembering, Repeating and Working-Through (1914)",
+    "author": "Sigmund Freud",
+    "reference": "The concluding discussion of recognizing and working through resistance",
+    "url": "https://www.freudedition.net/werke/erinnern-wiederholen-und-durcharbeiten/reinschrift"
+  },
+  "freud-source-pleasure-principle": {
     "title": "Beyond the Pleasure Principle (1920)",
     "author": "Sigmund Freud",
-    "reference": "Sections I–VII: pleasure and reality principles, traumatic dreams, the spool game, repetition, binding and speculative drive theory",
+    "reference": "Section I: the pleasure principle and economic account of excitation",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-reality-principle": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Section I: modification by the reality principle",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-traumatic-dreams": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Sections II and IV: traumatic dreams and binding",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-fort-da": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Section II: the child's spool game",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-repetition-compulsion": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Sections III–IV: repetition in treatment and the compulsion to repeat",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-binding": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Sections IV–V: binding excitation and its relation to the pleasure principle",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-stimulus-shield": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Section IV: protection against stimuli and breaches of the stimulus shield",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-death-drive": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Sections V–VII: the conservative tendency of instincts and speculative drive theory",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-eros": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Section VI: life instincts, combination and the dual-drive hypothesis",
+    "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
+  },
+  "freud-source-theory-in-revision": {
+    "title": "Beyond the Pleasure Principle (1920)",
+    "author": "Sigmund Freud",
+    "reference": "Sections I–VII: the argument from pleasure regulation to speculative drive theory",
     "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
   }
 }

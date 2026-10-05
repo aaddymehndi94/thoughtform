@@ -9,7 +9,7 @@
     "explanation": "Freud distinguished mental life from conscious awareness. In his theory, wishes, memories and conflicts can shape actions without entering the account a person gives of them.",
     "nuance": "Imagine sincerely believing a meeting is unimportant, then repeatedly forgetting it. Freud would ask whether another intention is competing with the stated one. There is an important difference between not noticing a process and actively excluding a thought. Freud's account includes both, but repression gives the second a particular role. Ordinary habits can occur outside attention without carrying the same conflict as an unacceptable wish.\n\nThat is a question about possible conflict, not proof that every lapse reveals a secret. His unconscious is a theoretical account of mental processes, not a second little person hidden inside the skull.\n\nThe drawing separates visibility from influence. Nothing beneath the floor needs to be a hidden complete self; a relation can remain unobserved while changing what happens above. In Freud's clinical reasoning, associations and repeated patterns provide the material for an inference about that influence. The inference is not the same as direct observation. This distinction matters whenever an explanation feels revealing: a person can find it illuminating and still ask whether the proposed connection has enough support. Freud changes the question from whether the person knows their reason to how a reason could operate beyond the reason they can report.",
     "sources": [
-      "freud-lectures-1"
+      "freud-source-unconscious"
     ],
     "metaphor": "A moving line beneath a floor nudges open a hatch while the visible surface seems still.",
     "scene": {
@@ -174,7 +174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What might distinguish a process outside attention from a thought kept outside awareness?"
   },
   {
     "id": "freud-repression",
@@ -186,7 +187,7 @@
     "explanation": "Freud called repression the exclusion of an unacceptable mental representative from consciousness. The excluded material remains active in his model, finding indirect expression through symptoms or dreams.",
     "nuance": "Repression differs from deciding to put a worry aside: deliberate suppression is conscious. In Freud's account, the person may not know what is being avoided or how. For Freud, the excluded element is generally a mental representative associated with a drive or wish, rather than the drive being removed altogether. The pressure can persist while its meaning is unavailable. This makes repression an account of separation within mental life, not a successful deletion.\n\nA symptom can be a costly detour around a conflict, rather than a message with one easy translation. Repressed material is not necessarily an accurate record of a forgotten event.\n\nThe door metaphor shows the resulting asymmetry. What is excluded does not have the same access to speech, but the activity continues to seek an expression. A detour can look irrational because it answers a conflict the person's conscious account does not include. Freud connects the symptom with that compromise, while acknowledging that its associations can have several determinants. A reader should keep the levels separate: there is the visible symptom, the inferred defensive process and the particular interpretation of what is defended against. Understanding the concept does not establish any one interpretation.",
     "sources": [
-      "freud-lectures-1"
+      "freud-source-repression"
     ],
     "metaphor": "A knot presses against a shut doorway; a line bends underneath and emerges on the other side.",
     "scene": {
@@ -359,7 +360,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How would deliberate postponement differ from not knowing what is being avoided?"
   },
   {
     "id": "freud-slips",
@@ -371,7 +373,7 @@
     "explanation": "Freud treated certain slips of speech as collisions between intentions. A competing thought can distort the intended sentence rather than replacing it with a perfectly candid confession.",
     "nuance": "If a host accidentally says a gathering is closed while opening it, Freud asks whether reluctance has entered the greeting. Fatigue and ordinary language errors remain possible explanations. An unintended expression can combine the intended statement with an interfering tendency. That is why Freud does not need the error to be an entirely truthful substitute sentence. The wrong words may bear a relation to the conflict without spelling it out clearly, and the speaker may recognize only part of the connection.\n\nA slip is neither a lie detector nor a reliable window into someone's deepest desires. Its significance, in his method, depends on associations and the surrounding situation.\n\nThe interesting feature is the interference, not the spectacle of being caught. A slip can embarrass someone because listeners assign a motive before hearing the circumstances. Freud's own method asks for those circumstances and associations, even though his broader claims about meaningful errors remain open to criticism. The diagram therefore gives the sentence two routes rather than placing a hidden confession beneath every word. In practice, evidence for a particular interpretation would include recurrence, context and the speaker's thoughts around the mistake; the occurrence of an error alone does not provide all of that.",
     "sources": [
-      "freud-lectures-1"
+      "freud-source-slips"
     ],
     "metaphor": "A sentence approaches a barrier and branches into an unintended phrase below.",
     "scene": {
@@ -542,7 +544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What context would you need before assigning a meaning to a slip?"
   },
   {
     "id": "freud-symptom-compromise",
@@ -554,7 +557,7 @@
     "explanation": "For Freud, many neurotic symptoms were compromise formations. They allowed a disguised satisfaction while also meeting the demand that the underlying wish be restrained or punished.",
     "nuance": "A repeated ritual might reduce anxiety while keeping the unresolved fear central to the person's day. Freud interprets such patterns through competing forces, rather than simple willpower. The same symptom can provide satisfaction in a transformed form and impose a restriction at the same time. Its cost does not make it psychologically purposeless in Freud's account. Conversely, finding a possible function does not show that the person knowingly arranged or freely chose the suffering.\n\nThis historical account does not explain every symptom, and recognizing a possible conflict does not establish its cause. A symptom can have several determinants at once.\n\nA compromise formation is therefore unlike a negotiated agreement between two fully informed parties. The wish and its opposition are not necessarily accessible as separate conscious positions. The symptom can preserve their conflict rather than resolve it, allowing a reduced or distorted expression while keeping the larger demand in place. The knot illustrates that neither force simply disappears. Freud uses this pattern to investigate symptoms within an individual history; it is not a ready-made explanation for every repetitive habit, illness or distressing experience. The function proposed by an interpretation needs the person's particular material.",
     "sources": [
-      "freud-lectures-1"
+      "freud-source-symptom-compromise"
     ],
     "metaphor": "Two taut threads enter a knot; neither thread wins, and the knot keeps tightening.",
     "scene": {
@@ -729,7 +732,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Can one repeated act offer relief while preserving the difficulty it answers?"
   },
   {
     "id": "freud-manifest-latent",
@@ -741,7 +745,7 @@
     "explanation": "Freud called the remembered dream its manifest content. The latent dream-thoughts are the associations and concerns reconstructed through interpretation, not a second dream waiting intact behind the first.",
     "nuance": "Dreaming of a locked station could lead one person to a missed journey and another to a family farewell. Freud's method begins with the dreamer's associations to particular details. The latent material is reached through a procedure: associations to details, remembered concerns and possible connections among them. It should not be pictured as a complete secret text preserved word for word under the visible dream. Interpretation constructs an account of the relation between the two.\n\nThe distinction between manifest and latent does not license an interpreter to invent any hidden story they like. It names a hypothesis about transformation that must be argued for.\n\nThat relation is the point of the waterline. The remembered image is available to report, while the branching thoughts below it emerge through exploration. A dream about a station can acquire meaning through a very personal chain, and the same station can lead elsewhere in another life. Freud also allows typical symbols, which makes his method more complicated than a pure reliance on free association. Keeping the distinction clear helps avoid two errors: assuming the remembered scene transparently explains itself, or assuming that an interpreter's hidden explanation needs no further justification because the surface is already declared misleading.",
     "sources": [
-      "freud-dreams-2"
+      "freud-source-manifest-latent"
     ],
     "metaphor": "An image rests above a waterline; several branching associations become visible underneath.",
     "scene": {
@@ -910,7 +914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which details of a dream would invite associations before you proposed an interpretation?"
   },
   {
     "id": "freud-condensation",
@@ -922,7 +927,7 @@
     "explanation": "In Freud's account, condensation lets different people, memories or concerns converge in one dream element. The strange composite is dense because more than one association contributes to it.",
     "nuance": "A dream figure might have a colleague's face, a parent's voice and a stranger's coat. Freud would investigate the associations to each feature rather than search for one person the figure really is. The relation is many-to-one, not simply an image shortened to save time. Different chains of thought can meet at the same feature, and one feature can serve several connections. The dream element is not made of neatly detachable pieces, even when the interpretation begins by exploring its separate associations.\n\nCondensation helps explain why a brief dream can generate a long analysis. It does not establish that every image has a concealed message.\n\nConsider an imagined figure with a friend's manner, a teacher's expression and an unfamiliar name. Freud's method investigates how these elements became connected, rather than choosing one as the genuine identity and dismissing the rest. What looks contradictory in ordinary description can perform several roles in the dream at once. The confluence drawing retains the separate paths to make this density visible. Condensation also sets a limit on simple summaries: identifying one meaningful connection does not prove that the entire element has been explained. The most economical interpretation may still leave other supported associations open.",
     "sources": [
-      "freud-dreams-2"
+      "freud-source-condensation"
     ],
     "metaphor": "Three independently drawn streams converge in one irregular form, without losing their separate origins.",
     "scene": {
@@ -1107,7 +1112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Can you imagine one figure that carries associations with several different people?"
   },
   {
     "id": "freud-displacement",
@@ -1119,7 +1125,7 @@
     "explanation": "Freud proposed that dream-work shifts emotional emphasis from important thoughts to less threatening details. A dream's apparent center can therefore differ from what matters in the associated waking conflict.",
     "nuance": "A dream about a misplaced cup might carry the anger connected with an argument that barely appears in the dream. The cup itself need not be a universal symbol. What moves is the emphasis or intensity attached to a thought, not necessarily the thought's entire content. The dream can make an apparently minor feature vivid while a more significant concern stays peripheral. That is different from merely choosing a substitute object with a fixed symbolic meaning.\n\nDisplacement is Freud's explanation of how emphasis changes during dream formation. It is a way to investigate disproportionate feeling, not a rule that a trivial object always hides something dramatic.\n\nThe charged small circle depicts a disproportion that interpretation tries to understand. Suppose a minor broken object carries the dread associated with a larger conflict. The interpretation would need to trace the associations linking the object and conflict; its apparent triviality is not evidence enough. Freud places displacement among the operations that help disguise unacceptable wishes, but a reader can first understand the structural claim: where feeling is strongest need not coincide with where its waking significance is greatest. The distinction is useful even when one questions Freud's particular explanation of why the shift occurs.",
     "sources": [
-      "freud-dreams-2"
+      "freud-source-displacement"
     ],
     "metaphor": "A charge crosses from a large faint circle to a small ordinary one, making the small circle visibly heavier.",
     "scene": {
@@ -1317,7 +1323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would you investigate when a small detail carries a disproportionate feeling?"
   },
   {
     "id": "freud-representability",
@@ -1329,7 +1336,7 @@
     "explanation": "Freud described dream-work as transforming thoughts into forms that can be represented, especially visual scenes. Abstract relations may become situations, spatial arrangements or actions.",
     "nuance": "A concern about exclusion might appear as being left outside a building. A thought involving a relation such as before, apart from or excluded may become a spatial arrangement. The transformation is not a sentence converted into a single icon. Several features of a scene can carry different parts of the thought, and some logical relations are harder to picture than others.\n\nThe picture is a possible rendering of a thought, not a fixed dictionary entry: a building has different associations for different dreamers. Freud emphasizes that interpretation works against this transformation, asking how a scene could be connected to thoughts rather than taking the image literally.\n\nThe house illustration is an example of a representable situation, not a codebook entry. Being outside can give a visual form to exclusion, but the same scene might concern shelter, privacy or a remembered visit in another person's dream. Freud's account draws attention to the constraints of the medium: dream thoughts have to appear through images and other experiences rather than through an analytical essay. Interpretation then asks how the scene might have been formed from associated material. The important movement is from a thought to a possible presentation, without assuming the presentation has only one necessary source.",
     "sources": [
-      "freud-dreams-2"
+      "freud-source-representability"
     ],
     "metaphor": "An abstract written thought crosses an empty space and is redrawn as a small house with a closed door.",
     "scene": {
@@ -1491,7 +1498,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How could an abstract relation such as exclusion become a visible scene?"
   },
   {
     "id": "freud-secondary-revision",
@@ -1503,7 +1511,7 @@
     "explanation": "Freud called secondary revision the work that organizes dream material into something resembling a comprehensible story. The dream's smooth narrative can conceal discontinuities in its formation.",
     "nuance": "On waking, someone may connect two disjointed scenes with an explanation that was not clearly present during sleep. A comprehensible arrangement can be imposed on elements that were not originally produced as a smooth sequence. A person may therefore remember a coherent episode whose coherence is itself part of the work under investigation. Freud does not regard a neat plot as a reason to stop examining its details.\n\nFreud also treated secondary revision as part of dream formation, not merely a reporting error after waking. A neat story is therefore something to examine, rather than proof that all its elements were generated in that order or for that purpose.\n\nImagine remembering that one scene happened because another did, although the causal link becomes uncertain on reflection. The link may organize fragments into something tellable. Freud's concept of secondary revision concerns this tendency to supply intelligibility, including during dream formation itself. It does not mean every report is knowingly false. The frame drawing gives the pieces a shared enclosure while leaving their seams visible. Those seams matter because a narrative can clarify experience and conceal its discontinuities at the same time. An interpretation should allow the account to become less tidy when the material does not support its first smooth connection.",
     "sources": [
-      "freud-dreams-2"
+      "freud-source-secondary-revision"
     ],
     "metaphor": "Separate uneven panels drift together; seam lines appear later and make the fragments look like a sequence.",
     "scene": {
@@ -1688,7 +1696,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which links in a remembered story are clear, and which were supplied to make it coherent?"
   },
   {
     "id": "freud-wish-fulfilment",
@@ -1700,7 +1709,7 @@
     "explanation": "Wish-fulfilment is central to Freud's dream theory. A child's dream of eating a forbidden treat is the simple case; adult dreams, he argued, often disguise wishes through conflict and distortion.",
     "nuance": "An unpleasant dream does not automatically refute Freud's theory on its own terms: he proposed that different parts of the mind can respond differently to the same wish. But this flexibility makes the claim difficult to test. A wish in this theory is not necessarily a person's endorsed plan. Freud distinguishes wishes by their place in mental conflict, so one tendency's imagined satisfaction can disturb another. This is why he describes an adult dream as more complicated than an uncomplicated fantasy of obtaining something pleasant.\n\nHe later confronted traumatic repetition more directly. The card describes his historical theory, not a settled explanation of every dream.\n\nThe illustration shows an imagined encounter while the waking separation remains. It conveys the simplest structural idea: a wanted situation can be staged without being achieved in external reality. Freud's more ambitious claim is that this function underlies dreams even when the remembered experience is unpleasant or obscure. That extension depends on his account of distortion and conflict, and it remains disputed. His later attention to traumatic dreams complicates the earlier generalization. Reading the sequence historically helps preserve both the insight and the difficulty: imagined satisfaction is recognizable, while its proposed universality requires an argument far beyond the example.",
     "sources": [
-      "freud-dreams-2"
+      "freud-source-wish-fulfilment"
     ],
     "metaphor": "A waking figure remains apart from an unattainable object; drawn paths form an imagined encounter overhead.",
     "scene": {
@@ -1867,7 +1876,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What is the difference between recognizing imagined satisfaction and explaining every dream by it?"
   },
   {
     "id": "freud-resistance",
@@ -1879,7 +1889,7 @@
     "explanation": "Freud called the forces opposing analytic work resistance. Silence, forgetting or dismissing an association could matter because they occurred near material that was difficult to acknowledge.",
     "nuance": "A person may remember many details yet find one topic abruptly uninteresting. Freud would explore that shift rather than insist that reluctance proves guilt. Resistance is an interpretation of a relation to painful material, not permission to disregard a person's boundaries. Fatigue, disagreement and mistrust also have ordinary explanations. The timing matters more than the outward form. Silence at one moment can have a different meaning from silence elsewhere. Freud therefore relates the difficulty to the developing material, rather than treating a particular behavior as resistant in every setting.\n\nThe useful question is what becomes difficult here, and why. Calling every objection resistance would make the theory impossible to challenge.\n\nThe gate represents access becoming difficult as a particular thought approaches. To infer resistance, Freud listens for what precedes the interruption and what associations emerge around it. A person may agree with an interpretation intellectually yet find the related feeling intolerable; that difference helps explain why verbal agreement is insufficient. At the same time, the interpretation must remain answerable to the relationship itself. A hostile listener can make speaking genuinely unsafe. The diagram should invite inquiry into the obstruction, not turn the obstruction into automatic evidence that the speaker secretly confirms the listener's theory.",
     "sources": [
-      "freud-lectures-3"
+      "freud-source-resistance"
     ],
     "metaphor": "An open gate swings partly shut as a thought approaches, showing interference rather than simple absence.",
     "scene": {
@@ -2049,7 +2059,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What changes in a conversation at the moment one topic becomes difficult to approach?"
   },
   {
     "id": "freud-ambivalence",
@@ -2061,7 +2072,7 @@
     "explanation": "Freud used ambivalence to describe opposed emotional tendencies toward one object. Affection does not necessarily cancel anger, and anger does not prove that affection was false.",
     "nuance": "Someone can miss a parent while also feeling relieved by their absence. The feelings concern different aspects of one relationship. Freud treated such conflict as important in symptoms and mourning; it is not a diagnosis in itself. The tendencies need not be equally strong or consciously accessible at the same time. A relationship can contain an enduring conflict even when the person reports only one side on a particular day. Freud's interest is how the opposing feelings relate and what follows from that relation.\n\nAmbivalence differs from indecision between two alternatives. The issue is that the same person is loved and resented, sometimes with one tendency kept out of awareness. A single emotional label may be less accurate than acknowledging the contradiction.\n\nConsider someone grieving a demanding parent. Sorrow, gratitude, anger and relief can concern different experiences of the same person. Reducing the relation to pure love or pure resentment removes important material. Freud connects ambivalence with several clinical problems, but its basic structure can be understood without assigning pathology to mixed feelings. The two weights remain attached to the same beam because the issue is their coexistence, not choosing the supposedly honest one. Interpretation asks whether one side must be denied to preserve a particular account of the relationship, and how that denial might affect the person.",
     "sources": [
-      "freud-lectures-3"
+      "freud-source-ambivalence"
     ],
     "metaphor": "A beam tilts between two suspended weights without dropping either side.",
     "scene": {
@@ -2223,7 +2234,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Could two opposed descriptions of a relationship both be accurate?"
   },
   {
     "id": "freud-unconscious-conflict",
@@ -2235,7 +2247,7 @@
     "explanation": "Freud sought conflicting motives behind behavior that appeared pointless or inconsistent. In his account, an act can express one intention while frustrating another, without either being fully conscious.",
     "nuance": "A person who longs for closeness may repeatedly arrive late to the meeting that could provide it. Freud might investigate whether attachment also brings feared dependence. That hypothesis would require context, not just the lateness. The relevant contradiction is not always between what the person says and what they secretly mean. Two genuine tendencies may be active together. A conscious account can express one accurately while failing to include the other, leaving the resulting action difficult to explain.\n\nThe point is not that people secretly want every bad outcome they encounter. Conflict can shape a response without explaining the external circumstances. Harm and misfortune should not be translated automatically into unconscious consent.\n\nThe branching drawing makes that structure visible. One route approaches something desired; the other avoids a feared implication of approaching it. A request for reassurance might offer closeness while also provoking resentment about dependence. Neither effect has to be the person's fully deliberate project. Freud interprets such arrangements through the relations among wishes, defenses and history. A useful account would connect several features of the situation, while a thin account merely names an unconscious motive after the result is known. The difference matters: conflict can explain an action only when its proposed forces have some support in the person's material.",
     "sources": [
-      "freud-lectures-3"
+      "freud-source-unconscious-conflict"
     ],
     "metaphor": "A single route divides into two paths that pull in different directions.",
     "scene": {
@@ -2392,7 +2404,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would support the claim that an action answers two competing tendencies?"
   },
   {
     "id": "freud-psychic-determinism",
@@ -2404,7 +2417,7 @@
     "explanation": "His study of everyday errors extends psychoanalytic inquiry beyond obvious illness. Forgetting a name, losing an object or misspeaking may, he argued, be related to other thoughts and intentions.",
     "nuance": "An unwanted appointment might be forgotten while a pleasant one is remembered. Freud looks for a pattern and the person's associations; one isolated lapse proves little. Attention, language habits and chance remain relevant explanations. A psychologically connected event can still involve ordinary mechanisms such as divided attention. Freud's distinctive move is to ask whether the division is related to an intention or conflict. The mechanism of the mistake and its possible meaning need not be competing questions.\n\nPsychic determinism is stronger than the everyday observation that motives sometimes influence mistakes. It belongs to Freud's historical explanatory program. Reading significance into an event does not independently demonstrate the proposed cause.\n\nConsider a forgotten name that resembles a name associated with an uncomfortable encounter. Freud would follow that associative connection rather than stop at the claim that names are sometimes hard to retrieve. The connection may provide an intelligible account, but intelligibility alone is weaker than demonstrating that the conflict caused this particular lapse. That distinction helps make sense of both the attraction and the controversy of his everyday-life studies. He treats minor errors as continuous with other mental processes, rather than as isolated accidents outside psychology. The diagram traces a possibility of connection while leaving interpretation distinct from the event observed.",
     "sources": [
-      "freud-lectures-3"
+      "freud-source-psychic-determinism"
     ],
     "metaphor": "An apparently isolated dot becomes connected to a winding chain of remembered associations.",
     "scene": {
@@ -2575,7 +2588,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How would an intelligible account of a mistake differ from evidence of its cause?"
   },
   {
     "id": "freud-multiple-determination",
@@ -2587,7 +2601,7 @@
     "explanation": "Freud described symptoms and dream elements as overdetermined: more than one chain of association contributes to them. Interpretation therefore need not end when the first plausible connection is found.",
     "nuance": "A fear surrounding travel might be connected with separation, an earlier fright and a current conflict about leaving someone behind. These connections can coexist in Freud's account. They are not interchangeable with proof of medical causation. Different contributing histories may support the same visible outcome. They can reinforce one another without being identical, and a particular feature may connect with more than one chain of thought. This complicates any interpretation that claims to have discovered the single real reason.\n\nOverdetermination also complicates the idea of a single hidden key. A compelling story can be incomplete. The same pattern may have different meanings in different lives, and an interpretation needs to remain open to revision.\n\nThe converging paths do not collapse their origins into one. Suppose a ritual is related both to an earlier conflict and to a current demand for certainty. Freud's account allows both connections to participate in its formation. The interpretation then has to describe their relation, not collect unlimited associations without an organizing argument. Overdetermination makes a simple key inadequate, but it does not make every speculative connection equally good. A reader can ask whether an added determinant explains a specific feature or merely repeats what is already covered. More causes in the story do not automatically mean a better explanation of the experience.",
     "sources": [
-      "freud-lectures-3"
+      "freud-source-multiple-determination"
     ],
     "metaphor": "Several independently drawn paths meet in one knot, each retaining its own entry point.",
     "scene": {
@@ -2775,7 +2789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Does finding one connection explain every feature of the pattern?"
   },
   {
     "id": "freud-fantasy-reality",
@@ -2787,7 +2802,7 @@
     "explanation": "Freud distinguished psychical reality from material reality. Fantasies can organize desire, fear and guilt even when the events depicted are not historical occurrences.",
     "nuance": "Someone can feel guilty about a hostile wish without having harmed the person involved. The feeling has psychological reality; it does not turn the imagined action into an actual event. A wish, imagined scene or expectation can have effects through the meaning it carries. Those effects belong to the person's present mental life. Freud's distinction prevents the inquiry into meaning from being mistaken for a procedure that establishes external events simply by interpreting feelings.\n\nThis distinction is essential when discussing memory and interpretation. An emotionally convincing account is not, by itself, evidence that a particular event occurred. Freud's changing views on fantasy and trauma are part of the history of psychoanalysis, rather than a reason to dismiss real experiences of abuse.\n\nSuppose someone imagined a relative disappearing, then felt responsible when the relative later became ill. The imagined event, actual illness and feeling of responsibility are different things. Freud might investigate how guilt joins them without accepting the guilt as evidence of causation. The distinction also matters when listening to accounts of childhood: an emotionally important fantasy should not be promoted to a verified occurrence, and a verified harmful event should not be dismissed as merely fantasy. The diagram keeps the earlier or imagined figure separate from the trace in the present. Psychological reality concerns an effect and a meaning, not a shortcut around questions of evidence.",
     "sources": [
-      "freud-lectures-3"
+      "freud-source-fantasy-reality"
     ],
     "metaphor": "A faint imagined figure leaves a visible mark inside a present figure while the two remain spatially separate.",
     "scene": {
@@ -2957,7 +2972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How can a feeling have a real effect without proving the event it imagines?"
   },
   {
     "id": "freud-day-residue",
@@ -2969,7 +2985,7 @@
     "explanation": "Freud noticed that dreams often incorporate details from the preceding day. He called these day-residues: recent thoughts or impressions that connect with other concerns during dream formation.",
     "nuance": "A passing advertisement can furnish a dream's setting while an older worry supplies its emotional force. In Freud's account, recent material and earlier wishes become linked; the visible reference to yesterday need not explain everything. The dream's recent detail can be significant in its own right or apparently indifferent. In Freud's theory it becomes linked with other material through associations. Its recency helps account for its presence without requiring that its obvious waking meaning be the dream's entire concern.\n\nThis is different from claiming that each dream is a coded prediction. The detail belongs to remembered experience. Freud's theory concerns how memories are selected and transformed, not supernatural information received during sleep.\n\nImagine a notice seen briefly on the way home appearing as the central image in a dream. It may provide a convenient visible form for an older worry, or simply connect with the day's unfinished thoughts. Freud investigates that linkage rather than deciding that the freshest detail must also be the most important. The sequence distinguishes when the material was encountered from how it is used in the dream. That is a small but useful distinction: chronology is one relation among the elements, while significance is another. The presence of yesterday can therefore be an entry into interpretation without turning the dream into a literal replay of the day.",
     "sources": [
-      "freud-dreams-4"
+      "freud-source-day-residue"
     ],
     "metaphor": "A recent small detail passes through a gate and connects with branching older associations.",
     "scene": {
@@ -3134,7 +3150,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What recent detail might enter a dream without being its most important concern?"
   },
   {
     "id": "freud-dream-association",
@@ -3146,7 +3163,7 @@
     "explanation": "Freud asked people to report associations to separate dream elements. His method differs from assigning each image one universal meaning before hearing about the person's life.",
     "nuance": "A bridge might lead to a childhood walk, an argument or a phrase heard yesterday. These associations matter because they connect this image to this dreamer's concerns. An interpreter should not simply announce what bridges mean. The apparently irrelevant association is often the point of the method. If only clearly relevant thoughts were allowed, the dreamer's existing explanation would already determine the result. Freud asks for a less selected route while treating the objections along that route as material too.\n\nFreud also proposed recurring symbols, so his practice was not purely individual association. The tension between those approaches remains worth noticing. A plausible interpretation should explain its route through the material rather than rely on the interpreter's authority.\n\nThe thread can begin with a detail as ordinary as a color or name. Following it does not establish that every memory appearing afterward caused the dream. Association provides material, and interpretation makes a further claim about the relations among that material. This distinction preserves room for criticism as well as curiosity. A persuasive account should connect particular features and acknowledge alternatives; it should not rely solely on the fact that the analyst can tell a compelling story. The drawing is deliberately not a straight arrow toward one answer: several thoughts may become relevant, and their significance can change as the exploration develops.",
     "sources": [
-      "freud-dreams-4"
+      "freud-source-dream-association"
     ],
     "metaphor": "A small dream detail begins a winding thread on which memories appear in sequence.",
     "scene": {
@@ -3317,7 +3334,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would you lose by deciding an image's meaning before hearing its associations?"
   },
   {
     "id": "freud-dream-censorship",
@@ -3329,7 +3347,7 @@
     "explanation": "Dream-censorship is Freud's name for forces that prevent certain wishes from appearing plainly. His theory explains an obscure dream as a transformed compromise, rather than a wish stated directly.",
     "nuance": "A hostile feeling toward someone valued might appear through an unrelated character or an altered situation. Freud would connect the disguise with conflict, using the dreamer's associations. The disguise can involve omission, displacement and combinations rather than a simple substitution cipher. Different transformations can work together. This means the remembered scene need not contain a transparent version of the proposed wish waiting to be uncovered by one clever decoding rule.\n\nCensorship is a metaphor for mental processes, not an actual guard inspecting thoughts. It is also a contested explanation, especially when any counterexample can be redescribed as further disguise. The useful distinction is between what appears in the dream and the argument offered for why it appears that way.\n\nA forbidden hostile wish might enter a scene through several small shifts rather than through a single villainous dream figure. Freud would investigate how those shifts connect with the person's associations and prohibitions. The detour represents this transformed access, not an external censor consciously choosing each edit. The hypothesis explains the obscure presentation by invoking conflict, but it faces an evidential difficulty: obscurity itself cannot confirm which conflict caused it. The interpreter needs to show the connections they propose. Keeping the metaphor at the level of relationship helps avoid imagining an inner official whose decisions conveniently explain every puzzling image.",
     "sources": [
-      "freud-dreams-4"
+      "freud-source-dream-censorship"
     ],
     "metaphor": "A direct line meets a narrow doorway and finds a curved route beneath it.",
     "scene": {
@@ -3505,7 +3523,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What evidence would connect a proposed disguise with a particular conflict?"
   },
   {
     "id": "freud-dream-limits",
@@ -3517,7 +3536,7 @@
     "explanation": "Freud acknowledged a point in dreams where associations become tangled and interpretation reaches a limit. A network of thoughts can extend beyond anything a single account fully reconstructs.",
     "nuance": "The last unresolved detail is not necessarily a failure of effort. Freud described a dream's connections as branching into the larger life of thought. Interpretation can illuminate some relations without producing a final translation. An unfinished interpretation can still be more precise than an account that pretends to explain everything. Freud's image of tangled associations acknowledges that a dream belongs to a larger network of thought. The boundary of one explanation is not necessarily the boundary of the mind's activity.\n\nThis restraint matters because a confident explanation can be mistaken for exhaustive knowledge. The dreamer may find a connection useful while still questioning the theory used to explain it. Understanding is partial, and unresolved material need not be forced into a neat ending.\n\nSuppose several details connect with a current separation while another leads into a dense chain that remains unresolved. The account can name the supported connections and leave the rest open. That is different from replacing the unresolved element with an impressive abstract word that makes the narrative seem complete. The roots running past the frame make this incompleteness visible. A limit can concern missing material, ambiguous relations or the scope of the theory itself. Freud's acknowledgment does not solve every objection to dream interpretation, but it gives a reason to distinguish a useful partial reading from an authoritative final translation.",
     "sources": [
-      "freud-dreams-4"
+      "freud-source-dream-limits"
     ],
     "metaphor": "Several roots disappear beyond the lower edge beneath one remembered dream image.",
     "scene": {
@@ -3683,7 +3702,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Can an interpretation become clearer by stating what it does not explain?"
   },
   {
     "id": "freud-id",
@@ -3695,7 +3715,7 @@
     "explanation": "Freud named the id the part of mental life organized around instinctual demands. It is not an evil personality: it is a theoretical domain whose pressures do not necessarily follow conscious priorities.",
     "nuance": "Hunger, desire and hostility do not become morally bad simply because they are unwelcome. Freud's id represents pressures that the ego must negotiate rather than a villain to defeat. The id does not use the ordinary conscious test of whether an impulse is practical, morally acceptable or consistent with a person's identity. Those constraints become part of the ego's negotiation. A demand can therefore persist even when the person has good reasons not to carry it out.\n\nThe familiar drawing of three characters arguing in a person's head can be misleading. Id, ego and superego name interacting functions in Freud's later model. They are not three separate people or brain regions, and the model remains a historical theory rather than a literal anatomical map.\n\nPicture a wish meeting a boundary rather than a character making a plan. That image avoids giving the id a secret personality who knows everything the person does not. Freud's model locates instinctual pressure within a larger organization of mental life, and the id is not completely isolated from the ego that develops from it. Conscious choice remains relevant, but it does not create the underlying demand merely by noticing it. The concept is most intelligible as a relation between pressure and regulation. It becomes misleading when used to label any disliked behavior as primitive or to excuse an action as something an inner creature did instead of the person.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-id"
     ],
     "metaphor": "An irregular force presses against a threshold before any clear outward path has formed.",
     "scene": {
@@ -3866,7 +3886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How does a demand differ from a decision to carry it out?"
   },
   {
     "id": "freud-ego",
@@ -3878,7 +3899,7 @@
     "explanation": "Freud's ego mediates among instinctual demands, moral demands and external reality. It can perceive and plan, but it also defends itself and is not wholly conscious in his later account.",
     "nuance": "Wanting to leave a job, fearing financial loss and feeling obliged to stay creates several different demands. The ego's task is to find workable relations among them, not merely express the strongest wish. The ego also assesses danger and uses defenses. Some of that work occurs beyond awareness, which prevents a neat equation between ego and rational conscious thought. Freud's image of mediation involves dependence on several forces, not an autonomous ruler issuing commands to the rest of the mind.\n\nEgo here does not mean arrogance. It is Freud's term for an organization of mental functions. A person can have a powerful conscious sense of control while remaining unaware of some of the defenses used to maintain it.\n\nThe three lines show why negotiation can be difficult. Reality might make a wish costly, while an internal ideal condemns even having the wish. An arrangement that answers one demand can intensify another. Freud's ego must work within that field rather than eliminate it by declaration. The person is still capable of deliberation, but deliberation is itself a process taking place among these pressures. This is also why the everyday meaning of ego can distort the theory: a boastful person is not simply someone with too much of this agency. Freud is describing an organization of functions, not ranking personalities by the size of their pride.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-ego"
     ],
     "metaphor": "A figure stands between three differently timed lines arriving from desire, obligation and the world.",
     "scene": {
@@ -4061,7 +4082,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What can make a workable decision continue to feel internally divided?"
   },
   {
     "id": "freud-superego",
@@ -4073,7 +4095,7 @@
     "explanation": "Freud's superego includes internalized prohibitions and ideals. It can criticize the ego harshly, and its force is not simply a measure of how reasonable a rule is.",
     "nuance": "Someone can hear an inner accusation after a minor mistake even when no one else is condemning them. Freud connects this judging function with early authority, identification and conflict. The internal judgment can become harsher than the actual current judgments of other people. Freud relates its severity to identification and mental conflict, rather than assuming it is a faithful recording of sensible parental rules. The force of a demand and its ethical merit are different questions.\n\nThe superego is not synonymous with a good conscience. It may demand impossible standards or punish a wish as though it were an act. Describing that mechanism does not make every moral concern irrational; it asks how a particular demand acquired its authority and severity.\n\nThe descending measure depicts the experience of being judged before any external conversation takes place. A person may anticipate condemnation for a passing hostile thought even when they have chosen not to act on it. Freud's superego can confuse the significance of desire and action, imposing guilt in ways that exceed the practical situation. But criticism of a harsh judging process does not require abandoning every obligation. The inquiry concerns which standards have authority, how they were taken in and what they do to the person. An internal demand can contain genuine concern and punishing excess at the same time; the model does not make those elements easy to separate.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-superego"
     ],
     "metaphor": "A ruler descends toward a figure, narrowing the space the figure can occupy.",
     "scene": {
@@ -4231,7 +4253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Can the force of an internal demand exceed its reasonable claim on a person?"
   },
   {
     "id": "freud-ego-ideal",
@@ -4243,7 +4266,7 @@
     "explanation": "Freud links the ego-ideal with the superego and with earlier identifications. The person compares the actual self with an internal standard that may promise worth yet remain difficult to satisfy.",
     "nuance": "An ideal of never needing help can turn ordinary dependence into humiliation. The ideal is doing more than setting a goal: it organizes what the person considers acceptable about themselves. The ideal can include images of admired adults, imagined completeness or standards acquired in relationships. It therefore has a history, even when it feels self-evident. The distance between actual and ideal can motivate an attempt, but it can also make ordinary limits feel like unacceptable defects.\n\nFreud's terminology changes across works, so ego-ideal and superego should not always be treated as sharply separate compartments. The distinction here concerns the experience of measuring oneself against a standard, especially when that standard becomes absolute rather than open to revision.\n\nSuppose a person considers needing assistance incompatible with being worthy of respect. Help then becomes emotionally costly even when it is practical and freely offered. The ideal is not simply an ambitious goal; it governs what the self may acknowledge about itself. Freud's account directs attention to that measuring relation and its origins. The illustration keeps a gap between the person and the standard, asking whether the gap supports movement or guarantees permanent failure. A revised relation to an ideal would not necessarily remove aspiration. It could make room for limits without converting each limit into evidence that the entire person falls short.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-ego-ideal"
     ],
     "metaphor": "A measuring line stays above a figure even as the figure tries to rise toward it.",
     "scene": {
@@ -4410,7 +4433,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "When does a standard guide an effort, and when does it make ordinary limits shameful?"
   },
   {
     "id": "freud-unconscious-ego",
@@ -4422,7 +4446,7 @@
     "explanation": "Freud's later model complicated his earlier division of mental systems. The ego is not identical with consciousness: resistance and defensive operations can be unconscious too.",
     "nuance": "A person may sincerely insist that a topic does not matter while finding every approach to it intolerable. In Freud's account, both the conflict and the defense against it may escape awareness. The same ego that offers a conscious account of itself can exclude material from that account. Freud thus distinguishes an agency from a state of awareness. This revision is important because it prevents the later model from being treated as a simple replacement for the earlier three mental systems.\n\nThis is why conscious versus unconscious does not map neatly onto ego versus id. The structural model describes agencies and their relations; the earlier topographical model describes modes of access to awareness. Confusing the two turns a nuanced revision into a simple diagram of good and bad selves.\n\nThe internal line works within a larger surrounding field. It is not a border that makes everything on one side conscious and everything on the other unconscious. An ego defense can change what becomes available without appearing as a deliberate decision to hide something. Freud uses this to explain why resistance cannot always be approached by simply asking the person to stop resisting. Yet the inference that a defense is operating remains an interpretation of material and process. The conceptual distinction is the secure point of the card: functions and accessibility are different dimensions. Moving from a diagram of regions to a theory of agencies does not abolish that difference.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-unconscious-ego"
     ],
     "metaphor": "A visible figure sits within a larger faint field; a moving boundary inside the field acts without the figure moving.",
     "scene": {
@@ -4583,7 +4607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How can the process that excludes a thought also remain unnoticed?"
   },
   {
     "id": "freud-preconscious",
@@ -4595,7 +4620,7 @@
     "explanation": "Freud distinguished the preconscious from the repressed unconscious. Preconscious material is not currently noticed but can ordinarily become conscious without overcoming the special barrier of repression.",
     "nuance": "You may not be thinking of your address until someone asks for it. That ordinary availability differs from Freud's account of a thought kept out of awareness by conflict. Both are unnoticed, but their relation to awareness differs. Accessibility matters: the unnoticed address is available when the question calls it into attention, whereas repressed material meets a different difficulty in Freud's theory. The categories describe how a thought can become conscious, rather than measuring how vivid or important its content is.\n\nThe distinction prevents the word unconscious from becoming a label for everything absent from attention. Freud developed different models across his career; this card concerns accessibility in the topographical model, rather than a literal storage room located inside the brain.\n\nThe open gate shows an ordinary transition in availability. A memory can be outside current awareness simply because attention is elsewhere. That everyday fact alone does not imply an unacceptable wish or a defensive conflict. Freud distinguishes the descriptive use of unconscious, meaning currently not conscious, from a more dynamic account involving forces that keep material excluded. Without that distinction, almost any forgotten or unattended thought could be described as repressed. The drawing therefore offers a small correction to the popular image of a single hidden storehouse: material beyond attention can stand in different relations to awareness, and those relations are what the theory tries to explain.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-preconscious"
     ],
     "metaphor": "A small idea crosses an open threshold when attention reaches it.",
     "scene": {
@@ -4763,7 +4788,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What ordinary thought is absent now but easily available when asked for?"
   },
   {
     "id": "freud-body-ego",
@@ -4775,7 +4801,7 @@
     "explanation": "Freud described the ego as first and foremost bodily, linking it with sensations from the body and its surface. His account situates the mental sense of I in a lived relation to bodily experience.",
     "nuance": "A touch is both something happening to the body and something sensed from within it. Freud treats that double relation as important to the formation of selfhood, rather than viewing the ego as a purely abstract thinker. Bodily boundaries help distinguish inside and outside, yet the body is also an object that can be perceived. Freud is interested in this double position. His description links the ego with a bodily surface without claiming that the person is simply reducible to a visible outline.\n\nThe claim is not that every feature of personality can be read from anatomy. Nor is the bodily ego a modern neuroscientific finding. It is part of Freud's attempt to describe how a differentiated sense of self emerges within a wider field of mental life.\n\nTouching one's hand can be sensed at the touching finger and at the hand being touched. The example suggests why bodily experience has a special role in a sense of self: it is encountered both through sensation and as something sensed. Freud's account gives this relation a place in the formation of the ego. The surrounding line in the drawing becomes an edge that can be recognized, not a wall cutting the person off from the world. The argument remains theoretical and historically situated. Its useful contrast is with a purely disembodied picture of mental life in which the thinker appears fully formed before having any relation to a body.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-body-ego"
     ],
     "metaphor": "A figure appears inside an uneven boundary whose line gradually becomes perceptible.",
     "scene": {
@@ -4935,7 +4961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How does bodily sensation help distinguish a self from what surrounds it?"
   },
   {
     "id": "freud-identification",
@@ -4947,7 +4974,7 @@
     "explanation": "Freud used identification for processes through which aspects of another person are taken into the self. In his account, attachments can alter the ego rather than simply connect two unchanged individuals.",
     "nuance": "After a loss, someone may notice a parent's gesture becoming their own. Identification is broader than conscious imitation: Freud links it with attachment, loss and the formation of ideals. Identification can also concern someone the person fears, opposes or has lost. Its meaning depends on the relation, rather than on admiration alone. Freud's account makes room for the self to contain traces of several attachments whose demands and characteristics do not neatly agree.\n\nTaking on an aspect of another person does not mean becoming a complete copy. The traces can conflict, coexist and change. Freud's claim concerns how relationships help constitute the self, rather than a self that is fully formed before it encounters anyone.\n\nImagine an adult who notices a familiar reprimanding phrase in their own speech. The phrase may have been consciously disliked in childhood and still become part of a later way of responding. Freud would ask about the relation through which it was taken in, not assume that adopting a feature proves complete approval of the person it came from. The imprint diagram separates the earlier figure from the lasting pattern. That distinction helps avoid treating identification as total replacement: a trace is incorporated into a self that also has other histories. The self changes through relationships, while the incorporated aspects may coexist in tension rather than forming a seamless whole.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-identification"
     ],
     "metaphor": "A line passes from one figure to another and leaves an irregular trace within the second.",
     "scene": {
@@ -5120,7 +5147,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which small gesture can preserve the trace of an earlier relationship?"
   },
   {
     "id": "freud-unconscious-guilt",
@@ -5132,7 +5160,7 @@
     "explanation": "Freud proposed unconscious guilt to explain some forms of self-punishment and resistance to improvement. The term describes an inferred judging relation, rather than guilt necessarily experienced as a clear feeling.",
     "nuance": "A success followed by compulsive self-reproach might lead Freud to ask whether improvement has become unacceptable within an internal conflict. That interpretation cannot be assumed just because something goes wrong. Freud sometimes used this idea when improvement itself appeared to intensify suffering. A harsh internal relation could make getting better feel unacceptable without the person stating an accusation. This is different from ordinary remorse for an acknowledged action, where the grounds of guilt can be discussed directly.\n\nThe idea is especially difficult because the accusation may not be consciously reportable. It should therefore be presented as a contested clinical hypothesis. It does not establish that suffering is deserved, secretly desired or caused by a person's failure to think correctly.\n\nConsider someone who encounters relief and immediately experiences an undefined need to undo it. An interpretation might propose an internal demand for punishment, but other explanations remain possible. The theory is difficult to establish precisely because the proposed guilt is not reported in the familiar form. Freud's account therefore needs to be read as a clinical inference, with all the limits of inference, rather than a hidden verdict uncovered by an authority. The measure in the drawing has no named offense beneath it. That missing connection is the conceptual difficulty: punishment may be felt or enacted while the accusation giving it meaning cannot be clearly brought into the account.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-unconscious-guilt"
     ],
     "metaphor": "A figure sits beneath a descending measure; the name of the supposed offense never appears.",
     "scene": {
@@ -5295,7 +5323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What makes a theory of an unreported accusation especially difficult to establish?"
   },
   {
     "id": "freud-three-masters",
@@ -5307,7 +5336,7 @@
     "explanation": "Freud describes the ego as answering to external reality, the id and the superego. Their demands can diverge so strongly that no response provides complete satisfaction.",
     "nuance": "Choosing to rest might answer exhaustion while provoking an ideal of constant duty. Choosing to work might meet the ideal while worsening the bodily strain. Freud's model makes room for a choice that is necessary yet emotionally costly. Freud's description also limits the ego's picture of its own independence. The ego tries to respond rationally, yet it is shaped by demands it cannot simply overrule. A choice can therefore be considered and necessary without producing an experience of inner unanimity or complete emotional peace.\n\nThis is a theory of conflicting demands, not a command to obey a particular inner voice. The important distinction is between finding a workable arrangement and imagining that every tension can be eliminated. Some compromises preserve a conflict while making life possible.\n\nThe shared center is deliberately not a throne. It is a place where pressures arrive, and an arrangement has to be made among them. Suppose a person refuses a demand that would exhaust them. External circumstances might support the refusal while an inherited ideal still makes it feel disloyal. The residual guilt does not automatically show the decision was wrong; nor does conscious justification remove the inner difficulty. Freud's model distinguishes practical adaptation from total satisfaction. The diagram becomes useful when it shows the remaining relation among forces rather than celebrating a moment in which the ego supposedly conquers every part of the mind.",
     "sources": [
-      "freud-ego-5"
+      "freud-source-three-masters"
     ],
     "metaphor": "Three lines reach a central figure at different times; the figure shifts slightly without dissolving any line.",
     "scene": {
@@ -5492,7 +5521,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Can an arrangement be necessary even when no part of the situation feels fully satisfied?"
   },
   {
     "id": "freud-free-association",
@@ -5504,7 +5534,7 @@
     "explanation": "Freud's basic analytic rule asks the person to report what comes to mind without selecting only what seems relevant or respectable. The interruptions and objections are themselves part of what analysis investigates.",
     "nuance": "An apparently unrelated memory may be excluded because it seems silly, embarrassing or too ordinary. Reporting it can expose a connection that a polished account would conceal. Free association means relaxing selection in a particular analytic setting; it does not mean that speech has no context or constraints. The rule changes what counts as worth reporting. The person need not first prove that a thought is connected with the problem under discussion. Freud gives attention to the apparently disconnected material and to the impulse to exclude it, while interpretation supplies a further argument about significance.\n\nNor does every association establish a hidden cause. Freud's method follows the person's route through thoughts, while the interpretation of that route remains a separate claim.\n\nSuppose a memory of a trivial meal interrupts an account of a quarrel. A selected narrative might discard the meal because it does not fit the subject. Free association allows the detail to enter, after which its possible relations can be explored. It might concern a person, a phrase, an atmosphere or nothing clearly helpful. The method's openness should not be confused with an instruction that every detail must have a dramatic secret. The thread drawing leaves room for unanticipated connections without pretending the route ends in a guaranteed revelation. Freud's procedure attempts to loosen prior selection; it does not remove the need to evaluate the account eventually made from the material.",
     "sources": [
-      "freud-lectures-6"
+      "freud-source-free-association"
     ],
     "metaphor": "A small detail starts an uneven thread; later thoughts appear along it without a straight predetermined route.",
     "scene": {
@@ -5675,7 +5705,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which apparently irrelevant detail would a carefully edited account omit?"
   },
   {
     "id": "freud-transference",
@@ -5687,7 +5718,7 @@
     "explanation": "Freud called the transfer of feelings and relational expectations onto the analyst transference. The current encounter acquires force from patterns that also belong to earlier attachments.",
     "nuance": "A neutral pause might feel like a familiar withdrawal of affection. The feeling is happening now, but Freud asks whether its intensity and structure also draw on an earlier relationship. The old pattern can shape what is noticed, what is expected and how a gesture feels. It need not reproduce an earlier event in every detail. Freud's account concerns a relation that takes on new force in the present, while the present person remains a real participant in that encounter.\n\nThat does not mean the analyst is irrelevant or incapable of causing harm. Present conduct still matters. Transference concerns how current experience is organized through earlier patterns, not a rule that the client's perception is always mistaken and the professional is always innocent.\n\nImagine interpreting a delayed response as certain abandonment before learning why it was delayed. The expectation might bear an earlier history, while the actual delay still has circumstances of its own. The overlay drawing keeps the two figures distinct rather than replacing the present person with a ghost. That distinction prevents transference from becoming a device for explaining away all current experience. In analysis, the relation becomes material because it is happening between the people doing the work. What repeats can then be investigated with attention both to its history and to what the analyst is actually contributing to its present form.",
     "sources": [
-      "freud-lectures-6"
+      "freud-source-transference"
     ],
     "metaphor": "An earlier faint figure overlaps the present person as a line from the observer reaches them.",
     "scene": {
@@ -5858,7 +5889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How could an earlier expectation shape a present encounter without replacing its reality?"
   },
   {
     "id": "freud-transference-resistance",
@@ -5870,7 +5902,7 @@
     "explanation": "Freud found transference both useful to treatment and capable of becoming resistance. Strong attachment or hostility toward the analyst can redirect attention from the conflict being explored.",
     "nuance": "The wish to please the analyst might produce a story that sounds agreeable but omits difficult material. Hostility might make every suggestion feel like domination. Freud treats both as material for understanding the relation. The same attachment can support speaking and create a pressure to conceal. Freud thus treats transference through its function at a particular point in the work, rather than assigning it one meaning. The relation's intensity is not enough to show whether it is helping inquiry or obstructing it.\n\nThe distinction is between using the relationship to observe a pattern and satisfying the pattern in ways that preserve it. An analyst's influence is part of the situation and must also be examined; authority alone cannot establish that an interpretation is correct.\n\nConsider a person who reports only the feelings they believe the analyst will welcome. Warmth in the relation may increase attendance while narrowing what can be said. Alternatively, a familiar expectation of criticism can make the analyst's questions feel intolerable. Freud would investigate how those reactions relate to the ongoing material and earlier attachments. The two-way drawing shows that the relation is a channel whose form matters, not an external container for a preexisting explanation. Examining that channel should include the listener's behavior and authority. Otherwise the concept can become a way to label unwanted responses while leaving the analyst's contribution beyond criticism.",
     "sources": [
-      "freud-lectures-6"
+      "freud-source-transference-resistance"
     ],
     "metaphor": "Two figures exchange lines; the returning line bends into a knot between them.",
     "scene": {
@@ -6035,7 +6067,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "When might the wish to please a listener make honest speaking harder?"
   },
   {
     "id": "freud-suggestion-analysis",
@@ -6047,7 +6080,7 @@
     "explanation": "Freud distinguished analytic work from a treatment that relies chiefly on the clinician's persuasive authority. He wanted the transference supporting that authority to become an object of examination itself.",
     "nuance": "Someone may accept an explanation because they trust the speaker. That agreement can ease distress without establishing that the explanation is true or resolving the conflict it describes. Freud sought change through work on resistance and transference. An explanation accepted through influence and an explanation worked through in relation to resistance can produce different kinds of change. Freud presents this as a distinction in technique and aim. It does not follow that every analytic interpretation is therefore free of persuasion or protected from error.\n\nHe did not claim that analysis contains no suggestion. Instead, he argued that its use and eventual examination differ from leaving the relationship of influence intact. This is his account of the distinction, not independent evidence that his technique always achieved it.\n\nThe listener's authority is part of the diagram rather than an invisible guarantee behind it. A person can feel better because a trusted voice gives a reassuring account, even if the account is incomplete. Freud seeks to make the dependence on that voice available for examination, so the result is not maintained solely through the relationship of belief. The distinction has an obvious difficulty: analysis still uses a relationship, interpretations and expectations. Its claim to go beyond suggestion must therefore be assessed through what the process does with those conditions, not just by the label given to the method. Freud acknowledges suggestion while arguing for a different handling of it.",
     "sources": [
-      "freud-lectures-6"
+      "freud-source-suggestion-analysis"
     ],
     "metaphor": "A thread connects two figures, then becomes visible as the object they both look toward.",
     "scene": {
@@ -6215,7 +6248,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would change if the influence supporting an explanation became available for examination?"
   },
   {
     "id": "freud-interpretation",
@@ -6227,7 +6261,7 @@
     "explanation": "In Freud's method, an interpretation proposes a relation among associations, symptoms, wishes and defenses. It is an account of how the material might fit together, rather than a dramatic hidden label.",
     "nuance": "Calling an angry response a fear of abandonment supplies an interpretation, but the phrase alone does no explanatory work. The relevant question is how that claim connects with this person's history and associations. An interpretation can be intelligible before it is emotionally available. Freud distinguishes the communication of an idea from the work of approaching the conflict that idea describes. This is one reason an explanation should not be judged solely by the person's immediate agreement or disagreement.\n\nFreud also recognized that telling someone an explanation did not remove the resistance surrounding it. The person can understand the words while remaining unable to approach the conflict. Interpretation and the process of change are therefore related but not identical.\n\nImagine being told that a repeated avoidance protects a wish for approval. The sentence can make sense and still leave the person unable to disagree with someone important. Freud asks how the pattern is encountered in the work, including when resistance returns. The connecting seams in the drawing are offered relations rather than final seals. An account should connect with material, preserve its uncertainties and remain open to revision. Disagreement can concern timing, evidence or the explanation itself, not simply a refusal to accept the truth. Interpretation becomes more useful when it clarifies a relation that can be examined than when it wins by sounding definitive.",
     "sources": [
-      "freud-lectures-6"
+      "freud-source-interpretation"
     ],
     "metaphor": "Several fragments acquire connecting seams only after their separate positions are visible.",
     "scene": {
@@ -6412,7 +6446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What makes a proposed connection more useful than a revealing-sounding label?"
   },
   {
     "id": "freud-even-attention",
@@ -6424,7 +6459,7 @@
     "explanation": "Freud recommended evenly suspended attention: the analyst should avoid selecting details solely through prior expectations. Material that seems insignificant now may become meaningful through something said later.",
     "nuance": "A listener convinced that every difficulty concerns a parent can overlook a present conflict about work. Freud's rule attempts to counter that premature selection. It pairs the person's free association with a receptive way of hearing it. Freud's concern is that selection based on an early expectation can manufacture confirmation. The listener sharpens one detail and loses another before either has been placed in a fuller context. Restraint is therefore an attempt to preserve possibilities for later connections, not a mystical access to hidden truth.\n\nThe recommendation is not literal absence of thought. It is restraint about deciding too early what matters. Freud offered it from his own practice and acknowledged that another clinician's temperament might call for a different technical attitude.\n\nSuppose a person's remarks about money are repeatedly heard only as remarks about parental control. Other connections, such as a present insecure job, may never receive equal consideration. Even attention asks the listener not to make that selection prematurely. The converging lines remain available before the central account takes form. The recommendation also reveals a limit of interpretation: an expert can collect only the evidence favored by their starting picture and then be impressed by its consistency. Freud's rule tries to reduce that hazard, while his theory itself still shapes what the listener expects. The useful lesson is disciplined openness, together with scrutiny of how an account was assembled.",
     "sources": [
-      "freud-technique-7"
+      "freud-source-even-attention"
     ],
     "metaphor": "Three separate paths arrive together rather than one being highlighted before the others appear.",
     "scene": {
@@ -6609,7 +6644,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which detail might be lost if a listener decided too early what the story concerns?"
   },
   {
     "id": "freud-analyst-blind-spots",
@@ -6621,7 +6657,7 @@
     "explanation": "Freud argued that an analyst's unresolved conflicts can distort what they hear. He supported personal analysis for practitioners so their own blind spots would not silently become explanations of someone else.",
     "nuance": "A listener who cannot tolerate anger may repeatedly translate a person's anger into something more acceptable. The resulting account could describe the listener's difficulty more than the speaker's experience. A clinician's difficulty can appear as certainty about what another person must mean. Freud therefore treats self-knowledge as part of technical responsibility. A blind spot can affect what becomes audible, not just the explanation eventually supplied after the person has finished speaking.\n\nFreud's warning limits the fantasy of a perfectly objective interpreter. Training is not a guarantee of freedom from bias. The analyst's responses and assumptions are part of the encounter, and the power to interpret makes that responsibility greater rather than smaller.\n\nPicture a listener who readily hears dependency but cannot hear justified anger. The reported anger may be translated into a need for reassurance before its circumstances are considered. The resulting account could be coherent because inconvenient material was excluded at the outset. Freud's warning about the analyst's own conflicts addresses this kind of distortion, even though analysis of the practitioner does not guarantee its removal. The paired figures make the asymmetry visible: the listener has interpretive power and also a personal history. Attending to that history is a limitation on authority, not an additional credential that makes every interpretation automatically trustworthy.",
     "sources": [
-      "freud-technique-7"
+      "freud-source-analyst-blind-spots"
     ],
     "metaphor": "A faint form behind the listening figure intrudes into the line arriving from the speaker.",
     "scene": {
@@ -6789,7 +6825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How could a listener's own conflict change what they are able to hear?"
   },
   {
     "id": "freud-therapeutic-ambition",
@@ -6801,7 +6838,7 @@
     "explanation": "Freud warned analysts against imposing ambitious ideals on the person in treatment. The analyst's desire for an impressive result can conflict with what the person can realistically live and enjoy.",
     "nuance": "A clinician might prize intellectual achievement while the person chiefly wants less fear in ordinary relationships. Freud cautions that elevating every wish into a supposedly higher aim can make life harder. The desire to prove the method can also narrow the listener's attention. An impressive outcome may become more important than the person's available possibilities. Freud places a limit on that ambition by distinguishing help from the attempt to make someone exemplify the helper's preferred ideal.\n\nThis is a limit on the interpreter's ambition, not a rejection of learning or aspiration. The question is whose ideal directs the work. An account of another person's life becomes coercive when their possibilities are measured only against the helper's preferred image.\n\nSuppose ordinary pleasure and workable relationships are treated as too modest, and the person is continually pushed toward an exceptional achievement. The proposed improvement can reproduce the harsh demands that already make life difficult. Freud cautions against indiscriminately demanding sublimation or assigning elevated aims. The measuring line in the illustration belongs to the helper's ideal, which is why it must become visible as part of the relation. Respecting the person requires more than selecting a supposedly noble goal for them. It involves asking what their capacities, conflicts and circumstances allow, while resisting the urge to turn a life into evidence of the interpreter's success.",
     "sources": [
-      "freud-technique-7"
+      "freud-source-therapeutic-ambition"
     ],
     "metaphor": "A measuring line appears over a person, then shifts aside to reveal the person's own available space.",
     "scene": {
@@ -6977,7 +7014,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Whose preferred image of a good life is guiding the proposed change?"
   },
   {
     "id": "freud-remembering-repeating",
@@ -6989,7 +7027,7 @@
     "explanation": "Freud described people as sometimes enacting old patterns during analysis rather than reporting them as memories. The analyst encounters the pattern in how the person relates, not only in a story about earlier events.",
     "nuance": "Someone unable to describe mistrust of authority may repeatedly expect the analyst to deceive them. Freud treats this as a possible repetition that can become available for examination. Repetition can occur in the relation to the analyst and in choices outside it. Freud emphasizes that it need not be recognized as repetition by the person living it. That lack of recognition is what makes observing the present pattern different from requesting an accurate story about its earlier source.\n\nRepetition does not give a direct photograph of the past. The present relationship has its own circumstances and the earlier pattern may be transformed. The important change is from being wholly caught in an expectation to being able to recognize and discuss how it operates.\n\nSuppose someone expects every new listener eventually to humiliate them and begins testing the analyst for signs of contempt. The expectation is enacted through the encounter before it becomes a topic the two can discuss. Freud's account concerns this change in form: an earlier relation appears as a present demand or anticipation, rather than only as a narrated recollection. The loop retains its repeated course while an outward line marks the possibility of examination. That line is not an instant cure. Identifying the pattern can create a different relation to it, while work on its persistence remains necessary. The present circumstances still help determine how the pattern unfolds.",
     "sources": [
-      "freud-working-8"
+      "freud-source-remembering-repeating"
     ],
     "metaphor": "A closed route repeats around the central space; a small outward branch becomes visible later.",
     "scene": {
@@ -7150,7 +7188,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How does acting within an expectation differ from being able to describe it?"
   },
   {
     "id": "freud-working-through",
@@ -7162,7 +7201,7 @@
     "explanation": "Freud called working-through the prolonged engagement with resistance after it has been recognized. An interpretation may begin the work rather than complete it in a moment of insight.",
     "nuance": "A person can understand their fear of disagreement and still retreat each time disagreement occurs. In Freud's account, the repeated return of the difficulty creates occasions to encounter it differently, rather than proving that understanding was worthless. The return of resistance matters because it reveals where an intellectual understanding still has limited access. Freud distinguishes knowing the explanation from encountering the force that keeps the pattern in place. The continued work involves that force, rather than collecting ever more impressive interpretations.\n\nWorking-through is not simply repeating an explanation until the person agrees. It concerns the lived resistance to approaching the conflict. Freud emphasizes time and continued work, resisting the promise that one revelatory sentence should immediately reorganize a life.\n\nConsider understanding that seeking perfect approval prevents honest disagreement. In a later encounter, the need for approval may reappear before the understanding can affect the response. That moment supplies material for further work, not just a reason to repeat the original sentence more loudly. Freud's account assigns time to the process because resistance is not merely a gap in information. The loop with an emerging exit illustrates repeated contact and a slowly changing relation. The explanation should also be allowed to change if it fails to fit what returns. Working-through cannot be used to protect an incorrect interpretation by treating the person's inability to improve as proof that it was correct.",
     "sources": [
-      "freud-working-8"
+      "freud-source-working-through"
     ],
     "metaphor": "The same loop is drawn several times; an exit line develops slowly instead of appearing at the first recognition.",
     "scene": {
@@ -7323,7 +7362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would distinguish continued work on a pattern from repeating the same explanation?"
   },
   {
     "id": "freud-pleasure-principle",
@@ -7335,7 +7375,7 @@
     "explanation": "Freud's pleasure principle describes a tendency to avoid unpleasure and seek satisfaction. It is an explanatory principle about mental processes, not the advice that a person should pursue pleasure without restraint.",
     "nuance": "Hunger creates a pressure that eating can relieve. Freud extends the idea of tension and discharge into a model of mental life, while acknowledging that the relation between excitation and feeling is not mechanically simple. The principle concerns a tendency in mental regulation, not necessarily a person's explicitly chosen aim. Relief can also be obtained in ways that bring later difficulty. Freud's distinction between immediate discharge and the route required by reality is therefore central to understanding what the principle does and does not say.\n\nThe principle does not imply that people only choose enjoyable experiences. Some processes postpone satisfaction, and others repeat distress. Those difficulties become central to the book in which Freud examines what may operate beyond the principle.\n\nThe relaxing line depicts a change in tension rather than a cheerful endpoint. Suppose an impulse can be relieved immediately, but its discharge would interfere with a longer task. The mind's response then involves the principle's relation to other processes, including delay and conflict. Freud's economic language proposes quantities of excitation, while he acknowledges that feeling does not follow a simple numerical proportion. The drawing gives the relation an intelligible form without converting the hypothesis into a physical measurement. What becomes important in the sequence is not merely that relief is sought, but that some repeated processes seem to occur even when relief does not explain their return.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-pleasure-principle"
     ],
     "metaphor": "A jagged tense line slowly relaxes into a less strained course.",
     "scene": {
@@ -7487,7 +7527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "When might immediate relief and a satisfactory longer-term outcome diverge?"
   },
   {
     "id": "freud-reality-principle",
@@ -7499,7 +7540,7 @@
     "explanation": "Freud's reality principle modifies immediate pleasure-seeking in response to the external world. It tolerates temporary discomfort or delay when these make a more secure satisfaction possible.",
     "nuance": "Wanting to eat does not mean food can be obtained instantly. Waiting, planning and working can serve the original wish while abandoning its immediate discharge. Reality is not simply the enemy of pleasure in Freud's account. Freud describes the later principle as securing rather than overthrowing the aim of satisfaction. It may give up an immediate route while preserving the desired result. This makes patience, planning and temporary discomfort part of desire's organization, rather than evidence that desire has vanished.\n\nThe distinction concerns the route to satisfaction. A detour can preserve an aim rather than renounce it altogether. Freud also notes that the change is incomplete: some mental activities remain more closely tied to the earlier search for immediate satisfaction.\n\nThe longer line still reaches toward the same destination. A hungry person waiting until food is safely available has not necessarily ceased to want it; the relation to circumstances changes the route. Freud connects this development with the demands of the external world and the ego's functions. The contrast should not become a moral story in which childish pleasure is bad and all delay is wise. A delay can be practical, excessive or imposed by deprivation. The principle names a form of adjustment to reality in Freud's model. It does not independently tell us whether a specific obstacle is unavoidable or whether an arrangement demanding sacrifice is just.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-reality-principle"
     ],
     "metaphor": "A direct route meets a closed passage; a longer path curves around it toward the same destination.",
     "scene": {
@@ -7675,7 +7716,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "When does taking a longer route preserve the original wish rather than abandon it?"
   },
   {
     "id": "freud-traumatic-dreams",
@@ -7687,7 +7729,7 @@
     "explanation": "Freud observed that dreams following traumatic experiences could repeatedly return the dreamer to the fright. This challenged a simple version of his earlier account of dreams as wish-fulfilment.",
     "nuance": "A recurrent scene of an accident does not look like ordinary imagined satisfaction. Freud asks whether the mind may first need to bind overwhelming excitation, before processes governed by pleasure can operate in the usual way. These dreams place repetition at the center of the theoretical problem. Freud asks why the mind would return to an overwhelming scene instead of producing a straightforward satisfaction. The observations therefore challenge a simple application of the pleasure principle before they motivate his further speculation.\n\nThis is part of a historical theoretical revision. His model of binding is not the same as a modern account of trauma or a universal explanation of nightmares. The important conceptual move is that distressing repetition becomes a problem the theory must confront.\n\nThe breached boundary shows what exceeds a capacity to receive and organize experience. Freud proposes that repeated dreaming may participate in an attempt to bind excitation, a task that is prior to the usual workings of pleasure. That interpretation is not identical with saying that the dreamer wishes for the event. It also does not establish the mechanism by itself. Different questions need to remain separate: the repeated nightmare, its relation to an overwhelming event, and the theory offered to explain why repetition occurs. This separation protects the historical argument from a damaging simplification in which distress is treated as proof of a secret wish to experience harm.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-traumatic-dreams"
     ],
     "metaphor": "An irregular incoming line breaches a boundary and returns across the interior instead of settling.",
     "scene": {
@@ -7839,7 +7881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What changes when recurrence becomes a problem for the theory instead of easy evidence for it?"
   },
   {
     "id": "freud-fort-da",
@@ -7851,7 +7894,7 @@
     "explanation": "Freud described a child's game of sending away and retrieving a small object. He considered how repeating disappearance might give an active form to an experience, the mother's absence, originally undergone passively.",
     "nuance": "The game does not simply erase the loss. Sending the object away may repeat an unpleasant part of it, while the child now controls the movement. Freud considers mastery and other possible meanings rather than presenting one experimentally established conclusion. Freud reports several features of the game and considers more than one way to account for it. The disappearance is repeated even when the pleasant return is not the whole performance. That detail makes the example less simple than a game invented only to obtain the enjoyment of reunion.\n\nThe example illustrates a shift from being subject to an event to arranging a representation of it. It is not a rule that all children's play reveals a hidden traumatic story.\n\nThe outgoing and returning lines give the child an active relation to separation. Sending something away can stage an experience that originally happened without the child's control. Freud considers this shift in agency alongside other meanings, including satisfaction and possible hostility. The example does not provide a laboratory test that selects one account conclusively. Its strength is as a vivid question about repetition: why recreate an unpleasant part, and what changes when the person now performs it? The illustration should preserve that question rather than label the child a master of loss. A representation can alter a relation to an event without abolishing the event's difficulty.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-fort-da"
     ],
     "metaphor": "A child sends a spool across a boundary on a curved thread; the thread preserves a route for return.",
     "scene": {
@@ -8040,7 +8083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What changes when an absence is represented through an action someone performs?"
   },
   {
     "id": "freud-repetition-compulsion",
@@ -8052,7 +8096,7 @@
     "explanation": "Freud used repetition compulsion for returns that seemed not fully explained by the pursuit of pleasure. He linked repetitions in treatment and recurrent life patterns to a broader theoretical problem.",
     "nuance": "Someone may encounter a familiar disappointment in different relationships, without consciously wanting that result. Freud asks why the pattern returns, rather than equating its recurrence with an explicit preference. The later theoretical question exceeds the observation that people have habits. Freud is concerned with recurrence that seems to bring back earlier disappointment or distress, including in the analytic relation. What repeats may be a structure of expectation and response rather than a scene copied in every detail.\n\nRepetition can have many explanations; the pattern itself does not verify Freud's later death-drive theory. Nor does recognizing a pattern show that the person caused every external event. His question concerns the persistence of a form of relating, especially when it reproduces distress.\n\nImagine repeatedly expecting rejection, responding with distrust and then finding the relation strained. A pattern of participation might contribute to the outcome without explaining everything the other person does. Freud's account asks how recurrence is organized and how it becomes available for examination. The loop retains its shape while particular circumstances may differ on each circuit. This is why a pattern should be described carefully: a repeated theme is not necessarily a repeated event, and resemblance is not yet a demonstrated cause. His further proposal of a drive beyond pleasure is one possible theoretical response to the problem, not something directly visible in the fact of recurrence.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-repetition-compulsion"
     ],
     "metaphor": "A route returns to its beginning, with an outward path present but not yet taken.",
     "scene": {
@@ -8210,7 +8254,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which features actually repeat, and which differ on each occasion?"
   },
   {
     "id": "freud-binding",
@@ -8222,7 +8267,7 @@
     "explanation": "Freud proposed binding as the linking and containment of otherwise freely moving excitation. In Beyond the Pleasure Principle, he places this task before ordinary regulation by pleasure in certain situations.",
     "nuance": "Think of scattered pressure gradually becoming a pattern with relations among its parts. Freud uses an economic model of mental energy to describe this change; the illustration makes that model visible without treating the energy as a measurable fluid. The proposed change is from unbound movement toward an organization in which excitation can enter more stable relations. Freud's language is economic, treating investment and discharge as aspects of mental processes. The theory concerns a mode of handling pressure, not simply remembering an event accurately.\n\nBinding is not a promise that distress disappears once it is narrated. It names a proposed preparatory process through which the mind can deal with what would otherwise overwhelm it. The theory's historical status matters alongside its conceptual suggestiveness.\n\nThe mesh is a visual account of relation: separate movements become linked and constrained without disappearing. In Freud's argument, overwhelming stimulation may require this work before the apparatus can regulate it through ordinary avoidance of unpleasure. The sequence is therefore binding before relief, rather than relief being guaranteed by any act of binding. The distinction matters because later popular language can make processing sound like a single action with a predictable result. Freud is proposing a mechanism inside a speculative model. Its conceptual contribution is the possibility that organizing something is a different task from getting satisfaction from it, and that one task can condition the other.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-binding"
     ],
     "metaphor": "A disorderly incoming line reaches a loose mesh and becomes a contained repeating pattern.",
     "scene": {
@@ -8382,7 +8427,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Why might organizing an experience be different from obtaining relief from it?"
   },
   {
     "id": "freud-stimulus-shield",
@@ -8394,7 +8440,7 @@
     "explanation": "Freud imagined a protective shield against stimulation in his speculative model of the mental apparatus. Trauma, in that account, involves excitation breaking through protection in quantities the apparatus cannot readily manage.",
     "nuance": "The shield helps him distinguish ordinary contact with the world from overwhelming exposure. It is a conceptual model, not a literal membrane around the mind. Freud also differentiates external stimuli from internal pressures, which cannot be escaped in the same way. Freud's model uses a boundary to explain selective exposure, while bodily needs generate pressures from within. The apparatus can turn away from some external stimulation but cannot escape internal demand in the same way. This difference helps organize his account of what can overwhelm the system.\n\nThis distinction explains why a boundary is not total isolation. Contact is necessary; the problem concerns what can be received and worked upon. The diagram shows the relation between exposure and capacity rather than a complete theory of trauma.\n\nThe surrounding line does not imply that psychological health means preventing all contact. A living relation with the world requires reception, while a capacity to manage stimulation is limited. In Freud's speculative picture, a large breach places urgent demands on binding and can interfere with usual regulation. The model borrows a biological image and extends it into an account of mental processes, so its status should be kept clear. It is neither a literal protective film around consciousness nor a complete clinical explanation. The valuable structural question is what happens when the quantity or timing of an arrival exceeds the available means of receiving and organizing it.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-stimulus-shield"
     ],
     "metaphor": "An uneven surrounding line admits small movement but is crossed by a larger disruptive surge.",
     "scene": {
@@ -8553,7 +8599,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How does limited capacity to receive differ from a wish to exclude all contact?"
   },
   {
     "id": "freud-death-drive",
@@ -8565,7 +8612,7 @@
     "explanation": "Freud's death-drive hypothesis proposes a tendency toward an earlier, ultimately inorganic state. He connects it with repetition and later with destruction, but it is one of his most speculative and disputed ideas.",
     "nuance": "The term does not mean that every person consciously wants to die, nor that a repeated mistake proves a wish for self-destruction. It belongs to a proposed account of drives operating beneath conscious intention. Freud himself presents parts of the argument as speculative, considering how repetition might connect with a conservative tendency of drives. The step from a clinical pattern to a universal tendency toward an earlier state is large. A careful reading should keep the observation and the biological hypothesis apart.\n\nFreud moves from clinical observations to far-reaching biological speculation, and the inference is not forced by those observations. A reader can understand the hypothesis without accepting it. The card presents the theoretical question, not a diagnosis of anyone's motives.\n\nAn undoing of connections makes one feature of the theory visible without proving it. Freud contrasts that tendency with processes that preserve and combine life, but the two are not simply observable moral forces. Destructive behavior can be described without accepting his proposed drive, and repetition can receive other explanations. The concept is important historically because it reorganizes his later account of conflict and aggression. It is also easy to misuse as a grand explanation for any distressing outcome. The diagram should therefore serve a specific task: showing a proposed direction toward dissolution, while the text states how far the hypothesis goes beyond what the picture can establish.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-death-drive"
     ],
     "metaphor": "A once-connected mesh is shown with several threads drawing back into isolated strands.",
     "scene": {
@@ -8784,7 +8831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What additional argument would be needed to move from repetition to a universal drive?"
   },
   {
     "id": "freud-eros",
@@ -8796,7 +8844,7 @@
     "explanation": "Freud describes the life drives as tending to preserve life and bring units into larger combinations. Eros becomes a broader principle of binding in his later theory, rather than a synonym for romantic attraction.",
     "nuance": "Attachment, bodily life and the formation of larger relations are placed on one side of Freud's dual-drive model. Its opposing tendency concerns dissolution. Neither side should be reduced to a moral character who always wins or loses. The account concerns processes joining and preserving units, not simply any warm or pleasant feeling. Freud's later dualism describes tendencies that can be entangled within the same activity. A relationship may create bonds while also involving hostility, so the categories should not become labels for good and bad people.\n\nThis is a speculative framework, not a directly observed pair of biological forces. The conceptual contrast is useful to notice: mental life is described through processes of connection and unbinding, not simply a contest between pleasant and unpleasant feelings.\n\nThe streams establish a larger connected form without ceasing to be distinguishable. That gives a simple picture of combination, one of the functions Freud assigns to life drives. His argument extends far beyond affection between individuals and draws on speculative biological questions. Understanding the term therefore requires resisting its reduction to romantic enthusiasm or a universal instruction to be loving. The contrast with dissolution is part of his later theoretical architecture, not an independently measured pair of substances. A reader can ask what this model illuminates about connections while keeping open the question of whether the proposed drive dualism is a convincing explanation.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-eros"
     ],
     "metaphor": "Separate streams establish a connected mesh while their original strands remain distinguishable.",
     "scene": {
@@ -8984,7 +9032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What makes a connection life-preserving rather than simply pleasant?"
   },
   {
     "id": "freud-theory-in-revision",
@@ -8996,7 +9045,7 @@
     "explanation": "Beyond the Pleasure Principle begins with a governing tendency, then confronts phenomena that complicate it. Freud moves through observations of trauma, play and repetition toward increasingly speculative conclusions.",
     "nuance": "The child's game does not prove the death drive. Neither do traumatic dreams yield one inevitable theory of mental energy. Freud's argument passes through several different levels: an observation, a proposed mechanism, then a broad hypothesis. The book's movement matters as much as its famous concluding hypothesis. Freud raises questions about the limits of pleasure-based explanations, then explores responses of varying confidence. Following the transitions helps prevent a suggestive example from carrying a stronger conclusion than it can support.\n\nKeeping those levels separate makes the book more intelligible. A striking explanation is not automatically a demonstrated one. Reading Freud seriously means following how a claim is built and where uncertainty enters, rather than treating every famous concept as settled fact.\n\nThe branching route gives observations and speculation different degrees of definition. A reported game, a proposed process of binding and a universal drive toward an earlier state are not all the same kind of statement. Each asks for a different kind of support. Freud's text often signals uncertainty, even where later summaries present a settled doctrine. The reading therefore benefits from asking at each stage what has actually been observed, what has been inferred and what remains a conjecture. That approach neither dismisses the entire book nor accepts its broadest theory because an earlier example is recognizable. It preserves the intellectual work of distinguishing a problem from the solution proposed for it.",
     "sources": [
-      "freud-beyond-9"
+      "freud-source-theory-in-revision"
     ],
     "metaphor": "A single route branches into an observed path and a more tentative continuation drawn faintly beyond it.",
     "scene": {
@@ -9159,6 +9208,7 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Where does an observation become a proposed mechanism, and where does that become speculation?"
   }
 ]
