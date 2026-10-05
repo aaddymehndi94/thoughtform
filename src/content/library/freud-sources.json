@@ -28,5 +28,23 @@
     "author": "Sigmund Freud",
     "reference": "Chapters I–III and V: consciousness, ego, id, super-ego, identification and the ego’s subordinate relationships",
     "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm"
+  },
+  "freud-lectures-6": {
+    "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
+    "author": "Sigmund Freud",
+    "reference": "Lectures VI, XIX, XXVII–XXVIII: analytic technique, interpretation, transference and suggestion",
+    "url": "https://www.gutenberg.org/cache/epub/75810/pg75810-images.html"
+  },
+  "freud-technique-7": {
+    "title": "Recommendations to Physicians Practising Psycho-Analysis (1912)",
+    "author": "Sigmund Freud",
+    "reference": "Sections a, f and h: attention, the analyst’s own analysis and limits on therapeutic ambition",
+    "url": "https://www.freudedition.net/en/werke/ratschlage-fur-den-arzt-bei-der-psychoanalytischen-behandlung/druckschrift"
+  },
+  "freud-working-8": {
+    "title": "Remembering, Repeating and Working-Through (1914)",
+    "author": "Sigmund Freud",
+    "reference": "Remembering, Repeating and Working-Through: repetition in transference and the concluding discussion of working-through",
+    "url": "https://www.freudedition.net/werke/erinnern-wiederholen-und-durcharbeiten/reinschrift"
   }
 }

@@ -81,7 +81,7 @@
       "order": 1
     },
     "related": [
-      "freud-three-masters",
+      "freud-working-through",
       "freud-repression"
     ]
   },
@@ -2612,6 +2612,906 @@
     },
     "related": [
       "freud-unconscious-guilt",
+      "freud-free-association"
+    ]
+  },
+  {
+    "id": "freud-free-association",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "free association",
+    "title": "Before the edit",
+    "statement": "The thought you dismiss may be part of the material.",
+    "explanation": "Freud's basic analytic rule asks the person to report what comes to mind without selecting only what seems relevant or respectable. The interruptions and objections are themselves part of what analysis investigates.",
+    "nuance": "An apparently unrelated memory may be excluded because it seems silly, embarrassing or too ordinary. Reporting it can expose a connection that a polished account would conceal. Free association means relaxing selection in a particular analytic setting; it does not mean that speech has no context or constraints.\n\nNor does every association establish a hidden cause. Freud's method follows the person's route through thoughts, while the interpretation of that route remains a separate claim.",
+    "sources": [
+      "freud-lectures-6"
+    ],
+    "metaphor": "A small detail starts an uneven thread; later thoughts appear along it without a straight predetermined route.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "before the edit",
+      "variant": "free-association",
+      "composition": {
+        "description": "A small detail starts an uneven thread; later thoughts appear along it without a straight predetermined route.",
+        "actors": [
+          {
+            "id": "word",
+            "type": "circle",
+            "x": 78,
+            "y": 128,
+            "r": 5,
+            "tone": "normal"
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M83 128 Q128 73 165 117 Q203 169 240 116 Q279 72 320 125",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "detail",
+            "x": 80,
+            "y": 191
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "memory",
+            "x": 181,
+            "y": 85,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 3
+            }
+          },
+          {
+            "id": "c",
+            "type": "text",
+            "text": "another thought",
+            "x": 291,
+            "y": 191,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 1
+    },
+    "related": [
+      "freud-three-masters",
+      "freud-transference"
+    ]
+  },
+  {
+    "id": "freud-transference",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "transference",
+    "title": "The earlier relation",
+    "statement": "The present person can become the place where an old expectation returns.",
+    "explanation": "Freud called the transfer of feelings and relational expectations onto the analyst transference. The current encounter acquires force from patterns that also belong to earlier attachments.",
+    "nuance": "A neutral pause might feel like a familiar withdrawal of affection. The feeling is happening now, but Freud asks whether its intensity and structure also draw on an earlier relationship.\n\nThat does not mean the analyst is irrelevant or incapable of causing harm. Present conduct still matters. Transference concerns how current experience is organized through earlier patterns, not a rule that the client's perception is always mistaken and the professional is always innocent.",
+    "sources": [
+      "freud-lectures-6"
+    ],
+    "metaphor": "An earlier faint figure overlaps the present person as a line from the observer reaches them.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the earlier relation",
+      "variant": "transference",
+      "composition": {
+        "description": "An earlier faint figure overlaps the present person as a line from the observer reaches them.",
+        "actors": [
+          {
+            "id": "then",
+            "type": "figure",
+            "x": 292,
+            "y": 134,
+            "tone": "faint"
+          },
+          {
+            "id": "now",
+            "type": "figure",
+            "x": 268,
+            "y": 153,
+            "tone": "normal"
+          },
+          {
+            "id": "viewer",
+            "type": "figure",
+            "x": 105,
+            "y": 151,
+            "tone": "normal"
+          },
+          {
+            "id": "projected",
+            "type": "path",
+            "d": "M132 108 Q202 47 279 83",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 1
+            }
+          },
+          {
+            "id": "old",
+            "type": "text",
+            "text": "an earlier relation",
+            "x": 285,
+            "y": 43
+          },
+          {
+            "id": "new",
+            "type": "text",
+            "text": "the present person",
+            "x": 277,
+            "y": 211,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 2
+    },
+    "related": [
+      "freud-free-association",
+      "freud-transference-resistance"
+    ]
+  },
+  {
+    "id": "freud-transference-resistance",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "transference resistance",
+    "title": "The relation becomes the obstacle",
+    "statement": "What makes the work possible can also interrupt it.",
+    "explanation": "Freud found transference both useful to treatment and capable of becoming resistance. Strong attachment or hostility toward the analyst can redirect attention from the conflict being explored.",
+    "nuance": "The wish to please the analyst might produce a story that sounds agreeable but omits difficult material. Hostility might make every suggestion feel like domination. Freud treats both as material for understanding the relation.\n\nThe distinction is between using the relationship to observe a pattern and satisfying the pattern in ways that preserve it. An analyst's influence is part of the situation and must also be examined; authority alone cannot establish that an interpretation is correct.",
+    "sources": [
+      "freud-lectures-6"
+    ],
+    "metaphor": "Two figures exchange lines; the returning line bends into a knot between them.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the relation becomes the obstacle",
+      "variant": "transference-resistance",
+      "composition": {
+        "description": "Two figures exchange lines; the returning line bends into a knot between them.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 106,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 289,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "listening",
+            "type": "path",
+            "d": "M132 99 Q198 58 263 98",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M264 129 Q198 167 132 130",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "space",
+            "type": "text",
+            "text": "between two people",
+            "x": 200,
+            "y": 211,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 3
+    },
+    "related": [
+      "freud-transference",
+      "freud-suggestion-analysis"
+    ]
+  },
+  {
+    "id": "freud-suggestion-analysis",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "suggestion analysis",
+    "title": "Beyond agreement",
+    "statement": "Believing the explanation is not the whole work.",
+    "explanation": "Freud distinguished analytic work from a treatment that relies chiefly on the clinician's persuasive authority. He wanted the transference supporting that authority to become an object of examination itself.",
+    "nuance": "Someone may accept an explanation because they trust the speaker. That agreement can ease distress without establishing that the explanation is true or resolving the conflict it describes. Freud sought change through work on resistance and transference.\n\nHe did not claim that analysis contains no suggestion. Instead, he argued that its use and eventual examination differ from leaving the relationship of influence intact. This is his account of the distinction, not independent evidence that his technique always achieved it.",
+    "sources": [
+      "freud-lectures-6"
+    ],
+    "metaphor": "A thread connects two figures, then becomes visible as the object they both look toward.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "beyond agreement",
+      "variant": "suggestion-analysis",
+      "composition": {
+        "description": "A thread connects two figures, then becomes visible as the object they both look toward.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "figure",
+            "x": 106,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "b",
+            "type": "figure",
+            "x": 289,
+            "y": 145,
+            "tone": "normal"
+          },
+          {
+            "id": "listening",
+            "type": "path",
+            "d": "M132 99 Q198 58 263 98",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M264 129 Q198 167 132 130",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "space",
+            "type": "text",
+            "text": "between two people",
+            "x": 200,
+            "y": 211,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 4
+    },
+    "related": [
+      "freud-transference-resistance",
+      "freud-interpretation"
+    ]
+  },
+  {
+    "id": "freud-interpretation",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "interpretation",
+    "title": "A connection, offered",
+    "statement": "An interpretation should connect material, not merely sound revealing.",
+    "explanation": "In Freud's method, an interpretation proposes a relation among associations, symptoms, wishes and defenses. It is an account of how the material might fit together, rather than a dramatic hidden label.",
+    "nuance": "Calling an angry response a fear of abandonment supplies an interpretation, but the phrase alone does no explanatory work. The relevant question is how that claim connects with this person's history and associations.\n\nFreud also recognized that telling someone an explanation did not remove the resistance surrounding it. The person can understand the words while remaining unable to approach the conflict. Interpretation and the process of change are therefore related but not identical.",
+    "sources": [
+      "freud-lectures-6"
+    ],
+    "metaphor": "Several fragments acquire connecting seams only after their separate positions are visible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a connection, offered",
+      "variant": "interpretation",
+      "composition": {
+        "description": "Several fragments acquire connecting seams only after their separate positions are visible.",
+        "actors": [
+          {
+            "id": "piece1",
+            "type": "path",
+            "d": "M95 72 L163 76 L159 121 L98 118 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "x": 15,
+              "y": 4
+            }
+          },
+          {
+            "id": "piece2",
+            "type": "path",
+            "d": "M212 55 L282 64 L270 115 L205 101 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "x": -10,
+              "y": 10
+            }
+          },
+          {
+            "id": "piece3",
+            "type": "path",
+            "d": "M152 155 L230 150 L235 198 L146 193 Z",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": -14
+            }
+          },
+          {
+            "id": "seams",
+            "type": "path",
+            "d": "M164 103 Q196 103 212 96 M161 119 Q180 147 180 151 M229 112 Q215 132 211 152",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 4
+            }
+          },
+          {
+            "id": "story",
+            "type": "text",
+            "text": "a story, afterwards",
+            "x": 200,
+            "y": 228,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 5
+    },
+    "related": [
+      "freud-suggestion-analysis",
+      "freud-even-attention"
+    ]
+  },
+  {
+    "id": "freud-even-attention",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "even attention",
+    "title": "Listen without a destination",
+    "statement": "If you listen only for your theory, you may hear only your theory.",
+    "explanation": "Freud recommended evenly suspended attention: the analyst should avoid selecting details solely through prior expectations. Material that seems insignificant now may become meaningful through something said later.",
+    "nuance": "A listener convinced that every difficulty concerns a parent can overlook a present conflict about work. Freud's rule attempts to counter that premature selection. It pairs the person's free association with a receptive way of hearing it.\n\nThe recommendation is not literal absence of thought. It is restraint about deciding too early what matters. Freud offered it from his own practice and acknowledged that another clinician's temperament might call for a different technical attitude.",
+    "sources": [
+      "freud-technique-7"
+    ],
+    "metaphor": "Three separate paths arrive together rather than one being highlighted before the others appear.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "listen without a destination",
+      "variant": "even-attention",
+      "composition": {
+        "description": "Three separate paths arrive together rather than one being highlighted before the others appear.",
+        "actors": [
+          {
+            "id": "input1",
+            "type": "path",
+            "d": "M75 62 Q150 67 198 117",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "input2",
+            "type": "path",
+            "d": "M71 122 Q155 108 199 119",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 1
+            }
+          },
+          {
+            "id": "input3",
+            "type": "path",
+            "d": "M83 184 Q156 177 200 122",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "merged",
+            "type": "path",
+            "d": "M197 121 Q228 90 256 121 Q275 156 236 164 Q209 169 197 121",
+            "tone": "normal",
+            "motion": {
+              "kind": "pulse",
+              "duration": 14,
+              "delay": 0,
+              "scale": 1.07
+            }
+          },
+          {
+            "id": "many",
+            "type": "text",
+            "text": "several thoughts",
+            "x": 102,
+            "y": 211
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "text": "one image",
+            "x": 279,
+            "y": 178,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 4
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 1
+    },
+    "related": [
+      "freud-interpretation",
+      "freud-analyst-blind-spots"
+    ]
+  },
+  {
+    "id": "freud-analyst-blind-spots",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "analyst blind spots",
+    "title": "The listener also has a history",
+    "statement": "The person interpreting is not outside the human problem.",
+    "explanation": "Freud argued that an analyst's unresolved conflicts can distort what they hear. He supported personal analysis for practitioners so their own blind spots would not silently become explanations of someone else.",
+    "nuance": "A listener who cannot tolerate anger may repeatedly translate a person's anger into something more acceptable. The resulting account could describe the listener's difficulty more than the speaker's experience.\n\nFreud's warning limits the fantasy of a perfectly objective interpreter. Training is not a guarantee of freedom from bias. The analyst's responses and assumptions are part of the encounter, and the power to interpret makes that responsibility greater rather than smaller.",
+    "sources": [
+      "freud-technique-7"
+    ],
+    "metaphor": "A faint form behind the listening figure intrudes into the line arriving from the speaker.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the listener also has a history",
+      "variant": "analyst-blind-spots",
+      "composition": {
+        "description": "A faint form behind the listening figure intrudes into the line arriving from the speaker.",
+        "actors": [
+          {
+            "id": "then",
+            "type": "figure",
+            "x": 292,
+            "y": 134,
+            "tone": "faint"
+          },
+          {
+            "id": "now",
+            "type": "figure",
+            "x": 268,
+            "y": 153,
+            "tone": "normal"
+          },
+          {
+            "id": "viewer",
+            "type": "figure",
+            "x": 105,
+            "y": 151,
+            "tone": "normal"
+          },
+          {
+            "id": "projected",
+            "type": "path",
+            "d": "M132 108 Q202 47 279 83",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 1
+            }
+          },
+          {
+            "id": "old",
+            "type": "text",
+            "text": "an earlier relation",
+            "x": 285,
+            "y": 43
+          },
+          {
+            "id": "new",
+            "type": "text",
+            "text": "the present person",
+            "x": 277,
+            "y": 211,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 2
+    },
+    "related": [
+      "freud-even-attention",
+      "freud-therapeutic-ambition"
+    ]
+  },
+  {
+    "id": "freud-therapeutic-ambition",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "therapeutic ambition",
+    "title": "The wish to make a masterpiece",
+    "statement": "Helping someone does not mean designing the person they must become.",
+    "explanation": "Freud warned analysts against imposing ambitious ideals on the person in treatment. The analyst's desire for an impressive result can conflict with what the person can realistically live and enjoy.",
+    "nuance": "A clinician might prize intellectual achievement while the person chiefly wants less fear in ordinary relationships. Freud cautions that elevating every wish into a supposedly higher aim can make life harder.\n\nThis is a limit on the interpreter's ambition, not a rejection of learning or aspiration. The question is whose ideal directs the work. An account of another person's life becomes coercive when their possibilities are measured only against the helper's preferred image.",
+    "sources": [
+      "freud-technique-7"
+    ],
+    "metaphor": "A measuring line appears over a person, then shifts aside to reveal the person's own available space.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the wish to make a masterpiece",
+      "variant": "therapeutic-ambition",
+      "composition": {
+        "description": "A measuring line appears over a person, then shifts aside to reveal the person's own available space.",
+        "actors": [
+          {
+            "id": "self",
+            "type": "figure",
+            "x": 182,
+            "y": 153,
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 3
+            }
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
+            "tone": "normal",
+            "motion": {
+              "kind": "drift",
+              "duration": 14,
+              "delay": 0,
+              "y": 8
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M186 81 L187 107",
+            "tone": "faint"
+          },
+          {
+            "id": "ideal",
+            "type": "text",
+            "text": "the demand",
+            "x": 287,
+            "y": 53
+          },
+          {
+            "id": "person",
+            "type": "text",
+            "text": "the person",
+            "x": 266,
+            "y": 207
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 3
+    },
+    "related": [
+      "freud-analyst-blind-spots",
+      "freud-remembering-repeating"
+    ]
+  },
+  {
+    "id": "freud-remembering-repeating",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "remembering repeating",
+    "title": "The past in the present tense",
+    "statement": "What cannot yet be remembered may be repeated in the relation.",
+    "explanation": "Freud described people as sometimes enacting old patterns during analysis rather than reporting them as memories. The analyst encounters the pattern in how the person relates, not only in a story about earlier events.",
+    "nuance": "Someone unable to describe mistrust of authority may repeatedly expect the analyst to deceive them. Freud treats this as a possible repetition that can become available for examination.\n\nRepetition does not give a direct photograph of the past. The present relationship has its own circumstances and the earlier pattern may be transformed. The important change is from being wholly caught in an expectation to being able to recognize and discuss how it operates.",
+    "sources": [
+      "freud-working-8"
+    ],
+    "metaphor": "A closed route repeats around the central space; a small outward branch becomes visible later.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the past in the present tense",
+      "variant": "remembering-repeating",
+      "composition": {
+        "description": "A closed route repeats around the central space; a small outward branch becomes visible later.",
+        "actors": [
+          {
+            "id": "cycle",
+            "type": "path",
+            "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
+            "tone": "faint"
+          },
+          {
+            "id": "repeat",
+            "type": "circle",
+            "x": 145,
+            "y": 65,
+            "r": 7,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": 100,
+              "y": 119
+            }
+          },
+          {
+            "id": "exit",
+            "type": "path",
+            "d": "M261 182 Q300 181 330 199",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 5
+            }
+          },
+          {
+            "id": "again",
+            "type": "text",
+            "text": "again",
+            "x": 200,
+            "y": 119,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "change",
+            "type": "text",
+            "text": "notice the pattern",
+            "x": 203,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 1
+    },
+    "related": [
+      "freud-therapeutic-ambition",
+      "freud-working-through"
+    ]
+  },
+  {
+    "id": "freud-working-through",
+    "thinker": "freud",
+    "collection": "The talking cure",
+    "concept": "working through",
+    "title": "After the recognition",
+    "statement": "Naming the pattern does not end its return.",
+    "explanation": "Freud called working-through the prolonged engagement with resistance after it has been recognized. An interpretation may begin the work rather than complete it in a moment of insight.",
+    "nuance": "A person can understand their fear of disagreement and still retreat each time disagreement occurs. In Freud's account, the repeated return of the difficulty creates occasions to encounter it differently, rather than proving that understanding was worthless.\n\nWorking-through is not simply repeating an explanation until the person agrees. It concerns the lived resistance to approaching the conflict. Freud emphasizes time and continued work, resisting the promise that one revelatory sentence should immediately reorganize a life.",
+    "sources": [
+      "freud-working-8"
+    ],
+    "metaphor": "The same loop is drawn several times; an exit line develops slowly instead of appearing at the first recognition.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "after the recognition",
+      "variant": "working-through",
+      "composition": {
+        "description": "The same loop is drawn several times; an exit line develops slowly instead of appearing at the first recognition.",
+        "actors": [
+          {
+            "id": "cycle",
+            "type": "path",
+            "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
+            "tone": "faint"
+          },
+          {
+            "id": "repeat",
+            "type": "circle",
+            "x": 145,
+            "y": 65,
+            "r": 7,
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 14,
+              "delay": 0,
+              "x": 100,
+              "y": 119
+            }
+          },
+          {
+            "id": "exit",
+            "type": "path",
+            "d": "M261 182 Q300 181 330 199",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 5
+            }
+          },
+          {
+            "id": "again",
+            "type": "text",
+            "text": "again",
+            "x": 200,
+            "y": 119,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 2
+            }
+          },
+          {
+            "id": "change",
+            "type": "text",
+            "text": "notice the pattern",
+            "x": 203,
+            "y": 224,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the talking cure",
+      "psychoanalysis"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "freud-the-talking-cure",
+      "order": 2
+    },
+    "related": [
+      "freud-remembering-repeating",
       "freud-unconscious"
     ]
   }
