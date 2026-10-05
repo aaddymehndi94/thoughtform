@@ -1,0 +1,68 @@
+{
+  "jung-advanced-transcendent": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "Collected Works 8, “The Transcendent Function,” §§131–193; written 1916, revised for publication 1958; primary chapter bibliographic record.",
+    "url": "https://doi.org/10.1515/9781400850952.67"
+  },
+  "jung-advanced-types-symbol": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Symbol” and “Transscendente Funktion”; compare CW 6, §§814–829.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-types-enantiodromia": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 18, “Enantiodromie”; compare CW 6, §709. Historical interpretation, not a universal empirical law.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-inflation": {
+    "title": "Two Essays on Analytical Psychology",
+    "author": "C. G. Jung",
+    "reference": "CW 7, “The Relations between the Ego and the Unconscious,” Part I, chapters II and IV(b), inflation and identification with the collective psyche; IAAP institutional chapter abstracts verify bibliography, not full text.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-7-two-essays-analytical-psychology/"
+  },
+  "jung-advanced-types-constructive": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Construktiv,” “Reduktiv,” and “Phantasie”; constructive and reductive methods.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-energy": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On Psychic Energy” (1928), Part I, the energic viewpoint and quantitative estimation; IAAP institutional abstracts verify primary work and chapter structure.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-advanced-energy-progression": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On Psychic Energy,” Part III(a), “Progression and regression”; distinction between progression and psychological development.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-advanced-energy-regression": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On Psychic Energy,” Part III(a), “Progression and regression”; activation of unconscious contents in regression.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-advanced-types-individuation": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 31, “Individuation”; compare CW 6, §§757–762, social relationship and distinction from individualism.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-stages": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “The Stages of Life” (1930–31), pp. 387–403 in the Princeton collected edition; historical model of life phases.",
+    "url": "https://doi.org/10.1515/9781400850952.387"
+  },
+  "jung-advanced-archetypal-image": {
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "C. G. Jung",
+    "reference": "CW 9i, “Psychological Aspects of the Mother Archetype,” §155, archetype as form rather than determinate content; compare CW 8, “On the Nature of the Psyche,” archetype and representation. IAAP institutional work/section abstracts.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
+  }
+}

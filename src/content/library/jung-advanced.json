@@ -1,0 +1,1376 @@
+[
+  {
+    "id": "jung-transcendent-function",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Transcendent function",
+    "title": "A third possibility",
+    "statement": "Two opposed positions can produce something neither position could imagine alone.",
+    "explanation": "Jung called the transition between a conscious attitude and its unconscious counterposition the transcendent function. A new symbol can change the terms of the conflict rather than simply settle it.",
+    "nuance": "A person may consciously insist on independence while dreams or recurring feelings reveal a powerful need for attachment. Jung asks what happens when both positions receive a serious hearing. The transcendent function names the process through which their tension can generate a new attitude. Transcendent means crossing from one psychological position to another; it does not mean a supernatural power. The unconscious is not automatically right, and consciousness is not simply an obstacle to remove.\n\nImagine a musician torn between accepting every family demand and disappearing from the family entirely. A compromise might alternate submission with withdrawal. A genuinely different arrangement could involve a chosen, limited form of participation that makes room for both affection and separate work. This example illustrates a changed relationship between the demands, not a formula guaranteed by Jung. He particularly valued images that make a previously unthinkable relation imaginable before it becomes a practical decision.\n\nThe new position cannot be ordered into existence by announcing that one will integrate opposites. Jung describes preparation, expression, sustained attention, and a conscious response to what emerges. Some conflicts require immediate action, ordinary negotiation, or protection from harm. Holding a tension is not a duty to remain in an unsafe situation. His concept concerns a possible transformation of the attitude through which a conflict is experienced, rather than a promise that every opposition contains a harmonious solution.",
+    "reflection": "Would a halfway solution preserve the original conflict?",
+    "sources": [
+      "jung-advanced-transcendent",
+      "jung-advanced-types-symbol"
+    ],
+    "metaphor": "Two horizontal demands hold their positions; a connecting vessel forms between them and then opens an upward route, preserving both inputs.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "transcendent-function",
+      "caption": "Transcendent function",
+      "composition": {
+        "description": "Two horizontal demands hold their positions; a connecting vessel forms between them and then opens an upward route, preserving both inputs.",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M69 132 L155 132 M143 124 L155 132 L143 141"
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M330 132 L247 132 M259 124 L247 132 L259 141"
+          },
+          {
+            "id": "vessel",
+            "type": "path",
+            "d": "M157 110 Q198 75 242 108 L244 149 Q201 184 158 148 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M200 131 Q211 110 201 86 Q191 70 201 50 M191 59 L201 49 L210 60",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "independence",
+            "x": 60,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "attachment",
+            "x": 252,
+            "y": 222
+          },
+          {
+            "id": "new-label",
+            "type": "text",
+            "text": "a new relation",
+            "x": 146,
+            "y": 35
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A compromise divides the available space while leaving the opposed demands on their original axis.",
+        "actors": [
+          {
+            "id": "axis",
+            "type": "path",
+            "d": "M75 119 L324 120"
+          },
+          {
+            "id": "middle",
+            "type": "path",
+            "d": "M198 96 L200 145"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "half of each",
+            "x": 147,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "A third position changes the relation: both demands connect to a new route rather than cancelling each other.",
+        "actors": [
+          {
+            "id": "arms",
+            "type": "path",
+            "d": "M92 151 Q151 155 199 119 Q243 154 302 151 M199 119 L201 62 M193 70 L201 62 L208 72"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "different terms",
+            "x": 132,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "holding the tension",
+      "transcendent function"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-holding-the-tension",
+      "order": 1
+    },
+    "related": [
+      "jung-archetypal-image",
+      "jung-enantiodromia"
+    ]
+  },
+  {
+    "id": "jung-enantiodromia",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Enantiodromia",
+    "title": "The return swing",
+    "statement": "An attitude pushed to an extreme can prepare its own reversal.",
+    "explanation": "Jung used enantiodromia for the emergence of an unconscious opposite after a strongly one-sided attitude has dominated. A reversal may interrupt the old direction without resolving the underlying conflict.",
+    "nuance": "Enantiodromia borrows a term associated with Heraclitus: a movement into the opposite. Jung applies it to psychological sequences in which an extreme conscious position gives rise to a strong unconscious counterposition. A person devoted to absolute control may discover unruly impulses they can no longer contain. The important relationship is temporal. What is excluded during the first phase can become forceful during the next, rather than vanishing because the person regards it as unacceptable.\n\nConsider someone who never permits resentment toward a demanding friend. They describe themselves as endlessly understanding, then abruptly cut the friend off with a severity that surprises them. Jung would ask whether the earlier kindness excluded anger so completely that anger could only return in a disruptive form. This is one possible reading, not a diagnosis from a single incident. Circumstances, fatigue, abuse, and changing judgments can also explain a reversal; the concept should invite investigation rather than replace it.\n\nA sudden opposite is not necessarily a more truthful identity. Moving from total obedience to total refusal may leave the same rigid structure intact. Jung distinguishes the eruption of a counterposition from a conscious relation to both sides. His historical examples include contentious interpretations of religious conversions and Nietzsche; they are not controlled demonstrations of a universal law. The useful question is whether a change has enlarged the available responses or merely moved the person to the other end of the same narrow axis.",
+    "reflection": "Has the direction changed while the pattern remains?",
+    "sources": [
+      "jung-advanced-types-enantiodromia"
+    ],
+    "metaphor": "A pendulum is first pulled toward control; its arc continues toward an excluded opposite, while the narrow track remains unchanged.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "enantiodromia",
+      "caption": "Enantiodromia",
+      "composition": {
+        "description": "A pendulum is first pulled toward control; its arc continues toward an excluded opposite, while the narrow track remains unchanged.",
+        "actors": [
+          {
+            "id": "track",
+            "type": "path",
+            "d": "M78 165 Q199 203 323 165",
+            "tone": "faint"
+          },
+          {
+            "id": "arm",
+            "type": "path",
+            "d": "M201 53 L146 166",
+            "motion": {
+              "kind": "turn",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "weight",
+            "type": "circle",
+            "x": 146,
+            "y": 166,
+            "r": 12,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": 112,
+              "y": 0
+            }
+          },
+          {
+            "id": "pivot",
+            "type": "circle",
+            "x": 201,
+            "y": 53,
+            "r": 3
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "total control",
+            "x": 60,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "total refusal",
+            "x": 246,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A single permitted direction keeps an excluded response outside the field.",
+        "actors": [
+          {
+            "id": "field",
+            "type": "path",
+            "d": "M90 65 L235 66 L235 176 L90 174 Z"
+          },
+          {
+            "id": "force",
+            "type": "path",
+            "d": "M115 121 Q165.5 113.0 216 121 M207 114 L216 121 L206 126"
+          },
+          {
+            "id": "excluded",
+            "type": "circle",
+            "x": 292,
+            "y": 125,
+            "r": 20,
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "permitted",
+            "x": 103,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "excluded",
+            "x": 252,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "A reversal traverses the same axis; the range of possible responses has not yet widened.",
+        "actors": [
+          {
+            "id": "axis",
+            "type": "path",
+            "d": "M76 126 L324 127 M88 117 L76 126 L88 135 M312 118 L324 127 L312 136"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "same narrow axis",
+            "x": 125,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "holding the tension",
+      "enantiodromia"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-holding-the-tension",
+      "order": 2
+    },
+    "related": [
+      "jung-transcendent-function",
+      "jung-inflation"
+    ]
+  },
+  {
+    "id": "jung-inflation",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Psychic inflation",
+    "title": "Larger than the person",
+    "statement": "An encounter with a powerful image can be mistaken for proof of personal greatness.",
+    "explanation": "Inflation occurs when the ego identifies with contents larger than its own personal limits. Jung distinguished encountering an archetypal image from claiming its authority as one’s own.",
+    "nuance": "A striking dream, a creative breakthrough, or an intense religious experience can make ordinary identity feel insufficient. Jung calls one possible response inflation: the ego appropriates the magnitude of the experience and begins to regard itself as uniquely authoritative. A person who encounters an image of a wise ruler might begin to act as if wisdom and the right to command now belong to them. The image has psychological force, but its force does not establish the person’s competence, virtue, or exemption from criticism.\n\nImagine discovering an idea that seems to explain every conflict in a community. The idea may be valuable. Inflation begins when its author treats disagreement as evidence that others cannot understand their exceptional insight. Feedback becomes smaller as self-importance becomes larger. Jung’s distinction is between relating to an image and becoming identified with it. Keeping an experience available for reflection preserves the possibility that it contains a partial truth, a personal wish, a warning, or several meanings at once.\n\nInflation is a theoretical description, not a label for every confident person or an explanation of all unusual experiences. Jung’s writings sometimes join archetypal identification to psychiatric disturbance in ways that require historical and clinical caution. Confidence, mania, psychosis, and spiritual experience are not interchangeable categories. Here the narrow lesson is about authority: an overwhelming inner event does not cancel ordinary limits, reciprocal relationships, or the need to test a claim against evidence.",
+    "reflection": "What ordinary criticism would this insight still need to survive?",
+    "sources": [
+      "jung-advanced-inflation"
+    ],
+    "metaphor": "A small figure stands beside an immense crown-shaped outline; the outline moves over the figure while the figure’s actual size remains unchanged.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "inflation",
+      "caption": "Psychic inflation",
+      "composition": {
+        "description": "A small figure stands beside an immense crown-shaped outline; the outline moves over the figure while the figure’s actual size remains unchanged.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 179,
+            "y": 143
+          },
+          {
+            "id": "crown",
+            "type": "path",
+            "d": "M130 86 L134 39 L165 61 L196 29 L225 61 L257 40 L261 87 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "boundary",
+            "type": "path",
+            "d": "M112 104 Q198 59 284 103 Q310 143 280 183 Q200 218 118 180 Q85 139 112 104 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "the experience",
+            "x": 57,
+            "y": 233
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "the person",
+            "x": 257,
+            "y": 233
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "An experience can exceed the person without becoming a title to rule other people.",
+        "actors": [
+          {
+            "id": "experience",
+            "type": "circle",
+            "x": 204,
+            "y": 116,
+            "r": 69
+          },
+          {
+            "id": "ego",
+            "type": "circle",
+            "x": 202,
+            "y": 118,
+            "r": 9
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "large experience",
+            "x": 130,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "limited person",
+            "x": 139,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "description": "Identification makes disagreement seem outside the circle of permitted knowledge.",
+        "actors": [
+          {
+            "id": "closed",
+            "type": "path",
+            "d": "M108 63 Q198 38 275 65 L277 178 Q194 200 111 178 Z"
+          },
+          {
+            "id": "feedback",
+            "type": "path",
+            "d": "M318 121 L288 121 M294 114 L287 121 L294 128"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "criticism blocked",
+            "x": 124,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "holding the tension",
+      "psychic inflation"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-holding-the-tension",
+      "order": 3
+    },
+    "related": [
+      "jung-enantiodromia",
+      "jung-two-readings"
+    ]
+  },
+  {
+    "id": "jung-two-readings",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Reductive and constructive reading",
+    "title": "Where from, toward what?",
+    "statement": "An image can have causes in the past and possibilities that have not yet been lived.",
+    "explanation": "Jung’s reductive reading asks what produced a fantasy. His constructive reading asks how its materials might express a developing possibility. He treated these as distinct perspectives rather than exclusive truths.",
+    "nuance": "A fantasy about leaving a familiar house might arise from childhood memories, a recent argument, or a desire to avoid responsibility. A reductive interpretation traces these antecedents and motives. Jung accepted that this can be appropriate and sufficient. He objected to assuming that a psychological product is fully understood once it has been translated into something already known. An image can be shaped by an earlier situation while also organizing materials into a form that makes a new attitude thinkable.\n\nA constructive reading would examine what the house, departure, and destination mean in the dreamer’s present life. Perhaps an inherited way of belonging is becoming inadequate, and the image helps express a relation not yet formulated in waking language. This is not a prediction that the person should move or abandon their family. The interpretation is a proposal about the image’s possible significance. The dreamer’s associations, circumstances, and responses matter more than an interpreter’s desire to produce an impressive symbolic story.\n\nJung’s distinction concerns questions, not a contest in which forward-looking readings are always deeper. A hunger dream may be sufficiently explained by hunger; a grand account of transformation would add little. Conversely, explaining a new commitment entirely as compensation for an old wound can miss the commitment’s present meaning. Constructive reading earns its place when it illuminates something the causal account leaves unresolved, while remaining answerable to the person’s actual experience.",
+    "reflection": "What does the causal explanation leave unexplained?",
+    "sources": [
+      "jung-advanced-types-constructive"
+    ],
+    "metaphor": "A house-shaped image sits at a junction: one line reaches into earlier conditions, another opens toward an unfinished outline.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "two-readings",
+      "caption": "Reductive and constructive reading",
+      "composition": {
+        "description": "A house-shaped image sits at a junction: one line reaches into earlier conditions, another opens toward an unfinished outline.",
+        "actors": [
+          {
+            "id": "house",
+            "type": "path",
+            "d": "M167 145 L166 101 L198 76 L234 100 L234 145 Z M191 145 L191 119 L208 119 L208 145"
+          },
+          {
+            "id": "back",
+            "type": "path",
+            "d": "M159 124 Q129 104 89 125 M102 117 L89 125 L102 132",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "ahead",
+            "type": "path",
+            "d": "M243 125 Q279 102 320 124 M310 116 L320 124 L309 132",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "antecedents",
+            "x": 57,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "possibilities",
+            "x": 254,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The causal question follows an image back to the conditions that helped produce it.",
+        "actors": [
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M230 91 L264 73 L281 116 L261 150 L223 135 Z"
+          },
+          {
+            "id": "back",
+            "type": "path",
+            "d": "M220 123 L105 122 M116 114 L105 122 L116 130"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "where did it arise?",
+            "x": 106,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "The constructive question follows a present image toward a possible development, leaving the endpoint unfilled.",
+        "actors": [
+          {
+            "id": "image",
+            "type": "path",
+            "d": "M101 92 L136 73 L152 116 L130 150 L94 135 Z"
+          },
+          {
+            "id": "ahead",
+            "type": "path",
+            "d": "M160 121 Q216.5 113.0 273 121 M264 114 L273 121 L263 126"
+          },
+          {
+            "id": "unfinished",
+            "type": "path",
+            "d": "M297 82 L323 114 L305 151",
+            "dashed": true
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "what could it express?",
+            "x": 99,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "reading images",
+      "reductive and constructive reading"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-reading-images",
+      "order": 1
+    },
+    "related": [
+      "jung-inflation",
+      "jung-psychic-energy"
+    ]
+  },
+  {
+    "id": "jung-psychic-energy",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Psychic energy",
+    "title": "Where the force goes",
+    "statement": "The strength of an interest can move without the interest keeping its original form.",
+    "explanation": "Jung broadened libido beyond sexual desire to mean psychic energy. He used the concept to describe changes in the intensity and direction of psychological activity, not a substance visible inside the brain.",
+    "nuance": "Jung’s energy model asks where attention, desire, emotion, and motivation become invested. A neglected project may occupy the mind all day, while a supposedly important ambition evokes almost nothing. The stated importance of an aim and its psychological intensity can differ. Libido names the force of psychic processes in this broad model. It does not mean a hidden fluid, a measurable reservoir of positivity, or the physical calories required for action. Jung borrowed an energic perspective while recognizing problems of psychological measurement.\n\nFor example, after a professional ambition collapses, someone may become intensely absorbed in family history. Jung might describe a movement of energy from one set of contents to another. This does not prove that the old ambition and the new interest have identical meanings, or that every change balances a fixed account. The model encourages attention to transitions: what loses its grip, what becomes compelling, and which conflicts obstruct the next direction. The imagery of channels is an analogy for relationships of intensity.\n\nHe also used equivalence and entropy as organizing ideas, but psychological observations are not thermodynamic measurements. The concepts belong to a historical theory whose scientific standing should not be borrowed from the prestige of physics. The useful distinction here is between the object of an interest and the strength invested in it. The same person can reorganize their commitments, and an apparently depleted area of life can coexist with intense activity elsewhere.",
+    "reflection": "Where is intensity appearing after it leaves an old commitment?",
+    "sources": [
+      "jung-advanced-energy"
+    ],
+    "metaphor": "Three channels branch from one junction; a small mark travels toward a different outlet while the previous channel remains in the drawing.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "psychic-energy",
+      "caption": "Psychic energy",
+      "composition": {
+        "description": "Three channels branch from one junction; a small mark travels toward a different outlet while the previous channel remains in the drawing.",
+        "actors": [
+          {
+            "id": "channels",
+            "type": "path",
+            "d": "M77 120 L172 120 Q205 86 291 78 M172 120 Q219 125 319 124 M172 120 Q210 162 291 174"
+          },
+          {
+            "id": "charge",
+            "type": "circle",
+            "x": 104,
+            "y": 120,
+            "r": 6,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": 183,
+              "y": 52
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "old investment",
+            "x": 57,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "new investment",
+            "x": 241,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "The object can remain available while its psychological intensity shifts elsewhere.",
+        "actors": [
+          {
+            "id": "branches",
+            "type": "path",
+            "d": "M84 126 L171 127 L285 79 M171 127 L287 174"
+          },
+          {
+            "id": "old",
+            "type": "circle",
+            "x": 284,
+            "y": 79,
+            "r": 9,
+            "tone": "faint"
+          },
+          {
+            "id": "new",
+            "type": "circle",
+            "x": 287,
+            "y": 174,
+            "r": 14
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "objects differ",
+            "x": 135,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "A name for psychological intensity is not a claim that a literal fluid inhabits the mind.",
+        "actors": [
+          {
+            "id": "wave",
+            "type": "path",
+            "d": "M82 123 Q122 60 162 123 Q201 184 241 124 Q279 74 318 122"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "an explanatory model",
+            "x": 108,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "changing direction",
+      "psychic energy"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-changing-direction",
+      "order": 1
+    },
+    "related": [
+      "jung-two-readings",
+      "jung-progression"
+    ]
+  },
+  {
+    "id": "jung-progression",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Progression",
+    "title": "Meeting the present",
+    "statement": "Moving forward can mean adapting to a task, without yet changing the personality.",
+    "explanation": "In Jung’s energy model, progression is the ongoing adaptation of psychic activity to the demands of life. It names a direction of functioning; it is not a synonym for individuation or moral improvement.",
+    "nuance": "Progression describes the movement through which psychological activity meets the demands of a present situation. A person prepares for work, answers a difficult question, or adjusts to a changed relationship. Their established attitude helps them act in the world. Jung distinguishes this practical adaptation from a larger development of personality. Successful functioning can continue along familiar lines without confronting neglected capacities, and a period of difficulty can belong to development without looking like outward success.\n\nImagine a teacher who becomes increasingly skilled at keeping a classroom organized. That is effective adaptation to a task. Yet the same routines might make it hard to notice a child whose needs do not fit the usual approach. A blockage can expose limits in the attitude that previously worked. Jung’s point is not that competence is shallow or that trouble is desirable. He describes a relation between a way of functioning and what a situation now requires; no attitude is adequate to every possible demand.\n\nWhen adaptation stalls, Jung asks how the tension between opposed tendencies develops and where psychological intensity goes. A backward movement may activate older or less conscious material, which could eventually support another way of meeting the situation. None of this guarantees that the difficulty has a hidden beneficial purpose. Progression and regression are theoretical directions, not grades assigned to a person. An ordinary practical change, rest, resources, or help may be needed as well as psychological interpretation.",
+    "reflection": "Is the familiar method still adequate to the present task?",
+    "sources": [
+      "jung-advanced-energy-progression"
+    ],
+    "metaphor": "A tool-shaped path reaches an opening that once fitted it; the changed opening makes the fit incomplete, separating continued movement from adequate adaptation.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "progression",
+      "caption": "Progression",
+      "composition": {
+        "description": "A tool-shaped path reaches an opening that once fitted it; the changed opening makes the fit incomplete, separating continued movement from adequate adaptation.",
+        "actors": [
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M64 135 Q136 124 205 135 L268 135",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "opening",
+            "type": "path",
+            "d": "M271 70 L271 108 M271 164 L271 202"
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M277 109 Q301 100 318 128 L307 163 L273 165"
+          },
+          {
+            "id": "moving",
+            "type": "circle",
+            "x": 91,
+            "y": 133,
+            "r": 5,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": 152,
+              "y": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "established method",
+            "x": 43,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "changed demand",
+            "x": 242,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Effective adaptation is a relation between a capacity and a particular task.",
+        "actors": [
+          {
+            "id": "capacity",
+            "type": "path",
+            "d": "M83 136 L169 136 L189 112 L204 137"
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M249 70 L249 109 L267 135 L249 161 L249 190"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "capacity",
+            "x": 82,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "this task",
+            "x": 249,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "Outward advancement and development of personality are two questions, not one scale.",
+        "actors": [
+          {
+            "id": "forward",
+            "type": "path",
+            "d": "M82 114 L319 114 M309 105 L319 114 L308 123"
+          },
+          {
+            "id": "depth",
+            "type": "path",
+            "d": "M199 125 Q219 152 198 183"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "adaptation",
+            "x": 80,
+            "y": 81
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "development",
+            "x": 154,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "changing direction",
+      "progression"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-changing-direction",
+      "order": 2
+    },
+    "related": [
+      "jung-psychic-energy",
+      "jung-regression"
+    ]
+  },
+  {
+    "id": "jung-regression",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Regression",
+    "title": "The backward movement",
+    "statement": "A blocked forward movement can activate what the established attitude left behind.",
+    "explanation": "Jung described regression as a backward movement of psychic energy that activates unconscious contents. It can expose neglected material, but it can also mean withdrawal or renewed dependence.",
+    "nuance": "When the attitude that supported ordinary adaptation no longer works, psychological intensity may turn back toward older ways of responding or unconscious contents. Jung calls this regression. Childhood memories, dependency wishes, or previously unused images can become compelling. He refuses to define every backward movement as mere failure. Material that was unavailable to the present attitude may become relevant to its transformation. At the same time, regression can remain a retreat that obstructs rather than renews adaptation.\n\nAn illustrator who cannot continue a familiar style might return to rough childhood notebooks. Something discarded there could become part of a different practice. This is an analogy for the possible value of returning, not proof that creative blocks require regression. In another case, revisiting the past may become a way to avoid paying bills or addressing a damaged relationship. Jung distinguishes the activation of material from what the person subsequently does with it. Returning to an earlier state is not identical with understanding it.\n\nThe productive possibility depends on a renewed conscious relation to the activated contents, and on an eventual relation to present life. Jung’s descriptions of unconscious renewal should not romanticize severe withdrawal, loss of functioning, or psychiatric distress. A crisis is not evidence that individuation is succeeding. His model offers a question about direction: does the backward movement make something newly available, or does it keep the person confined within an old response?",
+    "reflection": "What is returning, and what relation does it have to life now?",
+    "sources": [
+      "jung-advanced-energy-regression"
+    ],
+    "metaphor": "A forward channel meets a barrier; a returning branch descends to an older fragment, then a separate thin route reconnects it with the present.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "regression",
+      "caption": "Regression",
+      "composition": {
+        "description": "A forward channel meets a barrier; a returning branch descends to an older fragment, then a separate thin route reconnects it with the present.",
+        "actors": [
+          {
+            "id": "forward",
+            "type": "path",
+            "d": "M71 99 L293 99 M281 91 L293 99 L281 108"
+          },
+          {
+            "id": "block",
+            "type": "path",
+            "d": "M304 66 L306 133"
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M285 114 Q227 138 171 172 Q139 198 110 175 M121 171 L110 175 L116 186",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "past",
+            "type": "path",
+            "d": "M86 165 L114 146 L134 173 L114 196 Z"
+          },
+          {
+            "id": "reuse",
+            "type": "path",
+            "d": "M137 166 Q192 181 228 132",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "earlier material",
+            "x": 49,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "present task",
+            "x": 251,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A blocked direction makes an earlier response newly compelling.",
+        "actors": [
+          {
+            "id": "blocked",
+            "type": "path",
+            "d": "M78 91 L278 91 M287 64 L287 119"
+          },
+          {
+            "id": "return",
+            "type": "path",
+            "d": "M273 105 Q185 142 99 169 M110 159 L99 169 L114 174"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "a return",
+            "x": 152,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "Activated material can remain a closed loop or be brought into a relation with present life.",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M93 113 Q71 72 117 66 Q172 76 139 119 Q104 148 93 113"
+          },
+          {
+            "id": "bridge",
+            "type": "path",
+            "d": "M146 106 Q220 77 294 109 M283 100 L294 109 L282 117"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "repetition",
+            "x": 59,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "new relation",
+            "x": 243,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "changing direction",
+      "regression"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-changing-direction",
+      "order": 3
+    },
+    "related": [
+      "jung-progression",
+      "jung-individuation-society"
+    ]
+  },
+  {
+    "id": "jung-individuation-society",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Individuation and society",
+    "title": "A person among people",
+    "statement": "Becoming distinct need not mean becoming separate from everyone.",
+    "explanation": "Jung explicitly distinguished individuation from extreme individualism. A differentiated person remains connected to collective life, rather than treating their own path as a rule everyone else must obey.",
+    "nuance": "Jung’s account of individuation is often turned into a story of solitary authenticity: remove social expectations and discover an untouched self. His definition in Psychological Types is more demanding. Individuals exist through relationships and collective conditions as well as through their differences. Differentiation can broaden those relationships by reducing unconscious conformity. The aim is not to erase common obligations but to participate with a clearer understanding of one’s particular position and limits.\n\nImagine a person who stops following their family’s profession but continues to care for a vulnerable relative. The change in vocation need not abolish loyalty. A different person might announce that their inner path excuses every commitment and that others should admire the refusal. Jung calls extreme individualism a different problem: a private way is being asserted as though it had general authority. Having a distinct life does not make other people into supporting characters in a story of personal development.\n\nHe also recognizes that collective norms can impair individuality, so respect for relationship does not require obedience to every inherited rule. A norm helps orient life only while actual individual possibilities can remain alive around it. The relation is reciprocal: society needs differentiated persons, and persons need a viable social world. Jung’s account is a psychological proposal with historical limitations, not a complete political theory or a justification for leaving oppressive arrangements unchanged.",
+    "reflection": "Which connection could become more honest as conformity decreases?",
+    "sources": [
+      "jung-advanced-types-individuation"
+    ],
+    "metaphor": "Three people begin linked by a rigid horizontal rule; a differentiated figure keeps its own position while new flexible connections are drawn to the others.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "individuation-society",
+      "caption": "Individuation and society",
+      "composition": {
+        "description": "Three people begin linked by a rigid horizontal rule; a differentiated figure keeps its own position while new flexible connections are drawn to the others.",
+        "actors": [
+          {
+            "id": "left",
+            "type": "figure",
+            "x": 104,
+            "y": 142
+          },
+          {
+            "id": "middle",
+            "type": "figure",
+            "x": 201,
+            "y": 128
+          },
+          {
+            "id": "right",
+            "type": "figure",
+            "x": 300,
+            "y": 142
+          },
+          {
+            "id": "rule",
+            "type": "path",
+            "d": "M70 67 L334 67",
+            "tone": "faint"
+          },
+          {
+            "id": "links",
+            "type": "path",
+            "d": "M121 129 Q157 181 184 119 M217 118 Q261 175 283 129",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "difference",
+            "x": 67,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "relationship",
+            "x": 239,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Differentiation changes one position while preserving a shared field of relationship.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "circle",
+            "x": 112,
+            "y": 116,
+            "r": 19
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M184 106 L205 88 L224 116 L206 140 Z"
+          },
+          {
+            "id": "c",
+            "type": "circle",
+            "x": 295,
+            "y": 116,
+            "r": 19
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M133 119 Q160 131 183 120 M223 120 Q251 132 274 119"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "distinct and connected",
+            "x": 106,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "A private path becomes individualism when it is imposed as everybody’s rule.",
+        "actors": [
+          {
+            "id": "private",
+            "type": "path",
+            "d": "M91 150 Q127 88 159 119 Q186 143 220 85"
+          },
+          {
+            "id": "others",
+            "type": "path",
+            "d": "M88 174 Q144 169 177 175 M240 173 L316 173",
+            "tone": "faint"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "one path",
+            "x": 83,
+            "y": 72
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "not a universal rule",
+            "x": 178,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "becoming a person",
+      "individuation and society"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-becoming-a-person",
+      "order": 1
+    },
+    "related": [
+      "jung-regression",
+      "jung-midlife"
+    ]
+  },
+  {
+    "id": "jung-midlife",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "The stages of life",
+    "title": "When the aim changes",
+    "statement": "A way of living can succeed at one stage and become insufficient at another.",
+    "explanation": "Jung argued that the aims of early adulthood may lose their organizing force later in life. The task can shift from establishing a position to confronting meanings and capacities that position excluded.",
+    "nuance": "Jung pictures a life in phases, using the movement of the sun as an analogy. Early adulthood often requires work, social establishment, and the formation of relationships. Later, the attitude that served these aims may no longer answer questions about mortality or unlived possibilities. A person can have achieved what they intended and still find the achievement unable to organize the next phase. The difficulty concerns a change in the psychological task, not necessarily a failure of effort or an absence of external success.\n\nA manager who built a life around responsibility may discover that another promotion does not answer a growing concern with music, grief, or dependence. Jung would not simply prescribe a new hobby. He asks whether the neglected side of the personality is demanding a different relation to the life already built. The change may occur through modest commitments rather than a dramatic departure. Repeating the former solution more intensely can miss the fact that the question itself has altered.\n\nJung’s stages are a historical model, not a schedule every life follows at a particular birthday. Economic insecurity, disability, caregiving, culture, and early loss can unsettle his assumptions about a stable first half and reflective second half. Nor does new dissatisfaction establish that a person should leave a relationship or career. The durable distinction is between a goal’s earlier usefulness and its present adequacy. A life does not have to disown its first aims to recognize that they are no longer its only aims.",
+    "reflection": "Is more of the old answer addressing a different question?",
+    "sources": [
+      "jung-advanced-stages"
+    ],
+    "metaphor": "A rising path reaches its summit; the continuation turns into a differently shaped descent instead of extending the same upward arrow indefinitely.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "midlife",
+      "caption": "The stages of life",
+      "composition": {
+        "description": "A rising path reaches its summit; the continuation turns into a differently shaped descent instead of extending the same upward arrow indefinitely.",
+        "actors": [
+          {
+            "id": "arc",
+            "type": "path",
+            "d": "M74 168 Q136 55 200 55 Q266 55 326 166",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "old",
+            "type": "path",
+            "d": "M199 57 L231 32 M220 32 L231 32 L230 43",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "new",
+            "type": "path",
+            "d": "M206 63 Q226 107 247 117 Q264 123 282 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "establishment",
+            "x": 46,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "reorientation",
+            "x": 252,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "A previously effective goal does not automatically organize the next phase.",
+        "actors": [
+          {
+            "id": "steps",
+            "type": "path",
+            "d": "M80 171 L80 151 L116 151 L116 125 L151 125 L151 99 L184 99 L184 70"
+          },
+          {
+            "id": "next",
+            "type": "path",
+            "d": "M187 70 Q247 73 291 141"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "a task changes",
+            "x": 127,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "The same external achievement can be encountered through a different question.",
+        "actors": [
+          {
+            "id": "award",
+            "type": "path",
+            "d": "M174 93 L220 93 L231 130 L200 160 L165 130 Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "what can I establish?",
+            "x": 86,
+            "y": 62
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "what remains unlived?",
+            "x": 86,
+            "y": 216
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "becoming a person",
+      "the stages of life"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-becoming-a-person",
+      "order": 2
+    },
+    "related": [
+      "jung-individuation-society",
+      "jung-archetypal-image"
+    ]
+  },
+  {
+    "id": "jung-archetypal-image",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Archetype and archetypal image",
+    "title": "The pattern and the image",
+    "statement": "An inherited possibility is not the same thing as a picture everyone carries.",
+    "explanation": "Jung’s later account distinguishes an archetype in itself from its particular images. The hypothesized organizing pattern is inferred; a dream figure is shaped by personal history and culture.",
+    "nuance": "A person dreams of a commanding grandmother; another encounters a protective animal in a story. Jung’s theory asks whether different images may express a recurring pattern of protection, authority, or dependency. He distinguishes that hypothesized pattern from any one representation. The archetype in itself is not directly observed. Images are what appear in experience, and their details can come from the person’s life, inherited traditions, and the present situation. Confusing these levels makes the theory look like a library of fixed universal pictures.\n\nFor example, calling a dream figure a mother image should not erase the dreamer’s actual grandmother, the tone of her command, or the local meaning of the clothing she wears. The particular image may challenge the supposed pattern rather than merely illustrate it. Comparison with mythology can enlarge an interpretation, but it cannot supply a universal translation. Jung revised his explanations over time; his earlier language of primordial images does not always preserve the later distinction as sharply.\n\nThe existence and inheritance of archetypal patterns remain debated. Similar images across cultures do not by themselves distinguish inheritance from shared conditions, cultural exchange, or selective comparison. The distinction within Jung’s theory is still important: an observable image and an inferred organizer are different kinds of claim. One can carefully describe what a dream presents without treating the theory proposed to explain it as an established biological fact.",
+    "reflection": "Which details would disappear if this image became only a category?",
+    "sources": [
+      "jung-advanced-archetypal-image"
+    ],
+    "metaphor": "A faint underlying branching structure generates three visibly different outlines above it; the visible forms retain their differences instead of becoming identical copies.",
+    "scene": {
+      "kind": "notebook",
+      "variant": "archetypal-image",
+      "caption": "Archetype and archetypal image",
+      "composition": {
+        "description": "A faint underlying branching structure generates three visibly different outlines above it; the visible forms retain their differences instead of becoming identical copies.",
+        "actors": [
+          {
+            "id": "pattern",
+            "type": "path",
+            "d": "M91 175 L310 175 M199 175 L199 137 M129 175 L128 125 M273 175 L273 126",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "image-a",
+            "type": "path",
+            "d": "M103 121 L103 89 L128 69 L153 90 L153 121 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "image-b",
+            "type": "path",
+            "d": "M175 112 Q175 64 201 66 Q230 71 226 112 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "image-c",
+            "type": "path",
+            "d": "M251 122 L250 85 L273 97 L297 83 L296 121 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "inferred pattern",
+            "x": 43,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "particular images",
+            "x": 228,
+            "y": 222
+          }
+        ]
+      }
+    },
+    "readingArt": [
+      {
+        "description": "Different visible images can be compared without assuming they are identical representations.",
+        "actors": [
+          {
+            "id": "a",
+            "type": "path",
+            "d": "M80 142 L79 96 L106 75 L133 100 L133 144 Z"
+          },
+          {
+            "id": "b",
+            "type": "path",
+            "d": "M171 139 Q151 100 192 74 Q228 105 211 139 Z"
+          },
+          {
+            "id": "c",
+            "type": "path",
+            "d": "M253 142 L252 82 L281 103 L309 83 L311 142 Z"
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "differences remain",
+            "x": 125,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "description": "The organizing pattern is inferred from images; it is not another image directly seen behind them.",
+        "actors": [
+          {
+            "id": "shown",
+            "type": "path",
+            "d": "M99 89 L135 76 L151 114 L128 155 L92 131 Z"
+          },
+          {
+            "id": "inferred",
+            "type": "path",
+            "d": "M218 96 L285 96 M252 97 L252 154",
+            "dashed": true
+          },
+          {
+            "id": "a",
+            "type": "text",
+            "text": "observed",
+            "x": 78,
+            "y": 222
+          },
+          {
+            "id": "b",
+            "type": "text",
+            "text": "hypothesized",
+            "x": 230,
+            "y": 222
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "reading images",
+      "archetype and archetypal image"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "jung-reading-images",
+      "order": 2
+    },
+    "related": [
+      "jung-midlife",
+      "jung-transcendent-function"
+    ]
+  }
+]
