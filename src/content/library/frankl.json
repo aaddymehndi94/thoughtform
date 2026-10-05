@@ -22,22 +22,12 @@
           {
             "id": "banks",
             "type": "path",
-            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
           },
           {
             "id": "bridge",
             "type": "path",
-            "d": "M130 151 L173 153 M222 153 L268 152",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M130 151 L173 153 M222 153 L268 152"
           },
           {
             "id": "plank",
@@ -45,7 +35,7 @@
             "d": "M174 153 Q198 149 222 153",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
@@ -56,7 +46,7 @@
             "y": 132,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -64,12 +54,12 @@
           {
             "id": "action",
             "type": "text",
-            "x": 201,
+            "x": 178.2,
             "y": 210,
             "text": "a deed",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -117,7 +107,7 @@
           {
             "id": "action",
             "type": "text",
-            "x": 201,
+            "x": 178.2,
             "y": 210,
             "text": "a deed"
           }
@@ -141,7 +131,7 @@
           {
             "id": "measured",
             "type": "text",
-            "x": 273,
+            "x": 235.0,
             "y": 205,
             "text": "usefulness"
           },
@@ -153,7 +143,7 @@
           {
             "id": "unmeasured",
             "type": "text",
-            "x": 146,
+            "x": 119.4,
             "y": 215,
             "text": "dignity"
           }
@@ -189,7 +179,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -201,7 +191,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -212,7 +202,7 @@
             "d": "M146 85 Q204 54 260 85",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
@@ -222,19 +212,19 @@
             "d": "M168 153 Q201 183 238 153",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -283,7 +273,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -343,12 +333,7 @@
           {
             "id": "wall",
             "type": "path",
-            "d": "M254 49 L251 183 M259 50 L257 182",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M254 49 L251 183 M259 50 L257 182"
           },
           {
             "id": "person",
@@ -357,7 +342,7 @@
             "y": 138,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 12,
               "y": -2
             }
@@ -368,31 +353,31 @@
             "d": "M124 194 Q163 188 212 194",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           }
@@ -435,15 +420,15 @@
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged"
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response"
           }
         ]
@@ -470,8 +455,8 @@
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits"
           }
         ]
@@ -502,12 +487,12 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
@@ -518,7 +503,7 @@
             "y": 140,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 8,
               "y": -2
             }
@@ -526,12 +511,7 @@
           {
             "id": "task",
             "type": "path",
-            "d": "M257 102 L310 104 L308 167 L256 165 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M257 102 L310 104 L308 167 L256 165 Z"
           },
           {
             "id": "reply",
@@ -539,19 +519,19 @@
             "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -578,7 +558,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -601,7 +581,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -630,7 +610,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -662,12 +642,7 @@
           {
             "id": "limits",
             "type": "path",
-            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
           },
           {
             "id": "person",
@@ -676,7 +651,7 @@
             "y": 119,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -687,19 +662,19 @@
             "d": "M179 202 Q195 196 212 202",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           }
@@ -742,8 +717,8 @@
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits"
           }
         ]
@@ -770,15 +745,15 @@
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged"
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response"
           }
         ]
@@ -813,7 +788,7 @@
             "y": 141,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -821,12 +796,7 @@
           {
             "id": "self",
             "type": "path",
-            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170"
           },
           {
             "id": "reach",
@@ -834,29 +804,24 @@
             "d": "M180 125 Q231 121 278 101 M267 99 L279 101 L272 112",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "work",
             "type": "path",
-            "d": "M286 86 L322 86 L323 142 L286 144 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M286 86 L322 86 L323 142 L286 144 Z"
           },
           {
             "id": "beyond",
             "type": "text",
-            "x": 255,
+            "x": 205.6,
             "y": 195,
             "text": "beyond myself",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -904,7 +869,7 @@
           {
             "id": "beyond",
             "type": "text",
-            "x": 255,
+            "x": 205.6,
             "y": 195,
             "text": "beyond myself"
           }
@@ -938,7 +903,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -974,7 +939,7 @@
             "y": 133,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -983,11 +948,6 @@
             "id": "options",
             "type": "path",
             "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -996,19 +956,19 @@
             "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -1052,7 +1012,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -1064,7 +1024,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -1087,7 +1047,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -1123,7 +1083,7 @@
             "y": 138,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -1133,21 +1093,22 @@
             "type": "path",
             "d": "M245 72 L245 181 M245 81 L259 81 M245 105 L253 105 M245 130 L259 130 M245 155 L253 155 M245 178 L259 178",
             "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "delay": 0
+              "kind": "travel",
+              "duration": 16,
+              "delay": 2,
+              "x": 28
             },
             "tone": "faint"
           },
           {
             "id": "measured",
             "type": "text",
-            "x": 273,
+            "x": 235.0,
             "y": 205,
             "text": "usefulness",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 1
             }
           },
@@ -1157,19 +1118,19 @@
             "d": "M137 54 Q97 76 105 159 Q109 188 142 192",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "unmeasured",
             "type": "text",
-            "x": 146,
+            "x": 119.4,
             "y": 215,
             "text": "dignity",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -1208,7 +1169,7 @@
           {
             "id": "measured",
             "type": "text",
-            "x": 273,
+            "x": 235.0,
             "y": 205,
             "text": "usefulness"
           },
@@ -1220,7 +1181,7 @@
           {
             "id": "unmeasured",
             "type": "text",
-            "x": 146,
+            "x": 119.4,
             "y": 215,
             "text": "dignity"
           }
@@ -1242,14 +1203,14 @@
           {
             "id": "now",
             "type": "text",
-            "x": 203,
+            "x": 161.2,
             "y": 112,
             "text": "not endless"
           },
           {
             "id": "held",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 209,
             "text": "not worthless"
           }
@@ -1285,7 +1246,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -1297,7 +1258,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -1306,11 +1267,6 @@
             "id": "broken",
             "type": "path",
             "d": "M144 126 L188 130 M215 135 L259 128",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -1319,31 +1275,31 @@
             "d": "M146 142 Q199 174 256 141",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "past",
             "type": "text",
-            "x": 197,
+            "x": 155.2,
             "y": 92,
             "text": "cannot undo",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 1
             }
           },
           {
             "id": "next",
             "type": "text",
-            "x": 204,
+            "x": 162.2,
             "y": 206,
             "text": "can respond",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -1393,14 +1349,14 @@
           {
             "id": "past",
             "type": "text",
-            "x": 197,
+            "x": 155.2,
             "y": 92,
             "text": "cannot undo"
           },
           {
             "id": "next",
             "type": "text",
-            "x": 204,
+            "x": 162.2,
             "y": 206,
             "text": "can respond"
           }
@@ -1443,7 +1399,7 @@
           {
             "id": "saved",
             "type": "text",
-            "x": 200,
+            "x": 158.2,
             "y": 213,
             "text": "having been"
           }
@@ -1475,12 +1431,7 @@
           {
             "id": "time",
             "type": "path",
-            "d": "M70 165 Q192 162 330 165 M329 155 L329 176",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M70 165 Q192 162 330 165 M329 155 L329 176"
           },
           {
             "id": "marks",
@@ -1488,31 +1439,31 @@
             "d": "M114 151 L114 173 M159 150 L159 174 M209 151 L209 175 M272 151 L272 175",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "now",
             "type": "text",
-            "x": 203,
+            "x": 161.2,
             "y": 112,
             "text": "not endless",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
           {
             "id": "held",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 209,
             "text": "not worthless",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -1549,14 +1500,14 @@
           {
             "id": "now",
             "type": "text",
-            "x": 203,
+            "x": 161.2,
             "y": 112,
             "text": "not endless"
           },
           {
             "id": "held",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 209,
             "text": "not worthless"
           }
@@ -1599,7 +1550,7 @@
           {
             "id": "saved",
             "type": "text",
-            "x": 200,
+            "x": 158.2,
             "y": 213,
             "text": "having been"
           }
@@ -1631,12 +1582,7 @@
           {
             "id": "schedule",
             "type": "path",
-            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156"
           },
           {
             "id": "ticks",
@@ -1644,7 +1590,7 @@
             "d": "M127 68 L156 69 M234 68 L269 68 M127 174 L163 175 M233 174 L272 174",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             },
             "tone": "faint"
@@ -1652,12 +1598,12 @@
           {
             "id": "vacancy",
             "type": "text",
-            "x": 200,
+            "x": 150.6,
             "y": 127,
             "text": "but what for?",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           }
@@ -1695,7 +1641,7 @@
           {
             "id": "vacancy",
             "type": "text",
-            "x": 200,
+            "x": 150.6,
             "y": 127,
             "text": "but what for?"
           }
@@ -1755,12 +1701,12 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
@@ -1771,7 +1717,7 @@
             "y": 140,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 8,
               "y": -2
             }
@@ -1779,12 +1725,7 @@
           {
             "id": "task",
             "type": "path",
-            "d": "M257 102 L310 104 L308 167 L256 165 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M257 102 L310 104 L308 167 L256 165 Z"
           },
           {
             "id": "reply",
@@ -1792,19 +1733,19 @@
             "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -1831,7 +1772,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -1854,7 +1795,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -1882,14 +1823,14 @@
           {
             "id": "now",
             "type": "text",
-            "x": 108,
+            "x": 92.8,
             "y": 205,
             "text": "here"
           },
           {
             "id": "notyet",
             "type": "text",
-            "x": 304,
+            "x": 277.4,
             "y": 205,
             "text": "not yet"
           }
@@ -1925,7 +1866,7 @@
             "y": 137,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -1933,12 +1874,7 @@
           {
             "id": "task",
             "type": "path",
-            "d": "M286 94 L327 95 L328 155 L287 156 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M286 94 L327 95 L328 155 L287 156 Z"
           },
           {
             "id": "tension",
@@ -1946,31 +1882,31 @@
             "d": "M132 124 Q209 120 279 125",
             "motion": {
               "kind": "stretch",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "now",
             "type": "text",
-            "x": 108,
+            "x": 92.8,
             "y": 205,
             "text": "here",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 1
             }
           },
           {
             "id": "notyet",
             "type": "text",
-            "x": 304,
+            "x": 277.4,
             "y": 205,
             "text": "not yet",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           }
@@ -2013,14 +1949,14 @@
           {
             "id": "now",
             "type": "text",
-            "x": 108,
+            "x": 92.8,
             "y": 205,
             "text": "here"
           },
           {
             "id": "notyet",
             "type": "text",
-            "x": 304,
+            "x": 277.4,
             "y": 205,
             "text": "not yet"
           }
@@ -2053,7 +1989,7 @@
           {
             "id": "action",
             "type": "text",
-            "x": 201,
+            "x": 178.2,
             "y": 210,
             "text": "a deed"
           }
@@ -2089,7 +2025,7 @@
             "y": 133,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -2098,11 +2034,6 @@
             "id": "options",
             "type": "path",
             "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -2111,19 +2042,19 @@
             "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -2167,7 +2098,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -2201,7 +2132,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -2233,12 +2164,7 @@
           {
             "id": "limits",
             "type": "path",
-            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
           },
           {
             "id": "person",
@@ -2247,7 +2173,7 @@
             "y": 119,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -2258,19 +2184,19 @@
             "d": "M179 202 Q195 196 212 202",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           }
@@ -2313,8 +2239,8 @@
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits"
           }
         ]
@@ -2325,7 +2251,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -2348,7 +2274,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -2380,22 +2306,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -2403,7 +2319,7 @@
             "d": "M80 162 Q171 153 255 160",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
@@ -2411,10 +2327,10 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147,
+            "y": 178,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -2422,24 +2338,24 @@
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -2466,12 +2382,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84"
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -2482,19 +2398,19 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147
+            "y": 178
           },
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result"
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility"
           }
@@ -2523,7 +2439,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -2559,7 +2475,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -2571,7 +2487,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -2582,7 +2498,7 @@
             "d": "M146 85 Q204 54 260 85",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
@@ -2592,19 +2508,19 @@
             "d": "M168 153 Q201 183 238 153",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -2653,7 +2569,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -2717,7 +2633,7 @@
             "y": 141,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -2725,12 +2641,7 @@
           {
             "id": "self",
             "type": "path",
-            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170"
           },
           {
             "id": "reach",
@@ -2738,29 +2649,24 @@
             "d": "M180 125 Q231 121 278 101 M267 99 L279 101 L272 112",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "work",
             "type": "path",
-            "d": "M286 86 L322 86 L323 142 L286 144 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M286 86 L322 86 L323 142 L286 144 Z"
           },
           {
             "id": "beyond",
             "type": "text",
-            "x": 255,
+            "x": 205.6,
             "y": 195,
             "text": "beyond myself",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -2808,7 +2714,7 @@
           {
             "id": "beyond",
             "type": "text",
-            "x": 255,
+            "x": 205.6,
             "y": 195,
             "text": "beyond myself"
           }
@@ -2820,12 +2726,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84"
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -2836,19 +2742,19 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147
+            "y": 178
           },
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result"
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility"
           }
@@ -2883,31 +2789,31 @@
             "d": "M131 82 C90 117 107 173 171 180 C239 193 302 137 267 88 C247 64 209 66 185 75",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "fear",
             "type": "text",
-            "x": 163,
+            "x": 147.8,
             "y": 61,
             "text": "fear",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "symptom",
             "type": "text",
-            "x": 262,
+            "x": 235.4,
             "y": 199,
             "text": "symptom",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
@@ -2917,19 +2823,19 @@
             "d": "M176 89 Q200 112 220 95",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "distance",
             "type": "text",
-            "x": 202,
+            "x": 137.4,
             "y": 131,
             "text": "a little distance",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -2961,14 +2867,14 @@
           {
             "id": "fear",
             "type": "text",
-            "x": 163,
+            "x": 147.8,
             "y": 61,
             "text": "fear"
           },
           {
             "id": "symptom",
             "type": "text",
-            "x": 262,
+            "x": 235.4,
             "y": 199,
             "text": "symptom"
           },
@@ -2980,7 +2886,7 @@
           {
             "id": "distance",
             "type": "text",
-            "x": 202,
+            "x": 137.4,
             "y": 131,
             "text": "a little distance"
           }
@@ -3014,7 +2920,7 @@
           {
             "id": "focus",
             "type": "text",
-            "x": 244,
+            "x": 183.2,
             "y": 205,
             "text": "toward the world"
           }
@@ -3049,31 +2955,31 @@
             "d": "M131 82 C90 117 107 173 171 180 C239 193 302 137 267 88 C247 64 209 66 185 75",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "fear",
             "type": "text",
-            "x": 163,
+            "x": 147.8,
             "y": 61,
             "text": "fear",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "symptom",
             "type": "text",
-            "x": 262,
+            "x": 235.4,
             "y": 199,
             "text": "symptom",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
@@ -3083,19 +2989,19 @@
             "d": "M176 89 Q200 112 220 95",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "distance",
             "type": "text",
-            "x": 202,
+            "x": 137.4,
             "y": 131,
             "text": "a little distance",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -3127,14 +3033,14 @@
           {
             "id": "fear",
             "type": "text",
-            "x": 163,
+            "x": 147.8,
             "y": 61,
             "text": "fear"
           },
           {
             "id": "symptom",
             "type": "text",
-            "x": 262,
+            "x": 235.4,
             "y": 199,
             "text": "symptom"
           },
@@ -3146,7 +3052,7 @@
           {
             "id": "distance",
             "type": "text",
-            "x": 202,
+            "x": 137.4,
             "y": 131,
             "text": "a little distance"
           }
@@ -3180,7 +3086,7 @@
           {
             "id": "focus",
             "type": "text",
-            "x": 244,
+            "x": 183.2,
             "y": 205,
             "text": "toward the world"
           }
@@ -3213,11 +3119,6 @@
             "id": "loop",
             "type": "path",
             "d": "M111 85 C72 107 75 170 124 178 C167 184 184 127 153 100",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -3227,7 +3128,7 @@
             "y": 130,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -3238,29 +3139,24 @@
             "d": "M166 132 Q217 118 269 143",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "activity",
             "type": "path",
-            "d": "M274 155 Q297 110 327 152 M274 156 L328 156",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M274 155 Q297 110 327 152 M274 156 L328 156"
           },
           {
             "id": "focus",
             "type": "text",
-            "x": 244,
+            "x": 183.2,
             "y": 205,
             "text": "toward the world",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -3309,7 +3205,7 @@
           {
             "id": "focus",
             "type": "text",
-            "x": 244,
+            "x": 183.2,
             "y": 205,
             "text": "toward the world"
           }
@@ -3343,7 +3239,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -3375,22 +3271,12 @@
           {
             "id": "line",
             "type": "path",
-            "d": "M85 89 L316 89",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M85 89 L316 89"
           },
           {
             "id": "archive",
             "type": "path",
-            "d": "M111 135 L111 183 L292 182 L292 133",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M111 135 L111 183 L292 182 L292 133"
           },
           {
             "id": "mark1",
@@ -3400,7 +3286,7 @@
             "r": 4,
             "motion": {
               "kind": "travel",
-              "duration": 12,
+              "duration": 16,
               "y": 22
             }
           },
@@ -3412,7 +3298,7 @@
             "r": 4,
             "motion": {
               "kind": "travel",
-              "duration": 12,
+              "duration": 16,
               "y": 25,
               "delay": 2
             }
@@ -3425,7 +3311,7 @@
             "r": 4,
             "motion": {
               "kind": "travel",
-              "duration": 12,
+              "duration": 16,
               "y": 21,
               "delay": 4
             }
@@ -3433,12 +3319,12 @@
           {
             "id": "saved",
             "type": "text",
-            "x": 200,
+            "x": 158.2,
             "y": 213,
             "text": "having been",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -3496,7 +3382,7 @@
           {
             "id": "saved",
             "type": "text",
-            "x": 200,
+            "x": 158.2,
             "y": 213,
             "text": "having been"
           }
@@ -3518,14 +3404,14 @@
           {
             "id": "now",
             "type": "text",
-            "x": 203,
+            "x": 161.2,
             "y": 112,
             "text": "not endless"
           },
           {
             "id": "held",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 209,
             "text": "not worthless"
           }
@@ -3557,12 +3443,7 @@
           {
             "id": "wall",
             "type": "path",
-            "d": "M254 49 L251 183 M259 50 L257 182",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M254 49 L251 183 M259 50 L257 182"
           },
           {
             "id": "person",
@@ -3571,7 +3452,7 @@
             "y": 138,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 12,
               "y": -2
             }
@@ -3582,31 +3463,31 @@
             "d": "M124 194 Q163 188 212 194",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           }
@@ -3649,15 +3530,15 @@
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged"
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response"
           }
         ]
@@ -3691,14 +3572,14 @@
           {
             "id": "past",
             "type": "text",
-            "x": 197,
+            "x": 155.2,
             "y": 92,
             "text": "cannot undo"
           },
           {
             "id": "next",
             "type": "text",
-            "x": 204,
+            "x": 162.2,
             "y": 206,
             "text": "can respond"
           }
@@ -3734,7 +3615,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -3746,7 +3627,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -3757,7 +3638,7 @@
             "d": "M146 85 Q204 54 260 85",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
@@ -3767,19 +3648,19 @@
             "d": "M168 153 Q201 183 238 153",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -3828,7 +3709,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -3840,7 +3721,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -3863,7 +3744,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -3899,7 +3780,7 @@
             "y": 133,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -3908,11 +3789,6 @@
             "id": "options",
             "type": "path",
             "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -3921,19 +3797,19 @@
             "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -3977,7 +3853,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -3989,12 +3865,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84"
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -4005,19 +3881,19 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147
+            "y": 178
           },
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result"
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility"
           }
@@ -4053,7 +3929,7 @@
             "y": 141,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -4061,12 +3937,7 @@
           {
             "id": "self",
             "type": "path",
-            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170"
           },
           {
             "id": "reach",
@@ -4074,29 +3945,24 @@
             "d": "M180 125 Q231 121 278 101 M267 99 L279 101 L272 112",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "work",
             "type": "path",
-            "d": "M286 86 L322 86 L323 142 L286 144 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M286 86 L322 86 L323 142 L286 144 Z"
           },
           {
             "id": "beyond",
             "type": "text",
-            "x": 255,
+            "x": 205.6,
             "y": 195,
             "text": "beyond myself",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -4145,7 +4011,7 @@
           {
             "id": "beyond",
             "type": "text",
-            "x": 255,
+            "x": 205.6,
             "y": 195,
             "text": "beyond myself"
           }
@@ -4157,12 +4023,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84"
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -4173,19 +4039,19 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147
+            "y": 178
           },
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result"
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility"
           }
@@ -4219,19 +4085,14 @@
             "d": "M89 144 Q181 104 285 147",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "task",
             "type": "path",
-            "d": "M288 130 L315 130 L317 159 L288 159 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M288 130 L315 130 L317 159 L288 159 Z"
           },
           {
             "id": "pleasure",
@@ -4249,23 +4110,54 @@
             "id": "aim",
             "type": "path",
             "d": "M117 173 L202 112",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
             "id": "consequence",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 214,
             "text": "a consequence",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "object-0",
+            "type": "text",
+            "x": 101.2,
+            "y": 181,
+            "text": "involvement",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "object-1",
+            "type": "text",
+            "x": 185.6,
+            "y": 64,
+            "text": "pleasure",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "object-2",
+            "type": "text",
+            "x": 271.6,
+            "y": 181,
+            "text": "a result",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
             }
           }
         ]
@@ -4315,9 +4207,30 @@
           {
             "id": "consequence",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 214,
             "text": "a consequence"
+          },
+          {
+            "id": "object-0",
+            "type": "text",
+            "x": 101.2,
+            "y": 181,
+            "text": "involvement"
+          },
+          {
+            "id": "object-1",
+            "type": "text",
+            "x": 185.6,
+            "y": 64,
+            "text": "pleasure"
+          },
+          {
+            "id": "object-2",
+            "type": "text",
+            "x": 271.6,
+            "y": 181,
+            "text": "a result"
           }
         ]
       },
@@ -4349,7 +4262,7 @@
           {
             "id": "focus",
             "type": "text",
-            "x": 244,
+            "x": 183.2,
             "y": 205,
             "text": "toward the world"
           }
@@ -4383,19 +4296,14 @@
             "d": "M89 144 Q181 104 285 147",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
           {
             "id": "task",
             "type": "path",
-            "d": "M288 130 L315 130 L317 159 L288 159 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M288 130 L315 130 L317 159 L288 159 Z"
           },
           {
             "id": "pleasure",
@@ -4413,23 +4321,54 @@
             "id": "aim",
             "type": "path",
             "d": "M117 173 L202 112",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
             "id": "consequence",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 214,
             "text": "a consequence",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "object-0",
+            "type": "text",
+            "x": 101.2,
+            "y": 181,
+            "text": "involvement",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "object-1",
+            "type": "text",
+            "x": 185.6,
+            "y": 64,
+            "text": "pleasure",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "object-2",
+            "type": "text",
+            "x": 271.6,
+            "y": 181,
+            "text": "a result",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
             }
           }
         ]
@@ -4479,9 +4418,30 @@
           {
             "id": "consequence",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 214,
             "text": "a consequence"
+          },
+          {
+            "id": "object-0",
+            "type": "text",
+            "x": 101.2,
+            "y": 181,
+            "text": "involvement"
+          },
+          {
+            "id": "object-1",
+            "type": "text",
+            "x": 185.6,
+            "y": 64,
+            "text": "pleasure"
+          },
+          {
+            "id": "object-2",
+            "type": "text",
+            "x": 271.6,
+            "y": 181,
+            "text": "a result"
           }
         ]
       },
@@ -4513,7 +4473,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -4548,7 +4508,7 @@
             "y": 138,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -4558,21 +4518,22 @@
             "type": "path",
             "d": "M245 72 L245 181 M245 81 L259 81 M245 105 L253 105 M245 130 L259 130 M245 155 L253 155 M245 178 L259 178",
             "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "delay": 0
+              "kind": "travel",
+              "duration": 16,
+              "delay": 2,
+              "x": 28
             },
             "tone": "faint"
           },
           {
             "id": "measured",
             "type": "text",
-            "x": 273,
+            "x": 235.0,
             "y": 205,
             "text": "usefulness",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 1
             }
           },
@@ -4582,19 +4543,19 @@
             "d": "M137 54 Q97 76 105 159 Q109 188 142 192",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "unmeasured",
             "type": "text",
-            "x": 146,
+            "x": 119.4,
             "y": 215,
             "text": "dignity",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -4634,7 +4595,7 @@
           {
             "id": "measured",
             "type": "text",
-            "x": 273,
+            "x": 235.0,
             "y": 205,
             "text": "usefulness"
           },
@@ -4646,7 +4607,7 @@
           {
             "id": "unmeasured",
             "type": "text",
-            "x": 146,
+            "x": 119.4,
             "y": 215,
             "text": "dignity"
           }
@@ -4658,12 +4619,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84"
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -4674,19 +4635,19 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147
+            "y": 178
           },
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result"
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility"
           }
@@ -4721,7 +4682,7 @@
             "y": 137,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -4730,11 +4691,6 @@
             "id": "symptom",
             "type": "path",
             "d": "M102 115 Q126 91 144 114 Q111 141 146 131 Q129 153 111 127",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -4743,10 +4699,10 @@
             "x": 279,
             "y": 137,
             "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "x": 0,
-              "y": -2
+              "kind": "travel",
+              "duration": 16,
+              "delay": 2,
+              "x": 27
             }
           },
           {
@@ -4755,20 +4711,44 @@
             "d": "M154 151 Q202 166 249 151",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "view",
             "type": "text",
-            "x": 202,
+            "x": 114.6,
             "y": 213,
             "text": "a relation to the state",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "position-0",
+            "type": "text",
+            "x": 70.80000000000001,
+            "y": 43,
+            "text": "in the feeling",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
+            }
+          },
+          {
+            "id": "position-1",
+            "type": "text",
+            "x": 233.4,
+            "y": 43,
+            "text": "a view of it",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 4
             }
           }
         ]
@@ -4818,9 +4798,23 @@
           {
             "id": "view",
             "type": "text",
-            "x": 202,
+            "x": 114.6,
             "y": 213,
             "text": "a relation to the state"
+          },
+          {
+            "id": "position-0",
+            "type": "text",
+            "x": 70.80000000000001,
+            "y": 43,
+            "text": "in the feeling"
+          },
+          {
+            "id": "position-1",
+            "type": "text",
+            "x": 233.4,
+            "y": 43,
+            "text": "a view of it"
           }
         ]
       },
@@ -4852,7 +4846,7 @@
           {
             "id": "focus",
             "type": "text",
-            "x": 244,
+            "x": 183.2,
             "y": 205,
             "text": "toward the world"
           }
@@ -4887,7 +4881,7 @@
             "y": 137,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -4896,11 +4890,6 @@
             "id": "symptom",
             "type": "path",
             "d": "M102 115 Q126 91 144 114 Q111 141 146 131 Q129 153 111 127",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -4909,10 +4898,10 @@
             "x": 279,
             "y": 137,
             "motion": {
-              "kind": "drift",
-              "duration": 12,
-              "x": 0,
-              "y": -2
+              "kind": "travel",
+              "duration": 16,
+              "delay": 2,
+              "x": 27
             }
           },
           {
@@ -4921,20 +4910,44 @@
             "d": "M154 151 Q202 166 249 151",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "view",
             "type": "text",
-            "x": 202,
+            "x": 114.6,
             "y": 213,
             "text": "a relation to the state",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "position-0",
+            "type": "text",
+            "x": 70.80000000000001,
+            "y": 43,
+            "text": "in the feeling",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
+            }
+          },
+          {
+            "id": "position-1",
+            "type": "text",
+            "x": 233.4,
+            "y": 43,
+            "text": "a view of it",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 4
             }
           }
         ]
@@ -4984,9 +4997,23 @@
           {
             "id": "view",
             "type": "text",
-            "x": 202,
+            "x": 114.6,
             "y": 213,
             "text": "a relation to the state"
+          },
+          {
+            "id": "position-0",
+            "type": "text",
+            "x": 70.80000000000001,
+            "y": 43,
+            "text": "in the feeling"
+          },
+          {
+            "id": "position-1",
+            "type": "text",
+            "x": 233.4,
+            "y": 43,
+            "text": "a view of it"
           }
         ]
       },
@@ -5001,14 +5028,14 @@
           {
             "id": "fear",
             "type": "text",
-            "x": 163,
+            "x": 147.8,
             "y": 61,
             "text": "fear"
           },
           {
             "id": "symptom",
             "type": "text",
-            "x": 262,
+            "x": 235.4,
             "y": 199,
             "text": "symptom"
           },
@@ -5020,7 +5047,7 @@
           {
             "id": "distance",
             "type": "text",
-            "x": 202,
+            "x": 137.4,
             "y": 131,
             "text": "a little distance"
           }
@@ -5051,21 +5078,16 @@
           {
             "id": "body",
             "type": "path",
-            "d": "M98 171 L306 172",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M98 171 L306 172"
           },
           {
             "id": "psyche",
             "type": "path",
             "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
             "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
+              "kind": "drift",
+              "duration": 16,
+              "y": 4
             },
             "tone": "faint"
           },
@@ -5075,20 +5097,56 @@
             "d": "M111 76 Q207 47 297 78",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable",
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 184.8,
+            "y": 194,
+            "text": "body",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 173.4,
+            "y": 110,
+            "text": "feeling",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
+            }
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 173.4,
+            "y": 48,
+            "text": "meaning",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
             }
           }
         ]
@@ -5131,9 +5189,30 @@
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable"
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions"
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 184.8,
+            "y": 194,
+            "text": "body"
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 173.4,
+            "y": 110,
+            "text": "feeling"
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 173.4,
+            "y": 48,
+            "text": "meaning"
           }
         ]
       },
@@ -5167,9 +5246,16 @@
           {
             "id": "more",
             "type": "text",
-            "x": 203,
+            "x": 123.2,
             "y": 217,
             "text": "a view, not the whole"
+          },
+          {
+            "id": "projecting-views",
+            "type": "path",
+            "d": "M182 122 L148 163 M249 121 L265 164",
+            "tone": "faint",
+            "dashed": true
           }
         ]
       }
@@ -5199,11 +5285,6 @@
             "id": "wide",
             "type": "path",
             "d": "M77 114 C79 42 173 29 260 51 Q318 67 325 117",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint",
             "dashed": true
           },
@@ -5214,7 +5295,7 @@
             "y": 143,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -5225,29 +5306,24 @@
             "d": "M153 152 Q204 167 252 141",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "task",
             "type": "path",
-            "d": "M265 122 L299 122 L298 160 L265 159 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M265 122 L299 122 L298 160 L265 159 Z"
           },
           {
             "id": "local-label",
             "type": "text",
-            "x": 204,
+            "x": 116.6,
             "y": 213,
             "text": "this answer is possible",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
             }
           }
@@ -5298,7 +5374,7 @@
           {
             "id": "local-label",
             "type": "text",
-            "x": 204,
+            "x": 116.6,
             "y": 213,
             "text": "this answer is possible"
           }
@@ -5310,7 +5386,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -5333,7 +5409,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -5364,22 +5440,12 @@
           {
             "id": "object",
             "type": "path",
-            "d": "M181 71 L229 83 L229 134 L181 119 Z M181 71 L206 57 L254 68 L229 83 M254 68 L254 117 L229 134",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M181 71 L229 83 L229 134 L181 119 Z M181 71 L206 57 L254 68 L229 83 M254 68 L254 117 L229 134"
           },
           {
             "id": "plane",
             "type": "path",
-            "d": "M86 182 L318 182",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M86 182 L318 182"
           },
           {
             "id": "projection",
@@ -5387,29 +5453,46 @@
             "x": 141,
             "y": 181,
             "r": 17,
-            "tone": "faint"
+            "tone": "faint",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 4
+            }
           },
           {
             "id": "shadow",
             "type": "path",
             "d": "M228 171 L263 173 L274 188 L240 188 Z",
             "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 4
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 6
             },
             "tone": "faint"
           },
           {
             "id": "more",
             "type": "text",
-            "x": 203,
+            "x": 123.2,
             "y": 217,
             "text": "a view, not the whole",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "projecting-views",
+            "type": "path",
+            "d": "M182 122 L148 163 M249 121 L265 164",
+            "tone": "faint",
+            "dashed": true,
+            "motion": {
+              "kind": "draw",
+              "duration": 16,
+              "delay": 2
             }
           }
         ]
@@ -5460,9 +5543,16 @@
           {
             "id": "more",
             "type": "text",
-            "x": 203,
+            "x": 123.2,
             "y": 217,
             "text": "a view, not the whole"
+          },
+          {
+            "id": "projecting-views",
+            "type": "path",
+            "d": "M182 122 L148 163 M249 121 L265 164",
+            "tone": "faint",
+            "dashed": true
           }
         ]
       },
@@ -5488,9 +5578,30 @@
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable"
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions"
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 184.8,
+            "y": 194,
+            "text": "body"
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 173.4,
+            "y": 110,
+            "text": "feeling"
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 173.4,
+            "y": 48,
+            "text": "meaning"
           }
         ]
       }
@@ -5519,34 +5630,29 @@
           {
             "id": "path",
             "type": "path",
-            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67"
           },
           {
             "id": "one",
             "type": "text",
-            "x": 109,
+            "x": 74.8,
             "y": 45,
             "text": "one claim",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 1
             }
           },
           {
             "id": "two",
             "type": "text",
-            "x": 285,
+            "x": 235.6,
             "y": 46,
             "text": "another claim",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
@@ -5557,7 +5663,7 @@
             "y": 141,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -5565,12 +5671,12 @@
           {
             "id": "judgement",
             "type": "text",
-            "x": 204,
+            "x": 139.4,
             "y": 219,
             "text": "judgement remains",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
             }
           }
@@ -5603,14 +5709,14 @@
           {
             "id": "one",
             "type": "text",
-            "x": 109,
+            "x": 74.8,
             "y": 45,
             "text": "one claim"
           },
           {
             "id": "two",
             "type": "text",
-            "x": 285,
+            "x": 235.6,
             "y": 46,
             "text": "another claim"
           },
@@ -5623,7 +5729,7 @@
           {
             "id": "judgement",
             "type": "text",
-            "x": 204,
+            "x": 139.4,
             "y": 219,
             "text": "judgement remains"
           }
@@ -5652,7 +5758,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -5687,7 +5793,7 @@
             "y": 133,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -5696,11 +5802,6 @@
             "id": "options",
             "type": "path",
             "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -5709,19 +5810,19 @@
             "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -5766,7 +5867,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -5783,14 +5884,14 @@
           {
             "id": "one",
             "type": "text",
-            "x": 109,
+            "x": 74.8,
             "y": 45,
             "text": "one claim"
           },
           {
             "id": "two",
             "type": "text",
-            "x": 285,
+            "x": 235.6,
             "y": 46,
             "text": "another claim"
           },
@@ -5803,7 +5904,7 @@
           {
             "id": "judgement",
             "type": "text",
-            "x": 204,
+            "x": 139.4,
             "y": 219,
             "text": "judgement remains"
           }
@@ -5834,12 +5935,12 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             }
           },
@@ -5850,7 +5951,7 @@
             "y": 140,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 8,
               "y": -2
             }
@@ -5858,12 +5959,7 @@
           {
             "id": "task",
             "type": "path",
-            "d": "M257 102 L310 104 L308 167 L256 165 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M257 102 L310 104 L308 167 L256 165 Z"
           },
           {
             "id": "reply",
@@ -5871,19 +5967,19 @@
             "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -5911,7 +6007,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -5934,7 +6030,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -5963,7 +6059,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -5994,32 +6090,17 @@
           {
             "id": "one",
             "type": "path",
-            "d": "M81 112 L115 93 L137 121 L106 140 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M81 112 L115 93 L137 121 L106 140 Z"
           },
           {
             "id": "two",
             "type": "path",
-            "d": "M180 97 Q223 83 229 125 Q208 148 182 126 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M180 97 Q223 83 229 125 Q208 148 182 126 Z"
           },
           {
             "id": "three",
             "type": "path",
-            "d": "M273 103 L308 109 L311 142 L279 135 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M273 103 L308 109 L311 142 L279 135 Z"
           },
           {
             "id": "relation",
@@ -6027,19 +6108,19 @@
             "d": "M101 165 Q208 180 304 163",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "pattern",
             "type": "text",
-            "x": 199,
+            "x": 134.4,
             "y": 211,
             "text": "a recurring value",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
             }
           }
@@ -6087,7 +6168,7 @@
           {
             "id": "pattern",
             "type": "text",
-            "x": 199,
+            "x": 134.4,
             "y": 211,
             "text": "a recurring value"
           }
@@ -6116,7 +6197,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -6148,11 +6229,6 @@
             "id": "wide",
             "type": "path",
             "d": "M77 114 C79 42 173 29 260 51 Q318 67 325 117",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint",
             "dashed": true
           },
@@ -6163,7 +6239,7 @@
             "y": 143,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -6174,29 +6250,24 @@
             "d": "M153 152 Q204 167 252 141",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "task",
             "type": "path",
-            "d": "M265 122 L299 122 L298 160 L265 159 Z",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M265 122 L299 122 L298 160 L265 159 Z"
           },
           {
             "id": "local-label",
             "type": "text",
-            "x": 204,
+            "x": 116.6,
             "y": 213,
             "text": "this answer is possible",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
             }
           }
@@ -6247,7 +6318,7 @@
           {
             "id": "local-label",
             "type": "text",
-            "x": 204,
+            "x": 116.6,
             "y": 213,
             "text": "this answer is possible"
           }
@@ -6269,14 +6340,14 @@
           {
             "id": "now",
             "type": "text",
-            "x": 203,
+            "x": 161.2,
             "y": 112,
             "text": "not endless"
           },
           {
             "id": "held",
             "type": "text",
-            "x": 202,
+            "x": 152.6,
             "y": 209,
             "text": "not worthless"
           }
@@ -6307,12 +6378,7 @@
           {
             "id": "wall",
             "type": "path",
-            "d": "M254 49 L251 183 M259 50 L257 182",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M254 49 L251 183 M259 50 L257 182"
           },
           {
             "id": "person",
@@ -6321,7 +6387,7 @@
             "y": 138,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 12,
               "y": -2
             }
@@ -6332,31 +6398,31 @@
             "d": "M124 194 Q163 188 212 194",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           }
@@ -6400,15 +6466,15 @@
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged"
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response"
           }
         ]
@@ -6441,7 +6507,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -6472,21 +6538,16 @@
           {
             "id": "body",
             "type": "path",
-            "d": "M98 171 L306 172",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M98 171 L306 172"
           },
           {
             "id": "psyche",
             "type": "path",
             "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
             "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
+              "kind": "drift",
+              "duration": 16,
+              "y": 4
             },
             "tone": "faint"
           },
@@ -6496,20 +6557,56 @@
             "d": "M111 76 Q207 47 297 78",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable",
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 162.0,
+            "y": 194,
+            "text": "conditions",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 165.8,
+            "y": 110,
+            "text": "a feeling",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
+            }
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 162.0,
+            "y": 48,
+            "text": "a response",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
             }
           }
         ]
@@ -6552,9 +6649,30 @@
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable"
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions"
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 162.0,
+            "y": 194,
+            "text": "conditions"
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 165.8,
+            "y": 110,
+            "text": "a feeling"
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 162.0,
+            "y": 48,
+            "text": "a response"
           }
         ]
       },
@@ -6580,15 +6698,15 @@
           {
             "id": "fixed",
             "type": "text",
-            "x": 285,
+            "x": 250.8,
             "y": 204,
             "text": "unchanged"
           },
           {
             "id": "stance-label",
             "type": "text",
-            "x": 146,
-            "y": 65,
+            "x": 108.0,
+            "y": 43,
             "text": "a response"
           }
         ]
@@ -6618,12 +6736,7 @@
           {
             "id": "limits",
             "type": "path",
-            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
           },
           {
             "id": "person",
@@ -6632,7 +6745,7 @@
             "y": 119,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -6643,19 +6756,19 @@
             "d": "M179 202 Q195 196 212 202",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           }
@@ -6699,8 +6812,8 @@
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits"
           }
         ]
@@ -6732,7 +6845,7 @@
           {
             "id": "action",
             "type": "text",
-            "x": 201,
+            "x": 178.2,
             "y": 210,
             "text": "a deed"
           }
@@ -6763,21 +6876,16 @@
           {
             "id": "body",
             "type": "path",
-            "d": "M98 171 L306 172",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M98 171 L306 172"
           },
           {
             "id": "psyche",
             "type": "path",
             "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
             "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
+              "kind": "drift",
+              "duration": 16,
+              "y": 4
             },
             "tone": "faint"
           },
@@ -6787,20 +6895,56 @@
             "d": "M111 76 Q207 47 297 78",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable",
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
+            }
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 169.6,
+            "y": 194,
+            "text": "the body",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 0
+            }
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 169.6,
+            "y": 110,
+            "text": "distress",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 2
+            }
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 139.2,
+            "y": 48,
+            "text": "a value conflict",
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
             }
           }
         ]
@@ -6843,9 +6987,30 @@
           {
             "id": "layers",
             "type": "text",
-            "x": 201,
-            "y": 210,
-            "text": "related, not interchangeable"
+            "x": 127.8,
+            "y": 228,
+            "text": "different questions"
+          },
+          {
+            "id": "level-0",
+            "type": "text",
+            "x": 169.6,
+            "y": 194,
+            "text": "the body"
+          },
+          {
+            "id": "level-1",
+            "type": "text",
+            "x": 169.6,
+            "y": 110,
+            "text": "distress"
+          },
+          {
+            "id": "level-2",
+            "type": "text",
+            "x": 139.2,
+            "y": 48,
+            "text": "a value conflict"
           }
         ]
       },
@@ -6860,14 +7025,14 @@
           {
             "id": "one",
             "type": "text",
-            "x": 109,
+            "x": 74.8,
             "y": 45,
             "text": "one claim"
           },
           {
             "id": "two",
             "type": "text",
-            "x": 285,
+            "x": 235.6,
             "y": 46,
             "text": "another claim"
           },
@@ -6880,7 +7045,7 @@
           {
             "id": "judgement",
             "type": "text",
-            "x": 204,
+            "x": 139.4,
             "y": 219,
             "text": "judgement remains"
           }
@@ -6915,7 +7080,7 @@
             "y": 133,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -6924,11 +7089,6 @@
             "id": "options",
             "type": "path",
             "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -6937,19 +7097,19 @@
             "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -6994,7 +7154,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -7006,7 +7166,7 @@
           {
             "id": "ask",
             "type": "text",
-            "x": 190,
+            "x": 114.0,
             "y": 48,
             "text": "what is asked of me?"
           },
@@ -7029,7 +7189,7 @@
           {
             "id": "answer",
             "type": "text",
-            "x": 204,
+            "x": 143.2,
             "y": 204,
             "text": "answer in action"
           }
@@ -7060,12 +7220,7 @@
           {
             "id": "schedule",
             "type": "path",
-            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156"
           },
           {
             "id": "ticks",
@@ -7073,7 +7228,7 @@
             "d": "M127 68 L156 69 M234 68 L269 68 M127 174 L163 175 M233 174 L272 174",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 0
             },
             "tone": "faint"
@@ -7081,12 +7236,12 @@
           {
             "id": "vacancy",
             "type": "text",
-            "x": 200,
+            "x": 150.6,
             "y": 127,
             "text": "but what for?",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           }
@@ -7125,7 +7280,7 @@
           {
             "id": "vacancy",
             "type": "text",
-            "x": 200,
+            "x": 150.6,
             "y": 127,
             "text": "but what for?"
           }
@@ -7159,7 +7314,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
@@ -7194,7 +7349,7 @@
             "y": 133,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -7203,11 +7358,6 @@
             "id": "options",
             "type": "path",
             "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint"
           },
           {
@@ -7216,19 +7366,19 @@
             "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 4
             }
           },
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -7273,7 +7423,7 @@
           {
             "id": "here",
             "type": "text",
-            "x": 274,
+            "x": 220.8,
             "y": 202,
             "text": "this situation"
           }
@@ -7301,8 +7451,8 @@
           {
             "id": "possible",
             "type": "text",
-            "x": 204,
-            "y": 58,
+            "x": 154.6,
+            "y": 31,
             "text": "within limits"
           }
         ]
@@ -7332,22 +7482,12 @@
           {
             "id": "banks",
             "type": "path",
-            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
           },
           {
             "id": "bridge",
             "type": "path",
-            "d": "M130 151 L173 153 M222 153 L268 152",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M130 151 L173 153 M222 153 L268 152"
           },
           {
             "id": "plank",
@@ -7355,7 +7495,7 @@
             "d": "M174 153 Q198 149 222 153",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
@@ -7366,7 +7506,7 @@
             "y": 132,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -7374,12 +7514,12 @@
           {
             "id": "action",
             "type": "text",
-            "x": 201,
+            "x": 178.2,
             "y": 210,
             "text": "a deed",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -7428,7 +7568,7 @@
           {
             "id": "action",
             "type": "text",
-            "x": 201,
+            "x": 178.2,
             "y": 210,
             "text": "a deed"
           }
@@ -7440,12 +7580,12 @@
           {
             "id": "route1",
             "type": "path",
-            "d": "M81 84 L269 84"
+            "d": "M81 84 L300 84"
           },
           {
             "id": "box",
             "type": "path",
-            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+            "d": "M300 69 L329 70 L328 99 L300 100 Z"
           },
           {
             "id": "route2",
@@ -7456,19 +7596,19 @@
             "id": "person",
             "type": "figure",
             "x": 282,
-            "y": 147
+            "y": 178
           },
           {
             "id": "goal",
             "type": "text",
-            "x": 133,
+            "x": 102.6,
             "y": 65,
             "text": "a result"
           },
           {
             "id": "value",
             "type": "text",
-            "x": 151,
+            "x": 90.2,
             "y": 203,
             "text": "a responsibility"
           }
@@ -7503,7 +7643,7 @@
             "y": 137,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -7514,7 +7654,7 @@
             "d": "M134 133 Q174 71 218 111 Q254 160 288 104",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 3
             }
           },
@@ -7522,23 +7662,18 @@
             "id": "unfinished",
             "type": "path",
             "d": "M288 104 L323 103",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            },
             "tone": "faint",
             "dashed": true
           },
           {
             "id": "notyet",
             "type": "text",
-            "x": 205,
+            "x": 167.0,
             "y": 214,
             "text": "unfinished",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 7
             }
           }
@@ -7584,7 +7719,7 @@
           {
             "id": "notyet",
             "type": "text",
-            "x": 205,
+            "x": 167.0,
             "y": 214,
             "text": "unfinished"
           }
@@ -7643,22 +7778,12 @@
           {
             "id": "line",
             "type": "path",
-            "d": "M85 89 L316 89",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M85 89 L316 89"
           },
           {
             "id": "archive",
             "type": "path",
-            "d": "M111 135 L111 183 L292 182 L292 133",
-            "motion": {
-              "kind": "draw",
-              "duration": 12,
-              "delay": 0
-            }
+            "d": "M111 135 L111 183 L292 182 L292 133"
           },
           {
             "id": "mark1",
@@ -7668,7 +7793,7 @@
             "r": 4,
             "motion": {
               "kind": "travel",
-              "duration": 12,
+              "duration": 16,
               "y": 22
             }
           },
@@ -7680,7 +7805,7 @@
             "r": 4,
             "motion": {
               "kind": "travel",
-              "duration": 12,
+              "duration": 16,
               "y": 25,
               "delay": 2
             }
@@ -7693,7 +7818,7 @@
             "r": 4,
             "motion": {
               "kind": "travel",
-              "duration": 12,
+              "duration": 16,
               "y": 21,
               "delay": 4
             }
@@ -7701,12 +7826,12 @@
           {
             "id": "saved",
             "type": "text",
-            "x": 200,
+            "x": 158.2,
             "y": 213,
             "text": "having been",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -7765,7 +7890,7 @@
           {
             "id": "saved",
             "type": "text",
-            "x": 200,
+            "x": 158.2,
             "y": 213,
             "text": "having been"
           }
@@ -7800,14 +7925,14 @@
           {
             "id": "past",
             "type": "text",
-            "x": 197,
+            "x": 155.2,
             "y": 92,
             "text": "cannot undo"
           },
           {
             "id": "next",
             "type": "text",
-            "x": 204,
+            "x": 162.2,
             "y": 206,
             "text": "can respond"
           }
@@ -7842,7 +7967,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -7854,7 +7979,7 @@
             "y": 135,
             "motion": {
               "kind": "drift",
-              "duration": 12,
+              "duration": 16,
               "x": 0,
               "y": -2
             }
@@ -7865,7 +7990,7 @@
             "d": "M146 85 Q204 54 260 85",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 2
             }
           },
@@ -7875,19 +8000,19 @@
             "d": "M168 153 Q201 183 238 153",
             "motion": {
               "kind": "draw",
-              "duration": 12,
+              "duration": 16,
               "delay": 5
             }
           },
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter",
             "motion": {
               "kind": "reveal",
-              "duration": 12,
+              "duration": 16,
               "delay": 6
             }
           }
@@ -7937,7 +8062,7 @@
           {
             "id": "between",
             "type": "text",
-            "x": 204,
+            "x": 169.8,
             "y": 210,
             "text": "encounter"
           }
