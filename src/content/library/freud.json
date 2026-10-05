@@ -53,14 +53,14 @@
             "id": "known",
             "type": "text",
             "text": "noticed",
-            "x": 270,
+            "x": 243.1,
             "y": 90
           },
           {
             "id": "hidden",
             "type": "text",
             "text": "still acting",
-            "x": 206,
+            "x": 170.27,
             "y": 204,
             "motion": {
               "kind": "reveal",
@@ -111,21 +111,21 @@
             "id": "label0",
             "type": "text",
             "text": "mental life",
-            "x": 202,
+            "x": 158.22,
             "y": 45
           },
           {
             "id": "label1",
             "type": "text",
             "text": "noticed",
-            "x": 210,
+            "x": 177.79,
             "y": 97
           },
           {
             "id": "label2",
             "type": "text",
             "text": "not all is noticed",
-            "x": 203,
+            "x": 133.62,
             "y": 227
           }
         ]
@@ -155,21 +155,21 @@
             "id": "label0",
             "type": "text",
             "text": "one lapse",
-            "x": 90,
+            "x": 49.42,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "ordinary distraction",
-            "x": 273,
+            "x": 189.87,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "possible conflict",
-            "x": 276,
+            "x": 206.46,
             "y": 207
           }
         ]
@@ -235,7 +235,7 @@
             "id": "label",
             "type": "text",
             "text": "another way through",
-            "x": 260,
+            "x": 187.29,
             "y": 215,
             "motion": {
               "kind": "reveal",
@@ -293,21 +293,21 @@
             "id": "label0",
             "type": "text",
             "text": "excluded thought",
-            "x": 109,
+            "x": 35.04,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "indirect expression",
-            "x": 279,
+            "x": 198.78,
             "y": 78
           },
           {
             "id": "label2",
             "type": "text",
             "text": "exclusion changes the route",
-            "x": 205,
+            "x": 87.01,
             "y": 224
           }
         ]
@@ -340,21 +340,21 @@
             "id": "label0",
             "type": "text",
             "text": "suppression: known",
-            "x": 116,
+            "x": 33.12,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "repression: inferred",
-            "x": 282,
+            "x": 200.4,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "two relations to awareness",
-            "x": 200,
+            "x": 87.52,
             "y": 217
           }
         ]
@@ -385,7 +385,7 @@
             "id": "sentence",
             "type": "text",
             "text": "I wanted to say",
-            "x": 160,
+            "x": 106.6,
             "y": 82
           },
           {
@@ -415,7 +415,7 @@
             "id": "other",
             "type": "text",
             "text": "something else",
-            "x": 266,
+            "x": 212.83,
             "y": 156,
             "motion": {
               "kind": "reveal",
@@ -476,21 +476,21 @@
             "id": "label0",
             "type": "text",
             "text": "intended speech",
-            "x": 90,
+            "x": 18.8,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "what was planned",
-            "x": 273,
+            "x": 197.38,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "what intruded",
-            "x": 276,
+            "x": 216.93,
             "y": 207
           }
         ]
@@ -523,21 +523,21 @@
             "id": "label0",
             "type": "text",
             "text": "an error occurs",
-            "x": 116,
+            "x": 51.54,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a cause is proposed",
-            "x": 282,
+            "x": 197.14,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "observation and interpretation",
-            "x": 200,
+            "x": 71.24,
             "y": 217
           }
         ]
@@ -602,21 +602,21 @@
             "id": "left",
             "type": "text",
             "text": "wish",
-            "x": 92,
+            "x": 76.25,
             "y": 99
           },
           {
             "id": "right",
             "type": "text",
             "text": "prohibition",
-            "x": 300,
+            "x": 261.62,
             "y": 98
           },
           {
             "id": "result",
             "type": "text",
             "text": "a compromise",
-            "x": 202,
+            "x": 151.67,
             "y": 201,
             "motion": {
               "kind": "reveal",
@@ -666,21 +666,21 @@
             "id": "label0",
             "type": "text",
             "text": "a wish",
-            "x": 89,
+            "x": 62.74,
             "y": 90
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a prohibition",
-            "x": 305,
+            "x": 251.66,
             "y": 90
           },
           {
             "id": "label2",
             "type": "text",
             "text": "an indirect arrangement",
-            "x": 201,
+            "x": 99.7,
             "y": 211
           }
         ]
@@ -710,21 +710,21 @@
             "id": "label0",
             "type": "text",
             "text": "one ritual",
-            "x": 90,
+            "x": 50.46,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "some relief",
-            "x": 273,
+            "x": 226.51,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "continued restriction",
-            "x": 276,
+            "x": 187.37,
             "y": 207
           }
         ]
@@ -784,14 +784,14 @@
             "id": "surfaceword",
             "type": "text",
             "text": "remembered",
-            "x": 297,
+            "x": 251.48,
             "y": 76
           },
           {
             "id": "rootsword",
             "type": "text",
             "text": "associations",
-            "x": 110,
+            "x": 66.07,
             "y": 209,
             "motion": {
               "kind": "reveal",
@@ -841,21 +841,21 @@
             "id": "label0",
             "type": "text",
             "text": "remembered scene",
-            "x": 281,
+            "x": 198.72,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one association",
-            "x": 111,
+            "x": 44.75,
             "y": 208
           },
           {
             "id": "label2",
             "type": "text",
             "text": "another association",
-            "x": 287,
+            "x": 203.8,
             "y": 208
           }
         ]
@@ -891,21 +891,21 @@
             "id": "label0",
             "type": "text",
             "text": "dream detail",
-            "x": 99,
+            "x": 46.03,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "associations",
-            "x": 201,
+            "x": 148.39,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "interpretation",
-            "x": 302,
+            "x": 243.94,
             "y": 85
           }
         ]
@@ -981,14 +981,14 @@
             "id": "many",
             "type": "text",
             "text": "several thoughts",
-            "x": 102,
+            "x": 43.63,
             "y": 211
           },
           {
             "id": "one",
             "type": "text",
             "text": "one image",
-            "x": 279,
+            "x": 242.73,
             "y": 178,
             "motion": {
               "kind": "reveal",
@@ -1044,21 +1044,21 @@
             "id": "label0",
             "type": "text",
             "text": "several associations",
-            "x": 97,
+            "x": 12.29,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one figure",
-            "x": 275,
+            "x": 233.02,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "many-to-one",
-            "x": 214,
+            "x": 156.46,
             "y": 219
           }
         ]
@@ -1088,21 +1088,21 @@
             "id": "label0",
             "type": "text",
             "text": "one detail",
-            "x": 90,
+            "x": 48.35,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one history",
-            "x": 273,
+            "x": 225.76,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "another history",
-            "x": 276,
+            "x": 211.81,
             "y": 207
           }
         ]
@@ -1187,14 +1187,14 @@
             "id": "important",
             "type": "text",
             "text": "important",
-            "x": 117,
+            "x": 81.93,
             "y": 195
           },
           {
             "id": "trivial",
             "type": "text",
             "text": "apparently trivial",
-            "x": 281,
+            "x": 221.6,
             "y": 195
           }
         ]
@@ -1251,21 +1251,21 @@
             "id": "label0",
             "type": "text",
             "text": "less visible",
-            "x": 115,
+            "x": 69.57,
             "y": 187
           },
           {
             "id": "label1",
             "type": "text",
             "text": "more vivid",
-            "x": 281,
+            "x": 237.08,
             "y": 187
           },
           {
             "id": "label2",
             "type": "text",
             "text": "shift of emphasis",
-            "x": 199,
+            "x": 126.54,
             "y": 50
           }
         ]
@@ -1298,21 +1298,21 @@
             "id": "label0",
             "type": "text",
             "text": "the object itself",
-            "x": 116,
+            "x": 49.39,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "its associations",
-            "x": 282,
+            "x": 216.59,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "significance is relational",
-            "x": 200,
+            "x": 99.58,
             "y": 217
           }
         ]
@@ -1343,7 +1343,7 @@
             "id": "idea",
             "type": "text",
             "text": "a thought",
-            "x": 99,
+            "x": 65.09,
             "y": 91
           },
           {
@@ -1372,7 +1372,7 @@
             "id": "picture",
             "type": "text",
             "text": "a scene",
-            "x": 278,
+            "x": 250.74,
             "y": 207,
             "motion": {
               "kind": "reveal",
@@ -1428,21 +1428,21 @@
             "id": "label0",
             "type": "text",
             "text": "a relation",
-            "x": 99,
+            "x": 60.02,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a possible scene",
-            "x": 201,
+            "x": 130.59,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "associations",
-            "x": 302,
+            "x": 249.39,
             "y": 85
           }
         ]
@@ -1472,21 +1472,21 @@
             "id": "label0",
             "type": "text",
             "text": "a closed door",
-            "x": 90,
+            "x": 32.3,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "privacy",
-            "x": 273,
+            "x": 242.01,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "exclusion",
-            "x": 276,
+            "x": 236.93,
             "y": 207
           }
         ]
@@ -1566,7 +1566,7 @@
             "id": "story",
             "type": "text",
             "text": "a story, afterwards",
-            "x": 200,
+            "x": 135.03,
             "y": 228,
             "motion": {
               "kind": "reveal",
@@ -1622,21 +1622,21 @@
             "id": "label0",
             "type": "text",
             "text": "separate fragments",
-            "x": 133,
+            "x": 50.33,
             "y": 55
           },
           {
             "id": "label1",
             "type": "text",
             "text": "later connection",
-            "x": 259,
+            "x": 190.09,
             "y": 55
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a tellable account",
-            "x": 198,
+            "x": 122.91,
             "y": 220
           }
         ]
@@ -1669,21 +1669,21 @@
             "id": "label0",
             "type": "text",
             "text": "remembered order",
-            "x": 116,
+            "x": 36.19,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "formation process",
-            "x": 282,
+            "x": 204.85,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "coherence needs examination",
-            "x": 200,
+            "x": 73.35,
             "y": 217
           }
         ]
@@ -1746,7 +1746,7 @@
             "id": "word",
             "type": "text",
             "text": "in the dream",
-            "x": 270,
+            "x": 225.48,
             "y": 184,
             "motion": {
               "kind": "reveal",
@@ -1804,21 +1804,21 @@
             "id": "label0",
             "type": "text",
             "text": "waking separation",
-            "x": 101,
+            "x": 24.87,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "imagined encounter",
-            "x": 294,
+            "x": 209.65,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a staged satisfaction",
-            "x": 198,
+            "x": 110.49,
             "y": 61
           }
         ]
@@ -1848,21 +1848,21 @@
             "id": "label0",
             "type": "text",
             "text": "an unpleasant dream",
-            "x": 90,
+            "x": 10,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "proposed disguise",
-            "x": 273,
+            "x": 195.14,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a limit for the theory",
-            "x": 276,
+            "x": 189.76,
             "y": 207
           }
         ]
@@ -1925,7 +1925,7 @@
             "id": "word",
             "type": "text",
             "text": "available",
-            "x": 286,
+            "x": 255.64,
             "y": 188,
             "motion": {
               "kind": "reveal",
@@ -1983,21 +1983,21 @@
             "id": "label0",
             "type": "text",
             "text": "approaching material",
-            "x": 109,
+            "x": 19.73,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "difficulty speaking",
-            "x": 279,
+            "x": 201.89,
             "y": 78
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the timing matters",
-            "x": 205,
+            "x": 126.81,
             "y": 224
           }
         ]
@@ -2030,21 +2030,21 @@
             "id": "label0",
             "type": "text",
             "text": "an objection",
-            "x": 116,
+            "x": 63.51,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "an interpretation",
-            "x": 282,
+            "x": 211.33,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "disagreement is not proof",
-            "x": 200,
+            "x": 91.12,
             "y": 217
           }
         ]
@@ -2105,14 +2105,14 @@
             "id": "one",
             "type": "text",
             "text": "approach",
-            "x": 99,
+            "x": 65.42,
             "y": 206
           },
           {
             "id": "two",
             "type": "text",
             "text": "avoid",
-            "x": 291,
+            "x": 272.15,
             "y": 206
           }
         ]
@@ -2157,21 +2157,21 @@
             "id": "label0",
             "type": "text",
             "text": "affection",
-            "x": 89,
+            "x": 51.44,
             "y": 90
           },
           {
             "id": "label1",
             "type": "text",
             "text": "hostility",
-            "x": 305,
+            "x": 271.38,
             "y": 90
           },
           {
             "id": "label2",
             "type": "text",
             "text": "one relationship",
-            "x": 201,
+            "x": 133.52,
             "y": 211
           }
         ]
@@ -2204,21 +2204,21 @@
             "id": "label0",
             "type": "text",
             "text": "mixed feelings",
-            "x": 116,
+            "x": 55.77,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "an either-or account",
-            "x": 282,
+            "x": 193.87,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "coexistence can be accurate",
-            "x": 200,
+            "x": 78.33,
             "y": 217
           }
         ]
@@ -2277,14 +2277,14 @@
             "id": "yes",
             "type": "text",
             "text": "one tendency",
-            "x": 285,
+            "x": 236.31,
             "y": 48
           },
           {
             "id": "no",
             "type": "text",
             "text": "another tendency",
-            "x": 280,
+            "x": 217.16,
             "y": 210
           }
         ]
@@ -2329,21 +2329,21 @@
             "id": "label0",
             "type": "text",
             "text": "one action",
-            "x": 90,
+            "x": 45.43,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "approach",
-            "x": 273,
+            "x": 232.77,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "avoidance",
-            "x": 276,
+            "x": 232.9,
             "y": 207
           }
         ]
@@ -2373,21 +2373,21 @@
             "id": "label0",
             "type": "text",
             "text": "closeness",
-            "x": 89,
+            "x": 47.16,
             "y": 90
           },
           {
             "id": "label1",
             "type": "text",
             "text": "dependence feared",
-            "x": 305,
+            "x": 222.16,
             "y": 90
           },
           {
             "id": "label2",
             "type": "text",
             "text": "two genuine tendencies",
-            "x": 201,
+            "x": 100.35,
             "y": 211
           }
         ]
@@ -2437,14 +2437,14 @@
             "id": "a",
             "type": "text",
             "text": "detail",
-            "x": 80,
+            "x": 60.42,
             "y": 191
           },
           {
             "id": "b",
             "type": "text",
             "text": "memory",
-            "x": 181,
+            "x": 151.73,
             "y": 85,
             "motion": {
               "kind": "reveal",
@@ -2456,7 +2456,7 @@
             "id": "c",
             "type": "text",
             "text": "another thought",
-            "x": 291,
+            "x": 233.9,
             "y": 191,
             "motion": {
               "kind": "reveal",
@@ -2512,21 +2512,21 @@
             "id": "label0",
             "type": "text",
             "text": "ordinary error",
-            "x": 99,
+            "x": 40.99,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "associations",
-            "x": 201,
+            "x": 148.39,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "proposed connection",
-            "x": 302,
+            "x": 208.38,
             "y": 85
           }
         ]
@@ -2556,21 +2556,21 @@
             "id": "label0",
             "type": "text",
             "text": "forgetting",
-            "x": 90,
+            "x": 48.91,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "attention mechanism",
-            "x": 273,
+            "x": 183.32,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "possible personal meaning",
-            "x": 276,
+            "x": 163.55,
             "y": 207
           }
         ]
@@ -2646,14 +2646,14 @@
             "id": "many",
             "type": "text",
             "text": "several thoughts",
-            "x": 102,
+            "x": 43.63,
             "y": 211
           },
           {
             "id": "one",
             "type": "text",
             "text": "one image",
-            "x": 279,
+            "x": 242.73,
             "y": 178,
             "motion": {
               "kind": "reveal",
@@ -2709,21 +2709,21 @@
             "id": "label0",
             "type": "text",
             "text": "several histories",
-            "x": 97,
+            "x": 28.98,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one pattern",
-            "x": 275,
+            "x": 225.55,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "relations can reinforce",
-            "x": 214,
+            "x": 119.91,
             "y": 219
           }
         ]
@@ -2756,21 +2756,21 @@
             "id": "label0",
             "type": "text",
             "text": "one connection",
-            "x": 116,
+            "x": 50.2,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the whole account",
-            "x": 282,
+            "x": 203.72,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "plausible is not exhaustive",
-            "x": 200,
+            "x": 89.63,
             "y": 217
           }
         ]
@@ -2837,14 +2837,14 @@
             "id": "before",
             "type": "text",
             "text": "an attachment",
-            "x": 105,
+            "x": 53.29,
             "y": 206
           },
           {
             "id": "after",
             "type": "text",
             "text": "a lasting pattern",
-            "x": 281,
+            "x": 223.76,
             "y": 212
           }
         ]
@@ -2892,21 +2892,21 @@
             "id": "label0",
             "type": "text",
             "text": "imagined event",
-            "x": 116,
+            "x": 51.52,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "external event",
-            "x": 282,
+            "x": 222.42,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "not the same kind of claim",
-            "x": 200,
+            "x": 88.44,
             "y": 217
           }
         ]
@@ -2938,21 +2938,21 @@
             "id": "label0",
             "type": "text",
             "text": "an imagined scene",
-            "x": 101,
+            "x": 22.12,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a present feeling",
-            "x": 294,
+            "x": 223.83,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a real psychological effect",
-            "x": 198,
+            "x": 88.14,
             "y": 61
           }
         ]
@@ -3015,7 +3015,7 @@
             "id": "word",
             "type": "text",
             "text": "available",
-            "x": 286,
+            "x": 255.64,
             "y": 188,
             "motion": {
               "kind": "reveal",
@@ -3071,21 +3071,21 @@
             "id": "label0",
             "type": "text",
             "text": "recent impression",
-            "x": 99,
+            "x": 22.8,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "association",
-            "x": 201,
+            "x": 152.96,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "dream element",
-            "x": 302,
+            "x": 238.12,
             "y": 85
           }
         ]
@@ -3115,21 +3115,21 @@
             "id": "label0",
             "type": "text",
             "text": "visible detail",
-            "x": 281,
+            "x": 228.43,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "recent concern",
-            "x": 111,
+            "x": 46.32,
             "y": 208
           },
           {
             "id": "label2",
             "type": "text",
             "text": "older connection",
-            "x": 287,
+            "x": 215.29,
             "y": 208
           }
         ]
@@ -3179,14 +3179,14 @@
             "id": "a",
             "type": "text",
             "text": "detail",
-            "x": 80,
+            "x": 60.42,
             "y": 191
           },
           {
             "id": "b",
             "type": "text",
             "text": "memory",
-            "x": 181,
+            "x": 151.73,
             "y": 85,
             "motion": {
               "kind": "reveal",
@@ -3198,7 +3198,7 @@
             "id": "c",
             "type": "text",
             "text": "another thought",
-            "x": 291,
+            "x": 233.9,
             "y": 191,
             "motion": {
               "kind": "reveal",
@@ -3254,21 +3254,21 @@
             "id": "label0",
             "type": "text",
             "text": "image detail",
-            "x": 99,
+            "x": 47.83,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "reported associations",
-            "x": 201,
+            "x": 108.82,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "an argued account",
-            "x": 302,
+            "x": 222.92,
             "y": 85
           }
         ]
@@ -3298,21 +3298,21 @@
             "id": "label0",
             "type": "text",
             "text": "one bridge",
-            "x": 90,
+            "x": 44.82,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a family memory",
-            "x": 273,
+            "x": 202.83,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a recent journey",
-            "x": 276,
+            "x": 207.23,
             "y": 207
           }
         ]
@@ -3378,7 +3378,7 @@
             "id": "label",
             "type": "text",
             "text": "another way through",
-            "x": 260,
+            "x": 187.29,
             "y": 215,
             "motion": {
               "kind": "reveal",
@@ -3436,21 +3436,21 @@
             "id": "label0",
             "type": "text",
             "text": "unacceptable wish",
-            "x": 109,
+            "x": 29.83,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "altered presentation",
-            "x": 279,
+            "x": 193.14,
             "y": 78
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a transformed route",
-            "x": 205,
+            "x": 120.49,
             "y": 224
           }
         ]
@@ -3486,21 +3486,21 @@
             "id": "label0",
             "type": "text",
             "text": "several transformations",
-            "x": 97,
+            "x": 10,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one scene",
-            "x": 275,
+            "x": 231.54,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "disguise is not one-to-one",
-            "x": 214,
+            "x": 101.04,
             "y": 219
           }
         ]
@@ -3560,14 +3560,14 @@
             "id": "surfaceword",
             "type": "text",
             "text": "remembered",
-            "x": 297,
+            "x": 251.48,
             "y": 76
           },
           {
             "id": "rootsword",
             "type": "text",
             "text": "associations",
-            "x": 110,
+            "x": 66.07,
             "y": 209,
             "motion": {
               "kind": "reveal",
@@ -3617,21 +3617,21 @@
             "id": "label0",
             "type": "text",
             "text": "a remembered dream",
-            "x": 281,
+            "x": 189.56,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "supported connection",
-            "x": 111,
+            "x": 16.75,
             "y": 208
           },
           {
             "id": "label2",
             "type": "text",
             "text": "unresolved network",
-            "x": 287,
+            "x": 204.48,
             "y": 208
           }
         ]
@@ -3664,21 +3664,21 @@
             "id": "label0",
             "type": "text",
             "text": "partial understanding",
-            "x": 116,
+            "x": 25.85,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "total explanation",
-            "x": 282,
+            "x": 211.78,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a limit can be named",
-            "x": 200,
+            "x": 111.91,
             "y": 217
           }
         ]
@@ -3744,7 +3744,7 @@
             "id": "label",
             "type": "text",
             "text": "another way through",
-            "x": 260,
+            "x": 187.29,
             "y": 215,
             "motion": {
               "kind": "reveal",
@@ -3802,21 +3802,21 @@
             "id": "label0",
             "type": "text",
             "text": "a demand",
-            "x": 109,
+            "x": 66.88,
             "y": 78
           },
           {
             "id": "label1",
             "type": "text",
             "text": "possible action",
-            "x": 279,
+            "x": 214.88,
             "y": 78
           },
           {
             "id": "label2",
             "type": "text",
             "text": "pressure meets regulation",
-            "x": 205,
+            "x": 95.12,
             "y": 224
           }
         ]
@@ -3847,21 +3847,21 @@
             "id": "label0",
             "type": "text",
             "text": "mental life",
-            "x": 202,
+            "x": 158.22,
             "y": 45
           },
           {
             "id": "label1",
             "type": "text",
             "text": "ego organization",
-            "x": 210,
+            "x": 140.71,
             "y": 97
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the division is functional",
-            "x": 203,
+            "x": 100.69,
             "y": 227
           }
         ]
@@ -3932,21 +3932,21 @@
             "id": "want",
             "type": "text",
             "text": "want",
-            "x": 76,
+            "x": 58.94,
             "y": 119
           },
           {
             "id": "world",
             "type": "text",
             "text": "world",
-            "x": 322,
+            "x": 302.62,
             "y": 119
           },
           {
             "id": "ought",
             "type": "text",
             "text": "ought",
-            "x": 205,
+            "x": 184.62,
             "y": 42
           }
         ]
@@ -3997,21 +3997,21 @@
             "id": "label0",
             "type": "text",
             "text": "wish, rule, world",
-            "x": 97,
+            "x": 30.8,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a response",
-            "x": 275,
+            "x": 228.7,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "several demands",
-            "x": 214,
+            "x": 142.6,
             "y": 219
           }
         ]
@@ -4042,21 +4042,21 @@
             "id": "label0",
             "type": "text",
             "text": "mental life",
-            "x": 202,
+            "x": 158.22,
             "y": 45
           },
           {
             "id": "label1",
             "type": "text",
             "text": "ego functions",
-            "x": 210,
+            "x": 152.63,
             "y": 97
           },
           {
             "id": "label2",
             "type": "text",
             "text": "some work stays unconscious",
-            "x": 203,
+            "x": 76.95,
             "y": 227
           }
         ]
@@ -4118,14 +4118,14 @@
             "id": "ideal",
             "type": "text",
             "text": "the demand",
-            "x": 287,
+            "x": 244.31,
             "y": 53
           },
           {
             "id": "person",
             "type": "text",
             "text": "the person",
-            "x": 266,
+            "x": 227.79,
             "y": 207
           }
         ]
@@ -4165,21 +4165,21 @@
             "id": "label0",
             "type": "text",
             "text": "the internal rule",
-            "x": 180,
+            "x": 113.75,
             "y": 42
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the person",
-            "x": 266,
+            "x": 220.24,
             "y": 160
           },
           {
             "id": "label2",
             "type": "text",
             "text": "authority can exceed reason",
-            "x": 187,
+            "x": 66.81,
             "y": 224
           }
         ]
@@ -4212,21 +4212,21 @@
             "id": "label0",
             "type": "text",
             "text": "a passing wish",
-            "x": 116,
+            "x": 55.03,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "an outward action",
-            "x": 282,
+            "x": 205.82,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "judgment may conflate them",
-            "x": 200,
+            "x": 78.11,
             "y": 217
           }
         ]
@@ -4254,49 +4254,61 @@
         "description": "A measuring line stays above a figure even as the figure tries to rise toward it.",
         "actors": [
           {
-            "id": "self",
+            "id": "actual",
             "type": "figure",
-            "x": 182,
-            "y": 153,
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 3
-            }
-          },
-          {
-            "id": "ruler",
-            "type": "path",
-            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 8
-            }
-          },
-          {
-            "id": "thread",
-            "type": "path",
-            "d": "M186 81 L187 107",
-            "tone": "faint"
+            "x": 130,
+            "y": 145,
+            "tone": "normal"
           },
           {
             "id": "ideal",
-            "type": "text",
-            "text": "the demand",
-            "x": 287,
-            "y": 53
+            "type": "figure",
+            "x": 275,
+            "y": 113,
+            "tone": "faint"
           },
           {
-            "id": "person",
+            "id": "comparison",
+            "type": "path",
+            "d": "M158 111 Q203 99 246 82",
+            "tone": "normal",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
+          },
+          {
+            "id": "standard",
+            "type": "path",
+            "d": "M238 45 L309 46",
+            "tone": "faint"
+          },
+          {
+            "id": "actual-label",
             "type": "text",
-            "text": "the person",
-            "x": 266,
-            "y": 207
+            "text": "actual",
+            "x": 104.2,
+            "y": 209
+          },
+          {
+            "id": "ideal-label",
+            "type": "text",
+            "text": "ideal",
+            "x": 253.5,
+            "y": 209
+          },
+          {
+            "id": "gap-label",
+            "type": "text",
+            "text": "a measuring relation",
+            "x": 119.0,
+            "y": 225,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 3
+            }
           }
         ]
       }
@@ -4335,21 +4347,21 @@
             "id": "label0",
             "type": "text",
             "text": "an ideal image",
-            "x": 180,
+            "x": 119.65,
             "y": 42
           },
           {
             "id": "label1",
             "type": "text",
             "text": "actual experience",
-            "x": 266,
+            "x": 191.16,
             "y": 160
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the measuring relation",
-            "x": 187,
+            "x": 92.73,
             "y": 224
           }
         ]
@@ -4379,21 +4391,21 @@
             "id": "label0",
             "type": "text",
             "text": "one standard",
-            "x": 90,
+            "x": 34.19,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "guides effort",
-            "x": 273,
+            "x": 219.15,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "makes limits shameful",
-            "x": 276,
+            "x": 183.12,
             "y": 207
           }
         ]
@@ -4454,7 +4466,7 @@
             "id": "label",
             "type": "text",
             "text": "part of a larger field",
-            "x": 204,
+            "x": 135.04,
             "y": 224,
             "motion": {
               "kind": "reveal",
@@ -4505,21 +4517,21 @@
             "id": "label0",
             "type": "text",
             "text": "mental life",
-            "x": 202,
+            "x": 158.22,
             "y": 45
           },
           {
             "id": "label1",
             "type": "text",
             "text": "ego organization",
-            "x": 210,
+            "x": 140.71,
             "y": 97
           },
           {
             "id": "label2",
             "type": "text",
             "text": "awareness is another dimension",
-            "x": 203,
+            "x": 68.05,
             "y": 227
           }
         ]
@@ -4552,21 +4564,21 @@
             "id": "label0",
             "type": "text",
             "text": "which function?",
-            "x": 116,
+            "x": 49.07,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "available to awareness?",
-            "x": 282,
+            "x": 182.97,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "two different questions",
-            "x": 200,
+            "x": 101.79,
             "y": 217
           }
         ]
@@ -4629,7 +4641,7 @@
             "id": "word",
             "type": "text",
             "text": "available",
-            "x": 286,
+            "x": 255.64,
             "y": 188,
             "motion": {
               "kind": "reveal",
@@ -4685,21 +4697,21 @@
             "id": "label0",
             "type": "text",
             "text": "not attended",
-            "x": 99,
+            "x": 43.83,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a prompt",
-            "x": 201,
+            "x": 162.23,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "recalled",
-            "x": 302,
+            "x": 268.57,
             "y": 85
           }
         ]
@@ -4732,21 +4744,21 @@
             "id": "label0",
             "type": "text",
             "text": "available material",
-            "x": 116,
+            "x": 43.11,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "defended-against material",
-            "x": 282,
+            "x": 165.09,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "unnoticed does not mean repressed",
-            "x": 200,
+            "x": 46.97,
             "y": 217
           }
         ]
@@ -4807,7 +4819,7 @@
             "id": "label",
             "type": "text",
             "text": "part of a larger field",
-            "x": 204,
+            "x": 135.04,
             "y": 224,
             "motion": {
               "kind": "reveal",
@@ -4858,21 +4870,21 @@
             "id": "label0",
             "type": "text",
             "text": "bodily field",
-            "x": 202,
+            "x": 155.44,
             "y": 45
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a sensed boundary",
-            "x": 210,
+            "x": 129.28,
             "y": 97
           },
           {
             "id": "label2",
             "type": "text",
             "text": "inside and outside",
-            "x": 203,
+            "x": 125.44,
             "y": 227
           }
         ]
@@ -4904,21 +4916,21 @@
             "id": "label0",
             "type": "text",
             "text": "the body sensed",
-            "x": 101,
+            "x": 30.01,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the sensing body",
-            "x": 294,
+            "x": 221.37,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a double position",
-            "x": 198,
+            "x": 124.79,
             "y": 61
           }
         ]
@@ -4985,14 +4997,14 @@
             "id": "before",
             "type": "text",
             "text": "an attachment",
-            "x": 105,
+            "x": 53.29,
             "y": 206
           },
           {
             "id": "after",
             "type": "text",
             "text": "a lasting pattern",
-            "x": 281,
+            "x": 223.76,
             "y": 212
           }
         ]
@@ -5039,21 +5051,21 @@
             "id": "label0",
             "type": "text",
             "text": "an earlier attachment",
-            "x": 101,
+            "x": 10.33,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a later pattern",
-            "x": 294,
+            "x": 234.05,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "something is taken in",
-            "x": 198,
+            "x": 109.02,
             "y": 61
           }
         ]
@@ -5089,21 +5101,21 @@
             "id": "label0",
             "type": "text",
             "text": "several identifications",
-            "x": 97,
+            "x": 10,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one developing ego",
-            "x": 275,
+            "x": 192.95,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the traces can conflict",
-            "x": 214,
+            "x": 118.73,
             "y": 219
           }
         ]
@@ -5131,49 +5143,54 @@
         "description": "A figure sits beneath a descending measure; the name of the supposed offense never appears.",
         "actors": [
           {
-            "id": "self",
+            "id": "person",
             "type": "figure",
-            "x": 182,
-            "y": 153,
+            "x": 201,
+            "y": 148,
             "tone": "normal",
             "motion": {
               "kind": "drift",
               "duration": 14,
               "delay": 0,
-              "y": 3
+              "y": 4
             }
           },
           {
-            "id": "ruler",
+            "id": "weight",
             "type": "path",
-            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
-            "tone": "normal",
+            "d": "M163 46 Q200 36 238 45 L230 76 L172 76 Z",
+            "tone": "shade",
             "motion": {
               "kind": "drift",
               "duration": 14,
               "delay": 0,
-              "y": 8
+              "y": 11
             }
           },
           {
             "id": "thread",
             "type": "path",
-            "d": "M186 81 L187 107",
+            "d": "M201 77 L202 109",
             "tone": "faint"
           },
           {
-            "id": "ideal",
+            "id": "penalty",
             "type": "text",
-            "text": "the demand",
-            "x": 287,
-            "y": 53
+            "text": "punishment",
+            "x": 159.0,
+            "y": 205
           },
           {
-            "id": "person",
+            "id": "question",
             "type": "text",
-            "text": "the person",
-            "x": 266,
-            "y": 207
+            "text": "for what?",
+            "x": 248.3,
+            "y": 96,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 3
+            }
           }
         ]
       }
@@ -5212,21 +5229,21 @@
             "id": "label0",
             "type": "text",
             "text": "an inferred demand",
-            "x": 180,
+            "x": 97.26,
             "y": 42
           },
           {
             "id": "label1",
             "type": "text",
             "text": "felt punishment",
-            "x": 266,
+            "x": 199.74,
             "y": 160
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the accusation is unclear",
-            "x": 187,
+            "x": 81.48,
             "y": 224
           }
         ]
@@ -5259,21 +5276,21 @@
             "id": "label0",
             "type": "text",
             "text": "conscious remorse",
-            "x": 116,
+            "x": 35.73,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "proposed unconscious guilt",
-            "x": 282,
+            "x": 155.81,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "different access to the reason",
-            "x": 200,
+            "x": 73.07,
             "y": 217
           }
         ]
@@ -5344,21 +5361,21 @@
             "id": "want",
             "type": "text",
             "text": "want",
-            "x": 76,
+            "x": 58.94,
             "y": 119
           },
           {
             "id": "world",
             "type": "text",
             "text": "world",
-            "x": 322,
+            "x": 302.62,
             "y": 119
           },
           {
             "id": "ought",
             "type": "text",
             "text": "ought",
-            "x": 205,
+            "x": 184.62,
             "y": 42
           }
         ]
@@ -5409,21 +5426,21 @@
             "id": "label0",
             "type": "text",
             "text": "three demands",
-            "x": 97,
+            "x": 32.92,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one choice",
-            "x": 275,
+            "x": 228.46,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "agreement is not guaranteed",
-            "x": 214,
+            "x": 92.13,
             "y": 219
           }
         ]
@@ -5456,21 +5473,21 @@
             "id": "label0",
             "type": "text",
             "text": "a workable response",
-            "x": 116,
+            "x": 29.35,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "complete satisfaction",
-            "x": 282,
+            "x": 190.51,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "one need not imply the other",
-            "x": 200,
+            "x": 77.24,
             "y": 217
           }
         ]
@@ -5520,14 +5537,14 @@
             "id": "a",
             "type": "text",
             "text": "detail",
-            "x": 80,
+            "x": 60.42,
             "y": 191
           },
           {
             "id": "b",
             "type": "text",
             "text": "memory",
-            "x": 181,
+            "x": 151.73,
             "y": 85,
             "motion": {
               "kind": "reveal",
@@ -5539,7 +5556,7 @@
             "id": "c",
             "type": "text",
             "text": "another thought",
-            "x": 291,
+            "x": 233.9,
             "y": 191,
             "motion": {
               "kind": "reveal",
@@ -5595,21 +5612,21 @@
             "id": "label0",
             "type": "text",
             "text": "a detail",
-            "x": 99,
+            "x": 68.17,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "uncensored report",
-            "x": 201,
+            "x": 122.19,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "connections explored",
-            "x": 302,
+            "x": 207.47,
             "y": 85
           }
         ]
@@ -5639,21 +5656,21 @@
             "id": "label0",
             "type": "text",
             "text": "a dismissed thought",
-            "x": 90,
+            "x": 10,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "possible relation",
-            "x": 273,
+            "x": 203.65,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "uncertain significance",
-            "x": 276,
+            "x": 183.33,
             "y": 207
           }
         ]
@@ -5716,14 +5733,14 @@
             "id": "old",
             "type": "text",
             "text": "an earlier relation",
-            "x": 285,
+            "x": 224.07,
             "y": 43
           },
           {
             "id": "new",
             "type": "text",
             "text": "the present person",
-            "x": 277,
+            "x": 209.54,
             "y": 211,
             "motion": {
               "kind": "reveal",
@@ -5775,21 +5792,21 @@
             "id": "label0",
             "type": "text",
             "text": "earlier expectation",
-            "x": 101,
+            "x": 22.13,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "present encounter",
-            "x": 294,
+            "x": 215.65,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a relation returns",
-            "x": 198,
+            "x": 126.41,
             "y": 61
           }
         ]
@@ -5822,21 +5839,21 @@
             "id": "label0",
             "type": "text",
             "text": "the historical pattern",
-            "x": 116,
+            "x": 27.47,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "current conduct",
-            "x": 282,
+            "x": 213.31,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "both require attention",
-            "x": 200,
+            "x": 107.0,
             "y": 217
           }
         ]
@@ -5903,7 +5920,7 @@
             "id": "space",
             "type": "text",
             "text": "between two people",
-            "x": 200,
+            "x": 127.99,
             "y": 211,
             "motion": {
               "kind": "reveal",
@@ -5953,21 +5970,21 @@
             "id": "label0",
             "type": "text",
             "text": "one attachment",
-            "x": 90,
+            "x": 22.47,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "supports speaking",
-            "x": 273,
+            "x": 195.11,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "shapes concealment",
-            "x": 276,
+            "x": 188.26,
             "y": 207
           }
         ]
@@ -5999,21 +6016,21 @@
             "id": "label0",
             "type": "text",
             "text": "the speaker",
-            "x": 101,
+            "x": 51.48,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the listener",
-            "x": 294,
+            "x": 246.63,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the channel becomes material",
-            "x": 198,
+            "x": 70.41,
             "y": 61
           }
         ]
@@ -6080,7 +6097,7 @@
             "id": "space",
             "type": "text",
             "text": "between two people",
-            "x": 200,
+            "x": 127.99,
             "y": 211,
             "motion": {
               "kind": "reveal",
@@ -6132,21 +6149,21 @@
             "id": "label0",
             "type": "text",
             "text": "trust in a person",
-            "x": 101,
+            "x": 31.84,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "belief in an account",
-            "x": 294,
+            "x": 211.02,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "influence participates",
-            "x": 198,
+            "x": 106.18,
             "y": 61
           }
         ]
@@ -6179,21 +6196,21 @@
             "id": "label0",
             "type": "text",
             "text": "agreement through trust",
-            "x": 116,
+            "x": 12.57,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "work on the relation",
-            "x": 282,
+            "x": 198.41,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the mechanisms can overlap",
-            "x": 200,
+            "x": 79.2,
             "y": 217
           }
         ]
@@ -6273,7 +6290,7 @@
             "id": "story",
             "type": "text",
             "text": "a story, afterwards",
-            "x": 200,
+            "x": 135.03,
             "y": 228,
             "motion": {
               "kind": "reveal",
@@ -6329,21 +6346,21 @@
             "id": "label0",
             "type": "text",
             "text": "reported material",
-            "x": 133,
+            "x": 59.38,
             "y": 55
           },
           {
             "id": "label1",
             "type": "text",
             "text": "offered connection",
-            "x": 259,
+            "x": 178.31,
             "y": 55
           },
           {
             "id": "label2",
             "type": "text",
             "text": "an account can be revised",
-            "x": 198,
+            "x": 86.56,
             "y": 220
           }
         ]
@@ -6376,21 +6393,21 @@
             "id": "label0",
             "type": "text",
             "text": "understanding words",
-            "x": 116,
+            "x": 27.04,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "approaching the conflict",
-            "x": 282,
+            "x": 178.59,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "different parts of the work",
-            "x": 200,
+            "x": 89.29,
             "y": 217
           }
         ]
@@ -6466,14 +6483,14 @@
             "id": "many",
             "type": "text",
             "text": "several thoughts",
-            "x": 102,
+            "x": 43.63,
             "y": 211
           },
           {
             "id": "one",
             "type": "text",
             "text": "one image",
-            "x": 279,
+            "x": 242.73,
             "y": 178,
             "motion": {
               "kind": "reveal",
@@ -6529,21 +6546,21 @@
             "id": "label0",
             "type": "text",
             "text": "several details",
-            "x": 97,
+            "x": 36.88,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "no early favorite",
-            "x": 275,
+            "x": 207.1,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "significance can arrive later",
-            "x": 214,
+            "x": 98.68,
             "y": 219
           }
         ]
@@ -6573,21 +6590,21 @@
             "id": "label0",
             "type": "text",
             "text": "one expectation",
-            "x": 90,
+            "x": 21.67,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "selected evidence",
-            "x": 273,
+            "x": 195.86,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "what was overlooked",
-            "x": 276,
+            "x": 188.13,
             "y": 207
           }
         ]
@@ -6650,14 +6667,14 @@
             "id": "old",
             "type": "text",
             "text": "an earlier relation",
-            "x": 285,
+            "x": 224.07,
             "y": 43
           },
           {
             "id": "new",
             "type": "text",
             "text": "the present person",
-            "x": 277,
+            "x": 209.54,
             "y": 211,
             "motion": {
               "kind": "reveal",
@@ -6709,21 +6726,21 @@
             "id": "label0",
             "type": "text",
             "text": "the speaker's history",
-            "x": 101,
+            "x": 13.91,
             "y": 207
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the listener's history",
-            "x": 294,
+            "x": 209.06,
             "y": 207
           },
           {
             "id": "label2",
             "type": "text",
             "text": "both enter the encounter",
-            "x": 198,
+            "x": 91.31,
             "y": 61
           }
         ]
@@ -6753,21 +6770,21 @@
             "id": "label0",
             "type": "text",
             "text": "reported anger",
-            "x": 90,
+            "x": 26.88,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "what is heard",
-            "x": 273,
+            "x": 216.61,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "what is translated away",
-            "x": 276,
+            "x": 177.05,
             "y": 207
           }
         ]
@@ -6795,49 +6812,67 @@
         "description": "A measuring line appears over a person, then shifts aside to reveal the person's own available space.",
         "actors": [
           {
-            "id": "self",
+            "id": "helper",
             "type": "figure",
-            "x": 182,
-            "y": 153,
-            "tone": "normal",
-            "motion": {
-              "kind": "drift",
-              "duration": 14,
-              "delay": 0,
-              "y": 3
-            }
+            "x": 100,
+            "y": 144,
+            "tone": "normal"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 277,
+            "y": 144,
+            "tone": "normal"
           },
           {
             "id": "ruler",
             "type": "path",
-            "d": "M99 68 L282 70 M120 62 L120 77 M153 61 L153 78 M189 62 L189 78 M224 61 L224 78 M259 63 L259 76",
+            "d": "M137 67 L305 66 M156 60 L156 73 M197 59 L197 75 M239 59 L239 74 M280 60 L280 74",
             "tone": "normal",
             "motion": {
-              "kind": "drift",
+              "kind": "turn",
               "duration": 14,
               "delay": 0,
-              "y": 8
+              "angle": 10
             }
           },
           {
-            "id": "thread",
+            "id": "imposed",
             "type": "path",
-            "d": "M186 81 L187 107",
-            "tone": "faint"
+            "d": "M125 118 Q193 103 252 103",
+            "tone": "faint",
+            "motion": {
+              "kind": "draw",
+              "duration": 14,
+              "delay": 0
+            }
           },
           {
-            "id": "ideal",
+            "id": "helper-label",
             "type": "text",
-            "text": "the demand",
-            "x": 287,
-            "y": 53
+            "text": "the helper",
+            "x": 57.0,
+            "y": 213
           },
           {
-            "id": "person",
+            "id": "person-label",
             "type": "text",
             "text": "the person",
-            "x": 266,
-            "y": 207
+            "x": 238.79,
+            "y": 213
+          },
+          {
+            "id": "ideal-label",
+            "type": "text",
+            "text": "whose ideal?",
+            "x": 155.4,
+            "y": 44,
+            "motion": {
+              "kind": "reveal",
+              "duration": 14,
+              "delay": 3
+            }
           }
         ]
       }
@@ -6876,21 +6911,21 @@
             "id": "label0",
             "type": "text",
             "text": "the helper's ideal",
-            "x": 180,
+            "x": 108.41,
             "y": 42
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the person's life",
-            "x": 266,
+            "x": 199.84,
             "y": 160
           },
           {
             "id": "label2",
             "type": "text",
             "text": "whose standard governs?",
-            "x": 187,
+            "x": 79.8,
             "y": 224
           }
         ]
@@ -6923,21 +6958,21 @@
             "id": "label0",
             "type": "text",
             "text": "available enjoyment",
-            "x": 116,
+            "x": 32.48,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "impressive achievement",
-            "x": 282,
+            "x": 179.88,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "help need not make a monument",
-            "x": 200,
+            "x": 61.18,
             "y": 217
           }
         ]
@@ -6968,21 +7003,11 @@
             "id": "cycle",
             "type": "path",
             "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
-            "tone": "faint"
-          },
-          {
-            "id": "repeat",
-            "type": "circle",
-            "x": 145,
-            "y": 65,
-            "r": 7,
             "tone": "normal",
             "motion": {
-              "kind": "travel",
+              "kind": "draw",
               "duration": 14,
-              "delay": 0,
-              "x": 100,
-              "y": 119
+              "delay": 0
             }
           },
           {
@@ -7000,7 +7025,7 @@
             "id": "again",
             "type": "text",
             "text": "again",
-            "x": 200,
+            "x": 181.35,
             "y": 119,
             "motion": {
               "kind": "reveal",
@@ -7012,7 +7037,7 @@
             "id": "change",
             "type": "text",
             "text": "notice the pattern",
-            "x": 203,
+            "x": 138.97,
             "y": 224,
             "motion": {
               "kind": "reveal",
@@ -7056,21 +7081,21 @@
             "id": "label0",
             "type": "text",
             "text": "an earlier pattern",
-            "x": 200,
+            "x": 127.41,
             "y": 109
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a present enactment",
-            "x": 199,
+            "x": 110.64,
             "y": 137
           },
           {
             "id": "label2",
             "type": "text",
             "text": "not yet recognized as repetition",
-            "x": 209,
+            "x": 75.01,
             "y": 228
           }
         ]
@@ -7106,21 +7131,21 @@
             "id": "label0",
             "type": "text",
             "text": "enactment",
-            "x": 99,
+            "x": 53.05,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "recognition",
-            "x": 201,
+            "x": 153.39,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "continued examination",
-            "x": 302,
+            "x": 197.29,
             "y": 85
           }
         ]
@@ -7151,21 +7176,11 @@
             "id": "cycle",
             "type": "path",
             "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
-            "tone": "faint"
-          },
-          {
-            "id": "repeat",
-            "type": "circle",
-            "x": 145,
-            "y": 65,
-            "r": 7,
             "tone": "normal",
             "motion": {
-              "kind": "travel",
+              "kind": "draw",
               "duration": 14,
-              "delay": 0,
-              "x": 100,
-              "y": 119
+              "delay": 0
             }
           },
           {
@@ -7183,7 +7198,7 @@
             "id": "again",
             "type": "text",
             "text": "again",
-            "x": 200,
+            "x": 181.35,
             "y": 119,
             "motion": {
               "kind": "reveal",
@@ -7195,7 +7210,7 @@
             "id": "change",
             "type": "text",
             "text": "notice the pattern",
-            "x": 203,
+            "x": 138.97,
             "y": 224,
             "motion": {
               "kind": "reveal",
@@ -7239,21 +7254,21 @@
             "id": "label0",
             "type": "text",
             "text": "the known pattern",
-            "x": 200,
+            "x": 122.75,
             "y": 109
           },
           {
             "id": "label1",
             "type": "text",
             "text": "its return",
-            "x": 199,
+            "x": 160.65,
             "y": 137
           },
           {
             "id": "label2",
             "type": "text",
             "text": "knowledge does not remove force",
-            "x": 209,
+            "x": 66.34,
             "y": 228
           }
         ]
@@ -7289,21 +7304,21 @@
             "id": "label0",
             "type": "text",
             "text": "recognition",
-            "x": 99,
+            "x": 51.39,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "renewed resistance",
-            "x": 201,
+            "x": 118.82,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "work over time",
-            "x": 302,
+            "x": 239.77,
             "y": 85
           }
         ]
@@ -7346,14 +7361,14 @@
             "id": "before",
             "type": "text",
             "text": "tension",
-            "x": 113,
+            "x": 86.98,
             "y": 194
           },
           {
             "id": "after",
             "type": "text",
             "text": "relief",
-            "x": 286,
+            "x": 268.57,
             "y": 194,
             "motion": {
               "kind": "reveal",
@@ -7409,21 +7424,21 @@
             "id": "label0",
             "type": "text",
             "text": "unpleasant tension",
-            "x": 99,
+            "x": 18.82,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "possible discharge",
-            "x": 201,
+            "x": 122.12,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "relief",
-            "x": 302,
+            "x": 281.14,
             "y": 85
           }
         ]
@@ -7453,21 +7468,21 @@
             "id": "label0",
             "type": "text",
             "text": "a recurring process",
-            "x": 90,
+            "x": 10,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "seeks satisfaction",
-            "x": 273,
+            "x": 197.74,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "repeats distress",
-            "x": 276,
+            "x": 208.07,
             "y": 207
           }
         ]
@@ -7533,7 +7548,7 @@
             "id": "label",
             "type": "text",
             "text": "another way through",
-            "x": 260,
+            "x": 187.29,
             "y": 215,
             "motion": {
               "kind": "reveal",
@@ -7594,21 +7609,21 @@
             "id": "label0",
             "type": "text",
             "text": "a desire",
-            "x": 100,
+            "x": 66.66,
             "y": 211
           },
           {
             "id": "label1",
             "type": "text",
             "text": "later satisfaction",
-            "x": 285,
+            "x": 214.65,
             "y": 211
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a route shaped by reality",
-            "x": 203,
+            "x": 98.04,
             "y": 59
           }
         ]
@@ -7641,21 +7656,21 @@
             "id": "label0",
             "type": "text",
             "text": "postponement",
-            "x": 116,
+            "x": 53.56,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "renunciation",
-            "x": 282,
+            "x": 229.42,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the aim may remain",
-            "x": 200,
+            "x": 116.78,
             "y": 217
           }
         ]
@@ -7714,7 +7729,7 @@
             "id": "outside",
             "type": "text",
             "text": "too much, too quickly",
-            "x": 199,
+            "x": 122.89,
             "y": 225,
             "motion": {
               "kind": "reveal",
@@ -7758,21 +7773,21 @@
             "id": "label0",
             "type": "text",
             "text": "an overwhelming scene",
-            "x": 200,
+            "x": 101.49,
             "y": 109
           },
           {
             "id": "label1",
             "type": "text",
             "text": "its return in a dream",
-            "x": 199,
+            "x": 113.87,
             "y": 137
           },
           {
             "id": "label2",
             "type": "text",
             "text": "repetition creates a problem",
-            "x": 209,
+            "x": 88.71,
             "y": 228
           }
         ]
@@ -7805,21 +7820,21 @@
             "id": "label0",
             "type": "text",
             "text": "observed recurrence",
-            "x": 116,
+            "x": 27.9,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "proposed binding",
-            "x": 282,
+            "x": 207.53,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the mechanism is inferred",
-            "x": 200,
+            "x": 90.35,
             "y": 217
           }
         ]
@@ -7888,7 +7903,7 @@
             "id": "gone",
             "type": "text",
             "text": "gone",
-            "x": 284,
+            "x": 266.8,
             "y": 84,
             "motion": {
               "kind": "reveal",
@@ -7900,7 +7915,7 @@
             "id": "back",
             "type": "text",
             "text": "back",
-            "x": 192,
+            "x": 175.0,
             "y": 211,
             "motion": {
               "kind": "reveal",
@@ -7959,21 +7974,21 @@
             "id": "label0",
             "type": "text",
             "text": "the child",
-            "x": 103,
+            "x": 66.26,
             "y": 217
           },
           {
             "id": "label1",
             "type": "text",
             "text": "the object",
-            "x": 281,
+            "x": 237.52,
             "y": 217
           },
           {
             "id": "label2",
             "type": "text",
             "text": "sending away and retrieving",
-            "x": 196,
+            "x": 78.59,
             "y": 45
           }
         ]
@@ -8006,21 +8021,21 @@
             "id": "label0",
             "type": "text",
             "text": "absence undergone",
-            "x": 116,
+            "x": 32.46,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "absence performed",
-            "x": 282,
+            "x": 198.82,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the relation to agency changes",
-            "x": 200,
+            "x": 70.16,
             "y": 217
           }
         ]
@@ -8051,21 +8066,11 @@
             "id": "cycle",
             "type": "path",
             "d": "M146 61 Q239 42 281 106 Q316 164 241 192 Q155 211 120 143 Q98 85 146 61",
-            "tone": "faint"
-          },
-          {
-            "id": "repeat",
-            "type": "circle",
-            "x": 145,
-            "y": 65,
-            "r": 7,
             "tone": "normal",
             "motion": {
-              "kind": "travel",
+              "kind": "draw",
               "duration": 14,
-              "delay": 0,
-              "x": 100,
-              "y": 119
+              "delay": 0
             }
           },
           {
@@ -8083,7 +8088,7 @@
             "id": "again",
             "type": "text",
             "text": "again",
-            "x": 200,
+            "x": 181.35,
             "y": 119,
             "motion": {
               "kind": "reveal",
@@ -8095,7 +8100,7 @@
             "id": "change",
             "type": "text",
             "text": "notice the pattern",
-            "x": 203,
+            "x": 138.97,
             "y": 224,
             "motion": {
               "kind": "reveal",
@@ -8139,21 +8144,21 @@
             "id": "label0",
             "type": "text",
             "text": "a familiar relation",
-            "x": 200,
+            "x": 127.83,
             "y": 109
           },
           {
             "id": "label1",
             "type": "text",
             "text": "another occasion",
-            "x": 199,
+            "x": 125.78,
             "y": 137
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a form recurs",
-            "x": 209,
+            "x": 152.73,
             "y": 228
           }
         ]
@@ -8186,21 +8191,21 @@
             "id": "label0",
             "type": "text",
             "text": "the pattern observed",
-            "x": 116,
+            "x": 26.3,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a drive hypothesized",
-            "x": 282,
+            "x": 194.4,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "repetition alone does not prove it",
-            "x": 200,
+            "x": 59.44,
             "y": 217
           }
         ]
@@ -8264,7 +8269,7 @@
             "id": "word",
             "type": "text",
             "text": "bound into a pattern",
-            "x": 247,
+            "x": 174.36,
             "y": 216,
             "motion": {
               "kind": "reveal",
@@ -8308,21 +8313,21 @@
             "id": "label0",
             "type": "text",
             "text": "unbound movement",
-            "x": 105,
+            "x": 20.01,
             "y": 56
           },
           {
             "id": "label1",
             "type": "text",
             "text": "linked pattern",
-            "x": 259,
+            "x": 200.71,
             "y": 42
           },
           {
             "id": "label2",
             "type": "text",
             "text": "organization precedes regulation",
-            "x": 207,
+            "x": 68.95,
             "y": 227
           }
         ]
@@ -8358,21 +8363,21 @@
             "id": "label0",
             "type": "text",
             "text": "overwhelming input",
-            "x": 99,
+            "x": 16.51,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "binding proposed",
-            "x": 201,
+            "x": 126.53,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "ordinary regulation",
-            "x": 302,
+            "x": 222.62,
             "y": 85
           }
         ]
@@ -8431,7 +8436,7 @@
             "id": "outside",
             "type": "text",
             "text": "too much, too quickly",
-            "x": 199,
+            "x": 122.89,
             "y": 225,
             "motion": {
               "kind": "reveal",
@@ -8482,21 +8487,21 @@
             "id": "label0",
             "type": "text",
             "text": "a protected field",
-            "x": 202,
+            "x": 132.04,
             "y": 45
           },
           {
             "id": "label1",
             "type": "text",
             "text": "limited reception",
-            "x": 210,
+            "x": 138.13,
             "y": 97
           },
           {
             "id": "label2",
             "type": "text",
             "text": "contact and capacity",
-            "x": 203,
+            "x": 112.52,
             "y": 227
           }
         ]
@@ -8529,21 +8534,21 @@
             "id": "label0",
             "type": "text",
             "text": "external stimulation",
-            "x": 116,
+            "x": 33.22,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "internal pressure",
-            "x": 282,
+            "x": 211.2,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "not equally escapable",
-            "x": 200,
+            "x": 107.58,
             "y": 217
           }
         ]
@@ -8571,49 +8576,99 @@
         "description": "A once-connected mesh is shown with several threads drawing back into isolated strands.",
         "actors": [
           {
-            "id": "surge",
+            "id": "link1",
             "type": "path",
-            "d": "M62 134 Q89 86 111 136 Q141 191 166 128 Q185 96 210 132",
-            "tone": "normal",
-            "motion": {
-              "kind": "draw",
-              "duration": 16,
-              "delay": 0
-            }
-          },
-          {
-            "id": "mesh1",
-            "type": "path",
-            "d": "M200 66 L300 183 M220 56 L321 173 M197 109 L266 190 M201 174 L298 74 M211 190 L317 91 M194 149 L277 65",
+            "d": "M140 109 Q199 128 256 109",
             "tone": "faint",
             "motion": {
-              "kind": "reveal",
+              "kind": "stretch",
               "duration": 16,
-              "delay": 3
+              "delay": 0,
+              "scale": 0.12
             }
           },
           {
-            "id": "held",
+            "id": "link2",
             "type": "path",
-            "d": "M217 126 Q240 97 255 128 Q280 153 294 125",
+            "d": "M149 163 Q200 140 249 163",
+            "tone": "faint",
+            "motion": {
+              "kind": "stretch",
+              "duration": 16,
+              "delay": 0,
+              "scale": 0.12
+            }
+          },
+          {
+            "id": "left-upper",
+            "type": "path",
+            "d": "M140 109 L131 77 L168 64",
             "tone": "normal",
             "motion": {
-              "kind": "draw",
+              "kind": "travel",
               "duration": 16,
-              "delay": 6
+              "delay": 0,
+              "x": -24,
+              "y": -9
             }
           },
           {
-            "id": "word",
+            "id": "right-upper",
+            "type": "path",
+            "d": "M256 109 L263 76 L229 64",
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": 24,
+              "y": -9
+            }
+          },
+          {
+            "id": "left-lower",
+            "type": "path",
+            "d": "M149 163 L139 192 L178 197",
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": -24,
+              "y": 7
+            }
+          },
+          {
+            "id": "right-lower",
+            "type": "path",
+            "d": "M249 163 L257 192 L224 197",
+            "tone": "normal",
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "delay": 0,
+              "x": 24,
+              "y": 7
+            }
+          },
+          {
+            "id": "meaning",
             "type": "text",
-            "text": "bound into a pattern",
-            "x": 247,
-            "y": 216,
+            "text": "unbinding",
+            "x": 164.3,
+            "y": 224,
             "motion": {
               "kind": "reveal",
               "duration": 16,
-              "delay": 8
+              "delay": 2
             }
+          },
+          {
+            "id": "status",
+            "type": "text",
+            "text": "a hypothesis",
+            "x": 150.4,
+            "y": 40
           }
         ]
       }
@@ -8633,40 +8688,52 @@
     ],
     "readingArt": [
       {
-        "description": "connections present / undoing proposed / a speculative direction",
+        "description": "The death-drive hypothesis proposes a direction of unbinding, rather than proving itself through repetition.",
         "actors": [
           {
-            "id": "loose",
+            "id": "connected",
             "type": "path",
-            "d": "M72 130 Q101 78 122 137 Q146 180 165 126",
-            "tone": "normal"
-          },
-          {
-            "id": "web",
-            "type": "path",
-            "d": "M198 70 L290 180 M220 59 L314 174 M192 118 L255 190 M201 167 L288 72 M209 190 L311 90 M193 143 L268 62",
+            "d": "M67 92 L148 166 M82 173 L149 88 M69 128 L150 128",
             "tone": "faint"
           },
           {
-            "id": "label0",
-            "type": "text",
-            "text": "connections present",
-            "x": 105,
-            "y": 56
+            "id": "direction",
+            "type": "path",
+            "d": "M172 126 L218 126 M210 120 L218 126 L210 132",
+            "tone": "normal"
           },
           {
-            "id": "label1",
-            "type": "text",
-            "text": "undoing proposed",
-            "x": 259,
-            "y": 42
+            "id": "fragment1",
+            "type": "path",
+            "d": "M254 94 L276 106 M296 122 L319 141",
+            "tone": "normal"
           },
           {
-            "id": "label2",
+            "id": "fragment2",
+            "type": "path",
+            "d": "M251 162 L270 146 M299 104 L318 88",
+            "tone": "normal"
+          },
+          {
+            "id": "bound",
             "type": "text",
-            "text": "a speculative direction",
-            "x": 207,
-            "y": 227
+            "text": "connected",
+            "x": 71.3,
+            "y": 63
+          },
+          {
+            "id": "apart",
+            "type": "text",
+            "text": "unbound",
+            "x": 255.9,
+            "y": 63
+          },
+          {
+            "id": "hypothesis",
+            "type": "text",
+            "text": "a proposed tendency",
+            "x": 119.3,
+            "y": 211
           }
         ]
       },
@@ -8698,21 +8765,21 @@
             "id": "label0",
             "type": "text",
             "text": "repetition observed",
-            "x": 116,
+            "x": 32.76,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "death drive inferred",
-            "x": 282,
+            "x": 198.71,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "a substantial theoretical step",
-            "x": 200,
+            "x": 77.19,
             "y": 217
           }
         ]
@@ -8788,14 +8855,14 @@
             "id": "many",
             "type": "text",
             "text": "several thoughts",
-            "x": 102,
+            "x": 43.63,
             "y": 211
           },
           {
             "id": "one",
             "type": "text",
             "text": "one image",
-            "x": 279,
+            "x": 242.73,
             "y": 178,
             "motion": {
               "kind": "reveal",
@@ -8851,21 +8918,21 @@
             "id": "label0",
             "type": "text",
             "text": "separate units",
-            "x": 97,
+            "x": 36.65,
             "y": 44
           },
           {
             "id": "label1",
             "type": "text",
             "text": "a larger relation",
-            "x": 275,
+            "x": 209.87,
             "y": 71
           },
           {
             "id": "label2",
             "type": "text",
             "text": "combination",
-            "x": 214,
+            "x": 161.08,
             "y": 219
           }
         ]
@@ -8898,21 +8965,21 @@
             "id": "label0",
             "type": "text",
             "text": "life-preserving bonds",
-            "x": 116,
+            "x": 25.32,
             "y": 79
           },
           {
             "id": "label1",
             "type": "text",
             "text": "romantic feeling",
-            "x": 282,
+            "x": 213.98,
             "y": 79
           },
           {
             "id": "label2",
             "type": "text",
             "text": "the theory uses a broader term",
-            "x": 200,
+            "x": 68.1,
             "y": 217
           }
         ]
@@ -8971,14 +9038,14 @@
             "id": "yes",
             "type": "text",
             "text": "one tendency",
-            "x": 285,
+            "x": 236.31,
             "y": 48
           },
           {
             "id": "no",
             "type": "text",
             "text": "another tendency",
-            "x": 280,
+            "x": 217.16,
             "y": 210
           }
         ]
@@ -9029,21 +9096,21 @@
             "id": "label0",
             "type": "text",
             "text": "observation",
-            "x": 99,
+            "x": 49.09,
             "y": 85
           },
           {
             "id": "label1",
             "type": "text",
             "text": "mechanism inferred",
-            "x": 201,
+            "x": 116.98,
             "y": 85
           },
           {
             "id": "label2",
             "type": "text",
             "text": "broad hypothesis",
-            "x": 302,
+            "x": 228.34,
             "y": 85
           }
         ]
@@ -9073,21 +9140,21 @@
             "id": "label0",
             "type": "text",
             "text": "a difficult finding",
-            "x": 90,
+            "x": 19.42,
             "y": 96
           },
           {
             "id": "label1",
             "type": "text",
             "text": "one possible account",
-            "x": 273,
+            "x": 182.35,
             "y": 47
           },
           {
             "id": "label2",
             "type": "text",
             "text": "other explanations remain",
-            "x": 276,
+            "x": 166.65,
             "y": 207
           }
         ]
