@@ -86,7 +86,8 @@
       "order": 1
     },
     "related": [
-      "frankl-encounter"
+      "frankl-encounter",
+      "frankl-moment"
     ],
     "readingArt": [
       {
@@ -250,7 +251,8 @@
       "order": 2
     },
     "related": [
-      "frankl-unavoidable"
+      "frankl-moment",
+      "frankl-vacuum"
     ],
     "readingArt": [
       {
@@ -407,7 +409,8 @@
       "order": 1
     },
     "related": [
-      "frankl-question"
+      "frankl-freedom-limits",
+      "frankl-finite"
     ],
     "readingArt": [
       {
@@ -565,7 +568,8 @@
       "order": 1
     },
     "related": [
-      "frankl-freedom-limits"
+      "frankl-guilt",
+      "frankl-tension"
     ],
     "readingArt": [
       {
@@ -712,7 +716,8 @@
       "order": 2
     },
     "related": [
-      "frankl-outward"
+      "frankl-finite",
+      "frankl-anticipation"
     ],
     "readingArt": [
       {
@@ -868,7 +873,8 @@
       "order": 1
     },
     "related": [
-      "frankl-moment"
+      "frankl-love",
+      "frankl-indirect-fulfilment"
     ],
     "readingArt": [
       {
@@ -1019,7 +1025,8 @@
       "order": 3
     },
     "related": [
-      "frankl-dignity"
+      "frankl-vacuum",
+      "frankl-not-every-question-illness"
     ],
     "readingArt": [
       {
@@ -1179,7 +1186,8 @@
       "order": 1
     },
     "related": [
-      "frankl-guilt"
+      "frankl-past-kept",
+      "frankl-success"
     ],
     "readingArt": [
       {
@@ -1352,7 +1360,8 @@
       "order": 2
     },
     "related": [
-      "frankl-finite"
+      "frankl-tension",
+      "frankl-responsible-freedom"
     ],
     "readingArt": [
       {
@@ -1520,7 +1529,8 @@
       "order": 3
     },
     "related": [
-      "frankl-vacuum"
+      "frankl-anticipation",
+      "frankl-paradoxical-intention"
     ],
     "readingArt": [
       {
@@ -1664,7 +1674,8 @@
       "order": 4
     },
     "related": [
-      "frankl-not-every-question-illness"
+      "frankl-not-every-question-illness",
+      "frankl-not-imposed"
     ],
     "readingArt": [
       {
@@ -1810,7 +1821,8 @@
       "order": 5
     },
     "related": [
-      "frankl-tension"
+      "frankl-not-imposed",
+      "frankl-purpose-value"
     ],
     "readingArt": [
       {
@@ -1975,7 +1987,8 @@
       "order": 3
     },
     "related": [
-      "frankl-not-imposed"
+      "frankl-responsible-freedom",
+      "frankl-unique-task"
     ],
     "readingArt": [
       {
@@ -2127,7 +2140,8 @@
       "order": 6
     },
     "related": [
-      "frankl-responsible-freedom"
+      "frankl-purpose-value",
+      "frankl-will-to-meaning"
     ],
     "readingArt": [
       {
@@ -2273,7 +2287,8 @@
       "order": 4
     },
     "related": [
-      "frankl-purpose-value"
+      "frankl-unique-task",
+      "frankl-conscience-fallible"
     ],
     "readingArt": [
       {
@@ -2441,7 +2456,8 @@
       "order": 7
     },
     "related": [
-      "frankl-love"
+      "frankl-will-to-meaning",
+      "frankl-discovery"
     ],
     "readingArt": [
       {
@@ -2605,7 +2621,8 @@
       "order": 2
     },
     "related": [
-      "frankl-indirect-fulfilment"
+      "frankl-indirect-fulfilment",
+      "frankl-pleasure"
     ],
     "readingArt": [
       {
@@ -2760,7 +2777,8 @@
       "order": 3
     },
     "related": [
-      "frankl-anticipation"
+      "frankl-pleasure",
+      "frankl-happiness"
     ],
     "readingArt": [
       {
@@ -2928,7 +2946,8 @@
       "order": 4
     },
     "related": [
-      "frankl-paradoxical-intention"
+      "frankl-paradoxical-intention",
+      "frankl-dereflection"
     ],
     "readingArt": [
       {
@@ -3093,7 +3112,8 @@
       "order": 5
     },
     "related": [
-      "frankl-dereflection"
+      "frankl-dereflection",
+      "frankl-tragic-optimism"
     ],
     "readingArt": [
       {
@@ -3257,7 +3277,8 @@
       "order": 6
     },
     "related": [
-      "frankl-past-kept"
+      "frankl-tragic-optimism",
+      "frankl-optimism-demand"
     ],
     "readingArt": [
       {
@@ -3434,7 +3455,8 @@
       "order": 2
     },
     "related": [
-      "frankl-tragic-optimism"
+      "frankl-success",
+      "frankl-self-distance"
     ],
     "readingArt": [
       {
@@ -3601,7 +3623,8 @@
       "order": 7
     },
     "related": [
-      "frankl-unique-task"
+      "frankl-optimism-demand",
+      "frankl-attitude-emotion"
     ],
     "readingArt": [
       {
@@ -3773,7 +3796,8 @@
       "order": 5
     },
     "related": [
-      "frankl-conscience-fallible"
+      "frankl-conscience-fallible",
+      "frankl-value-conflict"
     ],
     "readingArt": [
       {
@@ -3926,7 +3950,8 @@
       "order": 6
     },
     "related": [
-      "frankl-a-deed"
+      "frankl-value-conflict",
+      "frankl-conformity"
     ],
     "readingArt": [
       {
@@ -4000,5 +4025,3952 @@
       }
     ],
     "reflection": "What evidence could make this certain judgement need revision?"
+  },
+  {
+    "id": "frankl-will-to-meaning",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Will to meaning",
+    "title": "More than relief",
+    "statement": "Wanting life to mean something differs from wanting it to feel pleasant.",
+    "explanation": "Frankl treats the search for meaning as a central human orientation. A person can choose an uncomfortable act because of what it serves, rather than because discomfort itself is desirable.",
+    "nuance": "The will to meaning is a claim about motivation, not a claim that every person consciously describes their motives this way. Consider a researcher correcting an error that makes an admired result less impressive. The correction may cost status and satisfaction, yet matter because accuracy matters. Pleasure and approval cannot fully explain the act without examining what the person takes the work to be for.\n\nNow compare correcting that error with pursuing an obscure challenge only to prove superiority. The effort may look equally disciplined. What differs is its relation to an object beyond the actor’s image. This is an original comparison, not a test for sorting people into meaningful and meaningless lives. Motives are often mixed, and a person may need time, conversation, or a change in circumstances to see them clearly.\n\nIn the illustration, an outward line reaches a task while the person remains visible. It gives motivation a direction without denying bodily needs or emotional rewards. Frankl’s emphasis should be assessed as a philosophical account of people, not treated as proof that pleasure, safety, connection, and power never matter. The useful question is what a commitment answers when immediate comfort would suggest abandoning it.",
+    "sources": [
+      "frankl-theory"
+    ],
+    "metaphor": "A tight circle around a person opens toward something beyond them.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "will to meaning",
+      "variant": "frankl-outward",
+      "composition": {
+        "description": "A tight circle around a person opens toward something beyond them.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 159,
+            "y": 141,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "self",
+            "type": "path",
+            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reach",
+            "type": "path",
+            "d": "M180 125 Q231 121 278 101 M267 99 L279 101 L272 112",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "work",
+            "type": "path",
+            "d": "M286 86 L322 86 L323 142 L286 144 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "beyond",
+            "type": "text",
+            "x": 255,
+            "y": 195,
+            "text": "beyond myself",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "will to meaning",
+      "meaning"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 8
+    },
+    "related": [
+      "frankl-discovery",
+      "frankl-values"
+    ],
+    "reflection": "What is the act for when comfort would recommend stopping?",
+    "readingArt": [
+      {
+        "description": "A tight circle around a person opens toward something beyond them.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 159,
+            "y": 141
+          },
+          {
+            "id": "self",
+            "type": "path",
+            "d": "M179 63 C114 42 87 124 109 171 C126 202 174 190 186 170"
+          },
+          {
+            "id": "reach",
+            "type": "path",
+            "d": "M180 125 Q231 121 278 101 M267 99 L279 101 L272 112"
+          },
+          {
+            "id": "work",
+            "type": "path",
+            "d": "M286 86 L322 86 L323 142 L286 144 Z"
+          },
+          {
+            "id": "beyond",
+            "type": "text",
+            "x": 255,
+            "y": 195,
+            "text": "beyond myself"
+          }
+        ]
+      },
+      {
+        "description": "Two equally direct routes terminate differently: one reaches a thing, one answers another person.",
+        "actors": [
+          {
+            "id": "route1",
+            "type": "path",
+            "d": "M81 84 L269 84"
+          },
+          {
+            "id": "box",
+            "type": "path",
+            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+          },
+          {
+            "id": "route2",
+            "type": "path",
+            "d": "M80 162 Q171 153 255 160"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 282,
+            "y": 147
+          },
+          {
+            "id": "goal",
+            "type": "text",
+            "x": 133,
+            "y": 65,
+            "text": "a result"
+          },
+          {
+            "id": "value",
+            "type": "text",
+            "x": 151,
+            "y": 203,
+            "text": "a responsibility"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-pleasure",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Pleasure as consequence",
+    "title": "The uncommanded result",
+    "statement": "Pleasure can follow an activity that becomes harder when pleasure is commanded.",
+    "explanation": "Frankl distinguishes an experience from trying to force its desired effect. In some activities, monitoring whether the effect is arriving can compete with the involvement that allows it.",
+    "nuance": "Imagine laughing with an old friend, then pausing to assess whether the evening is providing enough enjoyment. The assessment is not inherently wrong, but it changes the object of attention. The conversation has become an instrument under inspection. Frankl uses a similar distinction when discussing how directly pursuing a desired state can interfere with the process through which it might arise.\n\nA second example is reading a novel solely to become absorbed. Checking every few pages whether absorption has occurred repeatedly brings the reader back outside the scene. This example does not explain every failure to enjoy a book; the book may simply be uninteresting, or the reader exhausted. The narrow point concerns an additional demand placed on experience: it must continually certify the reward expected from it.\n\nThe small mark beside the path represents a possible consequence rather than the path’s destination. It may appear; it is not guaranteed. This prevents the diagram from becoming a covert promise that one can reliably obtain pleasure by appearing not to seek it. The activity still needs its own value, and the person can still judge whether it is worth their time even when the hoped-for emotional result does not arrive. In the drawing, an outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+    "sources": [
+      "frankl-technique-book"
+    ],
+    "metaphor": "An outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "pleasure as consequence",
+      "variant": "frankl-byproduct",
+      "composition": {
+        "description": "An outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+        "actors": [
+          {
+            "id": "act",
+            "type": "path",
+            "d": "M89 144 Q181 104 285 147",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M288 130 L315 130 L317 159 L288 159 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "pleasure",
+            "type": "circle",
+            "x": 216,
+            "y": 92,
+            "r": 9,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "aim",
+            "type": "path",
+            "d": "M117 173 L202 112",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "consequence",
+            "type": "text",
+            "x": 202,
+            "y": 214,
+            "text": "a consequence",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "pleasure as consequence",
+      "encounter"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-encounter",
+      "order": 4
+    },
+    "related": [
+      "frankl-happiness",
+      "frankl-love-possibility"
+    ],
+    "reflection": "What happens when the experience must continually prove it is enjoyable?",
+    "readingArt": [
+      {
+        "description": "An outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+        "actors": [
+          {
+            "id": "act",
+            "type": "path",
+            "d": "M89 144 Q181 104 285 147"
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M288 130 L315 130 L317 159 L288 159 Z"
+          },
+          {
+            "id": "pleasure",
+            "type": "circle",
+            "x": 216,
+            "y": 92,
+            "r": 9
+          },
+          {
+            "id": "aim",
+            "type": "path",
+            "d": "M117 173 L202 112",
+            "tone": "faint"
+          },
+          {
+            "id": "consequence",
+            "type": "text",
+            "x": 202,
+            "y": 214,
+            "text": "a consequence"
+          }
+        ]
+      },
+      {
+        "description": "Attention leaves an enclosed inspection loop and turns toward a shared activity.",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M111 85 C72 107 75 170 124 178 C167 184 184 127 153 100",
+            "tone": "faint"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 133,
+            "y": 130
+          },
+          {
+            "id": "out",
+            "type": "path",
+            "d": "M166 132 Q217 118 269 143"
+          },
+          {
+            "id": "activity",
+            "type": "path",
+            "d": "M274 155 Q297 110 327 152 M274 156 L328 156"
+          },
+          {
+            "id": "focus",
+            "type": "text",
+            "x": 244,
+            "y": 205,
+            "text": "toward the world"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-happiness",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "A reason for happiness",
+    "title": "The reason comes first",
+    "statement": "A demand to be happy cannot supply what happiness would be about.",
+    "explanation": "Frankl insists that happiness needs a reason; it cannot simply be ordered into existence. A state and the relation that may give rise to it are different objects of attention.",
+    "nuance": "Being told to enjoy a celebration may make a person more conscious of failing to enjoy it. The command specifies the desired feeling while leaving the person’s actual concerns untouched. A welcoming conversation, reconciliation, or something genuinely funny might provide a reason for a different experience. None is interchangeable with the instruction that the correct mood should already have appeared.\n\nImagine receiving good news after a long worry. Relief concerns the news and what it means, not only a successful adjustment of feeling. If the news were false, the feeling would lose its basis even if it initially remained pleasant. This example separates an emotion from its object. It also explains why giving someone support often requires attending to circumstances rather than persuading them to display the expected response.\n\nThe outward path and its adjacent mark give the relation a temporal order: involvement can precede a state that follows. The order is not a universal law of mood, and it does not turn depression into a failure to find sufficient reasons. Frankl’s distinction is useful precisely when it stops an emotional demand from masquerading as help. One can make room for a person without requiring their happiness as proof that the help worked.",
+    "sources": [
+      "frankl-postscript"
+    ],
+    "metaphor": "An outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a reason for happiness",
+      "variant": "frankl-byproduct",
+      "composition": {
+        "description": "An outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+        "actors": [
+          {
+            "id": "act",
+            "type": "path",
+            "d": "M89 144 Q181 104 285 147",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M288 130 L315 130 L317 159 L288 159 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "pleasure",
+            "type": "circle",
+            "x": 216,
+            "y": 92,
+            "r": 9,
+            "motion": {
+              "kind": "reveal",
+              "duration": 16,
+              "delay": 5
+            }
+          },
+          {
+            "id": "aim",
+            "type": "path",
+            "d": "M117 173 L202 112",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "consequence",
+            "type": "text",
+            "x": 202,
+            "y": 214,
+            "text": "a consequence",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a reason for happiness",
+      "encounter"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-encounter",
+      "order": 5
+    },
+    "related": [
+      "frankl-love-possibility",
+      "frankl-outward"
+    ],
+    "reflection": "What would this feeling be about, rather than merely required to be?",
+    "readingArt": [
+      {
+        "description": "An outward act produces a small mark beside the path; trying to aim directly at the mark misses the act.",
+        "actors": [
+          {
+            "id": "act",
+            "type": "path",
+            "d": "M89 144 Q181 104 285 147"
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M288 130 L315 130 L317 159 L288 159 Z"
+          },
+          {
+            "id": "pleasure",
+            "type": "circle",
+            "x": 216,
+            "y": 92,
+            "r": 9
+          },
+          {
+            "id": "aim",
+            "type": "path",
+            "d": "M117 173 L202 112",
+            "tone": "faint"
+          },
+          {
+            "id": "consequence",
+            "type": "text",
+            "x": 202,
+            "y": 214,
+            "text": "a consequence"
+          }
+        ]
+      },
+      {
+        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 128,
+            "y": 135
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 278,
+            "y": 135
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M146 85 Q204 54 260 85"
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M168 153 Q201 183 238 153"
+          },
+          {
+            "id": "between",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "encounter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-success",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Meaning and success",
+    "title": "The two measures",
+    "statement": "Achievement and meaning can come apart.",
+    "explanation": "Frankl resists judging a life only by outward success. An outcome can be impressive while its value remains doubtful; a responsible act can fail without becoming meaningless.",
+    "nuance": "Suppose a journalist publishes a careful correction that receives little attention, while a misleading story becomes widely admired. Circulation measures one thing. The relation to truth measures another. This example does not prove that the unnoticed act is always better, but it makes two questions available that a single ranking would collapse: what happened, and what the act responsibly served.\n\nConsider also a rescue attempted competently that does not succeed. Failure is real and may deserve investigation; it does not automatically show that the effort lacked value. Outcome and responsibility still need separate judgement. Conversely, good intentions cannot make every unsuccessful action defensible. A person may have ignored evidence or chosen recklessly. The distinction opens inquiry rather than deciding it in the actor’s favour.\n\nThe ruler beside the figure is useful within its scope and unable to settle the whole account. A life is not made meaningful merely by receiving a favourable measurement, nor made worthless by failing one. This is especially important where institutions make visibility and productivity the main available signs of worth. Frankl’s point is not to retire all standards, but to ask which standard is being allowed to stand for a person.",
+    "sources": [
+      "frankl-doctor"
+    ],
+    "metaphor": "A measuring scale retreats from the person; the outline remains whole.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "meaning and success",
+      "variant": "frankl-dignity",
+      "composition": {
+        "description": "A measuring scale retreats from the person; the outline remains whole.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 157,
+            "y": 138,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M245 72 L245 181 M245 81 L259 81 M245 105 L253 105 M245 130 L259 130 M245 155 L253 155 M245 178 L259 178",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "measured",
+            "type": "text",
+            "x": 273,
+            "y": 205,
+            "text": "usefulness",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "whole",
+            "type": "path",
+            "d": "M137 54 Q97 76 105 159 Q109 188 142 192",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "unmeasured",
+            "type": "text",
+            "x": 146,
+            "y": 215,
+            "text": "dignity",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "meaning and success",
+      "the person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 3
+    },
+    "related": [
+      "frankl-self-distance",
+      "frankl-humour"
+    ],
+    "reflection": "Which measure is useful here, and what does it leave unmeasured?",
+    "readingArt": [
+      {
+        "description": "A measuring scale retreats from the person; the outline remains whole.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 157,
+            "y": 138
+          },
+          {
+            "id": "ruler",
+            "type": "path",
+            "d": "M245 72 L245 181 M245 81 L259 81 M245 105 L253 105 M245 130 L259 130 M245 155 L253 155 M245 178 L259 178",
+            "tone": "faint"
+          },
+          {
+            "id": "measured",
+            "type": "text",
+            "x": 273,
+            "y": 205,
+            "text": "usefulness"
+          },
+          {
+            "id": "whole",
+            "type": "path",
+            "d": "M137 54 Q97 76 105 159 Q109 188 142 192"
+          },
+          {
+            "id": "unmeasured",
+            "type": "text",
+            "x": 146,
+            "y": 215,
+            "text": "dignity"
+          }
+        ]
+      },
+      {
+        "description": "Two equally direct routes terminate differently: one reaches a thing, one answers another person.",
+        "actors": [
+          {
+            "id": "route1",
+            "type": "path",
+            "d": "M81 84 L269 84"
+          },
+          {
+            "id": "box",
+            "type": "path",
+            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+          },
+          {
+            "id": "route2",
+            "type": "path",
+            "d": "M80 162 Q171 153 255 160"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 282,
+            "y": 147
+          },
+          {
+            "id": "goal",
+            "type": "text",
+            "x": 133,
+            "y": 65,
+            "text": "a result"
+          },
+          {
+            "id": "value",
+            "type": "text",
+            "x": 151,
+            "y": 203,
+            "text": "a responsibility"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-self-distance",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Self-distancing",
+    "title": "A space beside the state",
+    "statement": "A feeling can be yours without exhausting who you are.",
+    "explanation": "Frankl calls self-distancing the capacity to take a position toward one’s own condition. It concerns a relation to the state, rather than denying that the state exists.",
+    "nuance": "Imagine feeling anger while noticing the urge to interrupt. The anger does not vanish because it is noticed; a little space may nevertheless open between the urge and the next act. This ordinary example distinguishes identification from relation. A person can say the feeling is happening and still ask how to respond, without pretending to occupy a place entirely outside body, history, or circumstance.\n\nNow compare that space with harshly watching yourself as though another person were scoring every reaction. Both involve a kind of observation, but their effects can differ. Constant inspection may intensify the very difficulty it claims to manage. Self-distancing, in Frankl’s account, is valued where it makes a freer response possible. Its significance is practical: what relation to the experience becomes available?\n\nThe two figures depict two positions within one person’s experience, not a literal split into separate selves. The connecting line keeps the state within the account. This philosophical capacity should not be inflated into an assurance that anyone can detach on demand. Severe distress can narrow access to it; another person’s help may be essential. Having difficulty finding distance does not diminish dignity or make the condition voluntary.",
+    "sources": [
+      "frankl-person"
+    ],
+    "metaphor": "A figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "self-distancing",
+      "variant": "frankl-distance",
+      "composition": {
+        "description": "A figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 124,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "symptom",
+            "type": "path",
+            "d": "M102 115 Q126 91 144 114 Q111 141 146 131 Q129 153 111 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 279,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "distance",
+            "type": "path",
+            "d": "M154 151 Q202 166 249 151",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "view",
+            "type": "text",
+            "x": 202,
+            "y": 213,
+            "text": "a relation to the state",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "self-distancing",
+      "the person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 4
+    },
+    "related": [
+      "frankl-humour",
+      "frankl-noetic"
+    ],
+    "reflection": "Does this observation open a response or intensify the inspection?",
+    "readingArt": [
+      {
+        "description": "A figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 124,
+            "y": 137
+          },
+          {
+            "id": "symptom",
+            "type": "path",
+            "d": "M102 115 Q126 91 144 114 Q111 141 146 131 Q129 153 111 127",
+            "tone": "faint"
+          },
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 279,
+            "y": 137
+          },
+          {
+            "id": "distance",
+            "type": "path",
+            "d": "M154 151 Q202 166 249 151"
+          },
+          {
+            "id": "view",
+            "type": "text",
+            "x": 202,
+            "y": 213,
+            "text": "a relation to the state"
+          }
+        ]
+      },
+      {
+        "description": "Attention leaves an enclosed inspection loop and turns toward a shared activity.",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M111 85 C72 107 75 170 124 178 C167 184 184 127 153 100",
+            "tone": "faint"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 133,
+            "y": 130
+          },
+          {
+            "id": "out",
+            "type": "path",
+            "d": "M166 132 Q217 118 269 143"
+          },
+          {
+            "id": "activity",
+            "type": "path",
+            "d": "M274 155 Q297 110 327 152 M274 156 L328 156"
+          },
+          {
+            "id": "focus",
+            "type": "text",
+            "x": 244,
+            "y": 205,
+            "text": "toward the world"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-humour",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Humour and distance",
+    "title": "A changed scale",
+    "statement": "Humour can alter the size of a fear without making the person small.",
+    "explanation": "Frankl values humour as one possible way to stand at a distance from a pattern. Its function is a change of relation, not a dismissal of suffering.",
+    "nuance": "Imagine privately recognising how an anxious mind has organised an entire catastrophe around a misplaced sentence. A moment of humour may reveal the discrepancy in scale without proving that the embarrassment was imaginary. Something happened, and the story about it has grown. The point is not to force laughter, but to notice that a pattern can sometimes be encountered from more than its most threatening position.\n\nCompare a person laughing gently at their own exaggerated prediction with someone else ridiculing them for being frightened. The surface resemblance conceals a moral difference. One may restore room to move; the other may add humiliation. The same words can be harmful or helpful depending on trust, timing, and whether the person retains a part in deciding how their experience is understood.\n\nThe space in the illustration grows between the figure and the knot. The knot remains present, and the figure remains connected to it. This keeps humour from becoming a fantasy of total escape. Frankl’s clinical use belongs to particular situations and does not license joking at someone’s pain. A relationship that respects the sufferer is part of the conditions under which a lighter perspective can actually become possible. In the drawing, a figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+    "sources": [
+      "frankl-paradox"
+    ],
+    "metaphor": "A figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "humour and distance",
+      "variant": "frankl-distance",
+      "composition": {
+        "description": "A figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 124,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "symptom",
+            "type": "path",
+            "d": "M102 115 Q126 91 144 114 Q111 141 146 131 Q129 153 111 127",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 279,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "distance",
+            "type": "path",
+            "d": "M154 151 Q202 166 249 151",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "view",
+            "type": "text",
+            "x": 202,
+            "y": 213,
+            "text": "a relation to the state",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "humour and distance",
+      "the person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 5
+    },
+    "related": [
+      "frankl-noetic",
+      "frankl-religion"
+    ],
+    "reflection": "Who gains room from the joke, and who pays for it?",
+    "readingArt": [
+      {
+        "description": "A figure steps aside from an anxious scribble while remaining connected to the body it came from.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 124,
+            "y": 137
+          },
+          {
+            "id": "symptom",
+            "type": "path",
+            "d": "M102 115 Q126 91 144 114 Q111 141 146 131 Q129 153 111 127",
+            "tone": "faint"
+          },
+          {
+            "id": "observer",
+            "type": "figure",
+            "x": 279,
+            "y": 137
+          },
+          {
+            "id": "distance",
+            "type": "path",
+            "d": "M154 151 Q202 166 249 151"
+          },
+          {
+            "id": "view",
+            "type": "text",
+            "x": 202,
+            "y": 213,
+            "text": "a relation to the state"
+          }
+        ]
+      },
+      {
+        "description": "An anxious prediction feeds a repeated symptom until a line breaks the closed circuit.",
+        "actors": [
+          {
+            "id": "loop",
+            "type": "path",
+            "d": "M131 82 C90 117 107 173 171 180 C239 193 302 137 267 88 C247 64 209 66 185 75"
+          },
+          {
+            "id": "fear",
+            "type": "text",
+            "x": 163,
+            "y": 61,
+            "text": "fear"
+          },
+          {
+            "id": "symptom",
+            "type": "text",
+            "x": 262,
+            "y": 199,
+            "text": "symptom"
+          },
+          {
+            "id": "break",
+            "type": "path",
+            "d": "M176 89 Q200 112 220 95"
+          },
+          {
+            "id": "distance",
+            "type": "text",
+            "x": 202,
+            "y": 131,
+            "text": "a little distance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-noetic",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "The noetic dimension",
+    "title": "Another kind of question",
+    "statement": "A question about value is not the same question as a description of a reaction.",
+    "explanation": "Frankl’s noetic or spiritual dimension concerns meaning, conscience, and responsibility. He distinguishes it from bodily processes and psychological states without treating a person as three detachable pieces.",
+    "nuance": "Imagine describing a promise in terms of memory, emotion, and neural activity. Those accounts may explain important conditions of keeping it. A further question remains: what is owed to the person to whom it was made? Frankl insists that this question has its own significance. His framework opposes reductions that act as if explaining the conditions of a judgement has already settled what the judgement is about.\n\nA second example is a disagreement over a truthful report. One speaker may be defensive, tired, or seeking approval; those motives matter. They do not by themselves establish whether the report is accurate. Investigating psychological conditions and assessing the claim require related but distinct work. The mistake would be to answer a question about truth only by diagnosing the person who raised it.\n\nThe drawing places bodily conditions, emotional movement, and a possible response in the same field. Their positions distinguish aspects of an account, not separate substances that can be measured independently. This is Frankl’s philosophical vocabulary, not an anatomical discovery. A reader can examine the useful distinctions while also questioning how his account establishes the status of the spiritual dimension. In the drawing, bodily conditions and emotional states remain visible below an open relation to a possible response.",
+    "sources": [
+      "frankl-person"
+    ],
+    "metaphor": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the noetic dimension",
+      "variant": "frankl-levels",
+      "composition": {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the noetic dimension",
+      "the person"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 6
+    },
+    "related": [
+      "frankl-religion",
+      "frankl-reduction"
+    ],
+    "reflection": "Which question has changed when a value is explained as a reaction?",
+    "readingArt": [
+      {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172"
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78"
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable"
+          }
+        ]
+      },
+      {
+        "description": "One object casts different flat outlines; no single outline contains the whole object.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M181 71 L229 83 L229 134 L181 119 Z M181 71 L206 57 L254 68 L229 83 M254 68 L254 117 L229 134"
+          },
+          {
+            "id": "plane",
+            "type": "path",
+            "d": "M86 182 L318 182"
+          },
+          {
+            "id": "projection",
+            "type": "circle",
+            "x": 141,
+            "y": 181,
+            "r": 17,
+            "tone": "faint"
+          },
+          {
+            "id": "shadow",
+            "type": "path",
+            "d": "M228 171 L263 173 L274 188 L240 188 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "more",
+            "type": "text",
+            "x": 203,
+            "y": 217,
+            "text": "a view, not the whole"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-religion",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Spiritual and religious",
+    "title": "Before the paths divide",
+    "statement": "Frankl’s spiritual vocabulary does not require every search for meaning to be religious.",
+    "explanation": "In Frankl’s account, the noetic dimension includes responsibility and value. Logotherapy can address meaning without choosing a revealed faith on the person’s behalf.",
+    "nuance": "A person may regard caring for a child as a religious obligation, a secular ethical commitment, or an inseparable part of a particular relationship. Those accounts are not identical. The therapist’s task is not to make them identical, but to attend to the person’s actual possibilities without converting clinical authority into authority over belief. Frankl himself writes about religion while distinguishing its place from therapy’s standpoint.\n\nImagine a conversation in which a helper assumes that everyone who speaks about purpose must secretly mean God. A secular person’s account is then translated before it is heard. The reverse assumption can also obstruct understanding: religious commitment may be dismissed as merely a psychological mechanism. Attending to either person requires letting their language carry a claim that deserves examination on its own terms.\n\nThe wider boundary remains open while the local path reaches a visible task. It allows questions of ultimate meaning without making their settlement a precondition for this response. The distinction does not imply that religious and nonreligious views are interchangeable, or that belief has no consequences. It places a limit on what a therapeutic method can legitimately prescribe about the person’s answer to those larger questions.",
+    "sources": [
+      "frankl-religion"
+    ],
+    "metaphor": "A clear local path reaches a visible task while a wider boundary remains incomplete.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "spiritual and religious",
+      "variant": "frankl-ultimate",
+      "composition": {
+        "description": "A clear local path reaches a visible task while a wider boundary remains incomplete.",
+        "actors": [
+          {
+            "id": "wide",
+            "type": "path",
+            "d": "M77 114 C79 42 173 29 260 51 Q318 67 325 117",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 131,
+            "y": 143,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "local",
+            "type": "path",
+            "d": "M153 152 Q204 167 252 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M265 122 L299 122 L298 160 L265 159 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "local-label",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "this answer is possible",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "spiritual and religious",
+      "the person"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 7
+    },
+    "related": [
+      "frankl-reduction",
+      "frankl-noogenic"
+    ],
+    "reflection": "What meaning is being heard before it is translated into someone else’s beliefs?",
+    "readingArt": [
+      {
+        "description": "A clear local path reaches a visible task while a wider boundary remains incomplete.",
+        "actors": [
+          {
+            "id": "wide",
+            "type": "path",
+            "d": "M77 114 C79 42 173 29 260 51 Q318 67 325 117",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 131,
+            "y": 143
+          },
+          {
+            "id": "local",
+            "type": "path",
+            "d": "M153 152 Q204 167 252 141"
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M265 122 L299 122 L298 160 L265 159 Z"
+          },
+          {
+            "id": "local-label",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "this answer is possible"
+          }
+        ]
+      },
+      {
+        "description": "A question above the person is answered by an action toward a waiting task.",
+        "actors": [
+          {
+            "id": "ask",
+            "type": "text",
+            "x": 190,
+            "y": 48,
+            "text": "what is asked of me?"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 125,
+            "y": 140
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M257 102 L310 104 L308 167 L256 165 Z"
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146"
+          },
+          {
+            "id": "answer",
+            "type": "text",
+            "x": 204,
+            "y": 204,
+            "text": "answer in action"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-reduction",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Dimensional ontology",
+    "title": "The outline is not the object",
+    "statement": "An accurate view can still be incomplete.",
+    "explanation": "Frankl uses dimensional analogies to criticise reductionism. A projection can describe one aspect correctly while losing relations visible from another perspective.",
+    "nuance": "Imagine seeing a cylinder from above and reporting a circle. The report can be accurate about the view without identifying the whole object. A cone or sphere might produce a similar outline. Frankl’s analogy warns against moving from the adequacy of one description to a claim that nothing else needs describing. A psychological account is not made false simply because it is not the entire account of a person.\n\nConsider a musician’s performance described as movements, as an emotional expression, and as an interpretation of a piece. The descriptions concern one event. Explaining the movements does not by itself settle whether the interpretation is faithful or interesting. This example shows how another question can remain available without asking us to deny the description that came first. Different aspects need not compete for sole ownership of reality.\n\nThe flat outlines beneath the object are deliberately different. Their difference shows what the chosen view selects. The analogy is a philosophical tool, not proof of every element in Frankl’s account of personhood. Its strongest modest use is to make a claim of completeness answerable: what relation has this way of looking left outside its frame, and what would justify treating that relation as irrelevant?",
+    "sources": [
+      "frankl-dimensions"
+    ],
+    "metaphor": "One object casts different flat outlines; no single outline contains the whole object.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "dimensional ontology",
+      "variant": "frankl-perspective",
+      "composition": {
+        "description": "One object casts different flat outlines; no single outline contains the whole object.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M181 71 L229 83 L229 134 L181 119 Z M181 71 L206 57 L254 68 L229 83 M254 68 L254 117 L229 134",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "plane",
+            "type": "path",
+            "d": "M86 182 L318 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "projection",
+            "type": "circle",
+            "x": 141,
+            "y": 181,
+            "r": 17,
+            "tone": "faint"
+          },
+          {
+            "id": "shadow",
+            "type": "path",
+            "d": "M228 171 L263 173 L274 188 L240 188 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "more",
+            "type": "text",
+            "x": 203,
+            "y": 217,
+            "text": "a view, not the whole",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "dimensional ontology",
+      "the person"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 8
+    },
+    "related": [
+      "frankl-noogenic",
+      "frankl-past-ledger"
+    ],
+    "reflection": "What does this accurate description leave outside its frame?",
+    "readingArt": [
+      {
+        "description": "One object casts different flat outlines; no single outline contains the whole object.",
+        "actors": [
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M181 71 L229 83 L229 134 L181 119 Z M181 71 L206 57 L254 68 L229 83 M254 68 L254 117 L229 134"
+          },
+          {
+            "id": "plane",
+            "type": "path",
+            "d": "M86 182 L318 182"
+          },
+          {
+            "id": "projection",
+            "type": "circle",
+            "x": 141,
+            "y": 181,
+            "r": 17,
+            "tone": "faint"
+          },
+          {
+            "id": "shadow",
+            "type": "path",
+            "d": "M228 171 L263 173 L274 188 L240 188 Z",
+            "tone": "faint"
+          },
+          {
+            "id": "more",
+            "type": "text",
+            "x": 203,
+            "y": 217,
+            "text": "a view, not the whole"
+          }
+        ]
+      },
+      {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172"
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78"
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-value-conflict",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conflicting values",
+    "title": "Both claims remain",
+    "statement": "A hard choice need not mean that one of its values was false.",
+    "explanation": "Frankl distinguishes general values from the concrete meaning of a situation. Several worthy claims can meet in one decision without providing a mechanical answer.",
+    "nuance": "Suppose you promised to attend a friend’s event and are then asked to help with a family emergency. Loyalty matters in both relations, but it does not determine one obvious action until the circumstances are understood. Judgement may involve urgency, alternatives, your role, and whether someone else can help. A conflict can therefore require more attention rather than a slogan that announces which kind of person matters most.\n\nNow imagine deciding to help the family and feeling sorrow about disappointing the friend. That remaining feeling need not establish that the decision was wrong. It may acknowledge a value that could not also be fulfilled. This example separates a justified choice from an emotionally costless one. It also leaves room for revising the decision if a fact changes; certainty does not have to be manufactured to make action possible.\n\nThe two paths remain visible after the fork. Neither is rubbed out to make the other seem easy. Frankl’s situational emphasis can be useful here, provided it is not used to justify whatever the chooser happens to prefer. The act still has consequences and must answer to the people affected. A considered account should be able to say why a claim was prioritised and what responsibility remains toward the claim left unmet.",
+    "sources": [
+      "frankl-values-book"
+    ],
+    "metaphor": "Two meaningful routes require different turns at the same fork; neither branch is erased.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "conflicting values",
+      "variant": "frankl-conflict",
+      "composition": {
+        "description": "Two meaningful routes require different turns at the same fork; neither branch is erased.",
+        "actors": [
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "x": 109,
+            "y": 45,
+            "text": "one claim",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "two",
+            "type": "text",
+            "x": 285,
+            "y": 46,
+            "text": "another claim",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 202,
+            "y": 141,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 204,
+            "y": 219,
+            "text": "judgement remains",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "conflicting values",
+      "responsibility"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 7
+    },
+    "related": [
+      "frankl-conformity",
+      "frankl-dialogue"
+    ],
+    "reflection": "What responsibility remains toward the value this choice cannot fulfil?",
+    "readingArt": [
+      {
+        "description": "Two meaningful routes require different turns at the same fork; neither branch is erased.",
+        "actors": [
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67"
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "x": 109,
+            "y": 45,
+            "text": "one claim"
+          },
+          {
+            "id": "two",
+            "type": "text",
+            "x": 285,
+            "y": 46,
+            "text": "another claim"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 202,
+            "y": 141
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 204,
+            "y": 219,
+            "text": "judgement remains"
+          }
+        ]
+      },
+      {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-conformity",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conscience and conformity",
+    "title": "The borrowed direction",
+    "statement": "Agreement can guide a person away from what the situation asks.",
+    "explanation": "Frankl’s conscience is not simply the voice of prevailing opinion. Meaning can require examining a demand that feels secure because many others repeat it.",
+    "nuance": "Imagine colleagues agreeing to omit a troubling result from a report. Their agreement may reduce anxiety about refusal and provide a sense of shared necessity. Neither effect establishes that the omission is right. The situation still includes readers who will be misled. Conscience, in Frankl’s vocabulary, concerns that concrete relation rather than treating belonging to the group as sufficient evidence of an answer.\n\nThe opposite temptation also deserves notice: a person may confuse disagreeing with being morally serious. Refusal can become another performance for an audience. This contrast separates independent judgement from either automatic agreement or automatic opposition. The question is whether the act remains responsive to facts and consequences that the satisfying role of loyal colleague or fearless dissenter can both obscure.\n\nThe compass points toward a situation rather than toward the largest cluster of marks. Its direction can still be mistaken. Frankl’s account does not give private conviction immunity from criticism; a person should be willing to explain and revise it. The useful distinction is between noticing a real claim and borrowing a direction because adopting it settles the social discomfort of having to decide for oneself.",
+    "sources": [
+      "frankl-conscience"
+    ],
+    "metaphor": "Several demands surround a person; one specific direction becomes legible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "conscience and conformity",
+      "variant": "frankl-compass",
+      "composition": {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "conscience and conformity",
+      "responsibility"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 8
+    },
+    "related": [
+      "frankl-dialogue",
+      "frankl-mass-direction"
+    ],
+    "reflection": "What fact would matter here even if nobody in the room approved of it?",
+    "readingArt": [
+      {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation"
+          }
+        ]
+      },
+      {
+        "description": "Two meaningful routes require different turns at the same fork; neither branch is erased.",
+        "actors": [
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67"
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "x": 109,
+            "y": 45,
+            "text": "one claim"
+          },
+          {
+            "id": "two",
+            "type": "text",
+            "x": 285,
+            "y": 46,
+            "text": "another claim"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 202,
+            "y": 141
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 204,
+            "y": 219,
+            "text": "judgement remains"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-discovery",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Meaning as discovery",
+    "title": "The resistant answer",
+    "statement": "For Frankl, meaning is not made true simply by wanting it.",
+    "explanation": "Frankl describes meaning as something to discern in a situation, rather than arbitrarily invent. This is a substantive philosophical claim, not a fact established by naming a preferred goal.",
+    "nuance": "Imagine deciding that keeping a promise matters only if you currently enjoy keeping it. The relation to the person waiting has been replaced by a report of your preference. Frankl’s discovery language insists that the situation can make a claim the preference does not produce. It can call for a response that remains inconvenient. The thinker’s position gives reality a role in correcting what the self would like its task to be.\n\nA reader need not accept this account without questions. How are competing meanings assessed? What prevents a claimed discovery from concealing an inherited prejudice? This inquiry is part of taking the theory seriously. A vivid feeling of rightness cannot answer every objection. Attention to other perspectives, evidence, and actual effects is necessary if discovery is to differ from declaring a private certainty beyond examination.\n\nThe unfinished task in the drawing is already there when the person approaches. It can be encountered in several ways, but it is not created by the desire to feel purposeful. This spatial choice illustrates Frankl’s claim rather than proving it. The point worth testing is whether a situation contains demands and possibilities that are not reducible to what its participants happen to want at the moment.",
+    "sources": [
+      "frankl-theory"
+    ],
+    "metaphor": "A question above the person is answered by an action toward a waiting task.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "meaning as discovery",
+      "variant": "frankl-question",
+      "composition": {
+        "description": "A question above the person is answered by an action toward a waiting task.",
+        "actors": [
+          {
+            "id": "ask",
+            "type": "text",
+            "x": 190,
+            "y": 48,
+            "text": "what is asked of me?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 125,
+            "y": 140,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 8,
+              "y": -2
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M257 102 L310 104 L308 167 L256 165 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "answer",
+            "type": "text",
+            "x": 204,
+            "y": 204,
+            "text": "answer in action",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "meaning as discovery",
+      "meaning"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 9
+    },
+    "related": [
+      "frankl-values",
+      "frankl-ultimate"
+    ],
+    "reflection": "What in this situation can correct what you would prefer its meaning to be?",
+    "readingArt": [
+      {
+        "description": "A question above the person is answered by an action toward a waiting task.",
+        "actors": [
+          {
+            "id": "ask",
+            "type": "text",
+            "x": 190,
+            "y": 48,
+            "text": "what is asked of me?"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 125,
+            "y": 140
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M257 102 L310 104 L308 167 L256 165 Z"
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146"
+          },
+          {
+            "id": "answer",
+            "type": "text",
+            "x": 204,
+            "y": 204,
+            "text": "answer in action"
+          }
+        ]
+      },
+      {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-values",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Values and unique meaning",
+    "title": "Pattern and occasion",
+    "statement": "A recurring value does not erase the particular situation.",
+    "explanation": "Frankl distinguishes broadly recognisable values from the unique meaning to be fulfilled now. A general pattern can orient judgement without supplying every detail of the act.",
+    "nuance": "Honesty is a recurring value, but honest speech is not identical in every relation. Correcting a public error, answering a frightened child, and refusing a misleading contract require different words and attention. A rule can make a relevant concern visible while leaving the manner of response undecided. Frankl’s distinction keeps the general value in view without allowing it to replace the situation it is meant to illuminate.\n\nConsider someone who repeats a brutal observation and defends it by saying they are only being honest. The statement may be factually accurate yet reveal little thought about purpose, timing, or the listener. This example is not an argument that comfort always overrides truth. It shows that selecting a value does not finish the work of answering responsibly for how that value enters another person’s life.\n\nThe three shapes share a relation while keeping their different edges. That arrangement avoids a stamp that would press one identical answer onto every occasion. A tradition can transmit valuable patterns, and a particular circumstance can still require interpretation. Meaning therefore has both continuity and specificity: the value helps us see, while the situation prevents us from mistaking a familiar formula for a complete response.",
+    "sources": [
+      "frankl-values-book"
+    ],
+    "metaphor": "Several particular acts share a pattern without losing their different positions and shapes.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "values and unique meaning",
+      "variant": "frankl-values",
+      "composition": {
+        "description": "Several particular acts share a pattern without losing their different positions and shapes.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "path",
+            "d": "M81 112 L115 93 L137 121 L106 140 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "two",
+            "type": "path",
+            "d": "M180 97 Q223 83 229 125 Q208 148 182 126 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "three",
+            "type": "path",
+            "d": "M273 103 L308 109 L311 142 L279 135 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M101 165 Q208 180 304 163",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "pattern",
+            "type": "text",
+            "x": 199,
+            "y": 211,
+            "text": "a recurring value",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "values and unique meaning",
+      "meaning"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 10
+    },
+    "related": [
+      "frankl-ultimate",
+      "frankl-sunday"
+    ],
+    "reflection": "What does the general value help you see, and what still needs judgement?",
+    "readingArt": [
+      {
+        "description": "Several particular acts share a pattern without losing their different positions and shapes.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "path",
+            "d": "M81 112 L115 93 L137 121 L106 140 Z"
+          },
+          {
+            "id": "two",
+            "type": "path",
+            "d": "M180 97 Q223 83 229 125 Q208 148 182 126 Z"
+          },
+          {
+            "id": "three",
+            "type": "path",
+            "d": "M273 103 L308 109 L311 142 L279 135 Z"
+          },
+          {
+            "id": "relation",
+            "type": "path",
+            "d": "M101 165 Q208 180 304 163"
+          },
+          {
+            "id": "pattern",
+            "type": "text",
+            "x": 199,
+            "y": 211,
+            "text": "a recurring value"
+          }
+        ]
+      },
+      {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-ultimate",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Ultimate meaning",
+    "title": "The larger question",
+    "statement": "A local meaning need not settle the meaning of everything.",
+    "explanation": "Frankl distinguishes particular meanings from questions of ultimate meaning. A person can respond to a concrete task without possessing an explanation of the whole world.",
+    "nuance": "Imagine caring for an injured bird while remaining uncertain about why a world contains suffering. The act can have a clear object even while the larger question is unresolved. This example separates two scales of inquiry. It does not claim that the ultimate question is pointless, or that small helpful acts justify the suffering that made them necessary. A real response may remain much narrower than a complete explanation.\n\nThe temptation runs in two directions. Someone may postpone every act until a total answer arrives, or declare that one meaningful encounter proves the world is finally explained. Both leap between scales. The first may block an available response; the second may silence doubts that remain serious. A local answer can matter without carrying the burden of resolving every tragedy, injustice, or uncertainty around it.\n\nThe outer boundary is incomplete and the nearer path reaches a task. The task’s clarity does not close the boundary. Frankl’s larger philosophical writings give faith and transcendence a place; the image leaves room to examine those commitments rather than requiring them as the price of entry. This distinction allows a person to act with care while acknowledging that their understanding remains partial.",
+    "sources": [
+      "frankl-ultimate"
+    ],
+    "metaphor": "A clear local path reaches a visible task while a wider boundary remains incomplete.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "ultimate meaning",
+      "variant": "frankl-ultimate",
+      "composition": {
+        "description": "A clear local path reaches a visible task while a wider boundary remains incomplete.",
+        "actors": [
+          {
+            "id": "wide",
+            "type": "path",
+            "d": "M77 114 C79 42 173 29 260 51 Q318 67 325 117",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 131,
+            "y": 143,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "local",
+            "type": "path",
+            "d": "M153 152 Q204 167 252 141",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M265 122 L299 122 L298 160 L265 159 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "local-label",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "this answer is possible",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "ultimate meaning",
+      "meaning"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 11
+    },
+    "related": [
+      "frankl-sunday",
+      "frankl-a-deed"
+    ],
+    "reflection": "What can be answered here without claiming to answer everything?",
+    "readingArt": [
+      {
+        "description": "A clear local path reaches a visible task while a wider boundary remains incomplete.",
+        "actors": [
+          {
+            "id": "wide",
+            "type": "path",
+            "d": "M77 114 C79 42 173 29 260 51 Q318 67 325 117",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 131,
+            "y": 143
+          },
+          {
+            "id": "local",
+            "type": "path",
+            "d": "M153 152 Q204 167 252 141"
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M265 122 L299 122 L298 160 L265 159 Z"
+          },
+          {
+            "id": "local-label",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "this answer is possible"
+          }
+        ]
+      },
+      {
+        "description": "A finite strip of time gains marks through encounters; the endpoint remains.",
+        "actors": [
+          {
+            "id": "time",
+            "type": "path",
+            "d": "M70 165 Q192 162 330 165 M329 155 L329 176"
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M114 151 L114 173 M159 150 L159 174 M209 151 L209 175 M272 151 L272 175"
+          },
+          {
+            "id": "now",
+            "type": "text",
+            "x": 203,
+            "y": 112,
+            "text": "not endless"
+          },
+          {
+            "id": "held",
+            "type": "text",
+            "x": 202,
+            "y": 209,
+            "text": "not worthless"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-optimism-demand",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "The limits of optimism",
+    "title": "A feeling cannot be ordered",
+    "statement": "Hope loses its care when it becomes an obligation to appear hopeful.",
+    "explanation": "Frankl explicitly rejects forcing optimism or happiness on a person. A meaningful possibility can be explored while uncertainty, grief, or despair is honestly present.",
+    "nuance": "Imagine a visitor insisting that a seriously ill friend must stay positive for the treatment to work. The visitor may intend encouragement, yet the demand can make fear feel like another failure the patient must hide. It also assigns emotional responsibility for outcomes the patient cannot control. This example makes the cost of compulsory optimism visible without denying that genuine encouragement or hope can be important.\n\nA more attentive encounter might ask what is difficult today, what support is wanted, and whether there is something worth planning together. These questions allow hope to have an object without requiring a performance. They do not guarantee a better mood. A person may still be frightened after a caring conversation, and that fact does not invalidate either the care offered or the honesty of the fear expressed.\n\nThe wall and the person remain together in the illustration; the wall is not removed to certify a happy ending. The distinction concerns room for a response rather than a demanded emotion. Tragic optimism, read carefully, must remain tragic. Its possibility is offered beside the loss, not used to instruct a sufferer to display a story that makes witnesses less uncomfortable about what they cannot fix. The scene preserves that difference: an immovable wall stays still while the person changes their stance beside it.",
+    "sources": [
+      "frankl-postscript"
+    ],
+    "metaphor": "An immovable wall stays still while the person changes their stance beside it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the limits of optimism",
+      "variant": "frankl-wall",
+      "composition": {
+        "description": "An immovable wall stays still while the person changes their stance beside it.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M254 49 L251 183 M259 50 L257 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 173,
+            "y": 138,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 12,
+              "y": -2
+            }
+          },
+          {
+            "id": "stance",
+            "type": "path",
+            "d": "M124 194 Q163 188 212 194",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "fixed",
+            "type": "text",
+            "x": 285,
+            "y": 204,
+            "text": "unchanged",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "stance-label",
+            "type": "text",
+            "x": 146,
+            "y": 65,
+            "text": "a response",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the limits of optimism",
+      "the limits"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-limits",
+      "order": 8
+    },
+    "related": [
+      "frankl-attitude-emotion",
+      "frankl-avoidable"
+    ],
+    "reflection": "Does this encouragement make room for the person’s actual experience?",
+    "readingArt": [
+      {
+        "description": "An immovable wall stays still while the person changes their stance beside it.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M254 49 L251 183 M259 50 L257 182"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 173,
+            "y": 138
+          },
+          {
+            "id": "stance",
+            "type": "path",
+            "d": "M124 194 Q163 188 212 194"
+          },
+          {
+            "id": "fixed",
+            "type": "text",
+            "x": 285,
+            "y": 204,
+            "text": "unchanged"
+          },
+          {
+            "id": "stance-label",
+            "type": "text",
+            "x": 146,
+            "y": 65,
+            "text": "a response"
+          }
+        ]
+      },
+      {
+        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 128,
+            "y": 135
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 278,
+            "y": 135
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M146 85 Q204 54 260 85"
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M168 153 Q201 183 238 153"
+          },
+          {
+            "id": "between",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "encounter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-attitude-emotion",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Attitude and emotion",
+    "title": "Not the same movement",
+    "statement": "Taking a stand does not require feeling the way you wish to feel.",
+    "explanation": "Frankl’s language of attitude concerns a position taken toward a situation. It should not be confused with unlimited voluntary command over emotions or bodily reactions.",
+    "nuance": "A person may feel fear while making a carefully considered decision to testify about wrongdoing. The fear and the decision belong to the same event. Describing the testimony as courageous does not establish that fear has been conquered, or that anyone under similar pressure should be able to act. The example distinguishes a possible stance from a prescribed emotional condition without denying the constraints shaping both.\n\nConsider also someone choosing to remain present with a grieving friend while feeling awkward and helpless. Those emotions may continue throughout the visit. The act need not be invalidated because the visitor failed to feel calm. This example concerns practical orientation: whether the friend is met with attention. It is different from pretending the feelings are irrelevant or insisting that they cannot affect the encounter.\n\nThe lower wavering line stays visible while the upper line opens toward a response. The arrangement represents coexistence, not an emotion being upgraded into a better one. A philosophical distinction can help make sense of a difficult act, but it cannot measure another person’s available capacity from outside. Care requires asking about the conditions of the response, rather than treating a desired stance as something everybody can simply select.",
+    "sources": [
+      "frankl-attitude"
+    ],
+    "metaphor": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "attitude and emotion",
+      "variant": "frankl-levels",
+      "composition": {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "attitude and emotion",
+      "the limits"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-limits",
+      "order": 9
+    },
+    "related": [
+      "frankl-avoidable",
+      "frankl-unavoidable"
+    ],
+    "reflection": "What response is possible without demanding that the feeling disappear first?",
+    "readingArt": [
+      {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172"
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78"
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable"
+          }
+        ]
+      },
+      {
+        "description": "An immovable wall stays still while the person changes their stance beside it.",
+        "actors": [
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M254 49 L251 183 M259 50 L257 182"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 173,
+            "y": 138
+          },
+          {
+            "id": "stance",
+            "type": "path",
+            "d": "M124 194 Q163 188 212 194"
+          },
+          {
+            "id": "fixed",
+            "type": "text",
+            "x": 285,
+            "y": 204,
+            "text": "unchanged"
+          },
+          {
+            "id": "stance-label",
+            "type": "text",
+            "x": 146,
+            "y": 65,
+            "text": "a response"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-avoidable",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Preventable suffering",
+    "title": "Change what can change",
+    "statement": "Accepting a burden is not admirable merely because the burden hurts.",
+    "explanation": "Frankl’s argument for meaning in unavoidable suffering is bounded by the distinction between what can and cannot be changed. Avoidable suffering calls first for removal, protection, or help.",
+    "nuance": "Imagine an employee enduring an unsafe practice because persistence has become the organisation’s badge of seriousness. The suffering is real, yet the relevant task may be to change the practice rather than find a noble interpretation of enduring it. This example shows why the word unavoidable cannot be assumed. It can become convenient for those with power to prevent a harm they would rather someone else absorb.\n\nThe distinction may also require collective action. One person cannot repair a system alone; that does not make the system a natural fate. Resources, other workers, professional advice, and institutions can enlarge the available possibilities. Recognising limited personal control and identifying preventable harm can therefore coexist. A compassionate account should not make an individual’s response carry every responsibility that belongs elsewhere.\n\nThe opening appears within the walls without making the walls disappear. It suggests two questions: what can this person do now, and what should others change about the conditions? Neither cancels the other. Frankl’s narrow claim is damaged when it becomes admiration for suffering in general. The value, if one can be found, belongs to a relation or response; pain by itself is not a credential that makes a life meaningful.",
+    "sources": [
+      "frankl-suffering"
+    ],
+    "metaphor": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "preventable suffering",
+      "variant": "frankl-gap",
+      "composition": {
+        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+        "actors": [
+          {
+            "id": "limits",
+            "type": "path",
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 197,
+            "y": 119,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "step",
+            "type": "path",
+            "d": "M179 202 Q195 196 212 202",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "possible",
+            "type": "text",
+            "x": 204,
+            "y": 58,
+            "text": "within limits",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 3
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "preventable suffering",
+      "the limits"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-limits",
+      "order": 10
+    },
+    "related": [
+      "frankl-unavoidable",
+      "frankl-freedom-limits"
+    ],
+    "reflection": "Who has the power to change the conditions being called unavoidable?",
+    "readingArt": [
+      {
+        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+        "actors": [
+          {
+            "id": "limits",
+            "type": "path",
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 197,
+            "y": 119
+          },
+          {
+            "id": "step",
+            "type": "path",
+            "d": "M179 202 Q195 196 212 202"
+          },
+          {
+            "id": "possible",
+            "type": "text",
+            "x": 204,
+            "y": 58,
+            "text": "within limits"
+          }
+        ]
+      },
+      {
+        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
+          },
+          {
+            "id": "bridge",
+            "type": "path",
+            "d": "M130 151 L173 153 M222 153 L268 152"
+          },
+          {
+            "id": "plank",
+            "type": "path",
+            "d": "M174 153 Q198 149 222 153"
+          },
+          {
+            "id": "worker",
+            "type": "figure",
+            "x": 124,
+            "y": 132
+          },
+          {
+            "id": "action",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "a deed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-noogenic",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Noogenic and psychogenic",
+    "title": "Different kinds of difficulty",
+    "statement": "A conflict about values is not explained merely by tracing an emotional mechanism.",
+    "explanation": "Frankl calls some difficulties noogenic when their central issue concerns meaning or conscience. He distinguishes them from psychogenic explanations without making meaning the cause of all illness.",
+    "nuance": "Suppose a person experiences distress while preparing to falsify a report their employer demands. The distress may concern a genuine conflict of values. An account focused only on reducing anxiety would risk helping the person feel easier about an act that still deserves scrutiny. This example shows why the object of distress matters alongside its mechanisms: what is the unease actually answering in the situation?\n\nNow imagine distress that persists across circumstances and severely disrupts sleep or ordinary life. A philosophical conversation may matter, but it does not establish what care is needed. The contrast prevents an existential vocabulary from absorbing every condition into one preferred explanation. Values, illness, social pressure, and bodily processes can interact. A distinction between them is a tool for asking better questions, not a way to diagnose someone from a card.\n\nThe diagram keeps the layers connected while giving each a separate form. A value conflict is not made unreal by accompanying physical symptoms, and symptoms are not cured merely by identifying a conflict. Frankl’s historical terminology should be approached as part of his therapeutic framework. The useful practical limit is to resist allowing any one account to silence another before the person’s actual circumstances have been understood.",
+    "sources": [
+      "frankl-theory"
+    ],
+    "metaphor": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "noogenic and psychogenic",
+      "variant": "frankl-levels",
+      "composition": {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "noogenic and psychogenic",
+      "the person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 9
+    },
+    "related": [
+      "frankl-past-ledger",
+      "frankl-dignity"
+    ],
+    "reflection": "What is this distress about, and what else requires care alongside that question?",
+    "readingArt": [
+      {
+        "description": "Bodily conditions and emotional states remain visible below an open relation to a possible response.",
+        "actors": [
+          {
+            "id": "body",
+            "type": "path",
+            "d": "M98 171 L306 172"
+          },
+          {
+            "id": "psyche",
+            "type": "path",
+            "d": "M102 121 Q147 85 191 124 Q244 162 304 119",
+            "tone": "faint"
+          },
+          {
+            "id": "response",
+            "type": "path",
+            "d": "M111 76 Q207 47 297 78"
+          },
+          {
+            "id": "layers",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "related, not interchangeable"
+          }
+        ]
+      },
+      {
+        "description": "Two meaningful routes require different turns at the same fork; neither branch is erased.",
+        "actors": [
+          {
+            "id": "path",
+            "type": "path",
+            "d": "M202 190 L201 132 Q157 102 116 62 M201 132 Q247 107 291 67"
+          },
+          {
+            "id": "one",
+            "type": "text",
+            "x": 109,
+            "y": 45,
+            "text": "one claim"
+          },
+          {
+            "id": "two",
+            "type": "text",
+            "x": 285,
+            "y": 46,
+            "text": "another claim"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 202,
+            "y": 141
+          },
+          {
+            "id": "judgement",
+            "type": "text",
+            "x": 204,
+            "y": 219,
+            "text": "judgement remains"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-dialogue",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Socratic dialogue",
+    "title": "The question that opens",
+    "statement": "A question can reveal a possibility without installing the questioner’s answer.",
+    "explanation": "Frankl’s use of Socratic dialogue draws attention to assumptions, possibilities, and responsibility. Its value depends on helping a person think, rather than quietly steering them to the helper’s preferred conclusion.",
+    "nuance": "Imagine someone saying that quitting a job would mean abandoning every commitment. A question about which commitments would really remain may reveal an unnoticed alternative. The question does not need to argue that leaving is right. It examines the all-or-nothing picture in which the person has been deciding. The conversation opens a possibility while the concrete decision still belongs to the person whose work and relationships will change.\n\nA leading question can do the opposite. Asking whether a caring person would really leave may contain a judgement already disguised as inquiry. This contrast asks how the question is functioning: does disagreement remain possible without losing the helper’s respect? An apparently gentle conversation can still use authority to narrow a person’s field of choice. The form of a question alone does not make it respectful.\n\nThe compass is placed among several directions, not carried to a destination by the questioner. Good dialogue makes relevant differences clearer and lets the answer remain unsettled while thinking proceeds. Frankl’s account includes a firm limit against imposing the therapist’s values. That limit matters most when uncertainty makes a person eager for someone else to decide, because accepting a substitute answer can feel briefly safer than exercising judgement.",
+    "sources": [
+      "frankl-dialogue"
+    ],
+    "metaphor": "Several demands surround a person; one specific direction becomes legible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "socratic dialogue",
+      "variant": "frankl-compass",
+      "composition": {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "socratic dialogue",
+      "responsibility"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 9
+    },
+    "related": [
+      "frankl-mass-direction",
+      "frankl-work-role"
+    ],
+    "reflection": "Does this question permit an answer the helper would not choose?",
+    "readingArt": [
+      {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation"
+          }
+        ]
+      },
+      {
+        "description": "A question above the person is answered by an action toward a waiting task.",
+        "actors": [
+          {
+            "id": "ask",
+            "type": "text",
+            "x": 190,
+            "y": 48,
+            "text": "what is asked of me?"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 125,
+            "y": 140
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M257 102 L310 104 L308 167 L256 165 Z"
+          },
+          {
+            "id": "reply",
+            "type": "path",
+            "d": "M152 148 Q198 158 240 138 M230 132 L241 138 L231 146"
+          },
+          {
+            "id": "answer",
+            "type": "text",
+            "x": 204,
+            "y": 204,
+            "text": "answer in action"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-sunday",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Sunday neurosis",
+    "title": "When the noise stops",
+    "statement": "The end of a busy week can expose a question busyness concealed.",
+    "explanation": "Frankl uses Sunday neurosis for unease that appears when the week’s activity falls quiet. The example concerns the relation between occupation and direction, not a diagnosis of ordinary dislike of weekends.",
+    "nuance": "Imagine anticipating a free day and then filling it anxiously with small obligations. The freedom from deadlines has arrived, but a reason to inhabit it has not. An external schedule may have supplied movement without supplying a chosen direction. Frankl’s historical label points to this possible distinction. The question is what becomes perceptible in the silence, rather than whether every open afternoon should be put to productive use.\n\nThe same weekend can instead feel difficult because of isolation, caregiving, financial worry, or a long period of exhaustion. Those conditions matter. This comparison prevents the label from becoming an explanation merely because the timing resembles its example. Asking what fills a week and what disappears when it ends gives a better starting point than presuming that discomfort proves an unmeaningful life.\n\nThe timetable has populated edges and an open middle. It is a diagram of one possible structure, not a portrait of every person who dislikes unoccupied time. A meaningful response could involve a relationship, a valued activity, rest, or help with the material conditions of the day. More activity is not automatically the answer. The central distinction remains whether a task provides direction or mainly keeps a difficult question out of hearing.",
+    "sources": [
+      "frankl-search"
+    ],
+    "metaphor": "A full timetable is outlined, then an empty middle becomes apparent.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "sunday neurosis",
+      "variant": "frankl-empty",
+      "composition": {
+        "description": "A full timetable is outlined, then an empty middle becomes apparent.",
+        "actors": [
+          {
+            "id": "schedule",
+            "type": "path",
+            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "ticks",
+            "type": "path",
+            "d": "M127 68 L156 69 M234 68 L269 68 M127 174 L163 175 M233 174 L272 174",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "vacancy",
+            "type": "text",
+            "x": 200,
+            "y": 127,
+            "text": "but what for?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "sunday neurosis",
+      "meaning"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-meaning",
+      "order": 12
+    },
+    "related": [
+      "frankl-a-deed",
+      "frankl-encounter"
+    ],
+    "reflection": "What does this quiet interval reveal about the direction of the week?",
+    "readingArt": [
+      {
+        "description": "A full timetable is outlined, then an empty middle becomes apparent.",
+        "actors": [
+          {
+            "id": "schedule",
+            "type": "path",
+            "d": "M112 54 L286 55 L286 191 L111 189 Z M112 88 L286 88 M112 156 L286 156"
+          },
+          {
+            "id": "ticks",
+            "type": "path",
+            "d": "M127 68 L156 69 M234 68 L269 68 M127 174 L163 175 M233 174 L272 174",
+            "tone": "faint"
+          },
+          {
+            "id": "vacancy",
+            "type": "text",
+            "x": 200,
+            "y": 127,
+            "text": "but what for?"
+          }
+        ]
+      },
+      {
+        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 128,
+            "y": 135
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 278,
+            "y": 135
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M146 85 Q204 54 260 85"
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M168 153 Q201 183 238 153"
+          },
+          {
+            "id": "between",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "encounter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-mass-direction",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conformism and totalitarianism",
+    "title": "An answer supplied from outside",
+    "statement": "When direction is uncertain, another person’s demand can begin to feel like an answer.",
+    "explanation": "Frankl describes conformism and obedience to imposed direction among responses to existential emptiness. His account examines a vulnerability, rather than claiming it explains every social or political choice.",
+    "nuance": "A person uncertain about what to do may copy what everyone around them is doing. The copying supplies a ready path and reduces the discomfort of standing apart. It may lead to harmless customs or to damaging conduct. Frankl’s concern is what happens when borrowed direction replaces judgement, so that the question of meaning appears settled by belonging rather than by the concrete value of the act.\n\nBeing told what to do can offer a similar temporary relief. Yet coercion and reassurance are not the same event: someone may obey because refusal is dangerous, rather than because emptiness made obedience attractive. This contrast keeps the social conditions visible. A psychological account must not erase the person’s resources, risks, or the force used by institutions that claim authority over their available choices.\n\nThe opening among walls is connected to several possible directions. No path carries a guarantee merely because a group repeats it. Frankl’s broad claims should be examined historically rather than treated as a universal explanation of political domination. Their useful limited question is whether a person is allowed to ask what an instruction serves, and whether belonging has made that question seem unnecessary or disloyal.",
+    "sources": [
+      "frankl-search"
+    ],
+    "metaphor": "Several demands surround a person; one specific direction becomes legible.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "conformism and totalitarianism",
+      "variant": "frankl-compass",
+      "composition": {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "conformism and totalitarianism",
+      "responsibility"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 10
+    },
+    "related": [
+      "frankl-work-role",
+      "frankl-unfinished"
+    ],
+    "reflection": "What does this shared direction serve beyond removing the need to decide?",
+    "readingArt": [
+      {
+        "description": "Several demands surround a person; one specific direction becomes legible.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 133
+          },
+          {
+            "id": "options",
+            "type": "path",
+            "d": "M113 65 L157 103 M288 69 L245 104 M92 175 L156 145",
+            "tone": "faint"
+          },
+          {
+            "id": "choice",
+            "type": "path",
+            "d": "M242 146 Q272 153 309 165 M301 157 L311 166 L299 167"
+          },
+          {
+            "id": "here",
+            "type": "text",
+            "x": 274,
+            "y": 202,
+            "text": "this situation"
+          }
+        ]
+      },
+      {
+        "description": "The enclosing walls remain, but a narrow passage becomes visible and a small step moves into it.",
+        "actors": [
+          {
+            "id": "limits",
+            "type": "path",
+            "d": "M74 64 L74 183 L164 183 M234 183 L325 183 L325 65"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 197,
+            "y": 119
+          },
+          {
+            "id": "step",
+            "type": "path",
+            "d": "M179 202 Q195 196 212 202"
+          },
+          {
+            "id": "possible",
+            "type": "text",
+            "x": 204,
+            "y": 58,
+            "text": "within limits"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-work-role",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Work and vocation",
+    "title": "Beyond the role title",
+    "statement": "A job title cannot settle the meaning of the acts performed within it.",
+    "explanation": "Frankl locates creative value in what a person brings to a task and whom it serves. Meaning is not automatically bestowed by prestige, pay, or naming a role a vocation.",
+    "nuance": "Imagine two people holding the same administrative job. One notices that a confusing form prevents applicants from obtaining assistance and helps make it clearer. The other completes the prescribed work competently but sees no reason to consider that effect. The comparison is not a ranking of people’s worth. It shows how the same role can contain possibilities that its official title neither recognises nor guarantees.\n\nUnpaid care can contain similar creative acts, and a prestigious occupation can contain pointless or harmful ones. Material conditions still matter: a person with no time or authority may be unable to revise the form. This example keeps initiative from becoming blame. The task’s meaning is discovered within constraints, and those constraints may themselves deserve change before a thoughtful contribution becomes possible.\n\nThe incomplete bridge gains a small connection from an ordinary figure. Nothing labels the figure’s status. The visual asks what is done in a relation, rather than what kind of person the role announces to an audience. Frankl’s view should not be turned into a claim that every job is meaningful if workers adjust their attitude. Some work damages people, and refusing or reorganising it may be the responsible response.",
+    "sources": [
+      "frankl-doctor"
+    ],
+    "metaphor": "An unfinished bridge gains its missing plank through a small deliberate action.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "work and vocation",
+      "variant": "frankl-repair",
+      "composition": {
+        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "bridge",
+            "type": "path",
+            "d": "M130 151 L173 153 M222 153 L268 152",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "plank",
+            "type": "path",
+            "d": "M174 153 Q198 149 222 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "worker",
+            "type": "figure",
+            "x": 124,
+            "y": 132,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "action",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "a deed",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "work and vocation",
+      "responsibility"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 11
+    },
+    "related": [
+      "frankl-unfinished",
+      "frankl-question"
+    ],
+    "reflection": "What possibility of service does this role allow, and what does it prevent?",
+    "readingArt": [
+      {
+        "description": "An unfinished bridge gains its missing plank through a small deliberate action.",
+        "actors": [
+          {
+            "id": "banks",
+            "type": "path",
+            "d": "M60 179 Q107 174 151 179 M246 179 Q293 175 340 180"
+          },
+          {
+            "id": "bridge",
+            "type": "path",
+            "d": "M130 151 L173 153 M222 153 L268 152"
+          },
+          {
+            "id": "plank",
+            "type": "path",
+            "d": "M174 153 Q198 149 222 153"
+          },
+          {
+            "id": "worker",
+            "type": "figure",
+            "x": 124,
+            "y": 132
+          },
+          {
+            "id": "action",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "a deed"
+          }
+        ]
+      },
+      {
+        "description": "Two equally direct routes terminate differently: one reaches a thing, one answers another person.",
+        "actors": [
+          {
+            "id": "route1",
+            "type": "path",
+            "d": "M81 84 L269 84"
+          },
+          {
+            "id": "box",
+            "type": "path",
+            "d": "M269 69 L298 70 L297 99 L269 100 Z"
+          },
+          {
+            "id": "route2",
+            "type": "path",
+            "d": "M80 162 Q171 153 255 160"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 282,
+            "y": 147
+          },
+          {
+            "id": "goal",
+            "type": "text",
+            "x": 133,
+            "y": 65,
+            "text": "a result"
+          },
+          {
+            "id": "value",
+            "type": "text",
+            "x": 151,
+            "y": 203,
+            "text": "a responsibility"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-unfinished",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "A task in the future",
+    "title": "The unfinished thread",
+    "statement": "An unfinished task can make the future particular.",
+    "explanation": "Frankl describes the importance of a future relation or task that still calls for a response. It differs from believing that the future must contain a spectacular achievement.",
+    "nuance": "Imagine an unfinished letter containing something you have not yet said honestly. Its existence gives a possible next day a specific shape. The unfinished thing need not be large or admired. What matters is that it reaches beyond the present enclosure toward a real addressee. Frankl’s accounts give such orientation importance, while a reader should avoid treating one task as a guarantee that a person can endure every hardship.\n\nThe task can also change. The intended recipient may no longer want contact, or new facts may make the original project mistaken. This contrast prevents future orientation from hardening into blind persistence. An unfinished task is not sacred merely because it was begun. Responsibility can require revising or releasing it while looking for another relation that is genuinely available in the circumstances now faced.\n\nThe thread continues as a faint broken line because completion is possible rather than promised. It draws the person toward an answer without making success inevitable. People who cannot presently imagine a future task may need companionship, protection, or practical help before this kind of orientation is accessible. Their lives remain worthy of that care; a clear project is not an entrance requirement for human significance.",
+    "sources": [
+      "frankl-unique"
+    ],
+    "metaphor": "An unfinished line remains ahead of a person; the line draws a connection without guaranteeing completion.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "a task in the future",
+      "variant": "frankl-future-thread",
+      "composition": {
+        "description": "An unfinished line remains ahead of a person; the line draws a connection without guaranteeing completion.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 111,
+            "y": 137,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M134 133 Q174 71 218 111 Q254 160 288 104",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "unfinished",
+            "type": "path",
+            "d": "M288 104 L323 103",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "notyet",
+            "type": "text",
+            "x": 205,
+            "y": 214,
+            "text": "unfinished",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "a task in the future",
+      "responsibility"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-responsibility",
+      "order": 12
+    },
+    "related": [
+      "frankl-question",
+      "frankl-guilt"
+    ],
+    "reflection": "What remains to be answered, and does its original form still deserve commitment?",
+    "readingArt": [
+      {
+        "description": "An unfinished line remains ahead of a person; the line draws a connection without guaranteeing completion.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 111,
+            "y": 137
+          },
+          {
+            "id": "thread",
+            "type": "path",
+            "d": "M134 133 Q174 71 218 111 Q254 160 288 104"
+          },
+          {
+            "id": "unfinished",
+            "type": "path",
+            "d": "M288 104 L323 103",
+            "tone": "faint",
+            "dashed": true
+          },
+          {
+            "id": "notyet",
+            "type": "text",
+            "x": 205,
+            "y": 214,
+            "text": "unfinished"
+          }
+        ]
+      },
+      {
+        "description": "A door shows a task ahead; the person retains several possible approaches.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M260 181 L262 58 L323 60 L322 181"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 140,
+            "y": 137
+          },
+          {
+            "id": "paths",
+            "type": "path",
+            "d": "M162 173 Q206 163 251 169 M161 173 Q197 109 251 105"
+          },
+          {
+            "id": "future",
+            "type": "text",
+            "x": 199,
+            "y": 212,
+            "text": "still to answer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-past-ledger",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Past and moral judgement",
+    "title": "The archive is not a score",
+    "statement": "Keeping a past does not turn every event into an achievement.",
+    "explanation": "Frankl values completed meaning as something death or transience cannot simply annul. That claim must be distinguished from treating a whole biography as a favourable ledger.",
+    "nuance": "A person may remember providing real care during one part of a relationship and causing real harm during another. The care was not imaginary, and it does not buy cancellation of the harm. This example keeps acknowledgement from becoming moral arithmetic. Saying that a valuable act occurred is a limited historical claim. Deciding what responsibility now follows requires attending to the other events as well.\n\nLikewise, grief for a lost period need not require declaring the period perfect. A friendship can contain misunderstandings and still have mattered. A completed work can be worth remembering while its author continues to learn from its errors. These differences allow the past to remain complex rather than being rewritten as either an uninterrupted success or a complete failure according to the feeling of the present.\n\nThe archive keeps separate marks, not a single total number. Its value lies in preserving differences that a score would flatten. Frankl’s consoling account of having-been can be examined without using it to escape criticism. A meaningful act does not entitle its maker to admiration forever, and an imperfect history does not establish that every generous moment within it was false. The past remains something to understand, not merely grade.",
+    "sources": [
+      "frankl-past"
+    ],
+    "metaphor": "Marks fall from a moving present into a quiet archive rather than disappearing.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "past and moral judgement",
+      "variant": "frankl-past",
+      "composition": {
+        "description": "Marks fall from a moving present into a quiet archive rather than disappearing.",
+        "actors": [
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M85 89 L316 89",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "archive",
+            "type": "path",
+            "d": "M111 135 L111 183 L292 182 L292 133",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "mark1",
+            "type": "circle",
+            "x": 151,
+            "y": 145,
+            "r": 4,
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "y": 22
+            }
+          },
+          {
+            "id": "mark2",
+            "type": "circle",
+            "x": 204,
+            "y": 136,
+            "r": 4,
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "y": 25,
+              "delay": 2
+            }
+          },
+          {
+            "id": "mark3",
+            "type": "circle",
+            "x": 253,
+            "y": 145,
+            "r": 4,
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "y": 21,
+              "delay": 4
+            }
+          },
+          {
+            "id": "saved",
+            "type": "text",
+            "x": 200,
+            "y": 213,
+            "text": "having been",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "past and moral judgement",
+      "the person"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-the-person",
+      "order": 10
+    },
+    "related": [
+      "frankl-dignity",
+      "frankl-past-kept"
+    ],
+    "reflection": "What occurred here, and what does acknowledging it still leave to answer?",
+    "readingArt": [
+      {
+        "description": "Marks fall from a moving present into a quiet archive rather than disappearing.",
+        "actors": [
+          {
+            "id": "line",
+            "type": "path",
+            "d": "M85 89 L316 89"
+          },
+          {
+            "id": "archive",
+            "type": "path",
+            "d": "M111 135 L111 183 L292 182 L292 133"
+          },
+          {
+            "id": "mark1",
+            "type": "circle",
+            "x": 151,
+            "y": 145,
+            "r": 4
+          },
+          {
+            "id": "mark2",
+            "type": "circle",
+            "x": 204,
+            "y": 136,
+            "r": 4
+          },
+          {
+            "id": "mark3",
+            "type": "circle",
+            "x": 253,
+            "y": 145,
+            "r": 4
+          },
+          {
+            "id": "saved",
+            "type": "text",
+            "x": 200,
+            "y": 213,
+            "text": "having been"
+          }
+        ]
+      },
+      {
+        "description": "A damaged connection remains visible while a second line repairs the break.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 111,
+            "y": 135
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 293,
+            "y": 135
+          },
+          {
+            "id": "broken",
+            "type": "path",
+            "d": "M144 126 L188 130 M215 135 L259 128",
+            "tone": "faint"
+          },
+          {
+            "id": "repair",
+            "type": "path",
+            "d": "M146 142 Q199 174 256 141"
+          },
+          {
+            "id": "past",
+            "type": "text",
+            "x": 197,
+            "y": 92,
+            "text": "cannot undo"
+          },
+          {
+            "id": "next",
+            "type": "text",
+            "x": 204,
+            "y": 206,
+            "text": "can respond"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frankl-love-possibility",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Potential and possession",
+    "title": "A possibility is not a plan",
+    "statement": "Seeing someone’s capacity does not give you authority over its fulfilment.",
+    "explanation": "Frankl describes love as recognising possibilities in another person. A careful reading must distinguish that recognition from deciding what the other person must become.",
+    "nuance": "Imagine encouraging a friend’s musical ability while the friend wants a different life. You may see something real and still be mistaken about what it obliges them to pursue. Recognition can offer a possibility; it cannot make the friend a project owned by the recogniser. This example explores a limit within Frankl’s language of potential, keeping the other person’s judgement present instead of treating hope as privileged knowledge.\n\nThe reverse distinction also matters. A friend may be unable to recognise a capacity during a painful period, and your faith in it may help without becoming control. The question is how the recognition is offered: does refusal remain possible, and can the person surprise you? Love may attend to what is not yet expressed while remaining humble about the relation between a possibility and the life in which it could take shape.\n\nThe two figures share a line but retain separate positions. A faint path remains open beyond the second figure, rather than being drawn from the first person’s hand as a leash. That arrangement makes the ethical limit visible. Seeing potential is not a formula for always knowing better. Care can remain committed while revising its picture, respecting boundaries, and admitting that the other person’s future cannot be fully possessed in advance.",
+    "sources": [
+      "frankl-love"
+    ],
+    "metaphor": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "potential and possession",
+      "variant": "frankl-encounter",
+      "composition": {
+        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 128,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 278,
+            "y": 135,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M146 85 Q204 54 260 85",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M168 153 Q201 183 238 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "between",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "encounter",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 6
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "potential and possession",
+      "encounter"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "frankl-encounter",
+      "order": 6
+    },
+    "related": [
+      "frankl-outward",
+      "frankl-love"
+    ],
+    "reflection": "Can your hope for this person remain open to their different answer?",
+    "readingArt": [
+      {
+        "description": "Two people turn toward each other; a shared space takes shape without either being absorbed.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 128,
+            "y": 135
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 278,
+            "y": 135
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M146 85 Q204 54 260 85"
+          },
+          {
+            "id": "shared",
+            "type": "path",
+            "d": "M168 153 Q201 183 238 153"
+          },
+          {
+            "id": "between",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "encounter"
+          }
+        ]
+      },
+      {
+        "description": "A door shows a task ahead; the person retains several possible approaches.",
+        "actors": [
+          {
+            "id": "door",
+            "type": "path",
+            "d": "M260 181 L262 58 L323 60 L322 181"
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 140,
+            "y": 137
+          },
+          {
+            "id": "paths",
+            "type": "path",
+            "d": "M162 173 Q206 163 251 169 M161 173 Q197 109 251 105"
+          },
+          {
+            "id": "future",
+            "type": "text",
+            "x": 199,
+            "y": 212,
+            "text": "still to answer"
+          }
+        ]
+      }
+    ]
   }
 ]

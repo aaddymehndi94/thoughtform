@@ -94,5 +94,59 @@
     "author": "Viktor Frankl Center Vienna",
     "reference": "“Tragic Optimism”; compare Man’s Search for Meaning, postscript “The Case for a Tragic Optimism”",
     "url": "https://www.franklzentrum.org/english/about-logotherapy.html"
+  },
+  "frankl-theory": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy in a Nutshell”: will to meaning, existential frustration, and noogenic neuroses; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-technique-book": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy as a Technique”: hyper-intention, hyper-reflection, and dereflection; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-postscript": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Postscript, “The Case for a Tragic Optimism”: happiness requires a reason; optimism cannot be commanded; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-doctor": {
+    "title": "The Doctor and the Soul",
+    "author": "Viktor E. Frankl",
+    "reference": "Existential analysis of work and the distinction between meaning and outward success; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-dimensions": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of dimensional ontology and criticism of reductionism; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-values-book": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of unique situational meaning, universal values, and value conflicts; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-ultimate": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “The Super-Meaning”; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-attitude": {
+    "title": "The Doctor and the Soul",
+    "author": "Viktor E. Frankl",
+    "reference": "Existential analysis of suffering; attitudinal values where circumstances cannot be changed; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-religion": {
+    "title": "Ten Theses about the Person",
+    "author": "Viktor E. Frankl",
+    "reference": "Thesis 10: religion as an object of logotherapy rather than its standpoint; compare The Unconscious God / Man’s Search for Ultimate Meaning",
+    "url": "https://www.viktorfrankl.org/texts.html"
   }
 }
