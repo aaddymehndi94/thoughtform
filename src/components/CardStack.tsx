@@ -22,6 +22,7 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
   if (!g.active) return;
   g.active = false;
   const delta = x.get();
+  if (!g.axis && Math.hypot(e.clientX - g.x, e.clientY - g.y) < 9 && !window.getSelection()?.toString()) { setExpanded(value => !value); return; }
   const velocity = performance.now() - g.lastTime < 100 ? g.velocity : 0;
   const direction = delta < 0 ? 1 : -1;
   const atEdge = (direction < 0 && index === 0) || (direction > 0 && index === total - 1);
@@ -32,7 +33,7 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
   if (e.currentTarget.hasPointerCapture(e.pointerId)) e.currentTarget.releasePointerCapture(e.pointerId);
   g.axis = '';
  }
- return <div className="stack">
+ return <div className="stack"><span id="card-interaction-hint" className="sr-only">Tap anywhere on the thought or press Enter to expand the reading. Tap again to collapse. Swipe left for the next thought and right for the previous thought.</span>
   <motion.div className="under-card" style={{ scale: underScale, y: underY }} aria-hidden="true"><span>{next.title}</span></motion.div>
   <motion.article className="teaching-card" style={{ x, rotate: reduced ? 0 : rotate }}
    onPointerDown={e => {
@@ -51,7 +52,7 @@ export function CardStack({ card, next, index, total, saved, onSave, onMove }: P
     x.set(edge ? dx / (1 + Math.abs(dx) / 32) : dx * .9);
    }}
    onPointerUp={release} onPointerCancel={() => { gesture.current.active = false; settle(); }}
-   aria-label={`${card.title}, thought ${index + 1} of ${total}`}>
+   aria-label={`${card.title}, thought ${index + 1} of ${total}`} tabIndex={0} aria-describedby="card-interaction-hint" onKeyDown={e => { if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); setExpanded(value => !value); } }}>
    <div className="card-heading"><span className="eyebrow">Carl Jung <span className="middot">/</span> {card.concept}</span><button className={`icon-button bookmark ${saved ? 'saved' : ''}`} aria-label={saved ? 'Remove bookmark' : 'Bookmark this thought'} aria-pressed={saved} onClick={onSave}><Icon name="bookmark" size={18}/></button></div>
    <Illustration kind={card.scene.kind} caption={card.scene.caption}/>
    <div className="card-copy"><span className="concept-number">{String(index + 1).padStart(3, '0')} <span>—</span> {card.collection}</span><h1>{card.title}</h1><p className="statement">{card.statement}</p><p className="explanation">{card.explanation}</p>
