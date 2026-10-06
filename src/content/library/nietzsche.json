@@ -11914,332 +11914,697 @@
     "sources": [
       "gs-341"
     ],
-    "metaphor": "A sequence of lived moments is returned intact, including the painful episode that a selective affirmation would remove.",
+    "metaphor": "A gift exchanged, an empty chair, and an ordinary cup form a life’s sequence. The same episodes return in the same order, with the loss retained; the thought tests affirmation of the whole sequence.",
     "scene": {
       "kind": "notebook",
       "caption": "eternal recurrence",
       "variant": "eternal-recurrence",
       "lesson": {
-        "description": "A sequence of lived moments is returned intact, including the painful episode that a selective affirmation would remove.",
+        "description": "A gift exchanged, an empty chair, and an ordinary cup form a life’s sequence. The same episodes return in the same order, with the loss retained; the thought tests affirmation of the whole sequence.",
         "beats": [
           {
-            "caption": "Imagine every episode of this life returning.",
-            "duration": 3.5,
+            "caption": "A life contains pleasure, loss, and ordinary unremarkable days.",
+            "duration": 3.9,
             "actors": [
               {
-                "id": "one",
+                "id": "joy",
                 "type": "group",
+                "x": 80,
+                "y": 116,
                 "children": [
                   {
-                    "id": "one-outline",
-                    "type": "path",
-                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
+                    "id": "giver",
+                    "type": "figure",
+                    "x": -25,
+                    "y": 0,
+                    "facing": false,
+                    "pose": {
+                      "scale": 0.48
+                    }
                   },
                   {
-                    "id": "one-word0-line0",
+                    "id": "receiver",
+                    "type": "figure",
+                    "x": 25,
+                    "y": 0,
+                    "facing": true,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "gift",
+                    "type": "path",
+                    "d": "M-8 -5 L9 -5 L9 11 L-8 11 Z M0 -5 L0 11 M-8 2 L9 2 M0 -5 Q-11 -16 -7 -18 Q0 -16 0 -5 Q3 -17 9 -17 Q13 -10 0 -5"
+                  },
+                  {
+                    "id": "label",
                     "type": "text",
                     "text": "joy",
                     "x": 0,
-                    "y": -14.0,
+                    "y": 52,
                     "anchor": "middle",
-                    "fontSize": 16
+                    "fontSize": 21
                   }
                 ],
-                "x": 90,
-                "y": 105
+                "pose": {
+                  "scale": 1
+                }
               },
               {
-                "id": "two",
+                "id": "loss",
                 "type": "group",
+                "x": 200,
+                "y": 116,
                 "children": [
                   {
-                    "id": "two-outline",
+                    "id": "chair",
                     "type": "path",
-                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
+                    "d": "M-13 -25 L10 -25 L10 2 L-13 2 Z M-19 6 L17 6 M-16 7 L-18 29 M13 7 L16 29"
                   },
                   {
-                    "id": "two-word0-line0",
+                    "id": "label",
                     "type": "text",
                     "text": "loss",
                     "x": 0,
-                    "y": -14.0,
+                    "y": 52,
                     "anchor": "middle",
-                    "fontSize": 16
+                    "fontSize": 21
                   }
                 ],
-                "x": 200,
-                "y": 105
+                "pose": {
+                  "scale": 1
+                }
               },
               {
-                "id": "three",
+                "id": "daily",
                 "type": "group",
+                "x": 320,
+                "y": 116,
                 "children": [
                   {
-                    "id": "three-outline",
+                    "id": "cup",
                     "type": "path",
-                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
+                    "d": "M-18 -14 L14 -13 L11 17 Q-2 23 -16 16 Z M15 -8 Q33 -8 28 4 Q22 10 13 8 M-24 29 Q-2 34 21 29"
                   },
                   {
-                    "id": "three-word0-line0",
+                    "id": "steam",
+                    "type": "path",
+                    "d": "M-9 -37 Q-17 -31 -9 -24 M4 -37 Q-4 -30 4 -23",
+                    "tone": "shade"
+                  },
+                  {
+                    "id": "label",
                     "type": "text",
-                    "text": "daily",
+                    "text": "ordinary days",
                     "x": 0,
-                    "y": -14.0,
+                    "y": 52,
                     "anchor": "middle",
-                    "fontSize": 16
+                    "fontSize": 21
                   }
                 ],
-                "x": 307,
-                "y": 105
+                "pose": {
+                  "scale": 1
+                }
               }
             ]
           },
           {
-            "caption": "Pleasure, boredom, loss, and small unnoticed moments all return together.",
-            "duration": 3.5,
+            "caption": "Imagine the entire sequence returning in precisely the same order.",
+            "duration": 4.2,
             "actors": [
               {
-                "id": "one",
+                "id": "joy",
                 "type": "group",
+                "x": 80,
+                "y": 73,
                 "children": [
                   {
-                    "id": "one-outline",
-                    "type": "path",
-                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
+                    "id": "giver",
+                    "type": "figure",
+                    "x": -25,
+                    "y": 0,
+                    "facing": false,
+                    "pose": {
+                      "scale": 0.48
+                    }
                   },
                   {
-                    "id": "one-word0-line0",
+                    "id": "receiver",
+                    "type": "figure",
+                    "x": 25,
+                    "y": 0,
+                    "facing": true,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "gift",
+                    "type": "path",
+                    "d": "M-8 -5 L9 -5 L9 11 L-8 11 Z M0 -5 L0 11 M-8 2 L9 2 M0 -5 Q-11 -16 -7 -18 Q0 -16 0 -5 Q3 -17 9 -17 Q13 -10 0 -5"
+                  },
+                  {
+                    "id": "label",
                     "type": "text",
                     "text": "joy",
                     "x": 0,
-                    "y": -14.0,
+                    "y": 52,
                     "anchor": "middle",
-                    "fontSize": 16
+                    "fontSize": 21
                   }
                 ],
-                "x": 90,
-                "y": 105
+                "pose": {
+                  "scale": 0.8
+                }
               },
               {
-                "id": "two",
+                "id": "loss",
                 "type": "group",
+                "x": 200,
+                "y": 73,
                 "children": [
                   {
-                    "id": "two-outline",
+                    "id": "chair",
                     "type": "path",
-                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
+                    "d": "M-13 -25 L10 -25 L10 2 L-13 2 Z M-19 6 L17 6 M-16 7 L-18 29 M13 7 L16 29"
                   },
                   {
-                    "id": "two-word0-line0",
+                    "id": "label",
                     "type": "text",
                     "text": "loss",
                     "x": 0,
-                    "y": -14.0,
+                    "y": 52,
                     "anchor": "middle",
-                    "fontSize": 16
+                    "fontSize": 21
                   }
                 ],
-                "x": 200,
-                "y": 105
+                "pose": {
+                  "scale": 0.8
+                }
               },
               {
-                "id": "three",
+                "id": "daily",
                 "type": "group",
+                "x": 320,
+                "y": 73,
                 "children": [
                   {
-                    "id": "three-outline",
+                    "id": "cup",
                     "type": "path",
-                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
+                    "d": "M-18 -14 L14 -13 L11 17 Q-2 23 -16 16 Z M15 -8 Q33 -8 28 4 Q22 10 13 8 M-24 29 Q-2 34 21 29"
                   },
                   {
-                    "id": "three-word0-line0",
+                    "id": "steam",
+                    "type": "path",
+                    "d": "M-9 -37 Q-17 -31 -9 -24 M4 -37 Q-4 -30 4 -23",
+                    "tone": "shade"
+                  },
+                  {
+                    "id": "label",
                     "type": "text",
-                    "text": "daily",
+                    "text": "ordinary days",
                     "x": 0,
-                    "y": -14.0,
+                    "y": 52,
                     "anchor": "middle",
-                    "fontSize": 16
+                    "fontSize": 21
                   }
                 ],
-                "x": 307,
-                "y": 105
+                "pose": {
+                  "scale": 0.8
+                }
               },
               {
-                "id": "return",
+                "id": "order",
                 "type": "path",
-                "d": "M51 145 Q202 219 350 145 Q369 65 323 51 Q200 19 62 50 Q32 82 51 145"
-              }
-            ]
-          },
-          {
-            "caption": "The painful episode cannot be removed from the sequence.",
-            "duration": 3.8,
-            "actors": [
-              {
-                "id": "one",
-                "type": "group",
-                "children": [
-                  {
-                    "id": "one-outline",
-                    "type": "path",
-                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
-                  },
-                  {
-                    "id": "one-word0-line0",
-                    "type": "text",
-                    "text": "joy",
-                    "x": 0,
-                    "y": -14.0,
-                    "anchor": "middle",
-                    "fontSize": 16
-                  }
-                ],
-                "x": 90,
-                "y": 105
+                "d": "M114 72 L168 72 M159 65 L168 72 L159 79 M223 72 L285 72 M276 65 L285 72 L276 79",
+                "tone": "shade"
               },
               {
-                "id": "two",
-                "type": "group",
-                "children": [
-                  {
-                    "id": "two-outline",
-                    "type": "path",
-                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
-                  },
-                  {
-                    "id": "two-word0-line0",
-                    "type": "text",
-                    "text": "loss",
-                    "x": 0,
-                    "y": -14.0,
-                    "anchor": "middle",
-                    "fontSize": 16
-                  }
-                ],
-                "x": 200,
-                "y": 105
-              },
-              {
-                "id": "three",
-                "type": "group",
-                "children": [
-                  {
-                    "id": "three-outline",
-                    "type": "path",
-                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
-                  },
-                  {
-                    "id": "three-word0-line0",
-                    "type": "text",
-                    "text": "daily",
-                    "x": 0,
-                    "y": -14.0,
-                    "anchor": "middle",
-                    "fontSize": 16
-                  }
-                ],
-                "x": 307,
-                "y": 105
-              },
-              {
-                "id": "return",
-                "type": "path",
-                "d": "M51 145 Q202 219 350 145 Q369 65 323 51 Q200 19 62 50 Q32 82 51 145"
-              },
-              {
-                "id": "no-omission",
+                "id": "life",
                 "type": "text",
-                "text": "no omission",
+                "text": "this life",
                 "x": 200,
-                "y": 228,
+                "y": 28,
                 "anchor": "middle",
-                "fontSize": 17
-              }
-            ]
-          },
-          {
-            "caption": "The thought tests affirmation of the whole life, including its painful moments.",
-            "duration": 4.8,
-            "actors": [
-              {
-                "id": "one",
-                "type": "group",
-                "children": [
-                  {
-                    "id": "one-outline",
-                    "type": "path",
-                    "d": "M-35.5 -38.0 L35.5 -37.0 L34.5 38.0 L-34.5 37.0 Z"
-                  },
-                  {
-                    "id": "one-word0-line0",
-                    "type": "text",
-                    "text": "joy",
-                    "x": 0,
-                    "y": -14.0,
-                    "anchor": "middle",
-                    "fontSize": 16
-                  }
-                ],
-                "x": 90,
-                "y": 105
-              },
-              {
-                "id": "two",
-                "type": "group",
-                "children": [
-                  {
-                    "id": "two-outline",
-                    "type": "path",
-                    "d": "M-43.5 -38.0 L43.5 -37.0 L42.5 38.0 L-42.5 37.0 Z"
-                  },
-                  {
-                    "id": "two-word0-line0",
-                    "type": "text",
-                    "text": "loss",
-                    "x": 0,
-                    "y": -14.0,
-                    "anchor": "middle",
-                    "fontSize": 16
-                  }
-                ],
-                "x": 200,
-                "y": 105
-              },
-              {
-                "id": "three",
-                "type": "group",
-                "children": [
-                  {
-                    "id": "three-outline",
-                    "type": "path",
-                    "d": "M-36.0 -38.0 L36.0 -37.0 L35.0 38.0 L-35.0 37.0 Z"
-                  },
-                  {
-                    "id": "three-word0-line0",
-                    "type": "text",
-                    "text": "daily",
-                    "x": 0,
-                    "y": -14.0,
-                    "anchor": "middle",
-                    "fontSize": 16
-                  }
-                ],
-                "x": 307,
-                "y": 105
+                "fontSize": 16
               },
               {
                 "id": "return",
                 "type": "path",
-                "d": "M51 145 Q202 219 350 145 Q369 65 323 51 Q200 19 62 50 Q32 82 51 145"
+                "d": "M352 74 Q395 82 390 116 Q389 135 365 139 L75 139 Q45 142 47 160 L47 174 M40 165 L47 174 L54 165",
+                "tone": "shade"
+              }
+            ]
+          },
+          {
+            "caption": "The loss returns too. The thought allows no edited version of the life.",
+            "duration": 4.3,
+            "actors": [
+              {
+                "id": "joy",
+                "type": "group",
+                "x": 80,
+                "y": 73,
+                "children": [
+                  {
+                    "id": "giver",
+                    "type": "figure",
+                    "x": -25,
+                    "y": 0,
+                    "facing": false,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "receiver",
+                    "type": "figure",
+                    "x": 25,
+                    "y": 0,
+                    "facing": true,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "gift",
+                    "type": "path",
+                    "d": "M-8 -5 L9 -5 L9 11 L-8 11 Z M0 -5 L0 11 M-8 2 L9 2 M0 -5 Q-11 -16 -7 -18 Q0 -16 0 -5 Q3 -17 9 -17 Q13 -10 0 -5"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
               },
               {
-                "id": "whole",
-                "type": "text",
-                "text": "the whole sequence, again",
+                "id": "loss",
+                "type": "group",
                 "x": 200,
-                "y": 232,
+                "y": 73,
+                "children": [
+                  {
+                    "id": "chair",
+                    "type": "path",
+                    "d": "M-13 -25 L10 -25 L10 2 L-13 2 Z M-19 6 L17 6 M-16 7 L-18 29 M13 7 L16 29"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "daily",
+                "type": "group",
+                "x": 320,
+                "y": 73,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18 -14 L14 -13 L11 17 Q-2 23 -16 16 Z M15 -8 Q33 -8 28 4 Q22 10 13 8 M-24 29 Q-2 34 21 29"
+                  },
+                  {
+                    "id": "steam",
+                    "type": "path",
+                    "d": "M-9 -37 Q-17 -31 -9 -24 M4 -37 Q-4 -30 4 -23",
+                    "tone": "shade"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "ordinary days",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "order",
+                "type": "path",
+                "d": "M114 72 L168 72 M159 65 L168 72 L159 79 M223 72 L285 72 M276 65 L285 72 L276 79",
+                "tone": "shade"
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M352 74 Q395 82 390 116 Q389 135 365 139 L75 139 Q45 142 47 160 L47 174 M40 165 L47 174 L54 165",
+                "tone": "shade"
+              },
+              {
+                "id": "life",
+                "type": "text",
+                "text": "this life",
+                "x": 200,
+                "y": 28,
                 "anchor": "middle",
-                "fontSize": 17
+                "fontSize": 16
+              },
+              {
+                "id": "again",
+                "type": "text",
+                "text": "again",
+                "x": 200,
+                "y": 150,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "joy-again",
+                "type": "group",
+                "x": 80,
+                "y": 178,
+                "children": [
+                  {
+                    "id": "giver",
+                    "type": "figure",
+                    "x": -25,
+                    "y": 0,
+                    "facing": false,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "receiver",
+                    "type": "figure",
+                    "x": 25,
+                    "y": 0,
+                    "facing": true,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "gift",
+                    "type": "path",
+                    "d": "M-8 -5 L9 -5 L9 11 L-8 11 Z M0 -5 L0 11 M-8 2 L9 2 M0 -5 Q-11 -16 -7 -18 Q0 -16 0 -5 Q3 -17 9 -17 Q13 -10 0 -5"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "loss-again",
+                "type": "group",
+                "x": 200,
+                "y": 178,
+                "children": [
+                  {
+                    "id": "chair",
+                    "type": "path",
+                    "d": "M-13 -25 L10 -25 L10 2 L-13 2 Z M-19 6 L17 6 M-16 7 L-18 29 M13 7 L16 29"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              }
+            ]
+          },
+          {
+            "caption": "Could the whole life be affirmed, including its painful episodes?",
+            "duration": 5.1,
+            "actors": [
+              {
+                "id": "joy",
+                "type": "group",
+                "x": 80,
+                "y": 73,
+                "children": [
+                  {
+                    "id": "giver",
+                    "type": "figure",
+                    "x": -25,
+                    "y": 0,
+                    "facing": false,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "receiver",
+                    "type": "figure",
+                    "x": 25,
+                    "y": 0,
+                    "facing": true,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "gift",
+                    "type": "path",
+                    "d": "M-8 -5 L9 -5 L9 11 L-8 11 Z M0 -5 L0 11 M-8 2 L9 2 M0 -5 Q-11 -16 -7 -18 Q0 -16 0 -5 Q3 -17 9 -17 Q13 -10 0 -5"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "loss",
+                "type": "group",
+                "x": 200,
+                "y": 73,
+                "children": [
+                  {
+                    "id": "chair",
+                    "type": "path",
+                    "d": "M-13 -25 L10 -25 L10 2 L-13 2 Z M-19 6 L17 6 M-16 7 L-18 29 M13 7 L16 29"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "daily",
+                "type": "group",
+                "x": 320,
+                "y": 73,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18 -14 L14 -13 L11 17 Q-2 23 -16 16 Z M15 -8 Q33 -8 28 4 Q22 10 13 8 M-24 29 Q-2 34 21 29"
+                  },
+                  {
+                    "id": "steam",
+                    "type": "path",
+                    "d": "M-9 -37 Q-17 -31 -9 -24 M4 -37 Q-4 -30 4 -23",
+                    "tone": "shade"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "ordinary days",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "order",
+                "type": "path",
+                "d": "M114 72 L168 72 M159 65 L168 72 L159 79 M223 72 L285 72 M276 65 L285 72 L276 79",
+                "tone": "shade"
+              },
+              {
+                "id": "return",
+                "type": "path",
+                "d": "M352 74 Q395 82 390 116 Q389 135 365 139 L75 139 Q45 142 47 160 L47 174 M40 165 L47 174 L54 165",
+                "tone": "shade"
+              },
+              {
+                "id": "life",
+                "type": "text",
+                "text": "this life",
+                "x": 200,
+                "y": 28,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "again",
+                "type": "text",
+                "text": "again",
+                "x": 200,
+                "y": 150,
+                "anchor": "middle",
+                "fontSize": 16
+              },
+              {
+                "id": "joy-again",
+                "type": "group",
+                "x": 80,
+                "y": 178,
+                "children": [
+                  {
+                    "id": "giver",
+                    "type": "figure",
+                    "x": -25,
+                    "y": 0,
+                    "facing": false,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "receiver",
+                    "type": "figure",
+                    "x": 25,
+                    "y": 0,
+                    "facing": true,
+                    "pose": {
+                      "scale": 0.48
+                    }
+                  },
+                  {
+                    "id": "gift",
+                    "type": "path",
+                    "d": "M-8 -5 L9 -5 L9 11 L-8 11 Z M0 -5 L0 11 M-8 2 L9 2 M0 -5 Q-11 -16 -7 -18 Q0 -16 0 -5 Q3 -17 9 -17 Q13 -10 0 -5"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "joy",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "loss-again",
+                "type": "group",
+                "x": 200,
+                "y": 178,
+                "children": [
+                  {
+                    "id": "chair",
+                    "type": "path",
+                    "d": "M-13 -25 L10 -25 L10 2 L-13 2 Z M-19 6 L17 6 M-16 7 L-18 29 M13 7 L16 29"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "loss",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "daily-again",
+                "type": "group",
+                "x": 320,
+                "y": 178,
+                "children": [
+                  {
+                    "id": "cup",
+                    "type": "path",
+                    "d": "M-18 -14 L14 -13 L11 17 Q-2 23 -16 16 Z M15 -8 Q33 -8 28 4 Q22 10 13 8 M-24 29 Q-2 34 21 29"
+                  },
+                  {
+                    "id": "steam",
+                    "type": "path",
+                    "d": "M-9 -37 Q-17 -31 -9 -24 M4 -37 Q-4 -30 4 -23",
+                    "tone": "shade"
+                  },
+                  {
+                    "id": "label",
+                    "type": "text",
+                    "text": "ordinary days",
+                    "x": 0,
+                    "y": 52,
+                    "anchor": "middle",
+                    "fontSize": 21
+                  }
+                ],
+                "pose": {
+                  "scale": 0.8
+                }
+              },
+              {
+                "id": "order-again",
+                "type": "path",
+                "d": "M114 178 L168 178 M159 171 L168 178 L159 185 M223 178 L285 178 M276 171 L285 178 L276 185",
+                "tone": "shade"
               }
             ]
           }
