@@ -87,12 +87,39 @@ h1{font-size:49px;line-height:1.1;letter-spacing:-.9px;font-optical-sizing:auto}
 .lesson-settings-hint{font-size:11px;line-height:1.6;color:#aaa294;margin:7px 0 2px;max-width:none}
 @media(prefers-reduced-motion:reduce){.lesson-autoplay>span{transition:none}}
 
-/* A one-time reading note; it never blocks the card or changes its layout. */
-.reading-guide{position:fixed;z-index:10;bottom:calc(16px + env(safe-area-inset-bottom));left:50%;translate:-50% 0;width:min(490px,calc(100% - 28px));display:flex;align-items:center;gap:12px;padding:17px 16px 16px 19px;background:#191918;border:1px solid #41403a;border-radius:4px;box-shadow:0 6px 30px #0009;color:#dedbd3}
-.reading-guide-copy{flex:1;min-width:0}
-.reading-guide-copy p{display:flex;align-items:center;gap:8px;margin:0 0 7px;font-size:13px;line-height:1.5}
-.reading-guide-copy svg{flex-shrink:0;color:#aaa69d}
-.reading-guide-copy .reading-guide-tap{margin:10px 0 0 24px;color:#bdb9b0}
-.reading-guide-dismiss{align-self:flex-start;min-height:44px;min-width:44px;display:flex;align-items:center;gap:8px;font-size:12px;color:#bdb9b0;margin:-6px -4px 0 0;padding:8px}
-.reading-guide-dismiss:hover{color:#fff}
-@media(max-width:360px){.reading-guide{padding:15px 12px 14px 15px;gap:4px}.reading-guide-dismiss{flex-direction:column;gap:6px;padding:8px 4px}.reading-guide-copy p{font-size:12px}}
+/* The first visit: two small physical demonstrations, dismissed anywhere. */
+.reading-guide{position:fixed;inset:0;z-index:30;background:#050505e8;backdrop-filter:blur(3px);color:#dedbd3}
+.reading-guide-dismiss{width:100%;height:100%;padding:calc(20px + env(safe-area-inset-top)) 20px calc(20px + env(safe-area-inset-bottom));display:flex;align-items:center;justify-content:center;touch-action:none;cursor:pointer}
+.reading-guide-dismiss:focus-visible{outline:0}
+.reading-guide-content{display:block;width:min(340px,100%);text-align:center}
+.reading-guide-title{display:block;font:32px/1.2 var(--serif);letter-spacing:-.3px;margin-bottom:20px}
+.reading-guide-instructions{display:block}
+.reading-guide-demo{display:block;font-size:17px;line-height:1.6;margin-bottom:15px}
+.reading-guide-demo svg{display:block;width:240px;max-width:100%;height:112px;margin:0 auto 8px;overflow:visible}
+.reading-guide-secondary{color:#a9a59b;font-size:15px}
+.reading-guide-continue{display:block;color:#aaa69d;font-size:12px;letter-spacing:.3px;margin-top:30px}
+.reading-guide-desktop{display:none}
+.guide-thought{fill:#121211;stroke:#77736a;stroke-width:1.2}
+.guide-thought path{stroke:#aaa69d;stroke-linecap:round}
+.guide-thought text{fill:#d5d0c5;stroke:none;font:14px DM,Arial,sans-serif;letter-spacing:1px}
+.guide-thought-first{animation:guide-card-first 8s ease-in-out infinite}
+.guide-thought-next{animation:guide-card-next 8s ease-in-out infinite}
+.guide-swipe-hand{animation:guide-swipe-hand 8s ease-in-out infinite}
+.guide-swipe-left{animation:guide-swipe-left 8s ease-in-out infinite}
+.guide-swipe-right{animation:guide-swipe-right 8s ease-in-out infinite}
+.guide-reading-sheet{fill:#121211;stroke:#77736a;stroke-width:1.2;transform-origin:140px 4px;animation:guide-unfold 5s ease-in-out infinite}
+.guide-more-lines{animation:guide-reading 5s ease-in-out infinite}
+.guide-tap-hand{animation:guide-touch 5s ease-in-out infinite}
+.guide-tap-ring{transform-origin:165px 37px;animation:guide-contact 5s ease-out infinite}
+@keyframes guide-card-first{0%,12%,85%,100%{transform:translateX(0);opacity:1}35%,57%{transform:translateX(-174px);opacity:0}}
+@keyframes guide-card-next{0%,12%,85%,100%{transform:translateX(174px);opacity:0}35%,57%{transform:translateX(0);opacity:1}}
+@keyframes guide-swipe-hand{0%,12%,85%,100%{transform:translateX(0)}35%,57%{transform:translateX(-74px)}}
+@keyframes guide-swipe-left{0%,12%,43%,100%{opacity:0}22%,35%{opacity:.65}}
+@keyframes guide-swipe-right{0%,57%,87%,100%{opacity:0}65%,76%{opacity:.65}}
+@keyframes guide-unfold{0%,24%,95%,100%{transform:scaleY(.47)}42%,78%{transform:scaleY(1)}}
+@keyframes guide-reading{0%,27%,92%,100%{opacity:0}45%,78%{opacity:1}}
+@keyframes guide-touch{0%,8%,92%,100%{transform:translateY(8px);opacity:1}18%,24%{transform:translateY(0);opacity:1}37%,78%{transform:translateY(8px);opacity:0}}
+@keyframes guide-contact{0%,14%,45%,100%{transform:scale(.5);opacity:0}20%{transform:scale(.6);opacity:.9}38%{transform:scale(1.6);opacity:0}}
+@media(min-width:701px){.reading-guide-desktop{display:inline}.reading-guide-title{font-size:37px}.reading-guide-demo svg{width:260px;height:120px}.reading-guide-continue{margin-top:35px}}
+@media(max-height:650px){.reading-guide-title{font-size:28px;margin-bottom:8px}.reading-guide-demo{font-size:16px;margin-bottom:8px}.reading-guide-demo svg{height:92px;margin-bottom:2px}.reading-guide-continue{margin-top:16px}}
+@media(prefers-reduced-motion:reduce){.guide-thought-first{opacity:0}.guide-thought-next{opacity:1;transform:none}.guide-swipe-hand{transform:translateX(-74px)}.guide-swipe-left{opacity:.65}.guide-swipe-right{opacity:0}.guide-reading-sheet{transform:none}.guide-more-lines{opacity:1}.guide-tap-hand{opacity:0}.guide-tap-ring{opacity:.6;transform:none}}
