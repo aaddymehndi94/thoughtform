@@ -6,8 +6,8 @@ import { Illustration } from '../visuals/Illustration';
 import { Icon } from './Icons';
 import { ReadingDetails } from './ReadingDetails';
 import type { LessonPlayback } from '../visuals/playback';
-interface Props { card: Thought; next: Thought; index: number; total: number; saved: boolean; paused: boolean; playback: LessonPlayback; inactive: boolean; onSave: () => void; onMove: (direction: number) => void; }
-export function CardStack({ card, next, index, total, saved, paused, playback, inactive, onSave, onMove }: Props) {
+interface Props { card: Thought; next: Thought; index: number; total: number; saved: boolean; paused: boolean; playback: LessonPlayback; inactive: boolean; onRead: () => void; onSave: () => void; onMove: (direction: number) => void; }
+export function CardStack({ card, next, index, total, saved, paused, playback, inactive, onRead, onSave, onMove }: Props) {
  const x = useMotionValue(0);
  const rotate = useTransform(x, [-350, 0, 350], [-7, 0, 7]);
  const underScale = useTransform(x, [-240, 0, 240], [1, .975, 1]);
@@ -98,7 +98,7 @@ export function CardStack({ card, next, index, total, saved, paused, playback, i
    }
   } else scroll();
  }
- function toggleReading() { setReadingExpanded(!desiredExpanded.current); }
+ function toggleReading() { onRead(); setReadingExpanded(!desiredExpanded.current); }
  function settle() { if(reduced)x.set(0);else animate(x, 0, { type: 'spring', stiffness: 360, damping: 30 }); }
  function release(e: React.PointerEvent<HTMLElement>) {
   const g = gesture.current;

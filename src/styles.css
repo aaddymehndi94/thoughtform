@@ -86,3 +86,13 @@ h1{font-size:49px;line-height:1.1;letter-spacing:-.9px;font-optical-sizing:auto}
 .lesson-speed-controls .lesson-speed-value{min-width:53px;font-size:13px;font-variant-numeric:tabular-nums;color:#ded8cb}
 .lesson-settings-hint{font-size:11px;line-height:1.6;color:#aaa294;margin:7px 0 2px;max-width:none}
 @media(prefers-reduced-motion:reduce){.lesson-autoplay>span{transition:none}}
+
+/* A one-time reading note; it never blocks the card or changes its layout. */
+.reading-guide{position:fixed;z-index:10;bottom:calc(16px + env(safe-area-inset-bottom));left:50%;translate:-50% 0;width:min(490px,calc(100% - 28px));display:flex;align-items:center;gap:12px;padding:17px 16px 16px 19px;background:#191918;border:1px solid #41403a;border-radius:4px;box-shadow:0 6px 30px #0009;color:#dedbd3}
+.reading-guide-copy{flex:1;min-width:0}
+.reading-guide-copy p{display:flex;align-items:center;gap:8px;margin:0 0 7px;font-size:13px;line-height:1.5}
+.reading-guide-copy svg{flex-shrink:0;color:#aaa69d}
+.reading-guide-copy .reading-guide-tap{margin:10px 0 0 24px;color:#bdb9b0}
+.reading-guide-dismiss{align-self:flex-start;min-height:44px;min-width:44px;display:flex;align-items:center;gap:8px;font-size:12px;color:#bdb9b0;margin:-6px -4px 0 0;padding:8px}
+.reading-guide-dismiss:hover{color:#fff}
+@media(max-width:360px){.reading-guide{padding:15px 12px 14px 15px;gap:4px}.reading-guide-dismiss{flex-direction:column;gap:6px;padding:8px 4px}.reading-guide-copy p{font-size:12px}}
