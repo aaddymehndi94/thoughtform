@@ -11,7 +11,11 @@ function LessonActor({ actor, still }: { actor: Actor; still: boolean }) {
  const pose = actor.pose || {};
  const ink = actor.tone === 'faint' ? .3 : actor.tone === 'shade' ? .6 : 1;
  let shape;
- if (actor.type === 'path') shape = <motion.path d={actor.d} initial={still ? false : { pathLength: 0 }} animate={{ d: actor.d, pathLength: 1 }} transition={{ duration: still ? 0 : 1.05, ease: 'easeInOut' }} className={actor.fill ? 'actor-filled' : ''}/>;
+ // Motion draws solid paths with a dash mask. Dashed paths keep their authored
+ // pattern and reveal through opacity so the mask cannot replace their meaning.
+ if (actor.type === 'path') shape = actor.dashed
+  ? <motion.path key="dashed" d={actor.d} strokeDasharray="3 5" initial={{ opacity: 0 }} animate={{ d: actor.d, opacity: 1 }} transition={{ duration: 1.05, ease: 'easeInOut' }} className={actor.fill ? 'actor-filled' : ''}/>
+  : <motion.path key="drawn" d={actor.d} initial={{ pathLength: 0 }} animate={{ d: actor.d, pathLength: 1 }} transition={{ duration: 1.05, ease: 'easeInOut' }} className={actor.fill ? 'actor-filled' : ''}/>;
  else if (actor.type === 'circle') shape = <motion.circle cx={0} cy={0} r={actor.r || 15} animate={{ r: actor.r || 15 }} transition={{ duration }} className={actor.fill ? 'actor-filled' : ''}/>;
  else if (actor.type === 'figure') shape = <Human x={0} y={0} shade={actor.tone === 'shade'} facing={actor.facing}/>;
  else if (actor.type === 'text') shape = <AnimatePresence mode="wait" initial={false}><motion.text key={actor.text} x={0} y={0} textAnchor={actor.anchor || 'start'} className="lesson-label" style={{ fontSize: actor.fontSize || 18 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: still ? 0 : .2 }}>{actor.text}</motion.text></AnimatePresence>;

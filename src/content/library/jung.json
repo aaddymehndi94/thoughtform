@@ -1273,7 +1273,7 @@
                 "id": "all",
                 "type": "text",
                 "x": 294,
-                "y": 33,
+                "y": 63,
                 "text": "knows everything",
                 "anchor": "middle",
                 "fontSize": 16
@@ -1321,7 +1321,7 @@
                 "id": "limit",
                 "type": "text",
                 "x": 294,
-                "y": 33,
+                "y": 63,
                 "text": "I don’t know.",
                 "anchor": "middle",
                 "fontSize": 18
@@ -5147,7 +5147,7 @@
                 "id": "inner-demand",
                 "type": "text",
                 "x": 214,
-                "y": 51,
+                "y": 18,
                 "text": "my demand for perfection",
                 "anchor": "middle",
                 "fontSize": 16
