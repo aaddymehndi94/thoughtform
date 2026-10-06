@@ -58,3 +58,6 @@ h1{font-size:49px;line-height:1.1;letter-spacing:-.9px;font-optical-sizing:auto}
 .lesson-timing .current{background:#ded8cb}.lesson-timing .passed{background:#777268}
 @media(max-width:360px){.lesson-illustration{padding-left:5px;padding-right:5px}.lesson-reading{padding:0 12px;height:84px;min-height:84px}.lesson-reading p{font-size:17px}}
 @media(prefers-reduced-motion:reduce){.lesson-timing span{transition:none}}
+/* The footer and navigation also move during inline expansion. Exclude the whole
+   app from scroll anchoring so they cannot pull the viewport ahead of the reading. */
+.app{overflow-anchor:none}
