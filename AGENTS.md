@@ -18,6 +18,7 @@ These are the user's explicit preferences for this project. Preserve them in fut
 - The animation is the medium, not decoration. It should communicate the idea before the text is read.
 - The user found early simple figures/motion amateur. Seek professional editorial motion design: deliberate multi-stage choreography, fuller original human forms, readable causality, held moments, meaningful kinetic text, and sufficient motion to sustain attention.
 - Longer animations are welcome when a concept needs them. Avoid identical SVG scenes with substituted labels. Reuse primitives, compose different relationships.
+- Use twice the authored lesson beat durations as the reading dwell time. The user prefers slower pacing with more time to absorb each drawing and caption; preserve this across future cards.
 - Review actual rendered animations and mobile screenshots. Do not approve art from source alone. Respect reduced motion and offer pause.
 
 ## Content and research

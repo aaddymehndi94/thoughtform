@@ -4,6 +4,8 @@ import type { Actor, VisualLesson } from './types';
 import { Human } from './NarrativeScene';
 import { LessonStill } from './LessonStill';
 
+const LESSON_DWELL_MULTIPLIER = 2;
+
 /** A drawing changes because the idea changes. Actors retain identity between beats. */
 function LessonActor({ actor, still }: { actor: Actor; still: boolean }) {
  if (still) return <LessonStill actor={actor}/>;
@@ -28,7 +30,7 @@ export function LessonScene({ lesson, paused = false }: { lesson: VisualLesson; 
  const [beat, setBeat] = useState(0);
  const elapsed = useRef(0);
  const beatIndex = useRef(0);
- const durations = lesson.beats.map(frame => (frame.duration || 3.2) * 1000);
+ const durations = lesson.beats.map(frame => (frame.duration || 3.2) * LESSON_DWELL_MULTIPLIER * 1000);
  const total = durations.reduce((sum, duration) => sum + duration, 0);
  useEffect(() => {
   if (paused || reduced) return;
