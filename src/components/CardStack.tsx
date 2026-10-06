@@ -5,8 +5,9 @@ import { getThinker } from '../content/library';
 import { Illustration } from '../visuals/Illustration';
 import { Icon } from './Icons';
 import { ReadingDetails } from './ReadingDetails';
-interface Props { card: Thought; next: Thought; index: number; total: number; saved: boolean; paused: boolean; inactive: boolean; onSave: () => void; onMove: (direction: number) => void; }
-export function CardStack({ card, next, index, total, saved, paused, inactive, onSave, onMove }: Props) {
+import type { LessonPlayback } from '../visuals/playback';
+interface Props { card: Thought; next: Thought; index: number; total: number; saved: boolean; paused: boolean; playback: LessonPlayback; inactive: boolean; onSave: () => void; onMove: (direction: number) => void; }
+export function CardStack({ card, next, index, total, saved, paused, playback, inactive, onSave, onMove }: Props) {
  const x = useMotionValue(0);
  const rotate = useTransform(x, [-350, 0, 350], [-7, 0, 7]);
  const underScale = useTransform(x, [-240, 0, 240], [1, .975, 1]);
@@ -119,7 +120,7 @@ export function CardStack({ card, next, index, total, saved, paused, inactive, o
   <motion.div className="under-card" style={{ scale: underScale, y: underY }} aria-hidden="true"><span>{next.title}</span></motion.div>
   <motion.article className="teaching-card" style={{ x, rotate: reduced ? 0 : rotate, touchAction: 'pan-y pinch-zoom' }}
    onPointerDown={e => {
-    if (inactive || moving.current || !e.isPrimary || e.button !== 0 || (e.target as HTMLElement).closest('button,a,input')) return;
+    if (inactive || moving.current || !e.isPrimary || e.button !== 0 || (e.target as HTMLElement).closest('button,a,input,[data-card-control]')) return;
     gesture.current = { active: true, x: e.clientX, y: e.clientY, lastX: e.clientX, lastTime: performance.now(), velocity: 0, axis: '' };
    }}
    onPointerMove={e => {
@@ -139,7 +140,7 @@ export function CardStack({ card, next, index, total, saved, paused, inactive, o
    onPointerUp={release} onPointerCancel={() => { gesture.current.active = false; settle(); }}
    data-thought-id={card.id} aria-label={`${card.title}, thought ${index + 1} of ${total}`} tabIndex={0} aria-describedby="card-interaction-hint" onKeyDown={e => { if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); toggleReading(); } }}>
    <div className="card-heading"><span className="eyebrow">{getThinker(card.thinker).name} <span className="middot">/</span> {card.concept}</span><button className={`icon-button bookmark ${saved ? 'saved' : ''}`} aria-label={saved ? 'Remove bookmark' : 'Bookmark this thought'} aria-pressed={saved} onClick={onSave}><Icon name="bookmark" size={18}/></button></div>
-   <Illustration kind={card.scene.kind} caption={card.scene.caption} composition={card.scene.composition} lesson={card.scene.lesson} paused={paused}/>
+   <Illustration kind={card.scene.kind} caption={card.scene.caption} composition={card.scene.composition} lesson={card.scene.lesson} paused={paused} playback={playback}/>
    <div className="card-copy"><span className="concept-number">{String(index + 1).padStart(3, '0')} <span>—</span> {card.collection}</span><h1>{card.title}</h1><p className="statement">{card.statement}</p><p className="explanation">{card.explanation}</p>
     <button className={`depth-link ${expanded ? 'expanded' : ''}`} aria-expanded={expanded} aria-controls={`details-${card.id}`} onClick={() => toggleReading()}>{expanded ? 'A little less' : 'Look a little closer'}<span aria-hidden="true">{expanded ? '−' : '+'}</span></button>
     <div ref={details} id={`details-${card.id}`} className={`inline-details ${expanded ? 'is-open' : ''}`} inert={!expanded}><div className="details-inner"><ReadingDetails card={card}/><button className="fold-link" onClick={() => { setReadingExpanded(false); }}>Return to the thought ↑</button></div></div>

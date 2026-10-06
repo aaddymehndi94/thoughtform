@@ -10,7 +10,7 @@ These are the user's explicit preferences for this project. Preserve them in fut
 
 ## Reading and gestures
 - Swipe left for next, right for previous. Support mouse/trackpad drag, arrow keys, and subtle navigation.
-- Tap anywhere on a card to expand or collapse its deeper reading. A larger visible reading control provides the same action. Exclude independent controls, bookmarks, and source links.
+- Tap anywhere on a card to expand or collapse its deeper reading. A larger visible reading control provides the same action. Exclude independent controls, bookmarks, source links, and the animation's manual stage controls.
 - Expand inline within the same card, never in a separate details modal. Scroll vertically to read. Distinguish taps, horizontal swipes, and vertical scroll; use velocity, resistance, restrained springs, and depth.
 - Every card has exactly three deeper-reading paragraphs totaling around 1,500 characters, with two static explanatory drawings between the paragraphs. Preserve the question to sit with and source reading beneath. Keep the opening view succinct.
 
@@ -18,7 +18,8 @@ These are the user's explicit preferences for this project. Preserve them in fut
 - The animation is the medium, not decoration. It should communicate the idea before the text is read.
 - The user found early simple figures/motion amateur. Seek professional editorial motion design: deliberate multi-stage choreography, fuller original human forms, readable causality, held moments, meaningful kinetic text, and sufficient motion to sustain attention.
 - Longer animations are welcome when a concept needs them. Avoid identical SVG scenes with substituted labels. Reuse primitives, compose different relationships.
-- Use twice the authored lesson beat durations as the reading dwell time. The user prefers slower pacing with more time to absorb each drawing and caption; preserve this across future cards.
+- Default 1.0× playback uses twice the authored lesson beat durations. The user prefers this calm baseline, with an unobtrusive settings button at the animation's bottom right offering 0.5×, 0.75×, 1.0×, 1.25×, 1.5×, 1.75×, and 2.0× plus autoplay. Remember these preferences across thoughts and reloads.
+- With autoplay off, tapping the animation's left/right sides, swiping within it, or using its small arrows/keyboard moves between stages. Keep these actions separate from the card's swipe and reading gestures; preserve native vertical scrolling and reduced motion.
 - Review actual rendered animations and mobile screenshots. Do not approve art from source alone. Respect reduced motion and offer pause.
 
 ## Content and research

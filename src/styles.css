@@ -61,3 +61,28 @@ h1{font-size:49px;line-height:1.1;letter-spacing:-.9px;font-optical-sizing:auto}
 /* The footer and navigation also move during inline expansion. Exclude the whole
    app from scroll anchoring so they cannot pull the viewport ahead of the reading. */
 .app{overflow-anchor:none}
+
+/* Playback controls live in the existing margin beneath the drawing. */
+.lesson-illustration{padding-bottom:0;margin-bottom:12px}
+.lesson-illustration[data-card-control]{cursor:default;touch-action:pan-y pinch-zoom}
+.lesson-controls{position:relative;height:32px;display:flex;align-items:center;justify-content:center;cursor:default;z-index:2}
+.lesson-controls svg{width:16px;height:16px;aspect-ratio:auto;overflow:visible;display:block}
+.lesson-stage-navigation{display:flex;align-items:center;justify-content:center;gap:2px;height:32px}
+.lesson-controls .lesson-timing{margin:0}
+.lesson-step{width:44px;height:44px;display:grid;place-items:center;color:#a6a197}
+.lesson-settings-trigger{position:absolute;right:0;top:-6px;width:44px;height:44px;display:grid;place-items:center;color:#8d887f;border-radius:3px}
+.lesson-settings-trigger:hover,.lesson-settings-trigger.is-open{color:#e0dacd;background:#ffffff07}
+.lesson-settings-panel{position:absolute;right:0;bottom:40px;width:232px;padding:12px 13px;background:#1b1a17;border:1px solid #3b3832;border-radius:4px;box-shadow:0 8px 25px #0008;cursor:default;user-select:none;color:#d2cdc2}
+.lesson-settings-heading{display:flex;justify-content:space-between;align-items:center;height:28px;font-size:11px;color:#a29c90;letter-spacing:.3px}
+.lesson-settings-close{width:32px;height:32px;display:grid;place-items:center;color:#a29c90;margin-right:-6px}
+.lesson-setting-row{min-height:44px;display:flex;align-items:center;justify-content:space-between;font-size:13px;gap:8px}
+.lesson-autoplay{position:relative;width:44px;height:44px;display:grid;place-items:center}
+.lesson-autoplay::before{content:'';width:30px;height:17px;border:1px solid #666157;border-radius:12px;background:#27251f}
+.lesson-autoplay>span{position:absolute;left:10px;top:17px;width:10px;height:10px;border-radius:50%;background:#a39c8d;transition:transform .18s,background .18s}
+.lesson-autoplay[aria-checked=true]>span{transform:translateX(13px);background:#e0d9ca}
+.lesson-autoplay[aria-checked=true]::before{border-color:#a39c8d}
+.lesson-speed-controls{display:flex;align-items:center}
+.lesson-speed-controls button{height:44px;min-width:32px;display:grid;place-items:center;color:#bbb4a7}
+.lesson-speed-controls .lesson-speed-value{min-width:53px;font-size:13px;font-variant-numeric:tabular-nums;color:#ded8cb}
+.lesson-settings-hint{font-size:11px;line-height:1.6;color:#aaa294;margin:7px 0 2px;max-width:none}
+@media(prefers-reduced-motion:reduce){.lesson-autoplay>span{transition:none}}
