@@ -574,7 +574,7 @@
               {
                 "id": "dependency",
                 "type": "path",
-                "d": "M134 145 Q204 206 312 198 Q368 166 354 77 Q271 1 150 33"
+                "d": "M134 145 Q204 206 312 198 Q368 166 354 77 Q304 -5 150 14"
               }
             ]
           },
@@ -635,7 +635,7 @@
               {
                 "id": "dependency",
                 "type": "path",
-                "d": "M134 145 Q204 206 312 198 Q368 166 354 77 Q271 1 150 33"
+                "d": "M134 145 Q204 206 312 198 Q368 166 354 77 Q304 -5 150 14"
               },
               {
                 "id": "relationship",
@@ -2549,13 +2549,13 @@
     "sources": [
       "gm-II-12-14"
     ],
-    "metaphor": "The same confinement is retained as different historical purposes are placed above it.",
+    "metaphor": "The same confinement is interpreted as closing a debt ledger, frightens an outside observer, and becomes an authority’s visible power. A procedure can endure while its use changes.",
     "scene": {
       "kind": "notebook",
       "caption": "punishment",
       "variant": "punishment",
       "lesson": {
-        "description": "The same confinement is retained as different historical purposes are placed above it.",
+        "description": "The same confinement is interpreted as closing a debt ledger, frightens an outside observer, and becomes an authority’s visible power. A procedure can endure while its use changes.",
         "beats": [
           {
             "caption": "The procedure: a person is confined.",
@@ -2619,6 +2619,20 @@
                 ],
                 "x": 200,
                 "y": 26
+              },
+              {
+                "id": "account",
+                "type": "path",
+                "d": "M26 89 L95 91 L94 163 L27 164 Z M39 104 L82 105 M39 117 L82 117 M39 130 L59 146 L84 119"
+              },
+              {
+                "id": "balance",
+                "type": "text",
+                "text": "settled",
+                "x": 61,
+                "y": 186,
+                "anchor": "middle",
+                "fontSize": 15
               }
             ]
           },
@@ -2668,6 +2682,18 @@
                   "scale": 0.55
                 },
                 "facing": true
+              },
+              {
+                "id": "fear",
+                "type": "path",
+                "d": "M304 98 L297 91 M309 86 L306 75 M326 81 L328 72",
+                "tone": "shade"
+              },
+              {
+                "id": "retreat",
+                "type": "path",
+                "d": "M302 183 Q330 185 357 184 M350 178 L357 184 L350 190",
+                "tone": "shade"
               }
             ]
           },
@@ -2716,6 +2742,26 @@
                 "y": 226,
                 "anchor": "middle",
                 "fontSize": 17
+              },
+              {
+                "id": "authority",
+                "type": "figure",
+                "x": 67,
+                "y": 139,
+                "pose": {
+                  "scale": 0.64
+                }
+              },
+              {
+                "id": "key",
+                "type": "path",
+                "d": "M88 143 L108 143 L108 151 M101 143 L101 150 M88 139 Q78 130 72 138 Q68 147 79 147 Q88 148 88 139"
+              },
+              {
+                "id": "crown",
+                "type": "path",
+                "d": "M47 83 L43 67 L53 72 L64 57 L74 72 L84 68 L81 83 Z",
+                "tone": "shade"
               }
             ]
           }
@@ -8353,119 +8399,188 @@
     "sources": [
       "bg-13-36"
     ],
-    "metaphor": "Different forces are brought into an organization that produces a capacity greater than any one force alone.",
+    "metaphor": "A potter presses resistant clay into a vessel; the hand and material respond to each other until a capacity to hold emerges. This illustrates one aspect of Nietzsche’s interpretation of power.",
     "scene": {
       "kind": "notebook",
       "caption": "will power",
       "variant": "will-power",
       "lesson": {
-        "description": "Different forces are brought into an organization that produces a capacity greater than any one force alone.",
+        "description": "A potter presses resistant clay into a vessel; the hand and material respond to each other until a capacity to hold emerges. This illustrates one aspect of Nietzsche’s interpretation of power.",
         "beats": [
           {
-            "caption": "A capacity can involve several competing forces.",
-            "duration": 3.5,
-            "actors": [
-              {
-                "id": "force-a",
-                "type": "path",
-                "d": "M83 75 L133 128 L88 178"
-              },
-              {
-                "id": "force-b",
-                "type": "path",
-                "d": "M187 48 L220 109 L186 172"
-              },
-              {
-                "id": "force-c",
-                "type": "path",
-                "d": "M281 85 Q337 125 286 181"
-              }
-            ]
-          },
-          {
-            "caption": "An ordering brings those forces into a working relation.",
-            "duration": 3.5,
-            "actors": [
-              {
-                "id": "force-a",
-                "type": "path",
-                "d": "M136 91 L179 124 L138 158"
-              },
-              {
-                "id": "force-b",
-                "type": "path",
-                "d": "M188 74 L220 128 L188 178"
-              },
-              {
-                "id": "force-c",
-                "type": "path",
-                "d": "M250 91 Q288 124 254 163"
-              },
-              {
-                "id": "order",
-                "type": "path",
-                "d": "M111 190 L298 190"
-              }
-            ]
-          },
-          {
-            "caption": "Their relation produces a form that can act.",
+            "caption": "A potter’s hand meets a material with its own resistance.",
             "duration": 3.8,
             "actors": [
               {
-                "id": "force-a",
+                "id": "wheel",
                 "type": "path",
-                "d": "M147 101 L180 124 L149 149"
+                "d": "M103 196 Q187 193 270 196 M120 202 Q186 208 252 202",
+                "tone": "shade"
               },
               {
-                "id": "force-b",
+                "id": "clay",
                 "type": "path",
-                "d": "M191 72 L215 125 L191 174"
+                "d": "M138 190 C122 174 129 145 148 135 C148 112 172 103 187 115 C210 101 237 123 232 144 C249 164 237 183 220 191 C194 195 165 193 138 190 Z"
               },
               {
-                "id": "force-c",
+                "id": "hand",
                 "type": "path",
-                "d": "M233 95 Q270 125 236 157"
+                "d": "M330 81 L285 89 Q266 93 253 114 L235 137 Q231 145 240 147 L263 131 Q256 150 261 154 Q266 156 273 143 L292 116 L331 105"
               },
               {
-                "id": "form",
-                "type": "path",
-                "d": "M128 68 Q202 38 277 74 L277 179 Q200 211 127 177 Z"
+                "id": "material",
+                "type": "text",
+                "text": "clay",
+                "x": 174,
+                "y": 224,
+                "anchor": "middle"
+              },
+              {
+                "id": "handname",
+                "type": "text",
+                "text": "shaping hand",
+                "x": 292,
+                "y": 62,
+                "anchor": "middle"
               }
             ]
           },
           {
-            "caption": "Nietzsche’s account includes forming capacities. The wider interpretation remains debated.",
-            "duration": 4.8,
+            "caption": "Pressure changes the clay. The clay also changes where the hand can press.",
+            "duration": 4.1,
             "actors": [
               {
-                "id": "force-a",
+                "id": "wheel",
                 "type": "path",
-                "d": "M147 101 L180 124 L149 149"
+                "d": "M103 196 Q187 193 270 196 M120 202 Q186 208 252 202",
+                "tone": "shade"
               },
               {
-                "id": "force-b",
+                "id": "clay",
                 "type": "path",
-                "d": "M191 72 L215 125 L191 174"
+                "d": "M138 190 C122 174 137 153 151 137 C152 117 169 110 187 118 C207 109 229 122 220 146 C233 166 233 184 218 191 C192 194 165 194 138 190 Z"
               },
               {
-                "id": "force-c",
+                "id": "hand",
                 "type": "path",
-                "d": "M233 95 Q270 125 236 157"
+                "d": "M330 81 L285 89 Q266 93 253 114 L235 137 Q231 145 240 147 L263 131 Q256 150 261 154 Q266 156 273 143 L292 116 L331 105",
+                "x": -15,
+                "y": 6
               },
               {
-                "id": "form",
+                "id": "pressure",
                 "type": "path",
-                "d": "M128 68 Q202 38 277 74 L277 179 Q200 211 127 177 Z"
+                "d": "M226 123 Q219 126 219 133 M233 124 Q226 128 227 136",
+                "tone": "shade"
               },
               {
-                "id": "organization",
+                "id": "material",
                 "type": "text",
-                "text": "power as forming a capacity",
-                "x": 200,
-                "y": 218,
-                "anchor": "middle",
-                "fontSize": 17
+                "text": "resistance",
+                "x": 168,
+                "y": 224,
+                "anchor": "middle"
+              },
+              {
+                "id": "handname",
+                "type": "text",
+                "text": "pressure",
+                "x": 292,
+                "y": 62,
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "Working through that resistance gives the material a new capacity: to hold.",
+            "duration": 4.2,
+            "actors": [
+              {
+                "id": "wheel",
+                "type": "path",
+                "d": "M103 196 Q187 193 270 196 M120 202 Q186 208 252 202",
+                "tone": "shade"
+              },
+              {
+                "id": "clay",
+                "type": "path",
+                "d": "M146 190 C129 179 130 163 145 151 C154 140 168 130 163 110 C174 106 190 106 202 110 C197 129 211 141 223 151 C239 169 233 184 216 191 C192 196 167 194 146 190 Z"
+              },
+              {
+                "id": "rim",
+                "type": "path",
+                "d": "M163 110 C169 103 196 102 202 110 C200 117 170 118 163 110"
+              },
+              {
+                "id": "hand",
+                "type": "path",
+                "d": "M330 82 L288 93 Q267 100 252 116 L230 137 Q225 144 234 148 L258 133 Q254 150 260 155 Q265 157 273 142 L296 118 L331 106"
+              },
+              {
+                "id": "material",
+                "type": "text",
+                "text": "a vessel",
+                "x": 182,
+                "y": 224,
+                "anchor": "middle"
+              },
+              {
+                "id": "handname",
+                "type": "text",
+                "text": "forming",
+                "x": 292,
+                "y": 62,
+                "anchor": "middle"
+              }
+            ]
+          },
+          {
+            "caption": "Power can include giving form. Nietzsche’s wider account remains debated.",
+            "duration": 5,
+            "actors": [
+              {
+                "id": "wheel",
+                "type": "path",
+                "d": "M103 196 Q187 193 270 196 M120 202 Q186 208 252 202",
+                "tone": "shade"
+              },
+              {
+                "id": "clay",
+                "type": "path",
+                "d": "M146 190 C129 179 130 163 145 151 C154 140 168 130 163 110 C174 106 190 106 202 110 C197 129 211 141 223 151 C239 169 233 184 216 191 C192 196 167 194 146 190 Z"
+              },
+              {
+                "id": "rim",
+                "type": "path",
+                "d": "M163 110 C169 103 196 102 202 110 C200 117 170 118 163 110"
+              },
+              {
+                "id": "hand",
+                "type": "path",
+                "d": "M330 82 L288 93 Q267 100 252 116 L230 137 Q225 144 234 148 L258 133 Q254 150 260 155 Q265 157 273 142 L296 118 L331 106",
+                "x": 32,
+                "y": -20,
+                "tone": "shade"
+              },
+              {
+                "id": "water",
+                "type": "path",
+                "d": "M183 72 L183 104 M178 97 L183 104 L188 96",
+                "tone": "shade"
+              },
+              {
+                "id": "held",
+                "type": "path",
+                "d": "M153 165 Q183 173 222 166",
+                "tone": "shade"
+              },
+              {
+                "id": "material",
+                "type": "text",
+                "text": "a capacity formed",
+                "x": 182,
+                "y": 224,
+                "anchor": "middle"
               }
             ]
           }
