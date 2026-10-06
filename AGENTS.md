@@ -50,3 +50,8 @@ Treat every card as an editorial and visual teaching problem. Critique the resul
 8. Inspect every animation beat and both static drawings in the actual mobile page. Check reading order, legibility, clipping, crowding, timing, and whether the picture genuinely helps. Revise defects and inspect again.
 9. Review the card beside neighboring cards. Vary metaphor, composition, pace, and explanatory approach when repetition would weaken learning.
 10. Finish only when every element earns its place. Do not promise perfection or treat card count, clean code, or passing measurements as a substitute for editorial judgment.
+
+## Browser review discipline
+- Capture Motion animations in real time against a fixed build. Advancing a synthetic clock can advance lesson state while leaving browser animation transitions unfinished; a beat index alone is not proof that the drawing rendered correctly.
+- Assert the visible caption, allow actor transitions to settle, and inspect the rendered drawing at each beat. Keep source updates separate from a running capture batch so live reloads cannot invalidate reading or animation checks.
+- Test expansion from an actual visible tap. Browser automation that scrolls a button into view before clicking can hide the origin of a scroll jump. Check the scroll trajectory, interruption, and retained content during collapse.
