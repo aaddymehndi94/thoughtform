@@ -166,16 +166,42 @@
             "actors": [
               {
                 "id": "person",
-                "type": "figure",
-                "x": 90,
+                "type": "group",
+                "x": 218,
                 "y": 145,
-                "facing": false,
-                "tone": "normal"
+                "tone": "shade",
+                "pose": {},
+                "children": [
+                  {
+                    "id": "head",
+                    "type": "path",
+                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "left-arm",
+                    "type": "path",
+                    "d": "M-13 -33 Q-30 -24 -25 4",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "right-arm",
+                    "type": "path",
+                    "d": "M7 -33 Q24 -22 48 -23 L49 -16 Q21 -15 9 -20",
+                    "tone": "normal"
+                  }
+                ]
               },
               {
                 "id": "history",
                 "type": "group",
-                "x": 178,
+                "x": 145,
                 "y": 120,
                 "children": [
                   {
@@ -228,44 +254,10 @@
                 "tone": "normal"
               },
               {
-                "id": "person-response",
-                "type": "group",
-                "x": 232,
-                "y": 145,
-                "tone": "shade",
-                "pose": {},
-                "children": [
-                  {
-                    "id": "head",
-                    "type": "path",
-                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
-                    "tone": "normal"
-                  },
-                  {
-                    "id": "body",
-                    "type": "path",
-                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
-                    "tone": "normal"
-                  },
-                  {
-                    "id": "left-arm",
-                    "type": "path",
-                    "d": "M-13 -33 Q-30 -24 -25 4",
-                    "tone": "normal"
-                  },
-                  {
-                    "id": "right-arm",
-                    "type": "path",
-                    "d": "M7 -33 Q24 -22 48 -23 L49 -16 Q21 -15 9 -20",
-                    "tone": "normal"
-                  }
-                ]
-              },
-              {
                 "id": "response",
                 "type": "group",
-                "x": 285,
-                "y": 115,
+                "x": 286,
+                "y": 112,
                 "children": [
                   {
                     "id": "page",
@@ -285,8 +277,8 @@
                 "id": "respond",
                 "type": "text",
                 "text": "how I take it up",
-                "x": 279,
-                "y": 214,
+                "x": 271,
+                "y": 213,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -298,16 +290,42 @@
             "actors": [
               {
                 "id": "person",
-                "type": "figure",
-                "x": 90,
+                "type": "group",
+                "x": 218,
                 "y": 145,
-                "facing": false,
-                "tone": "normal"
+                "tone": "shade",
+                "pose": {},
+                "children": [
+                  {
+                    "id": "head",
+                    "type": "path",
+                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "left-arm",
+                    "type": "path",
+                    "d": "M-13 -33 Q-30 -24 -25 4",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "right-arm",
+                    "type": "path",
+                    "d": "M7 -33 Q24 -22 48 -23 L49 -16 Q21 -15 9 -20",
+                    "tone": "normal"
+                  }
+                ]
               },
               {
                 "id": "history",
                 "type": "group",
-                "x": 178,
+                "x": 145,
                 "y": 120,
                 "children": [
                   {
@@ -360,44 +378,10 @@
                 "tone": "normal"
               },
               {
-                "id": "person-response",
-                "type": "group",
-                "x": 232,
-                "y": 145,
-                "tone": "shade",
-                "pose": {},
-                "children": [
-                  {
-                    "id": "head",
-                    "type": "path",
-                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
-                    "tone": "normal"
-                  },
-                  {
-                    "id": "body",
-                    "type": "path",
-                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
-                    "tone": "normal"
-                  },
-                  {
-                    "id": "left-arm",
-                    "type": "path",
-                    "d": "M-13 -33 Q-30 -24 -25 4",
-                    "tone": "normal"
-                  },
-                  {
-                    "id": "right-arm",
-                    "type": "path",
-                    "d": "M7 -33 Q24 -22 48 -23 L49 -16 Q21 -15 9 -20",
-                    "tone": "normal"
-                  }
-                ]
-              },
-              {
                 "id": "response",
                 "type": "group",
-                "x": 285,
-                "y": 115,
+                "x": 286,
+                "y": 112,
                 "children": [
                   {
                     "id": "page",
@@ -417,17 +401,17 @@
                 "id": "respond",
                 "type": "text",
                 "text": "how I take it up",
-                "x": 279,
-                "y": 214,
+                "x": 271,
+                "y": 213,
                 "anchor": "middle",
                 "fontSize": 18
               },
               {
                 "id": "ground",
                 "type": "text",
-                "text": "God is his ground",
-                "x": 107,
-                "y": 218,
+                "text": "grounded in God",
+                "x": 105,
+                "y": 213,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -1133,15 +1117,6 @@
                 "text": "outward success",
                 "x": 211,
                 "y": 42,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
-                "id": "inward",
-                "type": "text",
-                "text": "a different question",
-                "x": 290,
-                "y": 217,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -3441,18 +3416,9 @@
                 "y": 69
               },
               {
-                "id": "deferred",
-                "type": "text",
-                "text": "the page stays empty",
-                "x": 200,
-                "y": 216,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "first-line",
                 "type": "path",
-                "d": "M180 142 H235",
+                "d": "M181 149 H236",
                 "tone": "normal"
               },
               {
@@ -3460,7 +3426,7 @@
                 "type": "text",
                 "text": "one finite beginning",
                 "x": 200,
-                "y": 40,
+                "y": 220,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -5516,7 +5482,7 @@
       "kind": "notebook",
       "caption": "fear anxiety",
       "lesson": {
-        "description": "Fear has a recognizable object; anxiety can concern what is still undetermined. A growling dog gives fear a definite object. An unfinished application opens several futures. The unease has a different relation to possibility. Lived anxiety may include both structures and other causes.",
+        "description": "Fear has a recognizable object; anxiety can concern what is still undetermined. A growling dog gives fear a definite object. Fear points toward this particular danger. An unfinished application opens several futures. Lived anxiety may include both structures and other causes.",
         "beats": [
           {
             "caption": "A growling dog gives fear a definite object.",
@@ -5554,7 +5520,7 @@
             ]
           },
           {
-            "caption": "An unfinished application opens several futures.",
+            "caption": "Fear points toward this particular danger.",
             "duration": 3.8,
             "actors": [
               {
@@ -5595,7 +5561,7 @@
             ]
           },
           {
-            "caption": "The unease has a different relation to possibility.",
+            "caption": "An unfinished application opens several futures.",
             "duration": 3.8,
             "actors": [
               {
@@ -5686,6 +5652,17 @@
                 "tone": "normal",
                 "x": 329,
                 "y": 147
+              },
+              {
+                "id": "study-future",
+                "type": "path",
+                "d": "M-30 -18 Q-15 -24 0 -15 Q15 -24 30 -18 V20 Q15 14 0 23 Q-15 14 -30 20 Z M0 -15 V23",
+                "tone": "normal",
+                "x": 329,
+                "y": 65,
+                "pose": {
+                  "scale": 0.7
+                }
               }
             ]
           },
@@ -5790,6 +5767,17 @@
                 "y": 216,
                 "anchor": "middle",
                 "fontSize": 18
+              },
+              {
+                "id": "study-future",
+                "type": "path",
+                "d": "M-30 -18 Q-15 -24 0 -15 Q15 -24 30 -18 V20 Q15 14 0 23 Q-15 14 -30 20 Z M0 -15 V23",
+                "tone": "normal",
+                "x": 329,
+                "y": 65,
+                "pose": {
+                  "scale": 0.7
+                }
               }
             ]
           }
@@ -6514,7 +6502,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 192,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "b-home",
@@ -6522,7 +6513,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 296,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               }
             ]
           },
@@ -6640,7 +6634,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 192,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "b-home",
@@ -6648,7 +6645,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 296,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "extra-list",
@@ -6801,7 +6801,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 192,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "b-home",
@@ -6809,7 +6812,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 296,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "extra-list",
@@ -6974,7 +6980,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 192,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "b-home",
@@ -6982,7 +6991,10 @@
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
                 "x": 296,
-                "y": 43
+                "y": 48,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "extra-list",
@@ -7023,15 +7035,6 @@
                 "tone": "normal"
               },
               {
-                "id": "act",
-                "type": "text",
-                "text": "a possibility chosen",
-                "x": 190,
-                "y": 222,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "closed-list",
                 "type": "path",
                 "d": "M218 144 H278",
@@ -7041,8 +7044,8 @@
                 "id": "not-auto",
                 "type": "text",
                 "text": "no automatic ending",
-                "x": 228,
-                "y": 43,
+                "x": 200,
+                "y": 222,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -7694,7 +7697,10 @@
                 "d": "M-24 -42 H17 V10 H-24 Z M-24 10 V32 M17 10 V32 M-24 -2 H17",
                 "tone": "normal",
                 "x": 108,
-                "y": 66
+                "y": 66,
+                "pose": {
+                  "scale": 0.5
+                }
               }
             ]
           },
@@ -7748,7 +7754,10 @@
                 "d": "M-24 -42 H17 V10 H-24 Z M-24 10 V32 M17 10 V32 M-24 -2 H17",
                 "tone": "normal",
                 "x": 108,
-                "y": 66
+                "y": 66,
+                "pose": {
+                  "scale": 0.5
+                }
               },
               {
                 "id": "worn-edge",
@@ -7808,7 +7817,10 @@
                 "d": "M-24 -42 H17 V10 H-24 Z M-24 10 V32 M17 10 V32 M-24 -2 H17",
                 "tone": "normal",
                 "x": 108,
-                "y": 66
+                "y": 66,
+                "pose": {
+                  "scale": 0.5
+                }
               },
               {
                 "id": "worn-edge",
@@ -8826,7 +8838,7 @@
                 "d": "M-25 -26 Q0 -40 25 -26 V10 Q0 43 -25 10 Z M-16 -7 H-6 M6 -7 H16 M-10 15 Q0 21 10 15",
                 "tone": "normal",
                 "x": 260,
-                "y": 47
+                "y": 59
               }
             ]
           },
@@ -8922,7 +8934,7 @@
                 "d": "M-25 -26 Q0 -40 25 -26 V10 Q0 43 -25 10 Z M-16 -7 H-6 M6 -7 H16 M-10 15 Q0 21 10 15",
                 "tone": "normal",
                 "x": 260,
-                "y": 47
+                "y": 59
               },
               {
                 "id": "reader-task",
@@ -9053,7 +9065,7 @@
                 "d": "M-25 -26 Q0 -40 25 -26 V10 Q0 43 -25 10 Z M-16 -7 H-6 M6 -7 H16 M-10 15 Q0 21 10 15",
                 "tone": "normal",
                 "x": 260,
-                "y": 47
+                "y": 59
               },
               {
                 "id": "reader-task",
@@ -9082,20 +9094,11 @@
                 ]
               },
               {
-                "id": "notice",
-                "type": "text",
-                "text": "a familiar evasion?",
-                "x": 184,
-                "y": 217,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "voice-name",
                 "type": "text",
                 "text": "who is speaking?",
-                "x": 274,
-                "y": 43,
+                "x": 210,
+                "y": 220,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -10269,10 +10272,10 @@
       "kind": "notebook",
       "caption": "works of love",
       "lesson": {
-        "description": "An apparently kind deed can be done in a way that diminishes its recipient. Two people offer the same useful gift. One gift arrives with a demand for gratitude. A loving manner leaves the recipient’s dignity intact. Mixed motives require self-examination, not confident judgment of others.",
+        "description": "An apparently kind deed can be done in a way that diminishes its recipient. A useful gift is offered to another person. One gift arrives with a demand for gratitude. A loving manner leaves the recipient’s dignity intact. Mixed motives require self-examination, not confident judgment of others.",
         "beats": [
           {
-            "caption": "Two people offer the same useful gift.",
+            "caption": "A useful gift is offered to another person.",
             "duration": 3.8,
             "actors": [
               {
@@ -10446,11 +10449,37 @@
               },
               {
                 "id": "recipient",
-                "type": "figure",
+                "type": "group",
                 "x": 303,
                 "y": 145,
-                "facing": true,
-                "tone": "normal"
+                "tone": "normal",
+                "pose": {},
+                "children": [
+                  {
+                    "id": "head",
+                    "type": "path",
+                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "left-arm",
+                    "type": "path",
+                    "d": "M-13 -33 Q-43 -26 -54 -24 L-55 -17 Q-34 -12 -15 -19",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "right-arm",
+                    "type": "path",
+                    "d": "M7 -33 Q19 -18 17 4",
+                    "tone": "normal"
+                  }
+                ]
               },
               {
                 "id": "gift",
@@ -10493,7 +10522,7 @@
               {
                 "id": "remove-demand",
                 "type": "path",
-                "d": "M205 43 l12 12 M217 43 l-12 12",
+                "d": "M150 29 l11 11 M161 29 l-11 11",
                 "tone": "normal"
               },
               {
@@ -10547,11 +10576,37 @@
               },
               {
                 "id": "recipient",
-                "type": "figure",
+                "type": "group",
                 "x": 303,
                 "y": 145,
-                "facing": true,
-                "tone": "normal"
+                "tone": "normal",
+                "pose": {},
+                "children": [
+                  {
+                    "id": "head",
+                    "type": "path",
+                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "left-arm",
+                    "type": "path",
+                    "d": "M-13 -33 Q-43 -26 -54 -24 L-55 -17 Q-34 -12 -15 -19",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "right-arm",
+                    "type": "path",
+                    "d": "M7 -33 Q19 -18 17 4",
+                    "tone": "normal"
+                  }
+                ]
               },
               {
                 "id": "gift",
@@ -10594,7 +10649,7 @@
               {
                 "id": "remove-demand",
                 "type": "path",
-                "d": "M205 43 l12 12 M217 43 l-12 12",
+                "d": "M150 29 l11 11 M161 29 l-11 11",
                 "tone": "normal"
               },
               {

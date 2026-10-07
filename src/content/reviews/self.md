@@ -1745,3 +1745,15 @@ Attribution/qualification checked: The distinction is Christian and deliberately
 Prose review: title, distinct opening statement, short explanation, three connected paragraphs, and reflection read in order. The body develops the opening with a concrete example, a mechanism, and a qualification rather than repeating the subtitle.
 
 Render status: Per-card source review complete. Final actual mobile capture and acceptance remain with the integration owner; no visual approval from code alone is claimed.
+
+## Actual mobile capture pass — 7 October 2026
+
+All 20 Hillman and all 20 Kierkegaard lessons were inspected in fixed-build mobile contact sheets, including every held beat and both reading drawings. This was an inspection of browser-rendered output, not source-only approval. Schopenhauer’s 20 scenes were separately inspected by the integration owner.
+
+Hillman revisions from that inspection: remove four stale final labels that collided with new teaching text; contain the imagined interlocutor in its thought frame; separate the inherited-story ladder, home, and labels; separate the adult and chair in the acorn example; align grow-down’s caption with its visible practice situation and join the static trunk to its roots; remove its replaced ascent metaphor when ordinary support appears; separate the child’s note from the practice chair; let a quiet conversation visibly replace loud marks in intensity-is-not-worth. Detail-before-opposites now begins with the passive descriptor alone and visibly adds the good/bad frame in the second stage before particular descriptions replace it.
+
+Kierkegaard revisions from that inspection: preserve one actor when the self takes up its own conditions; align the fear caption with the dog and the later possibility caption with the application; show the gift meeting an actual receiving hand and describe the one giver/recipient present; keep the withdrawn gratitude demand readable; separate the final theological and attribution labels; scale the houses above their comparison pages; move the reflection qualification below the houses; remove the obsolete empty-page label when the first written line appears; contain the remembered miniature chair within its frame.
+
+Schopenhauer follow-up: the body-two-ways scene preserves the same cup grasp when the observer enters; egoism’s final qualification replaces the older my-delay label.
+
+These source revisions still require inspection against the next fixed build. No build or shared browser process was changed during this capture pass.

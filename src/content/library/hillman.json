@@ -947,15 +947,6 @@
                 "y": 41,
                 "anchor": "middle",
                 "fontSize": 18
-              },
-              {
-                "id": "scale",
-                "type": "text",
-                "text": "good / bad",
-                "x": 200,
-                "y": 214,
-                "anchor": "middle",
-                "fontSize": 18
               }
             ]
           },
@@ -1028,6 +1019,12 @@
                 "type": "path",
                 "d": "M195 136 Q207 146 218 139",
                 "tone": "normal"
+              },
+              {
+                "id": "judgment-frame",
+                "type": "path",
+                "d": "M116 198 H284 V225 H116 Z",
+                "tone": "normal"
               }
             ]
           },
@@ -1086,7 +1083,7 @@
               {
                 "id": "work",
                 "type": "group",
-                "x": 263,
+                "x": 333,
                 "y": 100,
                 "children": [
                   {
@@ -1196,7 +1193,7 @@
               {
                 "id": "work",
                 "type": "group",
-                "x": 263,
+                "x": 333,
                 "y": 100,
                 "children": [
                   {
@@ -1847,15 +1844,6 @@
                 "type": "path",
                 "d": "M170 146 H211",
                 "tone": "normal"
-              },
-              {
-                "id": "listen",
-                "type": "text",
-                "text": "the writer listens",
-                "x": 117,
-                "y": 216,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "status",
@@ -2696,7 +2684,7 @@
               {
                 "id": "thought",
                 "type": "path",
-                "d": "M173 33 H352 V98 H219 L192 113 V98 H173 Z",
+                "d": "M173 33 H352 V194 H250 L228 208 V194 H173 Z",
                 "tone": "normal",
                 "dashed": true
               },
@@ -2766,7 +2754,7 @@
               {
                 "id": "thought",
                 "type": "path",
-                "d": "M173 33 H352 V98 H219 L192 113 V98 H173 Z",
+                "d": "M173 33 H352 V194 H250 L228 208 V194 H173 Z",
                 "tone": "normal",
                 "dashed": true
               },
@@ -5104,8 +5092,8 @@
                 "type": "path",
                 "d": "M-18 -40 V35 M18 -40 V35 M-18 -28 H18 M-18 -8 H18 M-18 12 H18 M-18 32 H18",
                 "tone": "normal",
-                "x": 107,
-                "y": 65
+                "x": 44,
+                "y": 115
               },
               {
                 "id": "hero",
@@ -5143,8 +5131,8 @@
                 "type": "path",
                 "d": "M-18 -40 V35 M18 -40 V35 M-18 -28 H18 M-18 -8 H18 M-18 12 H18 M-18 32 H18",
                 "tone": "normal",
-                "x": 107,
-                "y": 65
+                "x": 44,
+                "y": 115
               },
               {
                 "id": "hero",
@@ -5202,8 +5190,8 @@
                 "type": "path",
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
-                "x": 274,
-                "y": 53
+                "x": 223,
+                "y": 64
               },
               {
                 "id": "care",
@@ -5241,8 +5229,8 @@
                 "type": "path",
                 "d": "M-18 -40 V35 M18 -40 V35 M-18 -28 H18 M-18 -8 H18 M-18 12 H18 M-18 32 H18",
                 "tone": "normal",
-                "x": 107,
-                "y": 65
+                "x": 44,
+                "y": 115
               },
               {
                 "id": "hero",
@@ -5300,8 +5288,8 @@
                 "type": "path",
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
-                "x": 274,
-                "y": 53
+                "x": 223,
+                "y": 64
               },
               {
                 "id": "care",
@@ -5309,52 +5297,6 @@
                 "text": "stay and care",
                 "x": 295,
                 "y": 216,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
-                "id": "story-a",
-                "type": "group",
-                "x": 90,
-                "y": 37,
-                "children": [
-                  {
-                    "id": "page",
-                    "type": "path",
-                    "d": "M-47.0 -16.5 H47.0 V16.5 H-47.0 Z",
-                    "tone": "normal"
-                  }
-                ]
-              },
-              {
-                "id": "a",
-                "type": "text",
-                "text": "one plot",
-                "x": 90,
-                "y": 41,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
-                "id": "story-b",
-                "type": "group",
-                "x": 285,
-                "y": 37,
-                "children": [
-                  {
-                    "id": "page",
-                    "type": "path",
-                    "d": "M-47.0 -16.5 H47.0 V16.5 H-47.0 Z",
-                    "tone": "normal"
-                  }
-                ]
-              },
-              {
-                "id": "b",
-                "type": "text",
-                "text": "another plot",
-                "x": 285,
-                "y": 41,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -5385,8 +5327,8 @@
                 "type": "path",
                 "d": "M-18 -40 V35 M18 -40 V35 M-18 -28 H18 M-18 -8 H18 M-18 12 H18 M-18 32 H18",
                 "tone": "normal",
-                "x": 107,
-                "y": 65
+                "x": 44,
+                "y": 115
               },
               {
                 "id": "stayer",
@@ -5435,54 +5377,8 @@
                 "type": "path",
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
-                "x": 274,
-                "y": 53
-              },
-              {
-                "id": "story-a",
-                "type": "group",
-                "x": 90,
-                "y": 37,
-                "children": [
-                  {
-                    "id": "page",
-                    "type": "path",
-                    "d": "M-47.0 -16.5 H47.0 V16.5 H-47.0 Z",
-                    "tone": "normal"
-                  }
-                ]
-              },
-              {
-                "id": "a",
-                "type": "text",
-                "text": "one plot",
-                "x": 90,
-                "y": 41,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
-                "id": "story-b",
-                "type": "group",
-                "x": 285,
-                "y": 37,
-                "children": [
-                  {
-                    "id": "page",
-                    "type": "path",
-                    "d": "M-47.0 -16.5 H47.0 V16.5 H-47.0 Z",
-                    "tone": "normal"
-                  }
-                ]
-              },
-              {
-                "id": "b",
-                "type": "text",
-                "text": "another plot",
-                "x": 285,
-                "y": 41,
-                "anchor": "middle",
-                "fontSize": 18
+                "x": 223,
+                "y": 64
               },
               {
                 "id": "question",
@@ -6224,7 +6120,7 @@
               {
                 "id": "adult",
                 "type": "figure",
-                "x": 322,
+                "x": 294,
                 "y": 145,
                 "facing": false,
                 "tone": "normal"
@@ -6293,7 +6189,7 @@
               {
                 "id": "adult",
                 "type": "figure",
-                "x": 322,
+                "x": 294,
                 "y": 145,
                 "facing": false,
                 "tone": "normal"
@@ -6311,12 +6207,6 @@
                 "tone": "normal",
                 "x": 343,
                 "y": 148
-              },
-              {
-                "id": "arrangement",
-                "type": "path",
-                "d": "M275 164 H321 V183 H275 Z",
-                "tone": "normal"
               },
               {
                 "id": "pattern",
@@ -6377,7 +6267,7 @@
               {
                 "id": "adult",
                 "type": "figure",
-                "x": 322,
+                "x": 294,
                 "y": 145,
                 "facing": false,
                 "tone": "normal"
@@ -6395,12 +6285,6 @@
                 "tone": "normal",
                 "x": 343,
                 "y": 148
-              },
-              {
-                "id": "arrangement",
-                "type": "path",
-                "d": "M275 164 H321 V183 H275 Z",
-                "tone": "normal"
               },
               {
                 "id": "possibility",
@@ -6583,7 +6467,7 @@
       "kind": "notebook",
       "caption": "grow down",
       "lesson": {
-        "description": "Maturing can mean becoming more rooted in ordinary life. Growth is imagined only as rising. The tree also develops roots. Ordinary commitments give the image a place to live. Rootedness differs from accepting harmful restrictions.",
+        "description": "Maturing can mean becoming more rooted in ordinary life. Growth is imagined only as rising. Practice needs time, food, and a place. Ordinary commitments give the image a place to live. Rootedness differs from accepting harmful restrictions.",
         "beats": [
           {
             "caption": "Growth is imagined only as rising.",
@@ -6670,7 +6554,7 @@
             ]
           },
           {
-            "caption": "The tree also develops roots.",
+            "caption": "Practice needs time, food, and a place.",
             "duration": 3.8,
             "actors": [
               {
@@ -6756,16 +6640,19 @@
                 "type": "path",
                 "d": "M-20 -15 H18 V14 Q0 29 -20 14 Z M18 -9 Q40 -9 31 9 H18",
                 "tone": "normal",
-                "x": 188,
-                "y": 52
+                "x": 194,
+                "y": 83
               },
               {
                 "id": "practice-time",
                 "type": "path",
                 "d": "M0 -28 A28 28 0 1 1 -1 -28 Z M0 -17 V0 L15 7",
                 "tone": "normal",
-                "x": 302,
-                "y": 177
+                "x": 288,
+                "y": 179,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "ordinary",
@@ -6879,28 +6766,23 @@
                 ]
               },
               {
-                "id": "upward",
-                "type": "path",
-                "d": "M-18 -40 V35 M18 -40 V35 M-18 -28 H18 M-18 -8 H18 M-18 12 H18 M-18 32 H18",
-                "tone": "normal",
-                "x": 330,
-                "y": 94
-              },
-              {
                 "id": "meal",
                 "type": "path",
                 "d": "M-20 -15 H18 V14 Q0 29 -20 14 Z M18 -9 Q40 -9 31 9 H18",
                 "tone": "normal",
-                "x": 188,
-                "y": 52
+                "x": 194,
+                "y": 83
               },
               {
                 "id": "practice-time",
                 "type": "path",
                 "d": "M0 -28 A28 28 0 1 1 -1 -28 Z M0 -17 V0 L15 7",
                 "tone": "normal",
-                "x": 302,
-                "y": 177
+                "x": 288,
+                "y": 179,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "ordinary",
@@ -7028,28 +6910,23 @@
                 ]
               },
               {
-                "id": "upward",
-                "type": "path",
-                "d": "M-18 -40 V35 M18 -40 V35 M-18 -28 H18 M-18 -8 H18 M-18 12 H18 M-18 32 H18",
-                "tone": "normal",
-                "x": 330,
-                "y": 94
-              },
-              {
                 "id": "meal",
                 "type": "path",
                 "d": "M-20 -15 H18 V14 Q0 29 -20 14 Z M18 -9 Q40 -9 31 9 H18",
                 "tone": "normal",
-                "x": 188,
-                "y": 52
+                "x": 194,
+                "y": 83
               },
               {
                 "id": "practice-time",
                 "type": "path",
                 "d": "M0 -28 A28 28 0 1 1 -1 -28 Z M0 -17 V0 L15 7",
                 "tone": "normal",
-                "x": 302,
-                "y": 177
+                "x": 288,
+                "y": 179,
+                "pose": {
+                  "scale": 0.65
+                }
               },
               {
                 "id": "ordinary",
@@ -7205,7 +7082,7 @@
             "d": "M0 30 V-25 M0 -10 Q-40 -50 -20 -63 Q0 -88 20 -63 Q40 -50 0 -10 M0 30 Q-20 42 -34 34 M0 30 Q20 42 34 34",
             "tone": "normal",
             "x": 201,
-            "y": 97
+            "y": 117
           },
           {
             "id": "soil",
@@ -7222,9 +7099,9 @@
           {
             "id": "growth",
             "type": "text",
-            "text": "roots count as growth",
-            "x": 200,
-            "y": 37,
+            "text": "roots + shoots",
+            "x": 314,
+            "y": 40,
             "anchor": "middle",
             "fontSize": 18
           }
@@ -7283,7 +7160,7 @@
                 "d": "M-20 -20 V20 Q-45 32 -39 12 Q-32 3 -20 9 M-20 -20 L20 -30 V10 Q-5 22 1 2 Q8 -7 20 -1",
                 "tone": "normal",
                 "x": 141,
-                "y": 107
+                "y": 80
               },
               {
                 "id": "star-plan",
@@ -7337,7 +7214,7 @@
                 "d": "M-20 -20 V20 Q-45 32 -39 12 Q-32 3 -20 9 M-20 -20 L20 -30 V10 Q-5 22 1 2 Q8 -7 20 -1",
                 "tone": "normal",
                 "x": 141,
-                "y": 107
+                "y": 80
               },
               {
                 "id": "practice",
@@ -7438,7 +7315,7 @@
                 "d": "M-20 -20 V20 Q-45 32 -39 12 Q-32 3 -20 9 M-20 -20 L20 -30 V10 Q-5 22 1 2 Q8 -7 20 -1",
                 "tone": "normal",
                 "x": 141,
-                "y": 107
+                "y": 80
               },
               {
                 "id": "practice",
@@ -7580,7 +7457,7 @@
                 "d": "M-20 -20 V20 Q-45 32 -39 12 Q-32 3 -20 9 M-20 -20 L20 -30 V10 Q-5 22 1 2 Q8 -7 20 -1",
                 "tone": "normal",
                 "x": 141,
-                "y": 107
+                "y": 80
               },
               {
                 "id": "practice",
@@ -7971,7 +7848,7 @@
               {
                 "id": "surface",
                 "type": "text",
-                "text": "a worn arm",
+                "text": "a worn edge",
                 "x": 216,
                 "y": 49,
                 "anchor": "middle",
@@ -8016,7 +7893,7 @@
               {
                 "id": "surface",
                 "type": "text",
-                "text": "a worn arm",
+                "text": "a worn edge",
                 "x": 216,
                 "y": 49,
                 "anchor": "middle",
@@ -8076,7 +7953,7 @@
               {
                 "id": "surface",
                 "type": "text",
-                "text": "a worn arm",
+                "text": "a worn edge",
                 "x": 216,
                 "y": 49,
                 "anchor": "middle",
@@ -8401,15 +8278,6 @@
                 "type": "path",
                 "d": "M239 177 l-18 10 M247 185 l-21 8",
                 "tone": "normal"
-              },
-              {
-                "id": "scraping",
-                "type": "text",
-                "text": "chair scrapes",
-                "x": 264,
-                "y": 219,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "echo",
@@ -8868,15 +8736,6 @@
                 "type": "path",
                 "d": "M197 195 H355 M197 190 V200 M355 190 V200",
                 "tone": "normal"
-              },
-              {
-                "id": "examine",
-                "type": "text",
-                "text": "what prompted it?",
-                "x": 283,
-                "y": 222,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "question",
@@ -9791,15 +9650,6 @@
                 "y": 139
               },
               {
-                "id": "voice",
-                "type": "text",
-                "text": "a remembered joke",
-                "x": 278,
-                "y": 218,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "self",
                 "type": "text",
                 "text": "distinct, and involved",
@@ -10077,14 +9927,6 @@
                 "tone": "normal"
               },
               {
-                "id": "crowd-b",
-                "type": "figure",
-                "x": 312,
-                "y": 145,
-                "facing": true,
-                "tone": "normal"
-              },
-              {
                 "id": "music",
                 "type": "path",
                 "d": "M-20 -20 V20 Q-45 32 -39 12 Q-32 3 -20 9 M-20 -20 L20 -30 V10 Q-5 22 1 2 Q8 -7 20 -1",
@@ -10101,7 +9943,7 @@
               {
                 "id": "claim",
                 "type": "group",
-                "x": 267,
+                "x": 304,
                 "y": 113,
                 "children": [
                   {
@@ -10127,7 +9969,7 @@
               {
                 "id": "unchecked",
                 "type": "path",
-                "d": "M264 143 l12 12 M276 143 l-12 12",
+                "d": "M298 143 l12 12 M310 143 l-12 12",
                 "tone": "normal"
               },
               {
@@ -10162,31 +10004,9 @@
                 "tone": "normal"
               },
               {
-                "id": "crowd-b",
-                "type": "figure",
-                "x": 312,
-                "y": 145,
-                "facing": true,
-                "tone": "normal"
-              },
-              {
-                "id": "music",
-                "type": "path",
-                "d": "M-20 -20 V20 Q-45 32 -39 12 Q-32 3 -20 9 M-20 -20 L20 -30 V10 Q-5 22 1 2 Q8 -7 20 -1",
-                "tone": "normal",
-                "x": 197,
-                "y": 41
-              },
-              {
-                "id": "noise",
-                "type": "path",
-                "d": "M48 68 q-12 31 0 63 M352 68 q12 31 0 63",
-                "tone": "normal"
-              },
-              {
                 "id": "claim",
                 "type": "group",
-                "x": 267,
+                "x": 304,
                 "y": 113,
                 "children": [
                   {
@@ -10212,7 +10032,7 @@
               {
                 "id": "unchecked",
                 "type": "path",
-                "d": "M264 143 l12 12 M276 143 l-12 12",
+                "d": "M298 143 l12 12 M310 143 l-12 12",
                 "tone": "normal"
               },
               {
@@ -10240,6 +10060,12 @@
                 "y": 44,
                 "anchor": "middle",
                 "fontSize": 18
+              },
+              {
+                "id": "conversation",
+                "type": "path",
+                "d": "M116 75 H170 V99 H142 L126 111 V99 H116 Z M124 83 H161 M124 91 H155",
+                "tone": "normal"
               }
             ]
           }

@@ -380,7 +380,7 @@
       "kind": "notebook",
       "caption": "body two ways",
       "lesson": {
-        "description": "You know your body from outside, and also by acting through it. A hand closes around a cup. An observer sees a moving body. The person experiences reaching and grasping. These are two ways of knowing one bodily act.",
+        "description": "You know your body from outside, and also by acting through it. A hand closes around a cup. An observer sees the same act from outside. The person experiences reaching and grasping. These are two ways of knowing one bodily act.",
         "beats": [
           {
             "caption": "A hand closes around a cup.",
@@ -7870,15 +7870,6 @@
                 "tone": "normal",
                 "x": 324,
                 "y": 43
-              },
-              {
-                "id": "urgency",
-                "type": "text",
-                "text": "my delay",
-                "x": 309,
-                "y": 218,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "injury",
