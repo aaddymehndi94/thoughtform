@@ -37,7 +37,7 @@
                     "type": "text",
                     "text": "SELFISH",
                     "x": 0,
-                    "y": -21.0,
+                    "y": -21,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -74,7 +74,7 @@
                     "type": "text",
                     "text": "SELFISH",
                     "x": 0,
-                    "y": -9.0,
+                    "y": -9,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -152,7 +152,7 @@
                     "type": "text",
                     "text": "an earlier struggle",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -224,7 +224,7 @@
                     "type": "text",
                     "text": "an earlier struggle",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -374,7 +374,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which familiar value would change if you knew more about how it acquired authority?"
   },
   {
     "id": "nietzsche-ressentiment",
@@ -427,7 +428,7 @@
                     "type": "text",
                     "text": "lesser",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -480,7 +481,7 @@
                     "type": "text",
                     "text": "them",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -541,7 +542,7 @@
                     "type": "text",
                     "text": "my humility",
                     "x": 0,
-                    "y": -10.0,
+                    "y": -10,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -563,7 +564,7 @@
                     "type": "text",
                     "text": "their pride",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -602,7 +603,7 @@
                     "type": "text",
                     "text": "my virtue",
                     "x": 0,
-                    "y": -10.0,
+                    "y": -10,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -624,7 +625,7 @@
                     "type": "text",
                     "text": "the enemy",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -789,7 +790,7 @@
                     "type": "text",
                     "text": "good",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -840,7 +841,7 @@
                     "type": "text",
                     "text": "good",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -862,7 +863,7 @@
                     "type": "text",
                     "text": "lesser",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -904,7 +905,7 @@
                     "type": "text",
                     "text": "evil",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -954,7 +955,7 @@
                     "type": "text",
                     "text": "good",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -976,7 +977,7 @@
                     "type": "text",
                     "text": "evil",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1098,7 +1099,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Whose way of life is being praised when a quality is called good?"
   },
   {
     "id": "nietzsche-bad-conscience",
@@ -1278,7 +1280,7 @@
                     "type": "text",
                     "text": "guilty",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1389,7 +1391,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Where does an impulse go when it cannot find an outward expression?"
   },
   {
     "id": "nietzsche-promise",
@@ -1454,7 +1457,7 @@
                     "type": "text",
                     "text": "next",
                     "x": 0,
-                    "y": -15.0,
+                    "y": -15,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -1463,7 +1466,7 @@
                     "type": "text",
                     "text": "month",
                     "x": 0,
-                    "y": 5.0,
+                    "y": 5,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1506,7 +1509,7 @@
                     "type": "text",
                     "text": "next",
                     "x": 0,
-                    "y": -15.0,
+                    "y": -15,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -1515,7 +1518,7 @@
                     "type": "text",
                     "text": "month",
                     "x": 0,
-                    "y": 5.0,
+                    "y": 5,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1537,7 +1540,7 @@
                     "type": "text",
                     "text": "I want it.",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1576,7 +1579,7 @@
                     "type": "text",
                     "text": "next",
                     "x": 0,
-                    "y": -15.0,
+                    "y": -15,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -1585,7 +1588,7 @@
                     "type": "text",
                     "text": "month",
                     "x": 0,
-                    "y": 5.0,
+                    "y": 5,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1607,7 +1610,7 @@
                     "type": "text",
                     "text": "a",
                     "x": 0,
-                    "y": -5.0,
+                    "y": -5,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -1616,7 +1619,7 @@
                     "type": "text",
                     "text": "commitment",
                     "x": 0,
-                    "y": 15.0,
+                    "y": 15,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1786,7 +1789,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What makes a promise of yours reliable across a change in mood?"
   },
   {
     "id": "nietzsche-active-forgetting",
@@ -1859,7 +1863,7 @@
                     "type": "text",
                     "text": "old injury",
                     "x": 0,
-                    "y": -17.0,
+                    "y": -17,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1897,7 +1901,7 @@
                     "type": "text",
                     "text": "old injury",
                     "x": 0,
-                    "y": -17.0,
+                    "y": -17,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1925,7 +1929,7 @@
                     "type": "text",
                     "text": "today’s task",
                     "x": 0,
-                    "y": -34.0,
+                    "y": -34,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1958,7 +1962,7 @@
                     "type": "text",
                     "text": "old injury",
                     "x": 0,
-                    "y": -17.0,
+                    "y": -17,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -1986,7 +1990,7 @@
                     "type": "text",
                     "text": "today’s task",
                     "x": 0,
-                    "y": -34.0,
+                    "y": -34,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2137,7 +2141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What memory could stop directing the present without being declared unimportant?"
   },
   {
     "id": "nietzsche-guilt-debt",
@@ -2290,7 +2295,7 @@
                     "type": "text",
                     "text": "more",
                     "x": 0,
-                    "y": -20.0,
+                    "y": -20,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2349,7 +2354,7 @@
                     "type": "text",
                     "text": "more",
                     "x": 0,
-                    "y": -20.0,
+                    "y": -20,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2371,7 +2376,7 @@
                     "type": "text",
                     "text": "more",
                     "x": 0,
-                    "y": -20.0,
+                    "y": -20,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2535,7 +2540,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "When you feel guilty, are you answering a harm or trying to settle an imagined account?"
   },
   {
     "id": "nietzsche-punishment",
@@ -2612,7 +2618,7 @@
                     "type": "text",
                     "text": "repay a debt",
                     "x": 0,
-                    "y": 3.0,
+                    "y": 3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2665,7 +2671,7 @@
                     "type": "text",
                     "text": "deter others",
                     "x": 0,
-                    "y": 3.0,
+                    "y": 3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2726,7 +2732,7 @@
                     "type": "text",
                     "text": "display authority",
                     "x": 0,
-                    "y": 3.0,
+                    "y": 3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -2875,7 +2881,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What different purpose has the same punishment served in different settings?"
   },
   {
     "id": "nietzsche-ascetic-meaning",
@@ -2934,7 +2941,7 @@
                     "type": "text",
                     "text": "why?",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3050,7 +3057,7 @@
                     "type": "text",
                     "text": "I am guilty.",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3119,7 +3126,7 @@
                     "type": "text",
                     "text": "I am guilty.",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3220,7 +3227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What suffering becomes bearable because it has been given a purpose?"
   },
   {
     "id": "nietzsche-will-truth",
@@ -3266,7 +3274,7 @@
                     "type": "text",
                     "text": "a claim",
                     "x": 0,
-                    "y": -23.0,
+                    "y": -23,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3305,7 +3313,7 @@
                     "type": "text",
                     "text": "a claim",
                     "x": 0,
-                    "y": -14.0,
+                    "y": -14,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3366,7 +3374,7 @@
                     "type": "text",
                     "text": "a claim",
                     "x": 0,
-                    "y": -14.0,
+                    "y": -14,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3410,7 +3418,7 @@
                     "type": "text",
                     "text": "truth first",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3444,7 +3452,7 @@
                     "type": "text",
                     "text": "a claim",
                     "x": 0,
-                    "y": -14.0,
+                    "y": -14,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3488,7 +3496,7 @@
                     "type": "text",
                     "text": "why truth?",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3623,7 +3631,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What do you expect truth to do for your life, and why?"
   },
   {
     "id": "nietzsche-perspectivism",
@@ -3779,7 +3788,7 @@
                     "type": "text",
                     "text": "compare what each",
                     "x": 0,
-                    "y": -4.0,
+                    "y": -4,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -3788,7 +3797,7 @@
                     "type": "text",
                     "text": "reveals",
                     "x": 0,
-                    "y": 16.0,
+                    "y": 16,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -3892,7 +3901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which position makes something visible while leaving another part hard to see?"
   },
   {
     "id": "nietzsche-many-eyes",
@@ -3954,7 +3964,7 @@
                     "type": "text",
                     "text": "threat",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4004,7 +4014,7 @@
                     "type": "text",
                     "text": "threat",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4026,7 +4036,7 @@
                     "type": "text",
                     "text": "insult",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4076,7 +4086,7 @@
                     "type": "text",
                     "text": "threat",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4098,7 +4108,7 @@
                     "type": "text",
                     "text": "insult",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4120,7 +4130,7 @@
                     "type": "text",
                     "text": "information",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4170,7 +4180,7 @@
                     "type": "text",
                     "text": "threat",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4192,7 +4202,7 @@
                     "type": "text",
                     "text": "insult",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4214,7 +4224,7 @@
                     "type": "text",
                     "text": "information",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4343,7 +4353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What additional perspective could make your account more complete?"
   },
   {
     "id": "nietzsche-philosophy-confession",
@@ -4433,7 +4444,7 @@
                     "type": "text",
                     "text": "need for order",
                     "x": 0,
-                    "y": -5.0,
+                    "y": -5,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4483,7 +4494,7 @@
                     "type": "text",
                     "text": "order first",
                     "x": 0,
-                    "y": -5.0,
+                    "y": -5,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4672,7 +4683,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What personal need may be speaking through a belief you call impersonal?"
   },
   {
     "id": "nietzsche-grammar-self",
@@ -4748,7 +4760,7 @@
                     "type": "text",
                     "text": "lightning",
                     "x": 0,
-                    "y": -30.0,
+                    "y": -30,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4790,7 +4802,7 @@
                     "type": "text",
                     "text": "a doer?",
                     "x": 0,
-                    "y": -30.0,
+                    "y": -30,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -4911,7 +4923,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Where does the sentence make you imagine an actor beyond the action?"
   },
   {
     "id": "nietzsche-plural-will",
@@ -4962,7 +4975,7 @@
                     "type": "text",
                     "text": "I will.",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5006,7 +5019,7 @@
                     "type": "text",
                     "text": "hearing",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5081,7 +5094,7 @@
                     "type": "text",
                     "text": "hearing",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5134,7 +5147,7 @@
                     "type": "text",
                     "text": "I did it.",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5178,7 +5191,7 @@
                     "type": "text",
                     "text": "hearing",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5349,7 +5362,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What competing wishes are gathered into the phrase I decided?"
   },
   {
     "id": "nietzsche-free-will-blame",
@@ -5395,7 +5409,7 @@
                     "type": "text",
                     "text": "history",
                     "x": 0,
-                    "y": -2.0,
+                    "y": -2,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5417,7 +5431,7 @@
                     "type": "text",
                     "text": "drives",
                     "x": 0,
-                    "y": -2.0,
+                    "y": -2,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5439,7 +5453,7 @@
                     "type": "text",
                     "text": "circumstances",
                     "x": 0,
-                    "y": 4.0,
+                    "y": 4,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5473,7 +5487,7 @@
                     "type": "text",
                     "text": "history",
                     "x": 0,
-                    "y": -2.0,
+                    "y": -2,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5495,7 +5509,7 @@
                     "type": "text",
                     "text": "drives",
                     "x": 0,
-                    "y": -2.0,
+                    "y": -2,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -5664,7 +5678,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What does the demand for blame assume about how freely someone could have acted?"
   },
   {
     "id": "nietzsche-convictions",
@@ -5940,7 +5955,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which conviction can still hear a question without treating it as an attack?"
   },
   {
     "id": "nietzsche-science-faith",
@@ -5980,7 +5996,7 @@
                     "type": "text",
                     "text": "hypothesis",
                     "x": 0,
-                    "y": -31.0,
+                    "y": -31,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6002,7 +6018,7 @@
                     "type": "text",
                     "text": "evidence",
                     "x": 0,
-                    "y": -31.0,
+                    "y": -31,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6035,7 +6051,7 @@
                     "type": "text",
                     "text": "revised",
                     "x": 0,
-                    "y": -31.0,
+                    "y": -31,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6057,7 +6073,7 @@
                     "type": "text",
                     "text": "evidence",
                     "x": 0,
-                    "y": -31.0,
+                    "y": -31,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6129,7 +6145,7 @@
                     "type": "text",
                     "text": "truth above all",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6201,7 +6217,7 @@
                     "type": "text",
                     "text": "why this highest value?",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6339,7 +6355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What value gives your inquiry its direction before its findings arrive?"
   },
   {
     "id": "nietzsche-consciousness-communication",
@@ -6433,7 +6450,7 @@
                     "type": "text",
                     "text": "sad",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6474,7 +6491,7 @@
                     "type": "text",
                     "text": "sad",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6503,7 +6520,7 @@
                     "type": "text",
                     "text": "I hear you.",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6537,7 +6554,7 @@
                     "type": "text",
                     "text": "sad",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6730,7 +6747,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "How does describing an experience for others change what you notice about it?"
   },
   {
     "id": "nietzsche-useful-error",
@@ -6854,7 +6872,7 @@
                     "type": "text",
                     "text": "three equal units",
                     "x": 0,
-                    "y": 4.0,
+                    "y": 4,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -6897,7 +6915,7 @@
                     "type": "text",
                     "text": "useful equivalence",
                     "x": 0,
-                    "y": 4.0,
+                    "y": 4,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -7016,7 +7034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which useful assumption have you begun treating as a complete account of reality?"
   },
   {
     "id": "nietzsche-give-style",
@@ -7254,7 +7273,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What difficult quality might find a place in the shape of your life?"
   },
   {
     "id": "nietzsche-self-overcoming",
@@ -7488,7 +7508,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which standard has helped you grow and may now need to be questioned?"
   },
   {
     "id": "nietzsche-camel",
@@ -7643,7 +7664,7 @@
                     "type": "text",
                     "text": "whose",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -7652,7 +7673,7 @@
                     "type": "text",
                     "text": "demand?",
                     "x": 0,
-                    "y": 17.0,
+                    "y": 17,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -7783,7 +7804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which inherited burden have you never considered setting down?"
   },
   {
     "id": "nietzsche-lion",
@@ -7829,7 +7851,7 @@
                     "type": "text",
                     "text": "THOU SHALT",
                     "x": 0,
-                    "y": -40.0,
+                    "y": -40,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -7863,7 +7885,7 @@
                     "type": "text",
                     "text": "THOU SHALT",
                     "x": 0,
-                    "y": -40.0,
+                    "y": -40,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -7885,7 +7907,7 @@
                     "type": "text",
                     "text": "no",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -7924,7 +7946,7 @@
                     "type": "text",
                     "text": "no",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -8113,7 +8135,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What could refusal make room for that refusal alone cannot create?"
   },
   {
     "id": "nietzsche-child",
@@ -8385,7 +8408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would you try if it did not have to begin as a reply to an old authority?"
   },
   {
     "id": "nietzsche-will-power",
@@ -8704,7 +8728,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Where do you see a living process interpreting and reorganising what it encounters?"
   },
   {
     "id": "nietzsche-discipline-form",
@@ -8972,7 +8997,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What practice has given your freedom a more usable form?"
   },
   {
     "id": "nietzsche-becoming-not-knowing",
@@ -9057,7 +9083,7 @@
                     "type": "text",
                     "text": "unknown",
                     "x": 0,
-                    "y": -2.0,
+                    "y": -2,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9250,7 +9276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What has your activity revealed about you that reflection could not predict?"
   },
   {
     "id": "nietzsche-friend-resistance",
@@ -9301,7 +9328,7 @@
                     "type": "text",
                     "text": "yes",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9323,7 +9350,7 @@
                     "type": "text",
                     "text": "yes",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9364,7 +9391,7 @@
                     "type": "text",
                     "text": "yes",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9386,7 +9413,7 @@
                     "type": "text",
                     "text": "consider this",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9645,7 +9672,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which friend makes it harder to remain comfortably the same?"
   },
   {
     "id": "nietzsche-teacher-leaving",
@@ -9739,7 +9767,7 @@
                     "type": "text",
                     "text": "the answer",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9761,7 +9789,7 @@
                     "type": "text",
                     "text": "the answer",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -9989,7 +10017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would thinking for yourself require you to leave behind in a teacher?"
   },
   {
     "id": "nietzsche-death-god",
@@ -10116,7 +10145,7 @@
                     "type": "text",
                     "text": "where now?",
                     "x": 0,
-                    "y": -14.0,
+                    "y": -14,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10157,7 +10186,7 @@
                     "type": "text",
                     "text": "where now?",
                     "x": 0,
-                    "y": -14.0,
+                    "y": -14,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10264,7 +10293,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which inherited authority still supports a value you think is independent?"
   },
   {
     "id": "nietzsche-shadows-god",
@@ -10304,7 +10334,7 @@
                     "type": "text",
                     "text": "a guaranteed order",
                     "x": 0,
-                    "y": -38.0,
+                    "y": -38,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10332,7 +10362,7 @@
                     "type": "text",
                     "text": "belief rejected",
                     "x": 0,
-                    "y": -38.0,
+                    "y": -38,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10498,7 +10528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What old assumption remains in place after you have rejected its name?"
   },
   {
     "id": "nietzsche-nihilism",
@@ -10614,7 +10645,7 @@
                     "type": "text",
                     "text": "work",
                     "x": 0,
-                    "y": -6.0,
+                    "y": -6,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10636,7 +10667,7 @@
                     "type": "text",
                     "text": "love",
                     "x": 0,
-                    "y": -6.0,
+                    "y": -6,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10658,7 +10689,7 @@
                     "type": "text",
                     "text": "making",
                     "x": 0,
-                    "y": -6.0,
+                    "y": -6,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10700,7 +10731,7 @@
                     "type": "text",
                     "text": "work",
                     "x": 0,
-                    "y": -6.0,
+                    "y": -6,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10722,7 +10753,7 @@
                     "type": "text",
                     "text": "love",
                     "x": 0,
-                    "y": -6.0,
+                    "y": -6,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10744,7 +10775,7 @@
                     "type": "text",
                     "text": "making",
                     "x": 0,
-                    "y": -6.0,
+                    "y": -6,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -10855,7 +10886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Where has an old answer lost authority without another answer becoming livable?"
   },
   {
     "id": "nietzsche-open-sea",
@@ -11084,7 +11116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which new possibility appears when a familiar guarantee disappears?"
   },
   {
     "id": "nietzsche-last-man",
@@ -11200,7 +11233,7 @@
                     "type": "text",
                     "text": "only comfort",
                     "x": 0,
-                    "y": 2.0,
+                    "y": 2,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -11239,7 +11272,7 @@
                     "type": "text",
                     "text": "we want this",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -11376,7 +11409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What difficulty would a life organised entirely around comfort no longer be able to meet?"
   },
   {
     "id": "nietzsche-overhuman",
@@ -11597,7 +11631,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What could a changed form of life value differently from the one you know?"
   },
   {
     "id": "nietzsche-faithful-earth",
@@ -11900,7 +11935,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What claim does your actual life make on a belief that promises another world?"
   },
   {
     "id": "nietzsche-eternal-recurrence",
@@ -12731,7 +12767,7 @@
                     "type": "text",
                     "text": "what happened",
                     "x": 0,
-                    "y": -29.0,
+                    "y": -29,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -12779,7 +12815,7 @@
                     "type": "text",
                     "text": "what happened",
                     "x": 0,
-                    "y": -29.0,
+                    "y": -29,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -12827,7 +12863,7 @@
                     "type": "text",
                     "text": "if only…",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -12855,7 +12891,7 @@
                     "type": "text",
                     "text": "what happened",
                     "x": 0,
-                    "y": -29.0,
+                    "y": -29,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -12894,7 +12930,7 @@
                     "type": "text",
                     "text": "what happened",
                     "x": 0,
-                    "y": -29.0,
+                    "y": -29,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -13009,7 +13045,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What would it mean to face this event as part of your life rather than an interruption of it?"
   },
   {
     "id": "nietzsche-revenge-time",
@@ -13370,7 +13407,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Where does resentment keep demanding that an irreversible event become reversible?"
   },
   {
     "id": "nietzsche-apollonian",
@@ -13581,7 +13619,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What does a clear form let you face that would otherwise feel overwhelming?"
   },
   {
     "id": "nietzsche-dionysian",
@@ -13840,7 +13879,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "When has an experience loosened your ordinary sense of separateness?"
   },
   {
     "id": "nietzsche-tragedy",
@@ -14073,7 +14113,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What does a tragic work help you endure without explaining the suffering away?"
   },
   {
     "id": "nietzsche-theoretical-optimism",
@@ -14113,7 +14154,7 @@
                     "type": "text",
                     "text": "an explanation",
                     "x": 0,
-                    "y": -40.0,
+                    "y": -40,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -14362,7 +14403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which painful experience resists the promise that enough explanation would solve it?"
   },
   {
     "id": "nietzsche-artistic-distance",
@@ -14618,7 +14660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What distance helps you see the shape of an experience you are still living?"
   },
   {
     "id": "nietzsche-pain-knowledge",
@@ -14960,7 +15003,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which understanding has changed what you can comfortably believe?"
   },
   {
     "id": "nietzsche-great-health",
@@ -15179,7 +15223,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What capacity becomes possible after your idea of health changes?"
   },
   {
     "id": "nietzsche-genius-work",
@@ -15854,7 +15899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What patient work disappears when you call a result genius?"
   },
   {
     "id": "nietzsche-slow-reading",
@@ -15894,7 +15940,7 @@
                     "type": "text",
                     "text": "a compact sentence",
                     "x": 0,
-                    "y": -11.0,
+                    "y": -11,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -15972,7 +16018,7 @@
                     "type": "text",
                     "text": "a compact sentence",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -15994,7 +16040,7 @@
                     "type": "text",
                     "text": "assumption",
                     "x": 0,
-                    "y": -21.0,
+                    "y": -21,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16016,7 +16062,7 @@
                     "type": "text",
                     "text": "tension",
                     "x": 0,
-                    "y": -21.0,
+                    "y": -21,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16044,7 +16090,7 @@
                     "type": "text",
                     "text": "a compact sentence",
                     "x": 0,
-                    "y": 0.0,
+                    "y": 0,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16066,7 +16112,7 @@
                     "type": "text",
                     "text": "assumption",
                     "x": 0,
-                    "y": -21.0,
+                    "y": -21,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16088,7 +16134,7 @@
                     "type": "text",
                     "text": "tension",
                     "x": 0,
-                    "y": -21.0,
+                    "y": -21,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16207,7 +16253,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "Which sentence deserves more time than your first reading gave it?"
   },
   {
     "id": "nietzsche-mask-depth",
@@ -16253,7 +16300,7 @@
                     "type": "text",
                     "text": "an intimate",
                     "x": 0,
-                    "y": -33.0,
+                    "y": -33,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -16262,7 +16309,7 @@
                     "type": "text",
                     "text": "thought",
                     "x": 0,
-                    "y": -13.0,
+                    "y": -13,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16296,7 +16343,7 @@
                     "type": "text",
                     "text": "an intimate",
                     "x": 0,
-                    "y": -33.0,
+                    "y": -33,
                     "anchor": "middle",
                     "fontSize": 16
                   },
@@ -16305,7 +16352,7 @@
                     "type": "text",
                     "text": "thought",
                     "x": 0,
-                    "y": -13.0,
+                    "y": -13,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16327,7 +16374,7 @@
                     "type": "text",
                     "text": "a simple label",
                     "x": 0,
-                    "y": -3.0,
+                    "y": -3,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16366,7 +16413,7 @@
                     "type": "text",
                     "text": "unexpressed",
                     "x": 0,
-                    "y": -33.0,
+                    "y": -33,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16405,7 +16452,7 @@
                     "type": "text",
                     "text": "unexpressed",
                     "x": 0,
-                    "y": -33.0,
+                    "y": -33,
                     "anchor": "middle",
                     "fontSize": 16
                   }
@@ -16580,6 +16627,7 @@
           }
         ]
       }
-    ]
+    ],
+    "reflection": "What might a person’s reserve protect that your first interpretation missed?"
   }
 ]
