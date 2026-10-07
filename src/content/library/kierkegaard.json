@@ -7640,8 +7640,8 @@
                 "id": "time",
                 "type": "text",
                 "text": "the remembered room",
-                "x": 231,
-                "y": 43,
+                "x": 261,
+                "y": 40,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -7679,15 +7679,15 @@
                 "id": "time",
                 "type": "text",
                 "text": "the remembered room",
-                "x": 231,
-                "y": 43,
+                "x": 261,
+                "y": 40,
                 "anchor": "middle",
                 "fontSize": 18
               },
               {
                 "id": "memory",
                 "type": "path",
-                "d": "M57 40 H154 V91 H57 Z",
+                "d": "M55 22 H137 V63 H55 Z",
                 "tone": "normal",
                 "dashed": true
               },
@@ -7696,10 +7696,10 @@
                 "type": "path",
                 "d": "M-24 -42 H17 V10 H-24 Z M-24 10 V32 M17 10 V32 M-24 -2 H17",
                 "tone": "normal",
-                "x": 108,
-                "y": 66,
+                "x": 96,
+                "y": 43,
                 "pose": {
-                  "scale": 0.5
+                  "scale": 0.42
                 }
               }
             ]
@@ -7736,15 +7736,15 @@
                 "id": "time",
                 "type": "text",
                 "text": "the remembered room",
-                "x": 231,
-                "y": 43,
+                "x": 261,
+                "y": 40,
                 "anchor": "middle",
                 "fontSize": 18
               },
               {
                 "id": "memory",
                 "type": "path",
-                "d": "M57 40 H154 V91 H57 Z",
+                "d": "M55 22 H137 V63 H55 Z",
                 "tone": "normal",
                 "dashed": true
               },
@@ -7753,10 +7753,10 @@
                 "type": "path",
                 "d": "M-24 -42 H17 V10 H-24 Z M-24 10 V32 M17 10 V32 M-24 -2 H17",
                 "tone": "normal",
-                "x": 108,
-                "y": 66,
+                "x": 96,
+                "y": 43,
                 "pose": {
-                  "scale": 0.5
+                  "scale": 0.42
                 }
               },
               {
@@ -7807,7 +7807,7 @@
               {
                 "id": "memory",
                 "type": "path",
-                "d": "M57 40 H154 V91 H57 Z",
+                "d": "M55 22 H137 V63 H55 Z",
                 "tone": "normal",
                 "dashed": true
               },
@@ -7816,10 +7816,10 @@
                 "type": "path",
                 "d": "M-24 -42 H17 V10 H-24 Z M-24 10 V32 M17 10 V32 M-24 -2 H17",
                 "tone": "normal",
-                "x": 108,
-                "y": 66,
+                "x": 96,
+                "y": 43,
                 "pose": {
-                  "scale": 0.5
+                  "scale": 0.42
                 }
               },
               {
@@ -7849,8 +7849,8 @@
                 "id": "renew",
                 "type": "text",
                 "text": "a return, not a replay",
-                "x": 230,
-                "y": 43,
+                "x": 248,
+                "y": 40,
                 "anchor": "middle",
                 "fontSize": 18
               }
