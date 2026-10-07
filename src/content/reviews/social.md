@@ -497,3 +497,247 @@ Chosen: A gardener’s self-frame fades while visitors and additional growth kee
 Static purposes: A project can retain a maker’s care while allowing other uses.; Theological hope and psychological technique have different claims..
 
 Source scope: becker-faith, becker-limits. Everyday scenes are original illustrations, never quotations.
+
+# Social thinkers editorial review
+
+These notes record source and drawing intent. Main integration owns rendered mobile review; these are not claims of visual approval.
+
+## girard-cup: The cup gets interesting
+
+Teaching point: Another person can lend an ordinary object its glow.
+
+Approaches considered: Cup gaining attention in a café; Three people reaching for a shelf; Product photograph beside a friend.
+
+Chosen: An unchanged cup moves from a counter to a model’s hand; a second cup appears on the observer’s shelf only after that encounter.
+
+Static purposes: Track the third person in a purchase, rather than showing a mysterious property inside the object.; Distinguish discovery of function from borrowed prestige using the same cup in two settings..
+
+Source scope: girard-triangle. Everyday scenes are original illustrations, never quotations.
+
+## girard-distant: A model beyond the contest
+
+Teaching point: You can imitate someone without competing for their place.
+
+Approaches considered: Old painting and new easel; Fictional knight in an open book; Teacher showing separate tools.
+
+Chosen: A framed historical painting remains on one side while a beginner’s canvas develops on the other; the two do not compete for one slot.
+
+Static purposes: Show a fictional model influencing conduct without an available place to take from that model.; Make overlapping opportunities the criterion, rather than geographic distance..
+
+Source scope: girard-models. Everyday scenes are original illustrations, never quotations.
+
+## girard-nearby: When the guide wants your spot
+
+Teaching point: A model becomes a rival when both reach for the same scarce good.
+
+Approaches considered: Two easels and one gallery place; Two applicants and one audition seat; Two hands reaching for a trophy.
+
+Chosen: Two separate easels remain; a single gallery slot appears between the artists and gives their shared admiration a competitive stake.
+
+Static purposes: Use one audition opening to locate the actual shared stake, rather than demonizing the other applicant.; Show how sharing a studio can support two works when the desired good is practice rather than one selection..
+
+Source scope: girard-models. Everyday scenes are original illustrations, never quotations.
+
+## girard-jacket: You want the ease inside it
+
+Teaching point: An object can seem to contain another person’s way of being.
+
+Approaches considered: Jacket carrying a halo; Party doorway and unseen mirror; Shopping parcel beside an empty silhouette.
+
+Chosen: A halo first surrounds the friend, then a matching jacket appears beside the observer; the halo drops away to leave the garment’s finite use.
+
+Static purposes: Separate the visible party arrival from the preparation the observer never sees.; Give the object a finite useful job so disappointment need not condemn the whole purchase..
+
+Source scope: girard-being. Everyday scenes are original illustrations, never quotations.
+
+## girard-door: The closed door adds sparkle
+
+Teaching point: A barrier can intensify desire by seeming to certify the prize.
+
+Approaches considered: Club door and ordinary chairs; Rare ticket and mundane event; Gallery rope and familiar artwork.
+
+Chosen: An ordinary room is shown before its door closes; a prestige halo forms around access and disappears when the unchanged room is revealed.
+
+Static purposes: Test the promised activity apart from the barrier that surrounds it.; Distinguish an exclusionary gate from a genuine scarce resource..
+
+Source scope: girard-models, girard-distance. Everyday scenes are original illustrations, never quotations.
+
+## girard-auction: Your bid teaches my bid
+
+Teaching point: Rivals can become each other’s models.
+
+Approaches considered: Auction lamp with opposing bids; Two friends competing over a game score; Two buyers circling the last chair.
+
+Chosen: An unchanged lamp stays at center while the two bidders’ offers appear in turn; the visible price increases arise from the participants.
+
+Static purposes: Separate object improvement from an increase in competitive offers.; Make a prior valuation visible beside a live bid without presenting it as a guaranteed cure..
+
+Source scope: girard-distance. Everyday scenes are original illustrations, never quotations.
+
+## girard-unanswered: A reply becomes a prize
+
+Teaching point: Apparent indifference can make someone seem unusually desirable.
+
+Approaches considered: Message and absent reply; Empty party chair acquiring a halo; Unread invitation beside an imagined crown.
+
+Chosen: An unanswered message remains plain while a halo forms around its distant recipient, then drops away to reveal the uncertainty of the interpretation.
+
+Static purposes: Display ordinary possible causes of an absence without claiming which one is true.; Separate the plain message from the prestige attributed to its imagined recipient..
+
+Source scope: girard-distance. Everyday scenes are original illustrations, never quotations.
+
+## girard-chain: Nobody invented this pedestal
+
+Teaching point: The person you imitate may be following someone else.
+
+Approaches considered: Chain of dinner recommendations; Nested prestige ladders; Invitations passed along a row.
+
+Chosen: People enter one by one behind a confident recommender; each revealed connection makes the apparent origin of taste move farther back.
+
+Static purposes: Locate practical reasons inside a recommendation instead of treating all influence as empty prestige.; Show that every model also faces a model, without giving one person a permanent higher status..
+
+Source scope: girard-triangle, girard-distance. Everyday scenes are original illustrations, never quotations.
+
+## girard-invitation: The rival enters the room
+
+Teaching point: A rival’s interest can intensify a desire that seemed settled.
+
+Approaches considered: Two invitations and a person with choice; A conversation interrupted by a watcher; Shared bench with competing empty seats.
+
+Chosen: A second invitation appears only with the rival; the field widens into comparison before returning emphasis to the recipient’s agency.
+
+Static purposes: Keep the actual relationship concrete through shared time rather than a ranking.; Show comparison as an extra layer around existing affection..
+
+Source scope: girard-triangle, girard-distance. Everyday scenes are original illustrations, never quotations.
+
+## girard-forgotten: The toy is no longer the point
+
+Teaching point: A contest can outlive interest in the thing that started it.
+
+Approaches considered: Abandoned toy between arguing children; Forgotten ball beside a shouting match; Untouched meal during a quarrel.
+
+Chosen: The toy stays fixed while hands give way to opposing speech boxes; it becomes visibly unused as attention transfers to the rival.
+
+Static purposes: Reveal that the original good can be made available while the interpersonal contest remains.; Distinguish a practical turn-taking arrangement from a demand for personal defeat..
+
+Source scope: girard-double. Everyday scenes are original illustrations, never quotations.
+
+## girard-doubles: The enemies start to rhyme
+
+Teaching point: Intense opponents can become alike in the conduct they condemn.
+
+Approaches considered: Matching emails; Two players copying fouls; Opposing mirrors reflecting the same pose.
+
+Chosen: Two separate email sheets acquire the same demand and copied-recipient line; a final label preserves the separate question of unequal power.
+
+Static purposes: Make repeated response patterns observable without deciding the whole dispute.; Keep unequal institutional power visible beside superficially similar communication..
+
+Source scope: girard-double. Everyday scenes are original illustrations, never quotations.
+
+## girard-noise: Payback has a volume knob
+
+Teaching point: Retaliation can reproduce the disturbance it hopes to end.
+
+Approaches considered: Apartment speakers escalating; Neighboring fences growing higher; Reply chain gaining exclamation marks.
+
+Chosen: Two apartment speakers produce increasingly large sound curves in turn; both curves cease when an external shared rule replaces matching retaliation.
+
+Static purposes: Show how each participant begins the account at a different offense.; Keep a protected need concrete when changing the response..
+
+Source scope: girard-double. Everyday scenes are original illustrations, never quotations.
+
+## girard-crisis: The argument fills the meeting
+
+Teaching point: Conflict can spread until disagreement becomes the group’s shared habit.
+
+Approaches considered: Meeting overtaken by copied interruptions; Game with abandoned rules; Different disputes merging into one shouting circle.
+
+Chosen: A row of members gradually acquires matching speech marks, including the chair; a procedure book appears as the unresolved question of containment.
+
+Static purposes: Distinguish many independent complaints from one copied style of retaliation.; Explain the containing purpose of roles and procedures rather than treating hierarchy as inherently good..
+
+Source scope: girard-crisis. Everyday scenes are original illustrations, never quotations.
+
+## girard-target: Many quarrels find one target
+
+Teaching point: A divided group can bond by directing its hostility toward one person.
+
+Approaches considered: Divided meeting converging on one member; Separate complaint piles landing on one desk; Group circling one empty chair.
+
+Chosen: Different problem labels remain above separate members while a ring forms around one target and previously divided people acquire a shared enclosure.
+
+Static purposes: Keep the distinct unresolved causes visible after a convenient target is named.; Separate one specific allegation from a claim that a person caused everything..
+
+Source scope: girard-crisis, girard-persecution. Everyday scenes are original illustrations, never quotations.
+
+## girard-vulnerable: A weak defense becomes a reason
+
+Teaching point: Being easy to accuse is different from being responsible.
+
+Approaches considered: Newcomer with fewer social ties; Unequal access to a hearing; One unprotected desk inside a busy group.
+
+Chosen: A newcomer arrives after the existing group; ties become visible between established members while the newcomer’s isolation is labeled as vulnerability, not guilt.
+
+Static purposes: Make support, rather than a physical stereotype, the visible difference between group members.; Require a claim and evidence instead of allowing unpopularity to serve as a verdict..
+
+Source scope: girard-persecution. Everyday scenes are original illustrations, never quotations.
+
+## girard-peace: The quiet does not prove the story
+
+Teaching point: Relief after an exclusion can be mistaken for proof that the excluded person caused the crisis.
+
+Approaches considered: Leaking roof after an exclusion; Unchanged budget beside a peaceful meeting; Empty chair acquiring two contradictory labels.
+
+Chosen: The blamed member moves toward the edge while the group settles; water from an existing roof leak continues to collect, separating relief from material repair.
+
+Static purposes: Distinguish changed atmosphere from a measurable repair.; Explain two attributions to the same absent target without depicting a supernatural causal power..
+
+Source scope: girard-crisis, girard-scholar. Everyday scenes are original illustrations, never quotations.
+
+## girard-story: Who gets to tell the ending?
+
+Teaching point: A persecution story can hide its violence by presenting the victim as the cause of disorder.
+
+Approaches considered: Group record with omitted pages; Two accounts of one event; Timeline beginning suspiciously late.
+
+Chosen: A written group account gains a single-cause label; a reply and earlier event notes enter beside it so the accusation becomes visibly incomplete.
+
+Static purposes: Make a before-period visible so a story cannot silently start at the target’s arrival.; Restore a reply beside a dominant account without asserting that either sheet is automatically sufficient..
+
+Source scope: girard-persecution, girard-myth. Everyday scenes are original illustrations, never quotations.
+
+## girard-repeat: The group repeats what seemed to work
+
+Teaching point: A community may repeat an action because it associates that action with restored order.
+
+Approaches considered: Remembered crisis becoming a calendar event; Uncontrolled crowd and appointed ceremony; Substitute figure in a repeated rite.
+
+Chosen: A hypothetical crisis is first recorded, then a calendar encloses the same scene; the final text names the account as a disputed hypothesis.
+
+Static purposes: Separate spontaneous group convergence from an appointed and recurring reenactment.; Keep nonviolent and varied ritual purposes visible when limiting the origins claim..
+
+Source scope: girard-ritual, girard-scholar. Everyday scenes are original illustrations, never quotations.
+
+## girard-learn: Imitation can open a workshop
+
+Teaching point: Shared desire can spread a skill without creating a contest.
+
+Approaches considered: Bread-making workshop; Musicians passing a rhythm; Shared language lesson beside a single trophy.
+
+Chosen: One loaf becomes several as new learners enter the same worktable; the original teacher and product remain, showing growth without displacement.
+
+Static purposes: Contrast a repeatable learned skill with a single competitive distinction.; Show the model becoming a generous participant rather than disappearing from the learner’s story..
+
+Source scope: girard-models, girard-scholar. Everyday scenes are original illustrations, never quotations.
+
+## girard-notice: The diagram includes you
+
+Teaching point: The insight deepens when you recognize your own place in the pattern.
+
+Approaches considered: Observer entering their own diagram; Reader noticing a model behind their chair; Reply drafted after recognizing reciprocity.
+
+Chosen: A diagram initially marks another person’s model; a book appears beside the observer and the frame widens to include both before a new response becomes possible.
+
+Static purposes: Prevent awareness from becoming a contest over who is least influenced.; Distinguish a specific changed response from an impossible promise of perfect independence..
+
+Source scope: girard-conversion, girard-scape. Everyday scenes are original illustrations, never quotations.
