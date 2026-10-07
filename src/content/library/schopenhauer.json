@@ -196,15 +196,6 @@
                 "y": 137
               },
               {
-                "id": "cupname",
-                "type": "text",
-                "text": "the cup",
-                "x": 271,
-                "y": 199,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "sight",
                 "type": "path",
                 "d": "M96 85 L248 131",
@@ -1600,24 +1591,6 @@
                 "tone": "normal"
               },
               {
-                "id": "answer-a",
-                "type": "text",
-                "text": "accept",
-                "x": 91,
-                "y": 216,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
-                "id": "answer-b",
-                "type": "text",
-                "text": "refuse",
-                "x": 309,
-                "y": 216,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "condition",
                 "type": "path",
                 "d": "M121 137 H177 M222 137 H278",
@@ -2561,15 +2534,6 @@
                 "d": "M139 119 H171",
                 "tone": "normal",
                 "dashed": true
-              },
-              {
-                "id": "limit",
-                "type": "text",
-                "text": "cannot reach it yet",
-                "x": 200,
-                "y": 216,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "fit",
@@ -3770,15 +3734,6 @@
                 "type": "path",
                 "d": "M135 113 Q198 104 255 143",
                 "tone": "normal"
-              },
-              {
-                "id": "new",
-                "type": "text",
-                "text": "a new distraction",
-                "x": 224,
-                "y": 215,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "sun",
@@ -6144,15 +6099,6 @@
                 "y": 159,
                 "facing": false,
                 "tone": "normal"
-              },
-              {
-                "id": "space",
-                "type": "text",
-                "text": "an opening held",
-                "x": 203,
-                "y": 219,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "support",
@@ -9323,15 +9269,6 @@
                 "tone": "normal"
               },
               {
-                "id": "loss",
-                "type": "text",
-                "text": "their opportunity lost",
-                "x": 274,
-                "y": 219,
-                "anchor": "middle",
-                "fontSize": 18
-              },
-              {
                 "id": "pleased",
                 "type": "path",
                 "d": "M121 89 l5 6 l12 -15",
@@ -9919,15 +9856,6 @@
                     "tone": "shade"
                   }
                 ]
-              },
-              {
-                "id": "new",
-                "type": "text",
-                "text": "who is calmest?",
-                "x": 202,
-                "y": 215,
-                "anchor": "middle",
-                "fontSize": 18
               },
               {
                 "id": "rank-refused",
