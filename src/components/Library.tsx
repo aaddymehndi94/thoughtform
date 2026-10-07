@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { availableThinkers, getThinker, indexEntries } from '../content/library';
 import type { IndexEntry } from '../content/library';
 import { Icon } from './Icons';
@@ -7,6 +7,7 @@ export function Library({ current, bookmarks, viewed, readingPlaces, busy, faile
  const dialog=useRef<HTMLDialogElement>(null);
  const [query,setQuery]=useState(''); const [thinker,setThinker]=useState<string|null>(null); const [tab,setTab]=useState<'thinkers'|'saved'>('thinkers');
  useEffect(()=>{dialog.current?.showModal();},[]);
+ useLayoutEffect(()=>{dialog.current?.querySelector('.detail-panel')?.scrollTo({top:0,behavior:'instant'});},[thinker,tab]);
  const search=query.trim().toLowerCase();
  const entries=indexEntries.filter(c=>(!thinker||c.thinker===thinker)&&(tab!=='saved'||bookmarks.includes(c.id))&&(!search||`${c.title} ${c.concept} ${c.collection} ${getThinker(c.thinker).name} ${c.tags.join(' ')}`.toLowerCase().includes(search)));
  function row(c:IndexEntry,i:number){return <button key={c.id} className={`index-row ${c.id===current?'current':''}`} onClick={()=>onChoose(c.id)} disabled={busy}><span className="index-number">{String(i+1).padStart(2,'0')}</span><span>{c.title}<small>{search||tab==='saved'?`${getThinker(c.thinker).label} · `:''}{c.concept}</small></span><span className="index-marker">{bookmarks.includes(c.id)?<Icon name="bookmark" size={13}/>:viewed.includes(c.id)?'·':''}</span></button>;}

@@ -3,7 +3,9 @@
 const {chromium}=await import(process.env.THOUGHTFORM_PLAYWRIGHT||'playwright');
 import fs from 'node:fs';import assert from 'node:assert/strict';import crypto from 'node:crypto';
 const root=process.cwd(),out=root+'/artifacts/autoplay-review',base=process.env.THOUGHTFORM_REVIEW_URL||'http://localhost:4173';
-const files=process.argv.slice(2),cards=files.flatMap(file=>JSON.parse(fs.readFileSync(root+'/src/content/library/'+file+'.json')));fs.mkdirSync(out,{recursive:true});
+const files=process.argv.slice(2),all=files.flatMap(file=>JSON.parse(fs.readFileSync(root+'/src/content/library/'+file+'.json')));
+const requested=process.env.THOUGHTFORM_REVIEW_IDS?.split(',').filter(Boolean),cards=requested?all.filter(card=>requested.includes(card.id)):all;
+if(requested)assert(cards.length===new Set(requested).size,'unknown or duplicate requested card');fs.mkdirSync(out,{recursive:true});
 const build=crypto.createHash('sha256').update(fs.readFileSync(root+'/dist/index.html')).digest('hex');
 const browser=await chromium.launch({executablePath:process.env.THOUGHTFORM_BROWSER||'/usr/bin/google-chrome',headless:true,args:['--no-sandbox','--disable-background-timer-throttling','--disable-renderer-backgrounding','--disable-backgrounding-occluded-windows']});
 const report=[],errors=[];let cursor=0;
@@ -18,6 +20,6 @@ async function worker(){const context=await browser.newContext({viewport:{width:
    await page.waitForTimeout(1500);assert(await page.locator('.lesson-illustration').getAttribute('data-lesson-beat')===String(index),'drawing advances before its transition settles');
    const screenshot=dir+'/'+card.id+'-beat-'+index+'.png';await page.locator('.lesson-illustration').screenshot({path:screenshot});item.beats.push({index,caption:beat.caption,screenshot});
   }item.ok=true;
- }catch(e){item.ok=false;item.error=e.stack;console.log('FAIL',card.id,e.message);}report.push(item);console.log('Autoplay',report.length+'/'+cards.length,card.id);fs.writeFileSync(out+'/report-'+files.join('-')+'.json',JSON.stringify({build,cards:report,errors},null,2));
+ }catch(e){item.ok=false;item.error=e.stack;console.log('FAIL',card.id,e.message);}report.push(item);console.log('Autoplay',report.length+'/'+cards.length,card.id);fs.writeFileSync(out+'/report-'+files.join('-')+(requested?'-'+crypto.createHash('sha256').update(requested.join(',')).digest('hex').slice(0,8):'')+'.json',JSON.stringify({build,cards:report,errors},null,2));
  }await context.close();}
-await Promise.all(Array.from({length:8},worker));assert(build===crypto.createHash('sha256').update(fs.readFileSync(root+'/dist/index.html')).digest('hex'),'build changed during capture');await browser.close();console.log('DONE',cards.length,'errors',errors.length,'failed',report.filter(r=>!r.ok).length);if(report.some(r=>!r.ok)||errors.length)process.exitCode=1;
+await Promise.all(Array.from({length:Math.max(1,Math.min(8,Number(process.env.THOUGHTFORM_REVIEW_WORKERS)||4))},worker));assert(build===crypto.createHash('sha256').update(fs.readFileSync(root+'/dist/index.html')).digest('hex'),'build changed during capture');await browser.close();console.log('DONE',cards.length,'errors',errors.length,'failed',report.filter(r=>!r.ok).length);if(report.some(r=>!r.ok)||errors.length)process.exitCode=1;
