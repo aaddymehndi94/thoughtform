@@ -3713,7 +3713,7 @@
             "fontSize": 18
           },
           {
-            "id": "detail",
+            "id": "detail-text",
             "type": "text",
             "text": "keep the odd detail",
             "x": 284,

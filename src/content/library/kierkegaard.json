@@ -5680,7 +5680,7 @@
                 "fontSize": 18
               },
               {
-                "id": "future",
+                "id": "future-path",
                 "type": "path",
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
@@ -5775,7 +5775,7 @@
                 "fontSize": 18
               },
               {
-                "id": "future",
+                "id": "future-path",
                 "type": "path",
                 "d": "M-34 -5 L0 -38 L34 -5 M-28 -10 V32 H28 V-10 M-8 32 V4 H8 V32",
                 "tone": "normal",
@@ -6358,7 +6358,7 @@
             "y": 123
           },
           {
-            "id": "water",
+            "id": "water-path",
             "type": "path",
             "d": "M164 123 l26 18",
             "tone": "normal"
