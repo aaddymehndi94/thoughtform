@@ -7,7 +7,7 @@
     "title": "A portrait to live inside",
     "statement": "You can become so busy resembling your best self that the person doing the living gets overlooked.",
     "explanation": "Horney describes an idealized image that promises safety and worth. Trouble begins when that imagined perfection becomes the standard an ordinary person must inhabit.",
-    "nuance": "A friend is capable, kind, and sometimes exhausted. In their private portrait, though, they are the person who never lets anyone down. After a long day, an unanswered message feels like evidence of being a fraud. Horney’s idealized image concerns this transformation of a helpful quality into a claim about the whole person. Kindness becomes a flawless identity that tiredness is forbidden to interrupt.\n\nImagine hanging that portrait above a desk. Every task becomes an audition for the person in the frame. A small success briefly brings the two closer; an ordinary mistake makes the distance painful again. This is an original illustration of Horney’s theory. The picture helps show why reassurance may wear off: it comforts the person while leaving the impossible standard that makes reassurance necessary in place.\n\nAdmiring a possible future can help someone grow. Horney’s concern is the rigid demand to already be a perfected figure, with little interest in the conditions growth requires. The question is how the image works in this particular life. Does it leave room for learning, mixed feelings, and other people’s independence? Her account belongs to a historical psychoanalytic framework; a familiar example alone cannot establish a diagnosis.",
+    "nuance": "A friend is capable, kind, and sometimes exhausted. In their private portrait, though, they are the person who never lets anyone down. After a long day, an unanswered message feels like evidence of being a fraud. Horney’s idealized image concerns this transformation of a helpful quality into a claim about the whole person. Kindness becomes a flawless identity that tiredness is forbidden to interrupt.\n\nImagine hanging that portrait above a desk. Every task becomes an audition for the person in the frame. A small success briefly brings the two closer; an ordinary mistake makes the distance painful again. This is an original illustration of Horney’s theory. The picture helps show why reassurance may wear off: it comforts the person while leaving the impossible standard that makes reassurance necessary in place. The helpful quality remains real even when the identity built around it becomes restrictive.\n\nAdmiring a possible future can help someone grow. Horney’s concern is the rigid demand to already be a perfected figure, with little interest in the conditions growth requires. The question is how the image works in this particular life. Does it leave room for learning, mixed feelings, and other people’s independence? Her account belongs to a historical psychoanalytic framework; a familiar example alone cannot establish a diagnosis.",
     "reflection": "Which quality in your private portrait has stopped being allowed an ordinary bad day?",
     "readingArt": [
       {
@@ -92,7 +92,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-61.5 -32h123v64h-123Z"
               },
               {
                 "id": "word",
@@ -212,7 +212,7 @@
               {
                 "id": "frame",
                 "type": "path",
-                "d": "M190 26h90v83h-90Z"
+                "d": "M180 26h110v83H180Z"
               },
               {
                 "id": "ideal",
@@ -253,7 +253,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -269,7 +269,7 @@
               {
                 "id": "frame",
                 "type": "path",
-                "d": "M190 26h90v83h-90Z"
+                "d": "M180 26h110v83H180Z"
               },
               {
                 "id": "ideal",
@@ -325,7 +325,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-61.5 -32h123v64h-123Z"
                   },
                   {
                     "id": "word",
@@ -341,7 +341,7 @@
               {
                 "id": "frame",
                 "type": "path",
-                "d": "M190 26h90v83h-90Z"
+                "d": "M180 26h110v83H180Z"
               },
               {
                 "id": "ideal",
@@ -397,7 +397,7 @@
     "title": "The person and the possibility",
     "statement": "Who you are today and what can grow in you belong in the same picture.",
     "explanation": "Horney distinguishes the actual person, with strengths and difficulties, from the real self as a source of living potential. Neither is the imaginary finished perfection of the idealized self.",
-    "nuance": "A novice gardener owns a small plant with bent leaves. The plant as it stands today and its capacity to grow are different things, but they belong to one living organism. Horney uses a comparable distinction when discussing the actual self and the real self. The actual person includes what is healthy and what is troubled now. The real self names a capacity for development, rather than a flawless secret personality hiding underneath.\n\nConsider someone beginning to write. Their first page may be uneven, their reasons mixed, their attention unreliable. Those facts are part of the present person. A genuine interest can still be worth cultivating through reading, practice, and a little time. Recognising that interest does not require declaring that they are already a great writer. The small plant drawing makes development visible without replacing the living plant with a picture of a finished tree.\n\nHorney’s real self is a theoretical and value-laden idea, not an object a scan could locate. The distinction is useful when it keeps both present conditions and future capacities in view. Acceptance can include taking responsibility for harm and seeking help with difficulty. It need not mean approving everything one does. Growth has something to work with when the ordinary person is allowed to be present, including uncertainty about what they may become.",
+    "nuance": "A novice gardener owns a small plant with bent leaves. The plant as it stands today and its capacity to grow are different things, but they belong to one living organism. Horney uses a comparable distinction when discussing the actual self and the real self. The actual person includes what is healthy and what is troubled now. The real self names a capacity for development, rather than a flawless secret personality hiding underneath.\n\nConsider someone beginning to write. Their first page may be uneven, their reasons mixed, their attention unreliable. Those facts are part of the present person. A genuine interest can still be worth cultivating through reading, practice, and a little time. Recognising that interest does not require declaring that they are already a great writer. The small plant drawing makes development visible without replacing the living plant with a picture of a finished tree. A capacity becomes clearer through what the person does with it, not simply through a flattering description.\n\nHorney’s real self is a theoretical and value-laden idea, not an object a scan could locate. The distinction is useful when it keeps both present conditions and future capacities in view. Acceptance can include taking responsibility for harm and seeking help with difficulty. It need not mean approving everything one does. Growth has something to work with when the ordinary person is allowed to be present, including uncertainty about what they may become.",
     "reflection": "What interest could you take seriously before knowing whether you will be good at it?",
     "readingArt": [
       {
@@ -412,7 +412,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-57 -32h114v64h-114Z"
               },
               {
                 "id": "word",
@@ -475,7 +475,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -696,7 +696,7 @@
     "title": "When the work becomes an audition",
     "statement": "The same task can serve the work or serve a dream of being exceptional.",
     "explanation": "Horney’s search for glory gathers striving around an idealized identity. Achievement becomes a means of proving that identity, and even success may leave its demand unsatisfied.",
-    "nuance": "Two people rehearse the same difficult passage. One wants to hear it more clearly; the other needs the performance to settle whether they are extraordinary. Both may work hard and care about quality. Horney’s distinction concerns what the work is being asked to provide. When it must establish an exceptional identity, a wrong note can become a verdict on the performer, and applause can feel necessary without ever becoming enough.\n\nPicture a stage whose platform rises after each successful performance. The musician keeps climbing while the piece waits below. A new achievement promises to close the gap that the previous achievement left behind. The moving platform explains a possible mechanism, rather than condemning ambition. It directs attention to what happens after a success: whether the person can enjoy and use it, or immediately needs a larger proof of who they are.\n\nSerious craft also includes standards, disappointment, and a desire for recognition. Those features do not by themselves make striving neurotic in Horney’s sense. Her theory asks whether the pursuit becomes compulsive and detached from genuine interests and human limits. A useful inquiry stays close to the activity: what is being learned, whom it serves, and whether the person remains able to choose a different scale of effort when circumstances change.",
+    "nuance": "Two people rehearse the same difficult passage. One wants to hear it more clearly; the other needs the performance to settle whether they are extraordinary. Both may work hard and care about quality. Horney’s distinction concerns what the work is being asked to provide. When it must establish an exceptional identity, a wrong note can become a verdict on the performer, and applause can feel necessary without ever becoming enough.\n\nPicture a stage whose platform rises after each successful performance. The musician keeps climbing while the piece waits below. A new achievement promises to close the gap that the previous achievement left behind. The moving platform explains a possible mechanism, rather than condemning ambition. It directs attention to what happens after a success: whether the person can enjoy and use it, or immediately needs a larger proof of who they are. The distinction often shows itself in the use made of feedback: more information about the work, or another judgment of status.\n\nSerious craft also includes standards, disappointment, and a desire for recognition. Those features do not by themselves make striving neurotic in Horney’s sense. Her theory asks whether the pursuit becomes compulsive and detached from genuine interests and human limits. A useful inquiry stays close to the activity: what is being learned, whom it serves, and whether the person remains able to choose a different scale of effort when circumstances change.",
     "reflection": "After a success, do you feel closer to the work or immediately assigned a bigger audition?",
     "readingArt": [
       {
@@ -749,7 +749,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -929,7 +929,7 @@
     "title": "A badge that needs guarding",
     "statement": "Pride becomes fragile when it rests on being the person who could never fail.",
     "explanation": "Horney distinguishes respect for real capacities from pride invested in imagined perfection. A minor incident can threaten that pride because it exposes a gap in the idealized identity.",
-    "nuance": "Someone is genuinely good at giving advice. They also privately regard themselves as the person who always knows what others need. A friend declines their suggestion. The refusal now feels humiliating, although their skill has not disappeared. Horney’s account of neurotic pride follows this extra investment in an idealized attribute. The badge being guarded says something more absolute than the actual capacity can support.\n\nA small badge pinned to a coat provides the drawing’s starting point. At first it marks a real accomplishment. It then grows into a shield labelled always right, and a single ordinary question dents it. The important change is in what the badge claims. A person able to learn from a question has one relationship to their skill; someone who must protect infallibility has another. The same conversation can offer information or become a threat.\n\nEnjoying an achievement and wanting to be treated respectfully are ordinary parts of life. Horney’s distinction should sharpen a particular question rather than become a reason to distrust every happy feeling. What happens when the capacity meets its limit? Genuine confidence can include asking for advice or changing one’s mind. Pride tied to perfection may demand that the limit be hidden, blamed on another person, or interpreted as total personal disgrace.",
+    "nuance": "Someone is genuinely good at giving advice. They also privately regard themselves as the person who always knows what others need. A friend declines their suggestion. The refusal now feels humiliating, although their skill has not disappeared. Horney’s account of neurotic pride follows this extra investment in an idealized attribute. The badge being guarded says something more absolute than the actual capacity can support.\n\nA small badge pinned to a coat provides the drawing’s starting point. At first it marks a real accomplishment. It then grows into a shield labelled always right, and a single ordinary question dents it. The important change is in what the badge claims. A person able to learn from a question has one relationship to their skill; someone who must protect infallibility has another. The same conversation can offer information or become a threat. An unfamiliar question may then be a chance to use the skill more fully rather than defend an image of it.\n\nEnjoying an achievement and wanting to be treated respectfully are ordinary parts of life. Horney’s distinction should sharpen a particular question rather than become a reason to distrust every happy feeling. What happens when the capacity meets its limit? Genuine confidence can include asking for advice or changing one’s mind. Pride tied to perfection may demand that the limit be hidden, blamed on another person, or interpreted as total personal disgrace.",
     "reflection": "Which small correction feels as though it has touched your whole identity?",
     "readingArt": [
       {
@@ -944,7 +944,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -994,7 +994,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -1016,7 +1016,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -1214,7 +1214,7 @@
     "title": "The unspoken contract",
     "statement": "A private rule about what you deserve can feel like a promise the world has broken.",
     "explanation": "Horney calls certain rigid expectations neurotic claims: demands that the world honour an idealized image or compensate for special suffering. Their authority can feel obvious to the person holding them.",
-    "nuance": "A person has worked hard on a proposal and expects appreciation. That expectation can be reasonable. A further private demand might say that because they have tried so hard, nobody is allowed to disagree. When someone does, the response concerns more than disappointment with this decision. In Horney’s account, a neurotic claim treats a particular wish as an exceptional right the world must recognise, regardless of the other people involved.\n\nImagine a contract written on one side of a table. It promises agreement in exchange for effort, but the other person has never signed. The drawing keeps both people visible so the missing consent is easy to notice. The point is not that the effort was worthless. It is that the proposed exchange silently removed another person’s freedom to judge the work. Making the expectation explicit allows it to be examined, negotiated, or relinquished.\n\nReal rights, fair payment, and promises actually made have a different standing from a private demand for exceptional treatment. Horney’s language must not be used to dismiss a person’s legitimate complaint. The inquiry requires facts: what was agreed, what is owed, and what the person has added on their own. Learning to identify that addition can protect valid expectations while loosening a claim that other people cannot reasonably satisfy.",
+    "nuance": "A person has worked hard on a proposal and expects appreciation. That expectation can be reasonable. A further private demand might say that because they have tried so hard, nobody is allowed to disagree. When someone does, the response concerns more than disappointment with this decision. In Horney’s account, a neurotic claim treats a particular wish as an exceptional right the world must recognise, regardless of the other people involved.\n\nImagine a contract written on one side of a table. It promises agreement in exchange for effort, but the other person has never signed. The drawing keeps both people visible so the missing consent is easy to notice. The point is not that the effort was worthless. It is that the proposed exchange silently removed another person’s freedom to judge the work. Making the expectation explicit allows it to be examined, negotiated, or relinquished. The other person remains someone with interests and judgment of their own, even when the proposal matters intensely to its maker.\n\nReal rights, fair payment, and promises actually made have a different standing from a private demand for exceptional treatment. Horney’s language must not be used to dismiss a person’s legitimate complaint. The inquiry requires facts: what was agreed, what is owed, and what the person has added on their own. Learning to identify that addition can protect valid expectations while loosening a claim that other people cannot reasonably satisfy.",
     "reflection": "What agreement are you relying on that the other person may never have made?",
     "readingArt": [
       {
@@ -1229,7 +1229,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -1313,7 +1313,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-61.5 -32h123v64h-123Z"
               },
               {
                 "id": "word",
@@ -1375,7 +1375,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-52.5 -32h105v64h-105Z"
                   },
                   {
                     "id": "word",
@@ -1415,7 +1415,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -1469,7 +1469,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -1523,7 +1523,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-70.5 -32h141v64h-141Z"
                   },
                   {
                     "id": "word",
@@ -1578,7 +1578,7 @@
     "title": "The boss nobody hired",
     "statement": "An inner command can demand a result while refusing to hear from the person who must produce it.",
     "explanation": "Horney’s shoulds are coercive demands to embody an idealized self. They can order feelings, abilities, and outcomes without considering the person’s actual circumstances.",
-    "nuance": "An evening arrives with one unfinished task and a tired person. A practical plan asks what remains possible. An inner command says the task must be finished brilliantly and fatigue must not matter. Horney calls attention to the authority of this demand. It can sound like ordinary conscientiousness while granting the person no voice about their condition, available time, or reason for undertaking the work in the first place.\n\nAt the drawing’s desk, an order descends onto the page. More orders follow: be quick, know everything, stay calm. They crowd out the actual task until the person is answering the commands rather than doing the work. These short labels are illustrative dialogue, not Horney quotations. Their accumulation makes the mechanism visible: several impossible requirements can attach themselves to one modest activity and change what counts as completing it.\n\nA deadline or a chosen commitment can properly ask something difficult of us. Horney’s distinction concerns a demand’s rigidity, its relation to an idealized image, and the punishment attached to falling short. Replacing every should with a softer word would not settle that relationship. The more useful question is whether the requirement can hear evidence, change with circumstances, and remain connected to something the person actually values.",
+    "nuance": "An evening arrives with one unfinished task and a tired person. A practical plan asks what remains possible. An inner command says the task must be finished brilliantly and fatigue must not matter. Horney calls attention to the authority of this demand. It can sound like ordinary conscientiousness while granting the person no voice about their condition, available time, or reason for undertaking the work in the first place.\n\nAt the drawing’s desk, an order descends onto the page. More orders follow: be quick, know everything, stay calm. They crowd out the actual task until the person is answering the commands rather than doing the work. These short labels are illustrative dialogue, not Horney quotations. Their accumulation makes the mechanism visible: several impossible requirements can attach themselves to one modest activity and change what counts as completing it. Looking at the task can bring a more specific instruction into view: what needs doing, and by whom, before when?\n\nA deadline or a chosen commitment can properly ask something difficult of us. Horney’s distinction concerns a demand’s rigidity, its relation to an idealized image, and the punishment attached to falling short. Replacing every should with a softer word would not settle that relationship. The more useful question is whether the requirement can hear evidence, change with circumstances, and remain connected to something the person actually values.",
     "reflection": "If your inner instruction were a manager, would it ever listen to a report from the person doing the work?",
     "readingArt": [
       {
@@ -1593,7 +1593,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -1696,7 +1696,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-48 -32h96v64h-96Z"
                   },
                   {
                     "id": "word",
@@ -1735,7 +1735,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-48 -32h96v64h-96Z"
                   },
                   {
                     "id": "word",
@@ -1783,7 +1783,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-48 -32h96v64h-96Z"
                   },
                   {
                     "id": "word",
@@ -1818,7 +1818,7 @@
                 "id": "third",
                 "type": "text",
                 "x": 247,
-                "y": 121,
+                "y": 180,
                 "text": "never tire",
                 "anchor": "middle",
                 "fontSize": 18
@@ -1849,7 +1849,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-48 -32h96v64h-96Z"
                   },
                   {
                     "id": "word",
@@ -1907,7 +1907,7 @@
     "title": "Two hours in a one-hour box",
     "statement": "A human limit is still real when an inner demand refuses to count it.",
     "explanation": "Horney notes that tyrannical shoulds disregard feasibility. They demand what cannot be done, or demand a possible result without allowing the conditions and work it needs.",
-    "nuance": "You have one free hour and a task that normally takes two. Better organisation may help, but it cannot always make the missing hour disappear. Horney notices the demand that limitations should somehow not apply to oneself. The person may already understand the arithmetic and still feel that needing more time proves inadequacy. Knowing the limit and allowing the limit to matter are two different steps.\n\nThe lesson tries to fit two equal work blocks inside a box marked one hour. One block remains outside, even when the box is squeezed. The later drawing shows three actual responses: reduce the task, find more time, or accept a partial result. Each changes a condition of the work. The picture teaches why an insult directed at the worker provides no additional space; the practical problem is still waiting to be organised.\n\nSome demands come from exploitative workplaces or impossible care arrangements. A private change in attitude cannot supply missing resources, fair staffing, or social support. Horney’s account can illuminate an additional pressure when a person treats those conditions as a personal failure. It is most useful when it helps bring the conditions into view. Feasibility belongs to the task and its setting, not merely to the person’s willingness to try harder.",
+    "nuance": "You have one free hour and a task that normally takes two. Better organisation may help, but it cannot always make the missing hour disappear. Horney notices the demand that limitations should somehow not apply to oneself. The person may already understand the arithmetic and still feel that needing more time proves inadequacy. Knowing the limit and allowing the limit to matter are two different steps.\n\nThe lesson tries to fit two equal work blocks inside a box marked one hour. One block remains outside, even when the box is squeezed. The later drawing shows three actual responses: reduce the task, find more time, or accept a partial result. Each changes a condition of the work. The picture teaches why an insult directed at the worker provides no additional space; the practical problem is still waiting to be organised. A workable plan has to describe those constraints before judging the result they make possible.\n\nSome demands come from exploitative workplaces or impossible care arrangements. A private change in attitude cannot supply missing resources, fair staffing, or social support. Horney’s account can illuminate an additional pressure when a person treats those conditions as a personal failure. It is most useful when it helps bring the conditions into view. Feasibility belongs to the task and its setting, not merely to the person’s willingness to try harder.",
     "reflection": "What missing condition are you currently calling a personal defect?",
     "readingArt": [
       {
@@ -2154,7 +2154,7 @@
     "title": "Two orders, one evening",
     "statement": "Two impossible duties can keep you guilty whichever one you obey.",
     "explanation": "Horney describes a crossfire of shoulds when different idealized demands compete. Each insists on total fulfilment, leaving no legitimate room for a finite person to choose.",
-    "nuance": "A parent wants to care for a child and also finish important work. Those commitments really can conflict. An additional demand insists on being endlessly available to each, with no loss on either side. Horney’s crossfire concerns this refusal to permit a human trade-off. The person does not simply have a hard choice; they have two inner authorities that will condemn every possible answer before the circumstances are considered.\n\nOne evening sits between a lamp on a work desk and a chair beside a child’s bed. At first each receives some of the available time. Then both demands expand to claim the entire evening. The same small strip of hours cannot fill both spaces. A later beat returns the demands to specific tasks that can be discussed. The picture preserves the real people and responsibilities while removing the imaginary promise that each can receive everything.\n\nPractical compromises can still involve grief, unequal support, or an urgent need left unmet. Horney’s distinction offers no guarantee of a painless solution. It helps separate the situation’s actual cost from the added verdict that having any limit makes someone defective. Asking what is needed now, what help is available, and what can wait can become possible once an ordinary choice is allowed to count as something other than betrayal.",
+    "nuance": "A parent wants to care for a child and also finish important work. Those commitments really can conflict. An additional demand insists on being endlessly available to each, with no loss on either side. Horney’s crossfire concerns this refusal to permit a human trade-off. The person does not simply have a hard choice; they have two inner authorities that will condemn every possible answer before the circumstances are considered.\n\nOne evening sits between a lamp on a work desk and a chair beside a child’s bed. At first each receives some of the available time. Then both demands expand to claim the entire evening. The same small strip of hours cannot fill both spaces. A later beat returns the demands to specific tasks that can be discussed. The picture preserves the real people and responsibilities while removing the imaginary promise that each can receive everything. The unanswered need can deserve grief or further help without becoming evidence that the whole person has failed.\n\nPractical compromises can still involve grief, unequal support, or an urgent need left unmet. Horney’s distinction offers no guarantee of a painless solution. It helps separate the situation’s actual cost from the added verdict that having any limit makes someone defective. Asking what is needed now, what help is available, and what can wait can become possible once an ordinary choice is allowed to count as something other than betrayal.",
     "reflection": "Which two demands both claim all of the same time?",
     "readingArt": [
       {
@@ -2427,7 +2427,7 @@
     "title": "Knowing later is not knowing then",
     "statement": "You can judge an earlier decision using information the earlier person never had.",
     "explanation": "Horney describes shoulds aimed backward: demands to have been unaffected by hardship, or to have solved an old problem beyond one’s knowledge and capacity at the time.",
-    "nuance": "Looking back at a friendship, you can now see the warning signs. It is tempting to imagine that the younger person had today’s information and simply chose badly. Horney discusses inner demands directed at the past that ignore the conditions under which a life was being lived. The present verdict may ask a frightened or inexperienced person to have possessed the understanding gained only through what later happened.\n\nThe animation places two calendars beside one another. The earlier page has three pieces of information; the later page includes what happened next. Those later pieces then slide onto the earlier page, making its decision look inexplicable. Separating the calendars again restores the actual difference in knowledge. This is a way to examine a judgment, not a method for declaring every past act excusable or every memory complete.\n\nResponsibility can include recognising harm, making amends, and learning how a decision failed. Those tasks become more specific when they distinguish what was knowable then from what is known now. Some warnings really were available and ignored; some were concealed or understood only later. Horney’s account invites a fairer examination of the person’s conditions. It gives no reason to erase the experience of someone harmed by the decision.",
+    "nuance": "Looking back at a friendship, you can now see the warning signs. It is tempting to imagine that the younger person had today’s information and simply chose badly. Horney discusses inner demands directed at the past that ignore the conditions under which a life was being lived. The present verdict may ask a frightened or inexperienced person to have possessed the understanding gained only through what later happened.\n\nThe animation places two calendars beside one another. The earlier page has three pieces of information; the later page includes what happened next. Those later pieces then slide onto the earlier page, making its decision look inexplicable. Separating the calendars again restores the actual difference in knowledge. This is a way to examine a judgment, not a method for declaring every past act excusable or every memory complete. A fair account keeps the earlier limits visible alongside the consequences that now need an answer.\n\nResponsibility can include recognising harm, making amends, and learning how a decision failed. Those tasks become more specific when they distinguish what was knowable then from what is known now. Some warnings really were available and ignored; some were concealed or understood only later. Horney’s account invites a fairer examination of the person’s conditions. It gives no reason to erase the experience of someone harmed by the decision.",
     "reflection": "What fact are you lending your earlier self that only became available afterward?",
     "readingArt": [
       {
@@ -2442,7 +2442,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -2470,7 +2470,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -2506,7 +2506,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -2528,7 +2528,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-57 -32h114v64h-114Z"
               },
               {
                 "id": "word",
@@ -2582,7 +2582,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -2626,7 +2626,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -2655,7 +2655,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-52.5 -32h105v64h-105Z"
                   },
                   {
                     "id": "word",
@@ -2722,7 +2722,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-61.5 -32h123v64h-123Z"
                   },
                   {
                     "id": "word",
@@ -2751,7 +2751,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-52.5 -32h105v64h-105Z"
                   },
                   {
                     "id": "word",
@@ -2818,7 +2818,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -2847,7 +2847,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-52.5 -32h105v64h-105Z"
                   },
                   {
                     "id": "word",
@@ -2926,7 +2926,7 @@
     "title": "A value that leaves room to practise",
     "statement": "A chosen value can guide learning; an inner dictate demands that learning should already be over.",
     "explanation": "Horney distinguishes genuine ideals from coercive shoulds. An ideal can be personally endorsed and developed through effort, while a dictate requires immediate proof of perfection.",
-    "nuance": "A person values honesty and notices that they exaggerated a story. They can tell the truth, ask why they exaggerated, and practise answering differently. A harsher requirement says they must be incapable of dishonesty and therefore must explain the incident away or despise themselves. Horney’s distinction turns on the relationship to the value. One response lets a real mistake become material for learning; the other has to protect an impossible identity.\n\nThe lesson draws a path with ordinary stopping places beside a tall wall marked perfect already. Both use the word honesty. On the path, an error changes the next step; at the wall, it becomes proof that the walker should not exist as they are. The spatial relationship makes the difference clearer than simply replacing demanding language with kind language. A gentle voice can still carry a demand for instant, flawless transformation.\n\nValues can require sacrifice and firm action. Personal endorsement does not make a value harmless, and discomfort alone does not establish inner tyranny. Horney asks whether the demand grows from a genuine judgment and permits the process by which the person could live it. The distinction keeps moral seriousness available. It allows a person to repair an act without needing either an impossible acquittal or a sweeping verdict against their entire being.",
+    "nuance": "A person values honesty and notices that they exaggerated a story. They can tell the truth, ask why they exaggerated, and practise answering differently. A harsher requirement says they must be incapable of dishonesty and therefore must explain the incident away or despise themselves. Horney’s distinction turns on the relationship to the value. One response lets a real mistake become material for learning; the other has to protect an impossible identity.\n\nThe lesson draws a path with ordinary stopping places beside a tall wall marked perfect already. Both use the word honesty. On the path, an error changes the next step; at the wall, it becomes proof that the walker should not exist as they are. The spatial relationship makes the difference clearer than simply replacing demanding language with kind language. A gentle voice can still carry a demand for instant, flawless transformation. The value can remain demanding while the person’s next act becomes specific enough to undertake.\n\nValues can require sacrifice and firm action. Personal endorsement does not make a value harmless, and discomfort alone does not establish inner tyranny. Horney asks whether the demand grows from a genuine judgment and permits the process by which the person could live it. The distinction keeps moral seriousness available. It allows a person to repair an act without needing either an impossible acquittal or a sweeping verdict against their entire being.",
     "reflection": "Which value would become more livable if it allowed you to practise?",
     "readingArt": [
       {
@@ -2941,7 +2941,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-70.5 -32h141v64h-141Z"
               },
               {
                 "id": "word",
@@ -2963,7 +2963,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-88.5 -32h177v64h-177Z"
               },
               {
                 "id": "word",
@@ -3034,7 +3034,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-66 -32h132v64h-132Z"
                   },
                   {
                     "id": "word",
@@ -3082,7 +3082,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -3174,7 +3174,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -3223,7 +3223,7 @@
     "title": "When the room does not feel safe",
     "statement": "A way of relating can begin as an attempt to find safety.",
     "explanation": "In Horney’s theory, adverse relationships can leave a child feeling helpless in a potentially hostile world. Later defensive patterns try to manage that insecurity through affection, power, or distance.",
-    "nuance": "A child who cannot predict whether an adult will be warm or contemptuous may watch the room closely. Pleasing, asserting control, or staying out of the way can become ways of trying to feel less exposed. Horney’s basic anxiety names an enduring sense of insecurity in relation to others. Her emphasis shifts attention toward the quality of relationships and culture rather than treating every difficulty as a struggle with biological drives.\n\nIn the drawing, the same doorway opens warmly once and shuts sharply the next time. The child begins arranging a position around the door instead of exploring the room. Three later possibilities appear: approaching, guarding, and withdrawing. The picture keeps the unreliable relationship visible so these responses have an origin. They are attempts to meet an experienced situation, rather than arbitrary flaws assigned to the child.\n\nA childhood scene cannot explain an adult by itself. People have different temperaments, resources, later relationships, and forms of support. Horney’s account is a historical model that can guide questions about a pattern’s function. It should leave room for new experiences and changing conditions. The important inquiry concerns what makes safety difficult now, how the person seeks it, and whether that response still serves the life they are trying to live.",
+    "nuance": "A child who cannot predict whether an adult will be warm or contemptuous may watch the room closely. Pleasing, asserting control, or staying out of the way can become ways of trying to feel less exposed. Horney’s basic anxiety names an enduring sense of insecurity in relation to others. Her emphasis shifts attention toward the quality of relationships and culture rather than treating every difficulty as a struggle with biological drives.\n\nIn the drawing, the same doorway opens warmly once and shuts sharply the next time. The child begins arranging a position around the door instead of exploring the room. Three later possibilities appear: approaching, guarding, and withdrawing. The picture keeps the unreliable relationship visible so these responses have an origin. They are attempts to meet an experienced situation, rather than arbitrary flaws assigned to the child. Later possibilities belong in that account too, rather than treating the first protective response as a lifelong identity.\n\nA childhood scene cannot explain an adult by itself. People have different temperaments, resources, later relationships, and forms of support. Horney’s account is a historical model that can guide questions about a pattern’s function. It should leave room for new experiences and changing conditions. The important inquiry concerns what makes safety difficult now, how the person seeks it, and whether that response still serves the life they are trying to live.",
     "reflection": "What response makes sense once you ask what it was trying to protect?",
     "readingArt": [
       {
@@ -3483,7 +3483,7 @@
     "title": "Help with a hidden price",
     "statement": "Care can become compulsory when being needed feels like the only way to be safe.",
     "explanation": "Horney’s movement toward people can organise safety around affection and approval. The defensive pattern makes yielding and helping feel necessary, even when the person has another wish.",
-    "nuance": "A colleague asks for another favour. You want to help, but you also need to leave. In Horney’s compliant pattern, refusal can feel as if it threatens the relationship itself. The person may answer yes before considering the request, because maintaining approval has become more urgent than knowing their own position. The visible helpfulness can contain real warmth alongside a fear that having limits will make care disappear.\n\nThe lesson begins with two people carrying a tray together. One keeps accepting extra cups until their own place at the table is covered. A later beat clears a place without removing the shared tray. This gives the teaching a precise direction: examine whether helping leaves room for the helper’s existence. It does not turn generosity into a suspicious act or suggest that every unequal contribution is secretly a bargain.\n\nSometimes a person yields because refusal would have serious consequences. Work hierarchies, dependence, and unequal power have to be considered before interpreting the response. Horney’s distinction is most useful where there is some real room to choose but affection still seems conditional on self-erasure. Learning to express a preference may then make a relationship more mutual. Whether the other person can hear it remains an important fact about the relationship.",
+    "nuance": "A colleague asks for another favour. You want to help, but you also need to leave. In Horney’s compliant pattern, refusal can feel as if it threatens the relationship itself. The person may answer yes before considering the request, because maintaining approval has become more urgent than knowing their own position. The visible helpfulness can contain real warmth alongside a fear that having limits will make care disappear.\n\nThe lesson begins with two people carrying a tray together. One keeps accepting extra cups until their own place at the table is covered. A later beat clears a place without removing the shared tray. This gives the teaching a precise direction: examine whether helping leaves room for the helper’s existence. It does not turn generosity into a suspicious act or suggest that every unequal contribution is secretly a bargain. A particular yes has more meaning when another answer could also be considered.\n\nSometimes a person yields because refusal would have serious consequences. Work hierarchies, dependence, and unequal power have to be considered before interpreting the response. Horney’s distinction is most useful where there is some real room to choose but affection still seems conditional on self-erasure. Learning to express a preference may then make a relationship more mutual. Whether the other person can hear it remains an important fact about the relationship.",
     "reflection": "Is there a favour you would answer differently if a limit did not feel like a threat to belonging?",
     "readingArt": [
       {
@@ -3537,7 +3537,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-43.5 -32h87v64h-87Z"
               },
               {
                 "id": "word",
@@ -3559,7 +3559,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -3913,7 +3913,7 @@
     "title": "Every meeting becomes a match",
     "statement": "A search for safety through winning can turn another person into an opponent before they speak.",
     "explanation": "Horney’s movement against people organises security around mastery and advantage. Cooperation becomes difficult when vulnerability is treated as defeat and every encounter needs a winner.",
-    "nuance": "A meeting begins with a problem two colleagues could solve together. One immediately looks for the stronger position, the weak point in the other’s proposal, and a way to retain control. Horney’s aggressive pattern treats relations as a field of advantage because domination promises protection from helplessness. The competitive stance can remain active even when the other person is offering useful help rather than threatening defeat.\n\nA shared work table gradually becomes a game board. The common project stays in the centre while barriers divide it into territories. When one person wins a square, the project still needs doing. The drawing teaches the cost of an organising assumption: if every encounter is a match, information from another person is easily heard as a move against you. The last beat reopens part of the table for the unfinished shared task.\n\nCompetition can be chosen, enjoyable, and appropriate. A negotiation may require defending a firm position against a real threat. Horney’s concern is a compulsory stance that spreads across situations without regard to their differences. The inquiry asks whether a person can recognise help, tolerate a limited dependence, and change approach when cooperation becomes possible. It concerns the range of available responses, rather than a demand to be agreeable in every encounter.",
+    "nuance": "A meeting begins with a problem two colleagues could solve together. One immediately looks for the stronger position, the weak point in the other’s proposal, and a way to retain control. Horney’s aggressive pattern treats relations as a field of advantage because domination promises protection from helplessness. The competitive stance can remain active even when the other person is offering useful help rather than threatening defeat.\n\nA shared work table gradually becomes a game board. The common project stays in the centre while barriers divide it into territories. When one person wins a square, the project still needs doing. The drawing teaches the cost of an organising assumption: if every encounter is a match, information from another person is easily heard as a move against you. The last beat reopens part of the table for the unfinished shared task. One sign of flexibility is being able to notice when someone else’s contribution improves the result.\n\nCompetition can be chosen, enjoyable, and appropriate. A negotiation may require defending a firm position against a real threat. Horney’s concern is a compulsory stance that spreads across situations without regard to their differences. The inquiry asks whether a person can recognise help, tolerate a limited dependence, and change approach when cooperation becomes possible. It concerns the range of available responses, rather than a demand to be agreeable in every encounter.",
     "reflection": "Where are you playing to win when the situation might allow you to make something together?",
     "readingArt": [
       {
@@ -4207,7 +4207,7 @@
     "title": "A door that keeps out everything",
     "statement": "Distance can protect a person and also keep wanted experiences beyond reach.",
     "explanation": "Horney’s movement away from people seeks security through detachment and self-sufficiency. It becomes restrictive when avoiding dependence governs the person’s choices across relationships.",
-    "nuance": "After a demanding conversation, a quiet evening alone can be exactly what someone needs. Horney’s detached pattern concerns a wider rule: requiring so little of anyone that nobody can disappoint, pressure, or matter too much. Invitations and offers of help may then feel intrusive even when some part of the person wants them. The strategy reduces exposure, but it can also organise life around avoiding the conditions under which closeness develops.\n\nThe drawing closes a door against a noisy visitor. That first action has a clear purpose. Later, a friend leaves a book outside the same door and the barrier remains unchanged. The door protects both times, but the situations differ. A final opening stays narrow and chosen. The lesson is about flexibility: a useful boundary can become a rule that prevents the person from distinguishing an unwanted intrusion from something they might wish to receive.\n\nPrivacy and boundaries do not need to be justified as symptoms. Some relationships are unsafe, and distance can be a necessary decision. Horney’s inquiry concerns the rigidity of the response and its cost within the person’s actual circumstances. Can the distance vary with trust, desire, and the behaviour of the other person? A life with chosen solitude differs from one that must keep every possible need for another person out of view.",
+    "nuance": "After a demanding conversation, a quiet evening alone can be exactly what someone needs. Horney’s detached pattern concerns a wider rule: requiring so little of anyone that nobody can disappoint, pressure, or matter too much. Invitations and offers of help may then feel intrusive even when some part of the person wants them. The strategy reduces exposure, but it can also organise life around avoiding the conditions under which closeness develops.\n\nThe drawing closes a door against a noisy visitor. That first action has a clear purpose. Later, a friend leaves a book outside the same door and the barrier remains unchanged. The door protects both times, but the situations differ. A final opening stays narrow and chosen. The lesson is about flexibility: a useful boundary can become a rule that prevents the person from distinguishing an unwanted intrusion from something they might wish to receive. A closed door and a chosen opening can both be expressions of care for the life taking place inside.\n\nPrivacy and boundaries do not need to be justified as symptoms. Some relationships are unsafe, and distance can be a necessary decision. Horney’s inquiry concerns the rigidity of the response and its cost within the person’s actual circumstances. Can the distance vary with trust, desire, and the behaviour of the other person? A life with chosen solitude differs from one that must keep every possible need for another person out of view.",
     "reflection": "Which invitation would you want to consider if accepting it did not feel like surrendering your independence?",
     "readingArt": [
       {
@@ -4228,7 +4228,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-66 -32h132v64h-132Z"
               },
               {
                 "id": "word",
@@ -4513,7 +4513,7 @@
     "title": "Three ways to pull one life",
     "statement": "A dominant defence can quiet competing wishes without resolving them.",
     "explanation": "Horney’s basic conflict involves incompatible movements toward, against, and away from people. Emphasising one can create temporary coherence while the others continue to influence relationships.",
-    "nuance": "Someone wants reassurance from a friend, resents needing it, and then wants to disappear before the need is noticed. These movements have different aims: closeness, mastery, and distance. Horney’s basic conflict concerns their compulsory competition within one person. A preferred response can make the person’s behaviour look consistent for a while, yet the wishes excluded by that response may return in resentment, sudden withdrawal, or an unexpected demand.\n\nThe lesson shows three handles attached to the same small carriage. Pulling only the handle for approval carries it forward, but the other handles remain attached and snag against the sides. Switching to withdrawal changes the direction without removing the competing claims. This concrete obstruction helps explain why a dramatic reversal may feel like liberation and still preserve the underlying difficulty. The carriage needs room for a different relationship among its aims.\n\nEveryone can need company, defend a position, and enjoy solitude. Those capacities can cooperate when they respond flexibly to circumstances. Horney’s conflict involves rigid defensive demands that make the alternatives feel mutually threatening. Her theory should invite a patient account of the person’s experience. It provides no warrant to label a friend from one inconsistent evening or to assume that every change of mind conceals a deep psychological struggle.",
+    "nuance": "Someone wants reassurance from a friend, resents needing it, and then wants to disappear before the need is noticed. These movements have different aims: closeness, mastery, and distance. Horney’s basic conflict concerns their compulsory competition within one person. A preferred response can make the person’s behaviour look consistent for a while, yet the wishes excluded by that response may return in resentment, sudden withdrawal, or an unexpected demand.\n\nThe lesson shows three handles attached to the same small carriage. Pulling only the handle for approval carries it forward, but the other handles remain attached and snag against the sides. Switching to withdrawal changes the direction without removing the competing claims. This concrete obstruction helps explain why a dramatic reversal may feel like liberation and still preserve the underlying difficulty. The carriage needs room for a different relationship among its aims. A pause can help make each wish describable before one of them claims the whole decision.\n\nEveryone can need company, defend a position, and enjoy solitude. Those capacities can cooperate when they respond flexibly to circumstances. Horney’s conflict involves rigid defensive demands that make the alternatives feel mutually threatening. Her theory should invite a patient account of the person’s experience. It provides no warrant to label a friend from one inconsistent evening or to assume that every change of mind conceals a deep psychological struggle.",
     "reflection": "When you change direction suddenly, what competing wish may still be travelling with you?",
     "readingArt": [
       {
@@ -4528,7 +4528,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-70.5 -32h141v64h-141Z"
               },
               {
                 "id": "word",
@@ -4550,7 +4550,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-66 -32h132v64h-132Z"
               },
               {
                 "id": "word",
@@ -4572,7 +4572,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-66 -32h132v64h-132Z"
               },
               {
                 "id": "word",
@@ -4907,7 +4907,7 @@
     "title": "From a mistake to a verdict",
     "statement": "An impossible standard can turn a small failure into a judgment against the whole person.",
     "explanation": "Horney connects self-hate with the pride system: the actual person is attacked for failing to embody an idealized image. The attack can preserve the standard that made failure unavoidable.",
-    "nuance": "A person forgets to reply to a friend. There is a small act to account for: notice the lapse, apologise if needed, and reply. Their private judge instead treats it as proof that they are fundamentally worthless. Horney examines this jump from a particular shortcoming to an attack on the actual self. The harsh verdict may look like honesty, while quietly keeping the ideal of never disappointing anyone beyond examination.\n\nOne unticked box appears on a page. The box grows into a stamp that covers the person’s entire silhouette. When the page returns to its original scale, the unanswered message is still there and can be dealt with. The mechanism is enlargement: the mistake becomes the measure of a whole being. The drawing therefore preserves the original task through every beat. Losing the task beneath self-condemnation is part of what the lesson is trying to make visible.\n\nSelf-criticism can sometimes identify a real harm, and accountability may require sustained change. Horney’s distinction asks whether the response helps address that harm or mainly enforces an impossible identity. Self-hate can be severe and painful; a diagram or change of wording cannot promise relief. The idea offers a question about the structure of a verdict: whose standard is speaking, what it demands, and what concrete repair is obscured by its sweeping sentence.",
+    "nuance": "A person forgets to reply to a friend. There is a small act to account for: notice the lapse, apologise if needed, and reply. Their private judge instead treats it as proof that they are fundamentally worthless. Horney examines this jump from a particular shortcoming to an attack on the actual self. The harsh verdict may look like honesty, while quietly keeping the ideal of never disappointing anyone beyond examination.\n\nOne unticked box appears on a page. The box grows into a stamp that covers the person’s entire silhouette. When the page returns to its original scale, the unanswered message is still there and can be dealt with. The mechanism is enlargement: the mistake becomes the measure of a whole being. The drawing therefore preserves the original task through every beat. Losing the task beneath self-condemnation is part of what the lesson is trying to make visible. The reply can still be sent, and a more reliable arrangement can still be made.\n\nSelf-criticism can sometimes identify a real harm, and accountability may require sustained change. Horney’s distinction asks whether the response helps address that harm or mainly enforces an impossible identity. Self-hate can be severe and painful; a diagram or change of wording cannot promise relief. The idea offers a question about the structure of a verdict: whose standard is speaking, what it demands, and what concrete repair is obscured by its sweeping sentence.",
     "reflection": "What specific task disappears when the verdict becomes I am the problem?",
     "readingArt": [
       {
@@ -4968,7 +4968,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-70.5 -32h141v64h-141Z"
               },
               {
                 "id": "word",
@@ -5023,7 +5023,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -5062,7 +5062,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -5110,7 +5110,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -5163,7 +5163,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-75 -32h150v64h-150Z"
                   },
                   {
                     "id": "word",
@@ -5217,7 +5217,7 @@
     "title": "The judge on the other side of the glass",
     "statement": "An inner demand can be experienced as though everyone else is issuing it.",
     "explanation": "Horney uses externalization for locating inner processes in the outside world. A person may hear their own perfectionistic standard as an expectation others invariably hold.",
-    "nuance": "A person arrives five minutes late and feels certain that everyone now regards them as incompetent. Someone may actually be annoyed; that has to be checked. An additional inner demand can make the whole room appear to share the person’s harshest judgment. Horney’s externalization directs attention to this transfer of authority. A private rule begins to feel like an external fact, which makes it harder to question as a rule.\n\nThe animation starts with a small written demand beside the observer. Its reflection appears across a window, where a waiting group becomes covered by the same words. The words then return to their original location while the people remain visible with different responses. The glass teaches a source distinction. It does not erase the other people or decide in advance that they were friendly; their actual reactions still need to be heard.\n\nOther people do criticise, institutions impose demands, and some settings punish ordinary mistakes harshly. Externalization must never become a blanket explanation that declares those realities imaginary. Horney’s account is useful when it helps separate three things: what happened, what others expressed, and the judgment the person supplied. That separation can support an honest conversation, including the possibility that both an external pressure and an internal demand are operating together.",
+    "nuance": "A person arrives five minutes late and feels certain that everyone now regards them as incompetent. Someone may actually be annoyed; that has to be checked. An additional inner demand can make the whole room appear to share the person’s harshest judgment. Horney’s externalization directs attention to this transfer of authority. A private rule begins to feel like an external fact, which makes it harder to question as a rule.\n\nThe animation starts with a small written demand beside the observer. Its reflection appears across a window, where a waiting group becomes covered by the same words. The words then return to their original location while the people remain visible with different responses. The glass teaches a source distinction. It does not erase the other people or decide in advance that they were friendly; their actual reactions still need to be heard. A real criticism can become easier to answer when it is separated from a verdict nobody actually spoke.\n\nOther people do criticise, institutions impose demands, and some settings punish ordinary mistakes harshly. Externalization must never become a blanket explanation that declares those realities imaginary. Horney’s account is useful when it helps separate three things: what happened, what others expressed, and the judgment the person supplied. That separation can support an honest conversation, including the possibility that both an external pressure and an internal demand are operating together.",
     "reflection": "What evidence belongs to the room, and what sentence did you bring into it?",
     "readingArt": [
       {
@@ -5254,7 +5254,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-70.5 -32h141v64h-141Z"
               },
               {
                 "id": "word",
@@ -5276,7 +5276,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-66 -32h132v64h-132Z"
               },
               {
                 "id": "word",
@@ -5370,7 +5370,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-61.5 -32h123v64h-123Z"
                   },
                   {
                     "id": "word",
@@ -5409,7 +5409,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-61.5 -32h123v64h-123Z"
                   },
                   {
                     "id": "word",
@@ -5457,7 +5457,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-57 -32h114v64h-114Z"
                   },
                   {
                     "id": "word",
@@ -5523,7 +5523,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-43.5 -32h87v64h-87Z"
                   },
                   {
                     "id": "word",
@@ -5595,7 +5595,7 @@
     "title": "The missing item on your own menu",
     "statement": "You can become expert at knowing what is expected and uncertain about what you want.",
     "explanation": "Horney describes alienation when genuine wishes, feelings, and capacities lose authority beneath defensive demands. The person’s own experience becomes difficult to recognise or use in choosing.",
-    "nuance": "Asked where to have dinner, someone immediately names the place their partner prefers. Asked what they would enjoy alone, they cannot easily answer. A single polite choice proves little, but Horney is interested in a persistent loss of contact with one’s own wishes. Knowing how to maintain approval can become highly developed while knowing what feels interesting, painful, or welcome receives little practice or permission.\n\nThe drawing lays out a menu made entirely from other people’s selections. The person’s place is present, but its page is blank. Later, one small preference appears beside the existing choices rather than replacing all of them. This is a deliberately modest change. Becoming aware of a wish need not decide the meal or cancel consideration for others. It supplies one piece of information that was previously missing from the conversation.\n\nPreferences develop through relationships, culture, and opportunity; nobody chooses from an untouched inner world. Horney’s real self should not be treated as a perfectly pure voice waiting to issue instructions. The inquiry can begin experimentally: notice a small response, try an activity, and see what the experience reveals. Some uncertainty remains useful. A discovered wish still needs judgment about circumstances, other people, and whether acting on it would be responsible.",
+    "nuance": "Asked where to have dinner, someone immediately names the place their partner prefers. Asked what they would enjoy alone, they cannot easily answer. A single polite choice proves little, but Horney is interested in a persistent loss of contact with one’s own wishes. Knowing how to maintain approval can become highly developed while knowing what feels interesting, painful, or welcome receives little practice or permission.\n\nThe drawing lays out a menu made entirely from other people’s selections. The person’s place is present, but its page is blank. Later, one small preference appears beside the existing choices rather than replacing all of them. This is a deliberately modest change. Becoming aware of a wish need not decide the meal or cancel consideration for others. It supplies one piece of information that was previously missing from the conversation. The preference becomes more informative when it is allowed to be small, changeable, and particular.\n\nPreferences develop through relationships, culture, and opportunity; nobody chooses from an untouched inner world. Horney’s real self should not be treated as a perfectly pure voice waiting to issue instructions. The inquiry can begin experimentally: notice a small response, try an activity, and see what the experience reveals. Some uncertainty remains useful. A discovered wish still needs judgment about circumstances, other people, and whether acting on it would be responsible.",
     "reflection": "What small preference could you put on the table without requiring it to win?",
     "readingArt": [
       {
@@ -5610,7 +5610,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -5632,7 +5632,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -5717,7 +5717,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-66 -32h132v64h-132Z"
                   },
                   {
                     "id": "word",
@@ -5751,7 +5751,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-66 -32h132v64h-132Z"
                   },
                   {
                     "id": "word",
@@ -5807,7 +5807,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-66 -32h132v64h-132Z"
                   },
                   {
                     "id": "word",
@@ -5829,7 +5829,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-70.5 -32h141v64h-141Z"
                   },
                   {
                     "id": "word",
@@ -5863,7 +5863,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-66 -32h132v64h-132Z"
                   },
                   {
                     "id": "word",
@@ -5885,7 +5885,7 @@
                   {
                     "id": "paper",
                     "type": "path",
-                    "d": "M-43 -32h86v64h-86Z"
+                    "d": "M-70.5 -32h141v64h-141Z"
                   },
                   {
                     "id": "word",
@@ -5934,7 +5934,7 @@
     "title": "Knowing the knot is still a beginning",
     "statement": "Understanding a pattern does not instantly remove the need it has been serving.",
     "explanation": "Horney treats intellectual insight as part of change. A defence’s emotional purpose and lived consequences also need to become understandable before the person can loosen its hold.",
-    "nuance": "Someone recognises that they seek approval and then scolds themselves for doing it again the next day. The insight has acquired a new command: now that I know, I must be cured. Horney describes change as more than obtaining an accurate label. A response can remain compelling because the person still experiences the danger it was meant to manage. Understanding that function requires attention to actual occasions, feelings, and alternatives.\n\nA knot is drawn in a rope that holds a small shelter in place. Naming the knot illuminates its structure, but the shelter still depends on it. The next beats support the shelter differently before the knot begins to loosen. The rope’s function stays visible throughout. The picture gives a reason for persistence without declaring the pattern unchangeable: something more than recognition may be needed before the old support can be safely given up.\n\nPractice, supportive relationships, and professional help can all contribute, depending on the difficulty. Horney’s therapeutic writing offers a historical account rather than a universal schedule for recovery. The distinction helps prevent insight from becoming another perfection test. It leaves room to ask what happened when the pattern returned, what felt at stake, and which response was genuinely possible at that moment. A repeat can provide further information without becoming proof that nothing was learned.",
+    "nuance": "Someone recognises that they seek approval and then scolds themselves for doing it again the next day. The insight has acquired a new command: now that I know, I must be cured. Horney describes change as more than obtaining an accurate label. A response can remain compelling because the person still experiences the danger it was meant to manage. Understanding that function requires attention to actual occasions, feelings, and alternatives.\n\nA knot is drawn in a rope that holds a small shelter in place. Naming the knot illuminates its structure, but the shelter still depends on it. The next beats support the shelter differently before the knot begins to loosen. The rope’s function stays visible throughout. The picture gives a reason for persistence without declaring the pattern unchangeable: something more than recognition may be needed before the old support can be safely given up. The point of returning to an occasion is to learn more about it, rather than to repeat the original verdict.\n\nPractice, supportive relationships, and professional help can all contribute, depending on the difficulty. Horney’s therapeutic writing offers a historical account rather than a universal schedule for recovery. The distinction helps prevent insight from becoming another perfection test. It leaves room to ask what happened when the pattern returned, what felt at stake, and which response was genuinely possible at that moment. A repeat can provide further information without becoming proof that nothing was learned.",
     "reflection": "When the familiar response returns, what need is it still trying to meet?",
     "readingArt": [
       {
@@ -5949,7 +5949,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-48 -32h96v64h-96Z"
               },
               {
                 "id": "word",
@@ -5996,7 +5996,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-52.5 -32h105v64h-105Z"
               },
               {
                 "id": "word",
@@ -6204,7 +6204,7 @@
     "title": "A life allowed to grow at human speed",
     "statement": "Growth becomes possible when the ordinary person receives attention instead of another demand to be perfect.",
     "explanation": "Horney’s self-realization turns energy toward genuine capacities and relationships. It involves loosening the search for glory while accepting the conditions through which a person can develop.",
-    "nuance": "A person learning to draw keeps an imperfect page instead of tearing it up. They can now notice what the line does, what they enjoy, and what needs practice. Horney’s self-realization concerns this movement toward the living person’s capacities rather than the performance of an idealized identity. The drawing lesson is an ordinary example. It shows attention becoming available for the activity once every page no longer has to establish personal worth.\n\nThe animation begins with a pot crowded by a tall outline of the tree it is required to become. The outline presses against a small plant that needs light, water, and room. As the outline recedes, the plant grows only a little. That modest change matters to the teaching. It separates development from a miraculous reveal of a perfected self. The conditions of growth become visible, and the plant remains recognisably the organism that was there at the beginning.\n\nFor Horney, relinquishing glory can feel like losing the protection that made life bearable. Change may therefore bring disappointment and conflict alongside greater freedom. There is no obligation to turn this final card into another assignment to become ideally healthy. The collection ends with a smaller inquiry: which genuine capacity or relationship has room to develop now, and what conditions would help it? A future card can continue from a real experience rather than a promise of completion.",
+    "nuance": "A person learning to draw keeps an imperfect page instead of tearing it up. They can now notice what the line does, what they enjoy, and what needs practice. Horney’s self-realization concerns this movement toward the living person’s capacities rather than the performance of an idealized identity. The drawing lesson is an ordinary example. It shows attention becoming available for the activity once every page no longer has to establish personal worth.\n\nThe animation begins with a pot crowded by a tall outline of the tree it is required to become. The outline presses against a small plant that needs light, water, and room. As the outline recedes, the plant grows only a little. That modest change matters to the teaching. It separates development from a miraculous reveal of a perfected self. The conditions of growth become visible, and the plant remains recognisably the organism that was there at the beginning. The next page can begin with something to explore, rather than another test to pass.\n\nFor Horney, relinquishing glory can feel like losing the protection that made life bearable. Change may therefore bring disappointment and conflict alongside greater freedom. There is no obligation to turn this final card into another assignment to become ideally healthy. The collection ends with a smaller inquiry: which genuine capacity or relationship has room to develop now, and what conditions would help it? A future card can continue from a real experience rather than a promise of completion.",
     "reflection": "What would receive more attention if it no longer had to prove your worth?",
     "readingArt": [
       {
@@ -6219,7 +6219,7 @@
               {
                 "id": "paper",
                 "type": "path",
-                "d": "M-43 -32h86v64h-86Z"
+                "d": "M-70.5 -32h141v64h-141Z"
               },
               {
                 "id": "word",

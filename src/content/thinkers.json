@@ -51,6 +51,16 @@
     ]
   },
   {
+    "id": "krishnamurti",
+    "name": "Jiddu Krishnamurti",
+    "label": "Krishnamurti",
+    "years": "1895–1986",
+    "description": "Looking before the mind names.",
+    "files": [
+      "krishnamurti"
+    ]
+  },
+  {
     "id": "fromm",
     "name": "Erich Fromm",
     "label": "Fromm",
@@ -61,6 +71,46 @@
     ]
   },
   {
+    "id": "becker",
+    "name": "Ernest Becker",
+    "label": "Becker",
+    "years": "1924–1974",
+    "description": "The worlds we build against mortality.",
+    "files": [
+      "becker"
+    ]
+  },
+  {
+    "id": "girard",
+    "name": "René Girard",
+    "label": "Girard",
+    "years": "1923–2015",
+    "description": "The other person inside a desire.",
+    "files": [
+      "girard"
+    ]
+  },
+  {
+    "id": "watts",
+    "name": "Alan Watts",
+    "label": "Watts",
+    "years": "1915–1973",
+    "description": "The strange work of being alive.",
+    "files": [
+      "watts"
+    ]
+  },
+  {
+    "id": "kierkegaard",
+    "name": "Søren Kierkegaard",
+    "label": "Kierkegaard",
+    "years": "1813–1855",
+    "description": "The difficulty of becoming a self.",
+    "files": [
+      "kierkegaard"
+    ]
+  },
+  {
     "id": "schopenhauer",
     "name": "Arthur Schopenhauer",
     "label": "Schopenhauer",
@@ -68,6 +118,16 @@
     "description": "Desire, rest, and the life of another.",
     "files": [
       "schopenhauer"
+    ]
+  },
+  {
+    "id": "hillman",
+    "name": "James Hillman",
+    "label": "Hillman",
+    "years": "1926–2011",
+    "description": "A life seen through its images.",
+    "files": [
+      "hillman"
     ]
   },
   {

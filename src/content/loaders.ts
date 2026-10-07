@@ -7,8 +7,14 @@ export const cardLoaders: Record<string,()=>Promise<Thought[]>> = {
  'freud': () => import('./library/freud.json').then(module=>module.default as Thought[]),
  'frankl': () => import('./library/frankl.json').then(module=>module.default as Thought[]),
  'horney': () => import('./library/horney.json').then(module=>module.default as Thought[]),
+ 'krishnamurti': () => import('./library/krishnamurti.json').then(module=>module.default as Thought[]),
  'fromm': () => import('./library/fromm.json').then(module=>module.default as Thought[]),
+ 'becker': () => import('./library/becker.json').then(module=>module.default as Thought[]),
+ 'girard': () => import('./library/girard.json').then(module=>module.default as Thought[]),
+ 'watts': () => import('./library/watts.json').then(module=>module.default as Thought[]),
+ 'kierkegaard': () => import('./library/kierkegaard.json').then(module=>module.default as Thought[]),
  'schopenhauer': () => import('./library/schopenhauer.json').then(module=>module.default as Thought[]),
+ 'hillman': () => import('./library/hillman.json').then(module=>module.default as Thought[]),
  'weil': () => import('./library/weil.json').then(module=>module.default as Thought[]),
 };
 export const sourceLoaders: Record<string,()=>Promise<Record<string,Source>>> = {
@@ -18,7 +24,13 @@ export const sourceLoaders: Record<string,()=>Promise<Record<string,Source>>> = 
  'freud': () => import('./library/freud-sources.json').then(module=>module.default),
  'frankl': () => import('./library/frankl-sources.json').then(module=>module.default),
  'horney': () => import('./library/horney-sources.json').then(module=>module.default),
+ 'krishnamurti': () => import('./library/krishnamurti-sources.json').then(module=>module.default),
  'fromm': () => import('./library/fromm-sources.json').then(module=>module.default),
+ 'becker': () => import('./library/becker-sources.json').then(module=>module.default),
+ 'girard': () => import('./library/girard-sources.json').then(module=>module.default),
+ 'watts': () => import('./library/watts-sources.json').then(module=>module.default),
+ 'kierkegaard': () => import('./library/kierkegaard-sources.json').then(module=>module.default),
  'schopenhauer': () => import('./library/schopenhauer-sources.json').then(module=>module.default),
+ 'hillman': () => import('./library/hillman-sources.json').then(module=>module.default),
  'weil': () => import('./library/weil-sources.json').then(module=>module.default),
 };

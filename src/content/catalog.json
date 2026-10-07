@@ -2517,6 +2517,246 @@
     "depth": 2
   },
   {
+    "id": "krishnamurti-conditioning",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Conditioning",
+    "title": "The answer you inherited",
+    "tags": [
+      "conditioning",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-comparison",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Psychological comparison",
+    "title": "The invisible measuring stick",
+    "tags": [
+      "psychological comparison",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-observer",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Observer and observed",
+    "title": "Who is doing the scolding?",
+    "tags": [
+      "observer and observed",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-relationship-images",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Images in relationship",
+    "title": "Meeting yesterday’s person",
+    "tags": [
+      "images in relationship",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-psychological-time",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Psychological time",
+    "title": "Tomorrow I will be different",
+    "tags": [
+      "psychological time",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-fear-thought",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Thought and fear",
+    "title": "The danger on the screen",
+    "tags": [
+      "thought and fear",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-desire-image",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "The formation of desire",
+    "title": "Then you pictured yourself",
+    "tags": [
+      "the formation of desire",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-pleasure-memory",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Pleasure and its continuation",
+    "title": "Wanting the moment again",
+    "tags": [
+      "pleasure and its continuation",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-authority",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Psychological authority",
+    "title": "Borrowing someone’s certainty",
+    "tags": [
+      "psychological authority",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-choiceless-awareness",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Choiceless awareness",
+    "title": "Watch the whole reaction",
+    "tags": [
+      "choiceless awareness",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-attention",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Attention and concentration",
+    "title": "The sound outside the fence",
+    "tags": [
+      "attention and concentration",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-listening",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Listening",
+    "title": "Hearing the unfinished sentence",
+    "tags": [
+      "listening",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-word-fact",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Word and fact",
+    "title": "The name is not the tree",
+    "tags": [
+      "word and fact",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-belief-security",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Belief and security",
+    "title": "The shelter you built",
+    "tags": [
+      "belief and security",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-reaction-freedom",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Freedom and reaction",
+    "title": "The opposite can hold you too",
+    "tags": [
+      "freedom and reaction",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-violence-ideal",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Violence and ideals",
+    "title": "The gentle person tomorrow",
+    "tags": [
+      "violence and ideals",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-loneliness",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Loneliness and escape",
+    "title": "The feeling under the noise",
+    "tags": [
+      "loneliness and escape",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-love-attachment",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Love and possession",
+    "title": "The person inside the claim",
+    "tags": [
+      "love and possession",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-thought-limits",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "The limits of thought",
+    "title": "The map has an edge",
+    "tags": [
+      "the limits of thought",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "krishnamurti-inquiry",
+    "thinker": "krishnamurti",
+    "collection": "Watching the mind",
+    "concept": "Inquiry without following",
+    "title": "Use the mirror, then look",
+    "tags": [
+      "inquiry without following",
+      "watching the mind"
+    ],
+    "depth": 2
+  },
+  {
     "id": "fromm-piano",
     "thinker": "fromm",
     "collection": "Ways of living",
@@ -2769,11 +3009,971 @@
     "depth": 2
   },
   {
+    "id": "becker-two-worlds",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Symbolic self and body",
+    "title": "Big dreams, tired body",
+    "tags": [
+      "symbolic self and body",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-hidden-fear",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Indirect mortality anxiety",
+    "title": "The fear behind the task",
+    "tags": [
+      "indirect mortality anxiety",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-hero-system",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Cultural hero systems",
+    "title": "The club’s little medal",
+    "tags": [
+      "cultural hero systems",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-ordinary-hero",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Everyday heroism",
+    "title": "An ordinary name",
+    "tags": [
+      "everyday heroism",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-self-esteem",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Cultural self-esteem",
+    "title": "Who says you count?",
+    "tags": [
+      "cultural self-esteem",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-armor",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Character armor",
+    "title": "The jacket that stiffens",
+    "tags": [
+      "character armor",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-small-world",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "The cost of defense",
+    "title": "A smaller room",
+    "tags": [
+      "the cost of defense",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-leader",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Transference",
+    "title": "The person who knows",
+    "tags": [
+      "transference",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-romance",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "The romantic solution",
+    "title": "More than a partner",
+    "tags": [
+      "the romantic solution",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-create",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "The creative solution",
+    "title": "Send the work into the world",
+    "tags": [
+      "the creative solution",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-self-made",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "The causa-sui project",
+    "title": "The ladder has a ground",
+    "tags": [
+      "the causa-sui project",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-two-fears",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Fear of life and death",
+    "title": "Stay small or step out?",
+    "tags": [
+      "fear of life and death",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-outlasting",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Symbolic immortality",
+    "title": "The name on the bench",
+    "tags": [
+      "symbolic immortality",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-inherit",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Inherited significance",
+    "title": "The story you enter",
+    "tags": [
+      "inherited significance",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-conflict",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Competing hero systems",
+    "title": "Two worlds that count",
+    "tags": [
+      "competing hero systems",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-purity",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Purity and projection",
+    "title": "The clean side of the fence",
+    "tags": [
+      "purity and projection",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-money",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Money and immortality",
+    "title": "A number against time",
+    "tags": [
+      "money and immortality",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-sacrifice",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Sacrificial heroism",
+    "title": "What the cause asks",
+    "tags": [
+      "sacrificial heroism",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-psychology",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Limits of psychological explanation",
+    "title": "The map is not a promise",
+    "tags": [
+      "limits of psychological explanation",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "becker-humility",
+    "thinker": "becker",
+    "collection": "Lives that matter",
+    "concept": "Noncoercive heroism",
+    "title": "A greatness that leaves room",
+    "tags": [
+      "noncoercive heroism",
+      "becker"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-cup",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Triangular desire",
+    "title": "The cup gets interesting",
+    "tags": [
+      "triangular desire",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-distant",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "External mediation",
+    "title": "A model beyond the contest",
+    "tags": [
+      "external mediation",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-nearby",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Internal mediation",
+    "title": "When the guide wants your spot",
+    "tags": [
+      "internal mediation",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-jacket",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Metaphysical desire",
+    "title": "You want the ease inside it",
+    "tags": [
+      "metaphysical desire",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-door",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Model as obstacle",
+    "title": "The closed door adds sparkle",
+    "tags": [
+      "model as obstacle",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-auction",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Double mediation",
+    "title": "Your bid teaches my bid",
+    "tags": [
+      "double mediation",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-unanswered",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Prestige through indifference",
+    "title": "A reply becomes a prize",
+    "tags": [
+      "prestige through indifference",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-chain",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Chains of models",
+    "title": "Nobody invented this pedestal",
+    "tags": [
+      "chains of models",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-invitation",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Mediated jealousy",
+    "title": "The rival enters the room",
+    "tags": [
+      "mediated jealousy",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-forgotten",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Object displaced by rivalry",
+    "title": "The toy is no longer the point",
+    "tags": [
+      "object displaced by rivalry",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-doubles",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Rivalrous doubles",
+    "title": "The enemies start to rhyme",
+    "tags": [
+      "rivalrous doubles",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-noise",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Reciprocal retaliation",
+    "title": "Payback has a volume knob",
+    "tags": [
+      "reciprocal retaliation",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-crisis",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Mimetic crisis",
+    "title": "The argument fills the meeting",
+    "tags": [
+      "mimetic crisis",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-target",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Scapegoat convergence",
+    "title": "Many quarrels find one target",
+    "tags": [
+      "scapegoat convergence",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-vulnerable",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Victim selection",
+    "title": "A weak defense becomes a reason",
+    "tags": [
+      "victim selection",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-peace",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Double transference",
+    "title": "The quiet does not prove the story",
+    "tags": [
+      "double transference",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-story",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Myth and victim perspective",
+    "title": "Who gets to tell the ending?",
+    "tags": [
+      "myth and victim perspective",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-repeat",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Ritual repetition",
+    "title": "The group repeats what seemed to work",
+    "tags": [
+      "ritual repetition",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-learn",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Cooperative mimesis",
+    "title": "Imitation can open a workshop",
+    "tags": [
+      "cooperative mimesis",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "girard-notice",
+    "thinker": "girard",
+    "collection": "Desire and rivalry",
+    "concept": "Novelistic conversion",
+    "title": "The diagram includes you",
+    "tags": [
+      "novelistic conversion",
+      "girard"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-insecurity",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "The demand for certainty",
+    "title": "Keeping tomorrow still",
+    "tags": [
+      "the demand for certainty",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-reversed-effort",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Reversed effort",
+    "title": "Trying harder to fall asleep",
+    "tags": [
+      "reversed effort",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-planning",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Planning and the present",
+    "title": "Put the itinerary down",
+    "tags": [
+      "planning and the present",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-symbols",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Symbols and reality",
+    "title": "The menu is not lunch",
+    "tags": [
+      "symbols and reality",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-process-self",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Self as a process",
+    "title": "The flame keeps changing",
+    "tags": [
+      "self as a process",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-skin-boundary",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Organism and environment",
+    "title": "The skin is a meeting place",
+    "tags": [
+      "organism and environment",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-mutual-arising",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Mutual arising",
+    "title": "The bee and the flower",
+    "tags": [
+      "mutual arising",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-opposites",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "The relation of opposites",
+    "title": "A shape needs its background",
+    "tags": [
+      "the relation of opposites",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-voluntary-involuntary",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Voluntary and involuntary",
+    "title": "Breathing both ways",
+    "tags": [
+      "voluntary and involuntary",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-control-loop",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Control and feedback",
+    "title": "The supervisor needs a supervisor",
+    "tags": [
+      "control and feedback",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-double-bind",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "The demand for spontaneity",
+    "title": "Be natural, right now",
+    "tags": [
+      "the demand for spontaneity",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-work-play",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Work and play",
+    "title": "The tune is already happening",
+    "tags": [
+      "work and play",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-life-journey",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Life as performance",
+    "title": "Do not rush the last note",
+    "tags": [
+      "life as performance",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-wu-wei",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Wu wei as not forcing",
+    "title": "Turn with the lock",
+    "tags": [
+      "wu wei as not forcing",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-watercourse",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Responsive action",
+    "title": "The water finds the opening",
+    "tags": [
+      "responsive action",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-impermanence",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Impermanence",
+    "title": "The note has to pass",
+    "tags": [
+      "impermanence",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-faith-belief",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Faith and belief",
+    "title": "An open hand for the unknown",
+    "tags": [
+      "faith and belief",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-sincerity",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Playfulness and sincerity",
+    "title": "Care without the heavy face",
+    "tags": [
+      "playfulness and sincerity",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-spotlight",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Spotlight and field",
+    "title": "The room beyond the small beam",
+    "tags": [
+      "spotlight and field",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "watts-social-self",
+    "thinker": "watts",
+    "collection": "Life in motion",
+    "concept": "Conventional identity",
+    "title": "Your name tag has limits",
+    "tags": [
+      "conventional identity",
+      "life in motion"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-self-relation",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "self relation",
+    "title": "More than your ingredients",
+    "tags": [
+      "becoming a self",
+      "self relation"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-despair",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "despair",
+    "title": "Success can leave a question",
+    "tags": [
+      "becoming a self",
+      "despair"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-not-willing-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "not willing self",
+    "title": "The person you want to leave",
+    "tags": [
+      "becoming a self",
+      "not willing self"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-defiant-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "defiant self",
+    "title": "Author of every condition",
+    "tags": [
+      "becoming a self",
+      "defiant self"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-finite-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "finite self",
+    "title": "A person reduced to a role",
+    "tags": [
+      "becoming a self",
+      "finite self"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-infinite-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "infinite self",
+    "title": "Every life but this one",
+    "tags": [
+      "becoming a self",
+      "infinite self"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-unconscious-despair",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "unconscious despair",
+    "title": "The question never arrives",
+    "tags": [
+      "becoming a self",
+      "unconscious despair"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-received-self",
+    "thinker": "kierkegaard",
+    "collection": "Becoming a self",
+    "concept": "received self",
+    "title": "A life to receive and shape",
+    "tags": [
+      "becoming a self",
+      "received self"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-anxiety-freedom",
+    "thinker": "kierkegaard",
+    "collection": "Possibility and anxiety",
+    "concept": "anxiety freedom",
+    "title": "The open message",
+    "tags": [
+      "possibility and anxiety",
+      "anxiety freedom"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-fear-anxiety",
+    "thinker": "kierkegaard",
+    "collection": "Possibility and anxiety",
+    "concept": "fear anxiety",
+    "title": "A threat and an open future",
+    "tags": [
+      "possibility and anxiety",
+      "fear anxiety"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-choose-yourself",
+    "thinker": "kierkegaard",
+    "collection": "Choice and a lived life",
+    "concept": "choose yourself",
+    "title": "A choice that goes on",
+    "tags": [
+      "choice and a lived life",
+      "choose yourself"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-reflection-and-decision",
+    "thinker": "kierkegaard",
+    "collection": "Choice and a lived life",
+    "concept": "reflection and decision",
+    "title": "One more comparison",
+    "tags": [
+      "choice and a lived life",
+      "reflection and decision"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-rotation",
+    "thinker": "kierkegaard",
+    "collection": "Choice and a lived life",
+    "concept": "rotation",
+    "title": "Change the way you notice",
+    "tags": [
+      "choice and a lived life",
+      "rotation"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-repetition",
+    "thinker": "kierkegaard",
+    "collection": "Choice and a lived life",
+    "concept": "repetition",
+    "title": "Return is not a replay",
+    "tags": [
+      "choice and a lived life",
+      "repetition"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-appropriation",
+    "thinker": "kierkegaard",
+    "collection": "Truth and responsibility",
+    "concept": "appropriation",
+    "title": "Knowing it and living it",
+    "tags": [
+      "truth and responsibility",
+      "appropriation"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-indirect-communication",
+    "thinker": "kierkegaard",
+    "collection": "Truth and responsibility",
+    "concept": "indirect communication",
+    "title": "A voice you must answer",
+    "tags": [
+      "truth and responsibility",
+      "indirect communication"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-the-public",
+    "thinker": "kierkegaard",
+    "collection": "Truth and responsibility",
+    "concept": "the public",
+    "title": "Everyone thinks so",
+    "tags": [
+      "truth and responsibility",
+      "the public"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-the-neighbor",
+    "thinker": "kierkegaard",
+    "collection": "Love as a task",
+    "concept": "the neighbor",
+    "title": "The person outside your circle",
+    "tags": [
+      "love as a task",
+      "the neighbor"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-works-of-love",
+    "thinker": "kierkegaard",
+    "collection": "Love as a task",
+    "concept": "works of love",
+    "title": "The same gift, a different act",
+    "tags": [
+      "love as a task",
+      "works of love"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "kierkegaard-resignation-and-faith",
+    "thinker": "kierkegaard",
+    "collection": "Faith and uncertainty",
+    "concept": "resignation and faith",
+    "title": "Giving up and receiving again",
+    "tags": [
+      "faith and uncertainty",
+      "resignation and faith"
+    ],
+    "depth": 2
+  },
+  {
     "id": "schopenhauer-representation",
     "thinker": "schopenhauer",
     "collection": "Meeting the world",
     "concept": "representation",
-    "title": "THE WORLD YOU MEET",
+    "title": "The world you meet",
     "tags": [
       "meeting the world",
       "representation"
@@ -2785,7 +3985,7 @@
     "thinker": "schopenhauer",
     "collection": "Meeting the world",
     "concept": "body two ways",
-    "title": "ONE ARM, TWO WAYS",
+    "title": "One arm, two ways",
     "tags": [
       "meeting the world",
       "body two ways"
@@ -2797,7 +3997,7 @@
     "thinker": "schopenhauer",
     "collection": "Meeting the world",
     "concept": "will not a plan",
-    "title": "BEFORE THE PLAN",
+    "title": "Before the plan",
     "tags": [
       "meeting the world",
       "will not a plan"
@@ -2809,7 +4009,7 @@
     "thinker": "schopenhauer",
     "collection": "Meeting the world",
     "concept": "motive and character",
-    "title": "THE SAME OFFER",
+    "title": "The same offer",
     "tags": [
       "meeting the world",
       "motive and character"
@@ -2821,7 +4021,7 @@
     "thinker": "schopenhauer",
     "collection": "Meeting the world",
     "concept": "acquired character",
-    "title": "LEARNING YOUR OWN SHAPE",
+    "title": "Learning your own shape",
     "tags": [
       "meeting the world",
       "acquired character"
@@ -2833,7 +4033,7 @@
     "thinker": "schopenhauer",
     "collection": "Wanting and relief",
     "concept": "desire renews",
-    "title": "THE NEXT THING",
+    "title": "The next thing",
     "tags": [
       "wanting and relief",
       "desire renews"
@@ -2845,7 +4045,7 @@
     "thinker": "schopenhauer",
     "collection": "Wanting and relief",
     "concept": "boredom",
-    "title": "WHEN NOTHING CALLS",
+    "title": "When nothing calls",
     "tags": [
       "wanting and relief",
       "boredom"
@@ -2857,7 +4057,7 @@
     "thinker": "schopenhauer",
     "collection": "Wanting and relief",
     "concept": "relief and pain",
-    "title": "THE TOOTHACHE GOES",
+    "title": "The toothache goes",
     "tags": [
       "wanting and relief",
       "relief and pain"
@@ -2869,7 +4069,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "aesthetic release",
-    "title": "A MOMENT WITHOUT A JOB",
+    "title": "A moment without a job",
     "tags": [
       "seeing without a demand",
       "aesthetic release"
@@ -2881,7 +4081,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "idea and individual",
-    "title": "THIS TREE, A FORM OF LIFE",
+    "title": "This tree, a form of life",
     "tags": [
       "seeing without a demand",
       "idea and individual"
@@ -2893,7 +4093,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "genius",
-    "title": "ATTENTION THAT STAYS",
+    "title": "Attention that stays",
     "tags": [
       "seeing without a demand",
       "genius"
@@ -2905,7 +4105,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "sublime",
-    "title": "THE STORM AT A DISTANCE",
+    "title": "The storm at a distance",
     "tags": [
       "seeing without a demand",
       "sublime"
@@ -2917,7 +4117,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "architecture",
-    "title": "THE WEIGHT IT CARRIES",
+    "title": "The weight it carries",
     "tags": [
       "seeing without a demand",
       "architecture"
@@ -2929,7 +4129,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "tragedy",
-    "title": "NO VILLAIN REQUIRED",
+    "title": "No villain required",
     "tags": [
       "seeing without a demand",
       "tragedy"
@@ -2941,7 +4141,7 @@
     "thinker": "schopenhauer",
     "collection": "Seeing without a demand",
     "concept": "music",
-    "title": "A STRIVING YOU CAN HEAR",
+    "title": "A striving you can hear",
     "tags": [
       "seeing without a demand",
       "music"
@@ -2953,7 +4153,7 @@
     "thinker": "schopenhauer",
     "collection": "With other lives",
     "concept": "egoism",
-    "title": "MY PLACE IN THE PICTURE",
+    "title": "My place in the picture",
     "tags": [
       "with other lives",
       "egoism"
@@ -2965,7 +4165,7 @@
     "thinker": "schopenhauer",
     "collection": "With other lives",
     "concept": "justice",
-    "title": "THE LINE YOU DO NOT CROSS",
+    "title": "The line you do not cross",
     "tags": [
       "with other lives",
       "justice"
@@ -2977,7 +4177,7 @@
     "thinker": "schopenhauer",
     "collection": "With other lives",
     "concept": "compassion",
-    "title": "THE PAIN THAT MATTERS",
+    "title": "The pain that matters",
     "tags": [
       "with other lives",
       "compassion"
@@ -2989,7 +4189,7 @@
     "thinker": "schopenhauer",
     "collection": "With other lives",
     "concept": "malice",
-    "title": "WHEN THE LOSS IS THE PRIZE",
+    "title": "When the loss is the prize",
     "tags": [
       "with other lives",
       "malice"
@@ -3001,10 +4201,250 @@
     "thinker": "schopenhauer",
     "collection": "With other lives",
     "concept": "resignation",
-    "title": "WHEN STRIVING LOSES ITS CLAIM",
+    "title": "When striving loses its claim",
     "tags": [
       "with other lives",
       "resignation"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-events-and-experience",
+    "thinker": "hillman",
+    "collection": "A life in images",
+    "concept": "events and experience",
+    "title": "What the day becomes",
+    "tags": [
+      "a life in images",
+      "events and experience"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-stay-with-the-image",
+    "thinker": "hillman",
+    "collection": "A life in images",
+    "concept": "stay with the image",
+    "title": "Let the snake move",
+    "tags": [
+      "a life in images",
+      "stay with the image"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-detail-before-opposites",
+    "thinker": "hillman",
+    "collection": "A life in images",
+    "concept": "detail before opposites",
+    "title": "Before good or bad",
+    "tags": [
+      "a life in images",
+      "detail before opposites"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-imaginary-persons",
+    "thinker": "hillman",
+    "collection": "A life in images",
+    "concept": "imaginary persons",
+    "title": "The character who surprises",
+    "tags": [
+      "a life in images",
+      "imaginary persons"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-personifying",
+    "thinker": "hillman",
+    "collection": "A life in images",
+    "concept": "personifying",
+    "title": "Give the mood a face",
+    "tags": [
+      "a life in images",
+      "personifying"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-imaginal-reality",
+    "thinker": "hillman",
+    "collection": "A life in images",
+    "concept": "imaginal reality",
+    "title": "It did not happen, yet it matters",
+    "tags": [
+      "a life in images",
+      "imaginal reality"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-myth-as-a-lens",
+    "thinker": "hillman",
+    "collection": "Images and their stories",
+    "concept": "myth as a lens",
+    "title": "A lens, not a verdict",
+    "tags": [
+      "images and their stories",
+      "myth as a lens"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-amplification",
+    "thinker": "hillman",
+    "collection": "Images and their stories",
+    "concept": "amplification",
+    "title": "Bring a larger world",
+    "tags": [
+      "images and their stories",
+      "amplification"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-as-if",
+    "thinker": "hillman",
+    "collection": "Images and their stories",
+    "concept": "as if",
+    "title": "Let the story breathe",
+    "tags": [
+      "images and their stories",
+      "as if"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-inherited-stories",
+    "thinker": "hillman",
+    "collection": "Images and their stories",
+    "concept": "inherited stories",
+    "title": "The story already in the room",
+    "tags": [
+      "images and their stories",
+      "inherited stories"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-adult-imagination",
+    "thinker": "hillman",
+    "collection": "Images and their stories",
+    "concept": "adult imagination",
+    "title": "The adult also needs stories",
+    "tags": [
+      "images and their stories",
+      "adult imagination"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-acorn",
+    "thinker": "hillman",
+    "collection": "Character and calling",
+    "concept": "acorn",
+    "title": "The interest that keeps returning",
+    "tags": [
+      "character and calling",
+      "acorn"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-grow-down",
+    "thinker": "hillman",
+    "collection": "Character and calling",
+    "concept": "grow down",
+    "title": "Roots count as growth",
+    "tags": [
+      "character and calling",
+      "grow down"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-parent-and-calling",
+    "thinker": "hillman",
+    "collection": "Character and calling",
+    "concept": "parent and calling",
+    "title": "Make a world they can enter",
+    "tags": [
+      "character and calling",
+      "parent and calling"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-world-soul",
+    "thinker": "hillman",
+    "collection": "A world with presence",
+    "concept": "world soul",
+    "title": "The chair has a face",
+    "tags": [
+      "a world with presence",
+      "world soul"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-educate-perception",
+    "thinker": "hillman",
+    "collection": "A world with presence",
+    "concept": "educate perception",
+    "title": "Learn to notice",
+    "tags": [
+      "a world with presence",
+      "educate perception"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-imagining-heart",
+    "thinker": "hillman",
+    "collection": "A world with presence",
+    "concept": "imagining heart",
+    "title": "The heart as a way of seeing",
+    "tags": [
+      "a world with presence",
+      "imagining heart"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-patient-as-citizen",
+    "thinker": "hillman",
+    "collection": "A world with presence",
+    "concept": "patient as citizen",
+    "title": "The room outside the room",
+    "tags": [
+      "a world with presence",
+      "patient as citizen"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-self-and-community",
+    "thinker": "hillman",
+    "collection": "A world with presence",
+    "concept": "self and community",
+    "title": "Other lives live in you",
+    "tags": [
+      "a world with presence",
+      "self and community"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "hillman-intensity-is-not-worth",
+    "thinker": "hillman",
+    "collection": "Feeling and discernment",
+    "concept": "intensity is not worth",
+    "title": "Loud does not mean true",
+    "tags": [
+      "feeling and discernment",
+      "intensity is not worth"
     ],
     "depth": 2
   },

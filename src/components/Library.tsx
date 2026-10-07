@@ -2,8 +2,8 @@ import { useEffect, useRef, useState } from 'react';
 import { availableThinkers, getThinker, indexEntries } from '../content/library';
 import type { IndexEntry } from '../content/library';
 import { Icon } from './Icons';
-interface Props { current: string; bookmarks: string[]; viewed: string[]; readingPlaces: Record<string,string>; busy: boolean; onClose: () => void; onChoose: (id: string, collection?: string) => void; }
-export function Library({ current, bookmarks, viewed, readingPlaces, busy, onClose, onChoose }: Props) {
+interface Props { current: string; bookmarks: string[]; viewed: string[]; readingPlaces: Record<string,string>; busy: boolean; failed: boolean; onRetry: () => void; onClose: () => void; onChoose: (id: string, collection?: string) => void; }
+export function Library({ current, bookmarks, viewed, readingPlaces, busy, failed, onRetry, onClose, onChoose }: Props) {
  const dialog=useRef<HTMLDialogElement>(null);
  const [query,setQuery]=useState(''); const [thinker,setThinker]=useState<string|null>(null); const [tab,setTab]=useState<'thinkers'|'saved'>('thinkers');
  useEffect(()=>{dialog.current?.showModal();},[]);
@@ -20,6 +20,7 @@ export function Library({ current, bookmarks, viewed, readingPlaces, busy, onClo
  {thinker&&<button className="library-back" onClick={()=>setThinker(null)}>← All thinkers</button>}
  {beginning&&!search&&tab==='thinkers'&&<div className="author-reading">{place&&place.id!==beginning.id&&<button onClick={()=>onChoose(place.id)} disabled={busy}><span>Continue reading</span><strong>{place.title} ↗</strong></button>}<button onClick={()=>onChoose(beginning.id)} disabled={busy}>Read from the beginning <span aria-hidden="true">→</span></button><p>Follow the whole collection, or begin with a thread below.</p></div>}
  {busy&&<p className="loading-note" role="status">Opening the collection…</p>}
+ {failed&&!busy&&<p className="loading-note" role="alert">The collection could not open. <button className="source-retry" onClick={onRetry}>Reload to open it ↻</button></p>}
  <div className="index-list">{!search&&!thinker&&tab==='thinkers'?availableThinkers.map(t=><button key={t.id} className="thinker-row" onClick={()=>setThinker(t.id)}><span className="thinker-initial">{t.label.charAt(0)}</span><span>{t.name}<small>{t.description}</small></span><span className="thinker-count">{indexEntries.filter(c=>c.thinker===t.id).length}<span>↗</span></span></button>):thinker&&!search&&tab==='thinkers'?collections.map(name=><div className="collection-group" key={name}><button className="collection-heading" onClick={()=>onChoose(entries.find(c=>c.collection===name)!.id,name)}><span>{name}</span><span>Read this thread ↗</span></button>{entries.filter(c=>c.collection===name).map(row)}</div>):entries.map(row)}</div>
  {!entries.length&&<p className="empty-library">{tab==='saved'&&!search?'Keep a thought with the small bookmark in its corner. It will wait here for you.':'No thoughts found. Try another word.'}</p>}
  <p className="library-footnote">{indexEntries.length} thoughts. No hurry.</p></section></dialog>;

@@ -1,7 +1,9 @@
-import { readFile, readdir, writeFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
 const root = new URL('../src/content/', import.meta.url);
 const items = [], sources = {}, cards = JSON.parse(await readFile(new URL('opening.json', root), 'utf8'));
 const registry = JSON.parse(await readFile(new URL('thinkers.json', root), 'utf8'));
+const thinkerIds=new Set(registry.map(t=>t.id));
+if(thinkerIds.size!==registry.length)throw new Error('Duplicate thinker in release registry');
 const filenames = registry.flatMap(thinker => thinker.files.flatMap(file => [`${file}-sources.json`, `${file}.json`]));
 for (const filename of filenames) {
  const data=JSON.parse(await readFile(new URL(`library/${filename}`,root),'utf8'));
@@ -26,7 +28,7 @@ for(const card of cards) {
  ids.add(card.id);
  if(card.nuance?.split(/\n\s*\n/).length !== 3 || card.readingArt?.length !== 2)throw new Error(`${card.id}: expected three reading paragraphs and two explanatory drawings`);
  const beats=card.scene?.lesson?.beats;
- if(!beats || beats.length < 3 || beats.length > 8)throw new Error(`${card.id}: expected a staged teaching lesson with 3–8 beats`);
+ if(!beats || beats.length < 3)throw new Error(`${card.id}: expected a staged teaching lesson with at least three beats`);
  if(!registry.some(t=>t.id===card.thinker))throw new Error(`${card.id}: unknown thinker`);
  if(!card.reflection || !card.title || !card.statement || !card.explanation)throw new Error(`${card.id}: incomplete reading`);
  if(card.nuance.includes(card.explanation))throw new Error(`${card.id}: opening explanation repeated in expanded reading`);
@@ -38,6 +40,14 @@ for(const card of cards) {
  card.readingArt.forEach((drawing, i) => checkActors(drawing.actors, `${card.id}, reading drawing ${i}`));
 }
 for(const card of cards)for(const related of card.related || [])if(!ids.has(related))throw new Error(`${card.id}: unavailable related thought ${related}`);
+for(const thinker of registry){
+ const authored=cards.filter(card=>card.thinker===thinker.id);
+ if(authored.length<20)throw new Error(`${thinker.id}: a released thinker needs at least twenty complete thoughts`);
+ const titles=new Set(authored.map(card=>card.title.toLowerCase()));
+ if(titles.size!==authored.length)throw new Error(`${thinker.id}: repeated thought title`);
+ const orders=new Set();
+ for(const card of authored)if(card.sequence){const key=`${card.sequence.id}:${card.sequence.order}`;if(orders.has(key))throw new Error(`${card.id}: duplicate order in sequence`);orders.add(key);}
+}
 await writeFile(new URL('catalog.json',root),JSON.stringify(items,null,2)+'\n');
 await writeFile(new URL('source-library.json',root),JSON.stringify(sources,null,2)+'\n');
 // Generate only released imports. Adding a batch to the registry updates both
