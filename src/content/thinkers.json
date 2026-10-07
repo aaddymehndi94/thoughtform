@@ -1,0 +1,83 @@
+[
+  {
+    "id": "jung",
+    "name": "Carl Jung",
+    "label": "Jung",
+    "years": "1875–1961",
+    "description": "The life beneath the life we know.",
+    "files": [
+      "jung",
+      "jung-advanced"
+    ]
+  },
+  {
+    "id": "nietzsche",
+    "name": "Friedrich Nietzsche",
+    "label": "Nietzsche",
+    "years": "1844–1900",
+    "description": "How a value becomes a question.",
+    "files": [
+      "nietzsche"
+    ]
+  },
+  {
+    "id": "freud",
+    "name": "Sigmund Freud",
+    "label": "Freud",
+    "years": "1856–1939",
+    "description": "The desires that speak indirectly.",
+    "files": [
+      "freud"
+    ]
+  },
+  {
+    "id": "frankl",
+    "name": "Viktor Frankl",
+    "label": "Frankl",
+    "years": "1905–1997",
+    "description": "A life answering its circumstances.",
+    "files": [
+      "frankl"
+    ]
+  },
+  {
+    "id": "horney",
+    "name": "Karen Horney",
+    "label": "Horney",
+    "years": "1885–1952",
+    "description": "The person beneath the pressure.",
+    "files": [
+      "horney"
+    ]
+  },
+  {
+    "id": "fromm",
+    "name": "Erich Fromm",
+    "label": "Fromm",
+    "years": "1900–1980",
+    "description": "How society enters a private life.",
+    "files": [
+      "fromm"
+    ]
+  },
+  {
+    "id": "schopenhauer",
+    "name": "Arthur Schopenhauer",
+    "label": "Schopenhauer",
+    "years": "1788–1860",
+    "description": "Desire, rest, and the life of another.",
+    "files": [
+      "schopenhauer"
+    ]
+  },
+  {
+    "id": "weil",
+    "name": "Simone Weil",
+    "label": "Weil",
+    "years": "1909–1943",
+    "description": "Attention without possession.",
+    "files": [
+      "weil"
+    ]
+  }
+]

@@ -9,7 +9,7 @@ import { Library } from './components/Library';
 import { needsReadingGuide, ReadingGuide } from './components/ReadingGuide';
 import { PLAYBACK_SPEEDS } from './visuals/playback';
 const KEY='thoughtform.v1';
-interface ReadingState { current?: string; bookmarks?: string[]; viewed?: string[]; paused?: boolean; collection?: string; animationSpeed?: number; }
+interface ReadingState { current?: string; bookmarks?: string[]; viewed?: string[]; paused?: boolean; collection?: string; animationSpeed?: number; readingPlaces?: Record<string,string>; }
 function readState():ReadingState{try{const state:unknown=JSON.parse(localStorage.getItem(KEY)||localStorage.getItem('inner-index.v1')||'{}');return state&&typeof state==='object'&&!Array.isArray(state)?state as ReadingState:{};}catch{return {};}}
 function hashId(){try{return decodeURIComponent(location.hash.slice(1));}catch{return '';}}
 const initial=readState();
@@ -18,6 +18,12 @@ export default function App(){
  const [flow,setFlow]=useState<Thought[]>(opening); const [activeId,setActiveId]=useState(opening.find(c=>c.id===initialId)?.id||opening[0].id);
  const [bookmarks,setBookmarks]=useState<string[]>(Array.isArray(initial.bookmarks)?initial.bookmarks.filter(v=>typeof v==='string'):[]);
  const [viewed,setViewed]=useState<string[]>(Array.isArray(initial.viewed)?initial.viewed.filter(v=>typeof v==='string'):[]);
+ const [readingPlaces,setReadingPlaces]=useState<Record<string,string>>(()=>{
+  const places:Record<string,string>={};
+  for(const [thinker,id] of Object.entries(initial.readingPlaces||{}))if(indexEntries.some(c=>c.id===id&&c.thinker===thinker))places[thinker]=id;
+  const previous=indexEntries.find(c=>c.id===initial.current);if(previous)places[previous.thinker]=previous.id;
+  return places;
+ });
  const [panel,setPanel]=useState(false); const [paused,setPaused]=useState(initial.paused===true); const [busy,setBusy]=useState(false);
  const [showGuide,setShowGuide]=useState(()=>!initial.current&&!initial.viewed?.length&&needsReadingGuide());
  const [animationSpeed,setAnimationSpeed]=useState(PLAYBACK_SPEEDS.some(speed=>speed===initial.animationSpeed)?initial.animationSpeed!:1);
@@ -38,7 +44,8 @@ export default function App(){
  useEffect(()=>{function hashChange(){const id=hashId();if(indexEntries.some(c=>c.id===id))void choose(id);else history.replaceState(null,'',`#${encodeURIComponent(activeId)}`);}window.addEventListener('hashchange',hashChange);return()=>window.removeEventListener('hashchange',hashChange);},[activeId,panel]);
  function move(direction:number){const next=flow[Math.max(0,Math.min(flow.length-1,index+direction))];if(next.id===card.id)return;setShowGuide(false);setActiveId(next.id);window.scrollTo({top:0,behavior:'instant'});}
  useEffect(()=>{setViewed(v=>v.includes(card.id)?v:[...v,card.id]);},[card.id]);
- useEffect(()=>{if(!ready.current)return;try{localStorage.setItem(KEY,JSON.stringify({current:card.id,bookmarks,viewed,paused,animationSpeed,collection:thread}));history.replaceState(null,'',`#${encodeURIComponent(card.id)}`);}catch{}},[card.id,bookmarks,viewed,paused,animationSpeed,thread,busy]);
+ useEffect(()=>{if(!ready.current)return;setReadingPlaces(places=>places[card.thinker]===card.id?places:{...places,[card.thinker]:card.id});},[card.id,busy]);
+ useEffect(()=>{if(!ready.current)return;try{localStorage.setItem(KEY,JSON.stringify({current:card.id,bookmarks,viewed,paused,animationSpeed,collection:thread,readingPlaces}));history.replaceState(null,'',`#${encodeURIComponent(card.id)}`);}catch{}},[card.id,bookmarks,viewed,paused,animationSpeed,thread,busy,readingPlaces]);
  useEffect(()=>{function key(e:KeyboardEvent){if(e.defaultPrevented)return;if(e.key==='Escape')setPanel(false);if(showGuide||panel||(e.target as HTMLElement).closest('input,textarea,select,[data-card-control]'))return;if(e.key==='ArrowRight'){e.preventDefault();move(1);}if(e.key==='ArrowLeft'){e.preventDefault();move(-1);}}window.addEventListener('keydown',key);return()=>window.removeEventListener('keydown',key);},[showGuide,panel,flow,index]);
  useEffect(()=>{if(panel){const y=window.scrollY;document.body.style.position='fixed';document.body.style.top=`-${y}px`;document.body.style.width='100%';return()=>{document.body.style.position='';document.body.style.top='';document.body.style.width='';const navigated=libraryNavigation.current;libraryNavigation.current=false;const focus=navigated?document.querySelector<HTMLElement>('.teaching-card'):libraryOpener.current;if(focus?.isConnected)focus.focus({preventScroll:true});window.scrollTo({top:navigated?0:y,behavior:'instant'});};}},[panel]);
  function openLibrary(opener:HTMLElement){setShowGuide(false);libraryOpener.current=opener;libraryNavigation.current=false;setPanel(true);}
@@ -48,7 +55,7 @@ export default function App(){
  <main inert={showGuide}><div className="reading-label"><span className="live-dot"/><button className="collection-label" onClick={e=>openLibrary(e.currentTarget)}>{thinker.label} <span>/</span> {thread||'The collection'}</button><span className="label-rule"/><span className="position-label">{String(index+1).padStart(2,'0')} / {String(flow.length).padStart(2,'0')}</span></div>{error&&<p role="alert" className="loading-note">{error}</p>}<div className="reading-stage"><button className="side-nav previous" aria-label="Previous thought" onClick={()=>move(-1)} disabled={index===0}><Icon name="arrow-left"/></button><CardStack key={card.id} card={card} next={flow[Math.min(index+1,flow.length-1)]} index={index} total={flow.length} saved={bookmarks.includes(card.id)} paused={paused||showGuide} playback={{speed:animationSpeed,onSpeedChange:setAnimationSpeed,onAutoplayChange:enabled=>setPaused(!enabled)}} inactive={panel||showGuide} onRead={()=>setShowGuide(false)} onSave={save} onMove={move}/><button className="side-nav next" aria-label="Next thought" onClick={()=>move(1)} disabled={index===flow.length-1}><Icon name="arrow-right"/></button></div>
  <nav className="flow-nav" aria-label="Thought navigation"><button onClick={()=>move(-1)} disabled={index===0} aria-label="Previous thought"><Icon name="arrow-left" size={18}/></button><span className="swipe-hint">{index===flow.length-1?'A place to pause.':'Swipe. Let a thought stay.'}</span><button onClick={()=>move(1)} disabled={index===flow.length-1} aria-label="Next thought"><Icon name="arrow-right" size={18}/></button></nav><div className="progress-track" role="progressbar" aria-label="Position in collection" aria-valuemin={1} aria-valuemax={flow.length} aria-valuenow={index+1}><span style={{width:`${((index+1)/flow.length)*100}%`}}/></div>
  </main><footer className="site-footer" inert={showGuide}><span>Difficult ideas. Slowly understood.</span><button className="motion-control" onClick={()=>setPaused(p=>!p)} aria-label={paused?'Play illustrations':'Pause illustrations'}><Icon name={paused?'play':'pause'} size={13}/><span>{paused?'Resume motion':'A little stillness'}</span></button><span className="footer-edition">{thinker.years} <span>·</span> {thinker.name.toUpperCase()}</span></footer>
- {panel&&<Library current={card.id} bookmarks={bookmarks} viewed={viewed} busy={busy} onClose={()=>setPanel(false)} onChoose={(id,collection)=>void choose(id,collection)}/>}
+ {panel&&<Library current={card.id} bookmarks={bookmarks} viewed={viewed} readingPlaces={readingPlaces} busy={busy} onClose={()=>setPanel(false)} onChoose={(id,collection)=>void choose(id,collection)}/>}
  <AnimatePresence onExitComplete={()=>document.querySelector<HTMLElement>('.teaching-card')?.focus({preventScroll:true})}>{showGuide&&!panel&&<ReadingGuide onDismiss={()=>setShowGuide(false)}/>}</AnimatePresence>
  <div className="sr-only" aria-live="polite">Thought {index+1} of {flow.length}: {card.title}</div></div>;
 }

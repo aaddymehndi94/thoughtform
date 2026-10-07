@@ -1,7 +1,7 @@
 import type { Source } from './types';
-import librarySources from './source-library.json';
+import { sourceLoaders } from './loaders';
+import registry from './thinkers.json';
 export const sources: Record<string, Source> = {
- ...librarySources,
  shadow: { title: 'Aion', author: 'C. G. Jung', reference: 'Collected Works 9ii, chapter II: The Shadow', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-shadow/' },
  psyche: { title: 'Two Essays on Analytical Psychology', author: 'C. G. Jung', reference: 'Collected Works 7, The Relations between the Ego and the Unconscious', url: 'https://www.thesap.org.uk/articles-on-jungian-psychology-2/carl-gustav-jung/jungs-model-psyche/' },
  complex: { title: 'A Review of the Complex Theory', author: 'C. G. Jung', reference: 'Collected Works 8, §§194–219', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-theory-of-complexes/' },
@@ -13,3 +13,12 @@ export const sources: Record<string, Source> = {
  archetypes: { title: 'The Archetypes and the Collective Unconscious', author: 'C. G. Jung', reference: 'Collected Works 9i, Archetypes of the Collective Unconscious', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/archetype-2/' },
  imagination: { title: 'The Transcendent Function', author: 'C. G. Jung', reference: 'Collected Works 8, dialogue with unconscious material', url: 'https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/active-imagination-2/' },
 };
+const cache=new Map<string,Promise<Record<string,Source>>>();
+export function loadSources(thinker:string){
+ if(!cache.has(thinker))cache.set(thinker,(async()=>{
+  const files=registry.find(author=>author.id===thinker)?.files||[];
+  const batches=await Promise.all(files.map(file=>sourceLoaders[file]()));
+  return Object.assign({},sources,...batches) as Record<string,Source>;
+ })().catch(error=>{cache.delete(thinker);throw error;}));
+ return cache.get(thinker)!;
+}

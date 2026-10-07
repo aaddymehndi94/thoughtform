@@ -1,601 +1,1058 @@
 [
   {
-    "id": "frankl-a-deed",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Creative values",
-    "title": "A small deed",
+    "id": "jung-shadow-exclusion",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Shadow formation",
+    "title": "A border called “not me”",
     "tags": [
-      "creative values",
-      "meaning"
+      "shadow formation",
+      "the selves we show"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-encounter",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Experiential values",
-    "title": "Receiving the world",
+    "id": "jung-shadow-positive",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Positive shadow",
+    "title": "A capacity left outside",
     "tags": [
-      "experiential values",
-      "meaning"
+      "positive shadow",
+      "the selves we show"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-unavoidable",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Attitudinal values",
-    "title": "When loss stays",
+    "id": "jung-shadow-responsibility",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Shadow integration",
+    "title": "Recognition is not permission",
     "tags": [
-      "attitudinal values",
-      "the limits"
+      "shadow integration",
+      "the selves we show"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-persona-identification",
+    "thinker": "jung",
+    "collection": "The selves we show",
+    "concept": "Persona identification",
+    "title": "When the badge fills the room",
+    "tags": [
+      "persona identification",
+      "the selves we show"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-projection-idealization",
+    "thinker": "jung",
+    "collection": "Meeting another person",
+    "concept": "Positive projection",
+    "title": "A borrowed greatness",
+    "tags": [
+      "positive projection",
+      "meeting another person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-projection-withdrawal",
+    "thinker": "jung",
+    "collection": "Meeting another person",
+    "concept": "Withdrawing projection",
+    "title": "A person comes into focus",
+    "tags": [
+      "withdrawing projection",
+      "meeting another person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-complex-autonomy",
+    "thinker": "jung",
+    "collection": "When a feeling takes over",
+    "concept": "Complexes",
+    "title": "A room that answers for you",
+    "tags": [
+      "complexes",
+      "when a feeling takes over"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-association",
+    "thinker": "jung",
+    "collection": "When a feeling takes over",
+    "concept": "Word association",
+    "title": "The pause becomes evidence",
+    "tags": [
+      "word association",
+      "when a feeling takes over"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-dream-context",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dreams",
+    "title": "The same door, different lives",
+    "tags": [
+      "dreams",
+      "the work of dreaming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-dream-series",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dream series",
+    "title": "Watch what changes",
+    "tags": [
+      "dream series",
+      "the work of dreaming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-archetype-pattern",
+    "thinker": "jung",
+    "collection": "Beneath personal history",
+    "concept": "Archetypes",
+    "title": "A shape without a single picture",
+    "tags": [
+      "archetypes",
+      "beneath personal history"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-collective-unconscious",
+    "thinker": "jung",
+    "collection": "Beneath personal history",
+    "concept": "Collective unconscious",
+    "title": "Before your own story",
+    "tags": [
+      "collective unconscious",
+      "beneath personal history"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-four-functions",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Psychological types",
+    "title": "Four questions of experience",
+    "tags": [
+      "psychological types",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-introversion",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Introversion",
+    "title": "Where the weight falls",
+    "tags": [
+      "introversion",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-extraversion",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Extraversion",
+    "title": "The situation sets the terms",
+    "tags": [
+      "extraversion",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-inferior-function",
+    "thinker": "jung",
+    "collection": "Ways of attending",
+    "concept": "Inferior function",
+    "title": "The unpracticed instrument",
+    "tags": [
+      "inferior function",
+      "ways of attending"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-dream-levels",
+    "thinker": "jung",
+    "collection": "The work of dreaming",
+    "concept": "Dream interpretation",
+    "title": "Who is in the dream?",
+    "tags": [
+      "dream interpretation",
+      "the work of dreaming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-ego-strength",
+    "thinker": "jung",
+    "collection": "Becoming a whole",
+    "concept": "Ego and Self",
+    "title": "A center that can hold a conversation",
+    "tags": [
+      "ego and self",
+      "becoming a whole"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "jung-transcendent-function",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Transcendent function",
+    "title": "A third possibility",
+    "tags": [
+      "holding the tension",
+      "transcendent function"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-question",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Answering life",
-    "title": "Turn the question",
+    "id": "jung-enantiodromia",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Enantiodromia",
+    "title": "The return swing",
     "tags": [
-      "answering life",
-      "responsibility"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-freedom-limits",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Situated freedom",
-    "title": "The narrow opening",
-    "tags": [
-      "situated freedom",
-      "the limits"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-outward",
-    "thinker": "frankl",
-    "collection": "Encounter",
-    "concept": "Self-transcendence",
-    "title": "Beyond the mirror",
-    "tags": [
-      "self-transcendence",
-      "encounter"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-moment",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Situational meaning",
-    "title": "This moment",
-    "tags": [
-      "situational meaning",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-dignity",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Unconditional dignity",
-    "title": "Beyond usefulness",
-    "tags": [
-      "unconditional dignity",
-      "the person"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-guilt",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Guilt and change",
-    "title": "A different next act",
-    "tags": [
-      "guilt and change",
-      "responsibility"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-finite",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Mortality",
-    "title": "The finite line",
-    "tags": [
-      "mortality",
-      "the limits"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-vacuum",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Existential vacuum",
-    "title": "Busy, but empty",
-    "tags": [
-      "existential vacuum",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-not-every-question-illness",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Existential frustration",
-    "title": "A question is not an illness",
-    "tags": [
-      "existential frustration",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-tension",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Noö-dynamics",
-    "title": "The taut line",
-    "tags": [
-      "noö-dynamics",
-      "responsibility"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-not-imposed",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Meaning and the therapist",
-    "title": "No borrowed answer",
-    "tags": [
-      "meaning and the therapist",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-responsible-freedom",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Freedom for",
-    "title": "An opening toward what?",
-    "tags": [
-      "freedom for",
-      "responsibility"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-purpose-value",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Purpose and meaning",
-    "title": "A goal is not enough",
-    "tags": [
-      "purpose and meaning",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-love",
-    "thinker": "frankl",
-    "collection": "Encounter",
-    "concept": "Seeing another person",
-    "title": "More than a likeness",
-    "tags": [
-      "seeing another person",
-      "encounter"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-indirect-fulfilment",
-    "thinker": "frankl",
-    "collection": "Encounter",
-    "concept": "Self-actualisation",
-    "title": "The side effect",
-    "tags": [
-      "self-actualisation",
-      "encounter"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-anticipation",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Anticipatory anxiety",
-    "title": "Fear feeds the event",
-    "tags": [
-      "anticipatory anxiety",
-      "the limits"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-paradoxical-intention",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Paradoxical intention",
-    "title": "Change the relation to fear",
-    "tags": [
-      "paradoxical intention",
-      "the limits"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-dereflection",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Dereflection",
-    "title": "Leave the inspection booth",
-    "tags": [
-      "dereflection",
-      "the limits"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-past-kept",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Transitoriness",
-    "title": "Having been",
-    "tags": [
-      "transitoriness",
-      "the person"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-tragic-optimism",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Tragic optimism",
-    "title": "Without denial",
-    "tags": [
-      "tragic optimism",
-      "the limits"
+      "holding the tension",
+      "enantiodromia"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-unique-task",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Irreplaceability",
-    "title": "This relation",
+    "id": "jung-inflation",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Psychic inflation",
+    "title": "Larger than the person",
     "tags": [
-      "irreplaceability",
-      "responsibility"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-conscience-fallible",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Conscience",
-    "title": "A compass can need correction",
-    "tags": [
-      "conscience",
-      "responsibility"
+      "holding the tension",
+      "psychic inflation"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-will-to-meaning",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Will to meaning",
-    "title": "More than relief",
+    "id": "jung-two-readings",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Reductive and constructive reading",
+    "title": "Where from, toward what?",
     "tags": [
-      "will to meaning",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-pleasure",
-    "thinker": "frankl",
-    "collection": "Encounter",
-    "concept": "Pleasure as consequence",
-    "title": "The uncommanded result",
-    "tags": [
-      "pleasure as consequence",
-      "encounter"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-happiness",
-    "thinker": "frankl",
-    "collection": "Encounter",
-    "concept": "A reason for happiness",
-    "title": "The reason comes first",
-    "tags": [
-      "a reason for happiness",
-      "encounter"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-success",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Meaning and success",
-    "title": "The two measures",
-    "tags": [
-      "meaning and success",
-      "the person"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-self-distance",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Self-distancing",
-    "title": "Room before the next act",
-    "tags": [
-      "self-distancing",
-      "the person"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-humour",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Humour and distance",
-    "title": "A changed scale",
-    "tags": [
-      "humour and distance",
-      "the person"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-noetic",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "The noetic dimension",
-    "title": "Another kind of question",
-    "tags": [
-      "the noetic dimension",
-      "the person"
+      "reading images",
+      "reductive and constructive reading"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-religion",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Spiritual and religious",
-    "title": "Before the paths divide",
+    "id": "jung-psychic-energy",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Psychic energy",
+    "title": "Where the force goes",
     "tags": [
-      "spiritual and religious",
-      "the person"
+      "changing direction",
+      "psychic energy"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-reduction",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Dimensional ontology",
-    "title": "The outline is not the object",
+    "id": "jung-progression",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Progression",
+    "title": "Meeting the present",
     "tags": [
-      "dimensional ontology",
-      "the person"
+      "changing direction",
+      "progression"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-value-conflict",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Conflicting values",
-    "title": "Both claims remain",
+    "id": "jung-regression",
+    "thinker": "jung",
+    "collection": "Changing direction",
+    "concept": "Regression",
+    "title": "The backward movement",
     "tags": [
-      "conflicting values",
-      "responsibility"
+      "changing direction",
+      "regression"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-conformity",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Conscience and conformity",
-    "title": "The borrowed direction",
+    "id": "jung-individuation-society",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Individuation and society",
+    "title": "A person among people",
     "tags": [
-      "conscience and conformity",
-      "responsibility"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-discovery",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Meaning as discovery",
-    "title": "The resistant answer",
-    "tags": [
-      "meaning as discovery",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-values",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Values and unique meaning",
-    "title": "Pattern and occasion",
-    "tags": [
-      "values and unique meaning",
-      "meaning"
-    ],
-    "depth": 2
-  },
-  {
-    "id": "frankl-ultimate",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Ultimate meaning",
-    "title": "The larger question",
-    "tags": [
-      "ultimate meaning",
-      "meaning"
+      "becoming a person",
+      "individuation and society"
     ],
     "depth": 3
   },
   {
-    "id": "frankl-optimism-demand",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "The limits of optimism",
-    "title": "A feeling cannot be ordered",
+    "id": "jung-midlife",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "The stages of life",
+    "title": "When the aim changes",
     "tags": [
-      "the limits of optimism",
-      "the limits"
+      "becoming a person",
+      "the stages of life"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-numinosity",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Numinosity",
+    "title": "The force of an image",
+    "tags": [
+      "reading images",
+      "numinosity"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-anima-animus",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Anima and animus",
+    "title": "The inner counterpart",
+    "tags": [
+      "reading images",
+      "anima and animus"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-psychic-reality",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Psychic reality",
+    "title": "Real in its effects",
+    "tags": [
+      "reading images",
+      "psychic reality"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-alchemy-projection",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Alchemy and projection",
+    "title": "The vessel and the observer",
+    "tags": [
+      "reading images",
+      "alchemy and projection"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-inner-dialogue",
+    "thinker": "jung",
+    "collection": "Holding the tension",
+    "concept": "Conscious–unconscious dialogue",
+    "title": "A response is needed",
+    "tags": [
+      "holding the tension",
+      "conscious–unconscious dialogue"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-mandala-ordering",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Mandala and ordering",
+    "title": "Finding a centre",
+    "tags": [
+      "becoming a person",
+      "mandala and ordering"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-wholeness",
+    "thinker": "jung",
+    "collection": "Becoming a person",
+    "concept": "Wholeness and perfection",
+    "title": "Room for what remains",
+    "tags": [
+      "becoming a person",
+      "wholeness and perfection"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-synchronicity",
+    "thinker": "jung",
+    "collection": "Meaning and reality",
+    "concept": "Synchronicity",
+    "title": "A meaningful coincidence",
+    "tags": [
+      "meaning and reality",
+      "synchronicity"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-meaning-belief",
+    "thinker": "jung",
+    "collection": "Meaning and reality",
+    "concept": "Experience and creed",
+    "title": "The experience and its form",
+    "tags": [
+      "meaning and reality",
+      "experience and creed"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-concretism",
+    "thinker": "jung",
+    "collection": "Meaning and reality",
+    "concept": "Concretism",
+    "title": "When image becomes fact",
+    "tags": [
+      "meaning and reality",
+      "concretism"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "jung-amplification",
+    "thinker": "jung",
+    "collection": "Reading images",
+    "concept": "Amplification",
+    "title": "A wider circle of meaning",
+    "tags": [
+      "reading images",
+      "amplification",
+      "dream interpretation"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-genealogy",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "genealogy",
+    "title": "Under the verdict",
+    "tags": [
+      "inherited values",
+      "genealogy"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-ressentiment",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "ressentiment",
+    "title": "The delayed reply",
+    "tags": [
+      "inherited values",
+      "ressentiment"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-attitude-emotion",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Attitude and emotion",
-    "title": "A stance within a feeling",
+    "id": "nietzsche-good-bad",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "good bad",
+    "title": "Two kinds of good",
     "tags": [
-      "attitude and emotion",
-      "the limits"
+      "inherited values",
+      "good-bad"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-avoidable",
-    "thinker": "frankl",
-    "collection": "The limits",
-    "concept": "Preventable suffering",
-    "title": "Change what can change",
+    "id": "nietzsche-bad-conscience",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "bad conscience",
+    "title": "The inward turn",
     "tags": [
-      "preventable suffering",
-      "the limits"
+      "inherited values",
+      "bad-conscience"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-noogenic",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Noogenic and psychogenic",
-    "title": "Different kinds of difficulty",
+    "id": "nietzsche-promise",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "promise",
+    "title": "Across time",
     "tags": [
-      "noogenic and psychogenic",
-      "the person"
+      "inherited values",
+      "promise"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-dialogue",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Socratic dialogue",
-    "title": "The question that opens",
+    "id": "nietzsche-active-forgetting",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "active forgetting",
+    "title": "Making room",
     "tags": [
-      "socratic dialogue",
-      "responsibility"
+      "inherited values",
+      "active-forgetting"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-guilt-debt",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "guilt debt",
+    "title": "The unpayable account",
+    "tags": [
+      "inherited values",
+      "guilt-debt"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-punishment",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "punishment",
+    "title": "The same instrument",
+    "tags": [
+      "inherited values",
+      "punishment"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-sunday",
-    "thinker": "frankl",
-    "collection": "Meaning",
-    "concept": "Sunday neurosis",
-    "title": "When the noise stops",
+    "id": "nietzsche-ascetic-meaning",
+    "thinker": "nietzsche",
+    "collection": "Inherited values",
+    "concept": "ascetic meaning",
+    "title": "A reason for pain",
     "tags": [
-      "sunday neurosis",
-      "meaning"
+      "inherited values",
+      "ascetic-meaning"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-will-truth",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "will truth",
+    "title": "The question behind truth",
+    "tags": [
+      "looking again",
+      "will-truth"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-mass-direction",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Conformism and totalitarianism",
-    "title": "An answer supplied from outside",
+    "id": "nietzsche-perspectivism",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "perspectivism",
+    "title": "From somewhere",
     "tags": [
-      "conformism and totalitarianism",
-      "responsibility"
+      "looking again",
+      "perspectivism"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-work-role",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "Work and vocation",
-    "title": "Beyond the role title",
+    "id": "nietzsche-many-eyes",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "many eyes",
+    "title": "More than one eye",
     "tags": [
-      "work and vocation",
-      "responsibility"
+      "looking again",
+      "many-eyes"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-philosophy-confession",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "philosophy confession",
+    "title": "The author in the argument",
+    "tags": [
+      "looking again",
+      "philosophy-confession"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-unfinished",
-    "thinker": "frankl",
-    "collection": "Responsibility",
-    "concept": "A task in the future",
-    "title": "The unfinished thread",
+    "id": "nietzsche-grammar-self",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "grammar self",
+    "title": "The extra doer",
     "tags": [
-      "a task in the future",
-      "responsibility"
+      "looking again",
+      "grammar-self"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-plural-will",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "plural will",
+    "title": "The command within",
+    "tags": [
+      "looking again",
+      "plural-will"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-free-will-blame",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "free will blame",
+    "title": "The invented court",
+    "tags": [
+      "looking again",
+      "free-will-blame"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-convictions",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "convictions",
+    "title": "A closed interpretation",
+    "tags": [
+      "looking again",
+      "convictions"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-science-faith",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "science faith",
+    "title": "The unexamined value",
+    "tags": [
+      "looking again",
+      "science-faith"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-consciousness-communication",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "consciousness communication",
+    "title": "The shareable self",
+    "tags": [
+      "looking again",
+      "consciousness-communication"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-past-ledger",
-    "thinker": "frankl",
-    "collection": "The person",
-    "concept": "Past and moral judgement",
-    "title": "The archive is not a score",
+    "id": "nietzsche-useful-error",
+    "thinker": "nietzsche",
+    "collection": "Looking again",
+    "concept": "useful error",
+    "title": "The supporting fiction",
     "tags": [
-      "past and moral judgement",
-      "the person"
+      "looking again",
+      "useful-error"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-give-style",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "give style",
+    "title": "A form for your forces",
+    "tags": [
+      "making a life",
+      "give-style"
     ],
     "depth": 2
   },
   {
-    "id": "frankl-love-possibility",
-    "thinker": "frankl",
-    "collection": "Encounter",
-    "concept": "Potential and possession",
-    "title": "A possibility is not a plan",
+    "id": "nietzsche-self-overcoming",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "self overcoming",
+    "title": "Beyond your own form",
     "tags": [
-      "potential and possession",
-      "encounter"
+      "making a life",
+      "self-overcoming"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-camel",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "camel",
+    "title": "Learning to bear",
+    "tags": [
+      "making a life",
+      "camel"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-lion",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "lion",
+    "title": "The necessary no",
+    "tags": [
+      "making a life",
+      "lion"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-child",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "child",
+    "title": "The first affirmation",
+    "tags": [
+      "making a life",
+      "child"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-will-power",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "will power",
+    "title": "Forming and resisting",
+    "tags": [
+      "making a life",
+      "will-power"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-discipline-form",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "discipline form",
+    "title": "The long obedience",
+    "tags": [
+      "making a life",
+      "discipline-form"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-becoming-not-knowing",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "becoming not knowing",
+    "title": "No finished blueprint",
+    "tags": [
+      "making a life",
+      "becoming-not-knowing"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-friend-resistance",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "friend resistance",
+    "title": "The friend who resists",
+    "tags": [
+      "making a life",
+      "friend-resistance"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-teacher-leaving",
+    "thinker": "nietzsche",
+    "collection": "Making a life",
+    "concept": "teacher leaving",
+    "title": "Outgrowing the teacher",
+    "tags": [
+      "making a life",
+      "teacher-leaving"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-death-god",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "death god",
+    "title": "The missing horizon",
+    "tags": [
+      "without a guarantee",
+      "death-god"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-shadows-god",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "shadows god",
+    "title": "After the departure",
+    "tags": [
+      "without a guarantee",
+      "shadows-god"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-nihilism",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "nihilism",
+    "title": "When the measure fails",
+    "tags": [
+      "without a guarantee",
+      "nihilism"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-open-sea",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "open sea",
+    "title": "Dangerous room",
+    "tags": [
+      "without a guarantee",
+      "open-sea"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-last-man",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "last man",
+    "title": "Nothing to risk",
+    "tags": [
+      "without a guarantee",
+      "last-man"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-overhuman",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "overhuman",
+    "title": "A bridge, not a finish",
+    "tags": [
+      "without a guarantee",
+      "overhuman"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-faithful-earth",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "faithful earth",
+    "title": "This world",
+    "tags": [
+      "without a guarantee",
+      "faithful-earth"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-eternal-recurrence",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "eternal recurrence",
+    "title": "All of it, again",
+    "tags": [
+      "without a guarantee",
+      "eternal-recurrence"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-amor-fati",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "amor fati",
+    "title": "Wanting what has been",
+    "tags": [
+      "without a guarantee",
+      "amor-fati"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-revenge-time",
+    "thinker": "nietzsche",
+    "collection": "Without a guarantee",
+    "concept": "revenge time",
+    "title": "The wall of was",
+    "tags": [
+      "without a guarantee",
+      "revenge-time"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-apollonian",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "apollonian",
+    "title": "The necessary outline",
+    "tags": [
+      "art and existence",
+      "apollonian"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-dionysian",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "dionysian",
+    "title": "When the boundary loosens",
+    "tags": [
+      "art and existence",
+      "dionysian"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-tragedy",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "tragedy",
+    "title": "Without a happy ending",
+    "tags": [
+      "art and existence",
+      "tragedy"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-theoretical-optimism",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "theoretical optimism",
+    "title": "The promise of explanation",
+    "tags": [
+      "art and existence",
+      "theoretical-optimism"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-artistic-distance",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "artistic distance",
+    "title": "A little distance",
+    "tags": [
+      "art and existence",
+      "artistic-distance"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-pain-knowledge",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "pain knowledge",
+    "title": "What pain cannot prove",
+    "tags": [
+      "art and existence",
+      "pain-knowledge"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "nietzsche-great-health",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "great health",
+    "title": "Health that can change",
+    "tags": [
+      "art and existence",
+      "great-health"
+    ],
+    "depth": 3
+  },
+  {
+    "id": "nietzsche-genius-work",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "genius work",
+    "title": "The invisible attempts",
+    "tags": [
+      "art and existence",
+      "genius-work"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-slow-reading",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "slow reading",
+    "title": "The tempo of a thought",
+    "tags": [
+      "art and existence",
+      "slow-reading"
+    ],
+    "depth": 1
+  },
+  {
+    "id": "nietzsche-mask-depth",
+    "thinker": "nietzsche",
+    "collection": "Art and existence",
+    "concept": "mask depth",
+    "title": "The protective surface",
+    "tags": [
+      "art and existence",
+      "mask-depth"
     ],
     "depth": 2
   },
@@ -1200,1059 +1657,1594 @@
     "depth": 3
   },
   {
-    "id": "jung-transcendent-function",
-    "thinker": "jung",
-    "collection": "Holding the tension",
-    "concept": "Transcendent function",
-    "title": "A third possibility",
+    "id": "frankl-a-deed",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Creative values",
+    "title": "A small deed",
     "tags": [
-      "holding the tension",
-      "transcendent function"
+      "creative values",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-encounter",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Experiential values",
+    "title": "Receiving the world",
+    "tags": [
+      "experiential values",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-unavoidable",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Attitudinal values",
+    "title": "When loss stays",
+    "tags": [
+      "attitudinal values",
+      "the limits"
     ],
     "depth": 3
   },
   {
-    "id": "jung-enantiodromia",
-    "thinker": "jung",
-    "collection": "Holding the tension",
-    "concept": "Enantiodromia",
-    "title": "The return swing",
+    "id": "frankl-question",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Answering life",
+    "title": "Turn the question",
     "tags": [
-      "holding the tension",
-      "enantiodromia"
+      "answering life",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-freedom-limits",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Situated freedom",
+    "title": "The narrow opening",
+    "tags": [
+      "situated freedom",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-outward",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Self-transcendence",
+    "title": "Beyond the mirror",
+    "tags": [
+      "self-transcendence",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-moment",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Situational meaning",
+    "title": "This moment",
+    "tags": [
+      "situational meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-dignity",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Unconditional dignity",
+    "title": "Beyond usefulness",
+    "tags": [
+      "unconditional dignity",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-guilt",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Guilt and change",
+    "title": "A different next act",
+    "tags": [
+      "guilt and change",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-finite",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Mortality",
+    "title": "The finite line",
+    "tags": [
+      "mortality",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-vacuum",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Existential vacuum",
+    "title": "Busy, but empty",
+    "tags": [
+      "existential vacuum",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-not-every-question-illness",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Existential frustration",
+    "title": "A question is not an illness",
+    "tags": [
+      "existential frustration",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-tension",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Noö-dynamics",
+    "title": "The taut line",
+    "tags": [
+      "noö-dynamics",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-not-imposed",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Meaning and the therapist",
+    "title": "No borrowed answer",
+    "tags": [
+      "meaning and the therapist",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-responsible-freedom",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Freedom for",
+    "title": "An opening toward what?",
+    "tags": [
+      "freedom for",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-purpose-value",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Purpose and meaning",
+    "title": "A goal is not enough",
+    "tags": [
+      "purpose and meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-love",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Seeing another person",
+    "title": "More than a likeness",
+    "tags": [
+      "seeing another person",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-indirect-fulfilment",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Self-actualisation",
+    "title": "The side effect",
+    "tags": [
+      "self-actualisation",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-anticipation",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Anticipatory anxiety",
+    "title": "Fear feeds the event",
+    "tags": [
+      "anticipatory anxiety",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-paradoxical-intention",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Paradoxical intention",
+    "title": "Change the relation to fear",
+    "tags": [
+      "paradoxical intention",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-dereflection",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Dereflection",
+    "title": "Leave the inspection booth",
+    "tags": [
+      "dereflection",
+      "the limits"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-past-kept",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Transitoriness",
+    "title": "Having been",
+    "tags": [
+      "transitoriness",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-tragic-optimism",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Tragic optimism",
+    "title": "Without denial",
+    "tags": [
+      "tragic optimism",
+      "the limits"
     ],
     "depth": 3
   },
   {
-    "id": "jung-inflation",
-    "thinker": "jung",
-    "collection": "Holding the tension",
-    "concept": "Psychic inflation",
-    "title": "Larger than the person",
+    "id": "frankl-unique-task",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Irreplaceability",
+    "title": "This relation",
     "tags": [
-      "holding the tension",
-      "psychic inflation"
+      "irreplaceability",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-conscience-fallible",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conscience",
+    "title": "A compass can need correction",
+    "tags": [
+      "conscience",
+      "responsibility"
     ],
     "depth": 3
   },
   {
-    "id": "jung-two-readings",
-    "thinker": "jung",
-    "collection": "Reading images",
-    "concept": "Reductive and constructive reading",
-    "title": "Where from, toward what?",
+    "id": "frankl-will-to-meaning",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Will to meaning",
+    "title": "More than relief",
     "tags": [
-      "reading images",
-      "reductive and constructive reading"
+      "will to meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-pleasure",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Pleasure as consequence",
+    "title": "The uncommanded result",
+    "tags": [
+      "pleasure as consequence",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-happiness",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "A reason for happiness",
+    "title": "The reason comes first",
+    "tags": [
+      "a reason for happiness",
+      "encounter"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-success",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Meaning and success",
+    "title": "The two measures",
+    "tags": [
+      "meaning and success",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-self-distance",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Self-distancing",
+    "title": "Room before the next act",
+    "tags": [
+      "self-distancing",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-humour",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Humour and distance",
+    "title": "A changed scale",
+    "tags": [
+      "humour and distance",
+      "the person"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-noetic",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "The noetic dimension",
+    "title": "Another kind of question",
+    "tags": [
+      "the noetic dimension",
+      "the person"
     ],
     "depth": 3
   },
   {
-    "id": "jung-psychic-energy",
-    "thinker": "jung",
-    "collection": "Changing direction",
-    "concept": "Psychic energy",
-    "title": "Where the force goes",
+    "id": "frankl-religion",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Spiritual and religious",
+    "title": "Before the paths divide",
     "tags": [
-      "changing direction",
-      "psychic energy"
+      "spiritual and religious",
+      "the person"
     ],
     "depth": 3
   },
   {
-    "id": "jung-progression",
-    "thinker": "jung",
-    "collection": "Changing direction",
-    "concept": "Progression",
-    "title": "Meeting the present",
+    "id": "frankl-reduction",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Dimensional ontology",
+    "title": "The outline is not the object",
     "tags": [
-      "changing direction",
-      "progression"
+      "dimensional ontology",
+      "the person"
     ],
     "depth": 3
   },
   {
-    "id": "jung-regression",
-    "thinker": "jung",
-    "collection": "Changing direction",
-    "concept": "Regression",
-    "title": "The backward movement",
+    "id": "frankl-value-conflict",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conflicting values",
+    "title": "Both claims remain",
     "tags": [
-      "changing direction",
-      "regression"
+      "conflicting values",
+      "responsibility"
     ],
     "depth": 3
   },
   {
-    "id": "jung-individuation-society",
-    "thinker": "jung",
-    "collection": "Becoming a person",
-    "concept": "Individuation and society",
-    "title": "A person among people",
+    "id": "frankl-conformity",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conscience and conformity",
+    "title": "The borrowed direction",
     "tags": [
-      "becoming a person",
-      "individuation and society"
+      "conscience and conformity",
+      "responsibility"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-discovery",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Meaning as discovery",
+    "title": "The resistant answer",
+    "tags": [
+      "meaning as discovery",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-values",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Values and unique meaning",
+    "title": "Pattern and occasion",
+    "tags": [
+      "values and unique meaning",
+      "meaning"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "frankl-ultimate",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Ultimate meaning",
+    "title": "The larger question",
+    "tags": [
+      "ultimate meaning",
+      "meaning"
     ],
     "depth": 3
   },
   {
-    "id": "jung-midlife",
-    "thinker": "jung",
-    "collection": "Becoming a person",
-    "concept": "The stages of life",
-    "title": "When the aim changes",
+    "id": "frankl-optimism-demand",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "The limits of optimism",
+    "title": "A feeling cannot be ordered",
     "tags": [
-      "becoming a person",
-      "the stages of life"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-numinosity",
-    "thinker": "jung",
-    "collection": "Reading images",
-    "concept": "Numinosity",
-    "title": "The force of an image",
-    "tags": [
-      "reading images",
-      "numinosity"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-anima-animus",
-    "thinker": "jung",
-    "collection": "Reading images",
-    "concept": "Anima and animus",
-    "title": "The inner counterpart",
-    "tags": [
-      "reading images",
-      "anima and animus"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-psychic-reality",
-    "thinker": "jung",
-    "collection": "Reading images",
-    "concept": "Psychic reality",
-    "title": "Real in its effects",
-    "tags": [
-      "reading images",
-      "psychic reality"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-alchemy-projection",
-    "thinker": "jung",
-    "collection": "Reading images",
-    "concept": "Alchemy and projection",
-    "title": "The vessel and the observer",
-    "tags": [
-      "reading images",
-      "alchemy and projection"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-inner-dialogue",
-    "thinker": "jung",
-    "collection": "Holding the tension",
-    "concept": "Conscious–unconscious dialogue",
-    "title": "A response is needed",
-    "tags": [
-      "holding the tension",
-      "conscious–unconscious dialogue"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-mandala-ordering",
-    "thinker": "jung",
-    "collection": "Becoming a person",
-    "concept": "Mandala and ordering",
-    "title": "Finding a centre",
-    "tags": [
-      "becoming a person",
-      "mandala and ordering"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-wholeness",
-    "thinker": "jung",
-    "collection": "Becoming a person",
-    "concept": "Wholeness and perfection",
-    "title": "Room for what remains",
-    "tags": [
-      "becoming a person",
-      "wholeness and perfection"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-synchronicity",
-    "thinker": "jung",
-    "collection": "Meaning and reality",
-    "concept": "Synchronicity",
-    "title": "A meaningful coincidence",
-    "tags": [
-      "meaning and reality",
-      "synchronicity"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-meaning-belief",
-    "thinker": "jung",
-    "collection": "Meaning and reality",
-    "concept": "Experience and creed",
-    "title": "The experience and its form",
-    "tags": [
-      "meaning and reality",
-      "experience and creed"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-concretism",
-    "thinker": "jung",
-    "collection": "Meaning and reality",
-    "concept": "Concretism",
-    "title": "When image becomes fact",
-    "tags": [
-      "meaning and reality",
-      "concretism"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-amplification",
-    "thinker": "jung",
-    "collection": "Reading images",
-    "concept": "Amplification",
-    "title": "A wider circle of meaning",
-    "tags": [
-      "reading images",
-      "amplification",
-      "dream interpretation"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "jung-shadow-exclusion",
-    "thinker": "jung",
-    "collection": "The selves we show",
-    "concept": "Shadow formation",
-    "title": "A border called “not me”",
-    "tags": [
-      "shadow formation",
-      "the selves we show"
+      "the limits of optimism",
+      "the limits"
     ],
     "depth": 2
   },
   {
-    "id": "jung-shadow-positive",
-    "thinker": "jung",
-    "collection": "The selves we show",
-    "concept": "Positive shadow",
-    "title": "A capacity left outside",
+    "id": "frankl-attitude-emotion",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Attitude and emotion",
+    "title": "A stance within a feeling",
     "tags": [
-      "positive shadow",
-      "the selves we show"
+      "attitude and emotion",
+      "the limits"
     ],
     "depth": 2
   },
   {
-    "id": "jung-shadow-responsibility",
-    "thinker": "jung",
-    "collection": "The selves we show",
-    "concept": "Shadow integration",
-    "title": "Recognition is not permission",
+    "id": "frankl-avoidable",
+    "thinker": "frankl",
+    "collection": "The limits",
+    "concept": "Preventable suffering",
+    "title": "Change what can change",
     "tags": [
-      "shadow integration",
-      "the selves we show"
+      "preventable suffering",
+      "the limits"
     ],
     "depth": 2
   },
   {
-    "id": "jung-persona-identification",
-    "thinker": "jung",
-    "collection": "The selves we show",
-    "concept": "Persona identification",
-    "title": "When the badge fills the room",
+    "id": "frankl-noogenic",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Noogenic and psychogenic",
+    "title": "Different kinds of difficulty",
     "tags": [
-      "persona identification",
-      "the selves we show"
+      "noogenic and psychogenic",
+      "the person"
     ],
     "depth": 2
   },
   {
-    "id": "jung-projection-idealization",
-    "thinker": "jung",
-    "collection": "Meeting another person",
-    "concept": "Positive projection",
-    "title": "A borrowed greatness",
+    "id": "frankl-dialogue",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Socratic dialogue",
+    "title": "The question that opens",
     "tags": [
-      "positive projection",
-      "meeting another person"
+      "socratic dialogue",
+      "responsibility"
     ],
     "depth": 2
   },
   {
-    "id": "jung-projection-withdrawal",
-    "thinker": "jung",
-    "collection": "Meeting another person",
-    "concept": "Withdrawing projection",
-    "title": "A person comes into focus",
+    "id": "frankl-sunday",
+    "thinker": "frankl",
+    "collection": "Meaning",
+    "concept": "Sunday neurosis",
+    "title": "When the noise stops",
     "tags": [
-      "withdrawing projection",
-      "meeting another person"
+      "sunday neurosis",
+      "meaning"
     ],
     "depth": 2
   },
   {
-    "id": "jung-complex-autonomy",
-    "thinker": "jung",
-    "collection": "When a feeling takes over",
-    "concept": "Complexes",
-    "title": "A room that answers for you",
+    "id": "frankl-mass-direction",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Conformism and totalitarianism",
+    "title": "An answer supplied from outside",
     "tags": [
-      "complexes",
-      "when a feeling takes over"
+      "conformism and totalitarianism",
+      "responsibility"
     ],
     "depth": 2
   },
   {
-    "id": "jung-association",
-    "thinker": "jung",
-    "collection": "When a feeling takes over",
-    "concept": "Word association",
-    "title": "The pause becomes evidence",
+    "id": "frankl-work-role",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "Work and vocation",
+    "title": "Beyond the role title",
     "tags": [
-      "word association",
-      "when a feeling takes over"
+      "work and vocation",
+      "responsibility"
     ],
     "depth": 2
   },
   {
-    "id": "jung-dream-context",
-    "thinker": "jung",
-    "collection": "The work of dreaming",
-    "concept": "Dreams",
-    "title": "The same door, different lives",
+    "id": "frankl-unfinished",
+    "thinker": "frankl",
+    "collection": "Responsibility",
+    "concept": "A task in the future",
+    "title": "The unfinished thread",
     "tags": [
-      "dreams",
-      "the work of dreaming"
+      "a task in the future",
+      "responsibility"
     ],
     "depth": 2
   },
   {
-    "id": "jung-dream-series",
-    "thinker": "jung",
-    "collection": "The work of dreaming",
-    "concept": "Dream series",
-    "title": "Watch what changes",
+    "id": "frankl-past-ledger",
+    "thinker": "frankl",
+    "collection": "The person",
+    "concept": "Past and moral judgement",
+    "title": "The archive is not a score",
     "tags": [
-      "dream series",
-      "the work of dreaming"
+      "past and moral judgement",
+      "the person"
     ],
     "depth": 2
   },
   {
-    "id": "jung-archetype-pattern",
-    "thinker": "jung",
-    "collection": "Beneath personal history",
-    "concept": "Archetypes",
-    "title": "A shape without a single picture",
+    "id": "frankl-love-possibility",
+    "thinker": "frankl",
+    "collection": "Encounter",
+    "concept": "Potential and possession",
+    "title": "A possibility is not a plan",
     "tags": [
-      "archetypes",
-      "beneath personal history"
+      "potential and possession",
+      "encounter"
     ],
     "depth": 2
   },
   {
-    "id": "jung-collective-unconscious",
-    "thinker": "jung",
-    "collection": "Beneath personal history",
-    "concept": "Collective unconscious",
-    "title": "Before your own story",
+    "id": "horney-idealized-self",
+    "thinker": "horney",
+    "collection": "The borrowed portrait",
+    "concept": "Idealized self",
+    "title": "A portrait to live inside",
     "tags": [
-      "collective unconscious",
-      "beneath personal history"
+      "idealized self",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "jung-four-functions",
-    "thinker": "jung",
-    "collection": "Ways of attending",
-    "concept": "Psychological types",
-    "title": "Four questions of experience",
+    "id": "horney-actual-real",
+    "thinker": "horney",
+    "collection": "The borrowed portrait",
+    "concept": "Actual and real self",
+    "title": "The person and the possibility",
     "tags": [
-      "psychological types",
-      "ways of attending"
+      "actual and real self",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "jung-introversion",
-    "thinker": "jung",
-    "collection": "Ways of attending",
-    "concept": "Introversion",
-    "title": "Where the weight falls",
+    "id": "horney-glory",
+    "thinker": "horney",
+    "collection": "The borrowed portrait",
+    "concept": "Search for glory",
+    "title": "When the work becomes an audition",
     "tags": [
-      "introversion",
-      "ways of attending"
+      "search for glory",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "jung-extraversion",
-    "thinker": "jung",
-    "collection": "Ways of attending",
-    "concept": "Extraversion",
-    "title": "The situation sets the terms",
+    "id": "horney-pride",
+    "thinker": "horney",
+    "collection": "The borrowed portrait",
+    "concept": "Neurotic pride",
+    "title": "A badge that needs guarding",
     "tags": [
-      "extraversion",
-      "ways of attending"
+      "neurotic pride",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "jung-inferior-function",
-    "thinker": "jung",
-    "collection": "Ways of attending",
-    "concept": "Inferior function",
-    "title": "The unpracticed instrument",
+    "id": "horney-claims",
+    "thinker": "horney",
+    "collection": "The borrowed portrait",
+    "concept": "Neurotic claims",
+    "title": "The unspoken contract",
     "tags": [
-      "inferior function",
-      "ways of attending"
+      "neurotic claims",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "jung-dream-levels",
-    "thinker": "jung",
-    "collection": "The work of dreaming",
-    "concept": "Dream interpretation",
-    "title": "Who is in the dream?",
+    "id": "horney-shoulds",
+    "thinker": "horney",
+    "collection": "The inner commands",
+    "concept": "Tyranny of the shoulds",
+    "title": "The boss nobody hired",
     "tags": [
-      "dream interpretation",
-      "the work of dreaming"
+      "tyranny of the shoulds",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "jung-ego-strength",
-    "thinker": "jung",
-    "collection": "Becoming a whole",
-    "concept": "Ego and Self",
-    "title": "A center that can hold a conversation",
+    "id": "horney-feasibility",
+    "thinker": "horney",
+    "collection": "The inner commands",
+    "concept": "Feasibility",
+    "title": "Two hours in a one-hour box",
     "tags": [
-      "ego and self",
-      "becoming a whole"
+      "feasibility",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-genealogy",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "genealogy",
-    "title": "Under the verdict",
+    "id": "horney-crossfire",
+    "thinker": "horney",
+    "collection": "The inner commands",
+    "concept": "Conflicting shoulds",
+    "title": "Two orders, one evening",
     "tags": [
-      "inherited values",
-      "genealogy"
-    ],
-    "depth": 1
-  },
-  {
-    "id": "nietzsche-ressentiment",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "ressentiment",
-    "title": "The delayed reply",
-    "tags": [
-      "inherited values",
-      "ressentiment"
+      "conflicting shoulds",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-good-bad",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "good bad",
-    "title": "Two kinds of good",
+    "id": "horney-retrospective",
+    "thinker": "horney",
+    "collection": "The inner commands",
+    "concept": "Retrospective shoulds",
+    "title": "Knowing later is not knowing then",
     "tags": [
-      "inherited values",
-      "good-bad"
+      "retrospective shoulds",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-bad-conscience",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "bad conscience",
-    "title": "The inward turn",
+    "id": "horney-ideals",
+    "thinker": "horney",
+    "collection": "The inner commands",
+    "concept": "Ideals and inner dictates",
+    "title": "A value that leaves room to practise",
     "tags": [
-      "inherited values",
-      "bad-conscience"
+      "ideals and inner dictates",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-promise",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "promise",
-    "title": "Across time",
+    "id": "horney-basic-anxiety",
+    "thinker": "horney",
+    "collection": "Ways of seeking safety",
+    "concept": "Basic anxiety",
+    "title": "When the room does not feel safe",
     "tags": [
-      "inherited values",
-      "promise"
+      "basic anxiety",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-active-forgetting",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "active forgetting",
-    "title": "Making room",
+    "id": "horney-toward",
+    "thinker": "horney",
+    "collection": "Ways of seeking safety",
+    "concept": "Moving toward people",
+    "title": "Help with a hidden price",
     "tags": [
-      "inherited values",
-      "active-forgetting"
-    ],
-    "depth": 1
-  },
-  {
-    "id": "nietzsche-guilt-debt",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "guilt debt",
-    "title": "The unpayable account",
-    "tags": [
-      "inherited values",
-      "guilt-debt"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-punishment",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "punishment",
-    "title": "The same instrument",
-    "tags": [
-      "inherited values",
-      "punishment"
+      "moving toward people",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-ascetic-meaning",
-    "thinker": "nietzsche",
-    "collection": "Inherited values",
-    "concept": "ascetic meaning",
-    "title": "A reason for pain",
+    "id": "horney-against",
+    "thinker": "horney",
+    "collection": "Ways of seeking safety",
+    "concept": "Moving against people",
+    "title": "Every meeting becomes a match",
     "tags": [
-      "inherited values",
-      "ascetic-meaning"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-will-truth",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "will truth",
-    "title": "The question behind truth",
-    "tags": [
-      "looking again",
-      "will-truth"
+      "moving against people",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-perspectivism",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "perspectivism",
-    "title": "From somewhere",
+    "id": "horney-away",
+    "thinker": "horney",
+    "collection": "Ways of seeking safety",
+    "concept": "Moving away from people",
+    "title": "A door that keeps out everything",
     "tags": [
-      "looking again",
-      "perspectivism"
+      "moving away from people",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-many-eyes",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "many eyes",
-    "title": "More than one eye",
+    "id": "horney-basic-conflict",
+    "thinker": "horney",
+    "collection": "Ways of seeking safety",
+    "concept": "Basic conflict",
+    "title": "Three ways to pull one life",
     "tags": [
-      "looking again",
-      "many-eyes"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-philosophy-confession",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "philosophy confession",
-    "title": "The author in the argument",
-    "tags": [
-      "looking again",
-      "philosophy-confession"
+      "basic conflict",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-grammar-self",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "grammar self",
-    "title": "The extra doer",
+    "id": "horney-self-hate",
+    "thinker": "horney",
+    "collection": "Returning to a living self",
+    "concept": "Self-hate and self-contempt",
+    "title": "From a mistake to a verdict",
     "tags": [
-      "looking again",
-      "grammar-self"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-plural-will",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "plural will",
-    "title": "The command within",
-    "tags": [
-      "looking again",
-      "plural-will"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-free-will-blame",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "free will blame",
-    "title": "The invented court",
-    "tags": [
-      "looking again",
-      "free-will-blame"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-convictions",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "convictions",
-    "title": "A closed interpretation",
-    "tags": [
-      "looking again",
-      "convictions"
-    ],
-    "depth": 1
-  },
-  {
-    "id": "nietzsche-science-faith",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "science faith",
-    "title": "The unexamined value",
-    "tags": [
-      "looking again",
-      "science-faith"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-consciousness-communication",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "consciousness communication",
-    "title": "The shareable self",
-    "tags": [
-      "looking again",
-      "consciousness-communication"
+      "self-hate and self-contempt",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-useful-error",
-    "thinker": "nietzsche",
-    "collection": "Looking again",
-    "concept": "useful error",
-    "title": "The supporting fiction",
+    "id": "horney-externalization",
+    "thinker": "horney",
+    "collection": "Returning to a living self",
+    "concept": "Externalization",
+    "title": "The judge on the other side of the glass",
     "tags": [
-      "looking again",
-      "useful-error"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-give-style",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "give style",
-    "title": "A form for your forces",
-    "tags": [
-      "making a life",
-      "give-style"
+      "externalization",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-self-overcoming",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "self overcoming",
-    "title": "Beyond your own form",
+    "id": "horney-alienation",
+    "thinker": "horney",
+    "collection": "Returning to a living self",
+    "concept": "Alienation from self",
+    "title": "The missing item on your own menu",
     "tags": [
-      "making a life",
-      "self-overcoming"
+      "alienation from self",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-camel",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "camel",
-    "title": "Learning to bear",
+    "id": "horney-insight",
+    "thinker": "horney",
+    "collection": "Returning to a living self",
+    "concept": "Insight and working through",
+    "title": "Knowing the knot is still a beginning",
     "tags": [
-      "making a life",
-      "camel"
-    ],
-    "depth": 1
-  },
-  {
-    "id": "nietzsche-lion",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "lion",
-    "title": "The necessary no",
-    "tags": [
-      "making a life",
-      "lion"
-    ],
-    "depth": 1
-  },
-  {
-    "id": "nietzsche-child",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "child",
-    "title": "The first affirmation",
-    "tags": [
-      "making a life",
-      "child"
+      "insight and working through",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-will-power",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "will power",
-    "title": "Forming and resisting",
+    "id": "horney-growth",
+    "thinker": "horney",
+    "collection": "Returning to a living self",
+    "concept": "Self-realization",
+    "title": "A life allowed to grow at human speed",
     "tags": [
-      "making a life",
-      "will-power"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-discipline-form",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "discipline form",
-    "title": "The long obedience",
-    "tags": [
-      "making a life",
-      "discipline-form"
+      "self-realization",
+      "self",
+      "relationships"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-becoming-not-knowing",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "becoming not knowing",
-    "title": "No finished blueprint",
+    "id": "fromm-piano",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Having and being",
+    "title": "The unopened piano",
     "tags": [
-      "making a life",
-      "becoming-not-knowing"
+      "having and being",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-friend-resistance",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "friend resistance",
-    "title": "The friend who resists",
+    "id": "fromm-learning",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Learning in the being mode",
+    "title": "Let the idea move",
     "tags": [
-      "making a life",
-      "friend-resistance"
+      "learning in the being mode",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-teacher-leaving",
-    "thinker": "nietzsche",
-    "collection": "Making a life",
-    "concept": "teacher leaving",
-    "title": "Outgrowing the teacher",
+    "id": "fromm-conversation",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Conversing",
+    "title": "Leave room for a reply",
     "tags": [
-      "making a life",
-      "teacher-leaving"
-    ],
-    "depth": 1
-  },
-  {
-    "id": "nietzsche-death-god",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "death god",
-    "title": "The missing horizon",
-    "tags": [
-      "without a guarantee",
-      "death-god"
+      "conversing",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-shadows-god",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "shadows god",
-    "title": "After the departure",
+    "id": "fromm-enough",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Existential having",
+    "title": "A coat is allowed",
     "tags": [
-      "without a guarantee",
-      "shadows-god"
+      "existential having",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-nihilism",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "nihilism",
-    "title": "When the measure fails",
+    "id": "fromm-busy",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Activity and passivity",
+    "title": "Busy doing whose life?",
     "tags": [
-      "without a guarantee",
-      "nihilism"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-open-sea",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "open sea",
-    "title": "Dangerous room",
-    "tags": [
-      "without a guarantee",
-      "open-sea"
+      "activity and passivity",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-last-man",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "last man",
-    "title": "Nothing to risk",
+    "id": "fromm-market",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Marketing orientation",
+    "title": "When the price changes",
     "tags": [
-      "without a guarantee",
-      "last-man"
+      "marketing orientation",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-overhuman",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "overhuman",
-    "title": "A bridge, not a finish",
+    "id": "fromm-receive",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Receptive orientation",
+    "title": "Waiting for the answer",
     "tags": [
-      "without a guarantee",
-      "overhuman"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-faithful-earth",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "faithful earth",
-    "title": "This world",
-    "tags": [
-      "without a guarantee",
-      "faithful-earth"
+      "receptive orientation",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-eternal-recurrence",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "eternal recurrence",
-    "title": "All of it, again",
+    "id": "fromm-take",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Exploitative orientation",
+    "title": "Whose work is that?",
     "tags": [
-      "without a guarantee",
-      "eternal-recurrence"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-amor-fati",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "amor fati",
-    "title": "Wanting what has been",
-    "tags": [
-      "without a guarantee",
-      "amor-fati"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-revenge-time",
-    "thinker": "nietzsche",
-    "collection": "Without a guarantee",
-    "concept": "revenge time",
-    "title": "The wall of was",
-    "tags": [
-      "without a guarantee",
-      "revenge-time"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-apollonian",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "apollonian",
-    "title": "The necessary outline",
-    "tags": [
-      "art and existence",
-      "apollonian"
+      "exploitative orientation",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-dionysian",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "dionysian",
-    "title": "When the boundary loosens",
+    "id": "fromm-keep",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Hoarding orientation",
+    "title": "The locked cupboard",
     "tags": [
-      "art and existence",
-      "dionysian"
+      "hoarding orientation",
+      "fromm"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-tragedy",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
+    "id": "fromm-productive",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Productive orientation",
+    "title": "The power you exercise",
+    "tags": [
+      "productive orientation",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-freedom",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "The ambiguity of freedom",
+    "title": "The door is open",
+    "tags": [
+      "the ambiguity of freedom",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-submit",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Authoritarian submission",
+    "title": "Borrowed strength",
+    "tags": [
+      "authoritarian submission",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-dominate",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Authoritarian domination",
+    "title": "The hand that needs you",
+    "tags": [
+      "authoritarian domination",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-conform",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Automaton conformity",
+    "title": "Whose opinion arrived?",
+    "tags": [
+      "automaton conformity",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-spontaneity",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Positive freedom",
+    "title": "A voice of your own",
+    "tags": [
+      "positive freedom",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-love-art",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Love as an art",
+    "title": "Love needs practice",
+    "tags": [
+      "love as an art",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-care",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Care",
+    "title": "Does the plant get watered?",
+    "tags": [
+      "care",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-respect",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Respect",
+    "title": "Let them take the path",
+    "tags": [
+      "respect",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-know",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Knowledge in love",
+    "title": "Look past the label",
+    "tags": [
+      "knowledge in love",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-self-love",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Self-love and selfishness",
+    "title": "Include yourself in care",
+    "tags": [
+      "self-love and selfishness",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "fromm-attitude",
+    "thinker": "fromm",
+    "collection": "Ways of living",
+    "concept": "Love as an orientation",
+    "title": "Beyond the favourite person",
+    "tags": [
+      "love as an orientation",
+      "fromm"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-representation",
+    "thinker": "schopenhauer",
+    "collection": "Meeting the world",
+    "concept": "representation",
+    "title": "THE WORLD YOU MEET",
+    "tags": [
+      "meeting the world",
+      "representation"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-body-two-ways",
+    "thinker": "schopenhauer",
+    "collection": "Meeting the world",
+    "concept": "body two ways",
+    "title": "ONE ARM, TWO WAYS",
+    "tags": [
+      "meeting the world",
+      "body two ways"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-will-not-a-plan",
+    "thinker": "schopenhauer",
+    "collection": "Meeting the world",
+    "concept": "will not a plan",
+    "title": "BEFORE THE PLAN",
+    "tags": [
+      "meeting the world",
+      "will not a plan"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-motive-and-character",
+    "thinker": "schopenhauer",
+    "collection": "Meeting the world",
+    "concept": "motive and character",
+    "title": "THE SAME OFFER",
+    "tags": [
+      "meeting the world",
+      "motive and character"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-acquired-character",
+    "thinker": "schopenhauer",
+    "collection": "Meeting the world",
+    "concept": "acquired character",
+    "title": "LEARNING YOUR OWN SHAPE",
+    "tags": [
+      "meeting the world",
+      "acquired character"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-desire-renews",
+    "thinker": "schopenhauer",
+    "collection": "Wanting and relief",
+    "concept": "desire renews",
+    "title": "THE NEXT THING",
+    "tags": [
+      "wanting and relief",
+      "desire renews"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-boredom",
+    "thinker": "schopenhauer",
+    "collection": "Wanting and relief",
+    "concept": "boredom",
+    "title": "WHEN NOTHING CALLS",
+    "tags": [
+      "wanting and relief",
+      "boredom"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-relief-and-pain",
+    "thinker": "schopenhauer",
+    "collection": "Wanting and relief",
+    "concept": "relief and pain",
+    "title": "THE TOOTHACHE GOES",
+    "tags": [
+      "wanting and relief",
+      "relief and pain"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-aesthetic-release",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
+    "concept": "aesthetic release",
+    "title": "A MOMENT WITHOUT A JOB",
+    "tags": [
+      "seeing without a demand",
+      "aesthetic release"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-idea-and-individual",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
+    "concept": "idea and individual",
+    "title": "THIS TREE, A FORM OF LIFE",
+    "tags": [
+      "seeing without a demand",
+      "idea and individual"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-genius",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
+    "concept": "genius",
+    "title": "ATTENTION THAT STAYS",
+    "tags": [
+      "seeing without a demand",
+      "genius"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-sublime",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
+    "concept": "sublime",
+    "title": "THE STORM AT A DISTANCE",
+    "tags": [
+      "seeing without a demand",
+      "sublime"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-architecture",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
+    "concept": "architecture",
+    "title": "THE WEIGHT IT CARRIES",
+    "tags": [
+      "seeing without a demand",
+      "architecture"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "schopenhauer-tragedy",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
     "concept": "tragedy",
-    "title": "Without a happy ending",
+    "title": "NO VILLAIN REQUIRED",
     "tags": [
-      "art and existence",
+      "seeing without a demand",
       "tragedy"
     ],
-    "depth": 3
+    "depth": 2
   },
   {
-    "id": "nietzsche-theoretical-optimism",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "theoretical optimism",
-    "title": "The promise of explanation",
+    "id": "schopenhauer-music",
+    "thinker": "schopenhauer",
+    "collection": "Seeing without a demand",
+    "concept": "music",
+    "title": "A STRIVING YOU CAN HEAR",
     "tags": [
-      "art and existence",
-      "theoretical-optimism"
-    ],
-    "depth": 3
-  },
-  {
-    "id": "nietzsche-artistic-distance",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "artistic distance",
-    "title": "A little distance",
-    "tags": [
-      "art and existence",
-      "artistic-distance"
+      "seeing without a demand",
+      "music"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-pain-knowledge",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "pain knowledge",
-    "title": "What pain cannot prove",
+    "id": "schopenhauer-egoism",
+    "thinker": "schopenhauer",
+    "collection": "With other lives",
+    "concept": "egoism",
+    "title": "MY PLACE IN THE PICTURE",
     "tags": [
-      "art and existence",
-      "pain-knowledge"
+      "with other lives",
+      "egoism"
     ],
     "depth": 2
   },
   {
-    "id": "nietzsche-great-health",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "great health",
-    "title": "Health that can change",
+    "id": "schopenhauer-justice",
+    "thinker": "schopenhauer",
+    "collection": "With other lives",
+    "concept": "justice",
+    "title": "THE LINE YOU DO NOT CROSS",
     "tags": [
-      "art and existence",
-      "great-health"
+      "with other lives",
+      "justice"
     ],
-    "depth": 3
+    "depth": 2
   },
   {
-    "id": "nietzsche-genius-work",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "genius work",
-    "title": "The invisible attempts",
+    "id": "schopenhauer-compassion",
+    "thinker": "schopenhauer",
+    "collection": "With other lives",
+    "concept": "compassion",
+    "title": "THE PAIN THAT MATTERS",
     "tags": [
-      "art and existence",
-      "genius-work"
+      "with other lives",
+      "compassion"
     ],
-    "depth": 1
+    "depth": 2
   },
   {
-    "id": "nietzsche-slow-reading",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "slow reading",
-    "title": "The tempo of a thought",
+    "id": "schopenhauer-malice",
+    "thinker": "schopenhauer",
+    "collection": "With other lives",
+    "concept": "malice",
+    "title": "WHEN THE LOSS IS THE PRIZE",
     "tags": [
-      "art and existence",
-      "slow-reading"
+      "with other lives",
+      "malice"
     ],
-    "depth": 1
+    "depth": 2
   },
   {
-    "id": "nietzsche-mask-depth",
-    "thinker": "nietzsche",
-    "collection": "Art and existence",
-    "concept": "mask depth",
-    "title": "The protective surface",
+    "id": "schopenhauer-resignation",
+    "thinker": "schopenhauer",
+    "collection": "With other lives",
+    "concept": "resignation",
+    "title": "WHEN STRIVING LOSES ITS CLAIM",
     "tags": [
-      "art and existence",
-      "mask-depth"
+      "with other lives",
+      "resignation"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-attention",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Receptive attention",
+    "title": "Leave room to see",
+    "tags": [
+      "receptive attention",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-error",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Facing a mistake",
+    "title": "Look at the crossed-out line",
+    "tags": [
+      "facing a mistake",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-neighbour",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Attention to another",
+    "title": "A person before a case",
+    "tags": [
+      "attention to another",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-affliction",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Malheur",
+    "title": "When the whole life is struck",
+    "tags": [
+      "malheur",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-force",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Force and dehumanization",
+    "title": "The person becomes a thing",
+    "tags": [
+      "force and dehumanization",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-gravity",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Moral gravity",
+    "title": "The hurt moves downhill",
+    "tags": [
+      "moral gravity",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-compensation",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Compensation",
+    "title": "Who pays for the bruise?",
+    "tags": [
+      "compensation",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-imagination",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Imagination as compensation",
+    "title": "The convenient story",
+    "tags": [
+      "imagination as compensation",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-detachment",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Detachment",
+    "title": "An open hand",
+    "tags": [
+      "detachment",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-self-centre",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "The imagined centre",
+    "title": "Everyone has a centre",
+    "tags": [
+      "the imagined centre",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-necessity",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Impersonal necessity",
+    "title": "The rain does not choose",
+    "tags": [
+      "impersonal necessity",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-contradiction",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Contradiction",
+    "title": "Keep both facts visible",
+    "tags": [
+      "contradiction",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-beauty",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Beauty without possession",
+    "title": "Let the beautiful thing stay",
+    "tags": [
+      "beauty without possession",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-friendship",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Friendship and independence",
+    "title": "Two chairs, two lives",
+    "tags": [
+      "friendship and independence",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-roots",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Rootedness",
+    "title": "A life has several roots",
+    "tags": [
+      "rootedness",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-uprooting",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Uprootedness",
+    "title": "More than changing address",
+    "tags": [
+      "uprootedness",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-work",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Thought and action",
+    "title": "Know the work you do",
+    "tags": [
+      "thought and action",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-responsibility",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Need for responsibility",
+    "title": "A real part to play",
+    "tags": [
+      "need for responsibility",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-obligation",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Obligation before rights",
+    "title": "The need comes first",
+    "tags": [
+      "obligation before rights",
+      "attention and the world"
+    ],
+    "depth": 2
+  },
+  {
+    "id": "weil-reading",
+    "thinker": "weil",
+    "collection": "Attention and the world",
+    "concept": "Reading reality",
+    "title": "The meaning on the face",
+    "tags": [
+      "reading reality",
+      "attention and the world"
     ],
     "depth": 2
   }

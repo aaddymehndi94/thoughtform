@@ -1,153 +1,471 @@
 {
-  "frankl-values": {
-    "title": "Meaning from a Logotherapy Perspective",
-    "author": "Viktor Frankl Institute of America",
-    "reference": "Sections on creative and experiential values; compare Man’s Search for Meaning, Part II, “The Meaning of Life”",
-    "url": "https://viktorfranklamerica.com/meaning-from-a-logotherapy-perspective/"
+  "jung-association-reading": {
+    "title": "Experimental Researches",
+    "author": "C. G. Jung",
+    "reference": "CW 2, “The Associations of Normal Subjects” and “The Association Method”; reaction times and disturbances in association experiments. Institutional abstracts of the primary work.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-2-experimental-researches/"
   },
-  "frankl-suffering": {
-    "title": "Finding Meaning in Unavoidable Suffering",
-    "author": "Robert C. Barnes",
-    "reference": "Discussion distinguishing unavoidable suffering from unnecessary suffering; compare The Doctor and the Soul, existential analysis of suffering",
-    "url": "https://www.viktorfrankl.org/journal_vfi/jou_2/html/barn2.html"
+  "jung-dream-context-reading": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “General Aspects of Dream Psychology” and “On the Nature of Dreams”; individual context, associations, and interpretation.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
   },
-  "frankl-moment": {
-    "title": "Logotherapy and Existential Analysis",
-    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
-    "reference": "“Meaning in Life”; compare Man’s Search for Meaning, Part II, “The Meaning of Life”",
-    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  "jung-dream-series-reading": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On the Nature of Dreams,” §§530–569; dream series and the testing of interpretations over time.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
   },
-  "frankl-freedom": {
-    "title": "About Logotherapy",
-    "author": "Viktor Frankl Institute of Logotherapy",
-    "reference": "Freedom of will and freedom within limits; compare Man’s Search for Meaning, Part II",
-    "url": "https://www.viktorfranklinstitute.org/about-logotherapy/"
+  "jung-archetype-pattern-reading": {
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "C. G. Jung",
+    "reference": "CW 9i, “Psychological Aspects of the Mother Archetype,” §155; archetype as form rather than a fixed inherited picture.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
   },
-  "frankl-transcendence": {
-    "title": "Youth in Search of Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Authorised lecture excerpts, Baker World, vol. 1, no. 4, January 1969, printed pp. 2–5; discussion of self-transcendence and self-actualisation, pp. 3–4; hosted by the Viktor Frankl Institute of America",
-    "url": "https://viktorfranklamerica.com/wp-content/uploads/2020/05/VF-Baker-World-Article.pdf"
+  "jung-collective-unconscious-reading": {
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "C. G. Jung",
+    "reference": "CW 9i, “The Concept of the Collective Unconscious,” §§87–110. Inherited dispositions distinguished from personal recollections.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
   },
-  "frankl-person": {
-    "title": "Ten Theses about the Person",
-    "author": "Viktor E. Frankl",
-    "reference": "Thesis 4: dignity distinguished from utility; translation by Franz Vesely and David Nolland",
-    "url": "https://www.viktorfrankl.org/texts.html"
+  "jung-four-functions-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, “General Description of the Types,” and chapter XI, definitions Feeling, Function, Intuition, Sensation, Thinking. Historical theory of orientation.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
   },
-  "frankl-triad": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Postscript, “The Case for a Tragic Optimism”; edition-dependent pagination intentionally omitted; official bibliography link",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-introversion-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, “The Introverted Type”; chapter XI, definition Introversion. Subjective orientation distinguished from social shyness.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
   },
-  "frankl-search": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part II, “Logotherapy in a Nutshell”: existential frustration, noogenic neuroses, noö-dynamics, existential vacuum; official primary-work bibliography; pagination varies by edition",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-extraversion-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, “The Extraverted Type”; chapter XI, definition Extraversion. Object-oriented attitude distinguished from social volume.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
   },
-  "frankl-love": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part II, “The Meaning of Love”; official primary-work bibliography; pagination varies by edition",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-inferior-function-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter X, differentiation of conscious and unconscious functions; chapter XI, definitions Function and Inferior Function.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
   },
-  "frankl-past": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part II, “Life’s Transitoriness”; official primary-work bibliography; pagination varies by edition",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-dream-levels-reading": {
+    "title": "Psychological Types",
+    "author": "C. G. Jung",
+    "reference": "CW 6, chapter XI, definitions Objective Level and Subjective Level. Compare CW 8, “General Aspects of Dream Psychology.”",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
   },
-  "frankl-unique": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part I, discussion of responsibility toward an unfinished task or a loved person; official primary-work bibliography; pagination varies by edition",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-transcendent": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "Collected Works 8, “The Transcendent Function,” §§131–193; written 1916, revised for publication 1958; primary chapter bibliographic record.",
+    "url": "https://doi.org/10.1515/9781400850952.67"
   },
-  "frankl-conscience": {
-    "title": "The Will to Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Discussion of conscience as an organ of meaning and the fallibility of conscience; official primary-work bibliography; pagination varies by edition",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-types-symbol": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Symbol” and “Transscendente Funktion”; compare CW 6, §§814–829.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "frankl-dialogue": {
-    "title": "Logotherapy and Existential Analysis",
-    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
-    "reference": "“Socratic dialogue / Modification of attitudes”: prohibition on imposing the therapist’s values",
-    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  "jung-advanced-types-enantiodromia": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 18, “Enantiodromie”; compare CW 6, §709. Historical interpretation, not a universal empirical law.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "frankl-techniques": {
-    "title": "Logotherapy and Existential Analysis",
-    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
-    "reference": "“Paradoxical Intention” and “Dereflexion”; compare Frankl, Man’s Search for Meaning, Part II, “Logotherapy as a Technique”",
-    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  "jung-advanced-inflation": {
+    "title": "Two Essays on Analytical Psychology",
+    "author": "C. G. Jung",
+    "reference": "CW 7, “The Relations between the Ego and the Unconscious,” Part I, chapters II and IV(b), inflation and identification with the collective psyche; IAAP institutional chapter abstracts verify bibliography, not full text.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-7-two-essays-analytical-psychology/"
   },
-  "frankl-paradox": {
-    "title": "Paradoxical Intention: A Logotherapeutic Technique",
-    "author": "Viktor E. Frankl",
-    "reference": "American Journal of Psychotherapy 14(3), 1960, pp. 520–535; DOI 10.1176/appi.psychotherapy.1960.14.3.520",
-    "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.psychotherapy.1960.14.3.520"
+  "jung-advanced-types-constructive": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Construktiv,” “Reduktiv,” and “Phantasie”; constructive and reductive methods.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "frankl-optimism": {
-    "title": "About Logotherapy",
-    "author": "Viktor Frankl Center Vienna",
-    "reference": "“Tragic Optimism”; compare Man’s Search for Meaning, postscript “The Case for a Tragic Optimism”",
-    "url": "https://www.franklzentrum.org/english/about-logotherapy.html"
+  "jung-advanced-energy": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On Psychic Energy” (1928), Part I, the energic viewpoint and quantitative estimation; IAAP institutional abstracts verify primary work and chapter structure.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
   },
-  "frankl-theory": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part II, “Logotherapy in a Nutshell”: will to meaning, existential frustration, and noogenic neuroses; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-energy-progression": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On Psychic Energy,” Part III(a), “Progression and regression”; distinction between progression and psychological development.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
   },
-  "frankl-technique-book": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part II, “Logotherapy as a Technique”: hyper-intention, hyper-reflection, and dereflection; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-energy-regression": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “On Psychic Energy,” Part III(a), “Progression and regression”; activation of unconscious contents in regression.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
   },
-  "frankl-postscript": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Postscript, “The Case for a Tragic Optimism”: happiness requires a reason; optimism cannot be commanded; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-types-individuation": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 31, “Individuation”; compare CW 6, §§757–762, social relationship and distinction from individualism.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "frankl-doctor": {
-    "title": "The Doctor and the Soul",
-    "author": "Viktor E. Frankl",
-    "reference": "Existential analysis of work and the distinction between meaning and outward success; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-stages": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “The Stages of Life” (1930–31), pp. 387–403 in the Princeton collected edition; historical model of life phases.",
+    "url": "https://doi.org/10.1515/9781400850952.387"
   },
-  "frankl-dimensions": {
-    "title": "The Will to Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Discussion of dimensional ontology and criticism of reductionism; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-religion": {
+    "title": "Psychology and Religion: West and East",
+    "author": "C. G. Jung",
+    "reference": "CW 11, “Psychology and Religion,” Terry Lectures (1937), chapters 1–3: numinosum, experience and creed, psychological inquiry and metaphysical claims. Institutional chapter abstracts, not full text.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-11-psychology-religion-west-east/"
   },
-  "frankl-values-book": {
-    "title": "The Will to Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Discussion of unique situational meaning, universal values, and value conflicts; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-anima": {
+    "title": "Two Essays on Analytical Psychology",
+    "author": "C. G. Jung",
+    "reference": "CW 7, “The Relations between the Ego and the Unconscious,” Part II, chapter II, “Anima and animus”; historical binary/gender assumptions explicitly criticized in the card.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-7-two-essays-analytical-psychology/"
   },
-  "frankl-ultimate": {
-    "title": "Man’s Search for Meaning",
-    "author": "Viktor E. Frankl",
-    "reference": "Part II, “The Super-Meaning”; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-types-soul": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definitions “Seele” and “Seelenbild”; complementarity and historical sex-role generalizations.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "frankl-attitude": {
-    "title": "The Doctor and the Soul",
-    "author": "Viktor E. Frankl",
-    "reference": "Existential analysis of suffering; attitudinal values where circumstances cannot be changed; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
-    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  "jung-advanced-types-image": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 8, “Bild”; the inner image and its psychological actuality distinguished from sensory reality.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
   },
-  "frankl-religion": {
-    "title": "Ten Theses about the Person",
-    "author": "Viktor E. Frankl",
-    "reference": "Thesis 10: religion as an object of logotherapy rather than its standpoint; compare The Unconscious God / Man’s Search for Ultimate Meaning",
-    "url": "https://www.viktorfrankl.org/texts.html"
+  "jung-advanced-alchemy": {
+    "title": "Psychology and Alchemy",
+    "author": "C. G. Jung",
+    "reference": "CW 12, Part III, “Religious Ideas in Alchemy,” chapter 2, “The psychic nature of the alchemical work,” and chapter 5, “The lapis–Christ parallel”; Jung’s historical/psychological interpretation, institutional chapter bibliography.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/"
+  },
+  "jung-advanced-mandala": {
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "C. G. Jung",
+    "reference": "CW 9i, “Concerning Mandala Symbolism,” pp. 355–384 and appendix “Mandalas,” pp. 385–390 in Princeton 1968 edition; ordering and context.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
+  },
+  "jung-advanced-wholeness": {
+    "title": "Psychology and Religion: West and East",
+    "author": "C. G. Jung",
+    "reference": "CW 11, “Answer to Job,” discussion of completeness, moral perfection, and the relation of opposites; wholeness treated as a psychological problem, institutional chapter bibliography.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-11-psychology-religion-west-east/"
+  },
+  "jung-advanced-synchronicity": {
+    "title": "The Structure and Dynamics of the Psyche",
+    "author": "C. G. Jung",
+    "reference": "CW 8, “Synchronicity: An Acausal Connecting Principle” (1952), exposition, experiment, and conclusion; theory distinguished from established evidence. Institutional primary-work abstracts.",
+    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+  },
+  "jung-advanced-types-concretism": {
+    "title": "Psychologische Typen",
+    "author": "C. G. Jung",
+    "reference": "1921 German edition, Chapter XI, definition 11, “Concretismus”; fusion of thought/feeling with sensory object. Colonial classifications criticized in the card.",
+    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
+  },
+  "jung-advanced-amplification-primary": {
+    "title": "Psychology and Alchemy; The Symbolic Life",
+    "author": "C. G. Jung",
+    "reference": "CW 12, §403, amplification through association and analogy; CW 18, The Tavistock Lectures (1935), §§173–174, comparative interpretation. These passages and exact paragraph references are reproduced/discussed by the IAAP institutional article; this link is not the full primary edition.",
+    "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/amplification-2/"
+  },
+  "jung-advanced-amplification-institutional": {
+    "title": "Dreams",
+    "author": "Yasuhiro Tanaka, International Association for Analytical Psychology",
+    "reference": "Section “The dream is a spontaneous and natural occurrence”: amplification as seeking parallels, citing Jung CW 18, §§172–174; contextual and interpretive limits. Institutional scholarly explanation.",
+    "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/dreams/"
+  },
+  "jung-advanced-amplification-example": {
+    "title": "Genesis",
+    "author": "Hebrew Bible; World English Bible translation",
+    "reference": "Genesis 28:10–17, Jacob’s dream of a ladder joining earth and heaven. The promotion example and psychological comparison are original illustrations of amplification, not Jung’s case material.",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis+28&version=WEB"
+  },
+  "gm-Preface-6": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Preface, §6; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-I-10": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "First essay, §10; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-I-10-11": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "First essay, §§10–11; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-II-16": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Second essay, §16; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-II-1-2": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Second essay, §§1–2; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-II-1": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Second essay, §1; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-II-4-21": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Second essay, §§4–21; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-II-12-14": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Second essay, §§12–14; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "gm-III-28": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Third essay, §28; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "bg-1": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§1; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "gm-III-12": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Third essay, §12; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "bg-6": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§6; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "bg-16-17": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§§16–17; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "bg-19": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§19; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "bg-21": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§21; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "hh-483": {
+    "title": "Human, All Too Human",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part I, §§483 and 629–637 (convictions and free inquiry); Helen Zimmern translation, 1909.",
+    "url": "https://www.gutenberg.org/files/51935/51935-h/51935-h.htm"
+  },
+  "gs-344": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§344; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "gs-354": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§354; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "bg-4": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§4; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "gs-290": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§290; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "z-II-Self-overcoming": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part II, Self-Surpassing / Self-Overcoming; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "z-I-Three-Metamorphoses": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part I, The Three Metamorphoses; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "bg-13-36": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§§13–36; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "bg-188": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§188; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+  "gs-335": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§335; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "z-I-The-Friend": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part I, The Friend; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "z-I-Bestowing-Virtue-3": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part I, The Bestowing Virtue, §3; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "gs-125": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§125; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "gs-108-109": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§§108–109; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "gs-343": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§343; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "z-Prologue-5": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Prologue, §5; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "z-Prologue-3-4": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Prologue, §§3–4; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "z-Prologue-3": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Prologue, §3; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "gs-341": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§341; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "gs-276": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§276; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "z-II-Redemption": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part II, Redemption; Thomas Common translation. Spoken by the fictional Zarathustra.",
+    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+  },
+  "bt-1": {
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "reference": "§1; W. A. Haussmann translation, 1910.",
+    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
+  },
+  "bt-1-2": {
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "reference": "§§1–2; W. A. Haussmann translation, 1910.",
+    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
+  },
+  "bt-21-22": {
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "reference": "§§21–22; W. A. Haussmann translation, 1910.",
+    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
+  },
+  "bt-15": {
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "reference": "§15; W. A. Haussmann translation, 1910.",
+    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
+  },
+  "gs-107": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§107; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "gs-Preface-3": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "Preface, §3; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "gs-382": {
+    "title": "The Gay Science",
+    "author": "Friedrich Nietzsche",
+    "reference": "§382; Thomas Common translation, 1910.",
+    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
+  },
+  "hh-155-162": {
+    "title": "Human, All Too Human",
+    "author": "Friedrich Nietzsche",
+    "reference": "Part I, §§155–162; Helen Zimmern translation, 1909.",
+    "url": "https://www.gutenberg.org/files/51935/51935-h/51935-h.htm"
+  },
+  "gm-Preface-8": {
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "reference": "Preface, §8; Horace B. Samuel translation, 1913.",
+    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+  "bg-40": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "reference": "§40; Helen Zimmern translation.",
+    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
   },
   "freud-source-unconscious": {
     "title": "Introductory Lectures on Psycho-Analysis (1916–17)",
@@ -449,472 +767,580 @@
     "reference": "Sections I–VII: the argument from pleasure regulation to speculative drive theory",
     "url": "https://www.gutenberg.org/cache/epub/76031/pg76031-images.html"
   },
-  "jung-advanced-transcendent": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "Collected Works 8, “The Transcendent Function,” §§131–193; written 1916, revised for publication 1958; primary chapter bibliographic record.",
-    "url": "https://doi.org/10.1515/9781400850952.67"
-  },
-  "jung-advanced-types-symbol": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definitions “Symbol” and “Transscendente Funktion”; compare CW 6, §§814–829.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-types-enantiodromia": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definition 18, “Enantiodromie”; compare CW 6, §709. Historical interpretation, not a universal empirical law.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-inflation": {
-    "title": "Two Essays on Analytical Psychology",
-    "author": "C. G. Jung",
-    "reference": "CW 7, “The Relations between the Ego and the Unconscious,” Part I, chapters II and IV(b), inflation and identification with the collective psyche; IAAP institutional chapter abstracts verify bibliography, not full text.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-7-two-essays-analytical-psychology/"
-  },
-  "jung-advanced-types-constructive": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definitions “Construktiv,” “Reduktiv,” and “Phantasie”; constructive and reductive methods.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-energy": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “On Psychic Energy” (1928), Part I, the energic viewpoint and quantitative estimation; IAAP institutional abstracts verify primary work and chapter structure.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
-  },
-  "jung-advanced-energy-progression": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “On Psychic Energy,” Part III(a), “Progression and regression”; distinction between progression and psychological development.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
-  },
-  "jung-advanced-energy-regression": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “On Psychic Energy,” Part III(a), “Progression and regression”; activation of unconscious contents in regression.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
-  },
-  "jung-advanced-types-individuation": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definition 31, “Individuation”; compare CW 6, §§757–762, social relationship and distinction from individualism.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-stages": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “The Stages of Life” (1930–31), pp. 387–403 in the Princeton collected edition; historical model of life phases.",
-    "url": "https://doi.org/10.1515/9781400850952.387"
-  },
-  "jung-advanced-religion": {
-    "title": "Psychology and Religion: West and East",
-    "author": "C. G. Jung",
-    "reference": "CW 11, “Psychology and Religion,” Terry Lectures (1937), chapters 1–3: numinosum, experience and creed, psychological inquiry and metaphysical claims. Institutional chapter abstracts, not full text.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-11-psychology-religion-west-east/"
-  },
-  "jung-advanced-anima": {
-    "title": "Two Essays on Analytical Psychology",
-    "author": "C. G. Jung",
-    "reference": "CW 7, “The Relations between the Ego and the Unconscious,” Part II, chapter II, “Anima and animus”; historical binary/gender assumptions explicitly criticized in the card.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-7-two-essays-analytical-psychology/"
-  },
-  "jung-advanced-types-soul": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definitions “Seele” and “Seelenbild”; complementarity and historical sex-role generalizations.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-types-image": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definition 8, “Bild”; the inner image and its psychological actuality distinguished from sensory reality.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-alchemy": {
-    "title": "Psychology and Alchemy",
-    "author": "C. G. Jung",
-    "reference": "CW 12, Part III, “Religious Ideas in Alchemy,” chapter 2, “The psychic nature of the alchemical work,” and chapter 5, “The lapis–Christ parallel”; Jung’s historical/psychological interpretation, institutional chapter bibliography.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/"
-  },
-  "jung-advanced-mandala": {
-    "title": "The Archetypes and the Collective Unconscious",
-    "author": "C. G. Jung",
-    "reference": "CW 9i, “Concerning Mandala Symbolism,” pp. 355–384 and appendix “Mandalas,” pp. 385–390 in Princeton 1968 edition; ordering and context.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
-  },
-  "jung-advanced-wholeness": {
-    "title": "Psychology and Religion: West and East",
-    "author": "C. G. Jung",
-    "reference": "CW 11, “Answer to Job,” discussion of completeness, moral perfection, and the relation of opposites; wholeness treated as a psychological problem, institutional chapter bibliography.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-11-psychology-religion-west-east/"
-  },
-  "jung-advanced-synchronicity": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “Synchronicity: An Acausal Connecting Principle” (1952), exposition, experiment, and conclusion; theory distinguished from established evidence. Institutional primary-work abstracts.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
-  },
-  "jung-advanced-types-concretism": {
-    "title": "Psychologische Typen",
-    "author": "C. G. Jung",
-    "reference": "1921 German edition, Chapter XI, definition 11, “Concretismus”; fusion of thought/feeling with sensory object. Colonial classifications criticized in the card.",
-    "url": "https://www.gutenberg.org/cache/epub/61543/pg61543-images.html"
-  },
-  "jung-advanced-amplification-primary": {
-    "title": "Psychology and Alchemy; The Symbolic Life",
-    "author": "C. G. Jung",
-    "reference": "CW 12, §403, amplification through association and analogy; CW 18, The Tavistock Lectures (1935), §§173–174, comparative interpretation. These passages and exact paragraph references are reproduced/discussed by the IAAP institutional article; this link is not the full primary edition.",
-    "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/amplification-2/"
-  },
-  "jung-advanced-amplification-institutional": {
-    "title": "Dreams",
-    "author": "Yasuhiro Tanaka, International Association for Analytical Psychology",
-    "reference": "Section “The dream is a spontaneous and natural occurrence”: amplification as seeking parallels, citing Jung CW 18, §§172–174; contextual and interpretive limits. Institutional scholarly explanation.",
-    "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/dreams/"
-  },
-  "jung-advanced-amplification-example": {
-    "title": "Genesis",
-    "author": "Hebrew Bible; World English Bible translation",
-    "reference": "Genesis 28:10–17, Jacob’s dream of a ladder joining earth and heaven. The promotion example and psychological comparison are original illustrations of amplification, not Jung’s case material.",
-    "url": "https://www.biblegateway.com/passage/?search=Genesis+28&version=WEB"
-  },
-  "jung-association-reading": {
-    "title": "Experimental Researches",
-    "author": "C. G. Jung",
-    "reference": "CW 2, “The Associations of Normal Subjects” and “The Association Method”; reaction times and disturbances in association experiments. Institutional abstracts of the primary work.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-2-experimental-researches/"
-  },
-  "jung-dream-context-reading": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “General Aspects of Dream Psychology” and “On the Nature of Dreams”; individual context, associations, and interpretation.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
-  },
-  "jung-dream-series-reading": {
-    "title": "The Structure and Dynamics of the Psyche",
-    "author": "C. G. Jung",
-    "reference": "CW 8, “On the Nature of Dreams,” §§530–569; dream series and the testing of interpretations over time.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
-  },
-  "jung-archetype-pattern-reading": {
-    "title": "The Archetypes and the Collective Unconscious",
-    "author": "C. G. Jung",
-    "reference": "CW 9i, “Psychological Aspects of the Mother Archetype,” §155; archetype as form rather than a fixed inherited picture.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
-  },
-  "jung-collective-unconscious-reading": {
-    "title": "The Archetypes and the Collective Unconscious",
-    "author": "C. G. Jung",
-    "reference": "CW 9i, “The Concept of the Collective Unconscious,” §§87–110. Inherited dispositions distinguished from personal recollections.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
-  },
-  "jung-four-functions-reading": {
-    "title": "Psychological Types",
-    "author": "C. G. Jung",
-    "reference": "CW 6, chapter X, “General Description of the Types,” and chapter XI, definitions Feeling, Function, Intuition, Sensation, Thinking. Historical theory of orientation.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
-  },
-  "jung-introversion-reading": {
-    "title": "Psychological Types",
-    "author": "C. G. Jung",
-    "reference": "CW 6, chapter X, “The Introverted Type”; chapter XI, definition Introversion. Subjective orientation distinguished from social shyness.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
-  },
-  "jung-extraversion-reading": {
-    "title": "Psychological Types",
-    "author": "C. G. Jung",
-    "reference": "CW 6, chapter X, “The Extraverted Type”; chapter XI, definition Extraversion. Object-oriented attitude distinguished from social volume.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
-  },
-  "jung-inferior-function-reading": {
-    "title": "Psychological Types",
-    "author": "C. G. Jung",
-    "reference": "CW 6, chapter X, differentiation of conscious and unconscious functions; chapter XI, definitions Function and Inferior Function.",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
-  },
-  "jung-dream-levels-reading": {
-    "title": "Psychological Types",
-    "author": "C. G. Jung",
-    "reference": "CW 6, chapter XI, definitions Objective Level and Subjective Level. Compare CW 8, “General Aspects of Dream Psychology.”",
-    "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-6-psychological-types/"
-  },
-  "gm-Preface-6": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Preface, §6; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-I-10": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "First essay, §10; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-I-10-11": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "First essay, §§10–11; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-II-16": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Second essay, §16; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-II-1-2": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Second essay, §§1–2; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-II-1": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Second essay, §1; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-II-4-21": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Second essay, §§4–21; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-II-12-14": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Second essay, §§12–14; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "gm-III-28": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Third essay, §28; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "bg-1": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§1; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "gm-III-12": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Third essay, §12; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "bg-6": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§6; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "bg-16-17": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§§16–17; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "bg-19": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§19; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "bg-21": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§21; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "hh-483": {
-    "title": "Human, All Too Human",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part I, §§483 and 629–637 (convictions and free inquiry); Helen Zimmern translation, 1909.",
-    "url": "https://www.gutenberg.org/files/51935/51935-h/51935-h.htm"
-  },
-  "gs-344": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§344; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "gs-354": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§354; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "bg-4": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§4; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "gs-290": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§290; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "z-II-Self-overcoming": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part II, Self-Surpassing / Self-Overcoming; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "z-I-Three-Metamorphoses": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part I, The Three Metamorphoses; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "bg-13-36": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§§13–36; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "bg-188": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§188; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
-  },
-  "gs-335": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§335; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "z-I-The-Friend": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part I, The Friend; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "z-I-Bestowing-Virtue-3": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part I, The Bestowing Virtue, §3; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "gs-125": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§125; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "gs-108-109": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§§108–109; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "gs-343": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§343; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "z-Prologue-5": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Prologue, §5; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "z-Prologue-3-4": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Prologue, §§3–4; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "z-Prologue-3": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Prologue, §3; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "gs-341": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§341; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "gs-276": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§276; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "z-II-Redemption": {
-    "title": "Thus Spoke Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part II, Redemption; Thomas Common translation. Spoken by the fictional Zarathustra.",
-    "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
-  },
-  "bt-1": {
-    "title": "The Birth of Tragedy",
-    "author": "Friedrich Nietzsche",
-    "reference": "§1; W. A. Haussmann translation, 1910.",
-    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
-  },
-  "bt-1-2": {
-    "title": "The Birth of Tragedy",
-    "author": "Friedrich Nietzsche",
-    "reference": "§§1–2; W. A. Haussmann translation, 1910.",
-    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
-  },
-  "bt-21-22": {
-    "title": "The Birth of Tragedy",
-    "author": "Friedrich Nietzsche",
-    "reference": "§§21–22; W. A. Haussmann translation, 1910.",
-    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
-  },
-  "bt-15": {
-    "title": "The Birth of Tragedy",
-    "author": "Friedrich Nietzsche",
-    "reference": "§15; W. A. Haussmann translation, 1910.",
-    "url": "https://www.gutenberg.org/files/51356/51356-h/51356-h.htm"
-  },
-  "gs-107": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§107; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "gs-Preface-3": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "Preface, §3; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "gs-382": {
-    "title": "The Gay Science",
-    "author": "Friedrich Nietzsche",
-    "reference": "§382; Thomas Common translation, 1910.",
-    "url": "https://www.gutenberg.org/files/52881/52881-h/52881-h.htm"
-  },
-  "hh-155-162": {
-    "title": "Human, All Too Human",
-    "author": "Friedrich Nietzsche",
-    "reference": "Part I, §§155–162; Helen Zimmern translation, 1909.",
-    "url": "https://www.gutenberg.org/files/51935/51935-h/51935-h.htm"
-  },
-  "gm-Preface-8": {
-    "title": "On the Genealogy of Morality",
-    "author": "Friedrich Nietzsche",
-    "reference": "Preface, §8; Horace B. Samuel translation, 1913.",
-    "url": "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
-  },
-  "bg-40": {
-    "title": "Beyond Good and Evil",
-    "author": "Friedrich Nietzsche",
-    "reference": "§40; Helen Zimmern translation.",
-    "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  "frankl-values": {
+    "title": "Meaning from a Logotherapy Perspective",
+    "author": "Viktor Frankl Institute of America",
+    "reference": "Sections on creative and experiential values; compare Man’s Search for Meaning, Part II, “The Meaning of Life”",
+    "url": "https://viktorfranklamerica.com/meaning-from-a-logotherapy-perspective/"
+  },
+  "frankl-suffering": {
+    "title": "Finding Meaning in Unavoidable Suffering",
+    "author": "Robert C. Barnes",
+    "reference": "Discussion distinguishing unavoidable suffering from unnecessary suffering; compare The Doctor and the Soul, existential analysis of suffering",
+    "url": "https://www.viktorfrankl.org/journal_vfi/jou_2/html/barn2.html"
+  },
+  "frankl-moment": {
+    "title": "Logotherapy and Existential Analysis",
+    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
+    "reference": "“Meaning in Life”; compare Man’s Search for Meaning, Part II, “The Meaning of Life”",
+    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  },
+  "frankl-freedom": {
+    "title": "About Logotherapy",
+    "author": "Viktor Frankl Institute of Logotherapy",
+    "reference": "Freedom of will and freedom within limits; compare Man’s Search for Meaning, Part II",
+    "url": "https://www.viktorfranklinstitute.org/about-logotherapy/"
+  },
+  "frankl-transcendence": {
+    "title": "Youth in Search of Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Authorised lecture excerpts, Baker World, vol. 1, no. 4, January 1969, printed pp. 2–5; discussion of self-transcendence and self-actualisation, pp. 3–4; hosted by the Viktor Frankl Institute of America",
+    "url": "https://viktorfranklamerica.com/wp-content/uploads/2020/05/VF-Baker-World-Article.pdf"
+  },
+  "frankl-person": {
+    "title": "Ten Theses about the Person",
+    "author": "Viktor E. Frankl",
+    "reference": "Thesis 4: dignity distinguished from utility; translation by Franz Vesely and David Nolland",
+    "url": "https://www.viktorfrankl.org/texts.html"
+  },
+  "frankl-triad": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Postscript, “The Case for a Tragic Optimism”; edition-dependent pagination intentionally omitted; official bibliography link",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-search": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy in a Nutshell”: existential frustration, noogenic neuroses, noö-dynamics, existential vacuum; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-love": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “The Meaning of Love”; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-past": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Life’s Transitoriness”; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-unique": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part I, discussion of responsibility toward an unfinished task or a loved person; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-conscience": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of conscience as an organ of meaning and the fallibility of conscience; official primary-work bibliography; pagination varies by edition",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-dialogue": {
+    "title": "Logotherapy and Existential Analysis",
+    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
+    "reference": "“Socratic dialogue / Modification of attitudes”: prohibition on imposing the therapist’s values",
+    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  },
+  "frankl-techniques": {
+    "title": "Logotherapy and Existential Analysis",
+    "author": "Alexander Batthyány / Viktor Frankl Institute Vienna",
+    "reference": "“Paradoxical Intention” and “Dereflexion”; compare Frankl, Man’s Search for Meaning, Part II, “Logotherapy as a Technique”",
+    "url": "https://www.viktorfrankl.org/logotherapy.html"
+  },
+  "frankl-paradox": {
+    "title": "Paradoxical Intention: A Logotherapeutic Technique",
+    "author": "Viktor E. Frankl",
+    "reference": "American Journal of Psychotherapy 14(3), 1960, pp. 520–535; DOI 10.1176/appi.psychotherapy.1960.14.3.520",
+    "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.psychotherapy.1960.14.3.520"
+  },
+  "frankl-optimism": {
+    "title": "About Logotherapy",
+    "author": "Viktor Frankl Center Vienna",
+    "reference": "“Tragic Optimism”; compare Man’s Search for Meaning, postscript “The Case for a Tragic Optimism”",
+    "url": "https://www.franklzentrum.org/english/about-logotherapy.html"
+  },
+  "frankl-theory": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy in a Nutshell”: will to meaning, existential frustration, and noogenic neuroses; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-technique-book": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “Logotherapy as a Technique”: hyper-intention, hyper-reflection, and dereflection; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-postscript": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Postscript, “The Case for a Tragic Optimism”: happiness requires a reason; optimism cannot be commanded; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-doctor": {
+    "title": "The Doctor and the Soul",
+    "author": "Viktor E. Frankl",
+    "reference": "Existential analysis of work and the distinction between meaning and outward success; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-dimensions": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of dimensional ontology and criticism of reductionism; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-values-book": {
+    "title": "The Will to Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Discussion of unique situational meaning, universal values, and value conflicts; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-ultimate": {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "reference": "Part II, “The Super-Meaning”; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-attitude": {
+    "title": "The Doctor and the Soul",
+    "author": "Viktor E. Frankl",
+    "reference": "Existential analysis of suffering; attitudinal values where circumstances cannot be changed; edition-dependent pagination omitted; link verifies primary-work bibliography, not a full-text copy",
+    "url": "https://www.viktorfrankl.org/books_by_vf.html"
+  },
+  "frankl-religion": {
+    "title": "Ten Theses about the Person",
+    "author": "Viktor E. Frankl",
+    "reference": "Thesis 10: religion as an object of logotherapy rather than its standpoint; compare The Unconscious God / Man’s Search for Ultimate Meaning",
+    "url": "https://www.viktorfrankl.org/texts.html"
+  },
+  "horney-idealized-self": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 1, The Search for Glory; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-actual-real": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 6, Alienation from Self; chapter 15, Theoretical Considerations; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-glory": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 1, The Search for Glory; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-pride": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 4, Neurotic Pride; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-claims": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 2, Neurotic Claims; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-shoulds": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 3, The Tyranny of the Should; original paraphrase. Primary chapter excerpt.",
+    "url": "https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf"
+  },
+  "horney-feasibility": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 3, The Tyranny of the Should, discussion of feasibility; original paraphrase. Primary chapter excerpt.",
+    "url": "https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf"
+  },
+  "horney-crossfire": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 3, The Tyranny of the Should, conflicting demands; original paraphrase. Primary chapter excerpt.",
+    "url": "https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf"
+  },
+  "horney-retrospective": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 3, The Tyranny of the Should, retrospective demands; original paraphrase. Primary chapter excerpt.",
+    "url": "https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf"
+  },
+  "horney-ideals": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 3, The Tyranny of the Should, ideals and coercion; original paraphrase. Primary chapter excerpt.",
+    "url": "https://centroadleriano.org/wp-content/uploads/2016/04/PERFECTIONISM-HorneyKarenTyrannyOfTheShould.pdf"
+  },
+  "horney-basic-anxiety": {
+    "title": "Our Inner Conflicts",
+    "author": "Karen Horney",
+    "reference": "The Neurotic Personality of Our Time, chapter 5; Our Inner Conflicts, chapter 2, The Basic Conflict; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Our-Inner-Conflicts-A-Constructive-Theory-of-Neurosis/Horney/p/book/9781138007406"
+  },
+  "horney-toward": {
+    "title": "Our Inner Conflicts",
+    "author": "Karen Horney",
+    "reference": "Our Inner Conflicts, chapter 3, Moving Toward People; Neurosis and Human Growth, chapter 9; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Our-Inner-Conflicts-A-Constructive-Theory-of-Neurosis/Horney/p/book/9781138007406"
+  },
+  "horney-against": {
+    "title": "Our Inner Conflicts",
+    "author": "Karen Horney",
+    "reference": "Our Inner Conflicts, chapter 4, Moving Against People; Neurosis and Human Growth, chapter 8; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Our-Inner-Conflicts-A-Constructive-Theory-of-Neurosis/Horney/p/book/9781138007406"
+  },
+  "horney-away": {
+    "title": "Our Inner Conflicts",
+    "author": "Karen Horney",
+    "reference": "Our Inner Conflicts, chapter 5, Moving Away From People; Neurosis and Human Growth, chapter 11; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Our-Inner-Conflicts-A-Constructive-Theory-of-Neurosis/Horney/p/book/9781138007406"
+  },
+  "horney-basic-conflict": {
+    "title": "Our Inner Conflicts",
+    "author": "Karen Horney",
+    "reference": "Our Inner Conflicts, chapter 2, The Basic Conflict; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Our-Inner-Conflicts-A-Constructive-Theory-of-Neurosis/Horney/p/book/9781138007406"
+  },
+  "horney-self-hate": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 5, Self-Hate and Self-Contempt; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-externalization": {
+    "title": "Our Inner Conflicts",
+    "author": "Karen Horney",
+    "reference": "Our Inner Conflicts, chapter 7, Externalization; Neurosis and Human Growth, chapter 5; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Our-Inner-Conflicts-A-Constructive-Theory-of-Neurosis/Horney/p/book/9781138007406"
+  },
+  "horney-alienation": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 6, Alienation from Self; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-insight": {
+    "title": "Self-Analysis",
+    "author": "Karen Horney",
+    "reference": "Self-Analysis, chapter 10, Dealing with Resistances; Neurosis and Human Growth, chapter 14, The Road of Psychoanalytic Therapy; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Self-Analysis/HorneyKaren/p/book/9780415758130"
+  },
+  "horney-growth": {
+    "title": "Neurosis and Human Growth",
+    "author": "Karen Horney",
+    "reference": "Neurosis and Human Growth, chapter 14, The Road of Psychoanalytic Therapy; chapter 15, Theoretical Considerations; original paraphrase. Publisher edition and contents; interpretive context in Bernard J. Paris’s University of Florida Horney archive.",
+    "url": "https://www.routledge.com/Neurosis-And-Human-Growth-THE-STRUGGLE-TOWARD-SELF-REALIZATION/Karen/p/book/9781138875616"
+  },
+  "horney-context": {
+    "title": "Brief Account of Karen Horney",
+    "author": "Bernard J. Paris",
+    "reference": "University of Florida, International Karen Horney Society archive; Mature Theory and bibliography. Scholarly context for Horney’s historical framework; examples are original illustrations, not clinical cases or quotations.",
+    "url": "https://people.clas.ufl.edu/bjparis/ikhs/horney/"
+  },
+  "fromm-having": {
+    "title": "To Have or To Be?",
+    "author": "Erich Fromm",
+    "reference": "1976, Part I, chapters I–II; Part II, chapters IV–VI. Publisher edition and table of contents.",
+    "url": "https://www.bloomsbury.com/us/to-have-or-to-be-9781780936802/"
+  },
+  "fromm-having-text": {
+    "title": "To Have or To Be?",
+    "author": "Erich Fromm",
+    "reference": "1976, chapters II (Learning; Conversing), IV (Existential Having), V (Activity and Passivity). Original text, archived PDF.",
+    "url": "https://giuseppecapograssi.files.wordpress.com/2013/08/erich-fromm-to-have-or-to-be-1976.pdf"
+  },
+  "fromm-character": {
+    "title": "Man for Himself",
+    "author": "Erich Fromm",
+    "reference": "1947, chapter III, section 2, Character: The Nonproductive Orientations and The Productive Orientation. Original text in Open Road 2013 edition, archived PDF.",
+    "url": "https://www.edarcipelago.com/classici/erichfromm/man%20for%20himself%20-%20erich%20fromm.pdf"
+  },
+  "fromm-market-study": {
+    "title": "Erich Fromm’s Approach to Psychoanalysis",
+    "author": "Rainer Funk",
+    "reference": "Rainer Funk, 1996, discussion of marketing orientation quoting Man for Himself (1947), pp. 68–73. Fromm Archive.",
+    "url": "https://fromm-online.org/wp-content/uploads/FUNK/Funk_R_1996e.pdf"
+  },
+  "fromm-market-context": {
+    "title": "The loss of the self and its compensation",
+    "author": "Rainer Funk",
+    "reference": "Rainer Funk, 2000, discussion of marketing orientation and having; qualification against reading being as mere nonownership.",
+    "url": "https://fromm-online.org/wp-content/uploads/secondary-titles/Funk_R_2000g.pdf"
+  },
+  "fromm-freedom": {
+    "title": "Escape from Freedom",
+    "author": "Erich Fromm",
+    "reference": "1941, chapter II (The Emergence of the Individual and the Ambiguity of Freedom), V (Mechanisms of Escape), VII (Freedom and Democracy). Publisher edition.",
+    "url": "https://us.macmillan.com/books/9780805031492/escapefromfreedom/"
+  },
+  "fromm-freedom-primary": {
+    "title": "Foreword II in Escape from Freedom",
+    "author": "Erich Fromm",
+    "reference": "1965 foreword, pp. XII–XVI; Fromm’s own account of the 1941 book’s argument and continued social context. Literary Estate document.",
+    "url": "https://fromm-online.org/wp-content/uploads/fromm-titles/1965h-eng.pdf"
+  },
+  "fromm-authority": {
+    "title": "The Authoritarian Personality",
+    "author": "Erich Fromm",
+    "reference": "1957 radio lecture; active and passive authoritarianism, symbiosis, and mature independence. Original essay archived by Marxists Internet Archive.",
+    "url": "https://www.marxists.org/archive/fromm/works/1957/authoritarian.htm"
+  },
+  "fromm-love": {
+    "title": "The Art of Loving",
+    "author": "Erich Fromm",
+    "reference": "1956, chapter I (Is Love an Art?), II.1 (Love, the Answer to the Problem of Human Existence), II.3 (Objects of Love), IV (The Practice of Love). Original text, archived PDF.",
+    "url": "https://lohiatoday.com/wp-content/uploads/2018/09/theartofloving.pdf"
+  },
+  "schopenhauer-representation-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book I, §§1–7: subject, object, and the forms of representation"
+  },
+  "schopenhauer-body-two-ways-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book II, §18: the body as representation and as will"
+  },
+  "schopenhauer-will-not-a-plan-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book II, §§19–23 and §29: will beyond knowledge, and endless striving"
+  },
+  "schopenhauer-motive-and-character-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §55: motives, knowledge, character, and necessity"
+  },
+  "schopenhauer-acquired-character-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §55: acquired character and knowledge of one’s individuality"
+  },
+  "schopenhauer-desire-renews-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §§57–58: desire, satisfaction, and renewed striving"
+  },
+  "schopenhauer-boredom-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §57: the movement between pain and boredom"
+  },
+  "schopenhauer-relief-and-pain-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §58: satisfaction as negative and suffering as positive"
+  },
+  "schopenhauer-aesthetic-release-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §§34 and 38: will-less contemplation and aesthetic pleasure"
+  },
+  "schopenhauer-idea-and-individual-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §§30–32, 41 and 49: Ideas, individuals, and concepts"
+  },
+  "schopenhauer-genius-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §§36–37: genius, contemplation, and communicating Ideas"
+  },
+  "schopenhauer-sublime-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §39: beautiful and sublime contemplation"
+  },
+  "schopenhauer-architecture-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §43: gravity and rigidity as architecture’s aesthetic subject"
+  },
+  "schopenhauer-tragedy-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §51: tragedy and conflicts arising from ordinary relationships"
+  },
+  "schopenhauer-music-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book III, §52: music, will, melody, and the movement of desire"
+  },
+  "schopenhauer-egoism-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §§61 and 63: egoism and the principle of individuation"
+  },
+  "schopenhauer-justice-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §§62 and 66: injustice, voluntary justice, and the boundary of willing"
+  },
+  "schopenhauer-compassion-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §§66–67: compassion, justice, and loving-kindness"
+  },
+  "schopenhauer-malice-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §§65–67: wickedness, pleasure in others’ suffering, and compassion"
+  },
+  "schopenhauer-resignation-source": {
+    "title": "The World as Will and Representation, volume I",
+    "author": "Arthur Schopenhauer",
+    "url": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+    "reference": "Book IV, §§68–71: denial of the will, asceticism, and resignation"
+  },
+  "weil-gravity": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“La pesanteur et la grâce”, chapter 1; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/01"
+  },
+  "weil-compensation": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Vide et compensation”, chapter 2; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/02"
+  },
+  "weil-detachment": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Détachement”, chapter 4; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/04"
+  },
+  "weil-imagination": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“L’imagination combleuse”, chapter 5; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/05"
+  },
+  "weil-self": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Le moi”, chapter 8; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/08"
+  },
+  "weil-necessity": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“La nécessité et l’obéissance”, chapter 11; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/11"
+  },
+  "weil-contradiction": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Contradiction”, chapter 21; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/21"
+  },
+  "weil-distance": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“La distance entre le nécessaire et le bien”, chapter 22; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/22"
+  },
+  "weil-reading": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Lectures”, chapter 29; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/29"
+  },
+  "weil-beauty": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Beauté”, chapter 33; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/33"
+  },
+  "weil-school": {
+    "title": "Attente de Dieu",
+    "author": "Simone Weil",
+    "reference": "“Réflexions sur le bon usage des études scolaires en vue de l’Amour de Dieu”; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/Attente_de_Dieu/R%C3%A9flexions_sur_le_bon_usage_des_%C3%A9tudes_scolaires_en_vue_de_l%E2%80%99Amour_de_Dieu"
+  },
+  "weil-affliction": {
+    "title": "Attente de Dieu",
+    "author": "Simone Weil",
+    "reference": "“L’Amour de Dieu et le malheur”; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/Attente_de_Dieu/L%E2%80%99Amour_de_Dieu_et_le_malheur"
+  },
+  "weil-neighbour": {
+    "title": "Attente de Dieu",
+    "author": "Simone Weil",
+    "reference": "“Formes de l’Amour implicite de Dieu”, I, “L’amour du prochain”; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/Attente_de_Dieu/Formes_de_l%E2%80%99Amour_implicite_de_Dieu/01"
+  },
+  "weil-friendship": {
+    "title": "Attente de Dieu",
+    "author": "Simone Weil",
+    "reference": "“Formes de l’Amour implicite de Dieu”, IV, “Amitié”; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/Attente_de_Dieu/Formes_de_l%E2%80%99Amour_implicite_de_Dieu/04"
+  },
+  "weil-roots": {
+    "title": "L’Enracinement",
+    "author": "Simone Weil",
+    "reference": "Part II, opening account of roots and uprooting; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Enracinement/Partie_2"
+  },
+  "weil-work": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Mystique du travail”, chapter 39; compare Réflexions sur les causes de la liberté et de l’oppression sociale (1934); original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/39"
+  },
+  "weil-responsibility": {
+    "title": "L’Enracinement",
+    "author": "Simone Weil",
+    "reference": "Part I, “La Responsabilité”; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Enracinement/Partie_1/04"
+  },
+  "weil-obligation": {
+    "title": "L’Enracinement",
+    "author": "Simone Weil",
+    "reference": "Part I, opening distinction between obligation and rights; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Enracinement/Partie_1"
+  },
+  "weil-force": {
+    "title": "The Iliad, or the Poem of Force",
+    "author": "Simone Weil",
+    "reference": "Opening analysis of force, including the living person made into a thing; written1939–1940, first published1940–1941; Mary McCarthy translation (1945)",
+    "url": "https://theanarchistlibrary.org/library/simone-weil-the-iliad"
+  },
+  "weil-oppression": {
+    "title": "Réflexions sur les causes de la liberté et de l’oppression sociale",
+    "author": "Simone Weil",
+    "reference": "1934 essay, section “Tableau théorique d’une société libre”; relation between thought and action. Original French.",
+    "url": "https://fr.wikisource.org/wiki/Oppression_et_Libert%C3%A9/05/04"
+  },
+  "weil-reading-essay": {
+    "title": "Essay on the Concept of Reading",
+    "author": "Simone Weil",
+    "reference": "1941 essay; interpretation as immediately present in perception. Compare La Pesanteur et la Grâce, “Lectures”. Scholarly contextual guide, §3 Epistemology.",
+    "url": "https://plato.stanford.edu/entries/simone-weil/#Epis"
   }
 }
