@@ -160,3 +160,167 @@ Chosen progression: A glance at a watch arrives with a meaning: boredom. → You
 Still1: The same expression can be read through different backgrounds.
 Still2: A first reading can produce reactions that seem to confirm it.
 Qualification: This does not mean every reading is arbitrary or that genuine hostility must be doubted forever. Evidence, context, and another person’s account can make some interpretations more adequate than others. Weil connects better reading with attention and a loosening of self-centered imagination. In the watch example, you might ask whether they need to leave. The gesture stays visible, but its meaning becomes open to correction. A little distance from the first reading can change the conversation before it hardens around a mistake.
+
+
+# Jiddu Krishnamurti — teaching review
+20 complete cards with an original example per concept; philosophical proposals are attributed rather than offered as validated treatment. All illustrative dialogue is original. Practical knowledge, real danger, and developmental attachment are distinguished where materially relevant.
+
+## krishnamurti-conditioning
+Teaching point: A familiar reaction can speak before you have looked.
+Alternatives: inherited rule sheet answers before a new object is inspected; a dinner-table voice appears inside a present response; a familiar path hides an available side route.
+Chosen progression: A rule learned long ago still sounds like plain common sense. → A new possibility arrives. The old rule answers first. → Notice which voice supplied the judgment. → The inherited answer can sit beside what you are actually seeing.
+Still1: Family, education, and belonging can all shape one immediate reaction.
+Still2: Practical learning can guide action without fixing every inward answer.
+Qualification: This is his philosophical inquiry into psychological freedom, not a claim that we can live without language, practical learning, or every influence of the past. Knowing how to cross a road remains useful. The distinction concerns an inherited answer that prevents a fresh encounter. You may still reject the unfamiliar proposal after considering it. Something changes if the judgment follows attention to the situation instead of arriving as a rule that must be protected before the situation is even heard.
+
+## krishnamurti-comparison
+Teaching point: Another person’s skill can become a verdict about your worth.
+Alternatives: storyteller becomes an inward measuring stick; two useful garments compared beside an unfair self-ranking; speech pauses learned without copying the whole person.
+Chosen progression: A friend tells a story well. You enjoy their skill. → An inward measuring stick turns the difference into a ranking. → The verdict covers your actual difficulty before it is understood. → Set down the ranking. A specific difficulty becomes visible.
+Still1: A practical measurement and a whole-person ranking answer different questions.
+Still2: Learning a pause from someone leaves room for your own voice.
+Qualification: Krishnamurti’s proposal is radical: he asks whether inward life can be observed without comparison at all. It should not be softened into a new contest to become the least competitive person in the room. Nor does it make feedback or skill development pointless. The useful opening is to catch the moment a difference becomes an identity. You can learn from your friend while allowing your own difficulty to show itself. What needs attention is clearer when another person’s brilliance is not being used to erase you.
+
+## krishnamurti-observer
+Teaching point: The voice judging a feeling may be part of the same movement.
+Alternatives: inner supervisor boxed apart then included in a shared field; anger and censor share a notebook of standards; a mirror catches both reaction and its judge.
+Chosen progression: Anger is present: tension, accusation, an urge to answer. → A judging voice claims to stand outside the feeling. → Both anger and the judge belong to this mind’s history. → Include the judging voice in what is being observed.
+Still1: The controller brings remembered standards into the struggle.
+Still2: Seeing anger does not require acting it out.
+Qualification: This is a difficult philosophical claim, not an instruction to act out anger or abandon responsibility. Choosing to stop an argument remains necessary when someone may be harmed. His stronger claim is that complete observation can end the inner division itself; that should be presented as his proposal, not a guaranteed result. The everyday question is already revealing: what happens if the scolding voice also becomes something to notice? The mind has more to see when its self-appointed supervisor is included in the scene.
+
+## krishnamurti-relationship-images
+Teaching point: A remembered portrait can stand between you and someone who is speaking now.
+Alternatives: reciprocal portraits receive the conversation; stored dismissal covers a new request; each defensive reply adds another layer to the old images.
+Chosen progression: Old portraits stand between two people who are meeting now. → Each reply is addressed to the portrait of the other. → The images helped shape the reactions that now seem to confirm them. → Notice the portraits as portraits. Let the actual words arrive.
+Still1: A remembered remark can become a lens over a new question.
+Still2: Remembering harm and treating a portrait as complete are different judgments.
+Qualification: Practical memory and evidence of harmful patterns still matter. His challenge should not be used to ask someone to forget mistreatment, drop needed boundaries, or trust an unsafe person afresh every day. The distinction concerns treating a remembered account as the whole living person. In a safe conversation, you might notice the old portrait and ask what the current question means. Perhaps the familiar pattern returns. Perhaps something has changed. Contact has a chance when the image is visible as an image.
+
+## krishnamurti-psychological-time
+Teaching point: A future ideal can move attention away from the reaction happening now.
+Alternatives: present reaction and future ideal occupy different spaces; a promise covers a still-sharp reply; skill practice kept distinct from psychological postponement.
+Chosen progression: The reaction is happening now. The ideal belongs to an imagined later. → A promise moves your attention into the future picture. → Today’s impatient reply continues while the picture gives relief. → Look at today’s reaction where it actually happens.
+Still1: Learning a language uses chronological time.
+Still2: A plan helps when it keeps the present difficulty in view.
+Qualification: Krishnamurti makes the stronger claim that profound psychological change is not produced by gradual becoming. That is his philosophical position, not a reason to reject therapy, habit change, or sustained support. The accessible distinction is between preparing useful conditions for change and using an imagined future as an escape from the present fact. You can make a plan and still notice the impatient reply. A calmer identity tomorrow cannot listen to the person standing in front of you today.
+
+## krishnamurti-fear-thought
+Teaching point: A remembered hurt can become a feared future before anything happens.
+Alternatives: old speaking mishap projected into a new invitation; calendar stage populated by a remembered disaster; real danger and anticipated scene held apart.
+Chosen progression: A new invitation revives the memory of a difficult talk. → Thought projects the remembered scene into the coming event. → The body prepares for the projected event before it occurs. → Notice the projection. Check what this actual invitation requires.
+Still1: Physical danger needs practical protection.
+Still2: A rehearsal can help without repeatedly staging a catastrophe.
+Qualification: His account makes broad claims about the ending of psychological fear through complete observation. It is not an established clinical explanation of every fear, and real danger needs protection and practical judgment. Preparation for a talk can also be helpful. The distinction is between responding to an actual situation and repeatedly experiencing a projection as though it were happening. Notice the film being made, then look at what this invitation really requires. The memory may inform you without having to play the entire future in advance.
+
+## krishnamurti-desire-image
+Teaching point: An attractive object can become a desired identity.
+Alternatives: fabric sensation gains a self in a future room; new chair pictured as an admired identity; shop window becomes a private stage.
+Chosen progression: You see a jacket and enjoy the fabric. → Thought adds a picture of you wearing it. → Now the object promises admiration and a different self. → See the added image before deciding what you want to buy.
+Still1: Sensation and self-projection are distinguishable moments.
+Still2: A practical need can remain visible beside a psychological promise.
+Qualification: This is Krishnamurti’s account of a psychological movement, not a complete theory of needs or every form of motivation. Hunger and practical requirements deserve their own understanding. He asks whether the image can be seen forming without either indulging it automatically or treating desire as a moral failure. The jacket may still be worth buying. It helps to know what is being purchased: useful cloth, a pleasure in style, or the hope that a new possession will supply a new self.
+
+## krishnamurti-pleasure-memory
+Teaching point: A lovely experience can turn into a demand for its repetition.
+Alternatives: rooftop view preserved then imposed on a later walk; favourite meal demanded to repeat a remembered mood; music monitored against an earlier evening.
+Chosen progression: The evening view is enjoyed as it arrives. → Thought stores the lovely moment. → The next walk is checked against the stored picture. → Let this view arrive without having to repeat the old one.
+Still1: Memory can remain dear without becoming a demand.
+Still2: Monitoring the performance of pleasure can interrupt enjoyment.
+Qualification: Krishnamurti’s inquiry is not a rule against remembering happy times, planning pleasant things, or finding comfort in familiar rituals. He draws a stricter distinction between joy and the pursuit of remembered pleasure. You can test a small part of it on the next walk: notice whether the view is being seen or checked against an old picture. Perhaps the memory remains dear. A new moment can have a shape of its own when it is not being asked to prove that the old one is still available.
+
+## krishnamurti-authority
+Teaching point: Following an answer can spare you from seeing the question for yourself.
+Alternatives: teacher’s answer boxed into a psychological rule then reopened; an old conclusion sits above a new question; expertise and inward obedience held apart.
+Chosen progression: Someone’s confident answer feels safe. → The answer becomes the judge of what you are allowed to see. → Notice the wish to borrow certainty from the speaker. → A teaching can help inquiry while remaining open to question.
+Still1: Practical expertise can inform a decision without ending inward inquiry.
+Still2: An old conclusion can become an internal authority.
+Qualification: His rejection of spiritual authority is central to his teaching, including his refusal to make himself a guru whose conclusions end the reader’s search. It should not be turned into distrust of every expert, or a reason to refuse professional help. The question is whether a claim remains available to examination. You can read him, find something illuminating, and still ask where it fits or fails. An idea helps inquiry when it sharpens what you see, rather than requiring your obedience as proof that you understand.
+
+## krishnamurti-choiceless-awareness
+Teaching point: Approval and condemnation can hide parts of what you are noticing.
+Alternatives: colleague praise exposes envy before a respectability screen covers it; keep and reject stamps edit a field of experience; reaction and its censor inspected together.
+Chosen progression: Praise for someone else brings envy and a wish to hide it. → Condemnation sends the inconvenient feeling offstage. → Observe the envy and the wish to edit the reaction together. → A full view need not become an unkind action.
+Still1: Approval can select a pleasing feeling as surely as condemnation rejects one.
+Still2: Observing an impulse leaves responsibility for its expression intact.
+Qualification: Krishnamurti presents this awareness as a possibility of psychological freedom, not as a standardized exercise that guarantees relief. It should not be used to tell someone to endure danger or suspend practical judgment indefinitely. You can refrain from an unkind action while still noticing the feeling that prompted it. In the office example, generosity may become more honest once envy is visible. The first task is a fuller view of what is happening, including the urge to edit the view.
+
+## krishnamurti-attention
+Teaching point: Attention can include what concentration keeps pushing away.
+Alternatives: birdsong outside a reader’s mental fence; one point of concentration against an inclusive sensory field; resisting sound drawn as an extra layer of work.
+Chosen progression: You read while a bird sings outside. → Concentration fences off the sound as an interruption. → The battle with the bird now occupies part of the reading. → Attention includes the sound and the resistance as part of the scene.
+Still1: A chosen point of focus and an open field are different relations.
+Still2: Quiet conditions can be useful without making every noise an inward enemy.
+Qualification: He is making a philosophical distinction, not proving that every task is improved by attending to every stimulus. Quiet rooms, focused practice, and accommodations can be genuinely useful. The question concerns unnecessary conflict added by the way attention is managed. On the page, the bird may still be audible. Notice the extra irritation that says it should not be. Seeing that resistance as part of the event can be different from spending the whole interval trying to defeat the sound.
+
+## krishnamurti-listening
+Teaching point: You can miss a voice while translating it into your own answer.
+Alternatives: prepared salary objections give way to a report of humiliation; agreement and disagreement act as competing filters; a new detail rewrites the useful reply.
+Chosen progression: A friend begins explaining a difficult choice. → You compose objections while the person is still speaking. → Set down the reply long enough to hear an unexpected detail. → Now an answer can address the situation you actually heard.
+Still1: Agreement and disagreement can both end listening too early.
+Still2: A revealing detail can change the question you need to ask.
+Qualification: This does not require credulity, silence in the face of harm, or abandoning judgment. A claim may be false, and a friend may be overlooking something serious. His question concerns whether judgment has already prevented contact. You can hear the unfinished account and later disagree with it more accurately. Perhaps the issue is not the job but a humiliation they have never described. Listening has taught you something when the answer you prepared no longer fits the situation that arrived.
+
+## krishnamurti-word-fact
+Teaching point: A familiar name can make you stop looking.
+Alternatives: tree label moves aside to reveal a split branch; emotion word contrasted with bodily movement; classification page sits beside a particular irregular leaf.
+Chosen progression: The name arrives quickly. It feels as though the tree is known. → The familiar label can become the end of looking. → Let the name sit nearby. The particular tree becomes visible. → A split branch is something the word did not tell you.
+Still1: The word fear points toward an experience it does not exhaust.
+Still2: A useful label can remain alongside an unclassified detail.
+Qualification: This is not an instruction to abandon language, diagnosis, or botanical knowledge. Names let us learn and ask for needed support. His challenge concerns mistaking the description for complete contact with what is described. Try a small experiment with something familiar: notice one detail that the name does not supply. With an emotion, remain gentle and attend only as far as feels manageable. Understanding can begin where the ordinary label stops being the end of the encounter.
+
+## krishnamurti-belief-security
+Teaching point: A reassuring belief can make questioning feel dangerous.
+Alternatives: a belief drawn as shelter that trembles under a question; group belonging makes a question into disloyalty; evidence distinguished from the comfort of certainty.
+Chosen progression: A conclusion becomes a place where the mind feels protected. → A question about the belief now feels like a threat to shelter. → Notice what the belief supplies besides a claim about truth. → Evidence and reassurance can be examined as different questions.
+Still1: Practical security is a real need, distinct from an inward guarantee.
+Still2: Belonging can make a question feel like disloyalty.
+Qualification: Krishnamurti makes a radical case against psychological dependence on beliefs. That is a philosophical position, not a demonstration that every religious or political commitment is simply fear in disguise. Food, shelter, trustworthy institutions, and practical safety are real needs he distinguishes from inward certainty. The useful opening is to let reassurance and evidence become different questions. You can care about a commitment while noticing when the need to feel protected has started deciding what you are allowed to hear.
+
+## krishnamurti-reaction-freedom
+Teaching point: Rejecting a rule can still leave the rule in charge of your choices.
+Alternatives: plain clothing command determines its own flamboyant opposite; one conformity replaced with a rival group’s pattern; a choice ceases performing for an old authority.
+Chosen progression: The old rule tells you what to wear. → You reverse the rule to prove you are free. → The rejected rule is still the audience for the choice. → Ask what you enjoy now, without needing the old command to watch.
+Still1: One group’s rejected pattern can become another group’s new requirement.
+Still2: External escape can matter while inward reaction remains worth examining.
+Qualification: This should not diminish political resistance, leaving an abusive situation, or winning actual freedoms. Such changes matter even when they begin as reactions. Krishnamurti is asking an additional inward question about what continues to organize the mind. You may still love the bright clothes. Their colour can become your own pleasure rather than a message addressed forever to the people who forbade it. The choice grows more spacious when it can answer to the current life, not only to the old command.
+
+## krishnamurti-violence-ideal
+Teaching point: An ideal of gentleness can hide the sharpness happening today.
+Alternatives: gentle ideal overlays a still-cutting reply; present hostility contrasted with future virtue; a protective boundary remains distinct from an inward ideal.
+Chosen progression: The picture of a gentle self is sincere and appealing. → A cutting reply still enters today’s conversation. → The ideal can cover the satisfaction of wounding someone. → Inspect the actual reply. Gentleness begins with this encounter.
+Still1: An ideal guides attention only when the present fact remains visible.
+Still2: Protective action is needed when hostility becomes harmful.
+Qualification: His claim that seeing what is can transform it immediately is a philosophical challenge, not a guaranteed treatment or an argument against gradual work. Ethical ideals can still help orient action, and protective boundaries are needed when violence occurs. The distinction is between an ideal that guides examination and one that substitutes for it. You can keep caring about gentleness while inspecting the particular satisfaction of the cutting reply. A future virtue has no power to undo a present wound by itself.
+
+## krishnamurti-loneliness
+Teaching point: Filling a quiet interval can postpone seeing why it feels unbearable.
+Alternatives: quiet interval repeatedly filled by video clips; entertainment enjoyed versus recruited as a cover; phone call made after the real need becomes clearer.
+Chosen progression: A quiet evening feels uncomfortable before the next video starts. → Another clip keeps the feeling from arriving clearly. → When the screen stops, the unexamined feeling is still there. → A small pause can clarify whether you want play, company, or help.
+Still1: Company can answer a need more honestly when the need can be named.
+Still2: Enjoying a film differs from asking it to conceal an unbearable feeling.
+Qualification: This must not become an instruction to withhold friendship, endure severe isolation, or refuse needed support. Connection is a real human need, and distress can require help. Krishnamurti’s distinction concerns using another activity or person solely to cover an unexamined feeling. You might notice what the video is doing, then call a friend more honestly or choose the film because you actually want to watch it. A small pause can clarify the need without demanding that you solve loneliness alone.
+
+## krishnamurti-love-attachment
+Teaching point: Affection can carry a demand that someone keep your fear quiet.
+Alternatives: a connecting thread becomes a reassurance contract; person’s independent evening inspected alongside possessive fear; care separated from ownership of another life.
+Chosen progression: You care about the person and want to be close. → Their independent evening unsettles your sense of being needed. → Affection now carries a claim that they must keep your fear quiet. → Notice the claim while leaving room to meet the actual person.
+Still1: A shared bond can remain meaningful without constant proof of possession.
+Still2: Krishnamurti’s philosophical attachment is different from developmental attachment.
+Qualification: Krishnamurti’s distinction is philosophical, and his use of attachment differs from its use in contemporary developmental psychology. Close bonds and mutual reliance should not be treated as failures. Harmful behaviour still needs clear limits. The useful question concerns turning a loved person into a guarantee against fear. You can say you miss them and listen to their evening without making their enjoyment a betrayal. Care becomes easier to recognize when the other person remains someone to encounter, rather than a possession to secure.
+
+## krishnamurti-thought-limits
+Teaching point: Thought works with what it has learned, and that knowledge is partial.
+Alternatives: map boundary contains useful roads but omits a changed bridge; recorded meetings beside a whole living person; knowledge revised by something outside its existing outline.
+Chosen progression: Thought draws on the places and experiences already recorded. → The stored map is useful, but its edge remains. → A new detail does not fit everything the map contains. → Use the account while leaving room for what it cannot yet show.
+Still1: Several meetings offer evidence about a person without exhausting a life.
+Still2: A revised account can become more useful without pretending completeness.
+Qualification: He makes stronger claims about thought’s inability to bring wholeness to inward life. These are his philosophical proposals, not a rejection of careful reasoning or scientific knowledge. The approachable distinction is between a useful account and an account allowed to announce that nothing remains to be seen. In the next meeting, ask what your picture cannot yet know. Perhaps the familiar judgment holds. It can remain open to revision without becoming useless, just as a map remains helpful when you remember it has an edge.
+
+## krishnamurti-inquiry
+Teaching point: An insight belongs to you when you examine the life it points toward.
+Alternatives: underlined explanation tested in an actual encounter; mirror set aside after the life it reveals has been noticed; book’s open question returns to a conversation.
+Chosen progression: An illuminating sentence can feel like possessing an answer. → The explanation points toward a reaction it cannot observe for you. → An actual encounter can test what the idea reveals or leaves out. → Let even a helpful idea remain available to examination.
+Still1: The mirror helps seeing but cannot become the object of the whole inquiry.
+Still2: Questioning an insight can reveal what agreement missed.
+Qualification: His refusal of spiritual authority is part of the substance of his teaching, not simply a modest presentation style. It is reasonable to question whether his own claims achieve what he proposes. These cards can offer examples and distinctions, but they cannot settle that question by sounding certain. The next useful step is small and direct: notice one reaction, ask what the explanation reveals, and also what it leaves out. Learning stays alive when even an illuminating idea is allowed to remain a question.
