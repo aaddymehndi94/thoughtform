@@ -3286,7 +3286,7 @@
                 "type": "text",
                 "text": "You started",
                 "x": 110,
-                "y": 51,
+                "y": 64,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -3295,7 +3295,7 @@
                 "type": "text",
                 "text": "You started",
                 "x": 290,
-                "y": 51,
+                "y": 64,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -3374,7 +3374,7 @@
                 "type": "text",
                 "text": "You started",
                 "x": 110,
-                "y": 51,
+                "y": 64,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -3383,7 +3383,7 @@
                 "type": "text",
                 "text": "You started",
                 "x": 290,
-                "y": 51,
+                "y": 64,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -4151,7 +4151,7 @@
                 "type": "text",
                 "text": "Quiet after 10",
                 "x": 200,
-                "y": 55,
+                "y": 220,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -4823,7 +4823,7 @@
                 "type": "text",
                 "text": "Time",
                 "x": 155,
-                "y": 49,
+                "y": 80,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -4905,7 +4905,7 @@
                 "type": "text",
                 "text": "Time",
                 "x": 155,
-                "y": 49,
+                "y": 80,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -4994,7 +4994,7 @@
                 "type": "text",
                 "text": "Time",
                 "x": 155,
-                "y": 49,
+                "y": 80,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -5090,7 +5090,7 @@
                 "type": "text",
                 "text": "Time",
                 "x": 155,
-                "y": 49,
+                "y": 80,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -6530,7 +6530,7 @@
                 "type": "text",
                 "text": "It brought peace",
                 "x": 200,
-                "y": 56,
+                "y": 215,
                 "anchor": "middle",
                 "fontSize": 18
               }
@@ -6587,18 +6587,11 @@
                 "fontSize": 18
               },
               {
-                "id": "record",
-                "type": "path",
-                "d": "M151 71 h97 v114 h-97 Z",
-                "x": 0,
-                "y": 0
-              },
-              {
                 "id": "memory",
                 "type": "text",
                 "text": "It brought peace",
                 "x": 200,
-                "y": 56,
+                "y": 215,
                 "anchor": "middle",
                 "fontSize": 18
               },
@@ -6671,18 +6664,11 @@
                 "fontSize": 18
               },
               {
-                "id": "record",
-                "type": "path",
-                "d": "M151 71 h97 v114 h-97 Z",
-                "x": 0,
-                "y": 0
-              },
-              {
                 "id": "memory",
                 "type": "text",
                 "text": "Girard’s hypothesis",
                 "x": 200,
-                "y": 37,
+                "y": 215,
                 "anchor": "middle",
                 "fontSize": 18
               },
