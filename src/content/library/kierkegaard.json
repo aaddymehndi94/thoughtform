@@ -3089,15 +3089,15 @@
     "sources": [
       "kierkegaard-infinite-self-source"
     ],
-    "metaphor": "Several possible lives open before a person. Each actual path requires time and limits. Another imagined life postpones the concrete step. A finite step can give possibility a place to become real.",
+    "metaphor": "A person pauses before an unwritten page. Writing, music, and a move promise different lives. Another imagined life postpones the concrete step. A finite step can give possibility a place to become real.",
     "scene": {
       "kind": "notebook",
       "caption": "infinite self",
       "lesson": {
-        "description": "Possibilities can grow so wide that none becomes a life you actually live. Several possible lives open before a person. Each actual path requires time and limits. Another imagined life postpones the concrete step. A finite step can give possibility a place to become real.",
+        "description": "Possibilities can grow so wide that none becomes a life you actually live. A person pauses before an unwritten page. Writing, music, and a move promise different lives. Another imagined life postpones the concrete step. A finite step can give possibility a place to become real.",
         "beats": [
           {
-            "caption": "Several possible lives open before a person.",
+            "caption": "A person pauses before an unwritten page.",
             "duration": 3.8,
             "actors": [
               {
@@ -3157,7 +3157,7 @@
             ]
           },
           {
-            "caption": "Each actual path requires time and limits.",
+            "caption": "Writing, music, and a move promise different lives.",
             "duration": 3.8,
             "actors": [
               {

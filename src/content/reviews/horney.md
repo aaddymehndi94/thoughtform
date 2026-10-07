@@ -32,3 +32,11 @@ For each lesson I considered three approaches: a purely typographic contrast, a 
 Original paraphrases and illustrative dialogue throughout. Detailed references name the primary books and chapters; publisher links identify editions and contents. The shoulds sequence includes a primary chapter PDF. Bernard J. Paris’s University of Florida Horney archive supplies scholarly context. Self-Analysis resistance reference checked against publisher contents: chapter 10 (not 9). Everyday scenes are new illustrations, not Horney’s quoted case histories.
 
 Rendered mobile review is recorded separately under ignored artifacts/expansion-review; source inspection alone is not approval.
+
+## Completed rendered review — 7 October 2026
+
+All twenty Horney lessons were reviewed beat by beat in the actual mobile page, alongside their forty reading drawings and neighboring cards. The demands scene needed its heading moved above the person; the agreement papers needed wider boundaries. Revised captures were inspected again. Each lesson also completed a real-time autoplay cycle at the calm 1.0× baseline.
+
+The integrated release contains 401 cards across fourteen thinkers, including 201 new cards across the ten requested collections. Every new card completed the fixed-build browser review and a real-time autoplay cycle. Captured captions were checked against current source content. Automated mobile checks covered 320, 360, 390, and 430px, three reading paragraphs, two drawings, visible-tap expansion, retained content during collapse, and horizontal overflow. Source-link checks found no missing pages; several publishers and primary archives block automated clients.
+
+Separate reading-flow checks passed for the first-visit guide, manual animation controls, card dragging, remembered reading places, bookmarks, search, playback settings, reduced motion, and recovery after collection or reference loading fails. The author index was also inspected at all four widths. These checks support the editorial review; they do not replace it.
