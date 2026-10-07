@@ -2729,9 +2729,9 @@
               {
                 "id": "story",
                 "type": "text",
-                "x": 304.56,
+                "x": 317,
                 "y": 112,
-                "text": "they are jealous",
+                "text": "they envy me",
                 "anchor": "middle",
                 "fontSize": 18,
                 "tone": "normal"
@@ -2779,9 +2779,9 @@
               {
                 "id": "story",
                 "type": "text",
-                "x": 304.56,
+                "x": 317,
                 "y": 112,
-                "text": "they are jealous",
+                "text": "they envy me",
                 "anchor": "middle",
                 "fontSize": 18,
                 "tone": "normal"
