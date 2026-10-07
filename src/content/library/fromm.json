@@ -2,7 +2,7 @@
   {
     "id": "fromm-piano",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Having and being",
     "concept": "Having and being",
     "title": "The unopened piano",
     "statement": "Owning the instrument and making music are different ways of meeting it.",
@@ -311,7 +311,7 @@
   {
     "id": "fromm-learning",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Having and being",
     "concept": "Learning in the being mode",
     "title": "Let the idea move",
     "statement": "An idea becomes useful when you can work with it beyond the words you memorized.",
@@ -617,7 +617,7 @@
   {
     "id": "fromm-conversation",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Having and being",
     "concept": "Conversing",
     "title": "Leave room for a reply",
     "statement": "A conversation can change you only while your answer is still unfinished.",
@@ -933,7 +933,7 @@
   {
     "id": "fromm-enough",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Having and being",
     "concept": "Existential having",
     "title": "A coat is allowed",
     "statement": "Having what life needs can support being.",
@@ -1206,7 +1206,7 @@
   {
     "id": "fromm-busy",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Having and being",
     "concept": "Activity and passivity",
     "title": "Busy doing whose life?",
     "statement": "Visible busyness can hide a life being directed from elsewhere.",
@@ -1471,7 +1471,7 @@
   {
     "id": "fromm-market",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Character in the marketplace",
     "concept": "Marketing orientation",
     "title": "When the price changes",
     "statement": "A change in demand can feel like a change in who you are.",
@@ -1772,7 +1772,7 @@
   {
     "id": "fromm-receive",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Character in the marketplace",
     "concept": "Receptive orientation",
     "title": "Waiting for the answer",
     "statement": "Help becomes limiting when you assume every good answer must come from someone else.",
@@ -2091,7 +2091,7 @@
   {
     "id": "fromm-take",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Character in the marketplace",
     "concept": "Exploitative orientation",
     "title": "Whose work is that?",
     "statement": "Taking another person’s work can replace the task of developing your own powers.",
@@ -2418,7 +2418,7 @@
   {
     "id": "fromm-keep",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Character in the marketplace",
     "concept": "Hoarding orientation",
     "title": "The locked cupboard",
     "statement": "Keeping can become a way to protect yourself from life’s changes.",
@@ -2713,7 +2713,7 @@
   {
     "id": "fromm-productive",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Character in the marketplace",
     "concept": "Productive orientation",
     "title": "The power you exercise",
     "statement": "Productiveness means bringing your powers into living use.",
@@ -2981,7 +2981,7 @@
   {
     "id": "fromm-freedom",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Freedom and its escapes",
     "concept": "The ambiguity of freedom",
     "title": "The door is open",
     "statement": "Freedom can remove a bond before it gives you a way to belong.",
@@ -3291,7 +3291,7 @@
   {
     "id": "fromm-submit",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Freedom and its escapes",
     "concept": "Authoritarian submission",
     "title": "Borrowed strength",
     "statement": "Joining a powerful figure can make surrender feel like strength.",
@@ -3569,7 +3569,7 @@
   {
     "id": "fromm-dominate",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Freedom and its escapes",
     "concept": "Authoritarian domination",
     "title": "The hand that needs you",
     "statement": "A need to control someone can also be a form of dependence.",
@@ -3885,7 +3885,7 @@
   {
     "id": "fromm-conform",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Freedom and its escapes",
     "concept": "Automaton conformity",
     "title": "Whose opinion arrived?",
     "statement": "An opinion can feel like yours before you notice how it got there.",
@@ -4191,7 +4191,7 @@
   {
     "id": "fromm-spontaneity",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Freedom and its escapes",
     "concept": "Positive freedom",
     "title": "A voice of your own",
     "statement": "Freedom grows when you can act from yourself and remain connected to others.",
@@ -4479,7 +4479,7 @@
   {
     "id": "fromm-love-art",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Love as a practice",
     "concept": "Love as an art",
     "title": "Love needs practice",
     "statement": "The feeling of finding someone and the capacity to love them develop differently.",
@@ -4792,7 +4792,7 @@
   {
     "id": "fromm-care",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Love as a practice",
     "concept": "Care",
     "title": "Does the plant get watered?",
     "statement": "Care becomes visible in what helps another life grow.",
@@ -5092,7 +5092,7 @@
   {
     "id": "fromm-respect",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Love as a practice",
     "concept": "Respect",
     "title": "Let them take the path",
     "statement": "Helping someone grow includes letting their direction differ from yours.",
@@ -5421,7 +5421,7 @@
   {
     "id": "fromm-know",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Love as a practice",
     "concept": "Knowledge in love",
     "title": "Look past the label",
     "statement": "Knowing someone requires letting their experience correct your picture of them.",
@@ -5717,7 +5717,7 @@
   {
     "id": "fromm-self-love",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Love as a practice",
     "concept": "Self-love and selfishness",
     "title": "Include yourself in care",
     "statement": "Care for yourself and care for others can grow from the same capacity.",
@@ -6035,7 +6035,7 @@
   {
     "id": "fromm-attitude",
     "thinker": "fromm",
-    "collection": "Ways of living",
+    "collection": "Love as a practice",
     "concept": "Love as an orientation",
     "title": "Beyond the favourite person",
     "statement": "Loving one person can develop how you meet the wider world.",

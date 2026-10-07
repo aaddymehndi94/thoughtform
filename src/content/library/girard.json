@@ -2,7 +2,7 @@
   {
     "id": "girard-cup",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Learning what to want",
     "concept": "Triangular desire",
     "title": "The cup gets interesting",
     "statement": "Another person can lend an ordinary object its glow.",
@@ -347,7 +347,7 @@
   {
     "id": "girard-distant",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Learning what to want",
     "concept": "External mediation",
     "title": "A model beyond the contest",
     "statement": "You can imitate someone without competing for their place.",
@@ -694,7 +694,7 @@
   {
     "id": "girard-nearby",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Learning what to want",
     "concept": "Internal mediation",
     "title": "When the guide wants your spot",
     "statement": "A model becomes a rival when both reach for the same scarce good.",
@@ -1096,7 +1096,7 @@
   {
     "id": "girard-jacket",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Learning what to want",
     "concept": "Metaphysical desire",
     "title": "You want the ease inside it",
     "statement": "An object can seem to contain another person’s way of being.",
@@ -1409,7 +1409,7 @@
   {
     "id": "girard-door",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Learning what to want",
     "concept": "Model as obstacle",
     "title": "The closed door adds sparkle",
     "statement": "A barrier can intensify desire by seeming to certify the prize.",
@@ -1715,7 +1715,7 @@
   {
     "id": "girard-auction",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Double mediation",
     "title": "Your bid teaches my bid",
     "statement": "Rivals can become each other’s models.",
@@ -2044,7 +2044,7 @@
   {
     "id": "girard-unanswered",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Prestige through indifference",
     "title": "A reply becomes a prize",
     "statement": "Apparent indifference can make someone seem unusually desirable.",
@@ -2319,7 +2319,7 @@
   {
     "id": "girard-chain",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Chains of models",
     "title": "Nobody invented this pedestal",
     "statement": "The person you imitate may be following someone else.",
@@ -2706,7 +2706,7 @@
   {
     "id": "girard-invitation",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Mediated jealousy",
     "title": "The rival enters the room",
     "statement": "A rival’s interest can intensify a desire that seemed settled.",
@@ -3056,7 +3056,7 @@
   {
     "id": "girard-forgotten",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Object displaced by rivalry",
     "title": "The toy is no longer the point",
     "statement": "A contest can outlive interest in the thing that started it.",
@@ -3494,7 +3494,7 @@
   {
     "id": "girard-doubles",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Rivalrous doubles",
     "title": "The enemies start to rhyme",
     "statement": "Intense opponents can become alike in the conduct they condemn.",
@@ -3868,7 +3868,7 @@
   {
     "id": "girard-noise",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "When models become rivals",
     "concept": "Reciprocal retaliation",
     "title": "Payback has a volume knob",
     "statement": "Retaliation can reproduce the disturbance it hopes to end.",
@@ -4233,7 +4233,7 @@
   {
     "id": "girard-crisis",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "How a group finds a target",
     "concept": "Mimetic crisis",
     "title": "The argument fills the meeting",
     "statement": "Conflict can spread until disagreement becomes the group’s shared habit.",
@@ -4733,7 +4733,7 @@
   {
     "id": "girard-target",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "How a group finds a target",
     "concept": "Scapegoat convergence",
     "title": "Many quarrels find one target",
     "statement": "A divided group can bond by directing its hostility toward one person.",
@@ -5257,7 +5257,7 @@
   {
     "id": "girard-vulnerable",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "How a group finds a target",
     "concept": "Victim selection",
     "title": "A weak defense becomes a reason",
     "statement": "Being easy to accuse is different from being responsible.",
@@ -5706,7 +5706,7 @@
   {
     "id": "girard-peace",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "How a group finds a target",
     "concept": "Double transference",
     "title": "The quiet does not prove the story",
     "statement": "Relief after an exclusion can be mistaken for proof that the excluded person caused the crisis.",
@@ -6087,7 +6087,7 @@
   {
     "id": "girard-story",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "How a group finds a target",
     "concept": "Myth and victim perspective",
     "title": "Who gets to tell the ending?",
     "statement": "A persecution story can hide its violence by presenting the victim as the cause of disorder.",
@@ -6384,7 +6384,7 @@
   {
     "id": "girard-repeat",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "How a group finds a target",
     "concept": "Ritual repetition",
     "title": "The group repeats what seemed to work",
     "statement": "A community may repeat an action because it associates that action with restored order.",
@@ -6785,7 +6785,7 @@
   {
     "id": "girard-learn",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Imitation with room to grow",
     "concept": "Cooperative mimesis",
     "title": "Imitation can open a workshop",
     "statement": "Shared desire can spread a skill without creating a contest.",
@@ -7175,7 +7175,7 @@
   {
     "id": "girard-notice",
     "thinker": "girard",
-    "collection": "Desire and rivalry",
+    "collection": "Imitation with room to grow",
     "concept": "Novelistic conversion",
     "title": "The diagram includes you",
     "statement": "The insight deepens when you recognize your own place in the pattern.",

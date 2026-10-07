@@ -2,7 +2,7 @@
   {
     "id": "becker-two-worlds",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "A life that matters",
     "concept": "Symbolic self and body",
     "title": "Big dreams, tired body",
     "statement": "The self that imagines a lasting future lives in a body that needs lunch.",
@@ -279,7 +279,7 @@
   {
     "id": "becker-hidden-fear",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "A life that matters",
     "concept": "Indirect mortality anxiety",
     "title": "The fear behind the task",
     "statement": "A fear about an ending can seek reassurance in a task that seems unrelated.",
@@ -545,7 +545,7 @@
   {
     "id": "becker-hero-system",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "A life that matters",
     "concept": "Cultural hero systems",
     "title": "The club’s little medal",
     "statement": "A culture tells us what makes a life count.",
@@ -848,7 +848,7 @@
   {
     "id": "becker-ordinary-hero",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "A life that matters",
     "concept": "Everyday heroism",
     "title": "An ordinary name",
     "statement": "The wish to matter can live in a quiet, ordinary role.",
@@ -1144,7 +1144,7 @@
   {
     "id": "becker-self-esteem",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "A life that matters",
     "concept": "Cultural self-esteem",
     "title": "Who says you count?",
     "statement": "Feeling valuable often depends on standards you did not invent alone.",
@@ -1442,7 +1442,7 @@
   {
     "id": "becker-armor",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Borrowed protection",
     "concept": "Character armor",
     "title": "The jacket that stiffens",
     "statement": "A familiar way of being can protect you while restricting what you can feel or do.",
@@ -1706,7 +1706,7 @@
   {
     "id": "becker-small-world",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Borrowed protection",
     "concept": "The cost of defense",
     "title": "A smaller room",
     "statement": "Making life perfectly manageable can make it too small to live fully.",
@@ -1958,7 +1958,7 @@
   {
     "id": "becker-leader",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Borrowed protection",
     "concept": "Transference",
     "title": "The person who knows",
     "statement": "A powerful person can become a place to put uncertainty we cannot carry alone.",
@@ -2286,7 +2286,7 @@
   {
     "id": "becker-romance",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Borrowed protection",
     "concept": "The romantic solution",
     "title": "More than a partner",
     "statement": "A partner cannot carry the whole answer to what your life means.",
@@ -2654,7 +2654,7 @@
   {
     "id": "becker-create",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Borrowed protection",
     "concept": "The creative solution",
     "title": "Send the work into the world",
     "statement": "Making something lets your inner life take a form that others can receive.",
@@ -2932,7 +2932,7 @@
   {
     "id": "becker-self-made",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Borrowed protection",
     "concept": "The causa-sui project",
     "title": "The ladder has a ground",
     "statement": "A self-made life still begins with conditions it did not make.",
@@ -3216,7 +3216,7 @@
   {
     "id": "becker-two-fears",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Projects that outlast us",
     "concept": "Fear of life and death",
     "title": "Stay small or step out?",
     "statement": "Protection from life can threaten the life you wanted to protect.",
@@ -3515,7 +3515,7 @@
   {
     "id": "becker-outlasting",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Projects that outlast us",
     "concept": "Symbolic immortality",
     "title": "The name on the bench",
     "statement": "Something can carry your meaning forward without keeping your body alive.",
@@ -3785,7 +3785,7 @@
   {
     "id": "becker-inherit",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Projects that outlast us",
     "concept": "Inherited significance",
     "title": "The story you enter",
     "statement": "A role can make you part of a story that began before you.",
@@ -4045,7 +4045,7 @@
   {
     "id": "becker-conflict",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "Projects that outlast us",
     "concept": "Competing hero systems",
     "title": "Two worlds that count",
     "statement": "Another way of life can feel threatening when your worth depends on yours being the final one.",
@@ -4409,7 +4409,7 @@
   {
     "id": "becker-purity",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "The price of certainty",
     "concept": "Purity and projection",
     "title": "The clean side of the fence",
     "statement": "Trying to put every human flaw outside your group can license harm.",
@@ -4745,7 +4745,7 @@
   {
     "id": "becker-money",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "The price of certainty",
     "concept": "Money and immortality",
     "title": "A number against time",
     "statement": "Money can promise a kind of safety that no balance can finally supply.",
@@ -5020,7 +5020,7 @@
   {
     "id": "becker-sacrifice",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "The price of certainty",
     "concept": "Sacrificial heroism",
     "title": "What the cause asks",
     "statement": "A promised higher meaning can make a terrible cost seem necessary.",
@@ -5300,7 +5300,7 @@
   {
     "id": "becker-psychology",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "The price of certainty",
     "concept": "Limits of psychological explanation",
     "title": "The map is not a promise",
     "statement": "Understanding a defense cannot guarantee a life without vulnerability.",
@@ -5596,7 +5596,7 @@
   {
     "id": "becker-humility",
     "thinker": "becker",
-    "collection": "Lives that matter",
+    "collection": "The price of certainty",
     "concept": "Noncoercive heroism",
     "title": "A greatness that leaves room",
     "statement": "A meaningful life need not make other people carry its proof of greatness.",
