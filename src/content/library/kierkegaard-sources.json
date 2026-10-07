@@ -2,61 +2,121 @@
   "kierkegaard-self-relation-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, A: the self as a relation; SKS 11, 129–130",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, A: the self as a relation; SKS 11, 129–130"
   },
   "kierkegaard-despair-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, A–B: despair as a sickness of the self; SKS 11, 129–145",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, A–B: despair as a sickness of the self; SKS 11, 129–145"
   },
   "kierkegaard-not-willing-self-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, C, B, b: despair not to will to be oneself",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, C, B, b: despair not to will to be oneself"
   },
   "kierkegaard-defiant-self-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, C, B, b, 2: despair to will to be oneself, defiance",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, C, B, b, 2: despair to will to be oneself, defiance"
   },
   "kierkegaard-finite-self-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, C, A, a, 2: despair of finitude",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, C, A, a, 2: despair of finitude"
   },
   "kierkegaard-infinite-self-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, C, A, a, 1: despair of infinitude",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, C, A, a, 1: despair of infinitude; possibility lacking necessity"
   },
   "kierkegaard-unconscious-despair-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, C, B, a: despair unaware of having a self",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, C, B, a: despair unaware of having a self"
   },
   "kierkegaard-received-self-source": {
     "title": "The Sickness Unto Death",
     "author": "Søren Kierkegaard, writing as Anti-Climacus",
-    "reference": "Part I, A; concluding definition of faith; SKS 11, 130",
-    "url": "https://tekster.kb.dk/text/sks-sd-txt-root.pdf"
+    "url": "https://tekster.kb.dk/text/sks-sd-txt-root",
+    "reference": "Part I, A: willing to be oneself and resting transparently in the establishing power; SKS 11, 130"
   },
   "kierkegaard-anxiety-freedom-source": {
     "title": "The Concept of Anxiety",
     "author": "Søren Kierkegaard, writing as Vigilius Haufniensis",
-    "reference": "Chapter I, §5: the dizziness of freedom; SKS 4, 365",
-    "url": "https://tekster.kb.dk/text/sks-ba-txt-root"
+    "url": "https://tekster.kb.dk/text/sks-ba-txt-root",
+    "reference": "Chapter I, §§3 and 5: sympathetic antipathy and the dizziness of freedom; SKS 4, 347–348 and 365"
   },
   "kierkegaard-fear-anxiety-source": {
     "title": "The Concept of Anxiety",
     "author": "Søren Kierkegaard, writing as Vigilius Haufniensis",
-    "reference": "Chapter I, §3: anxiety distinguished from fear; SKS 4, 347–348",
-    "url": "https://tekster.kb.dk/text/sks-ba-txt-root"
+    "url": "https://tekster.kb.dk/text/sks-ba-txt-root",
+    "reference": "Chapter I, §3: anxiety distinguished from fear; SKS 4, 347–348"
+  },
+  "kierkegaard-choose-yourself-source": {
+    "title": "Either/Or, Part II",
+    "author": "Søren Kierkegaard, writing as Judge William",
+    "url": "https://tekster.kb.dk/text/sks-ee2-txt-root",
+    "reference": "“The Balance between the Aesthetic and the Ethical in the Development of the Personality”: ethical choice and choosing oneself"
+  },
+  "kierkegaard-reflection-and-decision-source": {
+    "title": "Concluding Unscientific Postscript",
+    "author": "Søren Kierkegaard, writing as Johannes Climacus",
+    "url": "https://tekster.kb.dk/text/sks-ae-txt-root",
+    "reference": "Part II, Section II, chapter 3: “Actual Subjectivity, Ethical Subjectivity”; discussion of reflection, beginning, and decision"
+  },
+  "kierkegaard-rotation-source": {
+    "title": "Either/Or, Part I",
+    "author": "Søren Kierkegaard, writing as A",
+    "url": "https://tekster.kb.dk/text/sks-ee1-txt-root",
+    "reference": "“The Rotation of Crops”: extensive and intensive rotation, arbitrariness, and the pursuit of interestingness"
+  },
+  "kierkegaard-repetition-source": {
+    "title": "Repetition",
+    "author": "Søren Kierkegaard, writing as Constantin Constantius",
+    "url": "https://tekster.kb.dk/text/sks-g-txt-root",
+    "reference": "Opening distinction, SKS 4, 9–10; the return to Berlin, SKS 4, 26–49"
+  },
+  "kierkegaard-appropriation-source": {
+    "title": "Concluding Unscientific Postscript",
+    "author": "Søren Kierkegaard, writing as Johannes Climacus",
+    "url": "https://tekster.kb.dk/text/sks-ae-txt-root",
+    "reference": "Part II, Section II, chapter 2: subjective truth, inwardness, and appropriation"
+  },
+  "kierkegaard-indirect-communication-source": {
+    "title": "Concluding Unscientific Postscript",
+    "author": "Søren Kierkegaard, signed explanation appended to the Postscript",
+    "url": "https://tekster.kb.dk/text/sks-ae-txt-root",
+    "reference": "“A First and Last Explanation,” signed by Kierkegaard: attribution of claims to the pseudonymous authors; SKS 7, 569 onward"
+  },
+  "kierkegaard-the-public-source": {
+    "title": "Two Ages: A Literary Review",
+    "author": "Søren Kierkegaard",
+    "url": "https://tekster.kb.dk/text/sks-la-txt-root",
+    "reference": "“The Present Age”: leveling and the abstraction of the public"
+  },
+  "kierkegaard-the-neighbor-source": {
+    "title": "Works of Love",
+    "author": "Søren Kierkegaard",
+    "url": "https://tekster.kb.dk/text/sks-kg-txt-root",
+    "reference": "First series, II B: “You Shall Love the Neighbor,” preferential love and Christian neighbor-love"
+  },
+  "kierkegaard-works-of-love-source": {
+    "title": "Works of Love",
+    "author": "Søren Kierkegaard",
+    "url": "https://tekster.kb.dk/text/sks-kg-txt-root",
+    "reference": "First series, I: love’s hidden life and its fruits; SKS 9, 21, distinction between works of kindness and works of love"
+  },
+  "kierkegaard-resignation-and-faith-source": {
+    "title": "Fear and Trembling",
+    "author": "Søren Kierkegaard, writing as Johannes de Silentio",
+    "url": "https://tekster.kb.dk/text/sks-fb-txt-root",
+    "reference": "“Preliminary Expectoration”: the princess, infinite resignation, the knight of faith, and the double movement; SKS 4, 130 onward"
   }
 }
