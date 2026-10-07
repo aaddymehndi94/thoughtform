@@ -66,7 +66,7 @@
             ]
           },
           {
-            "caption": "The lid opens. Someone sits down and begins to play.",
+            "caption": "The lid opens. Someone steps closer and tries a tune.",
             "duration": 3.8,
             "actors": [
               {
@@ -101,6 +101,13 @@
                 "y": 43,
                 "anchor": "middle",
                 "fontSize": 18
+              },
+              {
+                "id": "playing-arm",
+                "type": "path",
+                "d": "M127 127 Q138 142 156 147 L172 147",
+                "x": 0,
+                "y": 0
               }
             ]
           },
@@ -147,6 +154,13 @@
                 "y": 43,
                 "anchor": "middle",
                 "fontSize": 18
+              },
+              {
+                "id": "playing-arm",
+                "type": "path",
+                "d": "M127 127 Q138 142 156 147 L172 147",
+                "x": 0,
+                "y": 0
               }
             ]
           },
@@ -193,6 +207,13 @@
                 "y": 43,
                 "anchor": "middle",
                 "fontSize": 18
+              },
+              {
+                "id": "playing-arm",
+                "type": "path",
+                "d": "M127 127 Q138 142 156 147 L172 147",
+                "x": 0,
+                "y": 0
               }
             ]
           }

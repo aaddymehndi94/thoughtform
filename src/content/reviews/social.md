@@ -253,3 +253,247 @@ Chosen: Attention developed with a beloved is tested at a shop counter where the
 Static purposes: Different degrees of closeness need not assign different human worth.; Respect can remain present alongside a necessary boundary..
 
 Source scope: fromm-love. Everyday scenes are original illustrations, never quotations.
+
+# Social thinkers editorial review
+
+These notes record source and drawing intent. Main integration owns rendered mobile review; these are not claims of visual approval.
+
+## becker-two-worlds: Big dreams, tired body
+
+Teaching point: The self that imagines a lasting future lives in a body that needs lunch.
+
+Approaches considered: a writer’s future book interrupted by lunch; a space mission beside an ordinary bedtime; a name carved in stone beside a changing body.
+
+Chosen: A future-facing manuscript remains while a meal appears beside it, preserving both symbolic ambition and bodily need.
+
+Static purposes: A name can continue on an object while its maker’s body changes.; Large plans are sustained through ordinary bodily provisions..
+
+Source scope: becker-mortality. Everyday scenes are original illustrations, never quotations.
+
+## becker-hidden-fear: The fear behind the task
+
+Teaching point: A fear about an ending can seek reassurance in a task that seems unrelated.
+
+Approaches considered: a funeral flower giving way to an urgent task list; a clock beside an unfinished project; an overflowing inbox after an unsettling event.
+
+Chosen: An unsettling flower gives way to a task list whose completed marks provide visible, limited control.
+
+Static purposes: A deadline supplies an ordinary reason for urgency.; One action can carry practical and emotional purposes together..
+
+Source scope: becker-mortality. Everyday scenes are original illustrations, never quotations.
+
+## becker-hero-system: The club’s little medal
+
+Teaching point: A culture tells us what makes a life count.
+
+Approaches considered: a small service medal becoming a shared story; different public noticeboards honouring different lives; a name added to a club’s continuing record.
+
+Chosen: A service medal originates in a club’s recognition and then connects its recipient to a continuing record.
+
+Static purposes: The same symbol depends on a community’s shared understanding.; Different worlds offer different routes to significance..
+
+Source scope: becker-hero, becker-hero-excerpt. Everyday scenes are original illustrations, never quotations.
+
+## becker-ordinary-hero: An ordinary name
+
+Teaching point: The wish to matter can live in a quiet, ordinary role.
+
+Approaches considered: a breakfast entering a family’s continuing story; an unnoticed repair making a route usable; an ordinary name within a shared record.
+
+Chosen: Breakfast passes to a child and becomes part of a continuing relation; a second bowl preserves the carer’s own needs.
+
+Static purposes: A visible award and a received act carry significance differently.; Depending on a role for all worth can make receiving help difficult..
+
+Source scope: becker-hero, becker-hero-excerpt. Everyday scenes are original illustrations, never quotations.
+
+## becker-self-esteem: Who says you count?
+
+Teaching point: Feeling valuable often depends on standards you did not invent alone.
+
+Approaches considered: a repaired chair moving between two judging rooms; a report card next to a volunteer roster; the same act read through different social measures.
+
+Chosen: A maker and chair remain unchanged while the room’s explicit standard switches from prestige to usefulness.
+
+Static purposes: Institutions supply different measures of success.; A standard can be judged by the lives it helps or harms..
+
+Source scope: becker-hero, becker-transfer. Everyday scenes are original illustrations, never quotations.
+
+## becker-armor: The jacket that stiffens
+
+Teaching point: A familiar way of being can protect you while restricting what you can feel or do.
+
+Approaches considered: a protective jacket becoming stiff; a work badge blocking a request for help; a room’s old doorway too narrow for a new task.
+
+Chosen: A jacket changes from protection into a rigid enclosure before loosening to make room for help.
+
+Static purposes: A boundary can protect a person without requiring invulnerability.; An old role may conflict with a changed need..
+
+Source scope: becker-armor. Everyday scenes are original illustrations, never quotations.
+
+## becker-small-world: A smaller room
+
+Teaching point: Making life perfectly manageable can make it too small to live fully.
+
+Approaches considered: a refuge whose walls move inward; an invitation stopped at a narrow threshold; a protected garden that admits no new growth.
+
+Chosen: A recovery room contracts, then gains one specific opening without losing its remaining walls.
+
+Static purposes: A retreat can restore participation rather than exclude it.; Genuine danger can make distance necessary..
+
+Source scope: becker-armor. Everyday scenes are original illustrations, never quotations.
+
+## becker-leader: The person who knows
+
+Teaching point: A powerful person can become a place to put uncertainty we cannot carry alone.
+
+Approaches considered: a leader drawn larger as worry is transferred; an expert’s real task beside an impossible promise; a group placing question cards beneath one person.
+
+Chosen: A leader grows in apparent scale as the group attaches reassurance, then returns to ordinary scale while the problem remains.
+
+Static purposes: A clinician can help without removing every uncertainty.; Accountability allows trust to remain open to correction..
+
+Source scope: becker-transfer. Everyday scenes are original illustrations, never quotations.
+
+## becker-romance: More than a partner
+
+Teaching point: A partner cannot carry the whole answer to what your life means.
+
+Approaches considered: a partner carrying too many boxes of meaning; a delayed letter shaking a whole personal world; a single chair expected to support an entire room.
+
+Chosen: Boxes of ultimate meaning accumulate above a partner; other commitments enter to reveal a fairer distribution of the burden.
+
+Static purposes: Being tired is a human limit, not a cosmic verdict on a relationship.; A life can hold several serious sources of meaning..
+
+Source scope: becker-love, becker-teaching. Everyday scenes are original illustrations, never quotations.
+
+## becker-create: Send the work into the world
+
+Teaching point: Making something lets your inner life take a form that others can receive.
+
+Approaches considered: a private experience shaped into a page that travels; a bowl revealing a problem during making; a melody received by one listener.
+
+Chosen: A thought gains a page, then the page travels to a reader whose response introduces a meaning outside the maker’s control.
+
+Static purposes: Materials reveal problems that private intention can overlook.; An audience can be small and still be real..
+
+Source scope: becker-create. Everyday scenes are original illustrations, never quotations.
+
+## becker-self-made: The ladder has a ground
+
+Teaching point: A self-made life still begins with conditions it did not make.
+
+Approaches considered: a self-made ladder whose ground reappears; a signature resting on inherited language; a person building with tools already given.
+
+Chosen: A built ladder seems to float before its supporting ground becomes visible again.
+
+Static purposes: Language gives a maker resources acquired from a shared world.; Receiving help can support achievement rather than cancel it..
+
+Source scope: becker-mortality, becker-limits. Everyday scenes are original illustrations, never quotations.
+
+## becker-two-fears: Stay small or step out?
+
+Teaching point: Protection from life can threaten the life you wanted to protect.
+
+Approaches considered: a gathering’s threshold with two visible costs; an unopened workshop invitation; a small stage with a protected place beside it.
+
+Chosen: A visitor moves toward, away from, and finally just through a doorway, revealing costs on both sides.
+
+Static purposes: Rest can be a considered choice when participation is draining.; The risks of entering and the costs of staying differ..
+
+Source scope: becker-armor, becker-transfer. Everyday scenes are original illustrations, never quotations.
+
+## becker-outlasting: The name on the bench
+
+Teaching point: Something can carry your meaning forward without keeping your body alive.
+
+Approaches considered: a named park bench used in a later season; a book received by later readers; a memorial whose lettering slowly wears.
+
+Chosen: A contributed bench gains a name plaque and a later visitor while its material form remains finite.
+
+Static purposes: Preserved work can remain available to new readers.; A worn memorial shows that symbolic continuity is also vulnerable..
+
+Source scope: becker-hero, becker-hero-excerpt. Everyday scenes are original illustrations, never quotations.
+
+## becker-inherit: The story you enter
+
+Teaching point: A role can make you part of a story that began before you.
+
+Approaches considered: a new name added to an old ledger; a craft tool passed between generations; a inherited route receiving one revised turn.
+
+Chosen: An inherited ledger gains a newcomer’s name and then a visible revision beside the old rules.
+
+Static purposes: A tradition may preserve useful knowledge.; A new member remains an agent within a continuing institution..
+
+Source scope: becker-hero, becker-hero-excerpt. Everyday scenes are original illustrations, never quotations.
+
+## becker-conflict: Two worlds that count
+
+Teaching point: Another way of life can feel threatening when your worth depends on yours being the final one.
+
+Approaches considered: competing noticeboards of human worth; two ceremonies honouring different roles; two maps each claiming to contain the whole world.
+
+Chosen: Two boards first hold distinct standards, then an attempt to erase one board reveals the extra demand for exclusive worth.
+
+Static purposes: A practical resource conflict requires its own material explanation.; Understanding another standard does not require agreeing with it..
+
+Source scope: becker-evil, becker-limits. Everyday scenes are original illustrations, never quotations.
+
+## becker-purity: The clean side of the fence
+
+Teaching point: Trying to put every human flaw outside your group can license harm.
+
+Approaches considered: flaws moved across a fence to produce a spotless group; a cleanliness claim concealing internal damage; an accusation replacing a specific record of action.
+
+Chosen: Marks initially appear on both sides of a fence; their relocation exposes the story that all vulnerability belongs outside.
+
+Static purposes: Evidence of a particular act differs from a label attached to a whole people.; Recognising internal failure allows a group to repair something real..
+
+Source scope: becker-evil, becker-evil-text. Everyday scenes are original illustrations, never quotations.
+
+## becker-money: A number against time
+
+Teaching point: Money can promise a kind of safety that no balance can finally supply.
+
+Approaches considered: an expanding balance beside an unchanged body’s meal; a roof repair fund becoming an endless worth scale; coins placed against a clock that keeps moving.
+
+Chosen: An account expands from useful reserve into unlimited promise while a bodily meal remains necessary beside it.
+
+Static purposes: A targeted reserve addresses an identifiable practical risk.; More money can become a moving measure of personal worth..
+
+Source scope: becker-evil, becker-evil-text. Everyday scenes are original illustrations, never quotations.
+
+## becker-sacrifice: What the cause asks
+
+Teaching point: A promised higher meaning can make a terrible cost seem necessary.
+
+Approaches considered: a volunteer shrinking as a cause’s demands grow; a devotion ledger that records only losses; a service table leaving no seat for its helpers.
+
+Chosen: A cause accumulates tokens of the volunteer’s time while the person loses scale, then their living needs return to view.
+
+Static purposes: Real care sometimes requires effort and accepted cost.; A living participant’s limits can count within a worthy cause..
+
+Source scope: becker-hero, becker-evil. Everyday scenes are original illustrations, never quotations.
+
+## becker-psychology: The map is not a promise
+
+Teaching point: Understanding a defense cannot guarantee a life without vulnerability.
+
+Approaches considered: a useful map asked to abolish weather; a explained pattern meeting an actual loss; a diagram that leaves room for grief beside it.
+
+Chosen: A map clarifies a route while a storm appears outside its edge, preserving explanation’s value and limits.
+
+Static purposes: Understanding can enable a specific changed response.; Grief can require care even when its causes are understood..
+
+Source scope: becker-limits. Everyday scenes are original illustrations, never quotations.
+
+## becker-humility: A greatness that leaves room
+
+Teaching point: A meaningful life need not make other people carry its proof of greatness.
+
+Approaches considered: a garden’s maker releasing the need for praise; a bench whose maker permits unplanned uses; a contribution continuing outside its maker’s control.
+
+Chosen: A gardener’s self-frame fades while visitors and additional growth keep their place within the shared garden.
+
+Static purposes: A project can retain a maker’s care while allowing other uses.; Theological hope and psychological technique have different claims..
+
+Source scope: becker-faith, becker-limits. Everyday scenes are original illustrations, never quotations.
