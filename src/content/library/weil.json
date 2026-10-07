@@ -2,7 +2,7 @@
   {
     "id": "weil-attention",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Learning to attend",
     "concept": "Receptive attention",
     "title": "Leave room to see",
     "statement": "A ready answer can get in the way of a real person.",
@@ -387,7 +387,7 @@
   {
     "id": "weil-error",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Learning to attend",
     "concept": "Facing a mistake",
     "title": "Look at the crossed-out line",
     "statement": "A mistake can teach you something your excuses keep hidden.",
@@ -722,7 +722,7 @@
   {
     "id": "weil-neighbour",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Learning to attend",
     "concept": "Attention to another",
     "title": "A person before a case",
     "statement": "Someone in pain needs room to be more than your idea of their pain.",
@@ -1098,7 +1098,7 @@
   {
     "id": "weil-affliction",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Hurt, force, and reaction",
     "concept": "Malheur",
     "title": "When the whole life is struck",
     "statement": "Some suffering damages the place a person has in the world.",
@@ -1484,7 +1484,7 @@
   {
     "id": "weil-force",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Hurt, force, and reaction",
     "concept": "Force and dehumanization",
     "title": "The person becomes a thing",
     "statement": "Force can silence a person before it destroys their body.",
@@ -1857,7 +1857,7 @@
   {
     "id": "weil-gravity",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Hurt, force, and reaction",
     "concept": "Moral gravity",
     "title": "The hurt moves downhill",
     "statement": "A humiliation can become someone else’s burden.",
@@ -2250,7 +2250,7 @@
   {
     "id": "weil-compensation",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Hurt, force, and reaction",
     "concept": "Compensation",
     "title": "Who pays for the bruise?",
     "statement": "Feeling diminished can make you look for someone to diminish.",
@@ -2609,7 +2609,7 @@
   {
     "id": "weil-imagination",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Hurt, force, and reaction",
     "concept": "Imagination as compensation",
     "title": "The convenient story",
     "statement": "A comforting explanation can replace the thing you need to understand.",
@@ -2970,7 +2970,7 @@
   {
     "id": "weil-detachment",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Living with reality",
     "concept": "Detachment",
     "title": "An open hand",
     "statement": "Caring for something need not mean making it yours.",
@@ -3233,7 +3233,7 @@
   {
     "id": "weil-self-centre",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Living with reality",
     "concept": "The imagined centre",
     "title": "Everyone has a centre",
     "statement": "Your place in a scene is not the scene’s only point of view.",
@@ -3595,7 +3595,7 @@
   {
     "id": "weil-necessity",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Living with reality",
     "concept": "Impersonal necessity",
     "title": "The rain does not choose",
     "statement": "What happens to someone does not measure what they deserve.",
@@ -3909,7 +3909,7 @@
   {
     "id": "weil-contradiction",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Living with reality",
     "concept": "Contradiction",
     "title": "Keep both facts visible",
     "statement": "A quick resolution can hide the difficulty you need to face.",
@@ -4296,7 +4296,7 @@
   {
     "id": "weil-beauty",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Living with reality",
     "concept": "Beauty without possession",
     "title": "Let the beautiful thing stay",
     "statement": "Beauty can be loved without being turned into a possession.",
@@ -4620,7 +4620,7 @@
   {
     "id": "weil-friendship",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Friendship, roots, and work",
     "concept": "Friendship and independence",
     "title": "Two chairs, two lives",
     "statement": "Closeness needs room for two separate people.",
@@ -4991,7 +4991,7 @@
   {
     "id": "weil-roots",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Friendship, roots, and work",
     "concept": "Rootedness",
     "title": "A life has several roots",
     "statement": "Belonging grows through participation, memory, and a place in what comes next.",
@@ -5336,7 +5336,7 @@
   {
     "id": "weil-uprooting",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Friendship, roots, and work",
     "concept": "Uprootedness",
     "title": "More than changing address",
     "statement": "A person can lose their place in a community without leaving the room.",
@@ -5663,7 +5663,7 @@
   {
     "id": "weil-work",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Friendship, roots, and work",
     "concept": "Thought and action",
     "title": "Know the work you do",
     "statement": "Obedience is different from understanding how your effort makes something.",
@@ -5991,7 +5991,7 @@
   {
     "id": "weil-responsibility",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Obligation and responsibility",
     "concept": "Need for responsibility",
     "title": "A real part to play",
     "statement": "Being needed means having something that is actually yours to answer for.",
@@ -6386,7 +6386,7 @@
   {
     "id": "weil-obligation",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Obligation and responsibility",
     "concept": "Obligation before rights",
     "title": "The need comes first",
     "statement": "A person’s need does not wait for them to argue their case well.",
@@ -6760,7 +6760,7 @@
   {
     "id": "weil-reading",
     "thinker": "weil",
-    "collection": "Attention and the world",
+    "collection": "Obligation and responsibility",
     "concept": "Reading reality",
     "title": "The meaning on the face",
     "statement": "We often react to the meaning we read into a scene.",

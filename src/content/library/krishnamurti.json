@@ -2,7 +2,7 @@
   {
     "id": "krishnamurti-conditioning",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Conditioning and relationship",
     "concept": "Conditioning",
     "title": "The answer you inherited",
     "statement": "A familiar reaction can speak before you have looked.",
@@ -341,7 +341,7 @@
   {
     "id": "krishnamurti-comparison",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Conditioning and relationship",
     "concept": "Psychological comparison",
     "title": "The invisible measuring stick",
     "statement": "Another person’s skill can become a verdict about your worth.",
@@ -713,7 +713,7 @@
   {
     "id": "krishnamurti-observer",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Conditioning and relationship",
     "concept": "Observer and observed",
     "title": "Who is doing the scolding?",
     "statement": "The voice judging a feeling may be part of the same movement.",
@@ -1021,7 +1021,7 @@
   {
     "id": "krishnamurti-relationship-images",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Conditioning and relationship",
     "concept": "Images in relationship",
     "title": "Meeting yesterday’s person",
     "statement": "A remembered portrait can stand between you and someone who is speaking now.",
@@ -1467,7 +1467,7 @@
   {
     "id": "krishnamurti-psychological-time",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Time, fear, and desire",
     "concept": "Psychological time",
     "title": "Tomorrow I will be different",
     "statement": "A future ideal can move attention away from the reaction happening now.",
@@ -1833,7 +1833,7 @@
   {
     "id": "krishnamurti-fear-thought",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Time, fear, and desire",
     "concept": "Thought and fear",
     "title": "The danger on the screen",
     "statement": "A remembered hurt can become a feared future before anything happens.",
@@ -2217,7 +2217,7 @@
   {
     "id": "krishnamurti-desire-image",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Time, fear, and desire",
     "concept": "The formation of desire",
     "title": "Then you pictured yourself",
     "statement": "An attractive object can become a desired identity.",
@@ -2523,7 +2523,7 @@
   {
     "id": "krishnamurti-pleasure-memory",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Time, fear, and desire",
     "concept": "Pleasure and its continuation",
     "title": "Wanting the moment again",
     "statement": "A lovely experience can turn into a demand for its repetition.",
@@ -2823,7 +2823,7 @@
   {
     "id": "krishnamurti-authority",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Authority and attention",
     "concept": "Psychological authority",
     "title": "Borrowing someone’s certainty",
     "statement": "Following an answer can spare you from seeing the question for yourself.",
@@ -3163,7 +3163,7 @@
   {
     "id": "krishnamurti-choiceless-awareness",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Authority and attention",
     "concept": "Choiceless awareness",
     "title": "Watch the whole reaction",
     "statement": "Approval and condemnation can hide parts of what you are noticing.",
@@ -3531,7 +3531,7 @@
   {
     "id": "krishnamurti-attention",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Authority and attention",
     "concept": "Attention and concentration",
     "title": "The sound outside the fence",
     "statement": "Attention can include what concentration keeps pushing away.",
@@ -3864,7 +3864,7 @@
   {
     "id": "krishnamurti-listening",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Authority and attention",
     "concept": "Listening",
     "title": "Hearing the unfinished sentence",
     "statement": "You can miss a voice while translating it into your own answer.",
@@ -4192,7 +4192,7 @@
   {
     "id": "krishnamurti-word-fact",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Meeting the fact",
     "concept": "Word and fact",
     "title": "The name is not the tree",
     "statement": "A familiar name can make you stop looking.",
@@ -4453,7 +4453,7 @@
   {
     "id": "krishnamurti-belief-security",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Meeting the fact",
     "concept": "Belief and security",
     "title": "The shelter you built",
     "statement": "A reassuring belief can make questioning feel dangerous.",
@@ -4765,7 +4765,7 @@
   {
     "id": "krishnamurti-reaction-freedom",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Meeting the fact",
     "concept": "Freedom and reaction",
     "title": "The opposite can hold you too",
     "statement": "Rejecting a rule can still leave the rule in charge of your choices.",
@@ -5125,7 +5125,7 @@
   {
     "id": "krishnamurti-violence-ideal",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Meeting the fact",
     "concept": "Violence and ideals",
     "title": "The gentle person tomorrow",
     "statement": "An ideal of gentleness can hide the sharpness happening today.",
@@ -5467,7 +5467,7 @@
   {
     "id": "krishnamurti-loneliness",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Love, thought, and inquiry",
     "concept": "Loneliness and escape",
     "title": "The feeling under the noise",
     "statement": "Filling a quiet interval can postpone seeing why it feels unbearable.",
@@ -5805,7 +5805,7 @@
   {
     "id": "krishnamurti-love-attachment",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Love, thought, and inquiry",
     "concept": "Love and possession",
     "title": "The person inside the claim",
     "statement": "Affection can carry a demand that someone keep your fear quiet.",
@@ -6119,7 +6119,7 @@
   {
     "id": "krishnamurti-thought-limits",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Love, thought, and inquiry",
     "concept": "The limits of thought",
     "title": "The map has an edge",
     "statement": "Thought works with what it has learned, and that knowledge is partial.",
@@ -6449,7 +6449,7 @@
   {
     "id": "krishnamurti-inquiry",
     "thinker": "krishnamurti",
-    "collection": "Watching the mind",
+    "collection": "Love, thought, and inquiry",
     "concept": "Inquiry without following",
     "title": "Use the mirror, then look",
     "statement": "An insight belongs to you when you examine the life it points toward.",
