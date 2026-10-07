@@ -437,16 +437,42 @@
             ]
           },
           {
-            "caption": "An observer sees a moving body.",
+            "caption": "An observer sees the same act from outside.",
             "duration": 3.8,
             "actors": [
               {
                 "id": "person",
-                "type": "figure",
+                "type": "group",
                 "x": 102,
                 "y": 145,
-                "facing": false,
-                "tone": "normal"
+                "tone": "normal",
+                "pose": {},
+                "children": [
+                  {
+                    "id": "head",
+                    "type": "path",
+                    "d": "M-8 -43 C-15 -44 -17 -51 -16 -60 Q-16 -73 -5 -74 Q5 -76 9 -66 L13 -60 9 -58 Q11 -47 4 -45 L3 -38 M6 -61 h2",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "body",
+                    "type": "path",
+                    "d": "M-11 -38 Q-20 -31 -15 -6 L-14 9 Q-2 15 9 11 L7 -22 Q10 -31 3 -38 M-14 9 L-16 46 Q-10 51 -7 47 L-3 19 L3 47 Q9 51 11 46 L8 12",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "left-arm",
+                    "type": "path",
+                    "d": "M-13 -33 Q-30 -24 -25 4",
+                    "tone": "normal"
+                  },
+                  {
+                    "id": "right-arm",
+                    "type": "path",
+                    "d": "M7 -33 Q24 -22 48 -23 L49 -16 Q21 -15 9 -20",
+                    "tone": "normal"
+                  }
+                ]
               },
               {
                 "id": "table",
@@ -459,8 +485,8 @@
                 "type": "path",
                 "d": "M-20 -15 H18 V14 Q0 29 -20 14 Z M18 -9 Q40 -9 31 9 H18",
                 "tone": "normal",
-                "x": 234,
-                "y": 141
+                "x": 164,
+                "y": 122
               },
               {
                 "id": "observer",
