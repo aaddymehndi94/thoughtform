@@ -324,3 +324,171 @@ Chosen progression: An illuminating sentence can feel like possessing an answer.
 Still1: The mirror helps seeing but cannot become the object of the whole inquiry.
 Still2: Questioning an insight can reveal what agreement missed.
 Qualification: His refusal of spiritual authority is part of the substance of his teaching, not simply a modest presentation style. It is reasonable to question whether his own claims achieve what he proposes. These cards can offer examples and distinctions, but they cannot settle that question by sounding certain. The next useful step is small and direct: notice one reaction, ask what the explanation reveals, and also what it leaves out. Learning stays alive when even an illuminating idea is allowed to remain a question.
+
+
+# Alan Watts — teaching review
+20 complete cards drawn from primary books and extended lecture transcripts. Watts is an interpreter of Zen, Vedanta and Taoism; his versions are not presented as the single account of those traditions. Metaphysical claims are separated from practical examples and biology. Every dialogue is original.
+
+## watts-insecurity
+Teaching point: The wish for a guarantee can make an uncertain life harder to meet.
+Alternatives: tomorrow’s plan surrounded by expanding checks; tea required to promise permanent satisfaction; practical supports separated from a final guarantee.
+Chosen progression: The plan is sensible. You have prepared what you can. → You check again, asking for a guarantee the plan cannot give. → Each imagined complication becomes another reason to check. → Keep the preparation. Recognize the extra demand for certainty.
+Still1: Food and shelter are practical needs, distinct from a guarantee about all future events.
+Still2: A pleasant moment cannot supply proof that it will last forever.
+Qualification: Watts offers a philosophical response to impermanence, not a treatment that makes anxiety disappear on command. His broad claims deserve judgment, and practical dangers still require action. The everyday distinction is approachable: finish the preparation you can actually use, then notice the request for an impossible promise. Tomorrow can be met through decisions made as circumstances arrive. The present becomes more available when every detail of it is not being sent ahead to certify a future that has yet to happen.
+
+## watts-reversed-effort
+Teaching point: Some processes become harder when you order them to happen.
+Alternatives: clock-watching keeps sleep’s inspector awake; clenched effort adds tension to a process of release; conditions prepared without checking the outcome constantly.
+Chosen progression: You want to sleep and begin checking whether it is happening. → The check keeps an inner inspector on duty. → Frustration recruits more effort into the same inspection. → Conditions can help. Another command need not join the checking.
+Still1: Preparing conditions differs from demanding a state.
+Still2: Skill practice is useful effort; self-inspection can become extra tension.
+Qualification: This is a philosophical image, not medical advice or a claim that all effort is counterproductive. Persistent sleep problems deserve appropriate support, and learning a skill often requires deliberate practice. Watts is interested in effort that has turned against its own purpose. Notice the extra command layered onto the activity: be natural, be calm, stop thinking now. Removing that command does not guarantee a result. It can at least stop making the desired state answerable to a watchful inner inspector.
+
+## watts-planning
+Teaching point: A plan is useful when it brings you back to the life it was made for.
+Alternatives: itinerary remains open after the café has already been reached; map folds away to let the journey happen; future schedule held beside a cup that can be tasted now.
+Chosen progression: The itinerary helps you find the café. → Even after arriving, attention stays on rearranging the plan. → The tea and the street wait while preparation fills the moment. → Fold away the route. Let the experience it served begin.
+Still1: The map serves a journey without containing every part of it.
+Still2: Substantial preparation can still be necessary for access and care.
+Qualification: His account is philosophical rather than a rule to improvise every part of life. Caring responsibilities, budgets, and accessibility needs can require substantial preparation. The distinction concerns the endless promotion of a later moment over this one. You can arrange a workable future and still let the current cup of tea have a taste. Planning has fulfilled part of its purpose when it no longer needs to occupy the whole experience. A future worth preparing is made of moments that eventually ask to be lived.
+
+## watts-symbols
+Teaching point: A description can guide you to an experience without becoming the experience.
+Alternatives: menu and meal occupy different functions; account balance contrasted with actual nourishment; photograph set beside the place it depicts.
+Chosen progression: The menu helps you imagine and choose the meal. → The meal arrives. The description cannot do the tasting. → The symbol points toward something beyond itself. → Set the menu beside the meal. Meet what the words served.
+Still1: Money coordinates exchanges; food provides nourishment.
+Still2: A photograph can remind you of a place without replacing looking at it.
+Qualification: Watts’s examples are philosophical provocations, not a reason to ignore measurement, finances, or language. Those tools help us coordinate a complex world. The useful question is whether the tool can still lead you back to what it represents. Read the menu, choose, then taste. Check the photograph, then look at the place. A symbol has done its job well when it does not need to become the main event forever. You can keep the map and still meet the street it leaves off the page.
+
+## watts-process-self
+Teaching point: Continuity does not require an unchanging thing hidden inside it.
+Alternatives: candle flame retains continuity while its form changes; melody recognizable through passing notes; quiet person’s description expanded by an unexpected action.
+Chosen progression: A candle seems to have one steady flame. → The shape changes while fuel and heat keep moving. → Freeze every exchange and there is no living flame to preserve. → A person can also continue through changing movements of life.
+Still1: A recognizable tune continues through notes that pass.
+Still2: An established description can make room for a new action.
+Qualification: This is a philosophical way of understanding identity, not a scientific proof that personal identity or responsibility disappears. People still make promises, have histories, and bear the effects of their actions. The image can loosen a narrower burden: needing every present feeling to confirm one fixed account of who you are. A shy person can speak boldly without becoming fraudulent. The pattern has acquired another movement. Continuity can be real while leaving room for a life to be more than its most familiar description.
+
+## watts-skin-boundary
+Teaching point: A body’s boundary is also where its exchanges with the world occur.
+Alternatives: air crosses a drawn skin boundary; fish form explained by the surrounding water; boundary retains consent while allowing life’s exchanges.
+Chosen progression: The skin marks a body. It does not make the life self-sufficient. → Air crosses that boundary with each breath. → Food, warmth, and support also belong to the living exchange. → A boundary can be a meeting place rather than an isolating wall.
+Still1: A fish’s form is intelligible in relation to water.
+Still2: Connectedness does not remove consent or personal boundaries.
+Qualification: His further claim that the self is the whole universe belongs to his interpretation of nondual philosophy, not to a biological measurement. Bodily boundaries, personal consent, and individual differences still matter. The useful distinction is between having a boundary and being independently self-sufficient. You can be a particular person while recognizing how much of living happens through relationship. A breath makes the boundary visible as a place of contact, rather than a wall behind which a complete little life operates alone.
+
+## watts-mutual-arising
+Teaching point: Some things make sense through the relationship that brings them together.
+Alternatives: bee visit reveals nourishment and pollen transfer; high and low distinguished through one landscape; classroom roles explained through the shared activity.
+Chosen progression: A bee and flower look like two independent things. → The visit makes part of each activity intelligible through the other. → The relationship helps explain the participants, not only their connection. → Ask what becomes visible only when the relation is drawn.
+Still1: High and low are defined relative to one another.
+Still2: Teacher and learner are roles in a shared activity.
+Qualification: His account is a lively interpretation of Taoism, not a complete description of every species or a proof that all conflict is beneficial. Some flowers use other pollination mechanisms, and actual ecologies require careful study. The useful opening is to ask which relationship makes the activity intelligible. A classroom has learners and a teacher because they are doing something together; neither role is fully explained in isolation. Sometimes drawing only the separate objects leaves the most explanatory part of the scene invisible.
+
+## watts-opposites
+Teaching point: What stands out depends on what it stands out from.
+Alternatives: light figure disappears when its background takes the same tone; musical rhythm depends on an interval of silence; high point understood through the surrounding terrain.
+Chosen progression: A light shape stands out against dark ground. → Remove the difference, and the shape no longer stands out. → Contrast restores the relation that makes the shape visible. → A preferred side can depend on what it seems to exclude.
+Still1: Musical notes need intervals for their rhythm.
+Still2: The figure-ground analogy does not turn moral harm into a necessary background.
+Qualification: This is a philosophical exploration, not a justification for cruelty, injustice, or avoidable pain. Moral harms require practical judgment; they are not made necessary by a drawing’s background. The useful distinction concerns a relationship that an all-or-nothing wish can overlook. Rest can feel different after activity, and a good pause can help speech become audible. Ask what the preferred side depends upon in this particular case. The answer may be subtler than simply demanding more of the thing you like.
+
+## watts-voluntary-involuntary
+Teaching point: You participate in processes you do not wholly supervise.
+Alternatives: breath shifts between automatic and intentional without changing processes; chosen speech supported by an unsupervised body; walk alternates adjustment with an easy rhythm.
+Chosen progression: Breathing happens while your attention is elsewhere. → You notice and deliberately take a slower breath. → Attention moves on, and the same process continues. → Intention participates in a life it does not supervise entirely.
+Still1: Deliberate speech depends on processes outside conscious instruction.
+Still2: Walking alternates between deliberate adjustment and an unspoken rhythm.
+Qualification: Watts makes philosophical use of an everyday fact; he does not thereby prove that every bodily process is under conscious control or that illness can be solved by trust. The useful distinction is between participating and supervising everything. You can take responsibility for an action without pretending to manufacture all the conditions that make it possible. During a walk, movement can alternate between deliberate adjustment and an easy rhythm. Your life is larger than the handful of instructions you can hear yourself giving it.
+
+## watts-control-loop
+Teaching point: Trying to monitor every thought can start an endless checking loop.
+Alternatives: controller inspected by another controller around the original worry; piano feedback corrects a note without grading the whole self; self-surveillance expands into concentric checks.
+Chosen progression: A worry appears. You appoint a controller to stop it. → Now you check whether the controller did its job correctly. → The checking becomes another thing that needs checking. → Notice the extra loop beside the original concern.
+Still1: Useful feedback corrects a particular note.
+Still2: Total surveillance makes the self’s acceptability a continuous task.
+Qualification: This is a philosophical critique of self-division, not a reason to ignore reflection, behavioural safeguards, or professional help. Self-monitoring can be useful in specific contexts. Watts is interested in a loop whose purpose is to make the whole mind safe from itself. In the worry example, notice the extra inspection alongside the original concern. You may have a practical matter to address. It becomes clearer when the supervisor’s performance is not promoted into another emergency that must be solved before anything else can happen.
+
+## watts-double-bind
+Teaching point: A command to be spontaneous gives spontaneity an impossible assignment.
+Alternatives: camera smile commanded to be uncommanded; child ordered to be independent on approved terms; relaxation demanded while the result is graded.
+Chosen progression: The camera asks for a completely natural smile. → The face begins checking whether its smile looks unarranged. → Compliance is required, but compliance seems to spoil the response. → Room for an awkward smile or a real laugh loosens the assignment.
+Still1: An order to feel affection is different from conditions that let affection develop.
+Still2: The social message can demand independence and obedience at once.
+Qualification: His use of the double bind is philosophical and social, not a diagnosis or a complete account of communication difficulties. The useful question is what the request permits. Can you smile awkwardly, decline, or find a reason to laugh? A photographer may create a comfortable setting instead of issuing another command about naturalness. Spontaneous response needs room in which more than one response is possible. The face often becomes easier to inhabit when it is no longer taking an examination in being unexamined.
+
+## watts-work-play
+Teaching point: An activity can be valuable while you are doing it.
+Alternatives: piano practice shifts from external score to the sounding phrase; cooking carries craft within its practical purpose; conversation enjoyed without conversion to a career advantage.
+Chosen progression: Practice may have a goal, but the music is already sounding. → If only the result counts, the present doing becomes preparation. → The same effort can also carry value within the activity. → Playfulness can coexist with care, practice, and skill.
+Still1: Cooking can nourish someone and offer satisfaction in the craft.
+Still2: A conversation can have value beyond gaining an advantage.
+Qualification: His philosophy does not erase economic necessity or make exhausting work enjoyable by declaration. Conditions, pay, and power matter. The distinction asks where an available activity has been reduced to its external result. Perhaps you can hear one phrase before scoring the practice session, or enjoy making the meal while still caring about getting dinner ready. Playfulness can live inside serious effort when the activity is allowed to offer something besides evidence of your eventual success.
+
+## watts-life-journey
+Teaching point: A piece of music is not improved by arriving at its ending sooner.
+Alternatives: musical middle vanishes when only the final chord counts; dance compared with travel to a patch of floor; journey’s purpose kept beside values available along its route.
+Chosen progression: A musical phrase has value through its unfolding. → Make only the last chord matter, and the rest becomes a corridor. → Rush directly to the finish, and most of what you came for vanishes. → Goals have uses. Living also includes the notes along the way.
+Still1: Dancing differs from arriving at a particular patch of floor.
+Still2: A goal can matter without being the only source of value in the interval.
+Qualification: This is an analogy, not a claim that goals, escape from hardship, or long-term effort are mistakes. A difficult period can genuinely call for reaching somewhere safer. Watts’s question concerns making destination the only model of value. Keep the route when you need it, and also ask where the music is. A small conversation, a task done with attention, a shared joke may belong to the living rather than merely to its preparation. The ending will come in time; it does not have to justify every note by itself.
+
+## watts-wu-wei
+Teaching point: Skill can mean finding how a thing moves instead of adding more force.
+Alternatives: key bends under pressure then turns through adjustment; cut follows wood’s grain; skill responds to a mechanism instead of merely overpowering resistance.
+Chosen progression: The key resists. More force is the first response. → Pressure bends the tool while the lock stays closed. → Ease back and feel how this mechanism moves. → Responsive skill turns the lock. The hand is still doing something.
+Still1: The grain of wood gives information about a workable cut.
+Still2: Not forcing differs from doing nothing.
+Qualification: This is one modern interpretation of a rich Chinese philosophical concept, not its only meaning or a universal formula for conflict. People’s wishes cannot be treated like locks to manipulate, and injustice can require determined resistance. The modest teaching point is the difference between effort and unresponsive force. At the stuck door, ease is achieved through understanding, not through wishing that work disappear. The action becomes more skillful when the resistance is allowed to tell you something.
+
+## watts-watercourse
+Teaching point: Changing the route can preserve the movement.
+Alternatives: stream parts around a stone and rejoins below it; meal adapts while retaining nourishment as purpose; route changes around a genuine obstacle.
+Chosen progression: A fixed line meets a real obstacle. → The flow cannot preserve that line through the stone. → Water parts around the obstacle and joins below it. → The purpose can continue through a responsive form.
+Still1: A meal can keep its purpose while adapting to available ingredients.
+Still2: Changing a route need not mean surrendering a purpose.
+Qualification: Water is an image, not moral advice to accommodate every obstacle or submit to whoever holds power. Sometimes a blocked path should be opened, and sometimes a purpose should be reconsidered. Watts’s interpretation gives one useful question: which part of the plan is the purpose, and which part is a chosen route? Revising the route need not betray the purpose. A stream does not lose its movement because it bends. The conditions become something to read, rather than only something to overpower.
+
+## watts-impermanence
+Teaching point: Some things are alive through the changes you cannot preserve.
+Alternatives: one note is framed as permanent then the next restores a phrase; recorded memory distinguished from the original occasion; relationship continues through new responses.
+Chosen progression: A note arrives and begins to fade. → The wish to keep it unchanged puts a frame around a passing event. → The phrase needs that note to pass before another can arrive. → Memory can remain. The living moment continues by changing.
+Still1: A recording preserves an account of sound, not its original living occasion.
+Still2: A relationship remains living through new responses.
+Qualification: Watts gives impermanence a broad philosophical significance. His perspective should not minimize grief or make a person ashamed of wishing someone could stay. Loss may require support and time. The distinction concerns what can actually be kept: care, memory, a practice, a promise, sometimes a recording, but not a living moment stripped of change. You may listen more fully when the note is no longer being asked to prove that it will last. Its passing is part of the form in which it reached you.
+
+## watts-faith-belief
+Teaching point: Trust and certainty can be different ways of meeting what you cannot settle.
+Alternatives: clenched answer opens to an unfamiliar leaf; conversation’s ending is allowed to emerge; evidence retained when it differs from expectation.
+Chosen progression: A belief is held as the answer the world must give. → A new fact threatens the grip that provides reassurance. → Faith, in Watts’s contrast, leaves the hand open to the unknown. → Openness can still judge what arrives. It need not accept everything.
+Still1: A conversation can allow its conclusion to emerge rather than prescribe it.
+Still2: Trust in inquiry does not guarantee the preferred answer.
+Qualification: These are Watts’s chosen uses of the words, not universal definitions or a judgment that every religious believer lacks faith. His reading is one strand of his interpretation of spiritual life. In an everyday inquiry, the difference can be practical: can the evidence change what you expected? A trusted process still needs discernment and limits. The open hand does not have to accept anything offered to it. It simply remains capable of receiving something other than what it arrived clutching.
+
+## watts-sincerity
+Teaching point: You can care deeply while taking your performance of importance lightly.
+Alternatives: musician’s wrong note met with self-importance then humour and correction; careful play builds a small world; sincerity preserved when the heavy face is released.
+Chosen progression: A musician makes a small mistake while caring about the phrase. → A heavy performance of importance adds another task. → A laugh can release the performance while keeping the care. → Correct the note. Sincerity can remain light on its feet.
+Still1: Play can be absorbed, careful, and exact.
+Still2: Humour can target one’s stiffness without targeting another person’s suffering.
+Qualification: His distinction is philosophical and rhetorical, not a demand to smile through hardship or treat other people’s pain as a game. Some occasions call for gravity and restraint. The useful question concerns the added performance of importance: is a heavy manner helping the task, or mainly showing that you deserve to be respected? You can admit a mistake, take it seriously enough to correct it, and still laugh at the awkwardness. Sincerity may be easier to sustain when a little humanity is allowed into the room.
+
+## watts-spotlight
+Teaching point: Focused attention shows something clearly while leaving much else unmarked.
+Alternatives: key search isolated in a narrow beam then restored to a whole room; musical phrase heard beyond naming separate notes; task retained while awareness of surrounding relations widens.
+Chosen progression: Searching makes one patch of the table intensely clear. → The rest of the room becomes unmarked background. → Widen the awareness: light, chair, and sound were also present. → Keep the task precise without making it the whole field.
+Still1: Knowing individual notes differs from hearing the shape of a phrase.
+Still2: Deliberate attention is one activity inside a larger living organization.
+Qualification: His images are philosophical, not a standardized model of attention or a claim that one kind should replace the other. Some activities need a tight focus, and overstimulation can make a quiet environment essential. The distinction invites a small shift when conditions allow: notice the field around the selected object. The key may remain the task, but it need not become the whole room. Attention can be precise while the rest of the scene is permitted to remain part of living experience.
+
+## watts-social-self
+Teaching point: A useful social identity is a small account of a much larger life.
+Alternatives: reliable name tag becomes a border then returns to being an introduction; child learns a conventional story through social response; quiet guest exceeds a familiar description.
+Chosen progression: A social description makes you recognizable to others. → The tag becomes a limit on what you are allowed to feel. → The living person is larger than the account. → The role can remain useful without becoming the whole self.
+Still1: The conventional identity is learned through recognition and response.
+Still2: A quiet guest can speak freely without invalidating a whole history.
+Qualification: His larger account belongs to his interpretation of nondual philosophy, not a reason to dismiss responsibility or declare that identities never matter. Names, histories, and commitments have real consequences. The useful question is whether the description has become too small for the life it serves. A reliable person can need help; a quiet guest can tell a lively story. The tag need not be torn up. It can remain a way to introduce someone without becoming a border beyond which they are forbidden to exist.
+
+Watts source follow-up: verified the complete primary lecture transcripts for Meditation (Essential Lectures 3), Work and Play (7), and Play and Survival. The musical-ending analogy is specifically sourced to Meditation, 04:59–06:11; the voluntary/involuntary breathing distinction to 15:06–17:08. Verified the large Watercourse Way scan by direct download and text extraction: pp. 75–77 distinguish responsive intelligence and active effort from passivity. Browser source checks must use the final source map.
+
+Krishnamurti rendered-review follow-up: moved the psychological-time “impatient now” baseline to 217 so future labels occupy a separate row; reduced the listening interruption to “salary?” at (203,100), preserving the listener’s interruption without crossing the speaker’s sentence. Parent owns the subsequent rendered recapture.
