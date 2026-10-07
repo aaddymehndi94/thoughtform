@@ -35,7 +35,7 @@
               {
                 "id": "plan",
                 "type": "path",
-                "d": "M246 66 h102 v105 h-102 Z M258 86 h78 M258 102 h78 M258 118 h78",
+                "d": "M246 66 h102 v105 h-102 Z M292 146 h44 M292 157 h44",
                 "tone": "normal",
                 "fill": false,
                 "dashed": false
@@ -85,7 +85,7 @@
               {
                 "id": "plan",
                 "type": "path",
-                "d": "M246 66 h102 v105 h-102 Z M258 86 h78 M258 102 h78 M258 118 h78",
+                "d": "M246 66 h102 v105 h-102 Z M292 146 h44 M292 157 h44",
                 "tone": "normal",
                 "fill": false,
                 "dashed": false
@@ -112,8 +112,8 @@
                 "id": "check",
                 "type": "circle",
                 "x": 297,
-                "y": 128,
-                "r": 34,
+                "y": 136,
+                "r": 26,
                 "tone": "normal",
                 "fill": false
               },
@@ -144,7 +144,7 @@
               {
                 "id": "plan",
                 "type": "path",
-                "d": "M246 66 h102 v105 h-102 Z M258 86 h78 M258 102 h78 M258 118 h78",
+                "d": "M246 66 h102 v105 h-102 Z M292 146 h44 M292 157 h44",
                 "tone": "normal",
                 "fill": false,
                 "dashed": false
@@ -171,8 +171,8 @@
                 "id": "check",
                 "type": "circle",
                 "x": 297,
-                "y": 128,
-                "r": 42,
+                "y": 138,
+                "r": 30,
                 "tone": "normal",
                 "fill": false
               },
@@ -211,7 +211,7 @@
               {
                 "id": "plan",
                 "type": "path",
-                "d": "M246 66 h102 v105 h-102 Z M258 86 h78 M258 102 h78 M258 118 h78",
+                "d": "M246 66 h102 v105 h-102 Z M292 146 h44 M292 157 h44",
                 "tone": "normal",
                 "fill": false,
                 "dashed": false
@@ -1021,7 +1021,7 @@
           {
             "id": "schedule",
             "type": "path",
-            "d": "M161 64 h88 v107 h-88 Z M173 84 h64 M173 100 h64 M173 116 h64",
+            "d": "M161 64 h88 v107 h-88 Z",
             "tone": "normal",
             "fill": false,
             "dashed": false
