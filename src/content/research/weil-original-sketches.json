@@ -1,0 +1,2477 @@
+[
+  {
+    "id": "weil-attention",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Receptive attention",
+    "title": "Let the thing appear",
+    "statement": "Attention begins when your expectation stops filling the space.",
+    "explanation": "For Weil, attention is a receptive orientation toward what is real. It differs from forcing a desired answer into view through sheer mental effort.",
+    "nuance": "A listener can be intensely concentrated on preparing a reply and still miss the person speaking. Receptivity concerns what the concentration is for, not how strained it looks.\n\nWeil develops this account in relation to truth, love, and God. Reading it as a technique for becoming more productive strips away that orientation. The unfamiliar thing must remain able to correct the observer.",
+    "sources": [
+      "weil-attention"
+    ],
+    "metaphor": "The observer’s crowded marks fall away; an irregular shape comes into view without being redrawn to fit expectation.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "receptive attention",
+      "variant": "weil-aperture",
+      "composition": {
+        "description": "The observer’s crowded marks fall away; an irregular shape comes into view without being redrawn to fit expectation.",
+        "actors": [
+          {
+            "id": "clutter",
+            "type": "path",
+            "d": "M84 71 L151 110 M103 135 L154 129 M99 177 L149 152",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "opening",
+            "type": "path",
+            "d": "M194 58 Q176 113 194 180 M252 61 Q271 111 252 181",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M208 106 L237 95 L246 131 L219 151 L205 131 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "receive",
+            "type": "text",
+            "x": 208,
+            "y": 213,
+            "text": "let it appear",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "receptive attention",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 1
+    },
+    "related": [
+      "weil-waiting"
+    ]
+  },
+  {
+    "id": "weil-waiting",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Waiting for truth",
+    "title": "The open vessel",
+    "statement": "Waiting can be an active refusal to manufacture an answer.",
+    "explanation": "Weil’s attentive waiting holds thought available to a truth it does not yet possess. It requires readiness and patience, rather than the performance of certainty.",
+    "nuance": "Imagine a problem you can almost solve. Writing down the first plausible result may end the discomfort while leaving the difficulty unseen. An open approach allows the missing relation to become apparent.\n\nWaiting does not mean refusing every search or doing no work. Weil contrasts receptive intellectual effort with the will’s attempt to force an outcome; the discipline is to remain answerable to what the work reveals.",
+    "sources": [
+      "weil-school"
+    ],
+    "metaphor": "An open vessel remains open while a small mark approaches; the opening does not reach out to seize it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "waiting for truth",
+      "variant": "weil-waiting",
+      "composition": {
+        "description": "An open vessel remains open while a small mark approaches; the opening does not reach out to seize it.",
+        "actors": [
+          {
+            "id": "vessel",
+            "type": "path",
+            "d": "M118 101 Q109 171 200 174 Q288 170 282 101",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "mark",
+            "type": "circle",
+            "x": 203,
+            "y": 80,
+            "r": 4,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "y": 46,
+              "delay": 3
+            }
+          },
+          {
+            "id": "wait",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "ready, not forcing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "waiting for truth",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 2
+    },
+    "related": [
+      "weil-school"
+    ]
+  },
+  {
+    "id": "weil-school",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Study and attention",
+    "title": "Beyond the correct answer",
+    "statement": "An exercise can train attention even when its answer remains wrong.",
+    "explanation": "Weil treats schoolwork as a possible preparation for attentive life. Its deeper value is not exhausted by marks, aptitude, or success at a particular subject.",
+    "nuance": "A student who examines an unsuccessful proof honestly may learn more about attention than one who copies a correct conclusion. Weil asks for contact with the difficulty, rather than a reassuring image of intelligence.\n\nHer argument is theological as well as educational: attention is related to prayer. A modern reader can explore the practice without pretending that its original purpose was merely better performance in examinations.",
+    "sources": [
+      "weil-school"
+    ],
+    "metaphor": "A mismatched piece is held beside an opening; careful looking distinguishes the edges rather than forcing a fit.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "study and attention",
+      "variant": "weil-error",
+      "composition": {
+        "description": "A mismatched piece is held beside an opening; careful looking distinguishes the edges rather than forcing a fit.",
+        "actors": [
+          {
+            "id": "opening",
+            "type": "path",
+            "d": "M101 77 L197 76 L196 110 L165 110 L166 143 L197 143 L197 180 L100 179 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "piece",
+            "type": "path",
+            "d": "M247 110 L283 110 L283 148 L247 148 L246 139 L225 139 L226 118 L247 118 Z",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "notice",
+            "type": "path",
+            "d": "M198 110 L219 117 M196 143 L217 139",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "truth",
+            "type": "text",
+            "x": 203,
+            "y": 215,
+            "text": "the mismatch matters",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "study and attention",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 3
+    },
+    "related": [
+      "weil-error"
+    ]
+  },
+  {
+    "id": "weil-error",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Facing a mistake",
+    "title": "Look at the mismatch",
+    "statement": "A mistake can show you something your defence of yourself would conceal.",
+    "explanation": "Weil asks students to look steadily at failed work rather than immediately find excuses. Attention to the actual error is different from judging the entire person who made it.",
+    "nuance": "The mismatched piece does not fit simply because its maker would like it to. Seeing where its edges differ opens the possibility of learning.\n\nThis is not an invitation to humiliation. A patient look at an error must be distinguished from shame that makes further looking impossible. The practice concerns fidelity to what happened; it should not turn a teacher’s judgement into unquestionable truth about a child’s worth.",
+    "sources": [
+      "weil-school"
+    ],
+    "metaphor": "A mismatched piece is held beside an opening; careful looking distinguishes the edges rather than forcing a fit.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "facing a mistake",
+      "variant": "weil-error",
+      "composition": {
+        "description": "A mismatched piece is held beside an opening; careful looking distinguishes the edges rather than forcing a fit.",
+        "actors": [
+          {
+            "id": "opening",
+            "type": "path",
+            "d": "M101 77 L197 76 L196 110 L165 110 L166 143 L197 143 L197 180 L100 179 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "piece",
+            "type": "path",
+            "d": "M247 110 L283 110 L283 148 L247 148 L246 139 L225 139 L226 118 L247 118 Z",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "notice",
+            "type": "path",
+            "d": "M198 110 L219 117 M196 143 L217 139",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "truth",
+            "type": "text",
+            "x": 203,
+            "y": 215,
+            "text": "the mismatch matters",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "facing a mistake",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 4
+    },
+    "related": [
+      "weil-neighbour"
+    ]
+  },
+  {
+    "id": "weil-neighbour",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Attention to another",
+    "title": "At eye level",
+    "statement": "Another person’s suffering is a reality, not a role in your story.",
+    "explanation": "For Weil, love of one’s neighbour requires attention to someone who can be overlooked or reduced to a category. Their life is as real to them as yours is to you.",
+    "nuance": "The person seeking help may not tell a story that flatters the helper. They may be exhausted, incoherent, or unable to offer gratitude. Attention should not depend on their becoming an ideal recipient.\n\nThe shared ground in the drawing matters more than a heroic downward gesture. Practical aid still matters; the distinction concerns whether it reaches a person or mainly sustains the giver’s satisfying picture of themselves.",
+    "sources": [
+      "weil-neighbour"
+    ],
+    "metaphor": "A seated figure and a standing figure are placed on the same ground; attention becomes a connection at eye level.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "attention to another",
+      "variant": "weil-neighbour",
+      "composition": {
+        "description": "A seated figure and a standing figure are placed on the same ground; attention becomes a connection at eye level.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 133,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 279,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M80 182 Q202 178 330 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "equal",
+            "type": "path",
+            "d": "M150 80 Q204 60 260 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "real",
+            "type": "text",
+            "x": 205,
+            "y": 214,
+            "text": "as real as I am",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "attention to another",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 5
+    },
+    "related": [
+      "weil-affliction"
+    ]
+  },
+  {
+    "id": "weil-affliction",
+    "thinker": "weil",
+    "collection": "Affliction",
+    "concept": "Malheur",
+    "title": "More than pain",
+    "statement": "Affliction can damage a person’s place in the human world.",
+    "explanation": "Weil’s malheur is more than ordinary discomfort. It joins bodily suffering with psychological devastation and social degradation, attacking the conditions under which a life feels recognised.",
+    "nuance": "A severe injury can be accompanied by loss of income, status, companionship, and the ability to speak as a person others hear. The suffering becomes difficult to isolate into one manageable problem.\n\nWeil’s descriptions are demanding and theological. They should not become a hierarchy in which only the most extreme pain deserves care, or a claim that suffering is ennobling. The point is to recognise devastation that reassuring advice can fail to reach.",
+    "sources": [
+      "weil-affliction"
+    ],
+    "metaphor": "A descending weight compresses the space around a person; bodily pain and social distance appear together.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "malheur",
+      "variant": "weil-crush",
+      "composition": {
+        "description": "A descending weight compresses the space around a person; bodily pain and social distance appear together.",
+        "actors": [
+          {
+            "id": "weight",
+            "type": "path",
+            "d": "M128 54 L274 54 L274 80 L128 80 Z",
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 201,
+            "y": 144,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "distance",
+            "type": "path",
+            "d": "M77 150 L135 150 M268 150 L324 150",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "compression",
+            "type": "path",
+            "d": "M143 90 L143 180 M257 90 L257 180",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "affliction",
+            "type": "text",
+            "x": 201,
+            "y": 215,
+            "text": "more than pain",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "malheur",
+      "affliction"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "weil-affliction",
+      "order": 1
+    },
+    "related": [
+      "weil-silence"
+    ]
+  },
+  {
+    "id": "weil-silence",
+    "thinker": "weil",
+    "collection": "Affliction",
+    "concept": "Affliction and speech",
+    "title": "The unheard call",
+    "statement": "A person can need to be heard and lack the means to make themselves hearable.",
+    "explanation": "Weil notices how affliction can strip speech of authority. An observer may mistake a sufferer’s inability to explain themselves for the absence of a serious claim.",
+    "nuance": "Institutions often require an orderly account from someone whose life is already disordered. The very damage that makes help necessary can obstruct the performance required to obtain it.\n\nThe call in the drawing fades before reaching its listener. The later connection begins from the listening side. It asks what forms of patience and material support might allow another person to appear without first satisfying our preferred format for deservingness.",
+    "sources": [
+      "weil-affliction"
+    ],
+    "metaphor": "A call leaves a person but loses amplitude before reaching another; a patient line later spans the empty interval.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "affliction and speech",
+      "variant": "weil-silent",
+      "composition": {
+        "description": "A call leaves a person but loses amplitude before reaching another; a patient line later spans the empty interval.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 102,
+            "y": 139,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 300,
+            "y": 139,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "call",
+            "type": "path",
+            "d": "M127 123 Q145 92 160 123 Q174 106 186 123 Q196 117 207 123",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "listen",
+            "type": "path",
+            "d": "M131 152 Q204 164 272 150",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 6
+            }
+          },
+          {
+            "id": "hear",
+            "type": "text",
+            "x": 204,
+            "y": 210,
+            "text": "make room to hear",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 8
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "affliction and speech",
+      "affliction"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-affliction",
+      "order": 2
+    },
+    "related": [
+      "weil-unlucky"
+    ]
+  },
+  {
+    "id": "weil-unlucky",
+    "thinker": "weil",
+    "collection": "Affliction",
+    "concept": "Impersonal necessity",
+    "title": "No moral distribution",
+    "statement": "What happens to a person need not reveal what they deserve.",
+    "explanation": "Weil confronts a world in which necessity and chance do not distribute pain according to merit. Her theology refuses easy identification of worldly success with divine favour.",
+    "nuance": "A storm does not consult the character of the people whose homes it destroys. The same event can strike the generous and the cruel. Explaining the weather does not establish a moral justification for the losses.\n\nIn the drawing, the wind bends the stem without judging it. A reader can understand this distinction without accepting Weil’s theological account of creation. Causation answers how something happened; deservingness is a different claim.",
+    "sources": [
+      "weil-necessity"
+    ],
+    "metaphor": "A rooted stem bends under a force that does not consult it; its direction changes without pretending the force is kind.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "impersonal necessity",
+      "variant": "weil-necessity",
+      "composition": {
+        "description": "A rooted stem bends under a force that does not consult it; its direction changes without pretending the force is kind.",
+        "actors": [
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M83 181 L320 183",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "stem",
+            "type": "path",
+            "d": "M200 180 Q182 133 221 96",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "wind",
+            "type": "path",
+            "d": "M84 88 Q148 64 202 86 M79 115 Q143 95 195 111",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "not-good",
+            "type": "text",
+            "x": 245,
+            "y": 213,
+            "text": "necessary ≠ good",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "impersonal necessity",
+      "affliction"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-affliction",
+      "order": 3
+    },
+    "related": [
+      "weil-gravity"
+    ]
+  },
+  {
+    "id": "weil-gravity",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Moral gravity",
+    "title": "The falling sequence",
+    "statement": "An injury can become the force with which another injury is made.",
+    "explanation": "Weil uses gravity for patterns of psychological necessity: recoil, retaliation, the pursuit of compensation. The metaphor shows how harm may be passed onward almost mechanically.",
+    "nuance": "A person publicly belittled at work may return home and belittle someone with less power. The second act does not repair the first wound; it transfers pressure to another place.\n\nThe model is not a law that determines every sufferer’s behaviour. Its ethical use is to notice a recurrent relation before mistaking retaliation for freedom. A break in the sequence requires more than declaring the original pain unreal.",
+    "sources": [
+      "weil-gravity"
+    ],
+    "metaphor": "A descending sequence carries injury from one position to the next; one upright line delays the fall.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "moral gravity",
+      "variant": "weil-domino",
+      "composition": {
+        "description": "A descending sequence carries injury from one position to the next; one upright line delays the fall.",
+        "actors": [
+          {
+            "id": "first",
+            "type": "path",
+            "d": "M87 111 L122 157 M139 119 L168 159 M192 124 L216 161",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "standing",
+            "type": "path",
+            "d": "M266 90 L266 167",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M72 179 L326 181",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "gravity",
+            "type": "text",
+            "x": 191,
+            "y": 60,
+            "text": "injury passed on",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "pause",
+            "type": "text",
+            "x": 273,
+            "y": 215,
+            "text": "a break in the chain",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "moral gravity",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 1
+    },
+    "related": [
+      "weil-compensation"
+    ]
+  },
+  {
+    "id": "weil-compensation",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Compensation",
+    "title": "Where the weight goes",
+    "statement": "Relief for one person can be purchased with pressure on another.",
+    "explanation": "Weil examines compensation as the attempt to restore an injured sense of power. An apparent balance may be achieved by making someone else carry the loss.",
+    "nuance": "Imagine a supervisor embarrassed by a superior who then demands an unnecessary late shift from the team. The authority regained is real; the burden has changed hands.\n\nCalling the result balanced would conceal the person who now pays. The travelling weight makes that omission visible. This is a structural example, not a claim that all anger is illegitimate or that a person should accept injustice without seeking protection and redress.",
+    "sources": [
+      "weil-compensation"
+    ],
+    "metaphor": "A weight leaves one support only by becoming heavier on another.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "compensation",
+      "variant": "weil-transfer",
+      "composition": {
+        "description": "A weight leaves one support only by becoming heavier on another.",
+        "actors": [
+          {
+            "id": "supports",
+            "type": "path",
+            "d": "M111 85 L111 182 M294 86 L294 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "weight",
+            "type": "path",
+            "d": "M130 108 L164 108 L164 137 L130 137 Z",
+            "motion": {
+              "kind": "travel",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "route",
+            "type": "path",
+            "d": "M168 123 Q215 68 270 123",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "loaded",
+            "type": "path",
+            "d": "M271 144 Q294 161 318 144",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "price",
+            "type": "text",
+            "x": 202,
+            "y": 214,
+            "text": "who bears the weight?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "compensation",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 2
+    },
+    "related": [
+      "weil-void"
+    ]
+  },
+  {
+    "id": "weil-void",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Accepting the void",
+    "title": "The unfilled interval",
+    "statement": "Not every absence should be filled with the first available consolation.",
+    "explanation": "Weil sees how imagination can rush to cover loss or uncertainty. Accepting a void means resisting substitutes that make an experience bearable by falsifying it.",
+    "nuance": "After a rejection, someone might imagine a triumphant future in which the other person finally regrets everything. The story brings temporary relief without changing the encounter that occurred.\n\nWeil’s spiritual account goes much further than this example. It must not be interpreted as denying companionship, treatment, or food to someone in need. The distinction concerns false compensation, not a general obligation to remain deprived.",
+    "sources": [
+      "weil-void"
+    ],
+    "metaphor": "A deliberate gap remains unfilled as convenient substitutes pass around it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "accepting the void",
+      "variant": "weil-void",
+      "composition": {
+        "description": "A deliberate gap remains unfilled as convenient substitutes pass around it.",
+        "actors": [
+          {
+            "id": "edge",
+            "type": "path",
+            "d": "M91 100 Q108 63 160 83 M242 83 Q290 63 309 102 M93 149 Q110 184 161 169 M242 169 Q290 184 308 149",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "substitute",
+            "type": "path",
+            "d": "M186 101 L217 103 L217 133 L184 131 Z",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "gap",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "do not fill too soon",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "accepting the void",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 3
+    },
+    "related": [
+      "weil-imagination"
+    ]
+  },
+  {
+    "id": "weil-imagination",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Imagination as compensation",
+    "title": "The convenient replacement",
+    "statement": "An imagined answer can occupy the place where reality has not answered.",
+    "explanation": "Weil is suspicious of imagination when it compensates for uncertainty or injured self-importance. Its danger is substitution, rather than the mere existence of images or creative thought.",
+    "nuance": "You can rehearse an apology from someone who has never offered it, then respond to the rehearsal as though a relationship has changed. The invented scene fills a real gap.\n\nThe passing shape in the illustration fits the empty space conveniently; that convenience is precisely the question. Art can also sharpen attention to reality. Weil’s criticism should therefore not be flattened into a ban on fiction, metaphor, or imaginative understanding.",
+    "sources": [
+      "weil-imagination"
+    ],
+    "metaphor": "A deliberate gap remains unfilled as convenient substitutes pass around it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "imagination as compensation",
+      "variant": "weil-void",
+      "composition": {
+        "description": "A deliberate gap remains unfilled as convenient substitutes pass around it.",
+        "actors": [
+          {
+            "id": "edge",
+            "type": "path",
+            "d": "M91 100 Q108 63 160 83 M242 83 Q290 63 309 102 M93 149 Q110 184 161 169 M242 169 Q290 184 308 149",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "substitute",
+            "type": "path",
+            "d": "M186 101 L217 103 L217 133 L184 131 Z",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "gap",
+            "type": "text",
+            "x": 201,
+            "y": 210,
+            "text": "do not fill too soon",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "imagination as compensation",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 4
+    },
+    "related": [
+      "weil-grace"
+    ]
+  },
+  {
+    "id": "weil-grace",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Grace",
+    "title": "A break in the fall",
+    "statement": "For Weil, grace is not another name for exceptional willpower.",
+    "explanation": "Grace interrupts the self’s ordinary mechanics in Weil’s religious thought. She understands it as a relation to a good that cannot be manufactured by the ego’s effort to prevail.",
+    "nuance": "The upright line interrupts the fall but does not claim to have made itself invulnerable. The drawing distinguishes interruption from a larger force winning the same contest.\n\nA secular reader may recognise experiences of unexpected generosity, yet that analogy does not exhaust Weil’s theology. Grace is not simply composure, positive thinking, or personal resilience. Its origin and meaning concern what she takes to be beyond the self.",
+    "sources": [
+      "weil-gravity"
+    ],
+    "metaphor": "A descending sequence carries injury from one position to the next; one upright line delays the fall.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "grace",
+      "variant": "weil-domino",
+      "composition": {
+        "description": "A descending sequence carries injury from one position to the next; one upright line delays the fall.",
+        "actors": [
+          {
+            "id": "first",
+            "type": "path",
+            "d": "M87 111 L122 157 M139 119 L168 159 M192 124 L216 161",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "standing",
+            "type": "path",
+            "d": "M266 90 L266 167",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M72 179 L326 181",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "gravity",
+            "type": "text",
+            "x": 191,
+            "y": 60,
+            "text": "injury passed on",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "pause",
+            "type": "text",
+            "x": 273,
+            "y": 215,
+            "text": "a break in the chain",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "grace",
+      "gravity and grace"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 5
+    },
+    "related": [
+      "weil-detachment"
+    ]
+  },
+  {
+    "id": "weil-detachment",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Detachment",
+    "title": "An open hand",
+    "statement": "Detachment changes a relation to something loved; it need not abolish the love.",
+    "explanation": "Weil distinguishes love from the claim to possess what is loved. Detachment challenges the demand that another thing exist on the conditions the self sets for it.",
+    "nuance": "The open hand neither grips the object nor throws it away. Keeping that middle position visible helps distinguish non-possession from indifference.\n\nThink of valuing a friendship while allowing its other participant to have a separate judgement and direction. This example does not settle every obligation within a relationship. Detachment should not become an elegant excuse for neglect, or a command that someone surrender legitimate claims against harm.",
+    "sources": [
+      "weil-detachment"
+    ],
+    "metaphor": "A holding shape opens; the object remains nearby without being enclosed or discarded.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "detachment",
+      "variant": "weil-open-hand",
+      "composition": {
+        "description": "A holding shape opens; the object remains nearby without being enclosed or discarded.",
+        "actors": [
+          {
+            "id": "hand",
+            "type": "path",
+            "d": "M100 156 Q123 182 160 160 L192 131 M159 160 L185 169 L209 143 M185 169 L210 174 L234 147",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 1
+            }
+          },
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M237 96 L270 88 L282 116 L254 132 L231 117 Z",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "relation",
+            "type": "text",
+            "x": 200,
+            "y": 212,
+            "text": "without possession",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "detachment",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 6
+    },
+    "related": [
+      "weil-self-centre"
+    ]
+  },
+  {
+    "id": "weil-self-centre",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "The imagined centre",
+    "title": "Move out of the centre",
+    "statement": "The world does not acquire reality only when it refers to you.",
+    "explanation": "Weil questions the self’s habit of treating its perspective as the centre of things. Moral attention involves allowing what is outside that perspective to become independently real.",
+    "nuance": "A conversation can become a catalogue of what every remark says about your standing. The other person’s experience then appears only as evidence for or against you.\n\nThe central circle moves aside without being destroyed. Losing a monopoly on significance differs from having no significance. This visual distinction helps prevent Weil’s austere language about the ego from being misread as a demand that a vulnerable person stop counting at all.",
+    "sources": [
+      "weil-self"
+    ],
+    "metaphor": "A dominant centre moves aside while other marks become equally visible; the centre is not destroyed.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the imagined centre",
+      "variant": "weil-centre",
+      "composition": {
+        "description": "A dominant centre moves aside while other marks become equally visible; the centre is not destroyed.",
+        "actors": [
+          {
+            "id": "centre",
+            "type": "circle",
+            "x": 190,
+            "y": 119,
+            "r": 25,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": -58
+            }
+          },
+          {
+            "id": "other1",
+            "type": "circle",
+            "x": 261,
+            "y": 93,
+            "r": 12,
+            "tone": "faint"
+          },
+          {
+            "id": "other2",
+            "type": "circle",
+            "x": 262,
+            "y": 149,
+            "r": 12,
+            "tone": "faint"
+          },
+          {
+            "id": "world",
+            "type": "path",
+            "d": "M111 176 Q191 192 291 173",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "no-monopoly",
+            "type": "text",
+            "x": 218,
+            "y": 214,
+            "text": "less of a monopoly",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the imagined centre",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 7
+    },
+    "related": [
+      "weil-decreation"
+    ]
+  },
+  {
+    "id": "weil-decreation",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Decreation",
+    "title": "Make room for what is not you",
+    "statement": "Decreation is a theological undoing of the self’s claim to be the centre.",
+    "explanation": "Weil’s decreation concerns consenting to a relation with God in which the imagined sovereignty of the self recedes. It is not a fashionable synonym for reinvention.",
+    "nuance": "The circle remains while its dominance diminishes. That choice is deliberate: the image must not turn Weil’s language into a spectacle of physical disappearance.\n\nHer account is difficult, and its interpretation is contested. It should be distinguished from self-hatred, self-harm, or acquiescence to someone else’s domination. Those conditions diminish the space for a person to live; this theological idea concerns the ego’s claim to own the source of reality and goodness.",
+    "sources": [
+      "weil-decreation"
+    ],
+    "metaphor": "A dominant centre moves aside while other marks become equally visible; the centre is not destroyed.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "decreation",
+      "variant": "weil-centre",
+      "composition": {
+        "description": "A dominant centre moves aside while other marks become equally visible; the centre is not destroyed.",
+        "actors": [
+          {
+            "id": "centre",
+            "type": "circle",
+            "x": 190,
+            "y": 119,
+            "r": 25,
+            "motion": {
+              "kind": "travel",
+              "duration": 16,
+              "x": -58
+            }
+          },
+          {
+            "id": "other1",
+            "type": "circle",
+            "x": 261,
+            "y": 93,
+            "r": 12,
+            "tone": "faint"
+          },
+          {
+            "id": "other2",
+            "type": "circle",
+            "x": 262,
+            "y": 149,
+            "r": 12,
+            "tone": "faint"
+          },
+          {
+            "id": "world",
+            "type": "path",
+            "d": "M111 176 Q191 192 291 173",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "no-monopoly",
+            "type": "text",
+            "x": 218,
+            "y": 214,
+            "text": "less of a monopoly",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "decreation",
+      "gravity and grace"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 8
+    },
+    "related": [
+      "weil-necessity"
+    ]
+  },
+  {
+    "id": "weil-necessity",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Necessity and consent",
+    "title": "The force that does not ask",
+    "statement": "Accepting that something is necessary does not prove that it is good.",
+    "explanation": "Weil distinguishes the world’s necessary relations from the good. Her religious account of consent does not erase the distance between what happens and what deserves love.",
+    "nuance": "A body needs food whether a person approves of hunger or not. Recognising that necessity gives a reason to provide food, not a reason to regard deprivation as morally right.\n\nThe bending stem makes the force visible; the caption refuses to turn it into praise. Weil’s spiritual vocabulary can be severe, so the distinction matters whenever necessity is invoked to legitimise an institution, an injury, or a demand for obedience.",
+    "sources": [
+      "weil-distance"
+    ],
+    "metaphor": "A rooted stem bends under a force that does not consult it; its direction changes without pretending the force is kind.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "necessity and consent",
+      "variant": "weil-necessity",
+      "composition": {
+        "description": "A rooted stem bends under a force that does not consult it; its direction changes without pretending the force is kind.",
+        "actors": [
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M83 181 L320 183",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "stem",
+            "type": "path",
+            "d": "M200 180 Q182 133 221 96",
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "wind",
+            "type": "path",
+            "d": "M84 88 Q148 64 202 86 M79 115 Q143 95 195 111",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "not-good",
+            "type": "text",
+            "x": 245,
+            "y": 213,
+            "text": "necessary ≠ good",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "necessity and consent",
+      "gravity and grace"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 9
+    },
+    "related": [
+      "weil-contradiction"
+    ]
+  },
+  {
+    "id": "weil-contradiction",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Contradiction",
+    "title": "Hold the gap",
+    "statement": "A premature synthesis can conceal the difficulty it claims to solve.",
+    "explanation": "Weil treats certain contradictions as occasions for attention. Holding incompatible truths can expose the limits of the standpoint from which we are trying to reconcile them.",
+    "nuance": "One account may describe a person’s responsibility; another describes the conditions constraining that person. A quick slogan can silence one side and call the result clarity.\n\nThe separated paths are not joined by an ornamental bridge. The image asks for patient thought, not delight in contradiction for its own sake. Some contradictions result from an error and should be corrected. The work is to discover which difficulty we actually face.",
+    "sources": [
+      "weil-contradiction"
+    ],
+    "metaphor": "Two incompatible paths remain separated; a space is held between them instead of being covered by a false join.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "contradiction",
+      "variant": "weil-contradiction",
+      "composition": {
+        "description": "Two incompatible paths remain separated; a space is held between them instead of being covered by a false join.",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M81 151 Q133 55 185 145",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M217 147 Q272 58 325 149",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "hold",
+            "type": "path",
+            "d": "M174 168 Q203 181 232 169",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "tension",
+            "type": "text",
+            "x": 203,
+            "y": 211,
+            "text": "hold the difficulty",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "contradiction",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 6
+    },
+    "related": [
+      "weil-beauty"
+    ]
+  },
+  {
+    "id": "weil-beauty",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Beauty without possession",
+    "title": "Let it remain",
+    "statement": "Beauty can draw attention without becoming something to consume.",
+    "explanation": "Weil treats beauty as a relation to the order of the world that can interrupt possessive desire. Looking may acknowledge something whose existence is not arranged around us.",
+    "nuance": "The hand stops before enclosing the form. This is not a rule that beautiful things must never be touched or used; it is an image of the desire to make experience answer wholly to ownership.\n\nA landscape can matter without being available as property, a backdrop, or proof of taste. Weil gives this relation a religious dimension. The visual offers one entry into that thought while leaving its larger account of creation open to examination.",
+    "sources": [
+      "weil-beauty"
+    ],
+    "metaphor": "A bounded beautiful form holds the gaze while a grasping line stops short of enclosing it.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "beauty without possession",
+      "variant": "weil-beauty",
+      "composition": {
+        "description": "A bounded beautiful form holds the gaze while a grasping line stops short of enclosing it.",
+        "actors": [
+          {
+            "id": "form",
+            "type": "path",
+            "d": "M183 68 C230 45 277 105 240 145 C208 180 155 124 183 68",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "grasp",
+            "type": "path",
+            "d": "M85 159 L124 134 L154 149 M123 134 L145 117",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 3
+            }
+          },
+          {
+            "id": "gaze",
+            "type": "path",
+            "d": "M95 88 Q130 68 161 87",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "look",
+            "type": "text",
+            "x": 203,
+            "y": 210,
+            "text": "look without consuming",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "beauty without possession",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 7
+    },
+    "related": [
+      "weil-metaxu"
+    ]
+  },
+  {
+    "id": "weil-metaxu",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Metaxu",
+    "title": "The wall that carries a sign",
+    "statement": "What separates can also become a medium of contact.",
+    "explanation": "Weil uses metaxu for intermediaries between us and what cannot be possessed directly. Her image of prisoners communicating through a wall makes separation part of connection.",
+    "nuance": "A letter, a ritual, or a remembered place can mediate a relation without becoming identical with what it connects. The sign matters partly because direct possession is impossible.\n\nThe wall remains solid as small marks pass along it. Removing the barrier would change the relation rather than complete the same drawing. Metaxu is rooted in Weil’s Platonic and religious thought, not merely a recommendation to find convenient communication tools.",
+    "sources": [
+      "weil-metaxu"
+    ],
+    "metaphor": "Two figures separated by a wall communicate through small marks along its surface.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "metaxu",
+      "variant": "weil-metaxu",
+      "composition": {
+        "description": "Two figures separated by a wall communicate through small marks along its surface.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 112,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 287,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "wall",
+            "type": "path",
+            "d": "M197 51 L200 183",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "tap",
+            "type": "path",
+            "d": "M166 109 L185 111 M165 126 L186 125 M214 112 L233 111 M215 126 L232 125",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "bridge",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "the barrier carries a sign",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "metaxu",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 10
+    },
+    "related": [
+      "weil-friendship"
+    ]
+  },
+  {
+    "id": "weil-friendship",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Friendship and independence",
+    "title": "Two separate lives",
+    "statement": "Friendship depends on a relation that leaves the other person free.",
+    "explanation": "Weil’s account of friendship joins attachment with consent to another person’s independence. A friend cannot be valued only as an answer to one’s own necessity.",
+    "nuance": "You may need a friend intensely while that friend needs solitude. If the relationship is made entirely into satisfaction of your need, the other person’s freedom becomes an obstacle.\n\nThe connection between separate figures does not merge them. This does not eliminate obligations, reciprocity, or the pain of absence. It makes the difficulty visible: a genuine relation cannot simply treat one life as material for stabilising the other.",
+    "sources": [
+      "weil-friendship"
+    ],
+    "metaphor": "A seated figure and a standing figure are placed on the same ground; attention becomes a connection at eye level.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "friendship and independence",
+      "variant": "weil-neighbour",
+      "composition": {
+        "description": "A seated figure and a standing figure are placed on the same ground; attention becomes a connection at eye level.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 133,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 279,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M80 182 Q202 178 330 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "equal",
+            "type": "path",
+            "d": "M150 80 Q204 60 260 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "real",
+            "type": "text",
+            "x": 205,
+            "y": 214,
+            "text": "as real as I am",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "friendship and independence",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 8
+    },
+    "related": [
+      "weil-roots"
+    ]
+  },
+  {
+    "id": "weil-roots",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "Rootedness",
+    "title": "Several roots",
+    "statement": "A person needs living connections with a world larger than the present moment.",
+    "explanation": "For Weil, rootedness concerns participation in communities, traditions, places, and a shared future. It is not reducible to one identity or a nostalgic image of the past.",
+    "nuance": "A language, a craft, and a neighbourhood may connect someone to different histories. The roots need not all lead to the same place or tell one uncomplicated story.\n\nThe drawing branches rather than trapping the figure inside a single boundary. Rootedness must be distinguished from exclusion or compulsory loyalty. Weil asks what nourishes a human life; a tradition that destroys its members’ freedom cannot be defended merely by being old.",
+    "sources": [
+      "weil-roots"
+    ],
+    "metaphor": "Several roots connect a person to different places and times; none alone claims the whole person.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "rootedness",
+      "variant": "weil-roots",
+      "composition": {
+        "description": "Several roots connect a person to different places and times; none alone claims the whole person.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 204,
+            "y": 111,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M204 157 Q177 177 144 188 M202 156 L205 198 M205 156 Q241 177 285 188",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "past",
+            "type": "text",
+            "x": 126,
+            "y": 217,
+            "text": "memory",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "future",
+            "type": "text",
+            "x": 287,
+            "y": 217,
+            "text": "a future",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "rootedness",
+      "roots and work"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 1
+    },
+    "related": [
+      "weil-uprooting"
+    ]
+  },
+  {
+    "id": "weil-uprooting",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "Uprootedness",
+    "title": "The severed connection",
+    "statement": "A person can live in a place without participating in its meaning.",
+    "explanation": "Weil identifies uprooting in work, conquest, and social arrangements that sever people from sustaining connections. Material presence alone does not supply belonging.",
+    "nuance": "A worker may inhabit the same town for years while having no voice in the labour that organises the day. Their location is stable, but their relation to the shared world remains thin and imposed.\n\nThe roots show several kinds of connection because no single measure of residence can capture them all. Uprooting also differs from willingly moving or belonging to more than one culture. The question is whether real participation is available.",
+    "sources": [
+      "weil-roots"
+    ],
+    "metaphor": "Several roots connect a person to different places and times; none alone claims the whole person.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "uprootedness",
+      "variant": "weil-roots",
+      "composition": {
+        "description": "Several roots connect a person to different places and times; none alone claims the whole person.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 204,
+            "y": 111,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "roots",
+            "type": "path",
+            "d": "M204 157 Q177 177 144 188 M202 156 L205 198 M205 156 Q241 177 285 188",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "past",
+            "type": "text",
+            "x": 126,
+            "y": 217,
+            "text": "memory",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "future",
+            "type": "text",
+            "x": 287,
+            "y": 217,
+            "text": "a future",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "uprootedness",
+      "roots and work"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 2
+    },
+    "related": [
+      "weil-work"
+    ]
+  },
+  {
+    "id": "weil-work",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "Thought and action",
+    "title": "The severed task",
+    "statement": "Work becomes oppressive when doing is cut off from understanding.",
+    "explanation": "Weil examines labour organised so that one group conceives the method while another merely obeys its movements. The worker’s capacity for thought is made irrelevant to the act.",
+    "nuance": "Imagine assembling a part without knowing what it belongs to, why the method changes, or whom to ask when the instruction fails. The difficulty concerns authority and knowledge, not simply boredom.\n\nThe plan and the task reconnect in the diagram without abolishing every division of labour. A large project still requires coordination. Weil’s question is whether coordination allows the people doing the work to understand and participate, or reduces them to instruments.",
+    "sources": [
+      "weil-work"
+    ],
+    "metaphor": "A plan above a worker remains disconnected from the hand’s task; a joining line makes understanding part of action.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "thought and action",
+      "variant": "weil-work",
+      "composition": {
+        "description": "A plan above a worker remains disconnected from the hand’s task; a joining line makes understanding part of action.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 156,
+            "y": 141,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "plan",
+            "type": "path",
+            "d": "M244 56 L306 55 L306 96 L244 95 Z M259 72 L289 72",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M235 147 L314 147 L314 175 L235 173 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M275 97 Q305 115 275 143",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "unity",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "thinking with doing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "thought and action",
+      "roots and work"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 3
+    },
+    "related": [
+      "weil-responsibility"
+    ]
+  },
+  {
+    "id": "weil-responsibility",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "Need for responsibility",
+    "title": "A real part in the work",
+    "statement": "Being assigned blame is different from being given responsibility.",
+    "explanation": "Weil names initiative and a meaningful share in collective work among the soul’s needs. Obedience without any scope for judgement deprives a person of a real role.",
+    "nuance": "An organisation may hold someone accountable for outcomes while denying them the information or authority to influence them. That arrangement uses the word responsibility while withholding its substance.\n\nThe connecting line joins understanding to action. It asks whether the person can actually respond, not merely be punished after failure. Weil’s political vision contains controversial proposals, but this distinction can be examined in concrete institutions without accepting the entire programme.",
+    "sources": [
+      "weil-responsibility"
+    ],
+    "metaphor": "A plan above a worker remains disconnected from the hand’s task; a joining line makes understanding part of action.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "need for responsibility",
+      "variant": "weil-work",
+      "composition": {
+        "description": "A plan above a worker remains disconnected from the hand’s task; a joining line makes understanding part of action.",
+        "actors": [
+          {
+            "id": "person",
+            "type": "figure",
+            "x": 156,
+            "y": 141,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "plan",
+            "type": "path",
+            "d": "M244 56 L306 55 L306 96 L244 95 Z M259 72 L289 72",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "task",
+            "type": "path",
+            "d": "M235 147 L314 147 L314 175 L235 173 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "link",
+            "type": "path",
+            "d": "M275 97 Q305 115 275 143",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "unity",
+            "type": "text",
+            "x": 204,
+            "y": 213,
+            "text": "thinking with doing",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "need for responsibility",
+      "roots and work"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 4
+    },
+    "related": [
+      "weil-obligation"
+    ]
+  },
+  {
+    "id": "weil-obligation",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "Obligation before rights",
+    "title": "Before the claim is heard",
+    "statement": "A need can place a demand on us before its bearer can successfully assert a right.",
+    "explanation": "Weil gives obligation priority over rights in her late political thought. Someone’s claim on care does not originate only when they possess the power to demand recognition.",
+    "nuance": "A hungry child need not argue a case before hunger becomes a reason to provide food. The need exists before its successful presentation in the language of entitlement.\n\nThis does not mean legal rights are dispensable. Critics rightly ask how obligations can be secured without them. The card isolates Weil’s ethical reversal: begin with what another person needs, rather than with the strength of their position in a contest of claims.",
+    "sources": [
+      "weil-obligation"
+    ],
+    "metaphor": "A seated figure and a standing figure are placed on the same ground; attention becomes a connection at eye level.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "obligation before rights",
+      "variant": "weil-neighbour",
+      "composition": {
+        "description": "A seated figure and a standing figure are placed on the same ground; attention becomes a connection at eye level.",
+        "actors": [
+          {
+            "id": "one",
+            "type": "figure",
+            "x": 133,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "two",
+            "type": "figure",
+            "x": 279,
+            "y": 133,
+            "motion": {
+              "kind": "drift",
+              "duration": 12,
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "id": "ground",
+            "type": "path",
+            "d": "M80 182 Q202 178 330 182",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "equal",
+            "type": "path",
+            "d": "M150 80 Q204 60 260 81",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "real",
+            "type": "text",
+            "x": 205,
+            "y": 214,
+            "text": "as real as I am",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "obligation before rights",
+      "roots and work"
+    ],
+    "depth": 3,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 5
+    },
+    "related": [
+      "weil-risk-security"
+    ]
+  },
+  {
+    "id": "weil-risk-security",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "Security and risk",
+    "title": "Both kinds of need",
+    "statement": "A life can be damaged by constant danger, and narrowed by eliminating every risk.",
+    "explanation": "Weil lists security and risk as distinct human needs. Their coexistence resists an arrangement in which one word is allowed to settle every question about a good life.",
+    "nuance": "A workplace should protect people from preventable injury. It need not remove every possibility of initiative, uncertainty, or learning. The two judgements concern different kinds of exposure.\n\nThe paths remain apart because calling them both risk would obscure the distinction. A voluntary challenge differs from danger imposed on someone with little power to refuse. Weil’s paired needs invite attention to that context rather than a general celebration of insecurity.",
+    "sources": [
+      "weil-security"
+    ],
+    "metaphor": "Two incompatible paths remain separated; a space is held between them instead of being covered by a false join.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "security and risk",
+      "variant": "weil-contradiction",
+      "composition": {
+        "description": "Two incompatible paths remain separated; a space is held between them instead of being covered by a false join.",
+        "actors": [
+          {
+            "id": "left",
+            "type": "path",
+            "d": "M81 151 Q133 55 185 145",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "right",
+            "type": "path",
+            "d": "M217 147 Q272 58 325 149",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 2
+            }
+          },
+          {
+            "id": "hold",
+            "type": "path",
+            "d": "M174 168 Q203 181 232 169",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "tension",
+            "type": "text",
+            "x": 203,
+            "y": 211,
+            "text": "hold the difficulty",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "security and risk",
+      "roots and work"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 6
+    },
+    "related": [
+      "weil-collective"
+    ]
+  },
+  {
+    "id": "weil-collective",
+    "thinker": "weil",
+    "collection": "Roots and work",
+    "concept": "The great beast",
+    "title": "The enlarged voice",
+    "statement": "Belonging can make a collective’s judgement feel larger than truth.",
+    "explanation": "Weil warns against collective prestige that absorbs independent attention. A group can become an object of devotion whose success appears to justify its claims.",
+    "nuance": "In a room full of agreement, a person may begin treating a factual objection as disloyalty. What matters is no longer whether the claim is right, but whether repeating it confirms membership.\n\nThe larger outline swells while a small mark remains outside. Weil’s suspicion should not erase the real value of cooperation or community. It asks what makes a collective available to criticism, especially when belonging supplies the energy for ignoring what it does.",
+    "sources": [
+      "weil-collective"
+    ],
+    "metaphor": "A large collective outline swells around smaller marks until one distinct mark steps out of its measure.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "the great beast",
+      "variant": "weil-collective",
+      "composition": {
+        "description": "A large collective outline swells around smaller marks until one distinct mark steps out of its measure.",
+        "actors": [
+          {
+            "id": "mass",
+            "type": "path",
+            "d": "M94 69 Q198 19 304 71 L296 172 Q202 202 104 173 Z",
+            "motion": {
+              "kind": "stretch",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M128 102 L128 144 M169 102 L169 144 M210 102 L210 144 M251 102 L251 144",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "outside",
+            "type": "path",
+            "d": "M320 107 L320 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "x": 200,
+            "y": 216,
+            "text": "what can still be questioned?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "the great beast",
+      "roots and work"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-roots-and-work",
+      "order": 7
+    },
+    "related": [
+      "weil-idolatry"
+    ]
+  },
+  {
+    "id": "weil-idolatry",
+    "thinker": "weil",
+    "collection": "Gravity and grace",
+    "concept": "Idolatry",
+    "title": "The substitute absolute",
+    "statement": "A finite thing can be asked to carry an unlimited claim.",
+    "explanation": "Weil calls into question the substitutes that occupy the place of the absolute: power, collective prestige, or a comforting image of God. Their apparent certainty can obstruct attention.",
+    "nuance": "A cause may deserve commitment while remaining capable of error. Treating every criticism as sacrilege changes that commitment into something that cannot learn.\n\nThe enlarged outline makes the substitution visible: the finite object begins filling the whole field. Weil’s critique is religious, including suspicion of religious consolation itself. It is not merely a way to accuse other people of worshipping the wrong thing while leaving one’s own certainties untouched.",
+    "sources": [
+      "weil-idolatry"
+    ],
+    "metaphor": "A large collective outline swells around smaller marks until one distinct mark steps out of its measure.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "idolatry",
+      "variant": "weil-collective",
+      "composition": {
+        "description": "A large collective outline swells around smaller marks until one distinct mark steps out of its measure.",
+        "actors": [
+          {
+            "id": "mass",
+            "type": "path",
+            "d": "M94 69 Q198 19 304 71 L296 172 Q202 202 104 173 Z",
+            "motion": {
+              "kind": "stretch",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "marks",
+            "type": "path",
+            "d": "M128 102 L128 144 M169 102 L169 144 M210 102 L210 144 M251 102 L251 144",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "outside",
+            "type": "path",
+            "d": "M320 107 L320 153",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 5
+            }
+          },
+          {
+            "id": "question",
+            "type": "text",
+            "x": 200,
+            "y": 216,
+            "text": "what can still be questioned?",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "idolatry",
+      "gravity and grace"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-gravity-and-grace",
+      "order": 11
+    },
+    "related": [
+      "weil-reading"
+    ]
+  },
+  {
+    "id": "weil-reading",
+    "thinker": "weil",
+    "collection": "Attention",
+    "concept": "Reading reality",
+    "title": "The meaning laid over the world",
+    "statement": "What you perceive can arrive already organised by what you expect it to mean.",
+    "explanation": "Weil’s notion of reading concerns the meanings we immediately encounter in appearances. An expression or uniform can seem to present kindness, threat, or authority before conscious judgement begins.",
+    "nuance": "Two observers may see the same gesture as welcome or contempt. The difference is not just a later opinion attached to neutral sensation; it shapes what each feels they have seen.\n\nThe aperture allows the object to resist the marks already surrounding it. Attention does not promise a view from nowhere. It asks whether our reading can be corrected by reality and by the person whose act we are so quickly certain we understand.",
+    "sources": [
+      "weil-reading"
+    ],
+    "metaphor": "The observer’s crowded marks fall away; an irregular shape comes into view without being redrawn to fit expectation.",
+    "scene": {
+      "kind": "notebook",
+      "caption": "reading reality",
+      "variant": "weil-aperture",
+      "composition": {
+        "description": "The observer’s crowded marks fall away; an irregular shape comes into view without being redrawn to fit expectation.",
+        "actors": [
+          {
+            "id": "clutter",
+            "type": "path",
+            "d": "M84 71 L151 110 M103 135 L154 129 M99 177 L149 152",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            },
+            "tone": "faint"
+          },
+          {
+            "id": "opening",
+            "type": "path",
+            "d": "M194 58 Q176 113 194 180 M252 61 Q271 111 252 181",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 0
+            }
+          },
+          {
+            "id": "object",
+            "type": "path",
+            "d": "M208 106 L237 95 L246 131 L219 151 L205 131 Z",
+            "motion": {
+              "kind": "draw",
+              "duration": 12,
+              "delay": 4
+            }
+          },
+          {
+            "id": "receive",
+            "type": "text",
+            "x": 208,
+            "y": 213,
+            "text": "let it appear",
+            "motion": {
+              "kind": "reveal",
+              "duration": 12,
+              "delay": 7
+            }
+          }
+        ]
+      }
+    },
+    "tags": [
+      "reading reality",
+      "attention"
+    ],
+    "depth": 2,
+    "sequence": {
+      "id": "weil-attention",
+      "order": 9
+    },
+    "related": [
+      "weil-attention"
+    ]
+  }
+]

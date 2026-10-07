@@ -1,4 +1,10 @@
 {
+  "weil-attention": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“L’attention et la volonté”, chapter 26; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/26"
+  },
   "weil-gravity": {
     "title": "La Pesanteur et la Grâce",
     "author": "Simone Weil",
@@ -10,6 +16,12 @@
     "author": "Simone Weil",
     "reference": "“Vide et compensation”, chapter 2; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
     "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/02"
+  },
+  "weil-void": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Accepter le vide”, chapter 3; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/03"
   },
   "weil-detachment": {
     "title": "La Pesanteur et la Grâce",
@@ -29,11 +41,23 @@
     "reference": "“Le moi”, chapter 8; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
     "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/08"
   },
+  "weil-decreation": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Décréation”, chapter 9; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/09"
+  },
   "weil-necessity": {
     "title": "La Pesanteur et la Grâce",
     "author": "Simone Weil",
     "reference": "“La nécessité et l’obéissance”, chapter 11; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
     "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/11"
+  },
+  "weil-idolatry": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Idôlatrie”, chapter 13; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/13"
   },
   "weil-contradiction": {
     "title": "La Pesanteur et la Grâce",
@@ -53,11 +77,23 @@
     "reference": "“Lectures”, chapter 29; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
     "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/29"
   },
+  "weil-metaxu": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Metaxu”, chapter 32; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/32"
+  },
   "weil-beauty": {
     "title": "La Pesanteur et la Grâce",
     "author": "Simone Weil",
     "reference": "“Beauté”, chapter 33; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
     "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/33"
+  },
+  "weil-collective": {
+    "title": "La Pesanteur et la Grâce",
+    "author": "Simone Weil",
+    "reference": "“Le gros animal”, chapter 36; original French, Plon 1948; posthumous notebook selection arranged by Gustave Thibon, not a finished systematic treatise",
+    "url": "https://fr.wikisource.org/wiki/La_Pesanteur_et_la_Gr%C3%A2ce/36"
   },
   "weil-school": {
     "title": "Attente de Dieu",
@@ -107,22 +143,10 @@
     "reference": "Part I, opening distinction between obligation and rights; original French; no quotations from later English translations",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Enracinement/Partie_1"
   },
-  "weil-force": {
-    "title": "The Iliad, or the Poem of Force",
+  "weil-security": {
+    "title": "L’Enracinement",
     "author": "Simone Weil",
-    "reference": "Opening analysis of force, including the living person made into a thing; written1939–1940, first published1940–1941; Mary McCarthy translation (1945)",
-    "url": "https://theanarchistlibrary.org/library/simone-weil-the-iliad"
-  },
-  "weil-oppression": {
-    "title": "Réflexions sur les causes de la liberté et de l’oppression sociale",
-    "author": "Simone Weil",
-    "reference": "1934 essay, section “Tableau théorique d’une société libre”; relation between thought and action. Original French.",
-    "url": "https://fr.wikisource.org/wiki/Oppression_et_Libert%C3%A9/05/04"
-  },
-  "weil-reading-essay": {
-    "title": "Essay on the Concept of Reading",
-    "author": "Simone Weil",
-    "reference": "1941 essay; interpretation as immediately present in perception. Compare La Pesanteur et la Grâce, “Lectures”. Scholarly contextual guide, §3 Epistemology.",
-    "url": "https://plato.stanford.edu/entries/simone-weil/#Epis"
+    "reference": "Part I, “La Sécurité” and “Le Risque”; original French; no quotations from later English translations",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Enracinement/Partie_1/10"
   }
 }
